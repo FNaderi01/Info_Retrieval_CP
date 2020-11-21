@@ -1,0 +1,173 @@
+			毎日放送(MBS)
+					情報・報道
+					バラエティ
+					ドラマ
+					アニメ
+					スポーツ
+					音楽
+					CM企画
+					アナウンサー
+					グッズ
+					ショッピング
+					映画
+					イベント
+					ニュース
+					お天気
+					SNS
+					MBSラジオ
+					English
+	function adremovetimer(targettime,targetid){
+		var endDate = new Date(targettime)
+		var today = new Date();
+		if(today > endDate) {
+			var dom = document.getElementById(targetid);
+			if (dom) {
+				dom.parentNode.removeChild(dom);
+			}
+		}
+	}
+	adremovetimer("2018/08/30 18:00:00","adFull")
+				番組表
+				情報・報道
+				バラエティ
+				ドラマ
+				アニメ
+				スポーツ
+				音楽
+					アナウンサー
+					グッズ
+					ショッピング
+					映画
+					イベント
+					オンデマンド
+					ニュース
+					SNS
+					ラジオ
+					CM企画
+	ロノー先生の悪魔な神授業
+-->
+異世界一受けたい授業が期間限定で登場！
+映像授業を完全アニメ化した新プロジェクト
+『Animation Class Project』始動！
+＃01「to be continued」
+「to be continued」の本当の姿が
+「This story is to be continued.」と知っていましたか？
+アニメやドラマで頻出する「to be continued」。
+そこには「be to 構文」という高校英語の英文法が使われていた？！ロノー先生がその文法を解説！
+魔界――。
+皇位継承権を持つ魔界の皇子に英才教育を施すため、
+魔界の学匠達を集められた。
+学匠は皇子の教育担当の座を競い、
+その座を射止めた学匠には
+上級学匠＜グランドメイスター＞の栄誉が
+与えられるという…。
+その競争方法とは、人間界で学問を教えること。
+下等な人間をそれぞれの得意な学問で
+上手く教育できたものこそ、最も優秀な教育者であり、
+皇子の教育担当たりえる。
+そして今、学匠たちは、
+人間に学問を授業するため、人間界に降臨した。
+＜学匠名＞
+ロノー・ド・モンロー　 cv:村瀬 歩
+「ノートをとるな、顔をあげろ」
+あらゆる言語学に精通する、銀髪の講師。
+人間界では英語の授業を担当し、言語を早く理解するコツを伝授する。
+本企画は期間限定の短い展開ながら、今後、映像授業を YouTube やスタディサプリにて更新。公式Twitter もオープンしているためチェックしてほしい。
+公式YouTubeチャンネル 
+講師の一人として期間限定で登場
+※スタディサプリ内での授業は終了しました
+公式Twitterにて情報発信中
+※スタディサプリ内での授業は終了しました
+※各リンク先は、ＭＢＳ外部サイトへ移動します。
+CAST&amp;STAFF
+ロノー・ド・モンロー
+村瀬 歩
+キャラクターデザイン原案
+オノ・ナツメ
+キャラクターデザイン/コンセプトアート
+佐古 宗一郎
+演出
+飯田 祥弘
+コンポジット
+清水 理央
+色彩設計
+山崎 朋子
+特殊効果
+山田 可奈子
+美術	
+宍戸 太一
+Live 2D
+リードデザイナー		
+円谷 あづさ	
+デザイナー		
+村木 紀之
+ 　　松田 範雄
+ 　　濱中 裕
+録音演出
+渡辺 悠介
+音響効果
+八十 正太
+サウンドミキサー
+山後 茜
+サウンドエディター
+川﨑 千遥　山口 桃
+音響制作/録音スタジオ	
+ＨＡＬＦ Ｈ・Ｐ STUDIO	
+授業監修	
+関　正生（スタディサプリ）	
+プロデューサー	
+前田 俊博
+米内 則智	
+制作担当		
+西本　健人	
+web制作	
+加々本 裕樹（P!coli）	
+ロゴデザイン	
+岡　裕希（アラスカ）	
+アニメーション制作	
+Lay-duce	
+モバイル環境時のみ表示しますよ
+携帯では見えない
+©ACP All Rights Reserved.
+へ!!
+掲載価格は公開時の情報です。Copyright (c) 1995, Mainichi Broadcasting System, Inc.All Rights Reserved.
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;
+i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+a.async=1;
+a.src=g;
+m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-67683536-1', 'auto');
+ga('send', 'pageview');
+			ページトップへ
+ツイート
+				テレビ番組
+					情報・報道
+					バラエティ
+					ドラマ
+					アニメ
+					スポーツ
+					音楽
+				ニュース・お天気
+					ニュース
+					お天気情報
+				エンターテインメント
+					アナウンサー
+					グッズ
+					イベント
+					映画
+					ショッピング
+					SNS
+				ラジオ
+					MBSラジオ1179
+			MBSトップページ
+			MBSモバイル - 携帯サイトには、番組やアナウンサーの動画・着うた・待受け・きせかえなどがもりだくさん！
+		掲載価格は公開時の情報です。各ページに掲載の記事・写真の無断転用を禁じます。すべての著作権は毎日放送に帰属します。Copyright (c) 1995, Mainichi Broadcasting System, Inc. All Rights Reserved.
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;
+i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+a.async=1;
+a.src=g;
+m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-67683536-1', 'auto');
+ga('send', 'pageview');

@@ -1,0 +1,328 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Ailey Troupe Marks 60 Years by Looking Back at its Founder            
+				By Jocelyn Noveck, AP National Writer                
+	                	                Published December 27, 2018
+		Lazarus Act 2Choreographer: Rennie Harris, Alvin Ailey American Dance Theater (Photo Credit: Paul Kolnik)
+It was March 1958 when an African American dancer named Alvin Ailey, then making his living on the Broadway stage, gathered up a group of fellow dancers and presented a one-night show of his own works.
+In the audience at the 92nd Street Y in Manhattan was 18-year Sylvia Waters, who was studying dance across town at Juilliard. She had never seen anything like it. “It was absolutely riveting,” she says now. “I had never seen men dance like that.”
+Most exciting to Waters was seeing people dance “who I could relate to,” she says. “There was something so visceral about the experience. We didn’t know at the time that it was history, but it was definitely special.”
+        ADVERTISEMENT        
+It was indeed history: The company born that night, which Waters would join a decade later, is now 60 years old and credited with helping popularize modern dance, as well as bringing the African American experience to a global stage. The Alvin Ailey American Dance Theater is one of the best known companies in the world, touring constantly and still earning rapturous ovations for its signature work, “Revelations,” which tells the African-American story through spirituals and blues.
+To mark the milestone, the company has been devoting its current New York season to remembering Ailey himself, who died at age 58 in 1989, with a major new work, “Lazarus,” as well as “Timeless Ailey,” a compilation that includes a piece of  “Blues Suite,” performed that night in 1958.
+It’s a time for the company to reflect on how it made it this far, says Judith Jamison, the former Ailey artistic director and still its best-known face.
+“It’s amazing,” says Jamison, 75, who in her dancing years became known for the searing “Cry,” another Ailey signature piece. “I find it remarkable that we still exist today, lo these 60 years. And I think Mr. Ailey would be absolutely beside-himself happy, that something he started 60 years ago could blossom into everything he imagined.”
+Lazarus Act 1Choreographer: Rennie Harris, Alvin Ailey American Dance Theater(Photo Credit: Paul Kolnik)
+In a recent interview on the sidelines of company rehearsal, Jamison recalled being present as Ailey died, along with Waters and Ailey’s mother. “We were in his room as he passed, and usually you see in movies, that people have their last breath and they breathe out. But Mr. Ailey breathed IN. We expected him to breathe out, and he didn’t. So I think what we’re living on now, is his breath OUT … that air, that vision, that dream.”
+A key challenge for the company is keeping Ailey’s memory alive and present _ not just for audiences, but for the dancers who never met him. Yannick Lebrun, who grew up in French Guiana and joined the company 10 years ago, says he learned about Ailey from people like Jamison.
+“She always talked about Alvin and how generous he was, how human he was,” says Lebrun, one of the company’s current stars, “and how dedicated he was to sharing his love for modern dance, but also his memories from growing up in the South, and African American heritage and history.”
+Ailey grew up in poverty in small-town Texas, to a 17-year-old mother. It’s both the story of his early life and the broader African American experience that the company is telling with the two-act “Lazarus,” so named for the theme of resurrection. It was choreographed by hip-hop artist Rennie Harris and commissioned by Robert Battle, Jamison’s successor as artistic director.
+“There came this thing of wanting to hear Mr. Ailey’s voice, because so many of us didn’t have the opportunity to know him,” says Battle.  He means “voice” both figuratively and literally; there’s a section of “Lazarus” where the choreographer inserts his own voice into old audio of Ailey, as if interviewing him today.
+The piece begins with a historical look at the African American struggle, including a depiction of lynchings, and then moves into full-on, high-energy hip-hop. “Hip-hop is a celebration of life,” Battle says.
+This 1950s image released by Alvin Ailey American Dance Theater shows dancer Alvin Ailey. The Alvin Ailey American Dance Theater celebrates its 60th anniversary this season, and it’s marking the moment by looking back at its founder, who grew up in poverty in the rural South and created one of the most visible dance companies in the world. (Zoe Dominic/Alvin Ailey American Dance Theater via AP)
+The genre also connects with younger audiences, of course, and the company’s challenge like that of any arts organization is to bring younger people into the fold. “Our biggest challenge is the competition for people’s leisure time,” Battle says. “The phones, the technology.” The cost of touring, too, is rising. “We have to continue to find ways to reach new audiences,” he says.
+However successful the new piece, or others in the company’s broad repertoire, nothing will ever take the place of “Revelations,” which more than a signature work is the very core of the company’s identity.  It’s on the schedule most evenings the company performs.
+Indeed, the work is so much in demand that none other than Ailey himself tried to cut back on it years ago, to showcase other things. But ticket sales dropped, Battle says, “And so Alvin said, ‘Put it back on!”’ Performed everywhere from the Olympics to the White House, the work has often been called the most-seen piece of modern dance, but it’s hard to imagine anything to compare it with.
+“It’s a phenomenon,” Battle says simply, “a once-in-a-lifetime work. It’s universal in such a palpable way that no matter if we’re across the street or across the ocean, people have a visceral response.” He describes a trip to Russia where he felt very far from home until he saw the audience cheering “Revelations.” Suddenly, he says, “it became a church somewhere in the South.”
+The popularity of “Revelations” is hardly a challenge, Battle says he sees it as a blessing. “It’s like Aretha singing, ‘Respect,”’ he notes. “People don’t get tired of it. It’s, ‘C’mon, sing it!”’ Jamison adds that on evenings when “Revelations” isn’t on the bill, audiences still appreciate seeing the new works  and then, she quips, “they’ll buy another ticket, to get their fix.”
+Nor do the dancers, for whom “Revelations” is a rite of passage, seem to tire of the work, Lebrun says.
+“There’s always something new to say,” says Lebrun, whose favorite sections to perform are “I Wanna Be Ready,” a solo for a man preparing to meet his maker, and “Sinner Man,” where he enters the stage in an adrenaline-fueled  sprint.
+‘”Revelations’ is why we are here right now, 60 years later,” Lebrun says. “So if we don’t take care of it … this most important modern dance piece in the world, then why are we here? Why are we doing what we’re doing?”
+		Categories: Entertainment | Theater Tags: Alvin Ailey | Alvin Ailey American Dance Theater | Aretha Franklin | Blues Suite | Cry | French Guiana | I Wanna Be Ready | Judith Jamison | Juilliard | Lazarus | Manhattan | New York | Olympics | Rennie Harris | respect | Revelations | Robert Battle | Sinner Man | Sylvia Waters | Texas | Timeless Ailey | White House | Yannick Lebrun		
+						LeBron James Named Associated Press Male Athlete of 2018  
+						‘Black-ish’ Star Marcus Scribner On Activism, Social Media and...
+						Peabo Bryson – R&amp;B’s Most Passionate Advocate
+						Comedy Legends Star in FOX’s Newest Show ‘The Cool’ Kids
+						Pam Grier—Ambassador for Brown Sugar Network—gave Spike Lee the book  B...
+						25th Anniversary SAG Awards Exhibit Diversity in Nominations
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

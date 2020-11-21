@@ -1,0 +1,311 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Charger Girls Bring Open-Call Auditions to the South Bay            
+				By Sentinel News Service                
+	                	                Published May 11, 2018
+		On Sunday, May 20, hundreds of talented dancers will once again compete for a coveted spot on the world-renowned Charger Girls, one of professional sports’ most respected cheer and dance teams. Most notable among the 2018 season’s highlights, this year’s squad will have the rare opportunity to perform on an international stage when the Chargers host the Tennessee Titans at Wembley Stadium in London on Oct. 21.
+The FREE open-call audition will be held at Bay Club South Bay in El Segundo, Calif. Registration and check-in begin at 10 a.m. followed by the preliminary dance audition at 11 a.m.
+“As much as we’re looking for the most talented and energetic dancers, we’re also looking for individuals who exemplify great character and have a passion for their community,” Charger Girls Director Lisa Simmons said. “Those making the 2018 squad will have a tremendous opportunity in front of them. Not only will they perform and be ambassadors for the organization in the Los Angeles community, they will be representing the Chargers on the world stage in London this October. This is definitely an exciting year to be a Charger Girl.”
+        ADVERTISEMENT        
+Applications are available only online at LACHARGERGIRLS. Applicants must be 18 or older by May 20, 2018.  Dancers are encouraged to send a 5×7 (or larger) head shot and/or full-body shot with their application. Walk-ups will be accepted at the door.
+From the hundreds of dancers expected at the audition, at least 60 finalists will be selected. Each finalist will go through a one-on-one interview May 21-22, and a comprehensive panel interview on May 23. The final dance audition is scheduled on May 24. The L.A. Charger Girls will be announced on Chargers.com on May 25.
+The Charger Girls will perform at all home games at StubHub Center and serve as ambassadors for the organization at business, community and charity events. The Make-a-Wish Foundation, Wounded Warriors, American Diabetes Association and D.A.R.E. are among the many non-profit organizations which have benefited from the Charger Girls’ support.
+The Charger Girls were formed in 1990 and are recognized as one of the premier dance teams in the National Football League. They have performed at the Super Bowl and internationally in Berlin, Germany; Tokyo, Japan; and Sydney, Australia.
+		Categories: Employment | Local | Sports Tags: American Diabetes Association | Australia | Bay Club South Bay | Berlin | California | Charger Girls | D.A.R.E | El Segundo | Germany | Japan | LA Chargers | Lisa Simmons | London | Make-a-Wish Foundation | National Football League | StubHub Center | Super Bowl | Sydney | Tennessee Titans | Tokyo | Wembley Stadium | Wounded Warriors		
+						69 Players Expected To Attend 2018 NBA Draft Combine Powered By Under Armou...
+						Los Angeles Chargers Sign Five Draft Picks
+						AARP California’s Document-Shredding Takes Aim at ID Theft
+						State of Black America 2018 
+						Student Athlete of the Week: Arianna Bowden
+						LAFC Tasked with Two Games in the Week
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

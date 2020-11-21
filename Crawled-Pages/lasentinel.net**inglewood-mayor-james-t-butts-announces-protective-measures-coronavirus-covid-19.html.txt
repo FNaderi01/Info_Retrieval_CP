@@ -1,0 +1,331 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Inglewood Mayor James T. Butts announces Protective Measures – Coronavirus (COVID-19)            
+				By Sentinel News Service                
+	                	                Published March 16, 2020
+		Mayor James T. Butts, Jr. (Photo by Valerie Goodloe/Sentinel)
+In light of the evolving concerns of the Novel Coronavirus (COVID-19) and the Governor’s direction on mass gatherings, the City of Inglewood is taking the following steps to ensure the health and safety of our community and our employees.
+Effective Monday, March 16, 2020, the City of Inglewood will implement the following initial actions through March 31, 2020. 
+        ADVERTISEMENT        
+CITY FACILITIES
+Public access to City Hall will be by APPOINTMENT ONLY, except for City Council Meetings, which may be modified to meet social distancing and teleconferencing recommendations specified in the Governor’s Executive Order (N-25-20).
+The public is directed to call (310) 412-5111 for information on how to access public counter services.
+All public Board and Commission meetings are postponed unless otherwise notified by the Department.
+Department heads are directed to cancel, modify or postpone all non-essential public community events or group activities that require close contact and meetings with 50 or more participants.
+All city facilities and gathering places must provide recommended social distancing, hand washing areas and hand sanitizing in accordance with LA County Public Health Guidelines.
+CITY DEPARTMENTS – BUSINESS CONTINUITY
+Parks, Recreation and Community Services Department
+The department’s main office at City Hall will be closed to the public. Public access will be considered and provided on a case by case basis for emergency or interdepartmental related matters only. Our office can be reached at (310) 412-8750 for questions or concerns.
+Parks &amp; Recreation
+Park locations will remain open as outdoor-only facilities during regular hours of dawn to dusk. Restrooms will be open during regular hours.
+All programming at City facilities will be canceled. This includes all recreational activities, special events, indoor and outdoor sports leagues, classes, and group sessions.
+Indoor facilities such as computer labs, multi-purpose rooms, and classrooms at City facilities will be closed.
+Library
+Libraries will be closed to the public until further notice.
+All programming, special events, activities and services at Inglewood Libraries will be canceled/suspended until further notice.
+Senior Center
+Starting Monday, March 16, the senior nutrition program will transition to a frozen meals program.  Participants will be required to pick up meals at the Inglewood Senior Center.  All other senior programs will be canceled until further notice.
+The senior paratransit program will continue for dialysis and medical appointments and food pick up at the Inglewood Senior Center.
+All classes and activities will be canceled until further notice.  Indoor facilities such as computer labs, multi-purpose rooms, and classrooms at Senior Center will be closed.
+Finance Department – Cashier’s Office
+Utility Bills and Business License Renewals can be made by phone at 1-877-336-8402 or online on the City’s website at cityofinglewood.org.
+Parking Ticket Payments can be paid by phone 1-877-236-2982 or online.
+Business License New Applicants can submit their required documents, signatures, and payments in lockbox outside of City Hall.
+Questions regarding Special Permits can be answered by calling
+Bus Passes for Inglewood Senior Citizens can be obtained by calling to schedule an appointment at the Cashier’s Office for renew and pickup.
+ Economic and Community Development Department
+Planning Division
+All access to the public counter will be by appointment only and face-to-face appointments for ministerial and/or discretionary applications submittal(s) only. All other questions and answers via email, voice calls or conference call.
+All division meetings will be held via conference call.
+Building Safety Division
+Permitting Section
+All access to the public counter to be by appointment only for application submittal(s) only by calling (310) 412-5230.
+The following applications can be provided, completed and emailed back to staff:
+Roofing
+MEP Residential Replacements
+HVAC Change-outs
+Pre-Sale Applications
+All other applications require an appointment to be set.
+Questions and answers via email, voice calls or conference call.
+Inspection Section
+All inspections by appointments only by calling (310) 412-4248.
+Questions and answers via email, voice calls or conference call.
+Code Enforcement Division
+All inspections by appointments only by calling (310) 412-5590
+Questions and answer via email or voice calls or conference call.
+Economic Development Division
+Questions and answers via email, voice calls or conference call by calling (310) 412-5214.
+Housing Authority Department
+Appointments to the Inglewood Housing Authority (IHA) shall be by appointment only by calling (310) 412-5221. Appointments are typically set three months in advance.
+Staff will ensure those appointments are scheduled and reevaluated to provide recommended social distancing.
+Housing inspectors will continue to set appointments to inspect the City’s housing stock as HUD has not issued guidance to suspend such inspections.
+Public Works Department
+Services provided at the Public Works Main Counter will be offered by appointment only by calling (310) 412-5333.
+Water – The City’s water supply is clean and tested regularly.
+Human Resources Department
+The HR Department will be closed to the public, with the exception of scheduled appointments. Appointments may be scheduled by calling (310) 412-5460.
+All future interviews for employment will be postponed until further notice.
+All applications for employment must be submitted via the City’s website.
+All internal employee support will be handled via email, e-forms and telephone to the extent possible.
+The City Manager and HR will consider telecommuting on a case-by-case basis.
+City Clerk’s Office
+The City Clerk’s office will be temporarily closed to public access. The public may obtain a Claim Form or Public Records Request by visiting the City’s website at cityofinglewood.org/Department/CityClerk/forms. Forms may also be mailed out to residents if requested.
+Summons and subpoenas will be accepted in our office by any person with a Process Servers Identification Card after clearance by the Security Desk.
+All other matters may be handled by email or by contacting our office at (310) 412-5280.
+Inglewood Police Department
+The Inglewood Police Department encourages residents to use (310) 412-8771 for all non-emergency calls.
+Call 911 if you have an emergency.
+GUIDANCE TO EMPLOYEES AND OTHER PROTECTIVE ACTIONS
+The virus is transmitted by exposure. Short of closing City Hall we can limit potential transmission of COVID-19 by limiting contacts until the virus has passed the incubation contagion period.
+Internally we should eliminate where possible visits to other workplaces for social purposes. Emergency Services will be examining proximity access privileges to ensure specific work site related access only.
+Wash your hands frequently with soap and water for at least 20 seconds, especially after going to the bathroom; before eating; and after blowing your nose, coughing or sneezing.
+If soap and water are not readily available, use alcohol-based hand sanitizer with at least 60% alcohol.
+Avoid touching your eyes, nose and mouth with unwashed hands.
+Practice social distancing (no hugging, kissing or shaking hands).
+Cover your cough or sneeze with a tissue, then throw the tissue in the trash. If you do not have tissue, use your sleeve (not your hands).
+Clean and disinfect your immediate workspace frequently.
+Drink plenty of fluids such as water or Gatorade.
+Employees exhibiting flu-like or other respiratory symptoms should stay home and away from the workplace. Notify your supervisor immediately if calling off sick.
+Human Resources will maintain tracking of all sick call offs.
+Employees are to limit unnecessary visits to other workgroups that are non-essential to the performance of their work.
+All non-essential new or pre-approved business travel is prohibited until further notice unless reconsidered and approved in writing by the City Manager.
+The Mayor, Elected Officials, Department Heads and the Office of Emergency Services (OES) are participating in daily/weekly tele-briefings with LA County Health, Elected Officials, City Managers and Public Safety agencies across the state.
+OES is participating in daily/weekly conference calls with Area G Emergency Managers.
+Additional cleaning staff has been assigned during business hours to disinfect public counters and high traffic areas at city facilities.
+Hand sanitizer and disinfectant wipes have been placed at all public counters.
+Informational flyers and posters on the coronavirus and best practices have been placed at all city lobby entrances, employee breakrooms and elevator lobbies.
+OES has a robust social media platform on Instagram, Facebook and Twitter, and is providing a wealth of preparedness information to our residents and employees. We encourage everyone to follow us @ReadyInglewood.
+The City of Inglewood has a comprehensive Emergency Preparedness Website for all hazards. Visit us at www.cityofinglewood.org/1033/Office-of-Emergency-Services
+Resources 
+City of Inglewood Office of Emergency Services website
+https://www.cityofinglewood.org/1033/Office-of-Emergency-Services
+City of Inglewood Office of Emergency Services (Twitter)
+https://twitter.com/ReadyInglewood
+City of Inglewood Office of Emergency Services (Facebook)
+https://www.facebook.com/ReadyInglewood/
+City of Inglewood Office of Emergency Services (Instagram)
+https://www.instagram.com/readyinglewood/
+Los Angeles County Department of Public Health
+http://publichealth.lacounty.gov/media/Coronavirus/
+California Department of Public Health
+https://www.cdph.ca.gov/
+Center of Disease Control and Prevention
+https://www.cdc.gov/coronavirus/2019-ncov/index.html
+World Health Organization https://www.who.int/
+		Categories: Business | COVID-19 | Crenshaw &amp; Around | Family | Health | Local | News | News (Business) | News (Family) | Political | Safety Tags: California Department of Public Health | Center of Disease Control and Prevention | City Facilities | City if Inglewood | City of Inglewood Mayor James T. Butts | City of Inglewood Office of Emergency Services | Coronavirus | Coronavirus pandemic | Coronavirus/COVID-19 | COVID-19 | Economic and Community Development Department | Inglewood Police Department | Jr. | Mayor James T Butts | Parks &amp; Recreation | senior center		
+						Macy’s, Inc. Temporarily Closes Stores Nationwide  in Response to COVID-1...
+						Animal Shelters Closed Across L.A. County
+						2020 BILLBOARD MUSIC AWARDS POSTPONED
+						50 More Coronavirus Cases Reported in L.A. County
+						Some LA County Library Lobbies to Open for Customer Hold Pickups
+						L.A. Superior Court Closures Extended, Except for Time-Sensitive Hearings
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->

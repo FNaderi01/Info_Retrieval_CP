@@ -1,0 +1,321 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Treasurer Appoints Distinguished Transportation Experts Dr. Beverly Scott and Frederick Jordan to High-Speed Rail Authority Peer Review Group            
+				By Sentinel News Service                
+	                	                Published May 9, 2019
+		Frederick Jordan (Courtesy photo)
+California Treasurer Fiona Ma has appointed two prominent African American transportation experts, Mr. Frederick Jordan of San Francisco and Dr. Beverly A. Scott of Albany, to the California High-Speed Rail Authority Peer Review Group.
+The California High-Speed Rail Peer Review Group is an eight-member body that evaluates the California High Speed Rail Authority’s funding plans and renders its independent judgment on their feasibility and reasonableness.
+“I am thankful for Frederick’s commitment to serve on this important peer review group,” said Treasurer Ma. “He is among the best in his field. His long-time transportation experience will bring additional expertise and guidance to this project.
+        ADVERTISEMENT        
+“I am thankful to Dr. Scott for her commitment to serve on this important peer review group. She is among the best in her field and has decades of experience as the top administrator to many public transportation systems, which will be an asset to this project.”
+Mr. Jordan is president of F.E. Jordan Associates Inc., which has offices in San Francisco and Oakland. He has directed the planning, design, environmental impact, construction management, overhead development and maintenance planning on more than 35 rail transit projects in California.
+His experience includes all areas of rail transit construction for heavy rail, light rail, commuter rail, cable car rail, people mover rail, Caltrain commuter rail and Amtrak railroad systems. He also has experience directing the design and construction of highways and bridges in the Bay Area as well as the Los Angeles and San Diego areas. He has been a member of the California High Speed Rail Business Advisory Council for five years, he directed his firm’s work on the planning and design of the Massachusetts Section of the Northeast Corridor High Speed Rail Project.
+Known for its design of transit bridges over busy highways without interrupting traffic and accommodating environmental challenges, Mr. Jordan’s firm was retained specifically by San Francisco Airport to design the BART Bridge Overcrossing of Highway 101, one of the busiest highways in the nation, while protecting the endangered species of the San Francisco garter snake.
+Dr. Beverly Scott (Courtesy photo)
+Other examples of the firm’s work include construction management of the Sacramento Light Rail Project and, in southern California, Mr. Jordan directed the firm’s joint venture construction management work on the Los Angeles Light Rail Green Line and several commuter stations in the Inland Empire Mr. Jordan received his bachelor’s degree in civil engineering from Howard University and a master’s degree in civil engineering from Stanford University with emphasis in Transportation and Environmental Engineering.
+Dr. Scott is CEO of Beverly Scott Associates and a senior partner in Parker Infrastructure Partners, a developer of essential infrastructure with a focus on projects that create value for both the public and private sectors.
+She is a senior fellow at the Transportation Learning Center, a unique transportation labor-management partnership focused on skills training, research, safety and health for the sector’s frontline workforce.
+Dr. Scott is a research associate and adjunct professor at the Mineta Transportation Institute at San Jose State University. And she serves in an advisory capacity to the Charles Hamilton Houston Institute for Race and Justice at Harvard University Law School in the areas of transportation, infrastructure, and equity.
+In 2011, President Barack Obama appointed Dr. Scott to the National Infrastructure Advisory Council (NIAC), a panel of experts that includes top business executives, leading academics and local government officials who report to the White House through the U.S. Department of Homeland Security. The group is responsible for making policy recommendations to protect and preserve the physical assets that are critical to the U.S. economy and national security. In 2012, she was appointed NIAC vice-chair and currently serves in that capacity.
+Also in 2012, she was named a “Transportation Innovator of Change” by President Obama and the U.S. Department of Transportation in recognition of her long record of exemplary leadership and service in the transportation industry.
+Dr. Scott’s career in the public transportation industry spans more than three decades. She has served as general manager or CEO for the Massachusetts Bay Transportation and Rail &amp; Transit Administrator for the Commonwealth of Massachusetts; the Metropolitan Atlanta Rapid Transit Authority (MARTA); the Sacramento Regional Transit Authority (SRTD); and the Rhode Island Public Transit Authority (RIPTA).
+Dr. Scott holds a doctorate in political science, with a specialization in public administration from Howard University. She has a bachelor’s degree in political science from Fisk University.
+		Categories: Business | News Tags: Albany | Amtrak | BART Bridge | Bay Area | Beverly A. Scott | California High-Speed Rail Peer Review Group | California Treasurer Fiona Ma | Caltrain | Charles Hamilton Houston Institute for Race and Justice | Commonwealth of Massachusetts | F.E. Jordan Associates Inc. | Fisk University | Frederick Jordan | Harvard University Law School | Howard University | Inland Empire | Los Angeles | Los Angeles Light Rail Green Line | Massachusetts Bay Transportation and Rail &amp; Transit | Metropolitan Atlanta Rapid Transit Authority (MARTA) | National Infrastructure Advisory Council (NIAC) | President Obama | Rhode Island Public Transit Authority (RIPTA) | Sacramento Light Rail Project | Sacramento Regional Transit Authority (SRTD) | San Diego | San Francisco | Stanford University | Transportation Learning Center | U.S. Department of Homeland Security | White House		
+						South L.A. Celebrates Barack Obama Boulevard
+						SENTINEL EXCLUSIVE: Three Young Black Queens Make Pageant History
+						Hijabi Model Halima Aden Rocks SI’s Swimsuit Edition
+						SPECIAL REPORT: Mass Incarceration of Women and Minorities a New Crisis
+						Kamala Harris to Hold First Campaign Organizing Event in Los Angeles
+						LACCD Officials Applaud Mayor Garcetti’s Announcement To Double The L.A. ...
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

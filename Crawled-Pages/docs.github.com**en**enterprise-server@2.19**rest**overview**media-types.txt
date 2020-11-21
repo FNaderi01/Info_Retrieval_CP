@@ -1,0 +1,253 @@
+     category > maptopic > article -->
+    GitHub Docs
+    All products
+  REST API
+          Overview
+          Resources in the REST API
+          Media types
+          Other authentication methods
+          Troubleshooting
+          API previews
+          Libraries
+          Endpoints available for GitHub Apps
+          Reference
+          Activity
+          Apps
+          Checks
+          Codes of conduct
+          Emojis
+          GitHub Enterprise administration
+          Gists
+          Git database
+          Gitignore
+          Issues
+          Licenses
+          Markdown
+          Meta
+          OAuth Authorizations
+          Organizations
+          Projects
+          Pulls
+          Rate limit
+          Reactions
+          Repositories
+          Search
+          Teams
+          Users
+          Permissions required for GitHub Apps
+          Guides
+          Getting started with the REST API
+          Basics of authentication
+          Discovering resources for a user
+          Delivering deployments
+          Rendering data as graphs
+          Working with comments
+          Traversing with pagination
+          Building a CI server
+          Best practices for integrators
+          Getting started with the Git Database API
+          Getting started with the Checks API
+        GitHub Docs
+                Explore by product
+                      REST API
+                       GitHub.com
+                       Enterprise Administrators
+                       GitHub Actions
+                       GitHub Packages
+                       Developers
+                       REST API
+                       GraphQL API
+                       GitHub Insights
+                       GitHub Desktop
+                       Atom
+                       Electron
+                            English
+                              English
+                              简体中文 (Simplified Chinese)
+                              日本語 (Japanese)
+                              Español (Spanish)
+                              Português do Brasil (Portuguese)
+          This version of GitHub Enterprise will be discontinued on
+          This version of GitHub Enterprise was discontinued on
+        2020-11-12.
+      No patch releases will be made, even for critical security issues. For better performance, improved security, and new features, upgrade to the latest version of GitHub Enterprise.
+For help with the upgrade, contact GitHub Enterprise support.
+      Article version: Enterprise Server 2.19
+      Free, Pro, and Team
+      Enterprise Server 2.22
+      Enterprise Server 2.21
+      Enterprise Server 2.20
+      Enterprise Server 2.19
+    REST API
+    Overview
+    Media types
+      Article version: Enterprise Server 2.19
+      Free, Pro, and Team
+      Enterprise Server 2.22
+      Enterprise Server 2.21
+      Enterprise Server 2.20
+      Enterprise Server 2.19
+        Media types
+        Learn about media types for specifying the format of the data you want to consume.
+        In this article
+          Comment body properties
+          Git blob properties
+          Commits, commit comparison, and pull requests
+          Repository contents
+          Gists
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        Required
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        Optional
+      Can we contact you if we have more questions?
+        Optional
+      Send
+    Thank you! Your feedback has been submitted.
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  Or, learn how to contribute.
+      Custom media types are used in the API to let consumers choose the format
+of the data they wish to receive. This is done by adding one or more of
+the following types to the Accept header when you make a request. Media types
+are specific to resources, allowing them to change independently and support
+formats that other resources don't.
+All GitHub Enterprise media types look like this:
+application/vnd.github[.version].param[+json]
+The most basic media types the API supports are:
+application/json
+application/vnd.github+json
+Neither of these specify a version, so you will always get the
+current default JSON representation of resources.
+Important: The default version of the API may change in the
+future. If you're building an application and care about the stability of
+the API, be sure to request a specific version in the Accept
+header as shown in the examples below.
+You can specify a version like so:
+application/vnd.github.v3+json
+If you're specifying a property (such as full/raw/etc defined below),
+put the version before the property:
+application/vnd.github.v3.raw+json
+You can check the current version through every response's headers.  Look
+for the X-GitHub-Media-Type header:
+$ curl http(s)://[hostname]/api/v3/users/technoweenie -I
+&gt; HTTP/1.1 200 OK
+&gt; X-GitHub-Media-Type: github.v3
+$ curl http(s)://[hostname]/api/v3/users/technoweenie -I \
+$  -H "Accept: application/vnd.github.full+json"
+&gt; HTTP/1.1 200 OK
+&gt; X-GitHub-Media-Type: github.v3; param=full; format=json
+$ curl http(s)://[hostname]/api/v3/users/technoweenie -I \
+$  -H "Accept: application/vnd.github.v3.full+json"
+&gt; HTTP/1.1 200 OK
+&gt; X-GitHub-Media-Type: github.v3; param=full; format=json
+Comment body properties
+The body of a comment can be written in GitHub Flavored Markdown, issues, issue comments, pull request comments, and the gist comments APIs all accept these same media types:
+Raw
+application/vnd.github.VERSION.raw+json
+Return the raw markdown body. Response will include body. This is the
+default if you do not pass any specific media type.
+Text
+application/vnd.github.VERSION.text+json
+Return a text only representation of the markdown body. Response will
+include body_text.
+HTML
+application/vnd.github.VERSION.html+json
+Return HTML rendered from the body's markdown. Response will include
+body_html.
+Full
+application/vnd.github.VERSION.full+json
+Return raw, text and HTML representations. Response will include body,
+body_text, and body_html:
+Git blob properties
+The following media types are allowed when getting a blob:
+JSON
+application/vnd.github.VERSION+json
+application/json
+Return JSON representation of the blob with content as a base64
+encoded string. This is the default if nothing is passed.
+Raw
+application/vnd.github.VERSION.raw
+Return the raw blob data.
+Commits, commit comparison, and pull requests
+The commits API and pull requests API support
+diff and patch formats:
+diff
+application/vnd.github.VERSION.diff
+patch
+application/vnd.github.VERSION.patch
+sha
+application/vnd.github.VERSION.sha
+Repository contents
+Raw
+application/vnd.github.VERSION.raw
+Return the raw contents of a file. This is the default if you do not pass any specific media type.
+HTML
+application/vnd.github.VERSION.html
+For markup files such as Markdown or AsciiDoc, you can retrieve the rendered HTML using the .html media type. Markup languages are rendered to HTML using our open-source Markup library.
+Gists
+Raw
+application/vnd.github.VERSION.raw
+Return the raw contents of a gist. This is the default if you do not pass any specific media type.
+base64
+application/vnd.github.VERSION.base64
+The gist contents are base64-encoded before being sent out. This can be useful if your gist contains any invalid UTF-8 sequences.
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        Required
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        Optional
+      Can we contact you if we have more questions?
+        Optional
+      Send
+    Thank you! Your feedback has been submitted.
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  Or, learn how to contribute.
+      Still need help?
+      Ask the GitHub community
+      Contact support
+        Product
+          Features
+          Security
+          Enterprise
+          Case Studies
+          Pricing
+          Resources
+        Platform
+          Developer API
+          Partners
+          Atom
+          Electron
+          GitHub Desktop
+        Support
+          Help
+          Community Forum
+          Training
+          Status
+          Contact GitHub
+        Company
+          About
+          Blog
+          Careers
+          Press
+          Shop
+        © 2020 GitHub, Inc.
+        Terms 
+        Privacy 

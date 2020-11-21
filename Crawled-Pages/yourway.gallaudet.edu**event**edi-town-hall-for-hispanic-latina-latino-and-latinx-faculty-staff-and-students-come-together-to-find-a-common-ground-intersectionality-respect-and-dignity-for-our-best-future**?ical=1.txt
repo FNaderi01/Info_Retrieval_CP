@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Your Way - ECPv5.2.0//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Your Way
+X-ORIGINAL-URL:https://yourway.gallaudet.edu
+X-WR-CALDESC:Events for Your Way
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20200308T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20201101T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20201009T160000
+DTEND;TZID=America/New_York:20201009T173000
+DTSTAMP:20201011T202442
+CREATED:20201001T141036Z
+LAST-MODIFIED:20201008T142508Z
+UID:4096-1602259200-1602264600@yourway.gallaudet.edu
+SUMMARY:Canceled - EDI-Town Hall for Hispanic\, Latina\, Latino\, and Latinx Faculty\, Staff\, and Students. "Come together to find a common ground\, intersectionality\, respect\, and dignity for our best future"
+DESCRIPTION:flyer image description \nFlyers links:https://drive.google.com/file/d/1vhBCDbBWbpojp_5eRyCxkutxoicpV0vC/view?usp=sharinghttps://drive.google.com/file/d/19EUr9t6oKSTjynpmuFhNmvJQH2a93hMN/view?usp=sharingZoom meeting ID: 652 776 5890 https://gallaudet.zoom.us/j/6527765890?pwd=Q2VMSzJyWTBOS2RIZUxKNTZIMnUrQT09
+URL:https://yourway.gallaudet.edu/event/edi-town-hall-for-hispanic-latina-latino-and-latinx-faculty-staff-and-students-come-together-to-find-a-common-ground-intersectionality-respect-and-dignity-for-our-best-future/
+CATEGORIES:Bison Virtual Event
+END:VEVENT
+END:VCALENDAR

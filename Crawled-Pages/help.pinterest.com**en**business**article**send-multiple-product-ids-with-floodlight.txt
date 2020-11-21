@@ -1,0 +1,153 @@
+      Skip to main content
+        Help Center
+  Header navigation
+                  General
+                  Business
+  Header navigation - actions
+        Search
+  Header navigation - anonymous
+        Log in
+        Pinterest home
+  Open menu
+          General
+          Account access and safety
+          Trouble with Pinterest
+          Legal &amp; Privacy
+          Manage your account
+          Pins and boards
+          Business
+          Ads measurement
+          Ads reporting
+          Build your organic presence on Pinterest
+          Manage your business profile
+          Shopping on Pinterest
+          Promoted Pins billing and payment
+          Advertise on Pinterest
+            Account access and safety
+            Trouble with Pinterest
+            Legal &amp; Privacy
+            Manage your account
+            Pins and boards
+            Ads measurement
+            Ads reporting
+            Build your organic presence on Pinterest
+            Manage your business profile
+            Shopping on Pinterest
+            Promoted Pins billing and payment
+            Advertise on Pinterest
+              Send multiple product IDs with Floodlight
+            Before you get started
+Add the base code and relevant event codes to track activity on your website
+Learn how to use macros to pass information to Floodlight 3rd party ad tags at the Google Help Center
+            Pass multiple product IDs
+If you're using Google Floodlight and support adding multiple products to your cart or purchasing multiple products, you'll need to make adjustments to the Pinterest tag in order to pass back multiple product IDs. This is necessary for running dynamic retargeting campaigns. 
+Use the macro function and the product IDs parameter in this syntax:
+https://ct.pinterest.com/v3/?tid=2619214552931&amp;event=pagevisit&amp;ed[line_items][0][product_ids]=11149134,11149144,11149126,11168014&amp;noscript=1&amp;dbgppce=trueThe [product_id] parameter only supports single product ID passback. [product_id] supports multiple comma separated values.
+For example:
+Sending a single product ID: [product_id] = 123,456,789 will pass the data as single value
+Sending multiple product IDs: [product_ids] = 123,456,789 will split the IDs on the comma and pass back all product IDs as separate and unique values
+            What's next?
+Create Shopping campaigns on Pinterest.
+  Other articles
+  Skip Other articles Links
+      Pinterest Tag
+                        Add your event codes
+                                Base code
+                                Enhanced match
+            See more
+                                Event code
+                                Event code examples
+                                Examples of combined base and event codes
+                                IMG tag
+                                Install the base code
+                                Install, remove or restore the Pinterest tag
+                                Pinterest Tag Helper Chrome extension
+                                Pinterest tag parameters and cookies
+                                Test Pinterest tag events
+                                Track conversions with Pinterest tag
+                                Verify the Pinterest tag
+      Pinterest tag integrations
+                        Add the Pinterest tag using Shopify
+                                Link your Shopify and Pinterest accounts
+                                Manually add the Pinterest tag to Shopify
+            See more
+                                Remove the Pinterest tag from a Shopify site
+                                Send multiple product IDs with Floodlight
+                                Shopify app troubleshooting
+      Third-party tracking
+                        Third-party and dynamic tracking
+                                Track a collections ad
+      Conversions
+                        Upload conversions for measurement
+                                Upload conversions with Ads Manager
+                                Upload conversions with LiveRamp
+  End of Other articles Links
+            Still need help?
+                Contact us
+    User feedback
+              Was this article helpful?
+        happy
+        sad
+        collection_fields
+        How can we make this article better?
+      Additional Response
+      Leave this field blank
+        Pinterest is using cookies to help give you the best experience we can.
+        Got it!
+    Skip Footer Menu
+    Select language
+                      English (US)
+                              Bahasa Indonesia
+                              Čeština
+                              Dansk
+                              Deutsch
+                              English (UK)
+                              Español
+                              Français
+                              Italiano
+                              Magyar
+                              Nederlands
+                              Norsk bokmål
+                              Polski
+                              Português (Brasil)
+                              Português (Europeu)
+                              Română
+                              Slovenčina
+                              Suomi
+                              Svenska
+                              Filipino
+                              Tiếng Việt
+                              Türkçe
+                              Ελληνικά
+                              Русский
+                              Ukrainian
+                              ภาษาไทย
+                              简体中文
+                              繁體中文
+                              한국어
+                              日本語
+            About us
+                    Impressum
+                    What's Pinterest
+                    Our Pinterest page
+                    Engineering blog
+                    Brand guidelines
+                    Careers
+                    Help Center
+                    Pinterest Labs
+            Our policies
+                    Copyright
+                                          &amp;
+                            trademark
+                    Personalized ads
+                    Terms of service
+                    Privacy
+                                          &amp;
+                            cookies
+            More info
+                    For businesses
+                    For developers
+                    For press
+                    For investors
+                    End of Footer
+    © Pinterest 2020

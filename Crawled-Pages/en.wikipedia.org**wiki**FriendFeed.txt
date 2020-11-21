@@ -1,0 +1,480 @@
+	FriendFeed
+		From Wikipedia, the free encyclopedia
+		Jump to navigation
+		Jump to search
+		FriendFeedType of siteSocial aggregatorAvailable inChinese (Simplified), English, French, German, Italian, Japanese, Persian, Russian, Spanish, TurkishDissolvedApril 9, 2015OwnerFacebookURLfriendfeed.comAlexa rank 707,297 (As of 19 March 2019[update])[1]LaunchedOctober 2, 2007; 13 years ago (2007-10-02)Current statusOffline
+FriendFeed was a real-time feed aggregator that consolidated updates from social media and social networking websites, social bookmarking websites, blogs and microblogging updates, as well as any type of RSS/Atom feed. It was created in 2007 by Bret Taylor, Jim Norris, Paul Buchheit and Sanjeev Singh.[2] It was possible to use this stream of information to create customized feeds to share, as well as originate new posts-discussions, (and comment) with friends.[3] Friendfeed was built on top of Tornado. The service was shut down at about 21:00 GMT on April 10, 2015, though the service blog announced it a month before.[4]
+The goal of FriendFeed according to their website was to make content on the Web more relevant and useful by using existing social networks as a tool for discovering interesting information. Users could be an individual, business or organization. Bloggers writing about FriendFeed said that this service addresses the shortcomings of social media services which exclusively facilitate tracking of their own members' social media activities on that particular social media service, whereas FriendFeed provided the facility to track these activities (such as posting on blogs, Twitter, and Flickr) across a broad range of different social networks.[5] Some bloggers had concerns about readers commenting on their posts on FriendFeed instead of on their blogs, resulting in fewer page views for the blogger.[6]
+The founders were all former Google employees who were involved in the launch of services such as Gmail and Google Maps. They included Bret Taylor, Jim Norris, Sanjeev Singh and Paul Buchheit. Along with the latter two founders, venture capital agency Benchmark Capital was involved with the investment funding.
+FriendFeed was based in Mountain View, California, and had on average one million monthly visitors. Employees of FriendFeed created the Simple Update Protocol to reduce the load put on sites by aggregators such as theirs.
+On August 10, 2009, Facebook agreed to acquire FriendFeed.[7] FriendFeed was bought for $15 million in cash, and $32.5 million in Facebook stock.[8] Facebook, along with a small but active community of users, kept the service going until its pre-announced closure on April 9, 2015.[4]
+Contents
+1 Supported services
+2 See also
+3 References
+4 External links
+Supported services[edit]
+A user could configure their FriendFeed account to aggregate content from the following services:
+Blogging
+Ameba
+Baidu Space
+Blogger
+Tumblr
+LiveJournal
+Skyrock
+Bookmarking
+Delicious
+Diigo
+Furl
+Hatena
+Ma.gnolia
+Mister Wong
+StumbleUpon
+Twine
+Books
+Goodreads
+LibraryThing
+News
+Digg
+Meneame
+Mixx
+Reddit
+Photos
+Flickr
+Fotolog
+Photobucket
+Picasa
+SmugMug
+Zooomr
+Status
+Brightkite
+Facebook
+Gmail/Google Talk
+identi.ca
+Plurk
+Twitter
+Music
+iLike
+Last.fm
+Pandora
+Video
+12seconds
+Dailymotion
+Joost
+Seesmic
+Smotri
+Vimeo
+YouTube
+Comments
+BackType
+Disqus
+IntenseDebate
+Miscellaneous
+Custom RSS/Atom[9]
+Amazon.com
+LinkedIn
+Netflix
+Netvibes
+Polyvore
+SlideShare
+tipjoy
+Upcoming
+Wakoopa
+Yelp
+See also[edit]
+Locker, an open source alternative that aimed to provide a similar, but more ambitious service.
+References[edit]
+^ "Friendfeed.com Traffic, Demographics and Competitors - Alexa". Alexa Internet. Archived from the original on 2018-12-15. Retrieved 2019-03-19..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}
+^ "FriendFeed FAQ". Archived from the original on 5 July 2011. Retrieved 3 July 2011.
+^ "AT&amp;T and Verizon Wireless Offer New Services for Friends" Archived 2008-09-13 at the Wayback Machine September 9th, 2008 New York Times, retrieved September 11th, 2008
+^ a b "Dear FriendFeed community, We wanted to let you know that FriendFeed will be shutting down soon]]". Archived from the original on 2015-03-10. Retrieved 2015-03-09.
+^ "FriendFeed launch cover on VentureBeat, October 1, 2007". Venturebeat.com. Archived from the original on December 3, 2013. Retrieved 2013-11-25.
+^ "Just How Much is the Conversation Worth?" Archived 2008-09-08 at the Wayback Machine CenterNetworks.com, July 3, 2008
+^ "Facebook Press Release". Facebook.com. Archived from the original on 2011-06-01. Retrieved 2013-11-25.
+^ MG Siegler (@parislemon) (2009-08-10). "Techcrunch Sale Price". Techcrunch.com. Archived from the original on 2013-12-03. Retrieved 2013-11-25.
+^ Feeds, Tweet (2009-02-10). "Adding an RSS/Atom feed to FriendFeed". Friendfeedhelp.blogspot.com. Archived from the original on 2013-12-03. Retrieved 2013-11-25.
+External links[edit]
+Listen to  this article 
+This audio file was created from a revision of this article dated 2008-07-12, and does not reflect subsequent edits.
+(Audio helpMore spoken articles)
+FriendFeed
+FriendFeed Is This Years Twitter, But Why?
+Friendfeed.com raises $5m VC
+vteFacebook, Inc.Website
+Facebook.com
+Features
+Beacon
+Bluetooth Beacon
+Credits
+Dating
+EdgeRank
+Gaming
+Graph Search
+Instant Articles
+Like button
+Live
+facebookcorewwwi.onion
+Platform
+Safety Check
+Stories
+Watch
+List of original programs
+Zero
+OtherproductsCurrent
+Atlas Solutions
+Express Wi-Fi
+Giphy
+Free Basics
+Instagram
+Hyperlapse
+IGTV
+List of most followed accounts
+List of most liked pictures
+Messenger
+Kids
+Mapillary
+Oculus Quest
+Oculus Rift
+CV1
+S
+Oculus Go
+Oculus Touch
+Portal
+WhatsApp
+Workplace
+Former
+FriendFeed
+Home
+HTC First
+M
+Onavo
+Paper
+Slingshot
+tbh
+Wirehog
+PeopleFounders
+Mark Zuckerberg (28% equity)
+Dustin Moskovitz (7%)
+Eduardo Saverin (5%, formerly)
+Chris Hughes (1%, formerly)
+Andrew McCollum
+Board
+Mark Zuckerberg
+Jim Breyer (11%)
+Peter Thiel (2%)
+Sheryl Sandberg
+Marc Andreessen
+Erskine Bowles
+Susan Desmond-Hellmann
+Donald E. Graham
+Reed Hastings
+ExecutiveofficersCurrent
+Mark Zuckerberg (Chairman and CEO)
+Sheryl Sandberg (COO)
+David Wehner (CFO)
+Mike Schroepfer (CTO)
+Chris Cox (Chief Product Officer)
+Former
+Sean Parker (4%, formerly)
+Owen Van Natta
+Gideon Yu
+Adam D'Angelo
+Chris Kelly
+Bret Taylor
+David Ebersman
+NotableemployeesCurrent
+Nick Clegg (VP of Global Affairs and Communications)
+Lars Rasmussen (Graph Search director)
+John Carmack (CTO of Oculus VR)
+Hugo Barra (VP of Oculus VR)
+Naomi Gleit (VP of social good)
+Former
+Blake Ross (Director of Product)
+Ted Ullyot (VP, General Counsel, and Secretary)
+Matt Cohler
+Charlie Cheever
+Randi Zuckerberg
+Yishan Wong
+George Hotz
+Joe Lockhart
+Andrei Alexandrescu (research scientist)
+Elliot Schrage (VP of Global Communications, Marketing and Public Policy)
+Open source
+Apache Cassandra
+Apache Hive
+Apache Thrift
+Buck
+FQL
+Hack
+HHVM
+HipHop for PHP
+Infer
+MyRocks
+Open Compute Project
+Phabricator
+React
+React Native
+RocksDB
+Scribe
+Telecom Infra Project
+Tornado
+Mass media
+The Facebook Effect
+The Accidental Billionaires
+The Social Network
+Concepts
+Activity stream
+Social graph
+Friending and following
+Reblogging
+Fan-gating
+Facebook diplomacy
+Facebook like button
+Business
+History
+Timeline
+Acquisitions
+f8 conference
+IPO
+Censorship
+Criticism
+Cambridge Analytica data scandal
+Privacy
+Litigation
+Lists
+Most-followed Facebook pages
+Most-viewed videos in the first 24 hours
+Related
+Priscilla Chan (wife of Mark Zuckerberg)
+Chan Zuckerberg Initiative
+Aquila Internet relay drone
+Willow Village
+vteSocial networking servicesPersonal
+23snaps
+Amikumu
+aNobii
+Ask.fm
+Badoo
+Bumble
+Cloob
+Cyworld
+Diaspora
+Douban
+Draugiem.lv
+Ello
+Facebook
+Foursquare City Guide
+Foursquare Swarm
+Gab
+Gapo
+Hello
+Hi5
+Houseparty
+Idka
+Instagram
+IGTV
+IRC-Galleria
+Keek
+LiveJournal
+Lifeknot
+Likee
+Marco Polo
+Mastodon
+MeetMe
+Meetup
+MeWe
+Miaopai
+micro.blog
+Minds
+MixBit
+Mixi
+Myspace
+My World
+NK.pl
+Nextdoor
+OK.ru
+Parler
+Path
+Peach
+Periscope
+Pinterest
+Pixnet
+Plurk
+Qzone
+Readgeek
+Renren
+Sina Weibo
+Slidely
+Snapchat
+SNOW
+Spaces
+Streetlife
+StudiVZ
+Tagged
+Taringa!
+TikTok
+Tinder
+Tuenti
+TV Time
+Tumblr
+Twitter
+Untappd
+Vero
+VK
+Whisper
+Xanga
+Yo
+Professional
+Academia.edu
+Brainly
+BranchOut
+Edmodo
+HCL Connections
+LinkedIn
+Moodle
+ResearchGate
+Sciencescape (Metaα)
+Solaborate
+Viadeo
+XING
+IdeaPlane
+Yammer
+Defunct
+App.net
+AsianAve
+Avatars United
+Bebo
+Bolt
+Capazoo
+eConozco
+Emojli
+eWorld
+Eyegroove
+FitFinder
+Formspring
+FriendFeed
+Friends Reunited
+Friendster
+Grono.net
+Google+
+Google Buzz
+Heello
+Highlight
+Hyves
+iTunes Ping
+iWiW
+Jaiku
+LunarStorm
+Me2day
+Meerkat
+Mobli
+Mugshot
+Multiply
+Musical.ly
+Natter Social Network
+Netlog
+Orkut
+Pheed
+Piczo
+PlanetAll
+Posterous
+Pownce
+Qaiku
+SixDegrees.com
+So.cl
+Spring.me
+Surfbook
+tbh
+Tea Party Community
+Tribe.net
+Tout
+Tsū
+tvtag
+Vine
+Windows Live Spaces
+Wretch
+Yahoo! 360°
+Yahoo! Kickstart
+Yahoo! Mash
+Yahoo! Meme
+Yik Yak
+Services
+Software comparison
+White-label
+Ning
+Wall.fm
+Tools
+Social network analysis software
+Diaspora (software)
+Web 2.0 Suicide Machine
+Concepts
+Online identity
+User profile
+Virtual community
+1+ million users
+Small-world experiment
+Small-world network
+Social network
+Cybersectarianism
+Fediverse
+Applications
+Social network advertising
+Social network hosting service
+Online dating service (comparison)
+Mobile
+User interface
+Activity stream
+Brand page
+Like button
+Hashtag
+Groups
+Reblogging
+Polling
+Online petitions
+Implications
+Issues relating to social networking services
+Privacy issues
+User gender difference
+Use in investigations
+Protocols
+ActivityPub
+Distributed Social Networking Protocol (defunct)
+Micropub
+OpenSocial (defunct)
+OStatus
+Pump.io
+XMPP
+Retrieved from "https://en.wikipedia.org/w/index.php?title=FriendFeed&amp;oldid=955418937"
+		Categories: Social information processingFacebook acquisitionsInternet properties established in 2007Internet properties disestablished in 2015Companies based in Mountain View, California2009 mergers and acquisitionsDefunct social networking servicesHidden categories: Webarchive template wayback linksArticles containing potentially dated statements from March 2019All articles containing potentially dated statementsSpoken articlesArticles with hAudio microformats
+	Navigation menu
+		Personal tools
+		Not logged inTalkContributionsCreate accountLog in
+		Namespaces
+		ArticleTalk
+		Variants
+		Views
+		ReadEditView history
+		More
+		Search
+		Navigation
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		Contribute
+		HelpLearn to editCommunity portalRecent changesUpload file
+		Tools
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		Print/export
+		Download as PDFPrintable version
+		Languages
+		EspañolفارسیFrançaisItalianoPortuguêsРусскийТатарча/tatarçaTürkçeУкраїнська中文
+		Edit links
+		 This page was last edited on 7 May 2020, at 18:15 (UTC).
+		Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+		Privacy policy
+		About Wikipedia
+		Disclaimers
+		Contact Wikipedia
+		Mobile view
+		Developers
+		Statistics
+		Cookie statement

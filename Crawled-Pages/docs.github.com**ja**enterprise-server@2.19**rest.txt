@@ -1,0 +1,166 @@
+     category > maptopic > article -->
+    GitHub Docs
+    All products
+  REST API
+          概要
+          REST API のリソース
+          メディアタイプ
+          その他の認証方式
+          トラブルシューティング
+          API プレビュー
+          ライブラリ
+          GitHub App で利用可能なエンドポイント
+          リファレンス
+          アクティビティ
+          アプリ
+          チェック
+          行動規範
+          絵文字
+          GitHub Enterprise の管理
+          Gist
+          Git データベース
+          Gitignore
+          問題
+          ライセンス
+          Markdown
+          メタ情報
+          OAuth 認証
+          Organization
+          プロジェクト
+          Pulls
+          レート制限
+          リアクション
+          リポジトリ
+          検索
+          Team
+          ユーザ
+          GitHub Appに必要な権限
+          ガイド
+          REST APIを使ってみる
+          認証の基本
+          ユーザのリソースを調べる
+          デプロイメントを配信する
+          データをグラフとしてレンダリングする
+          コメントを扱う
+          ページネーションの詳細
+          CIサーバーの構築
+          インテグレーターのためのベストプラクティス
+          Git Database APIを使ってみる
+          Checks APIを使ってみる
+  ドキュメントには頻繁に更新が加えられ、その都度公開されています。本ページの翻訳はまだ未完成な部分があることをご了承ください。最新の情報については、英語のドキュメンテーションをご参照ください。本ページの翻訳に問題がある場合はこちらまでご連絡ください。
+        GitHub Docs
+                製品で調べる
+                      REST API
+                       GitHub.com
+                       Enterprise Administrators
+                       GitHub Actions
+                       GitHub Packages
+                       Developers
+                       REST API
+                       GraphQL API
+                       GitHub Insights
+                       GitHub Desktop
+                       Atom
+                       Electron
+                            日本語 (Japanese)
+                              English
+                              简体中文 (Simplified Chinese)
+                              日本語 (Japanese)
+                              Español (Spanish)
+                              Português do Brasil (Portuguese)
+          このバージョンの GitHub Enterprise はこの日付をもって終了となります:
+          このバージョンの GitHub Enterprise はこの日付をもって終了となりました:
+        2020-11-12.
+      重大なセキュリティの問題に対してであっても、パッチリリースは作成されません。 パフォーマンスの向上、セキュリティの改善、新機能のためには、最新バージョンのGitHub Enterpriseにアップグレードしてください。 アップグレードに関する支援については、GitHub Enterprise supportに連絡してください。
+      記事のバージョン： Enterprise Server 2.19
+      Free, Pro, and Team
+      Enterprise Server 2.22
+      Enterprise Server 2.21
+      Enterprise Server 2.20
+      Enterprise Server 2.19
+    REST API
+      記事のバージョン： Enterprise Server 2.19
+      Free, Pro, and Team
+      Enterprise Server 2.22
+      Enterprise Server 2.21
+      Enterprise Server 2.20
+      Enterprise Server 2.19
+        GitHubのREST API
+        GitHubのREST APIを使って呼び出しを作成し、GitHubとインテグレートする必要があるデータを取得できます。
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        必須
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        任意
+      Can we contact you if we have more questions?
+        任意
+      送信
+    ありがとうございます。フィードバックが送信されました。
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  OR, learn how to contribute.
+  REST API の概要→
+GitHub の REST API のリソース、ライブラリ、プレビュー、トラブルシューティングについて学びます。
+  リファレンス→
+GitHub RESTのAPIで使用できるリソースについては、リファレンスドキュメントを参照してください。
+  ガイド→
+REST APIおよび認証の初歩や、さまざまなタスクでREST APIを使用する方法について学びましょう。
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        必須
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        任意
+      Can we contact you if we have more questions?
+        任意
+      送信
+    ありがとうございます。フィードバックが送信されました。
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  OR, learn how to contribute.
+      Still need help?
+      Ask the GitHub community
+      サポートへの連絡
+        製品
+          機能
+          セキュリティ
+          Enterprise
+          ケーススタディ
+          価格
+          リソース
+        プラットフォーム
+          開発者 API
+          パートナー
+          Atom
+          Electron
+          GitHub Desktop
+        サポート
+          ヘルプ
+          コミュニティフォーラム
+          トレーニング
+          状況
+          GitHubに連絡
+        会社
+          GitHubについて
+          ブログ
+          キャリア
+          プレス
+          ショップ
+        © 2020 GitHub, Inc.
+        規約 
+        プライバシー 

@@ -1,0 +1,194 @@
+     category > maptopic > article -->
+    GitHub Docs
+    All products
+  GitHub Packages
+          Getting started with GitHub Container Registry
+          About GitHub Container Registry
+          Core concepts for GitHub Container Registry
+          Migrating to GitHub Container Registry for Docker images
+          Enabling GitHub Container Registry for your organization
+          Managing container images with GitHub Container Registry
+          Configuring access control and visibility for container images
+          Connecting a repository to a container image
+          Pushing and pulling Docker images
+          Deleting a container image
+          Publishing and managing packages
+          About GitHub Packages
+          Publishing a package
+          Viewing packages
+          Installing a package
+          Deleting a package
+          Using GitHub Packages with your project's ecosystem
+          Using GitHub Packages with GitHub Actions
+          Configuring Docker for use with GitHub Packages
+          Configuring Apache Maven for use with GitHub Packages
+          Configuring Gradle for use with GitHub Packages
+          Configuring npm for use with GitHub Packages
+          Configuring `dotnet` CLI for use with GitHub Packages
+          Configuring RubyGems for use with GitHub Packages
+        GitHub Docs
+                Explore by product
+                      GitHub Packages
+                       GitHub.com
+                       Enterprise Administrators
+                       GitHub Actions
+                       GitHub Packages
+                       Developers
+                       REST API
+                       GraphQL API
+                       GitHub Insights
+                       GitHub Desktop
+                       Atom
+                       Electron
+                            English
+                              English
+                              简体中文 (Simplified Chinese)
+                              日本語 (Japanese)
+                              Español (Spanish)
+                              Português do Brasil (Portuguese)
+      Article version: Free, Pro, and Team
+      Free, Pro, and Team
+      Enterprise Server 2.22
+    GitHub Packages
+    Publishing and managing packages
+    About GitHub Packages
+      Article version: Free, Pro, and Team
+      Free, Pro, and Team
+      Enterprise Server 2.22
+        About GitHub Packages
+        GitHub Packages is a software package hosting service that allows you to host your software packages privately or publicly and use packages as dependencies in your projects.
+        GitHub Packages is available with GitHub Free, GitHub Pro, GitHub Free for organizations, GitHub Team, GitHub Enterprise Cloud, GitHub Enterprise Server 2.22, and GitHub One.
+GitHub Packages is not available for private repositories owned by accounts using legacy per-repository plans. Also, accounts using legacy per-repository plans cannot access GitHub Container Registry since these accounts are billed by repository. For more information, see "GitHub's products."
+        In this article
+          About GitHub Packages
+          About billing for GitHub Packages
+          Supported clients and formats
+          Authenticating to GitHub Packages
+          About scopes and permissions for GitHub Container Registry
+          About scopes and permissions for package registries
+          Managing packages
+          Contacting support
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        Required
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        Optional
+      Can we contact you if we have more questions?
+        Optional
+      Send
+    Thank you! Your feedback has been submitted.
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  Or, learn how to contribute.
+      About GitHub Packages
+GitHub Packages is a platform for hosting and managing packages, including containers and other dependencies. GitHub Packages combines your source code and packages in one place to provide integrated permissions management and billing, so you can centralize your software development on GitHub.
+You can integrate GitHub Packages with GitHub APIs, GitHub Actions, and webhooks to create an end-to-end DevOps workflow that includes your code, CI, and deployment solutions.
+GitHub Packages offers different package registries for commonly used packages, such as for Node, RubyGems, Apache Maven, Gradle, and Nuget.
+GitHub Packages also offers a container registry designed to support the unique needs of container images. For more information, see "About GitHub Container Registry."
+Note: GitHub Container Registry is currently in public beta and subject to change. Currently, GitHub Container Registry only supports Docker image formats. During the beta, storage and bandwidth is free. For more information, see "About GitHub Container Registry."
+Viewing packages
+You can review the package's README, some metadata like licensing, download statistics, version history, and more on GitHub. For more information, see "Viewing packages."
+About package permissions and visibility
+Package registriesGitHub Container RegistryHosting locationsYou can host multiple packages in one repository.You can host multiple container images in one organization or user account.PermissionsEach package inherits the permissions of the repository where the package is hosted.   For example, anyone with read permissions for a repository can install a package as a dependency in a project, and anyone with write permissions can publish a new package version.For each container image, you can choose the access level that others have. The permissions for container image access are separate from your organization and repository permissions.VisibilityYou can publish packages in a public repository (public packages) to share with all of GitHub, or in a private repository (private packages) to share with collaborators or an organization.You can set the visibility of each of your container images. A private container image is only visible to people and teams who are given access within your organization. A public container image is visible to anyone.Anonymous accessN/AYou can access public container images anonymously.
+For more information about permissions and visibility for GitHub Container Registry, see "Configuring access control and visibility for containers."
+About billing for GitHub Packages
+GitHub Packages usage is free for public packages. For private packages, each GitHub account receives a certain amount of free storage and data transfer, depending on the product used with the account. By default, your account will have a spending limit of $0, which prevents additional usage of storage or data transfer after you reach the included amounts. If you increase your spending limit above the default of $0, you will be billed for any additional storage or data transfer, also called overages, up to your spending limit. Any coupons on your account do not apply to GitHub Packages overages. For more information, see "About billing for GitHub Packages."
+Billing update for container image storage: During the beta phase of GitHub Container Registry, Docker image storage and bandwidth are free for the old docker.pkg.github.com and new ghcr.io hosting services. For more information, see "About GitHub Container Registry."
+Supported clients and formats
+GitHub Packages uses the native package tooling commands you're already familiar with to publish and install package versions.
+Support for GitHub Container Registry
+The GitHub Container Registry hosts containers at ghcr.io/OWNER/IMAGE-NAME.
+Package clientLanguagePackage formatDescriptionDocker CLIN/ADockerfileDocker container support.
+For more information about the container support offered by GitHub Container Registry, see "About GitHub Container Registry."
+Support for package registries
+Package registries use PACKAGE-TYPE.pkg.github.com/OWNER/REPOSITORY/IMAGE-NAME as the package host URL, replacing PACKAGE-TYPE with the Package namespace. For example, your Gemfile will be hosted at rubygem.pkg.github.com/OWNER/REPOSITORY/IMAGE-NAME.
+LanguageDescriptionPackage formatPackage clientPackage namespaceJavaScriptNode package managerpackage.jsonnpmnpm.pkg.github.com/OWNER/REPOSITORY/IMAGE-NAMERubyRubyGems package managerGemfilegemrubygems.pkg.github.com/OWNER/REPOSITORY/IMAGE-NAMEJavaApache Maven project management and comprehension toolpom.xmlmvnmaven.HOSTNAME/OWNER/REPOSITORY/IMAGE-NAMEJavaGradle build automation tool for Javabuild.gradle or build.gradle.ktsgradlemaven.HOSTNAME/OWNER/REPOSITORY/IMAGE-NAME.NETNuGet package management for .NETnupkgdotnet CLInuget.pkg.github.com/OWNER/REPOSITORY/IMAGE-NAME`
+For more information about configuring your package client for use with GitHub Packages, see "Using GitHub Packages with your project's ecosystem."
+Authenticating to GitHub Packages
+You need an access token to publish, install, and delete packages. You can use a personal access token to authenticate with your username directly to GitHub Packages or the GitHub API. When you create a personal access token, you can assign the token different scopes depending on your needs.
+To authenticate using a GitHub Actions workflow:
+For package registries (PACKAGE-REGISTRY.pkg.github.com/OWNER/REPOSITORY/IMAGE-NAME), you can use a GITHUB_TOKEN.
+For the container registry (ghcr.io/OWNER/IMAGE-NAME), you must use a personal access token.
+About scopes and permissions for GitHub Container Registry
+ScopeDescriptionread:packagesDownload and install container images from GitHub Container Registrywrite:packagesUpload and publish container images to GitHub Container Registrydelete:packagesDelete specified versions of private or public container images from GitHub Container Registry. For more information, see "Deleting a container image."
+To learn about available scopes and permissions for container images, see "About GitHub Container Registry" or "Configuring access control and visibility for container images."
+For more information, see "Creating a personal access token" and "Available scopes."
+About scopes and permissions for package registries
+To use or manage a package hosted by a package registry, you must use a token with the appropriate scope, and your user account must have appropriate permissions for that repository.
+For example:
+To download and install packages from a repository, your token must have the read:packages scope, and your user account must have read permissions for the repository. If the repository is private, your token must also have the repo scope.
+To delete a specified version of a private package on GitHub, your token must have the delete:packages and repo scope. Public packages cannot be deleted. For more information, see "Deleting a package."
+ScopeDescriptionRepository permissionsread:packagesDownload and install packages from GitHub Packagesreadwrite:packagesUpload and publish packages to GitHub Packageswritedelete:packagesDelete specified versions of private packages from GitHub PackagesadminrepoInstall, upload, and delete certain packages in private repositories (along with read:packages, write:packages, or delete:packages)read, write, or admin
+When you create a GitHub Actions workflow, you can use the GITHUB_TOKEN to publish and install packages in GitHub Packages without needing to store and manage a personal access token.
+For more information, see:
+"Using GitHub Packages with GitHub Actions"
+"Creating a personal access token"
+"Available scopes"
+Managing packages
+You can delete a version of a private package on GitHub or using the GraphQL API. When you use the GraphQL API to query and delete private packages, you must use the same token you use to authenticate to GitHub Packages. For more information, see "Deleting a package" and "Forming calls with GraphQL."
+You can configure webhooks to subscribe to package-related events, such as when a package is published or updated. For more information, see the "package webhook event."
+Contacting support
+If you have feedback or feature requests for GitHub Packages, use the feedback form for GitHub Packages.
+Contact GitHub Support about GitHub Packages using our contact form if:
+You experience anything that contradicts the documentation
+You encounter vague or unclear errors
+Your published package contains sensitive data, such as GDPR violations, API Keys, or personally identifying information
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        Required
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        Optional
+      Can we contact you if we have more questions?
+        Optional
+      Send
+    Thank you! Your feedback has been submitted.
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  Or, learn how to contribute.
+      Still need help?
+      Ask the GitHub community
+      Contact support
+        Product
+          Features
+          Security
+          Enterprise
+          Case Studies
+          Pricing
+          Resources
+        Platform
+          Developer API
+          Partners
+          Atom
+          Electron
+          GitHub Desktop
+        Support
+          Help
+          Community Forum
+          Training
+          Status
+          Contact GitHub
+        Company
+          About
+          Blog
+          Careers
+          Press
+          Shop
+        © 2020 GitHub, Inc.
+        Terms 
+        Privacy 

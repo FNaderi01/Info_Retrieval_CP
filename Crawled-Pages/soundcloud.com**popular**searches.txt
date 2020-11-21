@@ -1,0 +1,200 @@
+      /* TODO: Include this css via templating or webpack */
+      /*
+        The placeholder enhances the perceived loading time, it also permits people who are using an outdated browser or
+        who don't have JS enabled to see at least the header and not a total blank page.
+        Once the JS application is started this and everything else in #app gets overwritten
+      */
+      .header {
+        width: 100%;
+        background: #333;
+        height: 46px;
+      }
+      .header__logo {
+        background: #333;
+      }
+      .header__logoLink {
+        background: transparent url(https://a-v2.sndcdn.com/assets/images/header/cloud-e365a472bf.png) no-repeat 12px 11px;
+        background-size: 48px 22px;
+        display: block;
+        height: 46px;
+        width: 69px;
+      }
+      .header__logoLink:focus {
+        background-color: rgba(255, 72, 0, 0.8);
+        outline: 0;
+      }
+      #header__loading {
+        margin: 13px auto 0;
+        width: 16px;
+        background: url(https://a-v2.sndcdn.com/assets/images/loader-dark-45940ae3d4.gif) center no-repeat;
+        background-size: 16px 16px;
+      }
+      @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx) {
+        .header__logoLink {
+          background-image: url(https://a-v2.sndcdn.com/assets/images/header/cloud@2x-e5fba4606d.png);
+        }
+      }
+            SoundCloud
+      /* TODO: Include this css via templating or webpack */
+      .errorPage__inner {
+        width: 580px;
+        margin: 0 auto;
+        position: relative;
+        padding-top: 460px;
+        background: url(https://a-v2.sndcdn.com/assets/images/errors/500-e5a180b7a8.png) no-repeat 50% 80px;
+        text-align: center;
+        transition: all 1s linear;
+      }
+      .errorTitle {
+        margin-bottom: 10px;
+        font-size: 30px;
+      }
+      .errorText {
+        line-height: 28px;
+        color: #666;
+        font-size: 20px;
+      }
+      .errorButtons {
+        margin-top: 30px;
+      }
+      #updateBrowserMessage {
+        width: 600px;
+        margin: 0 auto;
+        position: relative;
+        padding-top: 410px;
+        background: url(https://a-v2.sndcdn.com/assets/images/errors/browser-9cdd4e6df7.png) no-repeat 50% 130px;
+        text-align: center;
+        display: none;
+      }
+      #updateBrowserMessage .messageText {
+        line-height: 26px;
+        font-size: 20px;
+        margin-bottom: 5px;
+      }
+      #updateBrowserMessage .downloadLinks {
+        margin-top: 0;
+      }
+      @media (max-width:1280px){
+        .errorPage__inner {
+          background-size: 80%;
+        }
+      }
+    JavaScript is disabled
+    You need to enable JavaScript to use SoundCloud
+      Show me how to enable it
+    Popular searches
+Browse the most popular searches from the last 24 hours
+Search Pages
+      1
+      2
+      3
+      4
+      5
+Top 1 - 100 searches
+      nba youngboy
+      juice wrld
+      pop smoke
+      lil peep
+      xxxtentacion
+      polo g
+      rod wave
+      lil baby
+      lil uzi vert
+      wap cardi b
+      21 savage
+      lil durk
+      trippie redd
+      wap
+      tory lanez
+      king von
+      lil tecca
+      nle choppa
+      juice wrld unreleased
+      lil tjay
+      kodak black
+      yagami yato
+      ynw melly
+      travis scott
+      drake
+      playboi carti
+      moneybagg yo
+      suicide boys
+      dababy
+      toosii
+      bad bunny
+      kevin gates
+      lemonade don toliver
+      bryson tiller
+      mood swings pop smoke
+      roddy ricch
+      capitalize off pain
+      lets link
+      brent faiyaz
+      youngboy never broke again
+      future
+      g herbo
+      ncs
+      pooh shiesty
+      dolly lil uzi vert
+      gunna
+      megan thee stallion
+      for the night pop smoke
+      a boogie wit da hoodie
+      excitement trippie redd
+      big bootie mix
+      chief keef
+      what you know about love pop smoke
+      jaydayoungan
+      shoreline mafia
+      hello pop smoke
+      post malone
+      hotboii
+      sleepy hallow
+      comethazine
+      savage mode 2
+      billie eilish
+      cardi b
+      lil wayne
+      nuts lil peep
+      young thug
+      lil skies
+      6ix9ine
+      no guidance remix
+      mood 24kgoldn
+      junior h
+      thick dj chose
+      all girls are the same
+      eminem
+      sada baby
+      ski mask the slump god
+      martin and gina polo g
+      joji
+      wishing well juice wrld
+      sheff g
+      throat baby kash kash
+      mac miller
+      moonwalking in calabasas
+      blueface
+      cigarettes juice wrld
+      star shopping
+      the kid laroi
+      rylo rodriguez
+      party girl
+      summer walker
+      eslabon armado
+      ghostemane
+      pop smoke mood swings
+      j cole
+      tee grizzley
+      mood
+      young dolph
+      chris brown
+      melanie martinez
+      laugh now cry later
+    Your current browser isn't compatible with SoundCloud. 
+    Please download one of our supported browsers. Need help?
+    Chrome | Firefox | Safari | Internet Explorer
+  Sorry! Something went wrong
+    Is your network connection unstable or browser outdated?
+    I need help
+  Popular searches

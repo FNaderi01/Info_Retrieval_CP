@@ -1,0 +1,290 @@
+    Skip to main content
+.m-privacy-consent {
+  background-color: rgb(60, 60, 60);
+  bottom: 0;
+  color: white !important;
+  font-size: 17px !important;
+  font-weight: normal !important;
+  line-height: 1.5em !important;
+  left: 0;
+  position: fixed;
+  right: 0;
+  z-index: 5000001;
+}
+.m-privacy-consent__inner {
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 30px;
+}
+.m-privacy-consent__inner a {
+  color: white !important;
+  font-weight: bold;
+  text-decoration: underline !important;
+}
+.m-privacy-consent__inner a:hover {
+  color: #ccc !important;
+}
+.m-privacy-consent__inner button {
+  background-color: #4f7177;
+  border: 1px solid white;
+  color: #ffffff;
+  display: block;
+  font-weight: bold;
+  height: 46px;
+  line-height: 46px;
+  padding: 0 2em;
+  margin: 0 auto;
+  min-width: 200px;
+}
+.m-privacy-consent__inner button:hover {
+  background-color: #333;
+}
+.m-privacy-consent__inner button:disabled {
+  background-color: #888;
+}
+.m-privacy-consent__button-content {
+  align-items: center;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  width: 100%;
+}
+.hidden {
+  display: none;
+}
+@media(max-width: 500px) {
+  .m-privacy-consent {
+    font-size: 14px !important;
+  }
+}
+/* spinner animation */
+.m-privacy-consent__hourglass,
+.m-privacy-consent__hourglass:after {
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+}
+.m-privacy-consent__hourglass {
+  display: none;
+  font-size: 10px;
+  position: relative;
+  text-indent: -9999em;
+  border-top: 3px solid rgba(255, 255, 255, 0.2);
+  border-right: 3px solid rgba(255, 255, 255, 0.2);
+  border-bottom: 3px solid rgba(255, 255, 255, 0.2);
+  border-left: 3px solid #ffffff;
+  margin-right: 1em;
+  -webkit-transform: translateZ(0);
+  -ms-transform: translateZ(0);
+  transform: translateZ(0);
+  -webkit-animation: load8 1.1s infinite linear;
+  animation: load8 1.1s infinite linear;
+}
+@media (prefers-reduced-motion: reduce) {
+  .m-privacy-consent__hourglass {
+    -webkit-animation: none;
+    animation: none;
+  }
+}
+button:disabled .m-privacy-consent__hourglass {
+  display: block;
+}
+@-webkit-keyframes load8 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@keyframes load8 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+      Cookie banner
+  We use cookies and other tracking technologies to improve your browsing experience on our site, show personalized content and targeted ads, analyze site traffic, and understand where our audiences come from. To learn more or opt-out, read our Cookie Policy. Please also read our Privacy Notice and Terms of Use, which became effective December 20, 2019.
+  By choosing I Accept, you consent to our use of cookies and other tracking technologies.
+          I Accept
+      clock
+menu
+more-arrow
+no
+yes
+          Vox homepage
+      Follow Vox online:
+          Follow Vox on Twitter
+          Follow Vox on Facebook
+          Follow Vox on Youtube
+          RSS feed (all stories on Vox)
+        Site search
+          Search
+          Search
+      Vox main menu
+              Coronavirus
+              Open Sourced
+              Recode
+              The Goods
+              Future Perfect
+              The Highlight
+              First Person
+              Podcasts
+              Video
+              Explainers
+              Culture
+              Politics &amp; Policy
+              Science &amp; Health
+              World
+              Identities
+              Energy &amp; Environment
+              Technology
+              Business &amp; Finance
+            More
+            Coronavirus
+            Open Sourced
+            Recode
+            The Goods
+            Future Perfect
+            The Highlight
+            First Person
+            Podcasts
+            Video
+            Explainers
+            Culture
+            Politics &amp; Policy
+            Science &amp; Health
+            World
+            Identities
+            Energy &amp; Environment
+            Technology
+            Business &amp; Finance
+      ✕
+      Support our journalism: 
+      Millions rely on Vox’s explainers to understand an increasingly chaotic world. Chip in as little as $3 to help keep it free for everyone.
+      ×
+    In 2005, Republicans controlled Washington. Their agenda failed. Here's why.
+  A cautionary tale for Donald Trump — and Democrats.
+        By
+            Andrew Prokop
+          Jan  9, 2017,  9:00am EST
+  Share this story
+        Share this on Facebook
+        Share this on Twitter
+        Share
+        All sharing options
+          Share
+          All sharing options for:
+          In 2005, Republicans controlled Washington. Their agenda failed. Here's why.
+                Reddit
+                Pocket
+                Flipboard
+                Email
+        President George W. Bush flanked by Democratic congressional leaders Nancy Pelosi and Harry Reid.
+        JIM WATSON/AFP/Getty Image
+  The 2004 election gave President George W. Bush a second term in office and expanded Republican majorities in both houses of Congress. So soon afterward, he pledged to spend the “political capital” he said he’d earned on a longtime conservative priority — the partial privatization of Social Security. 
+The effort failed. Despite those sizable GOP majorities and the president’s own barnstorming across the country to sell his proposal, creating private accounts for Social Security became so toxic that it was never brought to a vote in either the House or Senate. 
+Rather than ushering in a new era of Republican dominance, the fight rejuvenated the Democratic Party’s fortunes and helped pave the way to its takeover of Congress in the 2006 midterms.
+So as both parties prepare for two years of unified Republican control of Washington — with a battle over Obamacare repeal looming, as well as a potential effort by House Speaker Paul Ryan to slash social welfare spending — everyone involved, from the Democratic opposition to President-elect Trump, could learn some lessons from the Social Security reform fight of 2005. 
+Those lessons include: an election victory is in no sense a blank check for the winning party, unified partisan opposition can work — and fighting to preserve safety-net programs can be very good politics indeed.
+President Bush misjudged — or misrepresented — his mandate
+        President Bush declares victory on election night, 2004.
+        Andrew Lichtenstein/Corbis via Getty
+Almost every victorious presidential candidate claims to have earned a “mandate” to enact their respective policy agendas, as Julia Azari has written. Those claims are often exaggerated, and they can evaporate fast.
+Bush proposed incorporating private accounts into Social Security during both his 2000 and 2004 campaigns. But those proposals contained few details and rarely rose to the top of his agenda. In 2004, the Iraq War, fears of terrorism, the state of the economy, same-sex marriage, and discussion of both candidates’ character dominated far more public attention. A Gallup poll shortly after the election found that a mere 1 percent of voters said Social Security was one of top two most important issues affecting their votes.
+So Bush’s rapid decision to make Social Security reform his top domestic priority was quickly greeted with raised eyebrows. “For reasons that continue to confound me,” former Harry Reid aide Jim Manley says, “both the president and [his top political adviser] Karl Rove concluded after the election that they had a mandate” on Social Security.
+Privatization appealed to the president’s desire to make a major historic impact — “[Bush] and Rove thought it would be the defining domestic legacy of his second term,” Peter Baker writes in Days of Fire, his history of the Bush presidency. And since they had won several difficult legislative victories in his first term — two big rounds of tax cuts, a Medicare prescription drug benefit, and authorization for the Iraq War — the Bush team thought they could pull it off.
+Democrats decided to oppose Bush rather than make a deal — and it paid off
+        Max Baucus, Harry Reid, and other congressional Democrats at a rally opposing Bush’s Social Security plan.
+        Scott J. Ferrell/Congressional Quarterly/Getty Images
+Bush’s team quickly set about trying to convince the public that they wanted these reforms too. The chief argument the president pitched was that Social Security was facing an imminent funding “crisis” requiring major reform. He made the case in his State of the Union in February 2005, and immediately afterward, he barnstormed the country trying to drum up support, campaigning particularly in red states represented by Democratic senators. 
+But despite their defeat, Democrats were in no mood to play ball. The new Democratic Senate leader, Harry Reid — coming to power in a state Bush won, after the previous leader, Tom Daschle, lost his own reelection — quickly concluded that Bush’s proposal so struck at the social welfare state that, as Manley puts it, “There was no other option but to fight it.”
+So Democrats pushed back. In think tanks, on blogs, in activist groups, and in Congress, they sought to rebut the president’s case — arguing that there was no imminent crisis, that private accounts would in fact worsen the program’s financial situation, and that privatization meant putting much of the public’s retirement savings at the mercy of the markets.
+As the debate played out, even moderate red state Democrats temperamentally inclined toward bipartisanship, like then-Sen. Max Baucus of Montana, took the temperature of their constituents and decided that privatization was a loser. According to Reid’s recounting in his memoirs, the president’s campaigning in Montana only annoyed Baucus and cemented his commitment to the Democratic opposition. 
+Democrats also resisted calls from the press and centrist policy advocates to commit to their own Social Security reform. “When Dianne Feinstein of California, who was also sympathetic to the White House’s position, signaled that she might propose an alternative plan, Senator Baucus quickly convinced her to abandon the idea,” Reid writes. And an aide to Rep. Nancy Pelosi, the top Democrat in the House, told the Boston Globe that, when asked when Democrats would release their own plan, she often gave the same response: "Never. Does never work for you?"
+Even by early February, New York Times reporter Robin Toner could report on “a general anxiety attack in the Republican center over Social Security.” She wrote that there was “no real consensus on how to achieve the president's domestic goals or even, perhaps, whether doing so is worth the price.” 
+Bush’s public campaigning failed to win voters to his side. A Washington Post/ABC poll showed that in January, 55 percent of respondents disapproved of his Social Security handling — and by April, 64 percent did. 
+There was no particular moment when the initiative died, but the issue receded from the public agenda as all the major players became convinced it could not pass. In the end, the centerpiece of Bush’s second-term domestic agenda was never even brought to a vote. “Leader Pelosi and Sen. Reid have a lot of legislation to celebrate, but they take a particular pride in defeating this,” says Manley. “This was for all the marbles.”
+The bigger picture: Screwing around with people’s benefits just isn’t popular
+There’s an even more intuitive reason why Bush’s Social Security reform failed. As Talking Points Memo founder Josh Marshall, who extensively covered the debate in 2005, puts it: “The biggest thing was simply that it was really unpopular.”
+Bush’s two rounds of tax cuts and Medicare Part D involved giving voters stuff — Social Security privatization instead was about changing benefits voters were already slated to get. “It was taking something that was working and making it something that was very risky, inherently risky and could have very negative consequences for individual people,” Marshall says. “And the more people found out about it, the more people were opposed to it.”
+Interestingly enough, as the GOP prepares to assume unified control of Washington, the Republican who seems most cognizant of that decade-old lesson is Trump himself.
+Trump’s policy preferences on many issues appear malleable, but his instincts on big-picture political questions are reasonably consistent. Throughout the primaries, he set himself apart from the rest of the Republican field by adamantly refusing to cut benefits, saying he wouldn’t let people “die on the streets” and that he’d replace Obamacare with “something terrific.”
+I was the first &amp; only potential GOP candidate to state there will be no cuts to Social Security, Medicare &amp; Medicaid. Huckabee copied me.— Donald J. Trump (@realDonaldTrump) May 7, 2015
+Yet the Republican majorities in Congress may have other ideas. The GOP leadership currently supports pushing through a time-delayed repeal of Obamacare before agreeing on any replacement. House Speaker Paul Ryan has long pushed for restructuring Medicare and Medicaid.
+Democrats who remember the failed Bush effort in 2005 are eager for the GOP to tackle those issues. “Make our day,” Chuck Schumer said in December, in reference to Ryan’s Medicare plan. That’s not a mandate. It’s an invitation. 
+    Next Up In
+        Politics &amp; Policy
+          Trump’s latest White House event put some of the nation’s most vulnerable people at risk 
+          Trump used his first speech post-hospitalization to make a pitch to Black voters
+          Federal judge blocks a Texas order limiting ballot drop-off locations
+          Chris Christie leaves the hospital after a week of Covid-19 treatment
+          Trump may still be infectious. He’s having events anyway.
+          The second debate between Trump and Biden is canceled
+          Most Read
+            Trump used his first speech post-hospitalization to make a pitch to Black voters
+              In a brief 15-minute speech, he touted his support for law enforcement and investment in Black-owned businesses.
+            Trump’s latest White House event put some of the nation’s most vulnerable people at risk 
+              Black and brown Trump supporters gathered to hear Trump speak just days after he was hospitalized for Covid-19.
+            The seductive absurdity of Netflix’s Emily in Paris
+              The series is a boomer’s fantasy of a lazy millennial’s life.
+            Why Covid-19 cases are surging in the UK
+              Boris Johnson’s response is likely to blame for the country’s record-high case counts.
+            Where fall colors are hitting their peak, in one map
+              It’s been a tough fall, and everyone deserves some leaf therapy.
+    vox-mark
+        Sign up for the
+          newsletter
+      Future Perfect
+      Get our newsletter in your inbox twice a week.
+            Email (required)
+        By signing up, you agree to our Privacy Notice and European users agree to the data transfer policy.
+        For more newsletters, check out our newsletters page.
+    Subscribe
+      The Latest
+    Trump’s latest White House event put some of the nation’s most vulnerable people at risk 
+        By
+            Fabiola Cineas
+    Trump used his first speech post-hospitalization to make a pitch to Black voters
+        By
+            Katelyn Burns
+    Federal judge blocks a Texas order limiting ballot drop-off locations
+        By
+            Jen Kirby
+    Chris Christie leaves the hospital after a week of Covid-19 treatment
+        By
+            Katelyn Burns
+    Tropical depression Delta brings heavy rain and wind to the Gulf Coast
+        By
+            Fabiola Cineas
+    Trump may still be infectious. He’s having events anyway.
+        By
+            Katelyn Burns
+        Chorus
+          Terms of Use
+          Privacy Notice
+          Cookie Policy
+          Do Not Sell My Personal Info
+          Licensing FAQ
+          Accessibility
+          Platform Status
+          Contact
+          Send Us a Tip
+          Masthead
+          About Us
+          Editorial Ethics and Guidelines
+      Vox MediaVox Media
+Vox Media logo.
+        Advertise with us
+        Jobs @ Vox Media
+      © 2020 Vox Media, LLC. All Rights Reserved
+  Share this story
+              Twitter
+              Facebook
+     -->

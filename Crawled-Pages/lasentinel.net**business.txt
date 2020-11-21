@@ -1,0 +1,243 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+        EconomyFinanceNews (Business)Real EstateRestaurant    
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Business
+							Love for Community is Core Ingredient in Hawkins Burgers Recipe for Success
+					October 8, 2020Hawkins House of Burgers Has Been Serving L.A. for over 80 years ... read more  »
+							Gov. Newsom’s Nominee for State Supreme Would Be Third Black Justice on High Court
+					October 8, 2020On Monday, Gov. Gavin Newsom nominated Martin Jenkins, a San Francisco native, and a former prosecutor and judge, to the California Supreme Court. If confirmed, Jenkins, 66, would be the third African American to serve on the state’s highest court.   ... read more  »
+							Bradford Bill Increasing Consumer Safety and Cannabis Quality Signed by the Governor
+					October 8, 2020Last week, Governor Gavin Newsom signed Senate Bill 1244, authored by Senator Steven Bradford (D-Gardena). This bill authorizes state-licensed cannabis laboratories to test samples of cannabis or cannabis products for a state or local regulatory, law enforcement, or prosecuting agency. SB 1244 was sponsored by Los Angles City Attorney Mike Feuer. ... read more  »
+        ADVERTISEMENT        
+							Black Leaders: State Can Do More to Include Black Firms in Small Biz Support Plans
+					October 8, 2020Because so many Black businesses are sole proprietorships, advocates also say they might be too busy trying to keep their head above water to stay informed about opportunities available to them. ... read more  »
+							An Easy Way to Put More Money in the Hands of Californians
+					October 8, 2020There is no way around it—California’s Assembly Bill (AB) 5 has been a disaster for our state. The so-called “gig economy” legislation passed last year has been a short-sighted and dangerous attack on nearly ten percent of our state’s workforce. What’s worse—businesses continue to be attacked on all sides from attorneys looking to exploit the vague “ABC test.” And all this is peaking during the worst health crisis in a century, when millions of Californians remain jobless and small businesses are struggling to survive. ... read more  »
+							Kaepernick’s company publishing essays on policing, prisons
+					October 6, 2020Colin Kaepernick’s publishing company is putting out a collection of 30 essays over the next four weeks about abolition, policing and prisons.
+ ... read more  »
+							Mayor Eric Garcetti launches Racial Equity &amp; Newly Empowered Workplaces (RENEW) Task Force
+					October 5, 2020Monday, October 5th, the City of Los Angeles received notification of the Racial Equity &amp; Newly Empowered Workplaces (RENEW) Task Force launch; it looks to expand the reconstruction of diversity within the workforce and private sectors. ... read more  »
+							Broad Stage Announces No Live Indoor Performances Until Next Summer
+					October 1, 2020The Broad Stage at the Santa Monica College Performing Arts Center announced today it is postponing live, indoor performances until hext summer at the earliest. ... read more  »
+							‘Mightier Than the Sword –The History of the Black Press’
+					October 1, 2020From the Freedom’s Journal to the Chicago Defender, and of course, the Los Angeles Sentinel, Black publications and journalists have been on the frontlines fighting for social justice, equality, and basic human rights for Black communities. With the recent killings of Breonna Taylor and George Floyd, Black America is reminded of the power the Black press holds. The rage, the protests, the tears, and the chants screaming, “Black Lives Matter,” inspire Black newspapers and digital media outlets to keep advocating for change. ... read more  »
+							AFRICAN AMERICAN ALLIANCE FUND ANNOUNCES FIRST GRANTS
+					October 1, 2020The African American Alliance Fund has awarded a first round of grants to 100 Black Men of Orange County (100 BMOC), Community Action Partnership of OC (CAP OC) and The G.R.E.E.N. Foundation (TGF). The Fund was launched at the Orange County Community Foundation (OCCF) in celebration of Juneteenth this year to raise awareness about systemic racism and support programs that advance African Americans within Orange County and surrounding communities.  ... read more  »
+							Ballmer Group Donates $240K to Shared Harvest | myCovidMD in the Fight for Our Lives for L.A.’s Marginalized Communities
+					October 1, 2020Ballmer Group's sizable contribution allows Shared Harvest | myCovidMD to expand their reach specifically in predominantly Black communities in South Los Angeles.  ... read more  »
+							Metropolitan Water District of Southern California Newly Sworn in Chairwoman Gloria Gray Shares How Water Equates to Growth; Everyone deserves Safe Drinking Water
+					October 1, 2020Where there is water, there is life. Since human civilization began, it has been within our instinct to build major capitals and cities around great bodies of water. That is why there is immense power in sitting as Chairwoman of the Board of the Metropolitan Water District of Southern California; it holds the key to the growth of the population for over 19 million people. ... read more  »
+							The 2020 Assessment Roll: LA COUNTY PROPERTY VALUED AT $1.7 TRILLION FOR 2020 Reflects pre-COVID Market Conditions
+					October 1, 2020First off, let me say this comprehensive tally values more than 2.5 million real estate parcels in Los Angeles County and results in the very tax dollars that goes to pay for vital public services, such as healthcare, police, fire, schools, and even librarians, to name just a few. I am constitutionally mandated to close the role by the end of the Fiscal Year on June 30. ... read more  »
+							Mayor Garcetti Nominates Mia Lehrer to First Ever All-Female LADWP Board of Commissioners
+					October 1, 2020 Mia has a breadth of experience in the public sector ... read more  »
+							Waters Announces Over $1 Billion in Paycheck Protection Program Loans
+					October 1, 2020Congresswoman Maxine Waters (CA-43), Chairwoman of the House Financial Services Committee, released a district data sheet which summarizes Paycheck Protection Program (PPP) data provided by the Small Business Administration (SBA) regarding loans made to businesses in Gardena, Harbor City, Hawthorne, Inglewood, Lawndale, Lomita, Los Angeles, Playa Vista, and Torrance. Over one billion dollars in PPP loans were awarded to 10,750 businesses within Congresswoman Waters’ congressional district. ... read more  »
+        &lt;&lt; Older Posts
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->

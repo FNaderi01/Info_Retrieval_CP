@@ -1,0 +1,143 @@
+        .welcome__container {
+            display: none;
+            grid-template-columns: 1fr;
+            grid-template-rows: 1fr;
+            grid-column-gap: 0px;
+            grid-row-gap: 0px;
+            overflow: hidden;
+            z-index: 10000000;
+            position: absolute;
+            /* opacity: .88; .85(maria), .90 */
+        }
+        .welcome__clickable_area {
+            grid-area: 1 / 1 / 2 / 2;
+            width: 100vw;
+            height: 100vh;
+            background: #fff;
+            opacity: .68;
+        }
+        .welcome__ad_wrapper {
+            grid-area: 1 / 1 / 2 / 2;
+            align-self: center;
+            justify-self: center;
+            z-index: 999999;
+        }
+        .welcome__ad_top_row {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-end;
+            margin-bottom: 5px;
+        }
+        .welcome__ad_top_row .close {
+            font-size: 10px;
+            font-family: arial, sans-serif;
+            text-decoration: none;
+            color: #000;
+            background-color: #fff;
+            border: 1px solid black;
+            padding: 2px 5px;
+        }
+        .welcome__ad {
+            width: 640px;
+            height: 480px;
+        }
+        .welcome__ad_mobile {
+            display: none;
+            width: 300px;
+            height: 250px;
+        }
+        .welcome__ad_bottom_row {
+            text-align: right;
+        }
+        .welcome__ad_bottom_row a {
+            color: #000;
+            text-decoration: none;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 18px; /* 12px */
+            font-weight: bold;
+        }
+        @media only screen and (max-width: 644px){
+            .welcome__ad_mobile {
+                display: block;
+            }
+            .welcome__ad {
+                display: none;
+            }
+        }
+                 Close Ad 
+                Continue to CyberScoop.com 
+                Subscribe
+                About
+                RSS
+            Brought to you by
+                Government
+                Transportation
+                Healthcare
+                Technology
+                Financial
+                Watch
+                Listen
+                    Events
+                        Upcoming Virtual Events
+                        On-demand Events
+                        Past Events
+                Content Studio
+                        government
+            Chinese hackers suspected in cyber-espionage operation against Russia, India
+            A military parade by the People's Liberation Army of China. (Wikicommons)
+                        Share
+                        Written by
+                        Shannon Vavra and Sean Lyngaas                         Oct 7, 2020 | CyberScoop
+                        -->
+                    Written by  Shannon Vavra and Sean Lyngaas 
+                     Oct 7, 2020 | CYBERSCOOP
+                    Chinese government-linked hackers are suspected to be behind an ongoing global cyber-espionage campaign that U.S. officials are actively tracking, CyberScoop has learned.
+Malicious software used in the campaign, which the departments of Defense and Homeland Security have dubbed “SlothfulMedia,” is linked with “high confidence” to the Chinese government, according to one U.S. government official. Another U.S. government source said the hackers are suspected of having ties to Beijing, while a third government official described the group as operating a concerted hacking campaign based in China. Each person spoke with CyberScoop on the condition of anonymity because they were not authorized to speak to the media.
+The advisory is part of a broader effort to expose foreign hacking, including from China, to help protect American companies, two of the U.S. officials said.
+“This was a high-value disclosure because it demonstrates China’s targeting of Russian targets,” said one U.S. government source.
+The revelation comes after U.S. Cyber Command, the Pentagon’s offensive hacking unit, and DHS’s Cybersecurity Infrastructure and Security Agency (CISA) released information about the malware on Oct. 1, but did not attribute the campaign. A Pentagon spokesperson told CyberScoop the hacking effort is ongoing, and that it has targeted entities in Russia, Ukraine, India, Kazakhstan, Kyrgyzstan and Malaysia. (Officials did not specify which types of organizations the campaign has targeted.)
+Cyber Command and CISA declined to comment on attribution.
+“Chinese cyber actors are highly capable and very active and we’re increasing our efforts to shine a light on their activity,” another U.S. official said.
+It was unclear why the U.S. government did not attribute the release, as it has in the past pinned similar activity on hackers from specific countries.
+The exposure coincides with the U.S. government’s recent efforts to publicly identify Chinese government hacking. The Department of Justice announced charges against members of China’s People’s Liberation Army in connection with the hack at the credit reporting agency Equifax, earlier this year. In September, U.S. prosecutors announced charges against hackers allegedly working with Chinese intelligence to target defense and health organizations, including those working on coronavirus vaccine research.
+However, in this case, U.S. officials appeared to drop hints related to China in their announcement. The Oct. 1 disclosure coincided with a period of celebration in China known as the Moon Festival. (Cyber Command has previously timed announcements about state-sponsored hacking with holidays in China and North Korea.)
+The Pentagon also published a graphic, which includes a moon, as part of its public release on the espionage effort.
+“SlothfulMedia” graphic prepared by U.S. Cyber Command.
+The Chinese Embassy in the U.S. did not return a request for comment. Chinese government officials have previously denied sponsoring malicious cyber-activity.
+The sources familiar with the release would not say which element of the Chinese government may be directing the SlothfulMedia operations. Hackers with alleged ties to the Chinese government are known to have previously targeted entities in Malaysia, India, and Kazakhstan. And relations between Beijing and Moscow have historically been riddled with suspicion and allegations of espionage. This summer, the Russian government accused China of recruiting a spy in Russia to steal classified information.
+Clues about the hackers
+Clues about the espionage campaign may lie in private sector research into hacking groups that appear to overlap with the operation the U.S. government exposed last week.
+Slovakia-based ESET says it tracks a hacking group, dubbed “PowerPool,” that has naming and coding overlaps with SlothfulMedia. PowerPool tends to target government entities and universities in Russia, Ukraine, and Mongolia, although the group has recently narrowed its focus to Russia, said Matthieu Faou, a malware researcher at ESET.
+SlothfulMedia also appears to share some tactics, techniques, and procedures with a set of hacking operations Kaspersky has been monitoring, called “IAmTheKing,” according to principal security researcher Brian Bartholomew. IAmTheKing hacking techniques rely on limited resources, but appear to be capable of operating sweeping cyber-espionage campaigns, Kaspersky said in September.
+Neither ESET nor Kaspersky has attributed those campaigns to a specific foreign government, although both have said the campaigns are “advanced persistent threats,” a term usually reserved for state-sponsored hacking.
+Cyber Command and CISA declined to comment on whether SlothfulMedia is the same effort as these campaigns.
+But at least two of the campaigns — namely PowerPool and SlothfulMedia — use lazy coding techniques, researchers said. “The group is not evolving much in the sense that their implants are still quite basic,” Faou said.
+The suspected Chinese hackers are so lax in their programming that the U.S. military based the malware name off of that trait. “‘Slothful’ infers that while the tool was developed by a sophisticated actor, it is actually a somewhat lazy bit of programming,” a Cyber Command spokesperson said.
+The attackers may now have to revamp their tools as antivirus firms block their malware following the U.S. disclosure, said Ben Read, senior manager of analysis at FireEye’s Mandiant unit, which has also tracked malware that appears similar to SlothfulMedia.
+If Cyber Command and CISA obtained the malware based on access to sensitive intelligence infrastructure or to a well-placed source, “it could lead to a broader response from the hackers to re-secure what they’re doing,” Read said.
+                         -In this Story- 
+                        China, Cyber Command, Cybersecurity and Infrastructure Security Agency (CISA), ESET, FireEye, Kaspersky                    
+                                            -->
+                        -->
+                        -->
+                Related news
+                                            Government
+                                        Foreign hackers are...
+                                    by Sean Lyngaas • 2 days ago
+                                            Financial
+                                        Negligent data center...
+                                    by Joe Warminsky • 2 days ago
+                                            Government
+                                        Facebook removes fake...
+                                    by Tim Starks • 3 days ago
+                    Ad Specs
+                    Sponsor
+                    RSS
+                Privacy Policy
+            © 2020 Scoop News Group  |  All Rights Reserved
+    Search for:
+            The best cybersecurity news, delivered straight to your inbox. 
+			Sign up for our daily newsletter.
+            Privacy Policy
+We use cookies to provide you with the best experience across all Scoop News Group websites. By using Scoop News Group websites, you consent to the use of cookies. Learn more
+GOT IT!

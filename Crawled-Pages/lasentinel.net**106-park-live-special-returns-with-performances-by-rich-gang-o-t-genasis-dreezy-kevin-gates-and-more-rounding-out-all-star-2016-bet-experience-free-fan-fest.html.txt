@@ -1,0 +1,315 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+106 &amp; PARK LIVE SPECIAL RETURNS WITH PERFORMANCES BY RICH GANG, O.T. GENASIS, DREEZY, KEVIN GATES AND MORE ROUNDING OUT ALL-STAR 2016 BET EXPERIENCE FREE FAN FEST            
+				By Sentinel News Service                
+	                	                Published June 22, 2016
+Today, BET NETWORKS and AEG announced the return of 106 &amp; Park for a special edition live broadcast taking place at the BET Experience @ L.A. LIVE presented by Coca-Cola®. “106 &amp; Park: Live from the 2016 BET Experience” will feature interviews and performances from some of today’s hottest acts and newcomers including Rich Gang (Birdman, Jacquees, J-Soul, Derez and Ralo) and O.T. Genasis and more taking place Thursday, June 23 through Saturday, June 25.
+The 106 &amp; Park special, presented by Denny’s &amp; M&amp;M, will kick off Thursday live from the BET Experience @ L.A. Live hosted by Mack Wilds with performances from Rich Gang (Birdman, Jacquees, J-Soul, Derez and Ralo), and Ghost Town DJ’s. The special, presented by Apple Music, continues into Friday hosted by Ray J, Quincy Combs with correspondent Jessica White, featuring performances from Young Greatness, O.T. Genasis, Dreezy and Christian Combs and an interview with Akon. The “106 &amp; Park: Live from the 2016 BET Experience,” presented by Coca Cola, continues on Saturday with hosts Rae Sremmurd, Mila J with correspondent Jacob Latimore, including performances by Kevin Gates, DLow and Steph Lecor, with a slew of interviews including Regina Hall, Jaz Sinclair, Morris Chestnut, Floyd Mayweather, Chloe x Halle and AKA.  Monday, June 27 caps all of the coverage with “106 &amp; Park: The AfterGlow” bringing back famed hosts Terrence J and Rocsi Diaz and features an interview with V. Bozeman.
+        ADVERTISEMENT        
+The previously announced 2016 “Genius Talks” series sponsored by AT&amp;T are also taking place at the BET Experience @ L.A. LIVE presented by Coca-Cola®.  Top industry icons including DJ Khaled, Snoop Dogg, Gabrielle Union, Birdman, Jermaine Dupri, Angie Martinez, DeVon Franklin, Kirk Franklin and more will take part in a series of thought-provoking Q&amp;A’s and panels speaking to fans about success, the entertainment industry and building empires, introduced by television personalityJanell Snowden. The BET Experience “Genius Talks” series sponsored by AT&amp;T will take place at the Los Angeles Convention Center, adjacent to L.A. Live, on Saturday, June 25, from 2:45 p.m. PST – 7:00 p.m. PST and Sunday, June 26 from 1:30 p.m. PST – 3:00 p.m. PST.  Entry will be on a first come, first served basis.
+Also on Saturday from 6:00-8:00 p.m., Nick Cannon &amp; the “Wild N’ Out” crew are bringing their “WILD STYLE” to BETX.  In a special BETX edition of the crowd pleaser“Wild ’N Out Presents: Wildstyle Rap Battle,” five teams of two will bar up and go head to head.  The cast of heavy hitters joining Nick include Chico Bean, Karlous Williams, DC Young Fly, Timothy DeLaGhetto, DoBoy, Charlie Clips, and Conceited. They are all primed, prepped, and ready to step into the rap battleground and wild out as only they can. 
+On Saturday, June 25 and Sunday, June 26, fans will also be able to attend free concerts all afternoon and into the evening, with performances from heavy hitters and hot new artists including Desiigner, Fat Joe &amp; Remy Ma, O.T. Genasis, Kevin Gates, Les Twins, Rae Sremmurd, Dreezy, Unlocking the Truth, Jay Watts, AKA and more, on the BETX Main Stage. New artists Bibi Bourelly, BJ the Chicago Kid and Ro James will be performing on the BETX Music stage sponsored by Nissan.  In addition, up-and-coming artists Kodie Shane, Jacquees, Chloe x Halle, Jovanie, Detroit Che, Mindless Behavior and Candice Boyd will be taking the stage at the Coca-Cola® Music Studio.
+Participants in Saturday’s hot ticket Celebrity Basketball Game Presented by Sprite® include Floyd Mayweather, Meek Mill, Snoop Dogg, Nick Cannon, Omarion, Wale, The Game, Desiigner and “Black-ish” stars Miles Brown and Marsai Martin, alongside ESPN guest announcers Jemele Hill and Michael Smith.  Additional talent participating in the game include O.T. Genasis, Silento, Lecrae, Syd Tha Kyd (The Internet), Doug Christie, Guy Dupuy, Marcellus Wiley, Kenny Dobbs, Lil Durk, Rotimi, Erica Ash and Young Greatness. Tip off for the Celebrity Basketball Game presented by Sprite® takes place at 1:00 p.m. PST and will be streamed LIVE to fans at home on www.bet.com.
+Sunday will feature a special event with former Los Angeles Laker Metta World Peace and Olympic gold medalist and WNBA vet Chamique Holdsclaw along with expert Dr. Keisha Downey titled, “BET News Presents: Mental Health in the Black Community.” In collaboration with the U.S. Department of Health and Human Services Office on Women’s Health, this will be an in-depth discussion centering on the issue of mental health, the stigmas and concerns of the Black community, and the pressures of modern living. The event will take place from 3:00-4:00 p.m. and will be moderated by Marc Lamont Hill.
+Also on Sunday, fans will truly be moved by the BET Experience Gospel Showcase. The BETX Main Stage event will include soul stirring performances by Tasha Cobbs,Tye Tribbett, Anthony Brown &amp; Group Therapy, Tim Bowman Jr., and Ezekiel all hosted by DeVon Franklin.   With GRAMMY award-winning artists, celebrities and surprise guests, this is sure to be a day of inspiration that should not be missed!
+As previously announced, BET Networks will make its return to Los Angeles for the 4-day music, comedy and entertainment festival, the BET Experience at L.A. LIVE presented by Coca-Cola®, June 23 – 26, 2016. Teaming up with AEG, one of the leading entertainment companies in the world and developer/operator of L.A. LIVE and STAPLES Center, the BET Experience at L.A. LIVE presented by Coca-Cola® will feature some of today’s hottest artists including Lil Wayne, 2 Chainz, Fetty Wap, A$AP Ferg, Usher, Bryson Tiller, Katt Williams, Mike Epps, Metro Boomin, The Roots &amp; Friends, Ty Dolla $ign, Kehlani and more. The four day event will showcase the best in music, comedy concerts, entertaining and interactive activations at the FREE fan festival, “106 &amp; PARK” tapings, seminars and celebrity appearances.
+VIP Packages for the BET Experience weekend are now on-sale.  In addition to VIP amenities throughout the weekend and incredible seats for STAPLES Center shows, three levels of BETX VIP Packages offer guests the only opportunity to purchase tickets to the highly anticipated BET Awards, broadcast live from Microsoft Theater.  The 1,000+ VIP Packages sold out in 2015, so guests are encouraged to purchase now before the allotment is depleted.  Full package amenities and pricing for the Diamond, Platinum and Gold VIP Packages can be found by visiting BETExperience.com or by calling (877) 234-8425.
+General tickets for the BET Experience at L.A. LIVE presented by Coca-Cola® are now on sale. Single day STAPLES Center show tickets are priced as low as $49.50, while 3-day STAPLES Center concert ticket packages start at $148.50. Tickets will be available at http://www.axs.com/betexperience.
+		Categories: Entertainment | Local Tags: BET Experience | BET Networks | L.A. Live | Stapels Center		
+						Unemployment Rates Down in L.A. County
+						City Council Proposal Asks Voters to ‘Pitch In’ on Homelessness Problem
+						Los Angeles County Department of Parks And Recreation Announces 2016 Free S...
+						Monica, Luke James, Bilal, V Bozeman and more Kick-Off BET Experience
+						NBA Champion And All-Star MVP Kobe Bryant To Be Honored With The Legend Awa...
+						A Different Approach to Community Building
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

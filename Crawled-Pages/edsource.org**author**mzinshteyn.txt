@@ -1,0 +1,289 @@
+How is remote learning working out?
+We need your insights! In a state as vast and diverse as California, we depend on parents, educators, students, administrators,  policymakers and community members like you to help us understand what's working at your schools, colleges and early child care centers — and what must be improved.
+Please join our community network and help inform our coverage of California education.
+.tingle-modal--overflow {
+    overflow-y: scroll;
+    padding-top: 2.5vh;
+}
+.tingle-modal-box {
+    max-width: 664px;
+}
+.tingle-modal {
+  font-family: "proxima-nova-condensed", sans-serif;
+}
+.tingle-modal p {
+  font-family: "proxima-nova-condensed", sans-serif;  
+  margin: 1em 0;
+  font-size: 1.15em;
+  line-height: 1.5em;
+}
+.content-block {
+  margin: 40px auto;
+  padding: 0px;
+  background-color: white;
+  color: #1f3d00;
+  max-width: 600px;
+  border: 7.5px solid white;
+}
+.content-inner {
+  background-color: #d7eb68;
+  padding: 28px 38px;
+}
+.content-block h1 {
+  text-align: center;
+  font-size: 242%;
+  line-height: 124%;
+}
+.content-block a {
+  color: inherit;
+  text-decoration: underline;
+}
+.tingle-modal .embed-sub.embed-minimal {
+  padding: 0px;
+}
+.tingle-modal .embed-sub.embed-minimal h3 {
+  display: none;
+}
+.tingle-modal .embed-sub.embed-minimal form {
+  margin-bottom: 32px;
+}
+.tingle-modal .embed-sub.embed-minimal form input {
+  border-radius: 0px;
+  background-color: rgba(255,255,255,.8);
+  color: #1f3d00;
+  border: 0px solid white;
+} 
+.tingle-modal .embed-sub.embed-minimal form input,
+.tingle-modal .embed-sub.embed-minimal form button {
+  font-size: 22px;
+  padding: 12px 8px 10px;
+} 
+.tingle-modal .embed-sub.embed-minimal form button {
+  background-color: #9ac43c;
+  color: #1f3d00;
+  font-weight: 600; 
+  text-transform: uppercase;
+  border-radius: 0px; 
+  border:0px solid green;
+}
+.tingle-modal .embed-sub.embed-minimal p {
+  margin: 0px 0px 6px;
+}
+.tingle-modal p:last-of-type {
+  margin-bottom: 0px;
+}
+.tingle-modal img {
+    max-width: 82%;
+    margin: 0 auto;
+}
+@media screen and (max-width:768px) {
+.tingle-modal--overflow {
+    overflow-y: scroll;
+    padding-top: 0vh;
+}
+  .tingle-modal {
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  .content-block {
+  }
+  .content-inner {
+    padding: 22px;
+  }
+  .content-block h1 {
+    text-align: center;
+    font-size: 162%;
+  }
+}
+@media screen and (max-width:480px) {
+  .content-block {
+  }
+}
+.tingle-modal-box {
+background: transparent;
+}
+}
+#custom-close {
+    top: 0px;
+    right: 0px;
+    top: 0px !important;
+    right: 0px !important;
+}
+				EXPLORE: How Prop. 15 would increase K-12 districts' fundingCoronavirus updatesQuick Guides			
+					Highlighting Strategies for Student Success
+							Donate
+							Subscribe
+					Quick search above or Advanced Search
+				☰Topics
+	Charter Schools
+	Chronic Absenteeism
+	College &amp; Careers
+	Common Core
+	Coronavirus
+	Distance Learning
+	Early Learning
+	Elections and Education
+	Getting Down to Facts
+	High-needs students
+	Legislation &amp; Budget
+	Local Control Funding
+	Math &amp; Science
+	Teachers’ Pensions: Who Pays?
+	Policy &amp; Finance
+	Race and Equity
+	Research &amp; Reports in Brief
+	School Discipline
+	Social and Emotional Learning
+	Student Wellbeing
+	Teachers
+	Teacher Shortage
+Audio &amp; Video
+	Podcasts
+	Webcasts and Webinars
+	Video
+	2017 Symposium Video Archive
+Projects
+	Rural California: An Education Divide
+	Saving Stege
+	California’s Teacher Housing Crunch
+	Tainted Taps: Lead puts California Students at Risk
+	Full Circle: California Schools Work To Transform Discipline
+	California’s Homeless Students: Undercounted, Underfunded And Growing
+	Common Core Explained
+	Local Control Funding Formula Explained
+	Special Series: Restraint in the Shadows
+Commentaries
+	Share your commentary
+Data
+	California School Dashboard Data
+	Smarter Balanced Results Database
+	States in Motion
+	Vaccination Database
+	Grad and Dropout Rates
+	LCFF Database
+	Ed-Data Partnership
+Publications
+	Newsletters
+	Publications Archive
+	Quick Guides
+	Glossary of Terms
+	Eyes on the Early Years Newsletter Archive
+About EdSource
+	Donate
+	EdSource Staff
+	Board of Directors
+	Major Donors
+	EdSource Advisory Council
+	Jobs at EdSource
+	Contact Us
+				Kindly Log In
+				Username
+				Password
+			Mikhail ZinshteynMikhail Zinshteyn reported on community colleges and other higher education matters for EdSource until Feb. 2019.
+All articles by Mikhail Zinshteyn			
+			1
+2
+3
+…
+6
+Next »				
+									California’s new ‘free college’ law for community colleges covers more than tuition								
+							California community college students are getting free tuition, laptops and textbooks as colleges spend $46 million in state “free tuition” funds.
+							Mikhail Zinshteyn							February 14, 2019								
+								Community Colleges							
+									California's community colleges back new effort to cover college costs, including living expenses								
+							The proposal continues efforts by the California Community Colleges to increase state support to cover student costs beyond tuition: housing, food, transportation and other expenses.
+							Mikhail Zinshteyn							February 14, 2019								
+								Community Colleges							
+									Former Gates Foundation executive and entrepreneur to lead California's online community college								
+							President and CEO named for California's new online community college
+							Mikhail Zinshteyn							February 6, 2019								
+									How one California community college allows students to skip remedial English								
+							The move helps students earn the credits needed to transfer to a University of California or California State University campus.
+							Mikhail Zinshteyn							January 23, 2019								
+									Beyond higher pay and smaller classes, charter debate is undercurrent of teachers strike in Los Angeles								
+							Union leaders at Los Angeles Unified are concerned that the growth of charter schools has come at the expense of dollars for district schools and the teachers working in them.
+							Mikhail Zinshteyn							January 16, 2019								
+									As California community colleges gear up to teach less remedial math, one college shows how it can be done								
+							College of the Canyons has been a trailblazer for several years with its policy of placing more of its students in math classes that count for transfer instead of remedial courses.
+							Mikhail Zinshteyn							January 14, 2019								
+								Community Colleges							
+									California community colleges reject state aid tied to allowing students to seek federal loans								
+							Nine community colleges say they will reject state aid rather than be forced to offer federal loans to students out of fears that if students default on their loans, colleges may be hit with federal sanctions.
+							Mikhail Zinshteyn							December 9, 2018								
+								Career Preparation							
+									Walmart backs courses for retail workers at California's new online community college								
+							The money will go toward developing courses for workers to advance to supervisors in the retail and service industries.
+							Mikhail Zinshteyn							October 9, 2018								
+								Community Colleges							
+									California community colleges seek larger Cal Grants to cover students' living costs								
+							California community college leaders want to remove restrictions that keep hundreds of thousands of students from receiving the Cal Grant by basing the size of the grant on the total cost of college attendance.
+							Mikhail Zinshteyn							October 8, 2018								
+								Community Colleges							
+									California community colleges seek nearly half a billion dollars in more funding for next year								
+							The request for the 2019-20 fiscal year, is the opening round in budget negotiations between the college system, the Legislature and the governor’s office, an annual process that ends with a new state budget in June, 2019. 
+							Mikhail Zinshteyn							September 18, 2018								
+									A California community college adopts a New York model that doubled graduation rates								
+							California is betting that a $3 million investment to borrow a New York City model that doubled graduation rates will be the spark its community colleges need to dramatically improve student outcomes.
+							Mikhail Zinshteyn							August 28, 2018								
+									California community colleges urged to plan now for fewer students in remedial courses								
+							While an estimated 80 percent of students in 2016 were placed in remedial education, “a majority of students will be placed directly into transfer-level courses” under the recommendations from the chancellor’s office.
+							Mikhail Zinshteyn							August 20, 2018								
+									Living the college dream: high-performing, low-income students reach for the nation’s top colleges								
+							Students aiming for the Ivy League, Stanford, UC Berkeley or other top private and public universities learn about how to get there.
+							Mikhail Zinshteyn							August 8, 2018								
+								Legislation							
+									Support  builds  to create longitudinal data system to track student progress in California								
+							Educators and the public do not have data that "in my view greatly improve students' performance and their ultimate employment," said Sen. Steve Glazer (D – Orinda), chair of the select committee on student success in the Senate.
+							Mikhail Zinshteyn							August 8, 2018								
+								Community Colleges							
+									Timeline for new California online college 'aggressive' but doable, says community college chancellor								
+							The California Online College legally exists and is fully funded, but many details are not yet in place even as it is under a tight deadline to begin enrolling students by the final quarter of 2019.
+							Mikhail Zinshteyn							August 6, 2018								
+			1
+2
+3
+…
+6
+Next »
+				Topics
+	College &amp; Careers
+	Commentary
+	Curriculum
+	Early Learning
+	Getting Down to Facts
+	Policy &amp; Finance
+	Reforms
+	Student Wellbeing
+Projects
+	Podcasts
+	Webcasts and Webinars
+	Rural California: An Education Divide
+	California’s Teacher Housing Crunch
+	Tainted Taps
+	Full Circle
+	California’s Homeless Students
+	Common Core Explained
+	Smarter Balanced Database
+	States in Motion
+	LCFF Guide
+	Glossary
+About EdSource
+	About Us
+	Subscribe
+	Donate
+	2017 Symposium
+	EdSource Staff
+	Board of Directors
+	Jobs at EdSource
+	Major Donors
+	Contact Us
+					436 14th St.Suite 1005Oakland, CA 94612
+					PHONE 510-433-0421 | FAX 510-433-0422
+					edsource@edsource.org
+					-->
+				Privacy Policy
+				2020 EdSource. All Rights Reserved.
+			.ssp-wave wave wave {
+				background: #28c0e1 !important;
+			}

@@ -1,0 +1,333 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+PACIFIC FISHERY MANAGEMENT COUNCIL RELEASES ALTERNATIVES FOR 2019 WEST COAST OCEAN SALMON FISHERIES            
+				By Sentinel News Service                
+	                	                Published March 15, 2019
+The Pacific Fishery Management Council adopted three alternative season structures for 2019 ocean salmon fisheries off of Washington, Oregon and California today for public review. The Council will make a final decision on salmon seasons at its meeting in Rohnert Park, California, on April 11-15. Detailed information about season starting dates, areas open, and catch limits for all three alternatives are available on the Council’s website at www.pcouncil.org.
+“Although some forecasts are up over last year, this year’s salmon runs are still challenging for ocean fishermen and managers,” said Council Executive Director Chuck Tracy. “In the north, conservation requirements for Fraser River (Canada) and other natural coho runs, as well as lower Columbia River natural tule fall Chinook, will constrain fisheries*. In the south, we need to protect Sacramento River fall and winter Chinook, as well as California Coastal Chinook.”
+        ADVERTISEMENT        
+Northern Oregon and Washington (north of Cape Falcon)
+Fisheries north of Cape Falcon (in northern Oregon) are limited by the need to reduce catch of lower Columbia natural tule Chinook and coho stocks of concern. Additionally, three stocks of coho (Queets River, Strait of Juan de Fuca, and Snohomish) remain categorized as overfished, which is also a concern when structuring 2019 fisheries.
+Sport season alternatives
+Ocean sport fishery alternatives north of Cape Falcon in Oregon and off the Washington coast include Chinook recreational quotas ranging from 22,500 to 32,500, compared to 27,500 in 2018. For coho, recreational quotas range from 100,000 to 205,000 hatchery coho, an increase from 2018. Starting dates range from June 15 to June 29, and in all alternatives, recreational fisheries are scheduled to run through mid-to-late September. Both coho and Chinook retention are allowed in all alternatives.
+Commercial season alternatives 
+Non-Indian ocean commercial fishery alternatives north of Cape Falcon include traditional Chinook seasons between May and September. Chinook quotas for all areas and times range from 22,500 to 32,500, compared to 27,500 in 2018. Coho quotas in the commercial fishery alternatives range from 5,600 to 32,800 marked coho, compared to 5,600 in to 2018.
+Tribal ocean fisheries north of Cape Falcon
+Chinook and coho quotas for tribal ocean fishery alternatives range from 25,000 to 45,000 for Chinook salmon (compared to 40,000 in 2018), and from 35,000 to 65,000 coho (compared to 12,500 coho in 2018). Seasons open May 1 and run through September 15.
+California and Southern Oregon (south of Cape Falcon)
+Fisheries south of Cape Falcon are limited by the need to reduce catch of Oregon Coast natural coho, California coastal Chinook, Sacramento River fall Chinook, and Sacramento River winter Chinook. Klamath River fall Chinook and Sacramento River fall Chinook contribute significantly to ocean harvest, and currently remain categorized as overfished. Both stocks are projected to meet their spawning escapement objectives under this year’s management alternatives.
+Sport season alternatives
+Chinook fishing in the Tillamook, Newport, and Coos Bay areas all open March 15 and run continuously through October 31.
+Oregon ocean recreational alternatives include mark-selective coho fishing seasons starting in late June and running through mid-August or September in the area south of Cape Falcon. Quotas range from 80,000 to 105,000 marked coho (compared to 35,000 in 2018). In addition, non-mark-selective fisheries are proposed for the area between Cape Falcon and Humbug Mountain in September, with quotas of 8,000 to 10,000 coho (compared to last year’s 3,500).
+All alternatives include proposed fisheries from late May through late August/early September in the Klamath Management Zone in both California and Oregon.
+Ocean sport fishing below Horse Mountain, California will see increased opportunity compared to last year due to some improved forecasts. Alternatives for 2019 fisheries were structured to target spawning escapements in excess of what is required under the Salmon Fishery Management Plan in an effort to rebuild Sacramento River and Klamath River fall Chinook.
+Commercial season alternatives
+Commercial season alternatives south of Cape Falcon to Humbug Mountain are constrained this year to protect Sacramento and California coastal Chinook. Chinook salmon seasons are open late April or May through October, with closed periods in May through August.
+The commercial alternatives in both the California and Oregon sectors of the Klamath Management Zone are provided primarily by a range of monthly Chinook quotas between June and August, with some additional time for the Oregon sector in May.
+The alternatives for commercial seasons south of the Klamath Management Zone vary considerably, with constraints primarily intended to protect Sacramento River fall Chinook and California Coastal Chinook. In general, the commercial alternatives in these management areas (Fort Bragg, San Francisco, and Monterey) provide similar or increased levels of opportunity compared to last year.
+Concerns Regarding Southern Resident Killer Whales At the Vancouver meeting, National Marine Fisheries Service (NMFS) announced plans to look further into the effects of Council-area fisheries on southern resident killer whales, which are listed as endangered. The Council will work collaboratively with NMFS on this issue beginning in 2019.
+Council Chair Phil Anderson, who also serves on the Governor’s Southern Resident Killer Whale Task Force, said, “I don’t think there’s any question that southern resident killer whales are in peril. Pollution, noise disturbance, and lack of prey are the main factors believed to be responsible for the decline. It will be important for the Pacific Council to understand the impacts of the prey base associated with their needs when they consider seasons in April. We would like to discuss these issues with NOAA before we make our final recommendations.”
+ Management Process
+Public hearings to receive input on the alternatives are scheduled for March 25 in Westport, Washington and Coos Bay, Oregon, and for March 26 in Ukiah, California. The Council will consult with scientists, hear public comment, revise preliminary decisions, and choose a final alternative at its meeting April 11-15 in Rohnert Park, California.
+The Council will forward its final season recommendations to National Marine Fisheries Service for its approval and implementation by May 1.
+All Council meetings are open to the public.
+Council Role 
+ The Pacific Fishery Management Council is one of eight regional fishery management councils established by the Magnuson Fishery Conservation and Management Act of 1976 for the purpose of managing fisheries 3-200 miles offshore of the United States of America coastline. The Pacific Council recommends management measures for fisheries off the coasts of California, Oregon, and Washington.
+		Categories: Family | Health | National Tags: California | California Coastal Chinook | Cape Falcon | Chuck Tracy | coho | Columbia River | Coos Bay | Fraser River (Canada) | Horse Mountain | Klamath River | National Marine Fisheries Service (NMFS) | Newport | Oregon | Pacific Fishery Management Council | Queets River | Rohnert Park | Sacramento River | Salmon Fishery Management Plan | Snohomish | Southern Resident Killer Whale Task Force | Strait of Juan de Fuca | Tillamook | Ukiah | Washington | Westport		
+						Puzzling Number of Men Tied to Ferguson Protests have Died
+						NCNW View Park Section to Award Multiple College Scholarships at “The Pur...
+						The Importance of a Good Night’s Sleep Cannot be Underestimated!
+						Defying the Odds Black History Educational Experience, Kinecta Federal Cred...
+						It’s That Time of Year—The Mothers In Action 6th Annual Community Recyc...
+						Success On “The Way” Ask Dr. Jeanette  ‘When Greed and Avarice Is Not...
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

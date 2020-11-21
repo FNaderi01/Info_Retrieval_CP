@@ -1,0 +1,322 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Uplifting Black Youth through the Retelling of Past and Present Pan African History            
+				By Kimberlee Buck, Contributing Writer                
+	                	                Published May 2, 2019
+		Author, Ashley Feazell
+Ashley Feazell founded the non-profit organization, Talented Tenth Publications, with the mission of educating underserved youth and increasing self-esteem through children’s Black history books. The “Talented Tenth: Historical and Present” book series are designed to inspire and remind youth of the endless possibilities they have in the world despite their upbringing and the adversity that lies ahead. Recently, the Los Angeles Sentinel sat down with Feazell to discuss the Talented Tenth Publications and the work she is doing locally in the Black community.
+Feazell’s passion for history and Black history dates back to her time as student studying at Normandie Christian Elementary, however her journey to creating the book series and the non-profit organization begins with motherhood.
+“I home schooled my child when he was in the second grade and prior to that he went to a couple of L.A. charter and public schools but he had never received Black history in February or just ever. I have never seen any materials where he came home with a picture he colored of Martin Luther King or just anything,” said Feazell.
+        ADVERTISEMENT        
+“So when I home schooled my kid, that was the first time he was ever able to receive that. It was the first time ever he was able to read a book about a man that looked like him that became great and that just kind of gave me the idea to create my own book.”
+According to Feazell, each book focuses on ten specific Black historical figures for children to learn about.
+Currently, the “Talented Tenth: Historical and Present” books covers a wide variety of content for children including prominent Black leaders, activists, entertainers, athletes, pioneers, educators, revolutionaries, and organizations. Some of the featured characters include Berry Gordy, Don Cornelius, Barack Obama, Russell Simmons, Oprah Winfrey, Madam C.J. Walker, and Cathy Hughes.
+When children aren’t reading the Talented Tenth: Historical and Present books, they can flip through the flash cards or use the coloring books that are associated with that particular series.
+“I went into it thinking like, ‘okay we all know about certain figures like Martin Luther King, Malcolm X, Marcus Garvey, Benjamin Banneker,’ just certain figures that they teach us about all the time. So for my first pioneer’s book, I tried to pick outside of the box people who were great and still kind of current, but who were historical as well,” said Feazell.
+The “Talented Tenth Historical and Present: Pioneers” is available for purchase at www.Thetalented10th.net.
+One year after creating the book series, Feazell realized that writing and selling the books weren’t enough. As way to increase the organization’s efforts, Feazell implemented a school tours program that travels around the Greater Los Angeles area.
+“During the month of February, we went to different schools in Lynwood and Norwalk and did a 45-minute presentation where we would teach the kids about the different figures that I write about in my books. Also, I have been asked to speak at different classrooms for career day [as well as] continuation schools,” said Feazell.
+“During the school tour, I teach students about little children bloggers who are making millions of dollars right now while they are like five, six, and nine-years-old and the students are usually blown away. But while I am doing that, I want to be able to build them.”
+Recently, the author decided to create a donation program for underprivileged families and students who are unable to purchase her books and partner with the National College Resources Foundation.
+What’s next for the Talented Tenth Publications? Feazell is planning to host different events to support the Los Angeles community through toy giveaways, book signings for self-published Black authors, and possibly provide scholarships.
+The “Talented Tenth: Historical and Present” book series was created by Ashley Feazell, illustrated by Jessica Catarino, and produced by Max Gousse (Feazell’s former boss). The book series, flash cards, and coloring books are available for purchase at www.Thetalented10th.net, www.Amazon.com, and Barnes &amp; Nobles.
+To donate one of the Talented Tenth box sets to an underprivileged school, community center, church, or organization of your choice please visit www. Thetalented10th.net/donations.
+If you are interested in having the Talented Tenth book tour stop by your child’s school to teach them about past and modern day historical Black figures, please contact Ashley Feazell at ashley@thetalented10th.net.
+		Categories: Book Releases | Business | Entertainment | Exclusive (Entertainment) | Family | Lifestyle | News | News (Business) | News (Entertainment) | News (Family) Tags: #blackhistory | #kimberleebuck | Ashley Feazell | Barack Obama | Berry Gordy | Black historical figures | books | Cathy Hughes | Don Cornelius | Education | Kimberlee Buck | Madam C.J. Walker | Normandie Christian Elementary | Oprah Winfrey | reading | Russell Simmons | Talented Tenth Publications | Talented Tenth: Historical and Present		
+						Crump, NAACP, NNPA to Demonstrate after Police Brutality Incident in Florid...
+						Facebook Bans the Honorable Minister Louis Farrakhan and Lumps Him with Hat...
+						Black Men Still Incarcerated at Disproportionate Levels
+						Hate Crimes and Solutions Offered by Activists
+						Experts: Reparations Are Workable and Should Be Provided
+						Former Exec Slams CBS News’ ‘White Problem’
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

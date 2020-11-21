@@ -1,0 +1,632 @@
+	International Standard Name Identifier
+		From Wikipedia, the free encyclopedia
+		  (Redirected from ISNI (identifier))
+		Jump to navigation
+		Jump to search
+		16 digit identifier for people and organisations
+This article relies too much on references to primary sources. Please improve this  by adding secondary or tertiary sources.  (December 2015) (Learn how and when to remove this template message)
+International Standard Name IdentifierAcronymISNIOrganisationISNI-IAIntroducedMarch 15, 2012 (2012-03-15)No. of digits16Check digitMOD 11-2Example000000012146438XWebsiteisni.org 
+The International Standard Name Identifier (ISNI) is an identifier for uniquely identifying the public identities of contributors to media content such as books, television programmes, and newspaper articles. Such an identifier consists of 16 digits. It can optionally be displayed as divided into four blocks.
+ISNI can be used to disambiguate names that might otherwise be confused, and links the data about names that are collected and used in all sectors of the media industries.
+It was developed under the auspices of the International Organization for Standardization (ISO) as Draft International Standard 27729; the valid standard was published on 15 March 2012. The ISO technical committee 46, subcommittee 9 (TC 46/SC 9) is responsible for the development of the standard.
+Contents
+1 ISNI format
+1.1 Format without space
+1.2 Format with space
+2 Uses of an ISNI
+2.1 ORCID
+3 Organisations involved in the management
+3.1 ISNI Registration Authority
+3.2 ISNI Registration Agencies
+3.3 ISNI members
+4 ISNI assignment
+5 ISNI coverage
+6 See also
+7 References
+8 Further reading
+9 External links
+ISNI format[edit]
+The FAQ of the isni.org websites states "An ISNI is made up of 16 digits, the last character being a check character."[1]
+Format without space[edit]
+MARC: it was proposed to store the ISNI without spaces, e.g.(isni)1234567899999799[2]
+isni.org URL: no spaces, e.g. http://www.isni.org/isni/0000000114559647
+viaf.org:
+URL https://viaf.org/viaf/118892012/
+URL https://viaf.org/processed/ISNI%7C0000000114559647
+the data dumps contain it in form ISNI|0000000114559647
+Format with space[edit]
+In display it is frequently shown with spaces.
+isni.org[3]
+viaf.org[4]
+Uses of an ISNI[edit]
+The ISNI allows a single identity (such as an author's pseudonym or the imprint used by a publisher) to be identified using a unique number. This unique number can then be linked to any of the numerous other identifiers that are used across the media industries to identify names and other forms of identity.
+An example of the use of such a number is the identification of a musical performer who is also a writer both of music and of poems. Where he or she might currently be identified in many different databases using numerous private and public identification systems, under the ISNI system, he or she would have a single linking ISNI record. The many different databases could then exchange data about that particular identity without resorting to messy methods such as comparing text strings. An often quoted example in the English language world is the difficulty faced when identifying 'John Smith' in a database. While there may be many records for 'John Smith', it is not always clear which record refers to the specific 'John Smith' that is required.
+If an author has published under several different names or pseudonyms, each such name will receive its own ISNI.
+ISNI can be used by libraries and archives when sharing catalogue information; for more precise searching for information online and in databases, and it can aid the management of rights across national borders and in the digital environment.
+ORCID[edit]
+ORCID (Open Researcher and Contributor ID) identifiers consist of a reserved block of ISNI identifiers for scholarly researchers[5] and administered by a separate organisation.[5] Individual researchers can create and claim their own ORCID identifier.[6] The two organisations coordinate their efforts.[5][6]
+Organisations involved in the management[edit]
+ISNI Registration Authority[edit]
+According to ISO the Registration Authority for ISO 27729:2012 is the "ISNI International Agency".[7]  It is located in London (c/o EDItEUR)[8]
+It is incorporated under the Companies Act 2006 as a private company limited by guarantee.[9]
+The 'International Agency' is commonly known as the ISNI-IA.[10][11]
+This UK registered, not-for-profit company has been founded by a consortium of organisations consisting of the Confédération Internationale des Sociétés d'Auteurs et Compositeurs (CISAC), the Conference of European National Librarians (CENL), the International Federation of Reproduction Rights Organisations (IFRRO), the International Performers Database Association (IPDA), the Online Computer Library Center (OCLC) and ProQuest. It is managed by directors nominated from these organisations and, in the case of CENL, by representatives of the Bibliothèque nationale de France and the British Library.
+ISNI Registration Agencies[edit]
+A registration agency provides the interface between ISNI applicants and the ISNI Assignment Agency.[12]
+List of Registration Agencies in order as on ISNI-IA website
+Name (as on ISNI-IA website)
+Since
+Relation
+Biblioteca Nacional de España (BNE)
+Spain
+BnF (Bibliothèque nationale de France)
+2014[13]
+France
+Bibliothèque nationale de Luxembourg
+Luxembourg
+British Library
+UK
+BTLF (Société de gestion de la Banque de Titres de Langue Française) 
+France
+Casalini Libri
+Italy
+China Knowledge Centre for Engineering Sciences and Technology (CKCEST)
+China
+Consolidated Independent
+United Kingdom
+Electre
+Identification Agency (IDA)
+Russia
+Koninklijke Bibliotheek
+Netherlands
+Kültür ve Turizm Bakanliği
+Turkey
+National Assembly Library of Korea
+South Korea
+National Library of Korea
+South Korea
+National Library of Poland
+Poland
+Numerical Gurus
+United States
+Program for Cooperative Cataloging (PCC)
+Quansic
+Switzerland
+Ringgold
+organisations, international
+Rakuten Kobo
+Canada
+Sound Exchange Inc.
+United States
+Soundways
+United States
+YouTube
+2018[14]
+international
+ISNI members[edit]
+ISNI members (ISNI-IA Members[15]) as of 2018[update]-07-11:[15]
+ABES (French Bibliographic Agency for Higher Education)
+Brill Publishers
+CEDRO (Centro Español de Derechos Reprográficos)
+CDR (Centrale Discotheek Rotterdam)
+Copyrus
+FCCN
+French National Archives (Archives nationales de France)
+Harvard University
+Iconoclaste
+Irish Copyright Licensing Agency (ICLA)
+ISSN International Centre
+La Trobe University
+Library of Congress
+MacOdrum Library, Carleton University
+National Library of Finland
+National Library of New Zealand
+National Library of Norway
+National Library of Sweden (Kungliga Biblioteket)
+Publishers' Licensing Services
+UNSW Library
+ISNI assignment[edit]
+ISNI-IA uses an assignment system comprising a user interface, data-schema, disambiguation algorithms, and database that meets the requirements of the ISO standard, while also using existing technology where possible. The system is based primarily on the Virtual International Authority File (VIAF) service, which has been developed by OCLC for use in the aggregation of library catalogues.
+Access to the assignment system and database, and to the numbers that are generated as the output of the process, are controlled by independent bodies known as 'registration agencies'. These registration agencies deal directly with customers, ensuring that data is provided in appropriate formats and recompensing the ISNI-IA for the cost of maintaining the assignment system. Registration agencies are appointed by ISNI-IA but will be managed and funded independently.
+ISNI coverage[edit]
+As of 13 February 2020[update] over 11.02 million identities, including: 10.11 million people (of which 2.91 million are researchers) 912,991 organisations.[16]
+In 2018, YouTube became an ISNI registry, and announced its intention to begin creating ISNI IDs for the musicians whose videos it features.[17] ISNI anticipates the number of ISNI IDs "going up by perhaps 3-5 million over the next couple of years" as a result.[18]
+See also[edit]
+Authority control
+Digital Author Identification (DAI)
+Digital object identifier (DOI)
+GRID
+International Standard Text Code (ISTC)
+ResearcherID
+Ringgold identifier
+References[edit]
+^ "ISNI - FAQ". www.isni.org. Retrieved 19 April 2018..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}
+^ Office, Library of Congress Network Development and MARC Standards. "Encoding the International Standard Name Identifier (ISNI) in the MARC 21 Bibliographic and Authority Formats". www.loc.gov. Retrieved 19 April 2018.
+^ "ISNI 000000012281955X Ai-en-ssu-tan (1879-1955)". www.isni.org. Retrieved 19 April 2018.
+^ http://viaf.org/viaf/75121530/
+^ a b c "What is the relationship between ISNI and ORCID?". About ORCID. ORCID. Retrieved 10 February 2020.
+^ a b "ISNI and ORCID". ISNI. Archived from the original on 4 March 2013. Retrieved 29 March 2013.
+^ "Maintenance agencies and registration authorities". Iso.org. Retrieved 16 July 2018.
+^ "ISNI International Agency - ISNI International Agency". Iso.org. Retrieved 16 July 2018.
+^ http://www.isni.org/filedepot_download/134/473
+^ "ISNI". Retrieved 19 December 2014.
+^ "About the ISNI International Agency". Retrieved 19 December 2014.
+^ "Registration Agencies". ISNI. Retrieved 16 July 2018.
+^ "BnF: First National Library In the World to Become an ISNI Registration Agency". ISNI. Retrieved 16 July 2018.
+^ "YouTube Adopts ISNI ID for Artists &amp; Songwriters". ISNI. 22 January 2018. Retrieved 16 July 2018.
+^ a b "Members". ISNI. Retrieved 16 July 2018.
+^ "ISNI". www.isni.org. Retrieved 19 April 2018.
+^ "YouTube Adopts ISNI ID for Artists &amp; Songwriters". ISNI. Retrieved 1 June 2018.
+^ "Transcript: YouTube Knows Who You Are". Beyond the Book. 18 March 2018. Retrieved 1 June 2018.
+Further reading[edit]
+Karen Smith-Yoshimura, Janifer Gatenby, Grace Agnew, Christopher Brown, Kate Byrne, Matt Carruthers, Peter Fletcher, Stephen Hearn, Xiaoli Li, Marina Muilwijk, Chew Chiat Naun, John Riemer, Roderick Sadler, Jing Wang, Glen Wiley, and Kayla Willey. 2016. "Addressing the Challenges with Organizational Identifiers and ISNI." Dublin, Ohio: OCLC Research.
+External links[edit]
+Wikidata has the property: 
+ ISNI (P213) (see uses)
+Official website 
+vteInternational numbering standardsStandards
+ISO 2108: International Standard Book Number (ISBN)
+ISO 3297: International Standard Serial Number (ISSN)
+ISO 3901: International Standard Recording Code (ISRC)
+ISO 6166: International Securities Identification Number (ISIN)
+ISO/IEC 7812: Issuer Identification Number (IIN)
+ISO 9362: Business Entity Identifier (BIC)
+ISO 10957: International Standard Music Number (ISMN)
+ISO 13616: International Bank Account Number (IBAN)
+ISO 15511: International Standard Identifier for Libraries... (ISIL)
+ISO 15706: International Standard Audiovisual Number (ISAN)
+ISO 15707: International Standard Musical Work Code (ISWC)
+ISO 17316: International Standard Link Identifier (ISLI)
+ISO 17442: Legal Entity Identifier (LEI)
+ISO 21047: International Standard Text Code (ISTC)
+ISO 26324: Digital Object Identifier System (DOI)
+ISO 27729: International Standard Name Identifier (ISNI)
+ISO 27730: International Standard Collection Identifier (ISCI)
+ CAE/IPI
+Virtual International Authority File (VIAF)
+vteISO standards .mw-parser-output .nobold{font-weight:normal}by standard numberList of ISO standards / ISO romanizations / IEC standards1–9999
+1
+2
+3
+4
+5
+6
+7
+9
+16
+17
+31
+-0
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+-11
+-12
+-13
+128
+216
+217
+226
+228
+233
+259
+269
+302
+306
+361
+428
+500
+518
+519
+639
+-1
+-2
+-3
+-5
+-6
+646
+657
+668
+690
+704
+732
+764
+838
+843
+860
+898
+965
+999
+1000
+1004
+1007
+1073-1
+1155
+1413
+1538
+1629
+1745
+1989
+2014
+2015
+2022
+2033
+2047
+2108
+2145
+2146
+2240
+2281
+2533
+2709
+2711
+2720
+2788
+2848
+2852
+3029
+3103
+3166
+-1
+-2
+-3
+3297
+3307
+3601
+3602
+3864
+3901
+3950
+3977
+4031
+4157
+4165
+4217
+4909
+5218
+5426
+5427
+5428
+5725
+5775
+5776
+5800
+5807
+5964
+6166
+6344
+6346
+6385
+6425
+6429
+6438
+6523
+6709
+6943
+7001
+7002
+7010
+7027
+7064
+7098
+7185
+7200
+7498
+-1
+7637
+7736
+7810
+7811
+7812
+7813
+7816
+7942
+8000
+8093
+8178
+8217
+8373
+8501-1
+8571
+8583
+8601
+8613
+8632
+8651
+8652
+8691
+8805/8806
+8807
+8820-5
+8859
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-8-I
+-9
+-10
+-11
+-12
+-13
+-14
+-15
+-16
+8879
+9000/9001
+9036
+9075
+9126
+9141
+9227
+9241
+9293
+9314
+9362
+9407
+9506
+9529
+9564
+9592/9593
+9594
+9660
+9797-1
+9897
+9899
+9945
+9984
+9985
+9995
+10000–19999
+10005
+10006
+10007
+10116
+10118-3
+10160
+10161
+10165
+10179
+10206
+10218
+10303
+-11
+-21
+-22
+-28
+-238
+10383
+10487
+10585
+10589
+10646
+10664
+10746
+10861
+10957
+10962
+10967
+11073
+11170
+11179
+11404
+11544
+11783
+11784
+11785
+11801
+11889
+11898
+11940 (-2)
+11941
+11941 (TR)
+11992
+12006
+12182
+12207
+12234-2
+13211
+-1
+-2
+13216
+13250
+13399
+13406-2
+13450
+13485
+13490
+13567
+13568
+13584
+13616
+14000
+14031
+14224
+14289
+14396
+14443
+14496
+-2
+-3
+-6
+-10
+-11
+-12
+-14
+-17
+-20
+14644
+14649
+14651
+14698
+14750
+14764
+14882
+14971
+15022
+15189
+15288
+15291
+15292
+15398
+15408
+15444
+-3
+15445
+15438
+15504
+15511
+15686
+15693
+15706
+-2
+15707
+15897
+15919
+15924
+15926
+15926 WIP
+15930
+16023
+16262
+16355-1
+16612-2
+16750
+16949 (TS)
+17024
+17025
+17100
+17203
+17369
+17442
+17799
+18000
+18004
+18014
+18245
+18629
+18916
+19005
+19011
+19092
+-1
+-2
+19114
+19115
+19125
+19136
+19407
+19439
+19500
+19501
+19502
+19503
+19505
+19506
+19507
+19508
+19509
+19510
+19600
+19752
+19757
+19770
+19775-1
+19794-5
+19831
+20000+
+20000
+20022
+20121
+20400
+21000
+21047
+21500
+21827
+22000
+22300
+22395
+23270
+23271
+23360
+24517
+24613
+24617
+24707
+25178
+25964
+26000
+26262
+26300
+26324
+27000 series
+27000
+27001
+27002
+27005
+27006
+27729
+28000
+29110
+29148
+29199-2
+29500
+30170
+31000
+32000
+37001
+38500
+40500
+42010
+45001
+50001
+55000
+80000
+-1
+ Category
+vteAuthority control filesAAG • ACM DL • ADB • AGSA • autores.uy • AWR • BALaT • BIBSYS • Bildindex • BNC • BNE • BNF • Botanist • BPN • CANTIC • CiNii • DAAO • DBLP • DSI • FNZA • GND • HDS • World Athletics • ICCU • ICIA • ISNI • Joconde • KulturNav • LCCN • LIR • LNB • Léonore • MusicBrainz • MGP • NARA • NCL • NDL • NGV • NKC • NLA • NLG • NLI • NLK • NLP • NLR • NSK • NTA • ORCID • PIC • ResearcherID • RERO • RKD • RKDimages ID • RSL • SELIBR • SIKART • SNAC • SUDOC • S2AuthorId • TA98 • TDVİA • TE • TePapa • TH • TLS • Trove • UKPARL • ULAN • US Congress • VcBA • VIAF • WorldCat Identities
+Retrieved from "https://en.wikipedia.org/w/index.php?title=International_Standard_Name_Identifier&amp;oldid=975191766"
+		Categories: ISO standardsUnique identifiersLibrary cataloging and classificationHidden categories: Articles with short descriptionShort description matches WikidataArticles lacking reliable references from December 2015All articles lacking reliable referencesArticles containing potentially dated statements from 2018All articles containing potentially dated statementsArticles containing potentially dated statements from February 2020AC with 0 elementsUse dmy dates from May 2020
+	Navigation menu
+		Personal tools
+		Not logged inTalkContributionsCreate accountLog in
+		Namespaces
+		ArticleTalk
+		Variants
+		Views
+		ReadEditView history
+		More
+		Search
+		Navigation
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		Contribute
+		HelpLearn to editCommunity portalRecent changesUpload file
+		Tools
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		Print/export
+		Download as PDFPrintable version
+		Languages
+		العربيةAsturianuBân-lâm-gúभोजपुरीБългарскиCatalàČeštinaCymraegDanskDeutschΕλληνικάEspañolEsperantoEuskaraفارسیFrançaisGàidhligGalego한국어हिन्दीHrvatskiIlokanoBahasa IndonesiaItalianoעבריתMagyarМакедонскиMalagasyमराठीBahasa MelayuNederlands日本語NordfriiskOccitanPolskiPortuguêsRomânăРусскийScotsSimple EnglishSlovenčinaSlovenščinaSrpskohrvatski / српскохрватскиSuomiSvenskaTürkçeУкраїнськаTiếng Việt中文
+		Edit links
+		 This page was last edited on 27 August 2020, at 07:59 (UTC).
+		Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+		Privacy policy
+		About Wikipedia
+		Disclaimers
+		Contact Wikipedia
+		Mobile view
+		Developers
+		Statistics
+		Cookie statement

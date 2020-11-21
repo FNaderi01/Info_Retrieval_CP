@@ -1,0 +1,278 @@
+https://becht.com/about-us/research-and-development/
+R&D
+R&D
+BECHT RESEARCH & DEVELOPMENT INITIATIVES
+In addition to providing expert consulting services to the Process and Power Industry, Becht is also engaged in meeting the research and development needs of its clients.
+We are active in carrying out a range of R&D projects funded by industrial consortiums and professional societies, which include the American Society of Mechanical Engineers (ASME), the Electric Power Research Institute (EPRI), and the Materials Technology Institute (MTI).
+RECENT RESEARCH & DEVELOPMENT PROJECTS
+Statistical Analysis of NDE Data
+Eileen Chant, Ph.D., P.E.; J. Robert Sims; William Meeker, Ph.D. (Iowa State University); Mark Stone, Ph.D. (Sonomatic Ltd.)
+In October 2008, Becht Engineering was awarded a project by the Materials Technology Institute (MTI) to develop an inspection guideline document and software tool for the collection and analysis of inspection data for piping, piping components and pressure vessels.
+A typical refinery or chemical plant may have hundreds of miles of piping and hundreds of pressure vessels that require regular inspection to permit their safe and reliable operation. The inspection document we are developing is intended to provide a step-by-step guideline on planning, organizing and conducting an inspection program for piping circuits and pressure vessels. The data collected are typically thickness measurements and may involve a hundred or more data points for a particular piece of equipment or piping system.
+The guideline document will enable MTI member companies to improve their inspection programs through a reduction in errors and good data management practices, which can be a formidable task considering the number of data points multiplied by the miles of pipe and pressure vessels. In addition, a summary of the types of corrosion or other damage mechanisms for commonly used alloys is provided. This allows the inspection team to anticipate the type of damage and severity that can occur. The document also contains discussions of measurement theory and statistical techniques used in the software.
+The spreadsheet-based tool uses statistical analysis for analyzing data from measurement locations in a pressure vessel or piping system. The tool evaluates the quality of the data by identifying outliers that could be a result of measurement error, local metal loss, or inappropriate thickness measurement locations (TMLs), such as a piping section with different thickness. Step-by-step instructions on how to handle flagged suspect measurements are provided. In addition, the tool uses statistical models to predict the maximum metal loss in a population of thickness measurements, corrosion rate, a prediction of when the thickness reaches an unacceptable level, and the recommended next inspection date. Plots are generated which are used to visually assess the distribution of the data and present corrosion rates.
+The tool is user-friendly and portable so that it can be used to immediately analyze the data as it is collected so that suspect thickness measurements can re-measured while the inspector and measurement equipment remains available for additional or verification measurements.
+The results from this project – when combined with appropriate risk-based inspection planning – are expected to benefit the chemical process and refining industry by optimizing inspection intervals, reducing the risk of leaks/fires by focusing on inspection locations with the highest risk and highest consequence, and – in some cases – reducing inspection costs while simultaneously reducing risks. This project is expected to be completed in April 2010.
+Boiler Return Bend Remaining Life Estimator
+Eileen Chant, Ph.D., P.E.; J. Robert Sims
+Boiler tube failure is the leading cause of fossil plant downtime for utilities. In an effort to improve life assessment modeling tools which predict the time to failure for cracked boiler tubes, the Electric Power Research Institute commissioned Becht Engineering to develop a software tool providing a rapid remaining life estimate of tubes which have developed cracks at the return bends.
+A series of 45 typical return bend designs with a range of outer diameters, wall thickness, design pressure and bend radius were selected. For each of these 45 designs, FEA analyses using Abaqus were completed for 6 ovalities to determine the maximum through-wall stress profile. The stress profiles from the FEA analyses were input into the Becht proprietary fracture mechanics spreadsheet-based software, which performs a Level 2 assessment of a growing crack subject to fatigue loading per Section 9 of API 579-1/ASME FFS-1, 2007 Edition. A series of starting crack aspect ratios (crack length to crack depth ratio) were simulated for each of the 270 FEA profiles to determine the remaining life to failure, which is defined as the crack breaching 80% of the wall thickness, or falling outside the FAD envelope.
+A Windows®-based software program was developed for EPRI members which returns a remaining life estimate, based on user inputs and an interpolation of the calculated remaining life results residing in an MS-Access database. The user interface shows the simple inputs required to perform the remaining life estimate. This project was completed in December 2009.
+Comparison of Creep Simulation Methodologies
+Eileen Chant, Ph.D., P.E.; J. Robert Sims; Charles Becht V
+Boiler tube failures are the leading cause of fossil plant downtime worldwide. Advances in life assessment modeling tools could improve fossil plant reliability while minimizing maintenance costs by improving timing of inspection, repair and replacement activities. Becht Engineering was commissioned by the Electric Power Research Institute to better understand the remaining life predictions produced by the EPRI software programs Remaining Life Simulations and Monitoring (RLSM) and Boiler Life Evaluation and Simulation Software (BLESS), and compare those methods and results with the API 579-1/ASME FFS-1, 2007 Edition model. The types of damage considered in the study include creep rupture, creep-fatigue and creep crack growth.
+RLSM and BLESS have many features in common with the modeling approaches in API 579-1/ASME FFS-1, the main exception being the absence of the Omega Material model in the EPRI software programs. Because of this, one emphasis of the project was to present the Omega model and contrast it with the legacy approach, the Larson Miller Parameter (LMP) model.
+Some discrepancies between LMP and Omega models in API 579-1/ASME FFS-1 were discovered and described in our findings. For the BLESS comparison, data sources referenced by BLESS were reviewed in performing fatigue crack growth and creep crack growth and recreated these calculations. Comparisons with API 579-1/ASME FFS-1 predictions were made and the reasons for any noted discrepancies described.
+Finally, Becht Engineering has made a number of recommendations regarding future enhancements of the EPRI programs.
+Risk-Based Inspection for Polymers
+Eileen Chant, Ph.D., P.E.; J. Robert Sims
+Becht Engineering was awarded a project in 2007 by the Materials Technology Institute (MTI) to develop a Risk-Based Inspection (RBI) work process for above-ground, fiberglass reinforced polymer (FRP) storage tanks containing one of five designated chemicals. The process complies with American Petroleum Institute’s Recommended Practice 580 – Risk-Based Inspection and the ASME PCC-3 Inspection Planning Document and uses Risk-Based methods that were developed for fixed equipment and piping in the hydrocarbon and chemical process industries. However the basic methodology can be adapted to any class of industrial equipment, such as FRP equipment.
+Risk-Based Inspection Approach
+Damage mechanism documentation for five selected chemical and tank construction combinations was developed to provide guidance in developing failure scenarios. The damage mechanism documentation included the following information for a given stored chemical:
+The RBI work process includes a benefit-cost analysis that compares the economic benefit of mitigation to the cost of the actions selected to mitigate the risk. Mitigation of the S/H/E risk is also an inherent part of developing the inspection and maintenance plan. This RBI work process allows plant personnel to monitor reliability while delivering a task-focused, cost effective inspection and maintenance plan for a FRP storage tank. This project was completed in June 2008.
+Repair and Modification of Lined Equipment
+Harold G. Clem, Jr.; Charles Becht IV, Ph.D., P.E.
+Becht Engineering was awarded a project by the Materials Technology Institute (MTI) to develop a lining repair guidebook for owners of equipment lined with various generic types of polymeric lining materials and systems. The objective of this project was to provide guidance on the suitability of the lined equipment for repair, specific repair techniques for various lining materials and systems, and methods of assessment of the integrity of repaired equipment.
+This guide is divided into 11 Sections and 5 Appendices. Sections 1-3 contain information applicable to all linings, while Sections 4-9 and 11 describe the repair of various generic types of lining systems. Detailed technical information on specific subjects such as thermoplastic welding and repair, and spark testing of lining systems are featured in Appendices. Key highlights and features of the guide are outlined below:
+This project was completed in August 2009. The “Guide for the Repair and Modification of Lined Equipment” is scheduled to be published by the Materials Technology Institute as part of a “Repair Manual Series” in 2010.
+Pressure Equipment Integrity Life Cycle Management
+Guide to Life Cycle Management of Pressure Equipment Integrity / ASME PTB-2-2009
+This ASME publication provides a guideline or “roadmap” to help users of pressure equipment as well as manufacturers, owners, regulators and other stakeholders identify the codes, standards, recommended practices, specifications and guidelines that apply to the life cycle management of pressure equipment integrity. It provides a summary of some of the more commonly used codes, standards, recommended practices, specifications and guidelines produced by organizations based in the United States that assist manufacturers, owners, users and their designated agents, regulators and other stakeholders in maintaining the integrity of fixed pressure equipment in process plants and in general industrial use. It includes documents that are pertinent to maintaining equipment integrity (e.g. pressure containment) through appropriate design, construction, inspection, maintenance, alteration and repair.
+High Pressure Composite Hydrogen Tanks Design
+Charles Becht IV, Ph.D., P.E
+Design Factor Guidelines for High Pressure Composite Hydrogen Tanks / ASME ST- PT-005, 2006
+This report provides recommendations for design margins for composite hydrogen tanks. The scope of this report includes stationary (e.g. storage) and transport tanks; it does not include vehicle fuel tanks. The report provides recommended design margins relative to short-term burst pressure and interim margins for long-term stress rupture based on a fixed 15 year design life for fully wrapped and hoop wrapped composite tanks with metal liners. These recommended margins are based on the proven experience with existing standards for composite reinforced tanks. Recommendations for further research are also provided, in particular for development of rules that would provide design life dependent design margins relative to stress rupture that would provide a means to design for longer or shorter lives than 15 years, and to provide a method for the manufacturer to determine, by testing, the stress ratio for their fiber reinforcement system.
+Fatigue Exemption Rules for Low CR Alloys
+Charles Becht IV, Ph.D., P.E; and Charles Becht V
+Extend Fatigue Exemption Rules for Low CR Alloys into the Time-Dependent Range For Section VIII, Div 2 Construction / ASME STP-PT-025, 2009
+The present rules in the ASME Boiler and Pressure Vessel Code, Section VIII, Division 1, permit design of pressure vessels to temperatures as high as 900F. However, fatigue analysis is required, but the Code does not provide rules for fatigue analysis at temperatures above 700F. New rules are proposed that would provide for exemption from fatigue analysis by satisfaction of an elevated temperature shakedown criteria, in combination with having a limited number of design cycles.
+Time-Dependent Allowable Stresses for Creep Regime
+Charles Becht IV, Ph.D., P.E.; Greg Hollinger; Charles Becht V
+Development of Basic Time-Dependent Allowable Stresses for Creep Regime in Section VIII, Division I / ASME STP-PT-024, 2008
+The existing rules in the ASME Boiler and Pressure Vessel Code, Section VIII, Division I make no distinction as to the duration of load, although the allowable stresses in the creep regime depend upon time dependent creep properties for the material. Nominal 100,000 hour durations are used in determining the allowable stress. The report proposes two changes to the Code that would lead to more efficient design in the creep regime. 1) Higher allowable stresses for loads with a total duration not exceeding ten hours over the design life, such as earthquake and extreme wind. 2) A design approach that permits consideration of load duration in setting the allowable stress, using an approach that uses the existing allowable stress tables in the Code.
+ASME Code Rules for High Temperature Gas Reactors
+Roadmap for the Development of ASME Code Rules for High Temperature Gas Reactors (in publication)
+This ASME publication provides guidance (a roadmap) for the development of a complete set of rules for Nuclear High Temperature Gas Cooled Reactors (HTGRs) to cover new construction and in-service inspection. The guidance provides recommendations for R&D, code committee organization and code structure It is anticipated that operation and maintenance requirements for HTGRs will be covered by a new set of rules or by modifications to existing ASME OM Code. These are not covered in detail in the Roadmap.
+Test Rig Drawing Package and Instructions
+Clyde Neely, P.E.
+DRAWING PACKAGE AND OPERATING INSTRUCTIONS FOR MTI PORTABLE SKILL DEMONSTRATION TEST RIG
+Becht Engineering Co., Inc., was awarded a project by the Materials Technology Institute (MTI) to develop a test rig to be employed in training personnel in the proper way to assemble flanges used in plant piping and equipment. A portable MTI Skill Demonstration Test Rig was prepared for this purpose.
+The Drawing Package consisted of the following:
+– BECHT-1.DGN Skill Demonstration Test Rig Assembly & Parts List
+– BECHT-2.DGN Skill Demonstration Test Rig Details
+– BECHT-3.DGN Skill Demonstration Test Rig Details
+– BECHT-4.DGN Skill Demonstration Platform Truck Piping Schematic Assembly & Parts List
+– BECHT-5.DGN Skill Demonstration Detail “X” & Strainsert Quote
+The Operating Instruction Package consisted of a 12-page, detailed, step-by-step procedure that included filing, pressurizing depressurizing and draining each of the four flange test systems, all of which were mounted on a platform truck for portability.
+Alignment of Sustained Load Stress Indices in the ASME B31 Code
+George Antaki, P.E.
+ASME Project Number STP-PT-034 – Alignment of Sustained Load Stress Indices in the ASME B31 Code
+The first objective of this report is to address the discrepancies between the ASME B31 Code books including (a) inconsistency of design equations, (b) inconsistent use of stress indices and stress intensification factors, and (c) use of fatigue-based factors to calculate stresses due to sustained loads.
+The second objective of this report is to propose design equations for sustained loads which would be technically sound, practical (simple) and could be applied consistently by all ASME B31 Code books and the ASME Section III Code, Section NC/ND-3600.
+PRESENTATIONS AND PUBLICATIONS
+Becht’s professionals have published the results of their R&D and other novel work at conferences, and in books and peer reviewed journals.
+For a list of these publications, please CLICK HERE
+For information on Becht’s involvement in Code Committees, please CLICK HERE
+PUBLICATIONS
+The following papers and presentations were made during the first half of 2015
+Several Becht employees were involved in the 2015 API Inspection Summit in Galveston, TX
+The following 7 papers were presented at the 2014 ASME Pressure Vessels and Piping Conference in Anaheim, California:
+Application of ASME Section VIII Division 3 to Compressed Natural Gas Transport”; J Robert Sims;  Proceedings of the 2013 ASME/US Coast Guard Marine Technology and Standards Workshop, July 23-25, 2013, Arlington, VA, USA.
+“Application of ASME Section VIII Division 3 Design Requirements To Offshore High Pressure Equipment”; J Robert Sims; Proceedings of the 2013 ASME/US Coast Guard Marine Technology and Standards Workshop, July 23-25, 2013, Arlington, VA, USA.
+“An Evaluation of the Protection Against Local Failure in ASME Section VIII, Division 2: Finite Element ModelConsiderations”; Trevor G. Seipp; PVP2013-98028; presented at ASME Pressure Vessels and Piping Division Conference, Paris, France.
+“User’s Design Specification Preparation for 2¼Cr-1Mo-¼V Reactors in Accordance with ASME Section VIII, Division 2 and Code Case 2605”; Radoslav Stefanovic, Alicia Avery, Ken Baria, Reza Kabganian, Vasile Oprea and Trevor Seipp; PVP2013-97720; presented at ASME Pressure Vessels and Piping Division Conference, Paris, France.
+“Local Thin Areas Adjacent to Other Local Thin Area in API-579/ASME FFS-1”; Charles Becht 5th, Greg Epremian, Eileen Chant, J Robert Sims and Derrick Pease; Presented at the ASME Pressure Vessels and Piping Conference, Paris, France on July 16, 2013. Paper PVP2013-98169, American Society of Mechanical Engineers, Two Park Avenue, New York, NY 10016.
+“Design Analysis and Qualification of Buried Metallic Pipe”; George Antaki, Charles Becht V, Michael Shipley; ASME PVP 2013, Paris.
+“A Novel Comparison of Design-By-Analysis Methods”; Mark Stonehouse, Trevor G. Seipp, Shinichiro Kanamaru, and Shawn Morrison; Journal of Pressure Vessel Technology, ASME, Sept 2012.
+“Solving the Puzzle of Bolted Joints”; Edward Hayman and Clyde Neely; published in July 2011 issue of MECHANICAL ENGINEERING.
+“NOT BY GASKET ALONE—IT TAKES A WELL-DESIGNED AND IMPLEMENTED FLANGED JOINT”; Clyde C. Neely; presented at the ASME Pressure Vessels and Piping Conference, July 2011.
+“Benchmark Analysis of Seismically Induced Fluid-Structure Interaction in Liquid-Containing Tanks with Insufficient Freeboard”; F. G. Abatt; presented at the 2011 Structures Congress, April 14-16 2011, Las Vegas, Nevada, and published in the ASCE Conference Proceedings.
+“Risk-Based Inspection for Aboveground, Fiberglass-Reinforced Polymer Storage Tanks”; Eileen Chant and J. Robert Sims; NACE International Materials Performance Journal, Vol. 50, No. 1, January 2011.
+“Risk-Based Inspection for Polymers”; Eileen Chant and J. Robert Sims; presented at NACE CORROSION 2010 Conference, March, 2010 and published in Materials Performance Journal, January 2011.
+“Flexible Aerogel Insulation for Coker- and Sulfur-Unit Applications”; J. Williams and T. Seipp, presented at the Coking.com Conference, Calgary, September 2010.
+“Considerations in Using FEA for Layered Vessel Construction”; Trevor Seipp, Mark Stonehouse, and Charles Ormsbee (Agrium); presented at ASME Pressure Vessels and Piping Conference, July 2010.
+“A Novel Comparison of Design-By-Analysis Methods”; Mark Stonehouse, Trevor Seipp, Shinichiro Kanamaru (JGC Corporation), and Shawn Morrison (M5 Engineering); presented at ASME Pressure Vessels and Piping Conference, July 2010.
+“User’s Design Specification Recommendations for ASME Section VIII, Division 2”; Trevor Seipp and Shiju George; presented at ASME Pressure Vessels and Piping Conference, July 2010.
+“Introduction to the Process Piping Code, ASME B31.3”, C. Becht IV, tutorial presented at the ASME Pressure Vessels and Piping Conference, July 2010.
+“Guidelines for Pressure Boundary Bolted Joint Assembly – What’s New in PCC-1-2010”; Clyde Neely and Clay Rodery; presented at the ASME Pressure Vessels and Piping Conference, July 2010.
+“Guidance on Troubleshooting Flanged Joint Assemblies, Background on new ASME PCC-2010 Appendix P”; James R. Payne, Clyde C.Neely, and Edward W. Hayman; presented at the ASME Pressure Vessels and Piping Conference, July 2010.
+“Seismic Response of Floating Roof Storage Tanks Part II: Contact Pressure Approach”; L. Magnus Gustafsson, Alexander Kozak, Philip J. Cacciatore; presented at ASME Pressure Vessels and Piping Conference, July 2010.
+“Roadmap To Develop Asme Code Rules For The Construction Of High Temperature Gas Cooled Reactors (HTGRS)”; ASME Standards Technology LLC, STP-NU-045, June 18, 2010.
+“Assembling Knowledge”; Warren Brown, Clyde Neely, and Steve Rossi, published in March 2010 issue of MECHANICAL ENGINEERING.
+“Status Report on ASME Section III Subgroup on Design Plan for Code Changes to Implement Environmental Fatigue Evaluation Methods”; Cole and Minichiello; PVP 2010-25677.   “Finite Element Analysis of Large Columns During PWHT”; Mark L. Stonehouse; ICPVT-12: The 12 International Conference on Pressure Vessel Technology, Korea, September 2009.
+“Special Techniques for Using Finite Element Analysis in Layered Vessels”; T. Seipp; ICPVT-12: The 12 International Conference on Pressure Vessel Technology, Korea, September 2009.
+“ASME Section VIII, Division 2, New Design by Analysis Rules”; T. Seipp; tutorial presented at the ASME Pressure Vessels and Piping Conference, July 2009.
+“ASME Section VIII, Division 3 Alternative Rules for Construction of High Pressure Vessels”; J. Robert Sims; tutorial presented at the ASME Pressure Vessels and Piping Conference, July 2009.
+“Analysis of Waterhammer in Pipes with Non-condensable Gases”; C. Becht V; presented in 2009 Pressure Vessels and Piping Conference proceedings, ASME, 2009.
+“Extension of Fatigue Exemption Rules in Section VIII, Div 2 Slightly into the Creep Regime”; C. Becht IV and C. Becht V; presented in 2009 Pressure Vessels and Piping Conference proceedings, ASME, 2009
+“Elevated Temperature Shakedown Concepts”; C. Becht IV; presented in 2009 Pressure Vessels and Piping Conference proceedings, ASME, 2009.
+“Evaluation of a Welded Joint Using the Structural Stress Method”; S. George; presented at the ASME Pressure Vessels and Piping Conference, July 2009.
+“Evaluation of Storage Tank Floating Roofs For Stress And Stability Due To Earthquake Induced Liquid Sloshing”; L. Magnus Gustafsson, Ben F. Hantz, Philip J. Cacciatore; presented at ASME Pressure Vessels and Piping Conference, July 2008.
+“Developing Methodology for Allowable Stresses for Short Term Loads for the ASME Boiler and Pressure Vessel Code, Section VIII, Div 1”; C. Becht IV and G. Hollinger; presented in 2008 Pressure Vessels and Piping Conference proceedings, ASME, 2008.
+“An Analytical Solution for Calculating Stresses On Lap Patches Used on Pipes and Pressure Vessels”; C.Nadarajah; presented at ASME Pressure Vessels and Piping Division Conference, PVP 2008, Chicago, Illinois, USA.
+“Technical Basis and Application of New Rules on Fracture Control of High Pressure Hydrogen Vessel in ASME Section VIII, Division 3 Code”; J. Robert Sims, Mahendra D. Rana, George B. Rawls and Elmar Upitis; ASME Pressure Vessels and Piping Conference, July 2007, and ASME Journal of Pressure Vessel Technology, Volume May, 2008.
+“Bolted Flange Joints Under External Moments: An Analysis Using the Compound Gasket Approach for Spiral Wound Gaskets”; T. Seipp, C. Reichert, and B. Messer; ASME Pressure Vessels and Piping Conference, July 2007.
+“Considerations in the Design and Analysis of an ASME Section VIII, Division 2 Reactor Support Skirt”; D. Williams, and T. Seipp; ASME Journal of Pressure Vessel Technology, Volume 129, May 2007.
+“Slip Blinds at Pressures Causing Permanent Deformations”; J. Taagepera and T. Seipp; ASME Journal of Pressure Vessel Technology, Volume 129, May 2007.
+“Passion, Preparation, Perseverance, A Journey to Excellence”; Rick Hoffman; presented to the first annual Air Liquide World Wide Reliability Conference.
+“Passion, Preparation, Perseverance”; Rick Hoffman; presented to the Lean Manufacturing Conference, March 2007.
+“Reliability Improvement Best Practice Identification Team (RIB-PIT)”; Rick Hoffman; presented at the Lyondell World Wide Reliability Forum, February 2007.
+“Back to Basics of Reliability Management”; Rick Hoffman; presented at the Lyondell World Wide Reliability Forum, February, 2007.
+“Passion, Preparation, Perseverance, A Journey to Excellence”; Rick Hoffman; presented to the People Management for Maintenance Excellence Conference, Perth, Australia, February 2007. Voted best paper at this international conference. “Developments in ASME and API Post Construction Codes and Standards”; invited presentation at the International Symposium on Structural Reliability in Energy Systems Innovation, The University of Tokyo, November 2006.
+“Corrosion in Organic Acids”; Tony Scribner; Vol 13C, Corrosion: Environments and Industries ASM Handbook, September 2006.
+“Introduction to Risk-Based Maintenance and Inspection Planning”; J. Robert Sims; Tutorial presented at the ASME Pressure Vessels and Piping Conference, July 2006.
+“Recent Changes to ASME Section VIII, Divisions 3 and Chapter IX of B31.3”; J. Robert Sims; presented at the ASME Pressure Vessels and Piping Conference, July 2006.
+“Specification, In-service Inspection, Repair and Testing of PSA Vessels”; J. Robert Sims; presented at the American Petroleum Institute Spring Refining Meeting, May 2006.
+“Specification, In-service Inspection, Repair and Testing of PSA Vessels”; presented at the American Petroleum Institute Spring Refining Meeting; May 2, 2006.
+“Reliability, A Competitive Advantage”; Rick Hoffman; presented to the Lyondell European Reliability Forum, May 2006.
+“Brittle Fracture Assessment Using Part 3 of API RP-579”; J. Robert Sims; presented at the American Institute of Chemical Engineers Spring Meeting, April 2006.
+“Passion, Preparation, Perseverance, A Journey to Excellence”; Rick Hoffman; presented to the Society of Maintenance and Reliability Professionals, Birmingham, Alabama, March 2006.
+“Maximizing Reliability and Profitability in Refineries – A Multi-Dimensional Approach”; C. Becht IV and A. T. Radhakrishnan; presented at the Seventh International Symposium on Risk, Economy and Safety, Failure Minimization and Analysis and published in conference proceedings, South Africa, March 2006.
+“Developments in Post-Construction Codes and Standards in the United States”; C. Becht IV and J. R. Sims; presented at the Seventh International Symposium on Risk, Economy and Safety, Failure Minimization and Analysis and published in conference proceedings, South Africa, March 2006.
+“New Piping Flexibility Rules in ASME B31.3, Appendix P”; C. Becht IV and D. Diehl; presented at the July 2005 ASME Pressure Vessels and Piping Conference and published in Design and Analysis of Piping and Piping Components, ASME, 2005 and the Journal of Pressure Vessel Technology, Vol. 128, No. 1, February, 2006.
+“LCCA Issues and Example Problem”; J. Robert Sims; presented at the Life Cycle Cost Analysis Workshop at the National Academy of Science, Washington DC, January 2006.
+“ASME Post Construction Standards: Repair of Pressure Equipment and Piping, PCC-2, and Inspection Planning, PCC-3”; C. Becht IV, C. Rodery, and J. R. Sims, invited tutorial instructors, 2006 ASME Pressure Vessel and Piping Conference.
+“New Weld Joint Strength Reduction Factors in the Creep Regime in ASME B31.3 Piping”; C. Becht IV; presented at the July 2005 ASME Pressure Vessels and Piping Conference and published in Design and Analysis of Piping and Piping Components, ASME, 2005 and the Journal of Pressure Vessel Technology, Vol. 128, No. 1, February, 2006.
+“Time Domain Soil-Structure Interaction Analysis of a Buried Tank Containing Fluid”; F. G. Abatt, B. Carpenter and C. Hendrix; presented at the 2006 MSC Software Virtual Product Development Conference, Huntington Beach, California.
+“ASME Standards for Refineries and Chemical Plants”; J. Robert Sims; presented at the NIST Standards in Trade Workshops for India on Oil and Gas, July 2005.
+“Understanding and Using ASME PCC-1-2000”; Clyde Neely; invited speaker, PVRC Conference on Best Practices for Flange Assembly and Maintenance, May 23-25, 2005, New Orleans.
+“Status of the Development of a New Standard; Repair of Pressure Equipment and Piping”; C. Becht IV; presented at the July 2005 ASME Pressure Vessels and Piping Conference and published in New Developments in Codes and Standards, ASME, 2005.
+“Overview of the New B&PV Code Section XII Transport Tank Rules”; C. Becht IV; presented at the July 2005 ASME Pressure Vessel and Piping Conference and published in New Developments in Codes and Standards, ASME, 2005.
+“Technology Needs for Pressure Equipment Codes & Standards – Nuclear, Hydrogen, and Other Energy Sectors” presented to the US Department of Energy, February 2005; J. Robert Sims; Dr. Regis A. Matzie ASME Industry Advisory Board;
+Kenneth R. Balkey, PE, Vice President-Elect, ASME Nuclear Codes and Standards; C. Wesley Rowley, PE, Vice President, ASME Nuclear Codes and Standards; Francis Dietz, Government Relations Representative, ASME Washington DC; John J. Koehr, Director, ASME Codes & Standards Technology.
+“Guidance on the Application of Code Case 2211 – Overpressure Protection by Systems Design”;  WRC Bulletin 498, January 2005, co-authored with W. G. Yeich.  Welding Research Council, Inc. PO Box 1942, New York, NY 10156.
+“Buckling and Instability Considerations: A Look at Pressure Vessels and Bellows”; D. Williams, T. Seipp, and C. Becht IV, invited tutorial instructors, 2005 ASME Pressure Vessel and Piping Conference.
+“A parametric study of ASME B16.5 flanges which has experienced flange face corrosion”; C. Nadarajah; ASME; presented at International Conference on Pressure Vessel Technology, 2004, San Diego, USA.
+“Common Terminology and Methodology for Homeland Security”; presented as a part of the Risk Analysis and Management Panel I at the ASME International Mechanical Engineering Congress and Exhibition; November, 2003.
+“ASME BPV Section VIII Division 3 – Present and Future”; presented at the ASME Pressure Vessels and Piping Conference; July 2003.
+“A Common Approach to Risk Analysis”; presented at the ASME Pressure Vessels and Piping Conference; July 2003.
+“A Critical Comparison of Seismic Qualification Requirements for Safety Equipment in Various Codes and Standards”; F. G. Abatt, Q. Hossain and M. Meyer; presented at the 2003 ASME Pressure Vessel and Piping Conference, Cleveland, Ohio.
+“Introduction to ASME B31.3, Process Piping Tutorial”; C. Becht IV; invited tutorial instructor, 2003 ASME Pressure Vessel and Piping Conference.
+“Observations on the Evolution of Design Rules Considering the Computer”; invited speaker at the 2003 ASME Pressure Vessel and Piping Conference, Cleveland, OH.
+“ASME B31.3 Code”; C. Becht IV; invited tutorial instructor, International Pipeline Conference, Calgary, Alberta, September 2002.
+“The Use of Risk Analysis in Decision-Making for Critical Infrastructure Protection”; keynote address to the White House Critical Infrastructure Protection Priorities Workshop; September, 2002.
+“Industry Experience with Fitness for Service Applications”; presented to the Petroleum Association of Japan; August, 2002.
+“An Evaluation of EJMA Stress Calculations for Unreinforced Bellows”; C. Becht IV; presented at the July 2000 ASME Pressure Vessels and Piping Conference and published in Fitness for Service, Stress Classification and Expansion Joint Design, PVP-Vol 401, ASME, 2000 and published in the Journal of Pressure Vessel Technology, Vol. 124, No. 1, February 2002.
+“Summary of Single-Shell Tank In-Service Inspection Recommendations”; F. G. Abatt; Invited Presentation given at Pacific Northwest National Laboratory as part of the Proceedings of the Workshop on NDE of Concrete in Single-Shell Tanks, 2002.
+“Behavior of Bellows”; WRC Bulletin 466, C. Becht IV; published by Welding Research Council, Inc., November 2001.
+“Fatigue of Bellows, a New Design Approach”; C. Becht IV; International Journal of Pressure Vessel and Piping, Vol. 77, Number 13, November 2001.
+“Recent Changes in the ASME B&PV Codes and Future Directions”; presented at the ASME Industry Breakfast; October, 2001. “Recent and Potential Future Changes in ASME B31.3, Process Piping”; C. Becht IV; invited speaker/panelist, July 2001 ASME Pressure Vessels and Piping Conference, Atlanta, Georgia.
+“Practical Fitness-For-Service Evaluation using API 579”; C. Becht IV, J. R. Sims, D. L. Bagnoli, and L. Loushin; presented at Cape 2001, South Africa, and published in Ageing of Materials and Methods for the Assessment of Lifetimes of Engineering Plant.
+“Recent ASME/API Developments in Post Construction”; C. Becht IV and J. R. Sims; presented at Cape 2001, South Africa, and published in Ageing of Materials and Methods for the Assessment of Lifetimes of Engineering Plant.
+“Practical Piping Vibration”; C. Becht IV; invited tutorial instructor, ASME Pressure Vessels and Piping Conference, 2000, and at Cape 2001.
+“The Top 10 Myths of Reliability Management”; Rick Hoffman, presented at the 9th International Process Plant Reliability Conference and Exhibition, Houston, October 2000.
+“Role of Engineering Consultancy in Assisting Industry”; C. Becht IV; invited speaker, 33rd Annual Technical Program of the International Metallographic Society, ASM International, Materials Solutions, St. Louis, October 2000.
+“Pressure Vessel Maintenance”; J. R. Sims and C. Becht IV; Chemical Engineering, pp. 68-78, July 2000.“A Century of Progress in Codes and Standards”; C. Becht IV; invited speaker/panelist, July 2000, ASME Pressure Vessels and Piping Conference, Seattle, Washington.
+“The Use of Risk-Based Approaches in Post Construction Standards”; ASME Journal of Pressure Vessel Technology, Special Millennium Edition; July, 2000; co-authored with Richard E. Feigel.
+“The Effect of Bellows Convolution Profile on Stress Distribution and Plastic Strain Concentration”; C. Becht IV, presented at the July 2000 ASME Pressure Vessels and Piping Conference and published in Fitness For Service, Stress Classification and Expansion Joint Design, PVP-Vol. 401, ASME, 2000.
+“Risk Based Assumptions in the ASME Pressure Vessel Code”; Keynote Speech, Plenary Session, Ninth International Conference on Pressure Vessel Technology, Sydney Australia; April 10, 2000; co-authored with Richard E. Feigel.
+“Fatigue of Bellows”; C. Becht IV, published in Conference Proceedings, Vol. 1, Ninth International Conference on Pressure Vessel Technology, ICPVT-9, April 2000, Sydney, Australia.
+“Vibration Analysis of BWR/5 Recirculation System Piping”; Torres, Cole, and Mostala; ICONE-8682, 8th International Conference on Nuclear Engineering, April 2000.
+“A Comparison of Criteria for Acceptance of Risk”; Feb. 16, 2000; co-authored with Spencer H. Bush.  PVRC Project 99-IP-01; sponsored by the ASME Council on Codes and Standards under a grant from the ASME Foundation.
+“Vibration Testing of BWR/5 Recirculation Piping System”; Torres, Cole, and Mostala; 2000 PVP Vol. 409.
+“Developments in Post Construction Codes and Standards in the United States”; C. Becht IV, J. R. Sims and Clyde Neely; invited keynote speaker at the 7th International Operating Pressure Equipment Conference in Sydney, Australia.
+“Crack-Like Flaws And Local Thin Areas – Background and Evaluation Methodology”, presented to the Petroleum Association of Japan, August 25 and 26, 1999.
+“Evaluation of Plastic Strain Concentration in Bellows”; C. Becht , presented at the August 1999 ASME Pressure Vessels and Piping Conference and published in Fracture, Design Analysis of Pressure Vessels, Heat Exchangers, Piping Components, and Fitness For Service – 1999, PVP-Vol. 388, ASME, 1999.
+“ASME Activities in Post-Construction – Briefing on New Standards”; C. Becht, presented at Cape ’99, 5th International Colloquium Aging of Materials and Methods for the Assessment of Lifetimes of Engineering Plant, Wilderness, South Africa.
+“What’s New in ASME B31.3; What’s New in ASME B&PV Codes; Rerating ASME Vessels Using the New, Higher Allowable Stress; ASME BPTCS Activities in Risk Management; Risk Based Maintenance Planning; Post Construction Standards”; C. Becht, invited speaker, Sasol Technology Seminar, April 1999, Secunda, South Africa.
+“Horizontal vessels on fixed supports used for storing high-temperature liquid: an experimental validation of finite element modeling”; H.W.Ng, J.S.T.Cheung, L.S.Ong, A.S.Tooth, C.Nadarajah and Z.Ling; published in Journal of Strain Analysis Vol.34, No.2, 1999, UK.
+“The support of Horizontal Vessels Containing High Temperature Fluids – A Design Study”; A.S.Tooth, J.S.T.Cheung, L.S.Ong, H.W.Ng and C.Nadarajah; published in Journal of Pressure Vessel Technology, August 1998, Vol.120, USA.
+“What’s New in ASME B31.3, Besides the Name, Process Piping”; C. Becht, invited speaker/panelist July 1998 ASME Pressure Vessels and Piping Conference.
+“Finite element study of keyed backing ring design for floating head”; C.Nadarajah and L.T.Foo; published in International Journal of Pressure Vessel and Piping 75, 1998, UK.
+“An alternative way to support horizontal pressure vessels subject to thermal loading”; Alwyn S. Tooth, John S.T.Cheung, Heong W.Ng, Lin S. Ong, Chithranjan Nadarajah; published in International Journal of Pressure Vessels and Piping 75 (1998), pg. 17-623, UK.
+“Evaluation of Creep Buckling of Thermoplastic Pipe”; C. Becht and M. Xue, presented at Failures ’98 and published in Risk, Economy and Safety, Failure Minimisation and Analysis, 1998, South Africa.
+“Vapor-Cloud Explosions, Surviving”; C. Benteftifa and C. Becht, Encyclopedia of Chemical Processing Design, Vol. 61, Marcel Dekker, 1997.
+“External Pressure Evaluation for Existing Pressure Vessels”; C. Becht and Y. Chen, presented at the July 1997 ASME Pressure Vessels and Piping Conference and published in Fitness for Adverse Environments in Petroleum and Power Equipment, PVP-Vol. 359, ASME, 1997.
+“Design and Operation of High Pressure Systems”; J. R. Sims; tutorial presented at the Pressure Vessels and Piping Conference; July 30, 1997.
+“Span Limits for Elevated Temperature Piping”; C. Becht and Y. Chen, presented at the July 1997 ASME Pressure Vessels and Piping Conference and published in Approximate Methods in the Design and Analysis of Pressure Vessels and Piping Components – 1997, PVP-Vol. 347, ASME, 1997 and published in the Journal of Pressure Vessel Technology, Vol. 122, No. 2, May 2000.
+“A better way to support horizontal pressure vessels subject to thermal loading”; A.S.Tooth, J.S.T.Cheung,
+C.Nadarajah, H.W.Hg and L.S.Ong; ASME Asia 97 Congress and Exhibition, Singapore.
+“A Comparison of Section VIII Division 2 and Division 3 on High Pressure Vessels”; J. R. Sims; ASME PVP Volume 353; 1997.
+“Energy Theorems and Bounds in Linearized Elasticity with Residual Stress”; F. G. Abatt and D. E. Carlson; Presented at Los Alamos National Laboratory, Engineering Sciences and Applications Division, Engineering Analysis Group, 1997 and at MEET’N’93 Joint Conference of SES, ASME, and ASCE, University of Virginia at Charlottesville, Virginia, 1993.
+“The radial loading of cylindrical vessels – Influence of large displacements”; C. Nadarajah, A.S. Tooth and J.Spence;  Int. J. Press. Ves & Piping, Vol.67, June 1996, UK.
+“Biaxial rattchetting and cyclic plasticity for bree-type loading – Part II: Comparison between finite element analysis and theory”; C. Nadarajah and H. W. Ng; ASME J. Press. Tech, Vol. 118, No.2, May 1996, USA.
+“Biaxial Ratchetting and Cyclic Plasticity for Bree-Type Loading – Part 1: Finite Element Analysis”; H.W.Ng and C.Nadarajah; ASME J. Press. Tech, Vol. 118, No.2, May 1996, USA.
+“Robust Limit Load Estimation Using Secant Modulus Techniques”; C. Becht and Y. Chen, presented at the Lazar M. Kachanov Symposium and published in Inelasticity and Damage in Solids Subject to Microstructural Change, 1996.
+“Recent Changes to ASME B31.3”; C. Becht, E. Bane and D. Frikken, presented at the MTI Second International Symposium on the Mechanical Integrity of Process Piping and published in conference proceedings, 1996.
+“Piping Flexibility Analysis, When Should It Be Performed?”; C. Becht, speaker/panelist 1996 MTI Piping Symposium.
+“The support of horizontal vessels containing high temperature fluids – A design study”; A.S.Tooth, J.S.T.Cheung, C. Nadarajah, L. S. Ong and H. W. Ng; Int. Conf. On Press. Vess. Tech, Vol.2, 1996, USA. – PVP Best Publication Award.
+“Limit and shakedown analysis of nozzle/cylinder intersection under internal pressure and in-plane moment loading”; C. Nadarajah, D Mackenzie, JT Boyle; published in International Journal of Pressure Vessel and Piping, Elsevier Science Ltd, 1996 Vol 68, Issue No 3, pp 261-272, ISSN: 0308-016.
+“Improve Building Performance to Survive Vapor-Cloud Explosions”; C. Benteftifa and C. Becht, Hydrocarbon Processing, October 1995.
+“A Parametric Study of Double-Shell Tank Response to Internal High-Frequency Pressure Loading”; F. G. Abatt, J. P. Strehlow, R. Baliga, K. Choi and J. S. Shulman; Presented at ASME-PVP Conference, Honolulu, Hawaii, July 17-23, 1995.
+“B31.3 Appendix X Rules for Expansion Joints”; C. Becht, Journal of Pressure Vessel Technology, Vol. 117, ASME, 1995.
+“Fatigue Analysis Using Simplified Elastic-Plastic Analysis”l C. Becht and B. Lyow, presented at the July 1995 ASME Pressure Vessels and Piping Conference and published in Fatigue Behavior and Environmental Enhancement, PVP-95-MF4, ASME, 1995.
+“Jacking to Correct Out-of-Roundness of a Ring-Stiffened Vessel”; C. Becht, Y. Chen and B. Lyow, presented at the July 1995 ASME Pressure Vessels and Piping Conference and published in Fitness for Service and Decisions for Petroleum and Chemical Equipment, PVP-95-MF3, ASME, 1995.
+“Developments in Pressure Vessel and Piping Design and Analysis”; C. Becht, PVP – Vol. 95-DA3, cont. ed., ASME, 1995.
+“Evaluations of Existing Piping Systems – API 570”; C. Becht, invited speaker, Technical Seminar, American Society for Nondestructive Testing, April 1995. “Estimating limit loads and surfaces using the elastic compensation method”; C.Nadarajah; Mindef-NTU joint R&D Seminar, January 1995, Singapore.
+“Horizontal pressure vessels on fixed saddle supports under thermal expansion loading – A study of 3 different saddle designs”; J.S.T. Cheung, A.S.Tooth, C.Nadarajah, L.S.Ong and H.W.Ng; Solid Mechanics Conference, Singapore 1995.
+“Problems with Pressure Relief Valves in High Pressure Ethylene Service”; J. R. Sims; ASME PVP Volume 297, 1995.
+“Fitness for Service – Local Thin Areas – Comparison of Finite Element Analysis to Physical Test Results”; J. R. Sims; ASME PVP Volume 315, 1995.
+“Fatigue Usage Factor Evaluation For an Integrally Reinforced Branch Connection Using NB-3600 and NB-3200 Analysis Methods”; Hwang, Cole, and Bosi; 1995 PVP Vol. 313-2.
+“Introduction to the Chemical Plant and Petroleum Refinery Piping Code ASME B31.3”; C. Becht, invited tutorial instructor, ASME Pressure Vessels and Piping Conference, 1992, 1993, 1995 and 2003; MTI Second International Symposium on the Mechanical Integrity of Process Piping, 1996; Cape 2001.
+“Upper and lower bound limit surfaces of structures using the elastic compensation method”; C.Nadarajah; Journal of the Institution of Engineers, Singapore, Vol. 34, No.8, December 1994.
+“High Temperature Materials/Design Issues”; C. Becht, invited speaker/panelist June 1994 ASME Pressure Vessels and Piping Conference.
+“Service Experience and Reliability Improvement: Nuclear, Fossil, and Petrochemical Plants”; C. Becht, PVP – Vol. 288, cont. ed., ASME, 1994.
+“Recertification and Stress Classification Issues”; C. Becht, PVP – Vol. 277, cont. ed., ASME 1994.
+“Assessment of Older Cold Service Pressure Vessels for Brittle Fracture during Temperature Excursions below the Minimum Design Temperature”; J. R. Sims; ASME PVP Volume 288, 1994.
+“Comparison of Local Thin Area Assessment Methodologies”; J. R. Sims; ASME PVP Volume 288, 1994.
+“Simple bounds on limit loads using elastic finite element analysis”; D Mackenzie, C Nadarajah, S Jinhua and J T Boyle; ASME J. Press. Vess. Tech., Vol.115, No.1, Feb 1993, USA.
+“New Rules for Bellows Expansion Joints in B31.3”; C. Becht, presented at the MTI/NACE First International Symposium on Process Piping and published in conference proceedings, 1993.
+“Creep, Fatigue, Flaw Evaluation, and Leak – Before – Break Assessment”; C. Becht, PVP – Vol. 266, ed. Y. S. Garud, M. Aggarud, C. Becht, S. Bhandari, G. Wilkowski, ASME, 1993.
+“A simple method of estimating limit loads by iterative elastic analysis II – Nozzle sphere intersections under internal pressure and radial load”; C Nadarajah, D Mackenzie & J T Boyle;  Int.J.Pres.Vess and Piping, Vol.53, pp 97 -119, 1993, UK.
+“Assessment of Older Equipment for Risk of Brittle Fracture”; J. R. Sims; ASME PVP Volume 261, 1993.
+“Fitness for Service: Groove Like Local Thin Areas on Pressure Vessels and Storage Tanks”; J. R. Sims; ASME PVP Volume 252, 1993.
+“Effect of Pipe Insertion On Slip-On Flange Performance”; C. Becht, Y. Chen, and C. Benteftifa, presented at the July 1992 ASME Pressure Vessels and Piping Conference and published in Design and Analysis of Pressure Vessels, Piping, and Components-1992, ASME, 1992.
+“Stress Classification, Robust Methods, and Elevated Temperature Design”; C. Becht, PVP – Vol. 230, ed. C. Becht, ASME, 1992.
+“Design and Analysis of Pressure Vessels, Piping, and Components-1992”; C. Becht, PVP – Vol. 235, ed. C. Becht, ASME, 1992.
+“An iterative elastic analysis procedure for estimating lower bound limit loads”; D Mackenzie, J Shi, C Nadarajah & J T Boyle; Proc. ASME PVP, New Orleans, 1992, USA.
+“A Basis for the Fitness for Service Evaluation of Thin Areas in Pressure Vessels and Storage Tanks”; J. R. Sims; ASME PVP Volume 233, 1992.
+“Micro Electromechanical Actuators Based on Conducting Polymers”; R. H. Baughmann, L. W. Shaeklette, R. L. Elsenbaumer, E. Plichta, C. Becht, Molecular Electronics, (pp 267 – 289), P.I. Lazarez ed., Kluwer Academic Publishing, Netherlands, 1991.
+“Fatigue, Degradation, and Fracture”; PVP – Vol 195, ed. W. Bamford, C. Becht, et al., ASME, 1990.
+“Special Pressure Vessel Design: Very High Pressure Vessels”; J. R. Sims; Presentation to the Winter 1989 and Spring 1990 Pressure Vessel Seminars of the ASME South Texas Section.
+“Conducting Polymer Electromechanical Actuators”; R. H. Baughman, L. W. Shaeklette, R. L. Elsenbaumer, E. Plichta, C. Becht, NATO Advanced Research Workshop on Conjugated Polymeric Materials: Opportunities in Electronics, Optoelectronics, and Molecular Electronics, Mons Belgium, Kluwer Academic Publishing, Netherlands, 1989.
+“Design Experience and Feedback – Design For High-Integrity Elevated Temperature Components”; C. Becht, invited speaker/panelist July 1989 ASME Pressure Vessels and Piping Conference.
+“Structural Design for Elevated Temperature Environments – Creep, Ratchet, Fatigue and Fracture”; PVP – Vol 163, ed. C. Becht et al, ASME 1989.
+“Metallic Bellows and Expansion Joints – 1989”; PVP – Vol 168, ed. C. Becht et al, ASME, 1989.
+“Fatigue and Elevated Temperature Design of Bellows”; C. Becht, presented at the July 1989 ASME Pressure Vessels and Piping Conference and published in Metallic Bellows and Expansion Joints – 1989, PVP – Vol 168, ASME, 1989.
+“Considerations in Bellows Thrust Forces and Proof Testing”; C. Becht, presented at the July 1989 ASME Pressure Vessels and Piping Conference and published in Metallic Bellows and Expansion Joints – 1989, PVP – Vol 168, ASME, 1989.
+“Section VIII, Division 3 High Pressure Vessel Code”; J. R. Sims; Moderator/Panel Member at the National Board of Boiler and Pressure Vessel Inspectors/ASME BPV Meeting in Tulsa, OK   May, 1989.
+“Fracture Mechanics, Creep and Fatigue Analysis”; PVP – Vol. 135, ed. C. Becht, S. K. Bhandari, and B. Tomkins, ASME, 1988.
+“Elastic Follow-up Evaluation of a Piping System with a Hot Wall Slide Valve”; C. Becht, presented at the July 1988 ASME Pressure Vessels and Piping Conference and published in Design and Analysis of Piping, Pressure Vessels, and Components – 1988, PVP – Vol 139, ASME, 1988.
+“Static Pressure Design of Thick Walled Cylinders”; B.Sims; tutorial presentation as a part of the PVP Tutorial Series on High Pressure Technology in Pittsburgh   June, 1988.
+“Section VIII High Pressure Vessel Rules”; J. R. Sims; presented to the 1988 PVP Conference.
+“Effect of Creep Crack Growth on Life of Elevated Temperature Stainless Steel Components”; C. Becht and G. M. Buchheim, 87-PVP-24, presented at June/July 1987 Pressure Vessels and Piping Conference and published in the Journal of Pressure Vessel Technology, Vol. 111, No. 3, August 1989.
+“Influence of Aging on High Temperature Creep Crack Growth in Type 304H Stainless Steel”; G. M. Buchheim, C. Becht, et al., presented at the September 1986, Third International Symposium on Non-Linear Fracture Mechanics and published in Non-Linear Fracture Mechanics, Vol 1.
+“Behavior of Pressure Induced Discontinuity Stresses at Elevated Temperatures”; C. Becht, presented at the July 1986 ASME Pressure Vessels and Piping Conference and published in Pressure Vessels, Piping, and Components Design and Analysis, PVP -Vol 107, ASME 1986 and the Journal of Pressure Vessel Technology, Vol. 111, No. 3, August 1989.
+“Development of Design Criteria for a High Pressure Piping Code”; J. R. Sims; ASME PVP Vol. 110, 1986.
+“ASME High Pressure Piping Code Development”; J. R. Sims; presented as part of two panel sessions at the Energy Sources Technology Conference and Exhibition in Dallas, TX – Feb. 1985. “Design and Analysis of a High Temperature, High Pressure Bellows Expansion Joint”; C. Becht, presented at the June 1984 ASME Pressure Vessels and Piping Conference and published in Metallic Bellows and Expansion Joints Part II, PVP – Vol 83, ASME, 1984.
+“Predicting Bellows Response by Numerical and Theoretical Methods”; C. Becht, presented at the June 1984 ASME Pressure Vessels and Piping Conference and published in Metallic Bellows and Expansion Joints Part II, PVP – Vol 83, ASME, 1984, The Decade of Progress in Pressure Vessel and Piping Technology 1985, and Journal of Pressure Vessel Technology, August, 1986.
+“A Simplified Approach for Evaluating Secondary Stresses in Elevated Temperature Design”; C. Becht, 83-PVP-51, presented at the June 1983 ASME Pressure Vessels and Piping Conference.
+“The Present Status of the Code being developed by ASME/ANSI B31.3 Sub Group on High Pressure Piping”; J. R. Sims; Vice Chairman of Panel Session at the ASME PVP Conference in Portland, OR   June, 1983.
+“Stress Analysis of Bellows”; C. Becht and G. Skopp, presented at the June 1981 ASME Pressure Vessels and Piping Conference and published in Metallic Bellows and Expansion Joints, PVP – Vol 51, ASME 1981.
+“Root Bulge of Bellows”; C. Becht and G. Skopp, presented at the June 1981 ASME Pressure Vessels and Piping Conference and published in Metallic Bellows and Expansion Joints, PVP – Vol 51, ASME 1981.
+“Verification of Theoretical Plastic Ratchet Boundaries for Bellows”; C. Becht, G. Skopp and P. Horton, presented at the June 1981 ASME Pressure Vessels and Piping Conference and published in Metallic Bellows and Expansion Joints, PVP -Vol 51, ASME 1981.
+“Design, Inspection and Operation of High Pressure Vessels and Piping Systems”; J. R. Sims; Editor, PVP Vol. 48, 1981.
+“Transient and High Temperature Development Test Results for a Conventional Bare Pipe Clamp”; C. Becht, presented at the June 1980 ASME Pressure Vessels and Piping Conference.
+“Seismic Evaluation of Liquid Sodium Pumps, Response to Rotational Excitation”; C. Becht, presented at the June 1979 ASME Pressure Vessels and Piping Conference.
+“Elastic/Inelastic Screening Rules for Nozzles”; C. Becht, presented at the Special Information Meeting on High-Temperature Structural Design Applications Experience, Department of Energy, Germantown, Maryland, Sept. 14-15, 1978.
+“Computer Designed Dies for Tubular Film”; J. R. Sims; presented at the Society of Plastics Engineers Annual Technical Conference (ANTEC), 1974.
+“Accuracy in Extrusion”; J. R. Sims; Guest Speaker at course sponsored by the Plastics Institute of America at Stevens University, October, 1973.
+“HDPE as a Paper Replacement”; J. R. Sims; presented to the Society of Plastics Engineers of Canada Annual Meeting, 1973.
+“Setting up a HDPE Grocery Sack Plant”; J. R. Sims; Modern Converter, July, 1973.
+“Manufacturing Techniques for Plastics Paper”; J. R. Sims; presented to the Second National Annual Extrusion Conference at New York University   April, 1973.
+“Extruding Film Grocery Bags”; J. R. Sims; Modern Plastics, April, 1973.
+“Plastics Paper”; J. R. Sims; presented to the Newark Section of the Society of Plastics Engineers   Jan., 1973.
+“Tubular Water Bath System Becomes Active Contender in the Film Sweepstakes”; J. R. Sims; Plastics World, Jan, 1973.
+BOOKS
+Books by Becht Personnel
+Subsection NB, NC, ND-3600 Piping, Companion Guide to the ASME Boiler and Pressure Vessel Code, Volume 1, Chapter 8, Fourth Edition, K.R. Rao, Editor, Jack R. Cole and Donald F. Landers, 2012.
+“Process Piping: The Complete Guide to ASME B31.3”; C. Becht IV; ASME, 2002, 2nd edition 2004, 3rd edition 2009.
+Fitness-for-Service and Integrity of Piping, Vessels, and Tanks; G. Antaki; published by McGraw-Hill, 2005.
+Piping and Pipeline Engineering; G. Antaki; published by Dekker, 2003.
+“Chapter 16, B31.1 Power Piping, and Chapter 17”; B31.3 Process Piping, C. Becht IV; Criteria and Commentary on Select Aspects of ASME Boiler and Pressure Vessel Code and Piping Codes, ed. K. R. Rhao, ASME, 2002.
+“Standards and codes to control hydrogen induced cracking in pressure vessels and pipes for hydrogen gas storage and transport”, Volume 1, Chapter 6, Edited by Richard P. Gangloff and Brian P. Somerday.  Woodhead Publishing Limited, 80 High Street, Sawston, Cambridge CB22 3HJ, UK.
+REPORTS
+Reports by Becht Personnel
+“Design Factor Guidelines for High Pressure Composite H2 Tanks”; STP-PT-005, C. Becht IV and J. Smith; ASME, 2006.
+“Time Dependent Allowable Stresses in Section VIII Div. 1”; STP-PT-024, C. Becht IV, G. Hollinger, and C. Becht V; ASME, 2008.
+“Extended Fatigue Exemption Rules for Low Cr Alloys Slightly into the Time-Dependent Range”; STP-PT-025, C. Becht IV and C. Becht V; ASME, 2008.

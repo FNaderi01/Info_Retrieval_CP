@@ -1,0 +1,317 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Medical Community Remembers Dr. Ezra C. Davidson             
+				By Jennifer Bihm, Contributing Writer                 
+	                	                Published June 21, 2018
+		Dr. Ezra C. Davidson receives the Miller-Lawrence Medical &amp; Dental Society Trailblazer Award in 2012. (Sentinel file photo)
+Earlier this year, America’s medical community, particularly those in the area of obstetrics and gynecology, mourned the death of one of their own, Dr. Ezra C. Davidson. He died in March, but long time friend and fellow physician Dr. Edward Savage Jr. wants to make sure his legacy remains upright. Savage spoke to the Sentinel recently, about how Davidson’s contributions to the medical community were history making as an African American doctor in his field.  
+“He started with a bachelor’s degree from Morehouse and a medical degree from Meharry Medical College,” Savage told the Sentinel in a recent interview.  
+“He joined the Air Force after that and was placed in its Department of Obstetrics and Gynecology…” 
+Davidson, he said, had difficulty obtaining a residency in the field post military, since most of the patients were White.  
+“Those were some of the toughest programs [for blacks] to get into,” said Savage.  
+“He did get into the Harlem Hospital in New York, which is affiliated with Columbia University. [And], he became one of the world experts on coagulation and blood clotting. For a short while, he was involved in making major decisions at the hospital in the area of blood and blood disorders.” 
+Savage could have said more, a lot more. Davidson. His major organizational responsibilities have included: president, American College of Obstetricians and Gynecologists, Los Angeles Obstetrical and Gynecological Society; chairman, Obstetrical and Gynecological Assembly of Southern California; chairman, Section of Obstetrics and Gynecology National Medical Association (NMA); chair, Board of Trustees, NMA; president of the Association Professors of Gynecology and Obstetrics; president, Golden State Medical Association (Chapter, NMA); president, North American Society for Pediatric and Adolescent Gynecology; co-chair Board of Directors, National Advisory Board on Ethics in Reproduction (NABER); and most recently, president of the Association of Academic Minority Physicians. 
+Davidson chaired the Secretary’s Advisory Committee on Infant Mortality (US Department of Health and Human Services) and the Advisory Committee for Reproductive Health Drugs of the Food and Drug Administration (FDA). He served on the National Institutes of Health (NIH) Advisory Committee to the Director and the Advisory Committee on Clinical Research.  
+He also co-chaired the NIH Work Group to Develop Guidelines for Federal Funding for Human Embryonic Pluripotent Stem Cell Research. He was a member of the Council on Graduate Medical Education (COGME) and past-chair of the Board of Directors for the California Wellness Foundation. Until recently, he was a member of the Board of Directors of Blue Shield of California. He has been elected to the National Black College Alumni Hall of Fame, Fellowship ad eundem, Royal College of Obstetricians and Gynecologists, and the Institute of Medicine, National Academy of Sciences. 
+Upon his death, his colleagues at ACOG released the following statement:  
+“The ACOG community is deeply saddened to learn of the passing of Dr. Ezra Davidson, a dedicated physician who devoted his life to the ob-gyn specialty and the health of women. Dr. Davidson served as ACOG president from 1990–91 and led the organization in many achievements, including securing site funding for the National Fetal-Infant Mortality Review Program and the publication of ACOG’s prenatal book for patients, ACOG Guide to Planning for Pregnancy, Birth and Beyond. As a leader in obstetrics and gynecology, Dr. Davidson blazed a trail for African-American doctors to succeed in the medical profession…” 
+“Dr. Davidson is important for a number of reasons,” Savage said. 
+“He did a number of things for African Americans.” 
+		Categories: Celebration of Life | Health | Legends | National | News Tags: Dr. Edward Savage Jr. | Dr. Ezra C. Davidson | Dr. Ezra C. Davidson celebration of life | Dr. Ezra C. Davidson death | Dr. Ezra C. Davidson passes | Jennifer Bihm		
+						NNPA, Chevrolet Launch 2018 “Discover the Unexpected” Journalism Fellow...
+						African Union to Hold Summit in ‘Slavery Hub’
+						Amnesty International Finds Troubles Brewing in Cameroon
+						Ugandan Inventor Wins Major Prize for Malaria Detector
+						Metro to Hold Veteran Summer Slam Employment Fair on June 29
+						Joe Jackson, Patriarch of Musical Jackson Family, Dies at 89
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

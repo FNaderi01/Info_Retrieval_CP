@@ -1,0 +1,816 @@
+     category > maptopic > article -->
+    GitHub Docs
+    All products
+  GitHub.com
+          Getting started
+              Quickstart
+                  Set up Git
+                  Create a repo
+                  Fork a repo
+                  Be social
+              Learning about GitHub
+                  GitHub's products
+                  Types of GitHub accounts
+                  GitHub CLI
+                  GitHub Desktop
+                  Access permissions on GitHub
+                  GitHub glossary
+                  Git cheatsheet
+                  Git and GitHub learning resources
+              Signing up for GitHub
+                  Setting up a trial of GitHub Enterprise Cloud
+                  Setting up a trial of GitHub Enterprise Server
+              Exploring projects on GitHub
+                  Saving repositories with stars
+                  Following people
+              Using GitHub
+                  Supported browsers
+                  Keyboard shortcuts
+          User accounts
+              Managing user account settings
+                  About your personal dashboard
+                  Changing your GitHub username
+                  Converting a user into an organization
+                  Deleting your user account
+                  Permission levels for a user account repository
+                  Permission levels for user-owned project boards
+                  Managing access to your user account's project boards
+                  Integrating Jira with your personal projects
+              Managing email preferences
+                  Adding an email address to your GitHub account
+                  Changing your primary email address
+                  Setting a backup email address
+                  Setting your commit email address
+                  Remembering your GitHub username or email
+              Managing access to your personal repositories
+                  Inviting collaborators to a personal repository
+                  Removing a collaborator from a personal repository
+                  Removing yourself from a collaborator's repository
+              Managing your membership in organizations
+                  About organization membership
+                  Accessing an organization
+                  Viewing people's roles in an organization
+                  Publicizing or hiding organization membership
+                  Removing yourself from an organization
+          Profiles
+              Customizing your profile
+                  About your profile
+                  About your organization's profile
+                  Personalizing your profile
+                  Pinning items to your profile
+              Managing contribution graphs on your profile
+                  Viewing contributions on your profile
+                  Showing an overview of your activity on your profile
+                  Publicizing or hiding your private contributions on your profile
+                  Sending your GitHub Enterprise Server contributions to your GitHub.com profile
+                  Why are my contributions not showing up on my profile?
+                  Troubleshooting commits on your timeline
+          Authentication
+              Keeping your account and data secure
+                  About authentication to GitHub
+                  Creating a strong password
+                  Updating your GitHub access credentials
+                  Creating a personal access token
+                  Reviewing your SSH keys
+                  Reviewing your deploy keys
+                  Authorizing OAuth Apps
+                  Reviewing your authorized integrations
+                  Connecting with third-party applications
+                  Reviewing your authorized applications (OAuth)
+                  Reviewing your security log
+                  Removing sensitive data from a repository
+                  Sudo mode
+                  Preventing unauthorized access
+              Securing your account with two-factor authentication (2FA)
+                  About two-factor authentication
+                  Configuring two-factor authentication
+                  Configuring two-factor authentication recovery methods
+                  Accessing GitHub using two-factor authentication
+                  Recovering your account if you lose your 2FA credentials
+                  Disabling two-factor authentication for your personal account
+              Connecting to GitHub with SSH
+                  About SSH
+                  Checking for existing SSH keys
+                  Generating a new SSH key and adding it to the ssh-agent
+                  Adding a new SSH key to your GitHub account
+                  Testing your SSH connection
+                  Working with SSH key passphrases
+              Troubleshooting SSH
+                  Recovering your SSH key passphrase
+                  Error: Permission denied (publickey)
+                  Error: Bad file number
+                  Error: Key already in use
+                  Error: Permission to user/repo denied to other-user
+                  Error: Permission to user/repo denied to user/other-repo
+                  Error: Agent admitted failure to sign
+                  Error: ssh-add: illegal option -- K
+                  Error: We're doing an SSH key audit
+              Managing commit signature verification
+                  About commit signature verification
+                  Checking for existing GPG keys
+                  Generating a new GPG key
+                  Adding a new GPG key to your GitHub account
+                  Telling Git about your signing key
+                  Associating an email with your GPG key
+                  Signing commits
+                  Signing tags
+              Troubleshooting commit signature verification
+                  Checking your commit and tag signature verification status
+                  Updating an expired GPG key
+                  Using a verified email address in your GPG key
+          Receiving notifications about activity on GitHub
+              Getting started with notifications
+                  About notifications
+                  About web notifications
+                  About email notifications
+                  Accessing your notifications
+                  Choosing the delivery method for your notifications
+              Managing your notifications
+                  Marking notifications as read
+                  Saving notifications for later
+                  Subscribing to and unsubscribing from notifications
+                  Listing the issues and pull requests you're subscribed to
+                  Watching and unwatching repositories
+                  Watching and unwatching releases for a repository
+                  Watching and unwatching team discussions
+                  Listing the repositories you're watching
+          Organizations and teams
+              Collaborating with groups in organizations
+                  About organizations
+                  About your organization dashboard
+                  Creating a new organization from scratch
+                  Accessing your organization's settings
+                  About your organization’s news feed
+              Managing membership in your organization
+                  Adding people to your organization
+                  Removing a member from your organization
+                  Reinstating a former member of your organization
+              Managing people's access to your organization with roles
+                  Permission levels for an organization
+                  Maintaining ownership continuity for your organization
+                  Giving "team maintainer" permissions to an organization member
+              Organizing members into teams
+                  About teams
+                  Creating a team
+                  Setting your team's profile picture
+                  Adding organization members to a team
+                  Managing code review assignment for your team
+                  Renaming a team
+                  Changing team visibility
+                  Moving a team in your organization’s hierarchy
+                  Requesting to add a child team
+                  Requesting to add or change a parent team
+                  Removing organization members from a team
+                  Disabling team discussions for your organization
+                  Deleting a team
+              Managing access to your organization's repositories
+                  Repository permission levels for an organization
+                  Setting base permissions for an organization
+                  Viewing people with access to your repository
+                  Managing an individual's access to an organization repository
+                  Managing team access to an organization repository
+                  Adding outside collaborators to repositories in your organization
+                  Removing an outside collaborator from an organization repository
+                  Converting an organization member to an outside collaborator
+                  Converting an outside collaborator to an organization member
+                  Reinstating a former outside collaborator's access to your organization
+              Managing access to your organization’s project boards
+                  Project board permissions for an organization
+                  Managing access to a project board for organization members
+                  Managing team access to an organization project board
+                  Managing an individual’s access to an organization project board
+                  Adding an outside collaborator to a project board in your organization
+                  Removing an outside collaborator from an organization project board
+              Managing access to your organization's apps
+                  Adding GitHub App managers in your organization
+                  Removing GitHub App managers from your organization
+              Managing organization settings
+                  Renaming an organization
+                  Transferring organization ownership
+                  Restricting repository creation in your organization
+                  Setting permissions for deleting or transferring repositories
+                  Restricting repository visibility changes in your organization
+                  Managing the forking policy for your organization
+                  Setting permissions for adding outside collaborators
+                  Allowing people to delete issues in your organization
+                  Setting team creation permissions in your organization
+                  Managing default labels for repositories in your organization
+                  Managing the display of member names in your organization
+                  Deleting an organization account
+                  Converting an organization into a user
+                  Integrating Jira with your organization project board
+              Migrating to improved organization permissions
+                  Converting an Owners team to improved organization permissions
+                  Converting an admin team to improved organization permissions
+                  Migrating admin teams to improved organization permissions
+              Keeping your organization secure
+                  Viewing whether users in your organization have 2FA enabled
+                  Preparing to require two-factor authentication in your organization
+                  Requiring two-factor authentication in your organization
+                  Reviewing the audit log for your organization
+                  Reviewing your organization's installed integrations
+              Managing Git access to your organization's repositories
+                  About SSH certificate authorities
+                  Managing your organization's SSH certificate authorities
+          Writing on GitHub
+              Getting started with writing and formatting on GitHub
+                  About writing and formatting on GitHub
+                  Basic writing and formatting syntax
+              Working with advanced formatting
+                  Organizing information with tables
+                  Creating and highlighting code blocks
+                  Autolinked references and URLs
+              Working with saved replies
+                  About saved replies
+                  Creating a saved reply
+                  Editing a saved reply
+                  Deleting a saved reply
+                  Using saved replies
+              Editing and sharing content with gists
+                  Creating gists
+                  Forking and cloning gists
+          Creating, cloning, and archiving repositories
+              Creating a repository on GitHub
+                  About repositories
+                  About repository visibility
+                  Creating a new repository
+                  Creating a repository from a template
+                  About READMEs
+                  About code owners
+                  About repository languages
+                  Licensing a repository
+                  Creating a template repository
+                  Creating an issues-only repository
+                  Limits for viewing content and diffs in a repository
+                  Duplicating a repository
+              Cloning a repository from GitHub
+                  Cloning a repository
+                  HTTPS cloning errors
+                  Error: Repository not found
+                  Error: Remote HEAD refers to nonexistent ref, unable to checkout
+              Archiving a GitHub repository
+                  About archiving repositories
+                  Archiving repositories
+                  Backing up a repository
+          Using Git
+              Getting started with Git and GitHub
+                  Setting your username in Git
+                  Caching your GitHub credentials in Git
+                  Why is Git always asking for my password?
+                  Updating credentials from the macOS Keychain
+              Learning about Git
+                  Git workflows
+                  Associating text editors with Git
+                  Configuring Git to handle line endings
+                  Ignoring files
+              Using common Git commands
+                  Pushing commits to a remote repository
+                  Getting changes from a remote repository
+                  Dealing with non-fast-forward errors
+              Managing remote repositories
+                  About remote repositories
+                  Which remote URL should I use?
+                  Adding a remote
+                  Changing a remote's URL
+                  Renaming a remote
+                  Removing a remote
+              Using advanced Git commands
+                  About Git rebase
+                  Using Git rebase on the command line
+                  Resolving merge conflicts after a Git rebase
+                  About Git subtree merges
+                  Splitting a subfolder out into a new repository
+          Committing changes to your project
+              Creating and editing commits
+                  About commits
+                  Creating a commit with multiple authors
+                  Changing a commit message
+              Viewing and comparing commits
+                  Commit branch and tag labels
+                  Comparing commits
+                  Differences between commit views
+              Troubleshooting commits
+                  Commit exists on GitHub but not in my local clone
+                  Why are my commits linked to the wrong user?
+          Collaborating with issues and pull requests
+              Overview
+                  GitHub flow
+                  About collaborative development models
+                  About conversations on GitHub
+              Working with forks
+                  About forks
+                  Configuring a remote for a fork
+                  Syncing a fork
+                  Merging an upstream repository into your fork
+                  Allowing changes to a pull request branch created from a fork
+                  What happens to forks when a repository is deleted or changes visibility?
+              Collaborating on repositories with code quality features
+                  About status checks
+                  Working with pre-receive hooks
+              Proposing changes to your work with pull requests
+                  About branches
+                  Creating and deleting branches within your repository
+                  About pull requests
+                  About comparing branches in pull requests
+                  Creating a pull request
+                  Creating a pull request from a fork
+                  Changing the stage of a pull request
+                  Requesting a pull request review
+                  Changing the base branch of a pull request
+                  Committing changes to a pull request branch created from a fork
+              Addressing merge conflicts
+                  About merge conflicts
+                  Resolving a merge conflict on GitHub
+                  Resolving a merge conflict using the command line
+              Reviewing changes in pull requests
+                  About pull request reviews
+                  Reviewing proposed changes in a pull request
+                  Filtering files in a pull request
+                  Finding changed methods and functions in a pull request
+                  Commenting on a pull request
+                  Viewing a pull request review
+                  Incorporating feedback in your pull request
+                  Approving a pull request with required reviews
+                  Dismissing a pull request review
+                  Checking out pull requests locally
+              Incorporating changes from a pull request
+                  About pull request merges
+                  Merging a pull request
+                  Closing a pull request
+                  Reverting a pull request
+          Managing your work on GitHub
+              Managing your work with issues
+                  About issues
+                  Creating an issue
+                  Deleting an issue
+                  Opening an issue from a comment
+                  Opening an issue from code
+                  Transferring an issue to another repository
+                  Pinning an issue to your repository
+                  Creating a permanent link to a code snippet
+                  About task lists
+                  About automation for issues and pull requests with query parameters
+                  File attachments on issues and pull requests
+                  Assigning issues and pull requests to other GitHub users
+                  Viewing all of your issues and pull requests
+                  Disabling issues
+                  Linking a pull request to an issue
+                  About duplicate issues and pull requests
+              Labeling issues and pull requests
+                  About labels
+                  Creating a label
+                  Applying labels to issues and pull requests
+                  Editing a label
+                  Deleting a label
+              Managing project boards
+                  About project boards
+                  Creating a project board
+                  Editing a project board
+                  Linking a repository to a project board
+                  About automation for project boards
+                  Configuring automation for project boards
+                  Closing a project board
+                  Reopening a closed project board
+                  Deleting a project board
+                  Disabling project boards in a repository
+                  Disabling project boards in your organization
+                  Changing project board visibility
+              Tracking the progress of your work with project boards
+                  Adding issues and pull requests to a project board
+                  Adding notes to a project board
+                  Tracking progress on your project board
+                  Filtering cards on a project board
+                  Archiving cards on a project board
+              Tracking the progress of your work with milestones
+                  About milestones
+                  Creating and editing milestones for issues and pull requests
+                  Associating milestones with issues and pull requests
+                  Filtering issues and pull requests by milestone
+                  Viewing your milestone's progress
+              Finding information in a repository
+                  Filtering issues and pull requests
+                  Filtering issues and pull requests by assignees
+                  Filtering issues and pull requests by labels
+                  Filtering pull requests by review status
+                  Sorting issues and pull requests
+                  Using search to filter issues and pull requests
+                  Sharing filters
+          Building a strong community
+              Setting up your project for healthy contributions
+                  Setting guidelines for repository contributors
+                  Adding a license to a repository
+                  Adding support resources to your project
+                  Creating a default community health file
+              Using templates to encourage useful issues and pull requests
+                  About issue and pull request templates
+                  Configuring issue templates for your repository
+                  Creating a pull request template for your repository
+                  Manually creating a single issue template for your repository
+              Moderating comments and conversations
+                  Managing disruptive comments
+                  Locking conversations
+                  Tracking changes in a comment
+              Documenting your project with wikis
+                  About wikis
+                  Adding or editing wiki pages
+                  Creating a footer or sidebar for your wiki
+                  Editing wiki content
+                  Viewing a wiki's history of changes
+                  Changing access permissions for wikis
+                  Disabling wikis
+              Collaborating with your team
+                  About team discussions
+                  Creating a team discussion
+                  Editing or deleting a team discussion
+                  Pinning a team discussion
+          Searching for information on GitHub
+              Getting started with searching on GitHub
+                  About searching on GitHub
+                  Understanding the search syntax
+                  Troubleshooting search queries
+                  Sorting search results
+                  Enabling GitHub.com repository search in GitHub Enterprise Server
+              Searching on GitHub
+                  Finding files on GitHub
+                  Searching for repositories
+                  Searching topics
+                  Searching code
+                  Searching commits
+                  Searching issues and pull requests
+                  Searching users
+                  Searching wikis
+                  Searching in forks
+          Importing your projects
+              Importing source code to GitHub
+                  Importing a Git repository using the command line
+                  Adding an existing project to GitHub using the command line
+                  Source code migration tools
+              Working with Subversion on GitHub
+                  What are the differences between Subversion and Git?
+                  Support for Subversion clients
+                  Subversion properties supported by GitHub
+          Administering a repository
+              Managing repository settings
+                  Setting repository visibility
+                  Classifying your repository with topics
+                  Customizing how changed files appear on GitHub
+                  About email notifications for pushes to your repository
+                  Customizing your repository's social media preview
+                  Viewing deployment activity for your repository
+                  Managing the forking policy for your repository
+                  Enabling anonymous Git read access for a repository
+                  Configuring autolinks to reference external resources
+                  Renaming a repository
+                  Transferring a repository
+                  Deleting a repository
+              Managing branches in your repository
+                  Viewing branches in your repository
+                  Changing the default branch
+                  Deleting and restoring branches in a pull request
+              Configuring pull request merges
+                  About merge methods on GitHub
+                  Configuring commit squashing for pull requests
+                  Configuring commit rebasing for pull requests
+                  Managing the automatic deletion of branches
+              Defining the mergeability of pull requests
+                  About protected branches
+                  Configuring protected branches
+                  About required status checks
+                  Types of required status checks
+                  Enabling required status checks
+                  About branch restrictions
+                  Enabling branch restrictions
+                  About required reviews for pull requests
+                  Enabling required reviews for pull requests
+                  About required commit signing
+                  Enabling required commit signing
+                  Requiring a linear commit history
+                  Enabling force pushes to a protected branch
+                  Enabling deletion of a protected branch
+              Releasing projects on GitHub
+                  About releases
+                  Managing releases in a repository
+                  Viewing your repository's releases and tags
+                  Linking to releases
+                  Automation for release forms with query parameters
+          Visualizing repository data with graphs
+              Accessing basic repository data
+                  About repository graphs
+                  Viewing a summary of repository activity
+                  Viewing a project's contributors
+              Analyzing changes to a repository's content
+                  Visualizing commits in a repository
+                  Visualizing additions and deletions to content in a repository
+              Understanding connections between repositories
+                  Viewing a repository's network
+                  Listing the forks of a repository
+                  About the dependency graph
+                  Exploring the dependencies of a repository
+          Managing security vulnerabilities
+              Managing vulnerabilities in your project's dependencies
+                  About alerts for vulnerable dependencies
+          Managing files in a repository
+              Managing files on GitHub
+                  Creating new files
+                  Adding a file to a repository
+                  Moving a file to a new location
+                  Editing files in your repository
+                  Editing files in another user's repository
+                  Tracking changes in a file
+                  Deleting files
+                  Renaming a file
+                  Getting permanent links to files
+              Managing files using the command line
+                  Adding a file to a repository using the command line
+                  Renaming a file using the command line
+                  Moving a file to a new location using the command line
+              Working with non-code files
+                  Rendering and diffing images
+                  3D File Viewer
+                  Rendering CSV and TSV data
+                  Rendering PDF documents
+                  Rendering differences in prose documents
+                  Mapping geoJSON files on GitHub
+                  Working with Jupyter Notebook files on GitHub
+          Managing large files
+              Working with large files
+                  Conditions for large files
+                  Removing files from a repository's history
+                  Distributing large binaries
+              Versioning large files
+                  About Git Large File Storage
+                  Installing Git Large File Storage
+                  Configuring Git Large File Storage
+                  Collaboration with Git Large File Storage
+                  Moving a file in your repository to Git Large File Storage
+                  Removing files from Git Large File Storage
+                  Resolving Git Large File Storage upload failures
+          Extending GitHub
+          Getting started with the API
+          Git automation with OAuth tokens
+          About webhooks
+          GitHub Pages
+              Getting started with GitHub Pages
+                  About GitHub Pages
+                  Creating a GitHub Pages site
+                  Configuring a publishing source for your GitHub Pages site
+                  Creating a custom 404 page for your GitHub Pages site
+                  Unpublishing a GitHub Pages site
+              Setting up a GitHub Pages site with Jekyll
+                  About GitHub Pages and Jekyll
+                  Creating a GitHub Pages site with Jekyll
+                  Testing your GitHub Pages site locally with Jekyll
+                  Adding content to your GitHub Pages site using Jekyll
+                  Setting a Markdown processor for your GitHub Pages site using Jekyll
+                  Adding a theme to your GitHub Pages site using Jekyll
+                  About Jekyll build errors for GitHub Pages sites
+                  Troubleshooting Jekyll build errors for GitHub Pages sites
+        GitHub Docs
+                Explore by product
+                      GitHub.com
+                       GitHub.com
+                       Enterprise Administrators
+                       GitHub Actions
+                       GitHub Packages
+                       Developers
+                       REST API
+                       GraphQL API
+                       GitHub Insights
+                       GitHub Desktop
+                       Atom
+                       Electron
+                            English
+                              English
+                              简体中文 (Simplified Chinese)
+                              日本語 (Japanese)
+                              Español (Spanish)
+                              Português do Brasil (Portuguese)
+      Article version: Enterprise Server 2.20
+      Free, Pro, and Team
+      Enterprise Server 2.22
+      Enterprise Server 2.21
+      Enterprise Server 2.20
+      Enterprise Server 2.19
+    GitHub.com
+    Searching for information on GitHub
+    Searching on GitHub
+    Searching issues and pull requests
+      Article version: Enterprise Server 2.20
+      Free, Pro, and Team
+      Enterprise Server 2.22
+      Enterprise Server 2.21
+      Enterprise Server 2.20
+      Enterprise Server 2.19
+        Searching issues and pull requests
+        You can search for issues and pull requests on GitHub Enterprise and narrow the results using these search qualifiers in any combination.
+        In this article
+          Search only issues or pull requests
+          Search by the title, body, or comments
+          Search within a user's or organization's repositories
+          Search by open or closed state
+          Search by public or private repository
+          Search by author
+          Search by assignee
+          Search by mention
+          Search by team mention
+          Search by commenter
+          Search by a user that's involved in an issue or pull request
+          Search by label
+          Search by milestone
+          Search by project board
+          Search by commit status
+          Search by commit SHA
+          Search by branch name
+          Search by language
+          Search by number of comments
+          Search by number of interactions
+          Search by number of reactions
+          Search for draft pull requests
+          Search by pull request review status and reviewer
+          Search by when an issue or pull request was created or last updated
+          Search by when an issue or pull request was closed
+          Search by when a pull request was merged
+          Search based on whether a pull request is merged or unmerged
+          Search based on whether a repository is archived
+          Search based on whether a conversation is locked
+          Search by missing metadata
+          Further reading
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        Required
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        Optional
+      Can we contact you if we have more questions?
+        Optional
+      Send
+    Thank you! Your feedback has been submitted.
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  Or, learn how to contribute.
+      You can search for issues and pull requests globally across all of GitHub Enterprise, or search for issues and pull requests within a particular organization. For more information, see "About searching on GitHub."
+Tips:
+This article contains example searches on the GitHub.com website, but you can use the same search filters on your GitHub Enterprise Server instance.
+For a list of search syntaxes that you can add to any search qualifier to further improve your results, see "Understanding the search syntax".
+Use quotations around multi-word search terms. For example, if you want to search for issues with the label "In progress," you'd search for label:"in progress". Search is not case sensitive.
+You can focus your cursor on the search bar above the issue or pull request list with a keyboard shortcut. For more information, see "Keyboard shortcuts."
+Search only issues or pull requests
+By default, GitHub Enterprise search will return both issues and pull requests. However, you can restrict search results to just issues or pull requests using the type or is qualifier.
+QualifierExampletype:prcat type:pr matches pull requests with the word "cat."type:issuegithub commenter:defunkt type:issue matches issues that contain the word "github," and have a comment by @defunkt.is:prevent is:pr matches pull requests with the word "event."is:issueis:issue label:bug is:closed matches closed issues with the label "bug."
+Search by the title, body, or comments
+With the in qualifier you can restrict your search to the title, body, comments, or any combination of these. When you omit this qualifier, the title, body, and comments are all searched.
+QualifierExamplein:titlewarning in:title matches issues with "warning" in their title.in:bodyerror in:title,body matches issues with "error" in their title or body.in:commentsshipit in:comments matches issues mentioning "shipit" in their comments.
+Search within a user's or organization's repositories
+To search issues and pull requests in all repositories owned by a certain user or organization, you can use the  user or org qualifier. To search issues and pull requests in a specific repository, you can use the repo qualifier.
+QualifierExampleuser:USERNAMEuser:defunkt ubuntu matches issues with the word "ubuntu" from repositories owned by @defunkt.org:ORGNAMEorg:github matches issues in repositories owned by the GitHub organization.repo:USERNAME/REPOSITORYrepo:mozilla/shumway created:&lt;2012-03-01 matches issues from @mozilla's shumway project that were created before March 2012.
+Search by open or closed state
+You can filter issues and pull requests based on whether they're open or closed using the state or is qualifier.
+QualifierExamplestate:openlibraries state:open mentions:vmg matches open issues that mention @vmg with the word "libraries."state:closeddesign state:closed in:body matches closed issues with the word "design" in the body.is:openperformance is:open is:issue matches open issues with the word "performance."is:closedandroid is:closed matches closed issues and pull requests with the word "android."
+Search by public or private repository
+If you're searching across all of GitHub Enterprise, it can be helpful to filter your results based on whether the repository is public or private. You can do this with is:public and is:private.
+QualifierExampleis:publicis:public matches issues and pull requests in all public repositories.is:privateis:private cupcake matches issues and pull requests that contain the word "cupcake" in private repositories you have access to.
+Search by author
+The author qualifier finds issues and pull requests created by a certain user or integration account.
+QualifierExampleauthor:USERNAMEcool author:gjtorikian matches issues and pull requests with the word "cool" that were created by @gjtorikian.bootstrap in:body author:mdo matches issues written by @mdo that contain the word "bootstrap" in the body.author:app/USERNAMEauthor:app/robot matches issues created by the integration account named "robot."
+Search by assignee
+The assignee qualifier finds issues and pull requests that are assigned to a certain user. You cannot search for issues and pull requests that have any assignee, however, you can search for issues and pull requests that have no assignee.
+QualifierExampleassignee:USERNAMEassignee:vmg repo:libgit2/libgit2 matches issues and pull requests in libgit2's project libgit2 that are assigned to @vmg.
+Search by mention
+The mentions qualifier finds issues that mention a certain user. For more information, see "Mentioning people and teams."
+QualifierExamplementions:USERNAMEresque mentions:defunkt matches issues with the word "resque" that mention @defunkt.
+Search by team mention
+For organizations and teams you belong to, you can use the team qualifier to find issues or pull requests that @mention a certain team within that organization. Replace these sample names with your organization and team name to perform a search.
+QualifierExampleteam:ORGNAME/TEAMNAMEteam:jekyll/owners matches issues where the @jekyll/owners team is mentioned.team:myorg/ops is:open is:pr matches open pull requests where the @myorg/ops team is mentioned.
+Search by commenter
+The commenter qualifier finds issues that contain a comment from a certain user.
+QualifierExamplecommenter:USERNAMEgithub commenter:defunkt org:github matches issues in repositories owned by GitHub, that contain the word "github," and have a comment by @defunkt.
+Search by a user that's involved in an issue or pull request
+You can use the involves qualifier to find issues that in some way involve a certain user. The involves qualifier is a logical OR between the author, assignee, mentions, and commenter qualifiers for a single user. In other words, this qualifier finds issues and pull requests that were either created by a certain user, assigned to that user, mention that user, or were commented on by that user.
+QualifierExampleinvolves:USERNAMEinvolves:defunkt involves:jlord matches issues either @defunkt or @jlord are involved in.NOT bootstrap in:body involves:mdo matches issues @mdo is involved in that do not contain the word "bootstrap" in the body.
+Search by label
+You can narrow your results by labels, using the label qualifier. Since issues can have multiple labels, you can list a separate qualifier for each issue.
+QualifierExamplelabel:LABELlabel:"help wanted" language:ruby matches issues with the label "help wanted" that are in Ruby repositories.broken in:body -label:bug label:priority matches issues with the word "broken" in the body, that lack the label "bug", but do have the label "priority."label:bug label:resolved matches issues with the labels "bug" and "resolved."
+Search by milestone
+The milestone qualifier finds issues or pull requests that are a part of a milestone within a repository.
+QualifierExamplemilestone:MILESTONEmilestone:"overhaul" matches issues that are in a milestone named "overhaul."milestone:"bug fix" matches issues that are in a milestone named "bug fix."
+Search by project board
+You can use the project qualifier to find issues that are associated with a specific project board in a repository or organization. You must search project boards by the project board number. You can find the project board number at the end of a project board's URL.
+QualifierExampleproject:PROJECT_BOARDproject:github/57 matches issues owned by GitHub that are associated with the organization's project board 57.project:REPOSITORY/PROJECT_BOARDproject:github/linguist/1 matches issues that are associated with project board 1 in @github's linguist repository.
+Search by commit status
+You can filter pull requests based on the status of the commits. This is especially useful if you are using the Status API or a CI service.
+QualifierExamplestatus:pendinglanguage:go status:pending matches pull requests opened into Go repositories where the status is pending.status:successis:open status:success finally in:body matches open pull requests with the word "finally" in the body with a successful status.status:failurecreated:2015-05-01..2015-05-30 status:failure matches pull requests opened on May 2015 with a failed status.
+Search by commit SHA
+If you know the specific SHA hash of a commit, you can use it to search for pull requests that contain that SHA. The SHA syntax must be at least seven characters.
+QualifierExampleSHAe1109ab matches pull requests with a commit SHA that starts with e1109ab.0eff326d6213c is:merged matches merged pull requests with a commit SHA that starts with 0eff326d6213c.
+Search by branch name
+You can filter pull requests based on the branch they came from (the "head" branch) or the branch they are merging into (the "base" branch).
+QualifierExamplehead:HEAD_BRANCHhead:change is:closed is:unmerged matches pull requests opened from branch names beginning with the word "change" that are closed.base:BASE_BRANCHbase:gh-pages matches pull requests that are being merged into the gh-pages branch.
+Search by language
+With the language qualifier you can search for issues and pull requests within repositories that are written in a certain language.
+QualifierExamplelanguage:LANGUAGElanguage:ruby state:open matches open issues that are in Ruby repositories.
+Search by number of comments
+You can use the comments qualifier along with greater than, less than, and range qualifiers to search by the number of comments.
+QualifierExamplecomments:nstate:closed comments:&gt;100 matches closed issues with more than 100 comments.comments:500..1000 matches issues with comments ranging from 500 to 1,000.
+Search by number of interactions
+You can filter issues and pull requests by the number of interactions with the interactions qualifier along with greater than, less than, and range qualifiers. The interactions count is the number of reactions and comments on an issue or pull request.
+QualifierExampleinteractions:n interactions:&gt;2000 matches pull requests or issues with more than 2000 interactions.interactions:500..1000 matches pull requests or issues with interactions ranging from 500 to 1,000.
+Search by number of reactions
+You can filter issues and pull requests by the number of reactions using the reactions qualifier along with greater than, less than, and range qualifiers.
+QualifierExamplereactions:n reactions:&gt;1000 matches issues with more than 1000 reactions.reactions:500..1000 matches issues with reactions ranging from 500 to 1,000.
+Search for draft pull requests
+You can filter for draft pull requests. For more information, see "About pull requests."
+QualifierExampleis:draftis:draft matches draft pull requests.
+Search by pull request review status and reviewer
+You can filter pull requests based on their review status (none, required, approved, or changes requested), by reviewer, and by requested reviewer.
+QualifierExamplereview:nonetype:pr review:none matches pull requests that have not been reviewed.review:requiredtype:pr review:required matches pull requests that require a review before they can be merged.review:approvedtype:pr review:approved matches pull requests that a reviewer has approved.review:changes_requestedtype:pr review:changes_requested matches pull requests in which a reviewer has asked for changes.reviewed-by:USERNAMEtype:pr reviewed-by:gjtorikian matches pull requests reviewed by a particular person.review-requested:USERNAMEtype:pr review-requested:benbalter matches pull requests where a specific person is requested for review. Requested reviewers are no longer listed in the search results after they review a pull request. If the requested person is on a team that is requested for review, then review requests for that team will also appear in the search results.team-review-requested:TEAMNAMEtype:pr team-review-requested:atom/design matches pull requests that have review requests from the team atom/design. Requested reviewers are no longer listed in the search results after they review a pull request.
+Search by when an issue or pull request was created or last updated
+You can filter issues based on times of creation, or when they were last updated. For issue creation, you can use the created qualifier; to find out when an issue was last updated, you'll want to use the updated qualifier.
+Both take a date as a parameter. Date formatting must follow the ISO8601 standard, which is YYYY-MM-DD (year-month-day). You can also add optional time information THH:MM:SS+00:00 after the date, to search by the hour, minute, and second. That's T, followed by HH:MM:SS (hour-minutes-seconds), and a UTC offset (+00:00).
+Dates support greater than, less than, and range qualifiers.
+QualifierExamplecreated:YYYY-MM-DDlanguage:c# created:&lt;2011-01-01 state:open matches open issues that were created before 2011 in repositories written in C#.updated:YYYY-MM-DDweird in:body updated:&gt;=2013-02-01 matches issues with the word "weird" in the body that were updated after February 2013.
+Search by when an issue or pull request was closed
+You can filter issues and pull requests based on when they were closed, using the closed qualifier.
+This qualifier takes a date as its parameter. Date formatting must follow the ISO8601 standard, which is YYYY-MM-DD (year-month-day). You can also add optional time information THH:MM:SS+00:00 after the date, to search by the hour, minute, and second. That's T, followed by HH:MM:SS (hour-minutes-seconds), and a UTC offset (+00:00).
+Dates support greater than, less than, and range qualifiers.
+QualifierExampleclosed:YYYY-MM-DDlanguage:swift closed:&gt;2014-06-11 matches issues and pull requests in Swift that were closed after June 11, 2014.data in:body closed:&lt;2012-10-01 matches issues and pull requests with the word "data" in the body that were closed before October 2012.
+Search by when a pull request was merged
+You can filter pull requests based on when they were merged, using the merged qualifier.
+This qualifier takes a date as its parameter. Date formatting must follow the ISO8601 standard, which is YYYY-MM-DD (year-month-day). You can also add optional time information THH:MM:SS+00:00 after the date, to search by the hour, minute, and second. That's T, followed by HH:MM:SS (hour-minutes-seconds), and a UTC offset (+00:00).
+Dates support greater than, less than, and range qualifiers.
+QualifierExamplemerged:YYYY-MM-DDlanguage:javascript merged:&lt;2011-01-01 matches pull requests in JavaScript repositories that were merged before 2011.fast in:title language:ruby merged:&gt;=2014-05-01 matches pull requests in Ruby with the word "fast" in the title that were merged after May 2014.
+Search based on whether a pull request is merged or unmerged
+You can filter pull requests based on whether they're merged or unmerged using the is qualifier.
+QualifierExampleis:mergedbugfix is:pr is:merged matches merged pull requests with the word "bugfix."is:unmergederror is:unmerged matches closed issues and pull requests with the word "error."
+Search based on whether a repository is archived
+The archived qualifier filters your results based on whether an issue or pull request is in an archived repository.
+QualifierExamplearchived:truearchived:true GNOME matches issues and pull requests that contain the word "GNOME" in archived repositories you have access to.archived:falsearchived:false GNOME matches issues and pull requests that contain the word "GNOME" in unarchived repositories you have access to.
+Search based on whether a conversation is locked
+You can search for an issue or pull request that has a locked conversation using the is qualifier. For more information, see "Locking conversations."
+QualifierExampleis:lockedcode of conduct is:locked is:issue archived:false matches issues or pull requests with the words "code of conduct" that have a locked conversation in a repository that is not archived.is:unlockedcode of conduct is:unlocked is:issue archived:false matches issues or pull requests with the words "code of conduct" that have an unlocked conversation in a repository that is not archived.
+Search by missing metadata
+You can narrow your search to issues and pull requests that are missing certain metadata, using the no qualifier. That metadata includes:
+Labels
+Milestones
+Assignees
+Projects
+QualifierExampleno:labelpriority no:label matches issues and pull requests with the word "priority" that also don't have any labels.no:milestonesprint no:milestone type:issue matches issues not associated with a milestone containing the word "sprint."no:assigneeimportant no:assignee language:java type:issue matches issues not associated with an assignee, containing the word "important," and in Java repositories.no:projectbuild no:project matches issues not associated with a project board, containing the word "build."
+Further reading
+"Sorting search results"
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        Required
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        Optional
+      Can we contact you if we have more questions?
+        Optional
+      Send
+    Thank you! Your feedback has been submitted.
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  Or, learn how to contribute.
+      Still need help?
+      Ask the GitHub community
+      Contact support
+        Product
+          Features
+          Security
+          Enterprise
+          Case Studies
+          Pricing
+          Resources
+        Platform
+          Developer API
+          Partners
+          Atom
+          Electron
+          GitHub Desktop
+        Support
+          Help
+          Community Forum
+          Training
+          Status
+          Contact GitHub
+        Company
+          About
+          Blog
+          Careers
+          Press
+          Shop
+        © 2020 GitHub, Inc.
+        Terms 
+        Privacy 

@@ -1,0 +1,207 @@
+/* GOOGLE TRANSLATE */
+#google_translate_element {
+  /*position: relative;*/
+  top: calc (10px + 10px);
+  right: 10px!important;
+}
+.goog-te-gadget {
+  font-family: 'Open Sans', sans-serif;
+  text-transform: uppercase;
+}
+.goog-te-gadget-simple, .goog-te-gadget-simple:hover, .goog-te-gadget-simple:active, .goog-te-gadget-simple:visited   {
+  background-color: rgba(255,255,255,0.20)!important;
+  border: 1px solid #777777 !important;
+  padding: 8px!important;
+  border-radius: 4px!important;
+  font-size: 1rem!important;
+  line-height:1.6rem!important;
+  display: inline-block;
+  cursor: pointer;
+  zoom: 1;
+}
+/*
+.goog-te-gadget-icon {
+    background-image: url("https://translate.googleapis.com/translate_static/img/te_ctrl3.gif");
+}
+*/
+/*
+.goog-te-menu2 {
+  max-width: 100%;
+}
+*/
+/*
+.goog-te-menu-value {
+    color: #000000 !important;
+    &:before {
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    content: "\E927";
+    margin-right: 16px;
+    font-size: 2rem;
+    vertical-align: -10px;
+  } 
+}
+*/
+.goog-te-menu-value span:nth-child(5) {
+  display:none;
+}
+.goog-te-menu-value span:nth-child(3) {
+  border:none!important;
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+  /*
+  &:after {
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    content: "\E5C5";
+    font-size: 1.5rem;
+    vertical-align: -6px;
+  } 
+  */
+}
+.goog-te-menu-frame:first {
+    background-image: url("https://translate.googleapis.com/translate_static/img/te_ctrl3.gif");            
+    background-position: -65px 0px;
+}
+/* ============ HIDE TOP BAR ============ */
+.goog-te-banner-frame.skiptranslate {display: none!important;} 
+body {top: 0px!important;}
+/* ================================== *\
+    Mediaqueries
+\* ================================== */
+/* */
+@media (max-width: 667px) {
+    #google_translate_element {
+        bottom: calc(100% - 50% - 53px);
+        left: 16px!important;
+        width: 100%!important;
+        goog-te-gadget {
+            width:100%!important;
+        }
+        .skiptranslate {
+            width:100%!important;           
+        }
+        .goog-te-gadget-simple {
+            width: calc(100% - 32px)!important;
+            text-align: center;
+        }   
+    }
+}
+      Call Us : (213) 974-1411 
+      Email Us : executiveoffice@bos.lacounty.gov 
+            |
+    Login
+    GO
+Home
+Board Meeting
+Board Agendas
+Live Broadcast
+Statement of Proceedings/Minutes
+Public Hearings
+Services
+Assessment Appeals
+Board Members and Hearing Officers
+Public Education Program
+FAQ
+Assessment Appeals Information
+Tax Agent Registration
+Commission Services
+Membership Roster
+FAQ
+Our Commissions
+Event Information
+Conflict of Interest/ Lobbyist
+Lobbyist Information
+Statement of Economic Interest
+LACERA Election
+FAQ
+Postgovernment Information
+Customer Service Center
+Kids Corner
+Workstations/Kiosks
+Records Search
+Forms
+About Us
+Board of Supervisors
+Executive Office of the Board
+A note from the Executive Officer
+FAQ
+X
+    HomeBoard MeetingBoard AgendasLive BroadcastStatement of Proceedings/MinutesPublic HearingsServicesAssessment AppealsBoard Members and Hearing OfficersPublic Education ProgramFAQAssessment Appeals InformationTax Agent RegistrationCommission ServicesMembership RosterFAQOur CommissionsEvent InformationConflict of Interest/ LobbyistLobbyist InformationStatement of Economic InterestLACERA ElectionFAQPostgovernment InformationCustomer Service CenterKids CornerWorkstations/KiosksRecords SearchFormsAbout UsBoard of SupervisorsExecutive Office of the BoardA note from the Executive OfficerFAQ
+    GO
+          |
+    Login
+                                                      Supervisor Hilda L. Solis     FIRST DISTRICT     VIEW MORE                      Supervisor Mark Ridley-Thomas     SECOND DISTRICT     VIEW MORE                      Supervisor Sheila Kuehl     THIRD DISTRICT     VIEW MORE                      Supervisor Janice Hahn     FOURTH DISTRICT     VIEW MORE                      Supervisor Kathryn Barger     FIFTH DISTRICT     VIEW MORE            WELCOME TO THE BOARD OF SUPERVISORS     VIEW MORE     Serving the County of Los Angeles since 1892                    
+			Click Here to Submit Your Public Comment for The Board of Supervisors Meeting
+        #slider17627_container .thumbsytle_1 .w .text:before{
+            background-color:#000000 ; 
+            opacity:0.5; 
+            filter:alpha(opacity=50);
+        }
+							TUNE IN TO THE BOARD OF SUPERVISORS MEETING 
+						Live Stream
+​
+					Board Agendas
+					Board Agendas
+					View the Board Agenda
+					Read More
+					Live Broadcast
+					Live Broadcast
+					View the Board Meeting
+					Read More
+					Board Meeting Media Archive
+					Board Meeting Media Archive
+					View Previous Board Meetings
+					Read More
+					Assessment Appeals Board
+					Assessment Appeals Board
+					Learn to file an Assessment Appeal
+					Read More
+					Conflict of Interest/ Lobbyist
+					Conflict of Interest/ Lobbyist
+					Learn to file Form-700 or Lobbyist forms
+					Read More
+					Find Your District
+					Find Your District
+					Which District do you belong?
+					Read More
+				ABOUT THE BOARD OF SUPERVISORS
+				The Board of Supervisors is the governing body of the County of Los Angeles, a charter county. As such, it has the unique function of serving as the executive and legislative head of the largest and most complex county government in the entire United States. A civil service staff which performs the duties for the County departments and agencies serves the needs of the County's population of more than 10 million people.
+	EXECUTIVE OFFICE OF THE BOARD
+	The Executive Office supports the Board of Supervisors in performing its duties as the governing body of the largest local government in the Nation. In this capacity, the staff of the Executive Office prepares the Board's weekly Agenda and  Statement of Proceedings, maintains its official records which date back to the 1850's, and provides technology, accounting, procurement, personnel, payroll, facility management and other administrative services to the Board of Supervisors.   
+	Read More
+					Executive Office Commissions
+					The Executive Office provides administrative and staff support to many commissions which include the Citizen's Economy Efficiency Commission, Civil Service Commission, County Equity Oversight Panel, Countywide Criminal Justice Coordination Committee and the Commission on HIV.
+					Read More
+    It is a great honor to represent the vast and wonderfully diverse First District, which stretches from downtown L.A. all the way to Pomona and from Eagle Rock to South Gate. Since I returned to LA County in 2014 to serve my home district, I have worked to improve the region’s quality of life through job development, environmental justice, and access to healthcare. I encourage you to get involved with the many services and resources we provide here in LA County and to stay engaged in the democratic process. Take time to visit my website, follow me on social media, and sign up for my newsletter.
+    Supervisor Hilda L. Solis
+     I am deeply honored to serve on the Board of Supervisors, and my hope is that my website will serve as a resource for constituents seeking County services, background on important policy issues, and information about the Second District and important upcoming community events. I have always believed that constituents who are informed and knowledgeable about the decision-making processes and workings of government are best positioned to empower themselves, their families, their neighborhoods and their communities. Together, we can work to improve our quality of life and I look forward to working on your behalf.
+    Supervisor Mark Ridley-Thomas
+         Welcome to the Third Supervisorial District, a beautiful and innovative area, covering the Westside, most of the San Fernando Valley, the Conejo Valley and the Santa Monica Mountains all the way to the Ventura County Line. Cities in this diverse district include Los Angeles, San Fernando, Santa Monica, Beverly Hills, West Hollywood, Calabasas, Agoura Hills, Malibu, Westlake Village and Hidden Hills. Many of the County's most prominent cultural institutions are located in the District, including the Hollywood Bowl and the Los Angeles County Museum of Art. Please explore the many facets of the website, follow me on Facebook and Twitter and sign up for my weekly Kuehl Happenings emails so I may better serve you and inform you of the many opportunities and experiences available each week! Welcome!
+    Supervisor Sheila Kuehl
+      I am honored to represent the 28 cities and unincorporated communities of the Fourth District of Los Angeles County, spanning from the Marina, the Southbay, Catalina Island, up the Gateway corridor and out east to Diamond Bar.  We are the home to some of the largest economic engines in the country, including the Ports of Long Beach and Los Angeles, the Alameda Rail Corridor as well as the Los Angeles International Airport. My staff and I are committed to safe neighborhoods; thriving families; a clean environment; ending homelessness and helping small businesses succeed.  Stay in touch!  Look for me on Twitter, Facebook or by visiting our website!
+    Supervisor Janice Hahn
+       I am proud to represent the residents of the County’s 5th Supervisorial District.  At nearly 2900 square miles, it is the county’s largest district which includes 22 cities and 70 unincorporated communities and all or part of the San Gabriel, San Fernando, Cresenta, Santa Clarita and Antelope Valleys. My office is committed to providing responsive and effective representation to all of our two million residents and quality municipal services for our constituents in unincorporated areas. Please visit our website, kathrynbarger.lacounty.gov or follow me on Facebook and Twitter to learn more about the vital services the county provides including public safety, parks, trails and libraries, information on community events and programs, as well as assistance for foster children, small business, seniors and veterans. I appreciate your interest in county government and look forward to working with you.
+    Supervisor Kathryn Barger
+    Featured Links
+		FAQ
+		Rewards
+		Kid's Corner
+		Postgovernment Information
+		Child Support
+		County Equity Oversight Panel
+		LACERA Elections
+		LA County Jail Plan
+    Customer Service Center
+Kenneth Hahn Hall of Administration
+ 500 West Temple St. Ste 383 Los Angeles, CA 90012
+ (213) 974-1411
+ executiveoffice@bos.lacounty.gov
+County Social Media Directory
+    Contact Us
+ Have a question?
+ 211 LA County
+ LA CountyHelps
+ Public Alerts
+            Copyright 2020 by County of Los Angeles Board of Supervisors
+            |
+            Privacy Statement
+            |
+            Terms Of Use

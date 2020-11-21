@@ -1,0 +1,86 @@
+   .marquee {
+  height: 18px;
+  width: 420px;
+  overflow: hidden;
+  position: relative;
+}
+.marquee div {
+	display: block;
+  width: 200%;
+  position: absolute;
+  overflow: hidden;
+  animation: marquee 9s linear infinite;
+}
+.marquee span {
+  float: right;
+  width: 50%;
+}
+@keyframes marquee {
+  0% { right: 0; }
+  100% { right: -100%; }
+}
+-->
+			Home
+					About us
+			Instructions
+			Submission
+					 Subscribe
+					Advertise
+			Contact
+					e-Alerts
+					 Ahead Of Print
+			Login 
+			Users Online: 731 
+  IJPM is coming out with a Special issue on "Genitourinary & Gynecological pathology including Breast". Please submit your articles for these issues-->
+            CASE REPORT
+                Year : 2008  |  Volume 
+          : 51 
+            |  Issue : 2  |  Page : 228-229
+                Fraser syndrome
+       MK Kalpana Kumari,  Sulata Kamath,  Vijaya V Mysorekar,  G Nandini
+       Department of Pathology, MS Ramaiah Medical College, Bangalore, Karnataka, India
+		Click  here for correspondence address and email
+         Abstract Fraser syndrome or cryptophthalmos is a rare autosomal recessive disorder characterized by major features such as cryptophthalmos, syndactyly and abnormal genitalia. The diagnosis of this syndrome can be made on clinical examination and perinatal autopsy. We present the autopsy findings of a rare case of Fraser syndrome in a male infant.Keywords: Cryptophthalmos syndrome, Fraser syndrome, syndactyly
+How to cite this article:Kalpana Kumari M K, Kamath S, Mysorekar VV, Nandini G. Fraser syndrome. Indian J Pathol Microbiol 2008;51:228-9
+How to cite this URL:Kalpana Kumari M K, Kamath S, Mysorekar VV, Nandini G. Fraser syndrome. Indian J Pathol Microbiol [serial online] 2008 [cited 2020 Oct 11];51:228-9. Available from: https://www.ijpmonline.org/text.asp?2008/51/2/228/41664
+                      Introduction  Fraser syndrome is characterized by cryptophthalmos, cutaneous syndactyly, malformations of the larynx and genitourinary tract, craniofacial dysmorphism, orofacial clefting, mental retardation and musculoskeletal anomalies. [1] Cryptophthalmos (hidden eye) refers to a group of rare congenital eyelid malformations, in which the eyelids fail to separate. The first report of Fraser syndrome is attributed to Zehender and coworkers in 1872, as reported by Khoury  et al . [2]  The reported incidence of Fraser syndrome is 0.043 per 10,000 live born infants and 1.1 in 10,000 stillbirths. [3] We report a case of Fraser syndrome and review the literature regarding the embryological origin of this condition.    Case History  This newborn male baby was the first child of second-degree consanguineous parents delivered by caesarian section at full term, in view of severe intrauterine growth retardation and oligohydramnios. The baby died immediately after birth. A clinical autopsy was performed on the baby.Autopsy findings - the baby weighed 1.45 kg, crown rump length was 30 cm and head circumference was 29 cm. The craniofacial examination showed complete cryptophthalmos of the right eye with absence of eyelashes and the right eyebrow [Figure 1]. The left eye was normal. The ears were malformed and low set. The nose was flat with wide nasal bridge. Additional abnormalities in the form of complete cutaneous syndactyly of both the hands and feet were noticed [Figure 2]. The external genitalia were normal. On dissection of the organs, no abnormality was detected in the brain. Tracheal stenosis was seen. The microscopic examination of the lungs showed meconium aspiration. The cardiovascular system did not show any abnormality. Bilateral renal agenesis with normal urinary bladder was seen. Testes were found at the pelvic brim.A final diagnosis of Fraser syndrome (cryptophthalmos-syndactyly syndrome) was made.    Discussion  The findings in this case are compatible with the diagnosis of Fraser syndrome according to the major and minor criteria proposed by Thomas  et al. [4]  In our case, the major criteria were cryptophthalmos and syndactyly and the minor criteria were malformations of the nose, ears and bilateral renal agenesis. A study done by Slavotinek  et al. [1]  on 117 cases diagnosed as Fraser syndrome showed cryptophthalmos in 103/117 (88%) cases and syndactyly in 72/117 (65%) cases. Renal agenesis was seen in 53/117 (45.3%) cases. In another study done by Gauttuso  et al. [5]  cryptophthalmos was seen in 93% and syndactyly in 54% cases.Hambire  et al. [6]  have reported a case of Fraser syndrome with cardiovascular malformation - viz. bifid apex, atrioseptal defect, juxtaductal coarctation of the aorta, left superior vena cava draining the coronary sinus and patent ductus arteriosus. In our study, there were no cardiovascular anomalies seen. Our case had bilateral renal agenesis, oligohydramnios and Potters facies. Mahadevan  et al. [7]  have also reported a similar finding in their case report, wherein the preterm child with Fraser syndrome presented with hypoplastic urinary bladder and bilateral renal agenesis.Fraser syndrome should be suspected in all cases of stillbirth and renal agenesis. Twenty-five percent of the affected are stillborn. [7]  Fraser syndrome can be easily distinguished from other syndromes with facial malformations, such as frontonasal dysplasia (median cleft face syndrome), by concurrent occurrence of acrofacial and urogenital malformation and absence of features like hypertelorism and epibulbar dermoid. [8]  Consanguinity is reported in 15-24% of cases and autosomal recessive pattern of inheritance is apparent. [1]  It is notable that the parents of our case are related. However, they showed no chromosomal abnormalities on conventional karyotyping, although molecular studies could not be performed.The other associations described with Fraser syndrome include genital malformations like ambiguous genitalia, cryptorchidism and clitoromegaly; gastrointestinal malformations like imperforate anus; cerebral malformations like hydrocephalus and abnormal brain gyri; and thymic abnormalities like absence or hypoplasia. [1] The pathogenesis of Fraser syndrome is supposed to be related to a failure of the programmed cell necrosis or a defect in metabolism of retinoids. [6]  The developmental defects observed in Fraser syndrome and the associated mouse models suggest that these defects arise from disruption of the epithelial-mesenchymal interactions required for the normal morphogenetic processes. [8]  Death is usually secondary to renal agenesis and laryngeal stenosis. [7] Prenatal diagnosis of Fraser syndrome includes a combination of ultrasound and fetoscopy. Fraser syndrome has been described to be associated with a variety of complications during pregnancy. These include oligohydramnios or anhydramnios, antepartum hemorrhage, vaginal bleeding, fetal hydrops, nuchal edema, fetal ascites, fetal bradycardia, intrauterine growth retardation and single umbilical artery. [1]  A high serum alphafetoprotein level may rise the suspicion of Fraser syndrome. Prevention by genetic counseling would be the best approach, the recurrence rate among siblings being 25%. [3] 
+	     References 
+1.Slavotinek AM, Tifft CJ. Fraser syndrome and cryptophthalmos: A review of the diagnostic criteria and evidence of phenotypic modules. J Med Genet 2002;39:623-33.    [PUBMED]  [FULLTEXT]
+2.Khoury E, Golalipour MJ, Haidary K, Adidi B. Fraser or cryptophthalmos syndrome: A case report. Arch Iran Med 2004;7:307-9.      
+3.Narang M, Kumar M, Shah D. Fraser-cryptophthalmos syndrome with colonic atresia. Indian J Pediatr 2008; 75:189-91.      
+4.Thomas IT, Frias JL, Felix V, Sanchez de Leon L, Hernandez RA, Jonen MC. Isolated and syndromic cryptophthalmos. Am J Med Genet 1986;25:85-90.      
+5.Gauttuso J, Patton MA, Baraitser M. The clinical spectrum of Fraser syndrome: Report of three new cases and review. J Med Genet 1987;24:549-55.      
+6.Hambire SD, Bhavsar PP, Meenakshi B, Jayakar AV. Fraser-cryptophthalmos syndrome with cardiovascular malformations: A rare case. Indian Pediatr 2003;40:888-90.      
+7.Mahadevan B, Bhat BV, Sastri AT, Rao S, Kusre G. Fraser syndrome with unusual features: A case report. J Anat Soc India 2002;51:59-60.      
+8.Kiyozumi D, Sugimoto N, Sekiguchi K. Breakdown of the reciprocal stabilization of the QBRICK/Frem1, Fras1 and Frem2 at the basement membrane provokes Fraser syndrome like defects. Proc Natl Acad Sci USA 2006;103:11981-6.    [PUBMED]  [FULLTEXT]
+      		Correspondence Address:M  K Kalpana KumariFlat No. 612, C Block, Sterling Residency, Dollars Colony, Bangalore - 560 094, Karnataka IndiaSource of Support: None, Conflict of Interest: NoneCheckDOI: 10.4103/0377-4929.41664
+                       Figures 
+ [Figure 1],  [Figure 2]
+                This article has been cited by       		           1
+              		    Diagnosis of Fraser syndrome missed out until the age of six months old in a low-resource setting: a case report
+		                       		                       		    		                  Aimé Mbonda,Francky Teddy Endomba,Ulrick S. Kanmounye,Jan René Nkeck,Joel Noutakdie Tochie       		                		                       		    BMC Pediatrics. 2019; 19(1)       		                		         [Pubmed] | [DOI]       		                       		           		                		           2
+              		    Fraser Syndrome: Epidemiological Study in a European Population
+		                       		                       		    		                  Ingeborg Barisic,Ljubica Odak,Maria Loane,Ester Garne,Diana Wellesley,Elisa Calzolari,Helen Dolk,Marie-Claude Addor,Larraitz Arriola,Jorieke Bergman,Sebastiano Bianca,Patricia A. Boyd,Elizabeth S Draper,Miriam Gatt,Martin Haeusler,Babak Khoshnood,Anna Latos-Bielenska,Bob McDonnell,Anna Pierini,Judith Rankin,Anke Rissmann,Annette Queisser-Luft,Christine Verellen-Dumoulin,David Stone,Romano Tenconi       		                		                       		    American Journal of Medical Genetics Part A. 2013; 161(5): 1012       		                		         [Pubmed] | [DOI]       		                       		           		                		           3
+              		    Prenatal diagnosis of bilateral anophthalmia by 3D “reverse face” view ultrasound and magnetic resonance imaging
+		                       		                       		    		                  Edward Araujo,Tatiana Emy Kawanami,Luciano Marcondes Machado Nardozza,Hérbene José Figuinha Milani,Patrícia Soares Oliveira,Antonio Fernandes Moron       		                		                       		    Taiwanese Journal of Obstetrics and Gynecology. 2012; 51(4): 616       		                		         [Pubmed] | [DOI]       		                       		           		                		           4
+              		    A case of congenital high airway obstruction syndrome caused by complete tracheal obstruction with associated anomalies
+		                       		                       		    		                  Hyun Jin Cho, Yeon Mee Kim, Hee Young Lee, Hye-Sung Won       		                		                       		    Korean Journal of Obstetrics &amp; Gynecology. 2012; 55(2): 115       		                		         [VIEW] | [DOI]       		                       		           		         
+              Search
+                Similar in PUBMED     Search Pubmed forKalpana Kumari M KKamath SMysorekar VVNandini G     Search in Google Scholar for Kalpana Kumari M K Kamath S Mysorekar VV Nandini G   Related articlesCryptophthalmos syndromeFraser syndromesyndactyly
+            Email Alert *
+            Add
+            to My List *
+            * Registration required (free)   
+            Abstract
+    Introduction
+    Case History
+    Discussion
+    References
+    Article Figures
+       Article Access Statistics    Viewed6882        Printed151        Emailed7        PDF Downloaded323        Comments [Add]        Cited by others 4     
+Sitemap |
+Advertise | What's New
+| Feedback | Disclaimer
+© 2008 Indian Journal of Pathology and Microbiology | Published by Wolters Kluwer  - Medknow
+Online since
+      5th  April, 2008

@@ -1,0 +1,242 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+STEM
+							The Los Angeles Public Library and Dynasty United Youth Association Team Up for A New Virtual Tutoring and Job Preparation Program for South L.A. Students Affected by COVID School Closures
+					September 15, 2020The Los Angeles Public Library (LAPL) and the Dynasty United Youth Association (DUYA) come together to launch the virtual Accelerated Learning Program Service for South L.A. students in grades K-12.  Students can access the free educational support program, Monday through Friday, noon to 8:00 p.m through June 5, 2021. Space is limited and on a first-come, first-serve basis.  ... read more  »
+							Student Athlete of the Week: Susie Fowler
+					September 3, 2020Although it was difficult, learning how to be a hurdler was something that Susie Fowler was committed to doing. She had been running track since she was nine but began to learn how to hurdle during her high school years. ... read more  »
+							30 Winners of $1.2 Million in Edison Scholars Program Announced by Edison International
+					April 9, 2020Thirty high school seniors in Southern California Edison’s service area have been named 2020 Edison Scholars and will be awarded $1.2 million in scholarships by Edison International to pursue science, technology, engineering or math (STEM) studies.  ... read more  »
+        ADVERTISEMENT        
+							LADWP Commitment to Fostering Gender Equity Honored by Society of Women Engineers
+					February 27, 2020The Los Angeles Department of Water and Power (LADWP) was honored with two Society of Women Engineers (SWE) “WE Local” awards this month at the WE Local San Diego conference in San Diego, Calif. The Department received the Sustaining Benefactor award, while its LADWP-SWE chapter was selected for the Outstanding Professional Development Event award.  ... read more  »
+							Howard University Receives Record Donation for STEM Scholarships
+					February 20, 2020“I am proud of Howard’s continued efforts to drive economic development in the District. Adding critical residential and retail amenities transforms vacant and underperforming assets into thriving communities that both improve the fabric of the neighborhood and add vitality to Howard’s mission,” said Howard President Wayne Frederick. “I am also particularly happy that we were able to include Gideon, which is headed up by a strong Howard University Alumni with a history of giving back.” ... read more  »
+							West Point Cadets Educate LAUSD Students
+					January 30, 2020The United States Military Academy West Point cadets traveled to Los Angeles to host their annual Leadership and Ethics in STEM Workshop on Friday. The Diversity, Inclusion, and Equal Opportunity department at West Point partnered with LAUSD to host the event at Stephen M. White middle school. ... read more  »
+							Public Safety Program Helps Youth Find Positive Alternatives
+					September 26, 2019Following historic lows in gun violence, the month of May saw an alarming spike in violent crime. Unwilling to accept the rise in violence, including the murder of South Los Angeles’ beloved Nipsey Hussle, Counclimember Marqueece Harris-Dawson launched a robust effort to address the root causes and effects of gun violence in South L.A. Traditionally, the summer tends to display an increase in violence. This summer program meets residents where they are with the resources they need to deal with trauma and intervenes to prevent youth from joining gangs and continuing cycles of violence.
+ ... read more  »
+							Breaking Barriers in Ballet: Misty Copeland Set to Receive Trailblazer Award
+					September 5, 2019On Sep. 11, the Congressional Black Caucus (CBC), will honor Misty Copeland, with their esteemed Trailblazer Award, during the CBC’s annual “Celebration of the Arts” event ... read more  »
+							The Los Angeles Dodgers Foundation Hosts 500 Students for STEM Field Day
+					June 6, 2019The Los Angeles Dodgers Foundation (LADF) and the Science of Sport organization celebrated the first year of STEM education in the Inglewood Unified School District. A group of 500 3rdto 5thyear elementary students participated in interactive STEM experiments led by current and former Los Angeles Dodgers players. ... read more  »
+							Teacher at Compton’s Dominguez High School Uses His Unique Story To Get Students Talking About Trauma and Creating Solutions to Battle PTSD
+					May 30, 2019After a near-fatal attack, Vincent McLeod, a teacher at Compton’s Dominguez High School uses his traumatic experience to help students deal with their experiences. Through STEM education he uses his truth to relate to students and help them naturalize post-traumatic stress disorder  (PTSD). ... read more  »
+							Top Music Exec, Noted Community Advocate and Leading California Hospital System to be Honored by Charles R. Drew University of Medicine and Science
+					April 18, 2019Charles R. Drew University of Medicine and Science (CDU) will host its seventh annual Legacy Leaders Spring Gala on Thursday, April 18, 2019, at 6 p.m. ... read more  »
+							The Hussle is Real
+					April 11, 2019Let’s honor Hussle’s legacy with a hustle of our own. ... read more  »
+							Thirty High School Seniors Awarded $1.2 Million in Scholarships From Edison International
+					April 4, 2019Sixty-three percent of the 2019 seniors will be first-generation college students ... read more  »
+							L.A.Clippers Show the Joys of STEM at Science Festival
+					March 28, 2019The L.A. Clippers showed the youth of Los Angeles how exciting STEM could be with their first ever Clippers Scifest SoCal science festival. The Clippers partnered with the USA Science and Engineering Festival, an organization who hosts the largest science festival in the country in Washington D.C. ... read more  »
+							NNPA President Moderates Inspirational CBCF Avoice Heritage Celebration
+					March 1, 2019In moderating the panel of awardees, Dr. Benjamin F. Chavis Jr. began with the ultra-popular Congresswoman Maxine Waters, the first Black woman to chair the House Committee on Financial Services. He asked Waters what could be expected from her committee in terms of improving the quality of life in Black communities. ... read more  »
+        &lt;&lt; Older Posts
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->

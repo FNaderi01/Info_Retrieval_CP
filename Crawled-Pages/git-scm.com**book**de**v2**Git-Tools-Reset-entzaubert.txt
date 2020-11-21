@@ -1,0 +1,481 @@
+        About
+            Branching and Merging
+            Small and Fast
+            Distributed
+            Data Assurance
+            Staging Area
+            Free and Open Source
+            Trademark
+        Documentation
+            Reference
+            Book
+            Videos
+            External Links
+        Downloads
+            GUI Clients
+            Logos
+        Community
+This book is available in
+  English.
+  Full translation available in
+    български език,
+    Deutsch,
+    Español,
+    Français,
+    Ελληνικά,
+    日本語,
+    한국어,
+    Nederlands,
+    Русский,
+    Slovenščina,
+    Tagalog,
+    Українська
+    简体中文,
+  Partial translations available in
+    Čeština,
+    Македонски,
+    Polski,
+    Српски,
+    Ўзбекча,
+    繁體中文,
+  Translations started for
+    azərbaycan dili,
+    Беларуская,
+    فارسی,
+    Indonesian,
+    Italiano,
+    Bahasa Melayu,
+    Português (Brasil),
+    Português (Portugal),
+    Svenska,
+    Türkçe.
+The source of this book is  hosted on GitHub.
+Patches, suggestions and comments are welcome.
+  Chapters ▾
+  1. Erste Schritte
+          1.1
+          Was ist Versionsverwaltung? 
+          1.2
+          Kurzer Überblick über die Historie von Git 
+          1.3
+          Was ist Git? 
+          1.4
+          Die Kommandozeile 
+          1.5
+          Git installieren 
+          1.6
+          Git Basis-Konfiguration 
+          1.7
+          Hilfe finden 
+          1.8
+          Zusammenfassung 
+  2. Git Grundlagen
+          2.1
+          Ein Git-Repository anlegen 
+          2.2
+          Änderungen nachverfolgen und im Repository speichern 
+          2.3
+          Anzeigen der Commit-Historie 
+          2.4
+          Ungewollte Änderungen rückgängig machen 
+          2.5
+          Mit Remotes arbeiten 
+          2.6
+          Taggen 
+          2.7
+          Git Aliases 
+          2.8
+          Zusammenfassung 
+  3. Git Branching
+          3.1
+          Branches auf einen Blick 
+          3.2
+          Einfaches Branching und Merging 
+          3.3
+          Branch-Management 
+          3.4
+          Branching-Workflows 
+          3.5
+          Remote-Branches 
+          3.6
+          Rebasing 
+          3.7
+          Zusammenfassung 
+  4. Git auf dem Server
+          4.1
+          Die Protokolle 
+          4.2
+          Git auf einem Server einrichten 
+          4.3
+          Erstellung eines SSH-Public-Keys 
+          4.4
+          Einrichten des Servers 
+          4.5
+          Git-Daemon 
+          4.6
+          Smart HTTP 
+          4.7
+          GitWeb 
+          4.8
+          GitLab 
+          4.9
+          Von Drittanbietern gehostete Optionen 
+          4.10
+          Zusammenfassung 
+  5. Verteiltes Git
+          5.1
+          Verteilter Arbeitsablauf 
+          5.2
+          An einem Projekt mitwirken 
+          5.3
+          Ein Projekt verwalten 
+          5.4
+          Zusammenfassung 
+  6. GitHub
+          6.1
+          Einrichten und Konfigurieren eines Kontos 
+          6.2
+          Mitwirken an einem Projekt 
+          6.3
+          Ein Projekt betreuen 
+          6.4
+          Verwalten einer Organisation 
+          6.5
+          Skripte mit GitHub 
+          6.6
+          Zusammenfassung 
+  7. Git Tools
+          7.1
+          Revisions-Auswahl 
+          7.2
+          Interaktives Stagen 
+          7.3
+          Stashen und Bereinigen 
+          7.4
+          Ihre Arbeit signieren 
+          7.5
+          Suchen 
+          7.6
+          Den Verlauf umschreiben 
+          7.7
+          Reset entzaubert 
+          7.8
+          Fortgeschrittenes Merging 
+          7.9
+          Rerere 
+          7.10
+          Debuggen mit Git 
+          7.11
+          Submodule 
+          7.12
+          Bundling 
+          7.13
+          Replace (Ersetzen) 
+          7.14
+          Anmeldeinformationen speichern 
+          7.15
+          Zusammenfassung 
+  8. Git einrichten
+          8.1
+          Git Konfiguration 
+          8.2
+          Git-Attribute 
+          8.3
+          Git Hooks 
+          8.4
+          Beispiel für Git-forcierte Regeln 
+          8.5
+          Zusammenfassung 
+  9. Git und andere Systeme
+          9.1
+          Git als Client 
+          9.2
+          Migration zu Git 
+          9.3
+          Zusammenfassung 
+  10. Git Interna
+          10.1
+          Basisbefehle und Standardbefehle (Plumbing and Porcelain) 
+          10.2
+          Git Objekte 
+          10.3
+          Git Referenzen 
+          10.4
+          Packdateien (engl. Packfiles) 
+          10.5
+          Die Referenzspezifikation (engl. Refspec) 
+          10.6
+          Transfer Protokolle 
+          10.7
+          Wartung und Datenwiederherstellung 
+          10.8
+          Zusammenfassung 
+  A1. Appendix A: Git in anderen Umgebungen
+          A1.1
+          Grafische Schnittstellen 
+          A1.2
+          Git in Visual Studio 
+          A1.3
+          Git in Visual Studio Code 
+          A1.4
+          Git in Eclipse 
+          A1.5
+          Git in IntelliJ / PyCharm / WebStorm / PhpStorm / RubyMine 
+          A1.6
+          Git in Sublime Text 
+          A1.7
+          Git in Bash 
+          A1.8
+          Git in Zsh 
+          A1.9
+          Git in PowerShell 
+          A1.10
+          Zusammenfassung 
+  A2. Appendix B: Git in Ihre Anwendungen einbetten
+          A2.1
+          Die Git-Kommandozeile 
+          A2.2
+          Libgit2 
+          A2.3
+          JGit 
+          A2.4
+          go-git 
+          A2.5
+          Dulwich 
+  A3. Appendix C: Git Kommandos
+          A3.1
+          Setup und Konfiguration 
+          A3.2
+          Projekte importieren und erstellen 
+          A3.3
+          Einfache Snapshot-Funktionen 
+          A3.4
+          Branching und Merging 
+          A3.5
+          Projekte gemeinsam nutzen und aktualisieren 
+          A3.6
+          Kontrollieren und Vergleichen 
+          A3.7
+          Debugging 
+          A3.8
+          Patchen bzw. Fehlerkorrektur 
+          A3.9
+          E-mails 
+          A3.10
+          Externe Systeme 
+          A3.11
+          Administration 
+          A3.12
+          Basisbefehle 
+      2nd Edition
+    7.7 Git Tools - Reset entzaubert
+Reset entzaubert
+Bevor wir zu spezialisierteren Werkzeugen übergehen, sollten wir über die Befehle reset und checkout sprechen.
+Diese Befehle sind, wenn man ihnen zum ersten Mal begegnet, die beiden verwirrendsten Teile von Git.
+Sie erledigen so viele Aufgaben, dass es aussichtslos erscheint, sie wirklich zu verstehen und richtig anzuwenden.
+Deshalb empfehlen wir eine einfache Metapher.
+Die drei Bäume
+Eine bessere Methode, um über reset und checkout zu reflektieren, ist der gedankliche Ansatz, dass Git ein Inhaltsmanager von drei verschiedenen Bäumen ist.
+Mit „Baum“ meinen wir hier in Wahrheit eine „Sammlung von Dateien“, nicht speziell die Datenstruktur.
+Es gibt ein paar Fälle, in denen sich der Inhalt nicht genau wie ein Baum verhält, aber für unsere Zwecke ist es vorerst einfacher, auf diese Weise darüber nachzudenken.
+Als System verwaltet Git im regulären Modus drei Bäume:
+Baum
+Rolle
+HEAD
+letzter Commit-Snapshot, nächstes Elternteil
+Index (Staging-Area)
+nächster, geplanter Commit-Snapshot
+Arbeitsverzeichnis
+Sandbox
+Der HEAD
+HEAD ist der Verweis auf die aktuelle Branch-Referenz, die wiederum ein Pointer zu dem letzten Commit auf diesem Branch ist.
+Das bedeutet, dass HEAD das Elternteil des nächsten Commits ist, der erzeugt wird.
+Es ist generell am einfachsten, sich HEAD als den Schnappschuss Ihres letzten Commits auf diesem Branch vorzustellen.
+Es ist ziemlich einfach zu erkennen, wie dieser Schnappschuss aussieht.
+Hier ist ein Beispiel, wie man die aktuelle Verzeichnisliste und die SHA-1-Prüfsummen für jede Datei im HEAD-Snapshot erhält:
+$ git cat-file -p HEAD
+tree cfda3bf379e4f8dba8717dee55aab78aef7f4daf
+author Scott Chacon  1301511835 -0700
+committer Scott Chacon  1301511835 -0700
+initial commit
+$ git ls-tree -r HEAD
+100644 blob a906cb2a4a904a152...   README
+100644 blob 8f94139338f9404f2...   Rakefile
+040000 tree 99f1a6d12cb4b6f19...   lib
+Die Befehle Git cat-file und ls-tree sind „Basisbefehle“, die für Aufgaben auf low-level Ebene verwendet werden und nicht wirklich in der täglichen Arbeit eingesetzt werden, aber sie helfen uns zu verstehen, was hier vor sich geht.
+Der Index
+Index ist Ihr nächster, geplanter Commit.
+Wir haben diesen Ansatz auch als Git’s „Staging-Area“ bezeichnet, da Git auf dieses Konzept schaut, wenn Sie git commit ausführen.
+Git füllt den Index mit allen Dateiinhalten, die Sie zuletzt in Ihr Arbeitsverzeichnis ausgecheckt haben und zeigt Ihnen, wie sie beim letzten Auschecken ausgesehen haben.
+Sie tauschen dann einige dieser Dateien mit neueren Versionen aus, und git commit konvertiert diese in den Baum für einen neuen Commit.
+$ git ls-files -s
+100644 a906cb2a4a904a152e80877d4088654daad0c859 0	README
+100644 8f94139338f9404f26296befa88755fc2598c289 0	Rakefile
+100644 47c6340d6459e05787f644c2447d2595f5d3a54b 0	lib/simplegit.rb
+Nochmals, wir verwenden hier git ls-files, ein Kommando, das eher ein Hintergrundbefehl ist, welcher Ihnen anzeigt, wie Ihr Index derzeit aussieht.
+Der Index ist technisch gesehen keine hierarchische Struktur – er ist eigentlich als abgeflachtes Register umgesetzt – aber für unsere Zwecke ist das ausreichend genau.
+Das Working Directory oder Arbeitsverzeichnis
+Abschließend gibt es Ihr Arbeitsverzeichnis (engl. „working directory“ oder „working tree“).
+Die beiden anderen Bäume speichern ihren Inhalt auf effiziente, aber unpraktische Weise innerhalb des .git Ordners.
+Das Arbeitsverzeichnis entpackt sie in echte Dateien, was es wesentlich einfacher macht, sie zu bearbeiten.
+Stellen Sie sich das Arbeitsverzeichnis wie einen Sandkasten (engl. sandbox) vor, in der Sie Änderungen ausprobieren können, bevor Sie sie in Ihren Bereitstellungsbereich (Index, Staging-Area) und dann in den Verlauf übertragen.
+$ tree
+.
+├── README
+├── Rakefile
+└── lib
+    └── simplegit.rb
+1 directory, 3 files
+Der Workflow
+Der typische Arbeitsablauf von Git sieht vor, dass Sie durch die Bearbeitung dieser drei Bäume nach und nach bessere Momentaufnahmen Ihres Projekts erzeugen.
+Stellen wir uns folgenden Ablauf vor: Angenommen, Sie wechseln in ein neues Verzeichnis, in dem sich eine einzige Datei befindet.
+Wir nennen das die v1 der Datei und kennzeichnen sie in blau.
+Nun führen wir git init aus, das ein Git-Repository mit einer HEAD-Referenz erzeugt, die auf den noch nicht existierenden master Branch zeigt.
+Zu diesem Zeitpunkt hat nur der Verzeichnisbaum (engl working tree) des Arbeitsverzeichnisses (engl. working directory) irgendeinen Inhalt.
+Nun wollen wir diese Datei committen, also benutzen wir git add, um den Inhalt im Arbeitsverzeichnis zu übernehmen und in den Index zu kopieren.
+Dann führen wir git commit aus, das den Inhalt der Staging-Area (oder Index) als endgültigen Snapshot speichert, ein Commit-Objekt erzeugt, das auf diesen Snapshot zeigt, und den Branch master aktualisiert, um auf diesen Commit zu zeigen.
+Wenn wir jetzt git status ausführen, werden wir keine Änderungen sehen, weil alle drei Bäume gleich sind.
+Nun wollen wir eine Änderung an dieser Datei vornehmen und sie übertragen.
+Wir führen den gleichen Vorgang durch. Zuerst ändern wir die Datei in unserem Arbeitsverzeichnis.
+Wir nennen sie v2 dieser Datei und markieren sie in rot.
+Wenn wir jetzt den Befehl git status aufrufen, sehen wir die Datei in rot als „Changes not staged for commit“ (dt. Änderungen nicht zum Commit vorgemerkt), weil sich dieser Eintrag im Index zu dem im Arbeitsverzeichnis unterscheidet.
+Als nächstes führen wir git add aus, um sie in unseren Index zu übernehmen, d.h zur Staging-Area hinzuzufügen.
+Wenn wir zu diesem Zeitpunkt git status ausführen, sehen wir die Datei in grün unter „Changes to be committed“ (dt. Änderungen zum Commit vorgemerkt), weil sich der Index und der HEAD unterscheiden – d.h. unser geplanter nächster Commit unterscheidet sich nun von unserem letzten Commit.
+Schließlich führen wir git commit aus, um die Daten zu übertragen.
+Nun wird uns git status keine Ergebnisse liefern, weil alle drei Bäume wieder gleich sind.
+Das Wechseln von Branches oder das Klonen geht ähnlich vor sich.
+Wenn Sie einen Branch auschecken, ändert er HEAD so, dass er auf den neuen Branch-Ref zeigt, füllt Ihre Staging-Area (bzw. Index) mit dem aktuellen Schnappschuss dieses Commits und kopiert dann den Inhalt des Index in Ihr Arbeitsverzeichnis.
+Die Bedeutung von Reset
+Der Befehl reset macht mehr Sinn, wenn wir folgenden Fall betrachten.
+Für diesen Zweck nehmen wir an, dass wir file.txt erneut modifiziert und ein drittes Mal committed hätten.
+Nun sieht unser Verlauf so aus:
+Lassen Sie uns nun genau untersuchen, was reset bewirkt, wenn Sie es aufrufen.
+Es manipuliert die drei Bäume auf einfache und kalkulierbare Weise direkt.
+Es führt bis zu drei einfache Operationen aus.
+Step 1: Den HEAD verschieben
+Als erstes wird reset das verschieben, worauf HEAD zeigt.
+Das ist nicht dasselbe wie HEAD selbst zu ändern (was checkout macht). reset verschiebt den Branch, auf den HEAD zeigt.
+Das bedeutet, wenn HEAD auf den Branch master gesetzt ist (d.h. Sie befinden sich gerade auf dem master Branch), wird die Ausführung von git reset 9e5e6a4 damit starten, dass master auf 9e5e6a4 zeigt.
+Egal, mit welcher Methode Sie reset bei einem Commit aufrufen, das ist immer die erste Aktion, die versucht wird auszuführen.
+Mit reset --soft wird es dort einfach stoppen.
+Nehmen Sie sich nun eine Minute Zeit, um sich diese Abbildung anzusehen und sich zu fragen, was da passiert ist. Es hat im Wesentlichen den letzten git commit Befehl rückgängig gemacht.
+Wenn Sie git commit ausführen, erzeugt Git einen neuen Commit und verschiebt den Branch, auf den HEAD zeigt, dahin.
+Wenn Sie auf HEAD~ (das Elternteil von HEAD) zurücksetzen, verschieben Sie den Branch wieder an seine ursprüngliche Stelle, ohne den Index oder das Arbeitsverzeichnis zu ändern.
+Sie könnten nun den Index aktualisieren und git commit erneut ausführen, um das zu erreichen, was git commit --amend getan hätte (siehe auch Den letzten Commit ändern).
+Step 2: Den Index aktualisieren (--mixed)
+Bitte berücksichtigen Sie, dass Sie bei Ausführung von git status in grün den Unterschied zwischen dem Index und dem neuen HEAD sehen werden.
+Als nächstes wird reset den Index mit dem Inhalt des Schnappschusses aktualisieren, auf den HEAD jetzt zeigt.
+Wenn Sie die Option --mixed angeben, wird reset an dieser Stelle beendet.
+Das ist auch die Voreinstellung, wenn Sie also überhaupt keine Option angeben (in diesem Fall nur git reset HEAD~), wird der Befehl dort enden.
+Nehmen Sie sich noch eine Minute Zeit, um sich jetzt diese Abbildung anzuschauen und zu erkennen, was passiert ist: Es hat Ihren letzten commit rückgängig gemacht, aber auch alles auf unstaged gesetzt.
+Sie wurden auf den Stand zurück versetzt, bevor Sie alle Ihre git add und git commit Befehle ausgeführt hatten.
+Step 3: Das Working Directory (Arbeitsverzeichnis) aktualisieren (--hard)
+Als Drittes wird das Arbeitsverzeichnis durch reset zurückgesetzt, damit es dem Index entspricht.
+Wenn Sie die Option --hard verwenden, wird es bis zu diesem Schritt fortgesetzt.
+Denken wir also darüber nach, was gerade passiert ist.
+Sie haben Ihren letzten Commit rückgängig gemacht, die Befehle git add und git commit und dazu noch die gesamte Arbeit, die Sie in Ihrem Arbeitsverzeichnis geleistet hatten.
+Es ist sehr wichtig zu wissen, dass das Flag (--hard) die einzige Möglichkeit ist, den Befehl reset gefährlich zu machen und einer der wenigen Fälle, in denen Git tatsächlich Daten vernichtet.
+Jeder andere Aufruf von reset kann ziemlich leicht rückgängig gemacht werden, aber nicht die Option --hard, da sie Dateien im Arbeitsverzeichnis zwingend überschreibt.
+In diesem speziellen Fall haben wir noch immer die v3 Version unserer Datei in einem Commit in unserer Git-Datenbank. Wir könnten sie durch einen Blick auf unser reflog zurückholen. Hätten wir sie aber nicht committet, dann hätte Git die Datei überschrieben und sie wäre nicht wiederherstellbar.
+Zusammenfassung
+Der Befehl reset überschreibt diese drei Bäume in einer bestimmten Reihenfolge und stoppt, wann Sie es wollen:
+Verschiebe den Branch-HEAD und (stoppt hier, wenn --soft)
+Lasse den Index wie HEAD erscheinen (hier stoppen, wenn nicht --hard)
+Lasse das Arbeitsverzeichnis wie den Index erscheinen
+Zurücksetzen (reset) mit Pfadangabe
+Das deckt das Verhalten von reset in seiner Basisform ab, aber Sie können ihm auch einen Pfad angeben, auf dem er aktiv werden soll.
+Wenn Sie einen Pfad festlegen, überspringt reset  Step 1 und beschränkt die restlichen Aktionen auf eine bestimmte Datei oder eine Gruppe von Dateien.
+Das macht tatsächlich Sinn – HEAD ist nur ein Pointer. Sie können nicht auf den einen Teil eines Commits und auf einen Teil eines anderen zeigen.
+Der Index und das Arbeitsverzeichnis können jedoch teilweise aktualisiert werden, so dass das Zurücksetzen mit den Schritten 2 und 3 fortgesetzt wird.
+Nehmen wir also an, wir führen ein git reset file.txt aus.
+Da Sie hier keinen Commit-SHA-1 oder -Branch angegeben haben und auch nicht die Optionen --soft oder --hard verwendet haben, ist das die Kurzform für git reset --mixed HEAD file.txt. Der Befehl wird Folgendes bewirken:
+Verschiebt den Branch, HEAD zeigt auf (übersprungen)
+Passt den Index an HEAD an (stopt hier)
+Er kopiert also im Endeffekt nur file.txt von HEAD in den Index.
+Das hat den praktischen Effekt, dass die Datei aus der Staging-Area entfernt wird (engl. unstage).
+Wenn wir uns die Abbildung für diesen Befehl ansehen und überlegen, was git add macht, sind die beiden Befehle genau gegensätzlich.
+Deshalb schlägt die Anzeige des Befehls git status vor, dass Sie den Befehl git reset ausführen, um eine Datei aus der Staging-Area zu entfernen.
+Siehe auch Kapitel 2 Eine Datei aus der Staging-Area entfernen für weitere Informationen.
+Wir könnten, ebenso einfach, Git nicht annehmen lassen, dass wir damit meinen, es soll „die Daten aus dem HEAD holen“ (engl. pull), indem wir einen bestimmten Commit angeben, aus dem diese Dateiversion gezogen werden soll.
+Stattdessen würden wir einfach etwas wie git reset eb43bf file.txt ausführen.
+Das macht effektiv dasselbe, als ob wir den Inhalt der Datei im Arbeitsverzeichnis auf v1 geändert, git add darauf ausgeführt und dann wieder auf v3 zurückgewandelt hätten (ohne wirklich alle diese Schritte zu durchlaufen).
+Wenn wir jetzt git commit aufrufen, wird er eine Modifikation registrieren, die diese Datei wieder auf v1 zurücksetzt, obwohl wir sie nie wieder in unserem Arbeitsverzeichnis hatten.
+Interessant ist auch, dass der reset Befehl wie auch git add die Option --patch akzeptiert, um Inhalte schrittweise zu entfernen.
+Sie können also selektiv Inhalte aufheben oder zurücksetzen.
+Squashing (Zusammenfassen)
+Schauen wir uns an, was wir mit dieser neu entdeckten Möglichkeit machen können – das Zusammenfassen von Commits.
+Angenommen, Sie hätten eine Reihe von Commits mit Nachrichten wie „Ups“, „WIP“ und „Diese Datei vergessen“.
+Sie können reset verwenden, um diese schnell und einfach in einem einzigen Commit zusammenzufassen, der Sie wirklich clever aussehen lässt.
+Commits zusammenfassen zeigt Ihnen eine andere Möglichkeit auf. In diesem Fall ist es einfacher reset zu verwenden.
+Stellen wir uns vor, Sie hätten ein Projekt, bei dem der erste Commit eine Datei enthält, der zweite Commit eine neue Datei hinzufügt und die erste ändert, und der dritte Commit die erste Datei erneut ändert.
+Der zweite Commit war eine unfertige Arbeit und Sie wollen diesen zusammenschieben.
+Sie können git reset --soft HEAD~2 ausführen, um den HEAD-Branch zurück zu einem älteren Commit (dem neuesten Commit, den Sie behalten wollen) zu verschieben:
+Danach einfach erneut git commit starten:
+Jetzt können Sie sehen, dass Ihr erwünschter Verlauf, der Verlauf, den Sie pushen würden, jetzt so aussieht, als hätten Sie einen Commit mit file-a.txt v1 gemacht, dann einen zweiten, der sowohl file-a.txt zu v3 modifiziert als auch file-b.txt hinzugefügt hat.
+Der Commit mit der Version v2 der Datei ist nicht mehr im Verlauf enthalten.
+Auschecken (checkout)
+Zum Schluss werden Sie sich vielleicht fragen, was der Unterschied zwischen checkout und reset ist.
+Wie reset manipuliert checkout die drei Bäume. Es ist ein bisschen unterschiedlich, je nachdem, ob Sie dem Befehl einen Dateipfad mitgeben oder nicht.
+Ohne Pfadangabe
+Das Benutzen von git checkout [branch] ist dem Ausführen von git reset --hard [branch] ziemlich ähnlich, da es alle drei Bäume aktualisiert, damit Sie wie [branch] aussehen, aber es gibt zwei wichtige Unterschiede.
+Erstens, anders als bei reset --hard, ist bei checkout das Arbeitsverzeichnis sicher. Es wird geprüft, ob Dateien, die Änderungen enthalten, nicht weggefegt werden.
+Eigentlich ist es noch etwas intelligenter – es versucht, eine triviale Zusammenführung im Arbeitsverzeichnis durchzuführen, so dass alle Dateien, die Sie nicht geändert haben, aktualisiert werden.
+reset --hard hingegen, wird alles ohne Überprüfung einfach ersetzen.
+Der zweite wichtige Unterschied ist die Frage, wie checkout den HEAD aktualisiert.
+Während reset den Branch verschiebt, auf den HEAD zeigt, so bewegt checkout den HEAD selbst, um auf einen anderen Branch zu zeigen.
+Angenommen, wir haben master und develop Branches, die zu verschiedenen Commits zeigen und wir befinden uns gerade in dem develop Branch (also weist HEAD dorthin).
+Sollten wir git reset master ausführen, wird develop selbst nun auf den gleichen Commit zeigen, den master durchführt.
+Wenn wir stattdessen git checkout master ausführen, ändert sich develop nicht, HEAD selbst bewegt sich.
+HEAD zeigt nun auf master.
+In beiden Fällen verschieben wir also HEAD, um auf Commit A zu zeigen, aber die Methode ist sehr unterschiedlich.
+reset verschiebt den Branch zum HEAD, checkout dagegen verschiebt den HEAD selbst (nicht den Branch).
+Mit Pfadangabe
+Die andere Möglichkeit, das Auschecken (checkout) auszuführen, ist incl. der Angabe eines Dateipfades, der, wie bei reset, den HEAD nicht verschiebt.
+Es ist genau wie bei git reset [branch] Datei, indem es den Index mit dieser Datei beim Commit aktualisiert, aber es überschreibt auch die Datei im Arbeitsverzeichnis.
+Es wäre genau wie git reset --hard [branch] Datei (wenn reset Sie das ausführen lassen würde) – das Arbeitsverzeichnis ist nicht sicher und der Befehl verschiebt den HEAD nicht.
+Ebenso wie git reset und git add akzeptiert checkout die Option --patch, die es Ihnen erlaubt, den Inhalt von Dateien auf Basis von einzelnen Teilen selektiv zurückzusetzen.
+Zusammenfassung
+Wir hoffen, dass Sie jetzt den Befehl reset besser kennen und anwenden können. Wahrscheinlich sind Sie aber immer noch etwas unsicher, wie genau er sich von checkout unterscheidet. Sie können sich vermutlich nicht alle Regeln der verschiedenen Aufrufe merken.
+Hier ist eine Tabelle, die zeigt, welche Befehle sich auf welche Bäume auswirken.
+In der Spalte „HEAD“ bedeutet „REF“, dass dieser Befehl die Referenz (den Branch) verschiebt, auf die HEAD zeigt. „HEAD“ signalisiert, dass er HEAD selbst verschiebt.
+Achten Sie besonders auf die Spalte „WD sicher?“ – wenn dort „NO“ steht, überlegen Sie sich genau, ob Sie diesen Befehl ausführen wollen.
+HEAD
+Index
+Workdir
+WD sicher?
+Commit Level
+reset --soft [commit]
+REF
+NO
+NO
+YES
+reset [commit]
+REF
+YES
+NO
+YES
+reset --hard [commit]
+REF
+YES
+YES
+NO
+checkout &lt;commit&gt;
+HEAD
+YES
+YES
+YES
+File Level
+reset [commit] &lt;paths&gt;
+NO
+YES
+NO
+YES
+checkout [commit] &lt;paths&gt;
+NO
+YES
+YES
+NO
+prev | next
+    About this site
+    Patches, suggestions, and comments are welcome.
+    Git is a member of Software Freedom Conservancy

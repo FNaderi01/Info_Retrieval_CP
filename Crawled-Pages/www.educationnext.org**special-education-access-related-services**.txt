@@ -1,0 +1,148 @@
+            News
+Research
+Podcasts
+The Journal
+Blog
+Book Reviews
+	                Sign in
+	                Welcome!Log into your account
+	                your username
+	                your password
+	                Forgot your password?
+	                Privacy Policy
+	                Password recovery
+	                Recover your password
+	                your email
+				Search
+                            Sign in
+                            Welcome! Log into your account
+                            your username
+	                        your password
+                            Forgot your password? Get help
+                            Privacy Policy
+                            Password recovery
+                            Recover your password
+                            your email
+                            A password will be e-mailed to you.
+			Education Next
+    News
+Research
+Podcasts
+The Journal
+Blog
+Book Reviews
+		Subscribe
+                                                        NewsResearchPodcastsThe JournalBlogBook Reviews                                                                
+Latest Issue
+Fall 2020
+Vol. 20, No. 4
+                        BlogOpinionSpecial EducationState Policy
+                            Who Is in Special Education and Who Has Access to Related Services?
+                                By Nora Gordon                                                                                                                            
+		Nora Gordon
+Executive Summary
+This report brings data from the newly-released 2016 National Survey of Children’s Health (NSCH) to the robust policy and research debate over the extent to which differences in aggregate special education participation rates over racial and ethnic groups represent differences in underlying needs for special education.
+The NSCH allows me to compare not only how student characteristics are related to participation in special education, but also how they relate to children’s access to speech therapy, occupational therapy, and physical therapy—services that may be delivered as part of a child’s special education plan. Like the existing literature, these analyses cannot control for a given child’s true need for special education or special therapies, but they can show how a range of demographic variables relate to access to both.
+The unconditional means for special education participation as reported by parents in the NSCH are, as in other data sources, higher for blacks than whites, and lower for Hispanics and Asians than whites. Boys are more likely to participate than girls, and students who are eligible for free or reduced-price lunch are more likely to participate than their peers.
+Once adjusting for free-lunch status and other basic demographics, black children in the NSCH participate in special education at a rate that is not statistically different from white children. Hispanic and Asian children, however, still participate at lower rates than whites with these adjustments. Overall, patterns in access to services roughly parallel patterns in special education participation.
+The NSCH, unlike many education data sources, asks whether the child was born in the US. It reveals that children born outside of the United States are half as likely as their native-born peers to participate in special education. This pattern has received less policy attention than the race-based participation gap, and may point to issues with how schools identify students for special education.
+Introduction
+In this report, I use the newly-released 2016 National Survey of Children’s Health (NSCH) to compare how student characteristics are related to participation in special education and access to speech therapy, occupational therapy, and physical therapy—services that may be delivered as part of a child’s special education plan. [1] While systematic relationships between demographics and participation in special education do not on their own reveal whether a particular group is over- or under-identified, they did prompt regulatory action from the Department of Education in the Obama Administration. These regulations are now on hold.
+These data allow a descriptive lay of the land, rather than an investigation of how access to special education and to these services varies systematically with demographics conditional on actual need. They corroborate patterns from other data sources already in the public discourse around how race, ethnicity, and gender relate to special education. They also point to generally similar patterns in how these demographic factors relate to access to special therapies. Finally, they demonstrate the strikingly lower prevalence of special education participation—and access to services—for children born outside of the United States. Though existing literature has already pointed to lower probabilities of special education participation for students who are English learners, this disparity has received less attention in the public debate over identification.
+As I have written about previously in this series, there is a sizeable literature focusing on these relationships. In particular, Paul Morgan, George Farkas, and collaborators have investigated the relationship between student characteristics and participation in special education with a variety of student-level data sources. [2] They consistently find that racial and ethnic minority students are underrepresented in special education, conditional on individual student characteristics. In related work, Morgan et al. have investigated the relationship between race and special education services for speech or language impairments and found similar patterns. The current analysis differs from their work by focusing on parental report of participation in special education, and access to special therapies including speech, occupational, or physical therapy, whether provided through school or not. The body of work by Morgan et al. consistently finds that English-language learners are less likely to be in special education; with the NSCH I examine nativity rather than language.
+The national survey of children’s health as a special education data source
+Studies of participation in special education typically rely on school district records, either used at the student-level through administrative data or aggregated and reported up to the federal level as required by Individuals with Disabilities Education Act (IDEA). The National Survey of Children’s Health, in contrast, is a phone-based survey; the analysis here uses the provided weights to correct for sampling bias due presence of a phone and non-response. Its purpose is to learn about children’s health care needs and access. The NSCH data on special education participation for school-aged children are derived from parent reports of whether the reference child in the survey currently has an Individualized Education Plan (IEP).
+We would not expect rates of special education participation in the NSCH to match those reported by public schools under IDEA, which are tabulated by the National Center for Education Statistics (NCES).
+First, the NCES rates are reported as a percentage of all children enrolled in public school, from pre-kindergarten through grade 12, while the NCSH rates are a percentage of all children (in this analysis, ages 5 through 17). The NSCH does not ask what kind of school children attend, so the denominator necessarily includes children who are homeschooled or enrolled in private school (and thus will not have IEPs), lowering the rate mechanically. Using national estimates of private and homeschooling rates, however, does not account for the full discrepancy between the two data sources.
+Second, the NCES data come from district reports of children covered under IDEA, while the NSCH data come from parent reports. Though parental involvement is meant to be central in the development of a child’s IEP under IDEA, some parents may not know their child has an IEP, may not recognize the term, or may not wish to disclose this information on the survey. (The NSCH question asked about an Individualized Educational Plan, not about special education.) These channels would also lead to lower rates in the NSCH than in the NCES data.
+Overall, I find that an IEP (or early intervention services) rate of 9.3 percent for children age 3-17 in the NSCH, compared with the NCES public school IEP rate of 13.0 percent reported for ages 3-21 in the 2014-15 school-year.
+Comparing special education rate by race and ethnicity across nces and nsch data
+Figure 1 compares special education rates for major racial/ethnic groups across the NSCH and NCES data. Consistent with the mechanisms above, rates are indeed higher in the NCES data than the NSCH. The average rates in the NSCH are for 9.7 percent for white children, 12.4 percent for black children, 7.9 percent for Hispanic children, and 3.2 percent for Asian or Asian-American children.
+Figure 1. Percent children in special education by race/ethnicity
+As I discussed in my earlier post in this series, we do not know what the “correct” rate of participation for different groups would be. While the NSCH contains data on parental perceptions of the child, no data in the NSCH would allow me to estimate special education participation conditional on need. A difference in mean participation rates across groups could reflect over-identification of students in one group, under-identification of students in another, or “just right” identification across groups.
+How do student and family characteristics mediate the relationship between race and special education?
+Next I explore how a set of demographic variables mediate the relationship between a child’s race and ethnicity and the likelihood that he or she has an IEP.
+Figure 2 shows results from estimating a linear probability model predicting the probability that a child in the school-aged (5-17) subpopulation of the NSCH currently has an IEP. Each bar represents the magnitude of the coefficient on the dichotomous race/ethnicity variable. For all regressions, the comparison (excluded) group is white students. All regressions also include indicator variables for Pacific Islanders, American Indian/Alaskan Natives, children whose parents report they are in two or more racial groups, and those whose parents report “other” race.
+Figure 2. Unadjusted and adjusted correlations between race/ethnicity and special education
+The first bar for each group shows the coefficient value for a regression with no other control variables. These coefficients differ from the mean special education rates in Figure 1 because they refer to differences from the mean for whites, the excluded group in the regressions. Without controlling for other variables, black students are 2.6 percentage points more likely to be in special education than whites, though the difference is not statistically significant. Hispanics are 1.7 percentage points less likely to be in special education than whites, while Asian and Asian-Americans are 6.3 percentage points less so; these differences are both statistically significantly different from zero.
+Next, I adjust these coefficients (in the second bar for each group) for additional variables. These include a relatively standard set of student and family demographics: an indicator for whether anyone in the family received free or reduced-price meals at school in the past year, the family’s income as a percentage of the federal poverty line, whether the child was born in the United States, whether the child lives with a single mother, and the highest level of education either parent has attained. The NSCH also contains a set of questions about the child’s experience. I control for a series of variables indicating the child’s exposure to parental divorce, death, incarceration, if the child has ever witnessed or been a victim of violence, if the child has lived with someone with mental illness, and if the child has lived with someone with alcohol or other drug problems.
+Adding these covariates affects the strength of the correlations differently for different groups. For black children, the relationship between race and special education remains positive but gets smaller in magnitude and becomes statistically insignificant. This is consistent with findings from Hibel, Farkas, and Morgan (2010). They then control for student-level kindergarten test scores and teacher ratings of student behavior; with those controls, they find black students are statistically significantly less likely to be in special education than whites. [3] The NSCH does not report test scores, so I cannot show how the results here would respond to their inclusion.
+Asian and Asian-American children remain statistically significantly much less likely (by 4.8 percentage points) to participate in special education than their white peers, even after the additional controls are added. In other words, they are about half as likely to be in special education as whites, whose special education rate in the sample is 9.7 percent. And the negative relationship between Hispanic ethnicity and special education becomes stronger with the additional covariates.
+Special education versus access to specific services
+People worry over different rates of special education participation across groups of students in part because they think it is likely to reflect inappropriate assignment of students to educational environment (this is especially true if they believe the true prevalence of need for special education is uniform across groups, before or after the types of demographic adjustments described above). But part of the concern comes from a belief that special education does not serve children well more generally. While the goal of special education is to provide supportive services and adaptations to allow all students to access the curriculum, many view it as a way of warehousing children who may be viewed as difficult in the general education classroom—whether or not they have disabilities that would qualify them for special education.
+The NSCH allows us to break apart participation in special education from access to a set of services commonly found in IEPs. It asks parents whether their children have received any occupational, physical, or speech therapy in the past year. In practice, children may receive these services outside of a school setting, or within it; those receiving services at school are likely to receive them through an IEP or 504 plan. The NSCH does not ask parents where their children received these services, so we have no way to know if these services were received at school or elsewhere, or if they were delivered as part of an IEP. To be clear, these services are not included in all IEPs, nor do all children receiving these services need an IEP.
+Figure 3 shows the same coefficients from the race/ethnicity variables, with covariates included, when predicting participation in special education (these were in the second bar for each group in Figure 2 and now are in the first bar for each group in Figure 3).
+Figure 3. How race/ethnicity correlates with special education versus receipt of therapeutic services
+In Figure 4, I show the coefficients on those variables, aside from race and ethnicity, that are statistically significantly different from zero. (All other coefficients for control variables listed earlier are not only statistically insignificant, but also close to zero.) As in Figure 3, the first bar is for coefficients predicting special education participation, and the second bar is for predicting receipt of these specific therapeutic services. As with the race and ethnicity variables, the relationship between each of these characteristics and access to services is not statistically significant different from its relationship with special education.
+Figure 4. How other student characteristics correlate with special education versus receipt of therapeutic services
+As has been documented extensively, boys are much more likely—here, 6 percentage points—to participate in special education, and 5 percentage points more likely to receive these services. Compared to the average rates for girls, this is close to twice as likely for both outcomes.
+The free or reduced-price meals indicator is associated with a 4.3 percentage point (56 percent) increase in the probability that a child currently has an IEP, and a 3.2 percentage point increase in access to services (57 percent). Once this control is in place, the family income variable (not shown) has no additional explanatory power over either outcome.
+Being born in the United States is associated with being 3.6 percentage points, or 82 percent, more likely to participate in special education. In contrast, it is associated with being 1.9 percentage points, or 41 percent, more likely to access services.
+Finally, children who have ever lived with someone with mental illness participate in special education at a statistically significant higher rate—by 3.3 percentage points—than those who have not; they are 6.5 percentage points more likely to access services. This is nearly twice as likely to use services as their counterparts.
+Family structure and parental education, not shown, have no predictive power in this sample once the above covariates are included.
+Implications
+The scope and scale of the NSCH permit a unique glimpse into who gets what services and placements, but not whether these patterns are appropriate. It is not designed to test whether students receive appropriate placement into special versus general education—indeed, no parent survey could be. And while the survey asks parents if children needed the services examined (speech, occupational, or physical therapy) I did not analyze the use of service conditional on stated need but rather simply whether they accessed the services at all. For such specialized services, many parents will not know if their children need services unless they are referred so we would not want to interpret parental report of no need in a clinical sense.
+Policymakers, practitioners, and advocates wish to understand patterns of placement into special education and what they may reveal about flaws in how students with disabilities are identified and served in public schools. The patterns in the NSCH data are consistent with existing discussions around race and gender—in particular, higher prevalence for males and blacks. The NSCH data also reveal the lower rate of special education participation for students born outside the United States.
+— Nora Gordon
+Nora Gordon is Associate Professor of Public Policy at Georgetown University.
+This post originally appeared as part of Evidence Speaks, a weekly series of reports and notes by a standing panel of researchers under the editorship of Russ Whitehurst.
+The author(s) were not paid by any entity outside of Brookings to write this particular article and did not receive financial support from or serve in a leadership position with any entity whose political or financial interests could be affected by this article.
+Notes:
+1. Child and Adolescent Health Measurement Initiative. National Survey of Children’s Health 2016 Enhanced Data File. Data Resource Center for Child and Adolescent Health.
+2. For their most recent work synthesizing the literature, see Morgan, Farkas et al. (2018). http://journals.sagepub.com/doi/10.1177/0014402917748303
+3. In Hibel, Farkas and Morgan (2010), the “underrepresentation” of blacks in special education becomes statistically significant only once the test score controls are included, going from Model 2 to Model 3 in Table 5. http://journals.sagepub.com/doi/pdf/10.1177/0014402917718341
+					Last updated April 9, 2018
+					License this Content
+			Nora GordonAuthor Bio				
+            Previous Article
+            A Reading Test Focused on Content
+            April 6, 2018
+            Next Article
+            A Better Way to Compare State Performance on NAEP
+            April 10, 2018
+We Recommend You Read
+		Race, Poverty, and Interpreting Overrepresentation in Special Education
+		by Nora Gordon
+		Disability Rights Advocates Are Fighting the Wrong Fight on School Choice
+		by Robin J. Lake
+                                    Nora Gordon	                
+The Journal
+Fall 2020
+Vol. 20, No. 4
+Education Next is a journal of opinion and research about education policy.
+Subscribe Today
+NOT CONVINCED?
+Get a Sample copy of The Journal
+Sign Up Today
+			Newsletter
+			Notify Me When Education Next Posts a Big Story
+					Subscribe
+Business + Editorial Office
+Program on Education Policy and Governance
+Harvard Kennedy School
+79 JFK Street, Cambridge, MA 02138
+Phone (617) 496-5488
+Fax (617) 496-4428
+EmailEducation_Next@hks.harvard.edu
+University of Chicago Press(for subscription service to the printed journal)
+1427 E. 60th Street, Chicago, IL 60637-2902
+Phone (773) 753-3347, or toll-free in U.S. and Canada (877) 705-1878
+Email subscriptions@educationnext.org
+                DiscoverAbout Us
+The Journal
+EdFacts
+EdNext Poll
+Opinion
+Press
+Interactive Graphics
+Our Authors
+Contact Us
+                More InformationAdvertise
+User Agreement
+Privacy Policy
+Reporting Copyright Infringement
+Guidelines For Submissions
+Permissions
+FAQ
+                Web-only content Copyright © 2020 President &amp; Fellows of Harvard College
+Journal content Copyright © 2020 Education Next Institute, Inc.Site Credits            

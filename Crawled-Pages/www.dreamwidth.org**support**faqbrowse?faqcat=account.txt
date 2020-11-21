@@ -1,0 +1,106 @@
+     Skip to Main Content
+                                        FAQ - Your Account
+                        How do I create an account?                How do I confirm my email address?                How do I invite someone to Dreamwidth?                How do I change my email address?                How do I change my password?                How do I delete my account?                When and how are deleted accounts permanently removed (purged)?                How do I change my username?                What are my options when I rename my journal?                How can I recover my lost username or password?                What is the difference between my journal style and the site skin?                How do I control who can private message (PM) me?                How can I resecure my account if someone breaks into it?                What is a memorial account? Why and how does an account gain this status?                Can I have the username of an apparently-abandoned account?                Why do I get an invalid password error when logging in when I am certain my password is correct?                    
+                » How do I create an account?
+                                    To create an account, visit the Create Your Dreamwidth Account page.You can also make a payment to create a paid or premium paid account, if you'd like to support Dreamwidth.After you've finished the account creation process, you'll receive an email containing a link to confirm your email address. A confirmed email address is important in maintaining the security of your account.If you are logged into another account when you create a new Dreamwidth account, you will be logged out of the first account and logged into the newly-created account.
+                Last Activity:
+                August 30th, 2015 (kaberett)
+                » How do I confirm my email address?
+                                    When you create your account or change your email address we'll send you an email containing a link to confirm your email address.  If you lose that email, or need it re-sent for any reason, you can request a new one.  You won't be able to use some site features until you confirm your email address.When you create your account, and whenever you change your email address, you'll need to confirm or reconfirm your email address. This security measure ensures you've entered your email address correctly and keeps other people from using your email address without your knowledge.
+                Last Activity:
+                January 10th, 2018 (kaberett)
+                » How do I invite someone to Dreamwidth?
+                                    To invite someone, you can just direct your friend to the Create Your Dreamwidth Account page. If you'd like to send them an email directly inviting them to the site, visit Invite Someone. There, you'll be able to type in your friend's email address and, if you'd like, edit the welcome message we'll send to them.
+                Last Activity:
+                August 30th, 2015 (kaberett)
+                » How do I change my email address?
+                                    You can change the email address you use for your Dreamwidth journal on the Change Email Address page.Once you've done that, you'll need to confirm your new address.
+                Last Activity:
+                August 30th, 2015 (kaberett)
+                » How do I change my password?
+                                    You can change your password on the Change Password page.
+                Last Activity:
+                August 30th, 2015 (kaberett)
+                » How do I delete my account?
+                                    You can delete your account on the the Account Status page. You can also use the Account Status page to delete a community you administer by using the "Work As" dropdown.Deleting your account makes the entries you've posted, the comments on those entries, and your personal profile invisible to others. It does not delete entries you've posted to communities or comments you've posted in communities or in others' journals.When you delete your account, you have the option to leave a message that will show to people who visit your deleted journal. You can use this to tell people where else to find you, explain why you're deleting your account, or just leave the field blank.If you change your mind, you can use the same page to restore your account within 30 days of its deletion. You can undelete an account for at least 30 days after you delete it. After 30 days, the account may be entirely purged from our servers at any time. (We only purge accounts a few times a year, because of the load it places on our servers to run the script.)
+                Last Activity:
+                August 30th, 2015 (kaberett)
+                » When and how are deleted accounts permanently removed (purged)?
+                                    Once you have deleted your account, you will have at least 30 days to change your mind. At any point after 30 days, the account will be "purged" -- removed entirely from our servers and no longer undeleteable.Deleted accounts are only purged occasionally. The process of purging deleted accounts can cause high server load, so we only do it a few times per year and only do it during periods of low usage.
+                Last Activity:
+                August 8th, 2015 (kaberett)
+                » How do I change my username?
+                                    Changing your username requires the use of a rename token. Rename tokens are available for sale in the Dreamwidth Shop for $15 USD or 150 Dreamwidth Points. To rename your account, go to the Rename Journal page. From there, you can check the username you want to see if it's available. Once you have checked the availability of your username, the site will check to see if you have a rename token available on your account. If you do, you'll be prompted to use it. If you don't have a rename token available, you will be directed to the Dreamwidth Shop to buy one.If you have a rename token available, you will see a link on the Rename Journal page that lets you choose to rename your account (or you can rename a community you admin). If someone has given you a rename token (or you have bought it in another account) you can use it on this page. Once you start the process, you will be prompted to choose the rename options you want for your rename.You can rename your journal to:* An unregistered username that complies with our username restrictions: 25 or fewer characters with letters, numbers, and hyphens (-) only, with the first and last characters of the username being letters and numbers only.* A username that has been deleted and purged (not just deleted; the page when visiting the account must say that the account has been deleted and purged).* The name of a registered personal journal you control. (To verify you control the account, the confirmed email address on the accounts, and the accounts' passwords, both need to be the same.)You can't rename your journal to a suspended username, to a protected username (reserved usernames such as shop.dreamwidth.org and other system names), or directly to the username of a community you control. You can rename a community that you are the admin of to the username of a personal journal you control, but not the other way around yet. To rename a personal journal to the username of a community you control, you must use two rename tokens to do a username swap as described below. You must be the only admin and only member of the community, and the confirmed email addresses must match.If you have two accounts and you wish to swap their usernames, you can do this with two rename tokens. There is a "swap usernames" option on the Rename Journal page. Selecting this will let you begin the process. Both usernames must meet the criteria for renaming above.
+                Last Activity:
+                February 21st, 2016 (kaberett)
+                » What are my options when I rename my journal?
+                                    When you rename your account, you have several choices to make about how to display your new username and how to handle your relationships.Username DisplayYou can choose whether or not to forward your old username to your new username. If you forward them, anyone loading your journal at the old username will be redirected to your new username, and your old username will not be available for anyone else to use. If you disconnect them, anyone loading your journal at the old username will not be redirected to your new username, and your old username will appear as though it was never registered, which means that anyone will be free to use a rename token to change their name to the old username.In both cases, all comments and community entries you made under your old username will be updated to show your new username, so renaming is not an effective way to completely divorce yourself from your old username. If you need to change your username for privacy or safety reasons, it is better to delete your old account and create a new one instead of renaming your journal. (It's not technically possible for us to prevent comments and community entries from updating to show your new username, due to the backend structure of the site.)If you have used your Dreamwidth account as an OpenID login on any other sites, you probably shouldn't disconnect your old username and your new username. If someone else is able to register your old username, they will be able to use it as an OpenID login as well, which means that they may have access to your account on those other sites. We are in the process of implementing checks to minimize the chance of this, but it's still something you should be aware of.RelationshipsWhen renaming, you can choose to clear some or all of your relationships with others. By default, all relationships will be kept. You should uncheck the boxes for each relationship you want to clear. For instance, if you want to keep all your existing subscriptions, but clear yourself from the reading lists of people who are subscribed to you, you would leave the "Keep outgoing subscriptions" box checked, but uncheck the "Keep incoming subscriptions".You also have the choice to clear your existing community memberships and remove yourself from the admin position of communities you admin during the rename.Forwarding EmailIf you have a [Bad username or site: dreamwidth @ org] forwarding email address (a paid account benefit), you can choose to forward all email sent to your old username to your new username. To choose this option, you must choose to forward your old username to your new username.
+                Last Activity:
+                March 7th, 2013 (denise)
+                » How can I recover my lost username or password?
+                                    If you've lost your username or password, you can have them emailed to you from the Lost Information page.On this page, you will need to fill in a test called a "CAPTCHA" to show that you aren't an automated script, and can then follow the instructions on the page to have your details sent to you. If you're requesting your username, the usernames you have registered to that email address will be emailed to you. If you've lost your password, you will receive a link that will let you reset the password for your account. Your password will not be emailed to you in plaintext.You can only use this to send your information to an email address that you have used and confirmed with Dreamwidth, so other people can't use it to steal your account.
+                Last Activity:
+                August 30th, 2015 (kaberett)
+                » What is the difference between my journal style and the site skin?
+                                    Journal styles are used to customize the colors and page setup of the pages where you post your content. Styles may be customized using the built-in templates and color schemes. You have the ability to completely customize your journal using CSS. Advanced users can use the S2 programming language to design the whole journal from scratch.There are are a number of FAQs describing how to customize your personal journal or your community style. They're listed on the FAQ - Journal Styles page.The site skin is the look of the main site or account pages on Dreamwidth Studios, which include the dreamwidth.org homepage, account management pages, search pages, etc. Nearly all of the content on these pages is generated by Dreamwidth itself, and the options for changing the colors and layout are much more limited in comparison to journal pages.You can change the way the main site pages look with the Display tab of the Account Settings page. There are several options you can choose from — they will apply only to the official Dreamwidth pages, not to any of the journals or communities on the site.You can also choose to have all comment pages, both in your journal and in all other journals, display in the site skin rather than in the look of your journal. To do this, go to the Display tab of the Account Settings page. Setting the "Entry View Style" to "Site Skin" will mean you always see entry and comment pages in the site skin, even if you're viewing a journal that has chosen another version of the entry and comment page. Unchecking the box for "Journal Entry Style", labeled "Show my journal's entry pages in my chosen style instead of the site skin", will only show entry and comment pages in your own journal in the site skin.Our default site skin is "Tropospherical Red". You can return to it at any time.If you wish to use a site skin with minimal graphics, select the "Lynx" scheme.
+                Last Activity:
+                August 30th, 2015 (kaberett)
+                » How do I control who can private message (PM) me?
+                                    A private message is a contact or comment from another user that is sent directly to your Inbox, rather than being displayed on your journal.You can control who is able to private message (PM) you with the private message setting, located on the Privacy tab of the Manage Settings page.You may choose to receive PMs from all registered users, from users on your access list, or only from users with whom you have mutual access. You can also select to block all PMs from all users.If you ban a user from your journal, that will also prevent them from messaging you.
+                Last Activity:
+                August 30th, 2015 (kaberett)
+                » How can I resecure my account if someone breaks into it?
+                                    If someone breaks into your account, the first thing you should do is change your password. Your new password should be at least 8 characters long, have a mixture of letters, numbers, and symbols, and not be based on any of your previous passwords or the same as the password you use anywhere else.If the intruder has changed your password, you can reset it at the Lost Information page. If you only enter your username, the password reset link will be sent to the email address currently on file for your account. If the intruder has changed the email address on your account as well, enter both your username and the email address you previously confirmed on your account.Once you have access to your account again, check to see if the intruder has added any email addresses you do not control to your account. To do this, visit the Email Management page. This shows all previous email address that have been confirmed for your account. You can use this page to delete any address that isn't yours by first changing your email address back to an email address that was confirmed on your account earlier than the email address you want to remove. Once you've re-confirmed the change, you will be able to select the unwanted email address and remove it.For security reasons, you can't remove the first email address you confirmed on your account. If the intruder has added a new email address to your account, and you never confirmed your email address or you no longer have access to an email address that was confirmed earlier than the intruder confirmed the unwanted email address, your account will never again be fully secure, and you should create a new one.If an intruder edits or deletes your entries, icons, or profile, they can't be recovered or restored. Our backups are taken at the database level, not at the individual account level, and it's not possible to restore only a single account from backup.
+                Last Activity:
+                August 30th, 2015 (kaberett)
+                » What is a memorial account? Why and how does an account gain this status?
+                                    If a Dreamwidth user passes away, their account can be placed into "memorial" status. This status prevents new entries from being posted, but allows comments on existing entries. Any friend of the deceased can request this status.It is also possible to lock the journal, which also prevents new comments. This status can only be requested by a family member of the deceased.To request that the account of a deceased user be placed in memorial status, open a Support Request under the Account Payments category with the username.
+                Last Activity:
+                August 30th, 2015 (kaberett)
+                » Can I have the username of an apparently-abandoned account?
+                                    Dreamwidth does not delete accounts for inactivity. Someone who looks like they're not using their account may actually be using it in ways that aren't immediately obvious, and someone who appears to have abandoned their account may return to the site at any time. Until and unless someone has chosen to delete their account, that account (and its username) belongs to the person who registered it for as long as they would like.Trading or selling accounts or usernames is also against the Terms of Service, because a traded account can never be totally secure. The original owner of the account can always regain control of the account. For security purposes, do not accept a traded account, and do not offer to sell or trade an account you control.
+                Last Activity:
+                August 30th, 2015 (kaberett)
+                » Why do I get an invalid password error when logging in when I am certain my password is correct?
+                                    Under some circumstances, if you're trying to log in — even with a password you know is correct — your browser will give you an invalid password error.From what we've been able to determine, this problem is related to the use of any one of several different password-storing or cookie-blocking browser extensions, including (but probably not limited to):* 1Password* Disconnect Me* Facebook Disconnect* Twitter DisconnectIf you're having this problem, and you have one of those extensions installed, try updating it to the most recent version available and try again. If it still doesn't work, you should try temporarily disabling your browser extensions, logging into the site and choosing the "Remember Me" option, then re-enabling your extensions. You'll need to re-disable your extensions any time you have to log in in the future.You may also have some success by visiting the Login page directly rather than using the login form in the site header or on the journal navigation strip.
+                Last Activity:
+                March 8th, 2013 (denise)
+    Licensing
+Back to the full FAQ list.
+Return to the Search Page.
+Need more help? Go to the Support Area.
+    Log in
+            Account name:
+            Password:
+             Remember me
+            Other options:
+              Forget your password?
+              Log in with OpenID?
+      ×
+                    menu
+  Log in
+Create
+                Create Account
+                Display Preferences
+Explore
+                Interests
+                Directory Search
+                Site and Journal Search
+                Latest Things
+                Random Journal
+                Random Community
+                FAQ
+Shop
+                Buy Dreamwidth Services
+                Gift a Random User
+                DW Merchandise
+InterestRegionSite and AccountFAQEmailIM Info
+    Privacy Policy • 
+    Terms of Service • 
+    Diversity Statement • 
+    Guiding Principles • 
+    Site Map • 
+    Make a Suggestion • 
+    Open Source • 
+    Help/Support
+Copyright © 2009-2020 Dreamwidth Studios, LLC. Some rights reserved.

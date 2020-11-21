@@ -1,0 +1,258 @@
+	Jetty (web server)
+		From Wikipedia, the free encyclopedia
+		Jump to navigation
+		Jump to search
+		Web server written in Java
+JettyOriginal author(s)Greg WilkinsDeveloper(s)Eclipse FoundationStable release9.4.31
+   / 23 July 2020; 2 months ago (2020-07-23)[1]Preview release10.0.0-alpha0
+   / 11 July 2019; 14 months ago (2019-07-11)[2]
+RepositoryJetty RepositoryWritten inJavaOperating systemCross-platform (JVM)TypeWeb server
+Servlet containerLicenseApache License 2.0, Eclipse Public License 1.0Websitewww.eclipse.org/jetty/
+Eclipse Jetty is a Java web server and Java Servlet container. While web servers are usually associated with serving documents to people, Jetty is now often used for machine to machine communications, usually within larger software frameworks. Jetty is developed as a free and open source project as part of the Eclipse Foundation.  The web server is used in products such as Apache ActiveMQ,[3] Alfresco,[4] Scalatra, Apache Geronimo,[5] Apache Maven,  Apache Spark, Google App Engine,[6] Eclipse,[7] FUSE,[8] iDempiere,[9] Twitter's Streaming API[10] and Zimbra.[11] Jetty is also the server in open source projects such as Lift, Eucalyptus, OpenNMS, Red5, Hadoop and I2P.[12] Jetty supports the latest Java Servlet API (with JSP support) as well as protocols HTTP/2 and WebSocket.
+Contents
+1 Overview
+2 History
+3 See also
+4 References
+5 External links
+Overview[edit]
+Jetty started as an independent open source project in 1995. In 2009 Jetty moved to Eclipse.[13][14] Jetty provides Web services in an embedded Java application and it is already a component of the Eclipse IDE. It supports AJP, JASPI, JMX, JNDI, OSGi, WebSocket and other Java technologies.[6]
+History[edit]
+Originally developed by software engineer Greg Wilkins, Jetty was originally an HTTP server component of Mort Bay Server. It was originally called IssueTracker (its original application) and then MBServler (Mort Bay Servlet server). Neither of these were much liked, so Jetty was finally picked.[15]
+Jetty was started in 1995 and was hosted by MortBay, creating version 1.x and 2.x, until 2000. From 2000 to 2005, Jetty was hosted by sourceforge.net where version 3.x, 4.x, and 5.x were produced. In 2005, the entire Jetty project moved to codehaus.org.[16] As of 2009, the core components of Jetty have been moved to Eclipse.org, and Codehaus.org continued to provide integrations, extensions, and packaging of Jetty versions 7.x and 8.x (not 9.x)[17][18] In 2016, the main repository of Jetty moved to GitHub,[19] but it is still developed under the Eclipse IP Process.
+Version
+Home
+Java Version
+Protocols
+Servlet Version
+JSP Version
+Status
+11.0.x
+Eclipse[18]
+11
+HTTP/1.1, HTTP/2, WebSocket JSR356, FastCGI, JakartaEE Namespace
+4.0.2
+2.3
+Unstable / Alpha[20]
+10.0.x
+Eclipse[18]
+11
+HTTP/1.1, HTTP/2, WebSocket JSR356, FastCGI
+4.0.2
+2.3
+Unstable / Beta[20]
+9.4.x
+Eclipse[18]
+1.8
+HTTP/1.1, HTTP/2, WebSocket JSR356, FastCGI
+3.1
+2.3
+Stable since 2016-12-12
+9.3.x
+Eclipse[18]
+1.8
+HTTP/1.1, HTTP/2, WebSocket JSR356, FastCGI
+3.1
+2.3
+Deprecated
+9.2.x
+Eclipse[18]
+1.7
+HTTP/1.1, WebSocket JSR356, SPDY
+3.1
+2.3
+Deprecated / End of Life January, 2018[21]
+8.x
+Eclipse,[18] Codehaus[17]
+1.6
+HTTP/1.1, WebSocket, SPDY
+3.0
+2.1
+Deprecated / End of Life November, 2014[21]
+7.x
+Eclipse,[18] Codehaus[17]
+1.5
+HTTP/1.1, WebSocket, SPDY
+2.5
+2.1
+Deprecated / End of Life November, 2014[21]
+6.x
+Codehaus[17]
+1.4–1.5
+HTTP/1.1
+2.5
+2.0
+Deprecated / End of Life November, 2010[21]
+5.x
+SourceForge
+1.2–1.5
+HTTP/1.1
+2.4
+2.0
+Antique[21]
+4.x
+SourceForge
+1.2, J2ME
+HTTP/1.1
+2.3
+1.2
+Ancient
+3.x
+SourceForge
+1.2
+HTTP/1.1 RFC2068
+2.2
+1.1
+Fossilized
+2.x
+Mortbay
+1.1
+HTTP/1.0 RFC1945
+2.1
+1.0
+Legendary
+1.x
+Mortbay
+1.0
+HTTP/1.0 RFC1945
+Mythical
+See also[edit]
+.mw-parser-output .portal{border:solid #aaa 1px;padding:0}.mw-parser-output .portal.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portal.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portal>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portal>ul>li{display:table-row}.mw-parser-output .portal>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portal>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}
+Free and open-source software portal
+Application server
+List of Java application servers
+Java Platform, Enterprise Edition
+Java Servlet
+JavaServer Pages
+References[edit]
+^ Walker, Chris (2020-07-30). "[jetty-announce]  Eclipse Jetty 9.4.31 Has Been Released!". jetty-announce (Mailing list). Retrieved 2020-07-30..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}
+^ "Release jetty-10.0.0-alpha0 · eclipse/jetty.project · GitHub". Retrieved 2019-08-29.
+^ "ActiveMQ with Ajax and Jetty". Jetty Wike (Codehaus). Archived from the original on 2011-08-30. Retrieved 2011-04-12.
+^ JM.Pascal (April 2010). "Maven + Alfresco : Jetty, Boostrap and Profil". Going to an OpenSource ECM World.... Archived from the original on 2012-01-07. Retrieved 2011-04-12.
+^ "Configuring Virtual Hosts in Geronimo-Jetty". Apache Geronimo Documentation. Retrieved 2011-04-12.
+^ a b Wickesser, Craig (5 August 2009). "Google Chose Jetty for App Engine". InfoQ. C4Media Inc. Retrieved 12 Apr 2011.
+^ "jetty://". Eclipse. Retrieved 12 Apr 2011.
+^ "class JettyHttpComponent". FuseSource. Red Hat. Archived from the original on March 15, 2011. Retrieved 12 Apr 2011.
+^ "Platform Upgrade for r3". Retrieved 8 Apr 2014.
+^ "Twitter Streaming API and Apache Wink". Archived from the original on 15 March 2016. Retrieved 19 May 2011.
+^ Zhuang, JJ (18 December 2007). "Zimbra Blog: Why we switched to Jetty". Zimbra. VMware. Retrieved 12 Apr 2011.
+^ "Powered by Jetty". Retrieved 24 Sep 2012.
+^ Lieber, Adam (December 2008). "Jetty: The Twelve Year Journey to Market Maturity". Linux Gazette. Retrieved 28 June 2013.
+^ "About Jetty". Codehaus. Archived from the original on 6 January 2012. Retrieved 30 November 2011.
+^ "Jetty/FAQ - Eclipsepedia". Wiki.eclipse.org. 2011-09-06. Retrieved 2014-07-17.
+^ "Jetty - Java HTTP Servlet Server / Mailing Lists". Sourceforge.net. Retrieved 2014-07-17.
+^ a b c d About Jetty Archived 2015-05-31 at the Wayback Machine, Located on Codehaus.
+^ a b c d e f g h About Jetty Archived 2010-11-21 at the Wayback Machine, Located on Eclipse.
+^ "The Eclipse Jetty Project repository has moved to Github!". 2016-02-12.
+^ a b "What Version Do I Use?". www.eclipse.org. Retrieved 2020-06-30.
+^ a b c d e "What Version Do I Use". 2018-08-30. Retrieved 2018-10-25.
+External links[edit]
+Official website 
+Documentation
+vteEclipse Foundation
+Acceleo
+AspectJ
+BIRT
+Che
+Buckminster
+Eclipse
+Equinox
+EclipseLink
+Golo
+Jetty 
+JFace
+Mylyn
+OpenJ9
+Remote Application Platform
+Sirius
+Standard Widget Toolkit
+Vert.x
+Virgo
+Xtext
+Eclipse Public License
+vteWeb server softwareComparisonsMost popular
+Apache
+Nginx
+IIS
+IIS Express
+LiteSpeed Web Server
+Other
+AOLserver
+Caddy
+Caudium
+Cherokee
+GlassFish
+Gunicorn
+H2O
+Hiawatha
+iPlanet
+Jetty
+JEUS
+Jexus
+JOnAS
+Lighttpd
+Mongoose
+Mongrel2
+Monkey
+NaviServer
+NetWeaver
+OpenResty
+Passenger
+Paste
+POCO
+Puma
+PyGopherd
+Resin
+Roxen
+thttpd
+Tomcat
+Tornado
+Traffic Server
+Twisted
+WebLogic
+WEBrick
+WebSphere
+WildFly
+Yaws
+Zope
+Retired
+Boa
+CERN httpd
+Mongrel
+NCSA HTTPd
+Xitami
+Zeus
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Jetty_(web_server)&amp;oldid=981548648"
+		Categories: Free software programmed in Java (programming language)Free web server softwareWeb server software programmed in JavaSoftware using the Apache licenseSoftware using the Eclipse licenseHidden categories: Webarchive template wayback linksArticles with short descriptionShort description matches Wikidata
+	Navigation menu
+		Personal tools
+		Not logged inTalkContributionsCreate accountLog in
+		Namespaces
+		ArticleTalk
+		Variants
+		Views
+		ReadEditView history
+		More
+		Search
+		Navigation
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		Contribute
+		HelpLearn to editCommunity portalRecent changesUpload file
+		Tools
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		Print/export
+		Download as PDFPrintable version
+		Languages
+		AzərbaycancaCatalàDeutschEspañolFrançais한국어ItalianoMagyar日本語PolskiPortuguêsРусскийУкраїнська中文
+		Edit links
+		 This page was last edited on 3 October 2020, at 00:28 (UTC).
+		Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+		Privacy policy
+		About Wikipedia
+		Disclaimers
+		Contact Wikipedia
+		Mobile view
+		Developers
+		Statistics
+		Cookie statement

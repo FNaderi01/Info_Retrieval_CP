@@ -1,0 +1,199 @@
+      Pular para o conteúdo principal
+        Central de Ajuda
+  Header navigation
+                  Geral
+                  Empresa
+  Header navigation - actions
+        Pesquisar
+  Header navigation - anonymous
+        Entrar
+        Página inicial do Pinterest
+  Open menu
+          Geral
+          Acesso à conta e segurança
+          Problemas com o Pinterest
+          Assuntos legais e privacidade
+          Gerenciar sua conta
+          Pins e pastas
+          Empresa
+          Ads measurement
+          Ads reporting
+          Build your organic presence on Pinterest
+          Gerencie o seu perfil comercial
+          Shopping on Pinterest
+          Cobrança e pagamento de Pins patrocinados
+          Anuncie no Pinterest
+            Acesso à conta e segurança
+            Problemas com o Pinterest
+            Assuntos legais e privacidade
+            Gerenciar sua conta
+            Pins e pastas
+            Ads measurement
+            Ads reporting
+            Build your organic presence on Pinterest
+            Gerencie o seu perfil comercial
+            Shopping on Pinterest
+            Cobrança e pagamento de Pins patrocinados
+            Anuncie no Pinterest
+              Adicionar a tag do Pinterest ao Shopify manualmente
+            Se você não tem o aplicativo do Pinterest para Shopify, estas são as instruções para instalar a tag manualmente.
+Etapa 1: código de base
+Na sua administração do Shopify, clique em Loja online e em Temas​
+Vá para o tema que você deseja editar e clique em Ações e depois em Editar código
+Clique em theme.liquid.
+Role a tela até ver &lt;/head&gt;  e cole este código acima dele:
+&lt;script type="text/javascript"&gt;
+!function(e){if(!window.pintrk){window.pintrk=function()
+{window.pintrk.queue.push(Array.prototype.slice.call(arguments))};var
+n=window.pintrk;n.queue=[],n.version="3.0";var
+t=document.createElement("script");t.async=!0,t.src=e;var
+r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(t,r)}}
+("https://s.pinimg.com/ct/core.js"); 
+pintrk('load','YOUR_TAG_ID', { em: '{{ customer.email }}', });
+pintrk('page');
+&lt;/script&gt; 
+&lt;noscript&gt; 
+&lt;img height="1" width="1" style="display:none;" alt=""
+src="https://ct.pinterest.com/v3/?tid=YOUR_TAG_ID&amp;noscript=1" /&gt; 
+&lt;/noscript&gt;
+Substitua YOUR_TAG_ID pelo seu próprio ID da tag exclusivo
+Para encontrar isso, navegue até o Gerenciador de Anúncios e clique em Anúncios, encontre Conversões e clique em Criar tag do Pinterest (se você já criou uma tag do Pinterest, clique no título para ver seu ID da tag exclusivo)
+Navegue até a sua visão geral do rastreamento de conversão e encontre a seção de detalhes
+Copie o número com 13 dígitos abaixo de ID da tag exclusivo e cole-o no lugar de YOUR_TAG_ID no código
+Etapa 2: código de finalização da compra
+Na sua administração do Shopify, clique em Configurações e depois em Checkout
+Na seção Processamento de pedido, encontre a caixa de texto Scripts adicionais
+Cole o código de rastreamento a seguir na caixa de texto: se já houver um código nessa caixa, cole o seu código de rastreamento após esse código
+{% if first_time_accessed %}
+&lt;script type="text/javascript"&gt;
+!function(e){if(!window.pintrk){window.pintrk=function()
+{window.pintrk.queue.push(Array.prototype.slice.call(arguments))};var
+n=window.pintrk;n.queue=[],n.version="3.0";var
+t=document.createElement("script");t.async=!0,t.src=e;var
+r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(t,r)}}
+("https://s.pinimg.com/ct/core.js");
+pintrk('load','YOUR_TAG_ID', { em: '{{ customer.email }}', }); 
+pintrk('page'); 
+&lt;/script&gt; 
+&lt;noscript&gt; 
+&lt;img height="1" width="1" style="display:none;" alt=""
+src="https://ct.pinterest.com/v3/?tid=YOUR_TAG_ID&amp;noscript=1" /&gt; 
+&lt;/noscript&gt;
+&lt;script&gt;
+pintrk('track', 'checkout',{
+value: {{ total_price }} / 100,
+currency: '{{ currency }}',
+order_quantity: 1,
+order_id: {{ checkout.id }}
+});
+&lt;/script&gt;
+&lt;noscript&gt;
+&lt;img height="1" width="1" style="display:none;" alt=""
+src="https://ct.pinterest.com/v3/?tid=YOUR_TAG_ID&amp;event=checkout&amp;noscript=1"/&gt;
+&lt;/noscript&gt;
+{% endif %}
+Lembre-se de substituir YOUR_TAG_ID pelo ID da tag exclusivo que foi gerado no Gerenciador de Anúncios
+Etapa 3: código Addtocart
+Na sua administração do Shopify, clique em Loja online e depois em Temas.
+No tema atual que você está usando, clique em Ações e em Editar código.
+Em Modelos, procure os arquivos de código chamados product.liquid ou product-template.liquid ou product-form.liquid e abra-os. Lembre-se de que isso pode variar dependendo do tema que você instalou, mas é mais comum ver o código do botão de adição ao carrinho no arquivo products.liquid ou equivalente.
+Procure addtocart no arquivo pressionando as teclas command+f no Mac ou ctrl+f no PC.
+Coloque o seguinte código antes do indicador de final de expressão do elemento &lt;button&gt; ou &lt;input&gt;
+onclick="pintrk('track', 'addtocart');" 
+Clique em Salvar no canto superior direito.
+  Outros artigos
+  Skip Outros artigos Links
+      Tag do Pinterest
+                        Adicionar seus códigos de evento
+                                Código de base
+                                Código do evento
+            Veja mais pastas, buscas, perfis ou Pins desta coleção
+                                Correspondência avançada
+                                Exemplos de código do evento
+                                Exemplos de códigos de base e do evento combinados
+                                Extensão Pinterest Tag Helper do Chrome
+                                Implementação de tag do Pinterest
+                                Instalar o código de base
+                                Instalar, remover ou restaurar a Tag do Pinterest
+                                Rastrear conversões com a tag do Pinterest
+                                Tag IMG
+                                Testar eventos de tag do Pinterest
+      Integrações da tag do Pinterest
+                        Adicionar a tag do Pinterest ao Shopify manualmente
+      Rastreamento de terceiros
+                        Rastreamento dinâmico e de terceiros
+                                Rastrear um anúncio de coleções
+      Conversions
+                        Carregar conversões com a LiveRamp
+                                Carregar conversões com o Gerenciador de Anúncios
+                                Carregar conversões para mensuração
+  End of Outros artigos Links
+            Ainda precisa de ajuda?
+                Fale conosco
+    User feedback
+              Este artigo foi útil?
+        feliz
+        triste
+        collection_fields
+        Como podemos melhorar este artigo?
+      Additional Response
+      Leave this field blank
+        O Pinterest está usando cookies para ajudar a proporcionar a melhor experiência possível.
+        Entendi!
+    Skip Footer Menu
+    Escolha uma língua
+                      English (US)
+                              Bahasa Indonesia
+                              Čeština
+                              Dansk
+                              Deutsch
+                              English (UK)
+                              Español
+                              Français
+                              Italiano
+                              Magyar
+                              Nederlands
+                              Norsk bokmål
+                              Polski
+                              Português (Brasil)
+                              Português (Europeu)
+                              Română
+                              Slovenčina
+                              Suomi
+                              Svenska
+                              Filipino
+                              Tiếng Việt
+                              Türkçe
+                              Ελληνικά
+                              Русский
+                              Ukrainian
+                              ภาษาไทย
+                              简体中文
+                              繁體中文
+                              한국어
+                              日本語
+            Sobre nós
+                    Impressum
+                    O que é o Pinterest
+                    Nossa página do Pinterest
+                    Blog de engenharia
+                    Diretrizes da marca
+                    Carreiras
+                    Central de Ajuda
+                    Pinterest Labs
+            Nossas políticas
+                    Copyright
+                                          &amp;
+                            marca
+                    Anúncios personalizados
+                    Termos de Serviço
+                    Privacidade
+                                          &amp;
+                            cookies
+            Mais informações
+                    Para empresas
+                    Para desenvolvedores
+                    Para a imprensa
+                    Para investidores
+                    End of Footer
+    © Pinterest 2020

@@ -1,0 +1,695 @@
+     category > maptopic > article -->
+    GitHub Docs
+    All products
+  GitHub.com
+          Empezar
+              Inicio Rápido
+                  Configurar Git
+                  Crear un repositorio
+                  Bifurcar un repositorio
+                  Ser social
+              Obtener información sobre GitHub
+                  Productos de GitHub
+                  Tipos de cuentas de GitHub
+                  CLI de GitHub
+                  GitHub Desktop
+                  Permisos de acceso en GitHub
+                  Glosario de GitHub
+                  Hoja introductoria de Git
+                  Recursos de aprendizaje de Git y GitHub
+              Registrarse en GitHub
+                  Configurar una prueba de la nube de GitHub Enterprise
+                  Configurar una prueba del servidor de GitHub Enterprise
+              Explorar proyectos en GitHub
+                  Guardar repositorios con estrellas
+                  Seguir a personas
+              Utilizar GitHub
+                  Navegadores compatibles
+                  Atajos del teclado
+          Cuentas de usuario
+              Administrar las configuraciones del usuario de la cuenta
+                  Acerca de tu tablero personal
+                  Cambiar tu nombre de usuario de GitHub
+                  Convertir un usuario en una organización
+                  Eliminar tu cuenta de usuario
+                  Niveles de permiso para un repositorio de cuenta de usuario
+                  Niveles de permiso para tableros de proyecto propiedad del usuario
+                  Administrar el acceso a los tableros de proyecto de tu cuenta de usuario
+                  Integrar Jira con tus proyectos personales
+              Administrar preferencias de correo electrónico
+                  Agregar una dirección de correo electrónico a tu cuenta de GitHub
+                  Cambiar tu dirección principal de correo electrónico
+                  Configurar una dirección de correo electrónico de respaldo
+                  Configurar tu dirección de correo electrónico de confirmación
+                  Recordar tu nombre de usuario o correo electrónico de GitHub
+              Administrar el acceso a tus repositorios personales
+                  Invitar colaboradores a un repositorio personal
+                  Eliminar un colaborador de un repositorio personal
+                  Eliminarte del repositorio de un colaborador
+              Administrar tu membresía en organizaciones
+                  Acerca de la membresía de una organización
+                  Acceder a una organización
+                  Ver los roles de las personas en una organización
+                  Divulgar u ocultar membresía de la organización
+                  Eliminarte de una organización
+          Perfiles
+              Personalizar tu perfil
+                  Acerca de tu perfil
+                  Acerca del perfil de tu organización
+                  Personalizar tu perfil
+                  Administrar el README de tu perfil
+                  Anclar elementos a tu perfil
+              Administrar los gráficos de contribución en tu perfil
+                  Ver contribuciones en tu perfil
+                  Mostrar un resumen de tu actividad en tu perfil
+                  Divulgar u ocultar tus contribuciones privadas en tu perfil
+                  Enviar tus contribuciones de GitHub Enterprise Server a tu perfil de GitHub.com
+                  ¿Por qué mis contribuciones no aparecen en mi perfil?
+                  Confirmaciones de solución de problemas en tu cronología
+          Autenticación
+              Mantener seguros tu cuenta y tus datos
+                  Acerca de la autenticación en GitHub
+                  Crear una contraseña segura
+                  Actualizar tus credenciales de acceso de GitHub
+                  Crear un token de acceso personal
+                  Revisar tus claves SSH
+                  Revisar tus llaves de implementación
+                  Autorizar aplicaciones OAuth
+                  Revisar tus integraciones autorizadas
+                  Conectar con aplicaciones de terceros
+                  Revisar tus aplicaciones autorizadas (OAuth)
+                  Revisar tu registro de seguridad
+                  Eliminar datos confidenciales de un repositorio
+                  Modo sudo
+                  Evitar el acceso no autorizado
+              Asegurar tu cuenta con autenticación de dos factores (2FA)
+                  Acerca de la autenticación de dos factores
+                  Configurar la autenticación de dos factores
+                  Configurar la autenticación de dos factores mediante métodos de recuperación
+                  Acceder a GitHub utilizando la autenticación de dos factores
+                  Recuperar tu cuenta si pierdes tus credenciales 2FA
+                  Inhabilitar la autenticación de dos factores para tu cuenta personal
+              Conectar a GitHub con SSH
+                  Acerca de SSH
+                  Comprobar tus claves SSH existentes
+                  Generar una nueva clave SSH y agregarla al ssh-agent
+                  Agregar una clave SSH nueva a tu cuenta de GitHub
+                  Probar tu conexión SSH
+                  Trabajar con contraseñas de clave SSH
+              Solucionar problemas de SSH
+                  Recuperar tu contraseña de clave SSH
+                  Error: Permiso denegado (publickey)
+                  Error: Número de archivo erróneo
+                  Error: La clave ya está en uso
+                  Error: Permiso de usuario/repo denegado a otro usuario
+                  Error: Permiso de usuario/repo denegado al usuario/otro repo
+                  Error: El agente admitió una falla para registrarse
+                  Error: ssh-add: opción ilegal -- K
+                  Error: Estamos haciendo una auditoría de clave SSH
+              Administrar la verificación de firma de confirmación de cambios
+                  Acerca de la verificación de firma de confirmación
+                  Comprobar las llaves GPG existentes
+                  Generar una llave GPG nueva
+                  Agregar una llave GPG nueva a tu cuenta de GitHub
+                  Informarle a Git acerca de tu clave de firma
+                  Asociar un correo electrónico con tu llave GPG
+                  Firmar confirmaciones
+                  Firmar etiquetas
+              Solucionar problemas de verificación de confirmación de firma
+                  Comprobar el estado de verificación de firma de la confirmación y de la etiqueta
+                  Actualizar una llave GPG vencida
+                  Utilizar una dirección de correo electrónico verificada en tu llave GPG
+          Administrar suscripciones y notificaciones en GitHub
+              Configurar las notificaciones
+                  Acerca de las notificaciones
+                  Configuring notifications
+              Ver y clasificar las notificaciones
+                  Administrar las notificaciones en tu bandeja de entrada
+                  Clasificar solo una notificación
+                  Personalizar un flujo de trabajo para clasificar tus notificaciones
+              Administrar suscripciones de actividades en GitHub
+                  Visualizar tus suscripciones
+                  Administrar tus suscripciones
+          Organizaciones y equipos
+              Colaborar con grupos en organizaciones
+                  Acerca de las organizaciones
+                  Acerca del tablero de tu organización
+                  Crear una organización nueva desde cero
+                  Acceder a los parámetros de tu organización
+                  Acerca de las noticias de tu organización
+              Administrar la membresía en tu organización
+                  Agregar personas a tu organización
+                  Eliminar a un miembro de tu organización
+                  Reinstalar un miembro antiguo de tu organización
+              Administrar el acceso de las personas a tu organización con roles
+                  Niveles de permiso para una organización
+                  Mantener la continuidad de propiedad para tu organización
+                  Otorgar permisos de "mantenedor del equipo" a un miembro de la organización
+              Organizar miembros en un equipo
+                  Acerca de los equipos
+                  Crear un equipo
+                  Configurar la imagen de perfil de tu equipo
+                  Agregar miembros de la organización a un equipo
+                  Administrar una tarea de revisión de código para tu equipo
+                  Renombrar un equipo
+                  Cambiar la visibilidad del equipo
+                  Mover un equipo en la jerarquía de tu organización
+                  Solicitar agregar un equipo hijo
+                  Solicitar agregar o modificar un equipo padre
+                  Eliminar de un equipo a miembros de la organización
+                  Inhabilitar los debates de equipo para tu organización
+                  Eliminar un equipo
+              Administrar el acceso a los repositorios de tu organización
+                  Niveles de permiso del repositorio para una organización
+                  Configurar los permisos base para una organización
+                  Ver personas con acceso a tu repositorio
+                  Administrar el acceso de una persona a un repositorio de una organización
+                  Administrar el acceso de equipo a un repositorio de la organización
+                  Agregar colaboradores externos a los repositorios en tu organización
+                  Eliminar un colaborador externo de un repositorio de la organización
+                  Convertir a un miembro de la organización en un colaborador externo
+                  Convertir un colaborador externo en un miembro de la organización
+                  Reinstalar el acceso de un colaborador externo antiguo a tu organización
+              Administrar el acceso a los tableros de proyecto de tu organización
+                  Permisos de tablero de proyecto para una organización
+                  Administrar el acceso a un tablero de proyecto para los miembros de una organización
+                  Administrar acceso de equipo a un tablero de proyecto de una organización
+                  Administrar un acceso individual a un tablero de proyecto de una organización
+                  Agregar un colaborador externo al tablero de proyecto de tu organización
+                  Eliminar un colaborador externo de un tablero de proyecto de la organización
+              Administrar el acceso a las aplicaciones de tu organización
+                  Agregar administradores de App GitHub a tu organización
+                  Eliminar administradores de App GitHub de tu organización
+              Administrar configuraciones de la organización
+                  Renombrar una organización
+                  Transferir la propiedad de la organización
+                  Restringir la creación de repositorios en tu organización
+                  Configurar permisos para eliminar o transferir repositorios en tu organización
+                  Restringir cambios en la visibilidad de los repositorios en tu organización
+                  Administrar la política de bifurcación para tu organización
+                  Inhabilitar o limitar GitHub Actions para tu organización
+                  Configurar permisos para agregar colaboradores externos
+                  Permitir que personas eliminen propuestas en tu organización
+                  Configurar permisos de creación de equipos en tu organización
+                  Administrar etiquetas predeterminadas para los repositorios de tu organización
+                  Administrar la visualización de los nombres de los miembros en tu organización
+                  Eliminar una cuenta de una organización
+                  Convertir una organización en un usuario
+                  Integrar Jira al tablero de proyecto de tu organización
+              Migrar a permisos de organización mejorados
+                  Convertir un equipo de Propietarios a los permisos de organización mejorados
+                  Convertir un equipo de administradores a los permisos de organización mejorados
+                  Migrar los equipos de administradores a permisos de organización mejorados
+              Mantener segura tu organización
+                  Ver si los usuarios en tu organización han habilitado 2FA
+                  Prepararse para requerir autenticación de dos factores en tu organización
+                  Solicitar autenticación de dos factores en tu organización
+                  Reviewing the audit log for your organization
+                  Revisar las integraciones instaladas de tu organización
+              Administrar el acceso de Git a los repositorios de tu organización
+                  Acerca de las autoridades de certificación de SSH
+                  Administrar las autoridades de certificación SSH de tu organización
+          Escribir en GitHub
+              Introducción a la escritura y el formato en GitHub
+                  Acerca de escritura y formato en GitHub
+                  Sintaxis de escritura y formato básicos
+              Trabajar con formato avanzado
+                  Organizar la información en tablas
+                  Crear y resaltar bloques de código
+                  Referencias y direcciones URL autovinculadas
+              Trabajar con respuestas guardadas
+                  Acerca de las respuestas guardadas
+                  Crear una respuesta guardada
+                  Editar una respuesta guardada
+                  Eliminar una respuesta guardada
+                  Utilizar respuestas guardadas
+              Editar y compartir contenido con gists
+                  Crear gists
+                  Bifurcar y clonar gists
+          Crear, clonar y archivar repositorios
+              Crear un repositorio en GitHub
+                  Acerca de los repositorios
+                  Acerca de la visibilidad de un repositorio
+                  Crear un repositorio nuevo
+                  Crear un repositorio desde una plantilla
+                  Acerca de los archivos README
+                  Acerca de los propietarios del código
+                  Acerca de los idiomas del repositorio
+                  Generar licencia para un repositorio
+                  Crear un repositorio desde una plantilla
+                  Crear un repositorio solo para propuestas
+                  Límites para ver contenido y diferencias en un repositorio
+                  Duplicar un repositorio
+              Clonar un repositorio desde GitHub
+                  Clonar un repositorio
+                  Errores de clonación de HTTPS
+                  Error: Repositorio no encontrado
+                  Error: HEAD remoto remite a una referencia que no existe, imposible de controlar
+              Archivar un repositorio de GitHub
+                  Acerca de archivar repositorios
+                  Archivar repositorios
+                  Realizar una copia de seguridad de un repositorio
+          Utilizar GitHub
+              Comenzar con Git y GitHub
+                  Configurar tu nombre de usuario en Git
+                  Almacenar tus credenciales de GitHub en el caché dentro de Git
+                  ¿Por qué Git me pregunta siempre mi contraseña?
+                  Updating credentials from the macOS Keychain
+              Obtener información sobre Git
+                  Flujos de trabajo de Git
+                  Asociar editores de texto con Git
+                  Configurar Git para manejar finales de línea
+                  Ignorar archivos
+              Utilizar comandos de Git comunes
+                  Subir confirmaciones de cambios a un repositorio remoto
+                  Obtener cambios de un repositorio remoto
+                  Tratamiento de errores sin avance rápido
+              Administrar repositorios remotos
+                  Acerca de los repositorios remotos
+                  ¿Qué URL remota debería utilizar?
+                  Agregar un remoto
+                  Cambiar la URL de un remoto
+                  Renombrar un remoto
+                  Eliminar un remoto
+              Utilizar comandos de Git avanzados
+                  Acerca del cambio de base de Git
+                  Utilizar la rebase de Git en la línea de comando
+                  Resolver conflictos de fusión después de una rebase de Git
+                  Acerca de las fusiones de subárbol de Git
+                  Dividir una subcarpeta en un nuevo repositorio
+          Confirmar cambios en su proyecto
+              Crear y editar confirmaciones de cambios
+                  Acerca de las confirmaciones
+                  Crear una confirmación con distintos autores
+                  Cambiar un mensaje de confirmación
+              Ver y comparar confirmaciones de cambios
+                  Confirmar rama y etiquetas
+                  Comparar confirmaciones
+                  Diferencias entre las vistas de las confirmaciones
+              Confirmaciones de solución de problemas
+                  La confirmación existe en GitHub pero no en mi clon local
+                  ¿Por qué mis confirmaciones están vinculadas al usuario incorrecto?
+          Colaborar con propuestas y solicitudes de extracción
+              Resumen
+                  Flujo de GitHub
+                  Acerca de los modelos de desarrollo colaborativo
+                  Acerca de las conversaciones en GitHub
+              Trabajar con bifurcaciones
+                  Acerca de las bifurcaciones
+                  Configurar un remoto para una bifurcación
+                  Sincronizar una bifurcación
+                  Fusionar un repositorio ascendente dentro de tu bifurcación
+                  Permitir cambios para una rama de solicitud de extracción creada desde una bifurcación
+                  ¿Qué le sucede a las bifurcaciones cuando se elimina un repositorio o cambia la visibilidad?
+              Colaborar en repositorios con características de calidad de código
+                  Acerca de las verificaciones de estado
+                  Trabajar con ganchos de pre-recepción
+              Proponer cambios a tu trabajo con solicitudes de extracción
+                  Acerca de las ramas
+                  Crear y eliminar ramas en tu repositorio
+                  Acerca de las solicitudes de extracción
+                  Acerca de comparar ramas en solicitudes de extracción
+                  Agregar una solicitud de extracción
+                  Crear una solicitud de extracción desde una bifurcación
+                  Cambiar la etapa de una solicitud de extracción
+                  Solicitar una revisión de solicitud de extracción
+                  Cambiar la rama base de una solicitud de extracción
+                  Confirmar cambios a una rama de solicitud de extracción desde una bifurcación
+              Abordar conflictos de fusión
+                  Acerca de los conflictos de fusión
+                  Resolver un conflicto de fusión en GitHub
+                  Resolver un conflicto de fusión con la línea de comando
+              Revisar cambios en solicitudes de extracción
+                  Acerca de las revisiones de solicitudes de extracción
+                  Revisar los cambios propuestos en una solicitud de extracción
+                  Filtrar archivos en una solicitud de extracción
+                  Encontrar funciones y métodos cambiados en una solicitud de extracción
+                  Comentar en una solicitud de extracción
+                  Ver una revisión de solicitud de extracción
+                  Incorporar comentarios en tu solicitud de extracción
+                  Aprobar una solicitud de extracción con revisiones requeridas
+                  Descartar una revisión de una solicitud de extracción
+                  Revisar solicitudes de extracción localmente
+              Incorporar modificaciones desde una solicitud de extracción
+                  Acerca de las fusiones de las solicitudes de extracción
+                  Fusionar una solicitud de extracción
+                  Cerrar una solicitud de extracción
+                  Revertir una solicitud de extracción
+          Administrar tu trabajo en GitHub
+              Administrar tu trabajo con propuestas
+                  Acerca de las propuestas
+                  Crear una propuesta
+                  Eliminar una propuesta
+                  Abrir un informe de problemas desde un comentario
+                  Abrir una propuesta desde el código
+                  Transferir una propuesta a otro repositorio
+                  Anclar una propuesta a tu repositorio
+                  Crear un enlace permanente a un fragmento de código
+                  Acerca de las listas de tareas
+                  Acerca de la automatización para propuestas y solicitudes de extracción con parámetros de consulta
+                  Adjuntos de archivos en propuestas y solicitudes de extracción
+                  Asignar propuestas y solicitudes de extracción a otros usuarios de GitHub
+                  Ver todas tus propuestas y solicitudes de extracción
+                  Inhabilitar propuestas
+                  Enlazar una solicitud de extracción a un informe de problemas
+                  Acerca de duplicar propuestas y solicitudes de extracción
+              Etiquetar propuestas y solicitudes de extracción
+                  Acerca de las etiquetas
+                  Crear una etiqueta
+                  Aplicar etiquetas para propuestas y solicitudes de extracción
+                  Editar una etiqueta
+                  Eliminar una etiqueta
+              Administrar tableros de proyecto
+                  Acerca de los tableros de proyecto
+                  Crear un tablero de proyecto
+                  Editar un tablero de proyecto
+                  Vincular un repositorio a un tablero de proyecto
+                  Acerca de automatización de tableros de proyecto
+                  Configurar la automatización para tableros de proyecto
+                  Cerrar un tablero de proyecto
+                  Reabrir un tablero de proyecto cerrado
+                  Eliminar un tablero de proyecto
+                  Inhabilitar los tableros de proyecto en un repositorio
+                  Inhabilitar los tableros de proyecto en tu organización
+                  Cambiar la visibilidad del tablero de proyecto
+              Rastrear el progreso de tu trabajo con tableros de proyecto
+                  Agregar propuestas y solicitudes de extracción a un tablero de proyecto
+                  Agregar notas a tu tablero de proyecto
+                  Rastrear el progreso en tu tablero de proyecto
+                  Filtrar tarjetas en un tablero de proyecto
+                  Archivar tarjetas en un tablero de proyecto
+              Rastrear el progreso de tu trabajo con hitos
+                  Acerca de los hitos
+                  Crear y editar hitos para propuestas y solicitudes de extracción
+                  Asociar hitos con propuestas y solicitudes de extracción
+                  Filtrar propuestas y solicitudes de extracción por hito
+                  Ver el avance de tu hito
+              Buscar información en un repositorio
+                  Filtrar propuestas y solicitudes de extracción por asignatarios
+                  Filtrar propuestas y solicitudes de extracción por etiquetas
+                  Filtrar solicitudes de extracción por estado de revisión
+                  Clasificar propuestas y solicitudes de extracción
+                  Utilizar búsqueda para filtrar propuestas y solicitudes de extracción
+                  Compartir filtros
+          Construir una comunidad sólida
+              Configurar tu proyecto para contribuciones saludables
+                  Configurar pautas para los colaboradores de repositorios
+                  Agregar una licencia a un repositorio
+                  Agregar recursos de soporte a tu proyecto
+                  Creando un archivo predeterminado para la salud de la comunidad
+              Utilizar plantillas para promover informes de problemas y solicitudes de extracción útiles
+                  Acerca de las plantillas de propuestas y solicitudes de extracción
+                  Configurar las plantillas de reporte de problemas para tu repositorio
+                  Crear una plantilla de solicitud de extracción para tu repositorio
+                  Crear de forma manual una plantilla de propuesta única para tu repositorio
+              Moderar comentarios y conversaciones
+                  Administrar comentarios negativos
+                  Bloquear conversaciones
+                  Rastrear cambios en un comentario
+              Documentar tu proyecto con wikis
+                  Acerca de las wikis
+                  Agregar o eliminar páginas wiki
+                  Crear un pie de página o barra lateral para tu wiki
+                  Editar el contenido de una wiki
+                  Ver el historial de cambios de una wiki
+                  Cambiar permisos de acceso para wikis
+                  Inhabilitar las wikis
+              Colaborar con tu equipo
+                  Acerca de los debates de equipo
+                  Crear un debate del equipo
+                  Editar o eliminar un debate de equipo
+                  Anclar un debate del equipo
+          Buscar información en GitHub
+              Comenzar con la búsqueda en GitHub
+                  Acerca de la búsqueda en GitHub
+                  Entender la sintaxis de búsqueda
+                  Solucionar problemas de consultas de búsqueda
+                  Clasificar resultados de búsqueda
+                  Habilitar la búsqueda de repositorios de GitHub.com en tu cuenta de servidor de GitHub Enterprise
+              Buscar en GitHub
+                  Buscar archivos en GitHub
+                  Buscar repositorios
+                  Buscar temas
+                  Buscar código
+                  Buscar confirmaciones de cambios
+                  Buscar propuestas y solicitudes de extracción
+                  Buscar usuarios
+                  Buscar paquetes
+                  Buscar wikis
+                  Buscar en bifurcaciones
+          Importar tus proyectos
+              Importar código fuente a GitHub
+                  Importar un repositorio de Git usando la línea de comando
+                  Agregar un proyecto existente a GitHub utilizando la línea de comando
+                  Herramientas de migración de código fuente
+              Trabajar con Subversion en GitHub
+                  ¿Cuáles son las diferencias entre Subversion y Git?
+                  Soporte para clientes de Subversion
+                  Propiedades de Subversion admitidas por GitHub
+          Administrar un repositorio
+              Administrar configuraciones de repositorios
+                  Configurar la visibilidad de un repositorio
+                  Clasificar tu repositorio con temas
+                  Personalizar cómo aparecen los archivos cambiados en GitHub
+                  Acerca de las notificaciones por correo electrónico para las inserciones en tu repositorio
+                  Personalizar la vista previa de las redes sociales de tu repositorio
+                  Ver la actividad de implementación de tu repositorio
+                  Administrar la política de ramificación para tu repositorio
+                  Inhabilitar o limitar las acciones de GitHub para un repositorio
+                  Activar el acceso de lectura Git anónimo para un repositorio
+                  Configurar enlaces automáticos para referenciar recursos externos
+                  Renombrar un repositorio
+                  Transferir un repositorio
+                  Eliminar un repositorio
+              Administrar ramas en tu repositorio
+                  Changing the default branch
+                  Ver las ramas en tu repositorio
+                  Eliminar y restaurar ramas en una solicitud de extracción
+              Configurar fusiones de solicitudes de extracción
+                  Acerca de los métodos de fusión en GitHub
+                  Configurar combinación de confirmaciones para las solicitudes de extracción
+                  Configurar rebase de confirmación para las solicitudes de extracción
+                  Administrar la eliminación automática de ramas
+              Definir la capacidad de fusión de las solicitudes de extracción
+                  Acerca de las ramas protegidas
+                  Configurar ramas protegidas
+                  Acerca de las verificaciones de estado requeridas
+                  Tipos de verificaciones de estado requeridas
+                  Habilitar verificaciones de estado requeridas
+                  Acerca de las restricciones de rama
+                  Habilitar restricciones de rama
+                  Acerca de las revisiones requeridas para las solicitudes de extracción
+                  Habilitar revisiones requeridas para las solicitudes de extracción
+                  Acerca de la firma de confirmación requerida
+                  Habilitar la firma de confirmación requerida
+                  Requerir un historial de confirmaciones linear
+                  Habilitar subidas de información forzadas en una rama protegida
+                  Habilitar la eliminación de una rama protegida
+              Lanzar proyectos en GitHub
+                  Acerca de los lanzamientos
+                  Administrar lanzamientos en un repositorio
+                  Visualizar los lanzamientos y etiquetas de tu repositorio
+                  Vincular a lanzamientos
+                  Comparar lanzamientos
+                  Automatización de los formularios de lanzamiento con parámetros de consulta
+          Visualizar datos del repositorio con gráficos
+              Acceso a datos básicos del repositorio
+                  Acerca de los gráficos del repositorio
+                  Ver un resumen de la actividad de un repositorio
+                  Ver los colaboradores de un proyecto
+              Analizar cambios en el contenido de un repositorio
+                  Ver confirmaciones en un repositorio
+                  Ver incorporaciones y eliminaciones al contenido de un repositorio
+              Entender las conexiones entre repositorios
+                  Ver la red de un repositorio
+                  Detallar las bifurcaciones de un repositorio
+                  About the dependency graph
+                  Explorar las dependencias de un repositorio
+          Administrar vulnerabilidades de seguridad
+              Administrar vulnerabilidades en las dependencias de tus proyectos
+                  About alerts for vulnerable dependencies
+          Encontrar errores y vulnerabilidades de seguridad en tu código
+              Escanear tu código automáticamente para encontrar vulnerabilidades y errores
+                  About code scanning
+                  Enabling code scanning
+                  Managing alerts
+                  Configurar el escaneo de código
+                  Configuring for compiled languages
+                  Troubleshooting CodeQL
+              Integrating with code scanning
+                  About integration
+                  Running in your CI
+                  Configuring in your CI
+                  Cargar un archivo SARIF
+                  Soporte de SARIF
+          Administrar archivos en un repositorio
+              Administrar archivos en GitHub
+                  Crear nuevos archivos
+                  Agregar un archivo a un repositorio
+                  Mover un archivo a una nueva ubicación
+                  Editar archivos en tu repositorio
+                  Editar archivos en el repositorio de otro usuario
+                  Rastrear cambios en un archivo
+                  Eliminar archivos
+                  Renombrar un archivo
+                  Obtener enlaces permanentes a archivos
+              Administrar archivos utilizando la línea de comando
+                  Agregar un archivo a un repositorio utilizando la línea de comando
+                  Renombrar un archivo usando la línea de comando
+                  Mover un archivo a una nueva ubicación utilizando la línea de comando
+              Trabajar con archivos sin código
+                  Representar y comparar imágenes
+                  Visualizador de archivos 3D
+                  Representar datos CSV y TSV
+                  Representar documentos PDF
+                  Representar diferencias en documentos en prosa
+                  Mapear archivos geoJSON en GitHub
+                  Trabajar con archivos notebook Jupyter en GitHub
+          Administrar archivos grandes
+              Trabajar con archivos de gran tamaño
+                  Condiciones para archivos de gran tamaño
+                  Eliminar archivos del historial de un repositorio
+                  Distribuir binarios grandes
+              Control de versiones de archivos grandes
+                  Acerca de Large File Storage de Git
+                  Instalar Git Large File Storage
+                  Configurar el almacenamiento de archivos Git de gran tamaño
+                  Colaboración con el almacenamiento de archivos de gran tamaño de Git
+                  Mover un archivo en tu repositorio a Git Large File Storage
+                  Eliminar archivos de Git Large File Storage
+                  Resolver fallas de carga de Git Large File Storage
+          Extender GitHub
+          Comenzar con la API
+          Automatización Git con tokens de OAuth
+          Acerca de webhooks
+          Páginas de GitHub
+              Comenzar con Páginas de GitHub
+                  Acerca de GitHub Pages
+                  Crear un sitio de Páginas de GitHub
+                  Configurar una fuente de publicación para tu sitio de Páginas de GitHub
+                  Crear una página 404 personalizada para tu sitio de Páginas de GitHub
+                  Anular la publicación de un sitio de Páginas de GitHub
+              Configurar un sitio de Páginas de GitHub con Jekyll
+                  Acerca de las Páginas de GitHub y Jekyll
+                  Crear un sitio de Páginas de GitHub con Jekyll
+                  Probar tu sitio de Páginas de GitHub localmente con Jekyll
+                  Agregar contenido a tu sitio de Páginas de GitHub con Jekyll
+                  Configurar un procesador Markdown para tu sitio de páginas de GitHub usando Jekyll
+                  Agregar un tema a tu sitio de Páginas de GitHub con Jekyll
+                  Acerca de los errores de compilación para sitios de Páginas de GitHub
+                  Solucionar problemas de errores de compilación de Jekyll para sitios de Páginas de GitHub
+  Frecuentemente publicamos actualizaciones de nuestra documentación. Es posible que la traducción de esta página esté en curso. Para conocer la información más actual, visita la documentación en inglés. Si existe un problema con las traducciones en esta página, por favor infórmanos.
+        GitHub Docs
+                Explorar por producto
+                      GitHub.com
+                       GitHub.com
+                       Enterprise Administrators
+                       GitHub Actions
+                       GitHub Packages
+                       Developers
+                       REST API
+                       GraphQL API
+                       GitHub Insights
+                       GitHub Desktop
+                       Atom
+                       Electron
+                            Español (Spanish)
+                              English
+                              简体中文 (Simplified Chinese)
+                              日本語 (Japanese)
+                              Español (Spanish)
+                              Português do Brasil (Portuguese)
+      Versión del artículo: Enterprise Server 2.22
+      Free, Pro, and Team
+      Enterprise Server 2.22
+      Enterprise Server 2.21
+      Enterprise Server 2.20
+      Enterprise Server 2.19
+    GitHub.com
+    Autenticación
+    Mantener seguros tu cuenta y tus datos
+    Revisar tus llaves de implementación
+      Versión del artículo: Enterprise Server 2.22
+      Free, Pro, and Team
+      Enterprise Server 2.22
+      Enterprise Server 2.21
+      Enterprise Server 2.20
+      Enterprise Server 2.19
+        Revisar tus llaves de implementación
+        Debes revisar tus llaves de implementación para garantizar que no haya ninguna llave sin autorización (o posiblemente comprometida). También puedes aprobar llaves de implementación existentes que sean válidas.
+    ¿Te ayudó este documento?
+    ¿Quieres saber sobre las características y actualizaciónes de los documentos nuevos? ¡Regístrate para recibir actualizaciones!
+    Estamos mejorando nuestros documentos constantemente. Nos encantaría saber cómo crees que podemos hacerlo aún mejor.
+      ¿Qué problema tuviste?
+        Requerido
+        Elige una opción
+        La información no estaba clara
+        El contenido era confuso
+        El artículo no respondió a mi pregunta
+        Otro
+      Déjanos saber lo que podemos mejorar
+        Opcional
+      ¿Podemos contactarte si tenemos más preguntas?
+        Opcional
+      Enviar
+    ¡Gracias! Tu retroalimentación se ha emitido.
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  O, learn how to contribute.
+En GitHub Enterprise, visita la página principal del repositorio.
+Debajo de tu nombre de repositorio, da clic en  Configuración. 
+En la barra lateral izquierda, haz clic en Deploy keys (Llaves de implementación). 
+En la página de Llaves de implementación, anota las llaves de implementación asociadas a tu cuenta. Para las que no reconozcas o que estén desactualizadas, haz clic en Delete (Eliminar). Si hay llaves de implementación válidas que quieres conservar, haz clic en Approve (Aprobar). 
+Para obtener más información, consulta la sección "Administrar las llaves de despliegue".
+    ¿Te ayudó este documento?
+    ¿Quieres saber sobre las características y actualizaciónes de los documentos nuevos? ¡Regístrate para recibir actualizaciones!
+    Estamos mejorando nuestros documentos constantemente. Nos encantaría saber cómo crees que podemos hacerlo aún mejor.
+      ¿Qué problema tuviste?
+        Requerido
+        Elige una opción
+        La información no estaba clara
+        El contenido era confuso
+        El artículo no respondió a mi pregunta
+        Otro
+      Déjanos saber lo que podemos mejorar
+        Opcional
+      ¿Podemos contactarte si tenemos más preguntas?
+        Opcional
+      Enviar
+    ¡Gracias! Tu retroalimentación se ha emitido.
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  O, learn how to contribute.
+      Still need help?
+      Ask the GitHub community
+      Contactar con soporte técnico
+        Producto
+          Características
+          Seguridad
+          Empresa
+          Estudios de caso
+          Precios
+          Recursos
+        Plataforma
+          API de desarrollo
+          Socios
+          Atom
+          Electron
+          GitHub Desktop
+        Asistencia
+          Ayuda
+          Foro de la comunidad
+          Capacitación
+          Estado
+          Ponte en contacto con GitHub
+        Empresa
+          Acerca de
+          Blog
+          Carreras
+          Prensa
+          Tienda
+        © 2020 GitHub, Inc.
+        Términos 
+        Privacidad 

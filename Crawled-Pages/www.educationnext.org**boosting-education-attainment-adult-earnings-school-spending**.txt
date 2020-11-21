@@ -1,0 +1,145 @@
+            News
+Research
+Podcasts
+The Journal
+Blog
+Book Reviews
+	                Sign in
+	                Welcome!Log into your account
+	                your username
+	                your password
+	                Forgot your password?
+	                Privacy Policy
+	                Password recovery
+	                Recover your password
+	                your email
+				Search
+                            Sign in
+                            Welcome! Log into your account
+                            your username
+	                        your password
+                            Forgot your password? Get help
+                            Privacy Policy
+                            Password recovery
+                            Recover your password
+                            your email
+                            A password will be e-mailed to you.
+			Education Next
+    News
+Research
+Podcasts
+The Journal
+Blog
+Book Reviews
+		Subscribe
+                                                        NewsResearchPodcastsThe JournalBlogBook Reviews                                                                
+Latest Issue
+Fall 2020
+Vol. 20, No. 4
+                        ResearchSchool SpendingState PolicyThe JournalVol. 15, No. 4
+                            Boosting Educational Attainment and Adult Earnings
+					Does school spending matter after all?
+                                By C. Kirabo Jackson                                                                                                                            
+		C. Kirabo JacksonRucker C. JohnsonClaudia Persico
+            Per-pupil spending can vary drastically between school districts, with affluent suburban districts often outspending their neighbors by significant margins. Such disparate school spending is frequently identified as a primary culprit in our nation’s wide achievement gaps between students of different socioeconomic and racial backgrounds. The argument makes intrinsic sense to many: if one school district spends significantly more educating its students, then of course those students will perform better academically. Existing research on the topic, however, paints a muddier picture.
+In 1966, James Coleman conducted one of the largest education studies in history to analyze aspects of educational equality in the United States, including the relationship between school spending and student outcomes. Coleman found that variation in school resources (as measured by per-pupil spending and student-to-teacher ratios) was unrelated to variation in student achievement on standardized tests. In the decades following the release of the Coleman Report, the effect of school spending on student academic performance was studied extensively, and Coleman’s conclusion was widely upheld.
+Given that substantial funding is needed to hire teachers and staff, purchase instructional materials, and maintain facilities, the lack of a positive relationship between school spending and student outcomes is surprising. Two key limitations of previous studies, however, make it difficult to draw firm conclusions from their results—limitations that we address in this study.
+The first limitation is that test scores are imperfect measures of learning and may be only weakly linked to important long-term outcomes such as adult earnings. Yes, many interventions that boost test scores, such as being assigned to an effective teacher, have been shown to generate substantial gains in later earnings (see “Great Teaching,” research, Summer 2012). But several recent studies have also shown that effects on adult outcomes may go undetected by test scores. We address this limitation by focusing on the effect of school spending on such long-run outcomes as educational attainment and earnings rather than on test scores.
+The second limitation of previous work is that most national studies simply examine correlations between observed changes in school spending and changes in student outcomes. This is problematic because many changes in how schools are funded are designed to provide additional resources to districts at risk of low performance. For example, the federal Elementary and Secondary Education Act allocates additional funding to school districts with a high percentage of low-income students, who are more likely to have poor educational outcomes for reasons unrelated to school quality. Such compensatory policies generate a negative relationship between changes in school spending and student outcomes that would bias analyses of the effects of school spending based on correlations alone.
+We overcome this second limitation by focusing on the effects of exogenous shocks to school spending, that is, shocks that should be unrelated to family and neighborhood characteristics or the characteristics of any particular district or school. The exogenous shocks we use are the passage of court-mandated school-finance reforms (SFRs). In order to remove the confounding influence of unobserved factors that have an impact on both school spending and student outcomes, we calculate how much spending in a given school district would have been predicted to change due solely to the passage of an SFR, and use that prediction, rather than the spending change the district actually experienced, as our key variable. We then see if, within districts predicted to experience larger reform-induced spending increases, “exposed” cohorts (children young enough to have been in school when or after the reforms were passed) have better outcomes than “unexposed” cohorts (children who were too old at the time of passage to be affected by the reforms).
+Our findings provide compelling evidence that money does matter, and that additional school resources can meaningfully improve long-run outcomes for students. Specifically, we find that increased spending induced by SFRs positively affects educational attainment and economic outcomes for low-income children. While we find only small effects for children from nonpoor families, for low-income children, a 10 percent increase in per-pupil spending each year for all 12 years of public school is associated with roughly 0.5 additional years of completed education, 9.6 percent higher wages, and a 6.1-percentage-point reduction in the annual incidence of adult poverty.
+School-Finance Reforms
+To document the causal relationship between school spending and long-run outcomes, we isolate variation in spending that occurred in response to the passage of court-mandated SFRs. What do these finance reforms look like, and how do they affect school districts?
+In most states, prior to the 1970s, the majority of resources spent on K–12 schooling was raised at the local level, through local property taxes. Because the local property tax base is typically higher in areas with higher home values, and there are persistently high levels of residential segregation by socioeconomic status, heavy reliance on local financing enabled affluent districts to spend more per student. In response to lawsuits that identified large within-state differences in per-pupil spending across wealthy and poor districts, state supreme courts overturned school-finance systems in 28 states between 1971 and 2010, and many state legislatures implemented reforms that led to major changes in school funding. SFRs that began in the early 1970s and accelerated in the 1980s caused some of the most dramatic changes in the structure of K–12 education spending in U.S. history.
+Most SFRs changed spending formulas to reduce differences in per-pupil spending across districts within a state. To document the equalizing effect of these reforms, Figure 1 compares the changes in spending in previously low-spending and high-spending districts during the 10 years leading up to a court-mandated SFR and the two decades that followed. We classify districts as low- or high-spending based on whether their average per-pupil spending levels were in the bottom or top 25 percent of districts in their state as of 1972, before any such reforms were implemented.
+We see that court-mandated reforms were in fact successful at reducing spending gaps between previously low- and high-spending districts. In states that passed SFRs, low-spending districts initially experienced greater increases in per-pupil spending than similar districts in nonreform states, while high-spending districts experienced decreases. This general pattern was sustained over time.
+Having established that court-mandated reforms, on average, affected school spending differently in different kinds of districts, we use more detailed information about the specific reforms enacted in each state to “predict” reform-induced spending changes for each district nationwide. That is, we ignore what actually occurred in a given district and instead calculate what would have been expected to occur based on the experiences of all other districts with similar characteristics experiencing the same kind of reform. We can therefore be confident that these predicted spending changes are unrelated to any unobserved changes in that particular district that may have influenced both school spending and adult outcomes.
+The basic idea behind this approach is as follows: if certain kinds of reforms have systematic and predictable effects on certain kinds of school districts, then one can predict district-level changes in school spending based only on factors that are unrelated to potentially confounding changes in unobserved determinants of school spending and student outcomes (e.g., local commitment to education or the state of the local economy). With this clean, predicted variation in spending, one can then test whether in those districts that are predicted (based on pre-reform characteristics) to experience larger reform-induced spending increases, cohorts exposed to the reform have better outcomes than unexposed cohorts. By correlating outcomes with only the reform-induced variation in school spending (rather than all variation in spending), one removes the confounding effect of unobserved factors that might influence both school spending and student outcomes.
+Of course, this strategy is only viable to the extent that one’s predictions of spending increases are reasonably accurate. Fortunately, we are able to examine actual spending in each district to confirm that, after reforms, districts with larger predicted spending increases experienced larger actual spending increases. Figure 2a shows that exposed cohorts in reform districts predicted to experience larger per-pupil school spending increases did exactly that, while exposed cohorts in reform districts predicted to experience smaller spending increases saw little change in school spending. Importantly, as our results show, predicted increases in per-pupil spending induced by SFRs are correlated not only with actual spending increases, but with improved outcomes for students as well.
+Impact on Educational Attainment
+Because test scores are not necessarily the best measure of learning or of likely economic success, we examine instead the relationships between SFR-induced spending increases and several long-term outcomes: educational attainment, high school completion, adult wages, adult family income, and the incidence of adult poverty. Our data on these outcomes come from the Panel Study of Income Dynamics (PSID), a survey that has tracked a nationally representative sample of families and their offspring since 1968. In particular, we use information on the roughly 15,000 PSID sample members born between 1955 and 1985, who have been followed into adulthood through 2011.
+We find that predicted school spending increases are associated with higher levels of educational attainment. Figure 2b illustrates the effects of reform-induced changes in per-pupil spending on years of schooling completed. One can see clear patterns of improvement for exposed cohorts in districts with larger predicted spending increases. Cohorts with more years of exposure to higher predicted spending increases have higher completed years of schooling than cohorts from the same district who were unexposed or had fewer years of exposure. Also, the increases associated with exposure are larger in districts with larger predicted increases in spending (the line for districts with high predicted increases is consistently above that of districts with low predicted increases for the exposed cohorts). The patterns in timing and in intensity strongly indicate that policy-induced increases in school spending were in fact responsible for the observed increases in educational attainment. Taking into account the relationship between predicted and actual spending increases, we find that increasing per-pupil spending by 10 percent in all 12 school-age years increases educational attainment by 0.3 years on average among all children.
+Because prior research has shown that children from low-income families may be more sensitive to changes in school quality than children from more-advantaged backgrounds, we also separately examine the effects of spending on low-income and nonpoor children. We define children as being low-income if their family’s annual income fell below two times the federal poverty line at any point during childhood.
+For children from low-income families, increasing per-pupil spending by 10 percent in all 12 school-age years increases educational attainment by 0.5 years. In contrast, for nonpoor children, a 10 percent increase in per-pupil spending throughout the school-age years increases educational attainment by less than 0.1 years, and this estimate is not statistically significant.
+To put these results in perspective, the education gap between children from low-income and nonpoor families is one full year. Thus, the estimated effect of a 22 percent increase in per-pupil spending throughout all 12 school-age years for low-income children is large enough to eliminate the education gap between children from low-income and nonpoor families. In relation to current spending levels (the average for 2012 was $12,600 per pupil), this would correspond to increasing per-pupil spending permanently by roughly $2,863 per student.
+Predicted spending increases are also associated with greater probabilities of high school graduation, with larger effects for low-income students than for their nonpoor peers. Specifically, increasing per-pupil spending by 10 percent in all 12 school-age years increases the probability of high school graduation by 7 percentage points for all students, by roughly 10 percentage points for low-income children, and by 2.5 percentage points for nonpoor children. Figure 3 highlights the difference in effect size for these two childhood family-income groups and illustrates the closing of the high-school-graduation-rate gap between low-income and nonpoor children as a result of reform-induced spending increases.
+In short, increases in school spending caused by SFRs lead to substantial improvements in the educational attainment of affected children, with much larger impacts for children from low-income families.
+Impact on Adult Economic Outcomes 
+Our analyses also reveal sizable effects of increased school spending on low-income children’s labor market outcomes and their economic status as adults. For children from low-income families, increasing per-pupil spending by 10 percent in all 12 school-age years boosts adult hourly wages by $2.07 in 2000 dollars, or 13 percent (see Figure 4). In contrast, the estimated effect of spending increases on wages for children from nonpoor families is small and statistically insignificant.
+Increased per-pupil spending also has a positive effect on exposed students’ family income in adulthood. For children from low-income families, increasing per-pupil spending by 10 percent in all 12 school-age years increases family income by 17.1 percent. For children from nonpoor families, the estimated effect is small and not statistically significant. Effects on family income may reflect a) increases in one’s own income,
+b) increases in other income due to increases in the likelihood of being married, or c) increases in the income of one’s family members (which is likely if children tend to marry individuals who were also affected by spending increases). Consistent with the effects on family income, which reflect, in part, any family composition effects, we find that, among low-income children, a 10 percent spending increase is associated with a 10-percentage-point increase in the likelihood of being married and never divorced. Spending increases have no effect on the probability of ever being married, however, suggesting that the higher marriage rates reflect higher levels of marital stability.
+Our final measure of overall economic well-being is the annual incidence of adult poverty. Because this is an undesirable outcome, lower numbers are better. Our analysis finds that for children from low-income families, increasing per-pupil spending by 10 percent in all 12 school-age years reduces the annual incidence of poverty in adulthood by 6.1 percentage points. The effect for children from nonpoor families is once again small and statistically insignificant.
+In summary, for children from low-income families, predicted increases in school spending are associated with increases in adult economic attainment in line with their educational improvements, and likely reflect improvements in both the quantity and quality of education received. Taken together, these analyses show that increased school spending caused by SFRs had important positive effects on adult wages, family income, and poverty status.
+Methods Matter
+As mentioned previously, a large literature inspired by the Coleman Report has compared outcomes of individuals exposed to different levels of school spending without accounting for the possibility that changes in spending may have resulted from factors that also directly affect the outcomes of interest. One of the benefits of our approach is that we exploit only plausibly exogenous variation in school spending that is driven by court-mandated reforms.
+We confirm that our approach generates significantly different results than those that use observed increases in school spending, by comparing our results to those we would have obtained had we used actual rather than predicted increases as our measure of changes in district spending. For all outcomes, the results based simply on observed increases in school spending are orders of magnitude smaller than our estimates based on predicted SFR-induced spending increases, and most are statistically insignificant.
+This stark contrast provides an explanation for why our estimates differ from those of other influential studies in the literature, including the Coleman Report itself. We suspect prior studies that relied on variation in actual spending and found only modest effects of school spending may have been influenced by unresolved biases.
+Exploring Mechanisms
+Another possible explanation for our findings of large school-spending effects is that how the money is spent matters a lot and that districts use the resources that come from unexpected increases in school spending more productively than they use other resources. Given that money per se will not necessarily improve student outcomes (for example, using the funds to pay for lavish faculty retreats or to shore up employee pension funds will likely not have a large positive effect on student outcomes), understanding how the increased funding was spent is key to understanding why we find large spending effects where others do not.
+To shed light on the causal pathways through which education spending affects adult outcomes, we examine the effects of court-mandated spending increases on spending for school support services, physical capital, and instruction. We also estimate effects on student-to-teacher ratios, student-to-guidance-counselor ratios, teacher salaries, and the length of the school year.
+We find that when a district increases per-pupil school spending by $100 due to reforms, spending on instruction increases by about $70, spending on support services increases by roughly $40, spending on capital increases by about $10, while there are reductions in other kinds of school spending, on average. While instructional spending makes up about 60 percent and support services make up about 30 percent of all total school spending, the two categories account for about 70 percent and 40 percent of the marginal increase, respectively. This suggests that exogenous increases in school spending are more likely than other forms of school spending to go to instruction and support services. The increases for instruction and for support services (which include expenditures to hire more teachers and/or increase teacher salaries along with funds to hire more guidance counselors and social workers) may help explain the large, positive effects for students from low-income families.
+We also examine the effects of court-mandated spending increases on three commonly used proxies for school quality: the length of the school year, teacher salaries, and student-teacher ratios. We find that a 10 percent increase in school spending is associated with about 1.4 more school days, a 4 percent increase in base teacher salaries, and a 5.7 percent reduction in student-teacher ratios. Because class-size reduction has been shown to have larger effects for children from disadvantaged backgrounds, this provides another possible explanation for our overall results.
+While there may be other mechanisms through which increased school spending improves student outcomes, these results suggest that the positive effects are driven, at least in part, by some combination of reductions in class size, having more adults per student in schools, increases in instructional time, and increases in teacher salaries that may help to attract and retain a more highly qualified teaching workforce.
+Conclusion
+Previous national studies have examined the relationship between school resources and student outcomes and found little association for students born after 1950. Those studies, however, suffer from major design limitations. We address those limitations and demonstrate that, in fact, when examined in the right way, it becomes clear that increased school spending is linked to improved outcomes for students, and for low-income students in particular. Investigating the causal effect of school spending increases generated by the passage of SFRs, we conclude that increasing per-pupil spending yields large improvements in educational attainment, wages, and family income, and reductions in the annual incidence of adult poverty for children from low-income families. For children from nonpoor families, we find smaller effects of increased school spending on subsequent educational attainment and family income in adulthood.
+Taken together, these results highlight how improved access to school resources can profoundly shape the life outcomes of economically disadvantaged children and thereby reduce the intergenerational transmission of poverty. Money alone may not lift educational outcomes to desired levels, but our findings confirm that the provision of adequate funding may be critical. Importantly, we also find that how the money is spent matters. Therefore, to be most effective, spending increases should be coupled with systems that help ensure spending is allocated toward the most productive uses.
+C. Kirabo Jackson is associate professor of human development and social policy at Northwestern University. Rucker C. Johnson is associate professor of public policy at University of California, Berkeley. Claudia Persico is a doctoral candidate in human development and social policy at Northwestern University.
+This article is based on “The Effects of School Spending on Educational and Economic Outcomes: Evidence from School Finance Reforms,” The Quarterly Journal of Economics (forthcoming).
+					Last updated May 28, 2015
+					License this Content
+			C. Kirabo JacksonAuthor BioRucker C. JohnsonAuthor BioClaudia PersicoAuthor Bio				
+            Previous Article
+            CREDO Reveals Successful Charters’ Secret Sauce
+            May 14, 2015
+            Next Article
+            Taking On the Opportunity Gap
+            June 2, 2015
+We Recommend You Read
+		EdNext Podcast: Unmasking School Spending
+		by Education Next
+		Training School Leaders to Spend Wisely
+		by Marguerite Roza
+		The Costs of Cutting School Spending
+					Lessons from the Great Recession
+		by C. Kirabo Jackson
+                                    C. Kirabo Jackson	                
+The Journal
+Fall 2020
+Vol. 20, No. 4
+Education Next is a journal of opinion and research about education policy.
+Subscribe Today
+NOT CONVINCED?
+Get a Sample copy of The Journal
+Sign Up Today
+			Newsletter
+			Notify Me When Education Next Posts a Big Story
+					Subscribe
+Business + Editorial Office
+Program on Education Policy and Governance
+Harvard Kennedy School
+79 JFK Street, Cambridge, MA 02138
+Phone (617) 496-5488
+Fax (617) 496-4428
+EmailEducation_Next@hks.harvard.edu
+University of Chicago Press(for subscription service to the printed journal)
+1427 E. 60th Street, Chicago, IL 60637-2902
+Phone (773) 753-3347, or toll-free in U.S. and Canada (877) 705-1878
+Email subscriptions@educationnext.org
+                DiscoverAbout Us
+The Journal
+EdFacts
+EdNext Poll
+Opinion
+Press
+Interactive Graphics
+Our Authors
+Contact Us
+                More InformationAdvertise
+User Agreement
+Privacy Policy
+Reporting Copyright Infringement
+Guidelines For Submissions
+Permissions
+FAQ
+                Web-only content Copyright © 2020 President &amp; Fellows of Harvard College
+Journal content Copyright © 2020 Education Next Institute, Inc.Site Credits            

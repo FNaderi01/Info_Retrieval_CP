@@ -1,0 +1,331 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Mothers In Action Hosted 4th Annual Read Across America Day            
+				By Kristina Dixon, Contributing Writer                
+	                	                Published March 5, 2020
+		Aline Bakewell and Danny J. Bakewell, Sr. reading to students at Danny J. Bakewell, Primary Center (Kristina Dixon/LA Sentinel)
+Mothers In Action hosted their 4th Annual Read Across America Day celebrating Dr. Seuss’s birthday on March 2 at Danny J. Bakewell, Sr., Primary Center and Marcus Garvey School.
+With excitement and curiosity for the special day of reading, students proudly wore their signature red and white striped Dr. Seuss top hats. Youth ambassadors and MIA mentees greeted and escorted guests throughout the day.
+Authors and community leaders came to support the students by reading their own books and their favorite Dr. Seuss books.
+George Weaver reading to student at Danny J. Bakewell, Primary Center (Kristina Dixon/LASentinel)
+“Nobody Knows My Name” by Elizabeth “Betty” Johnson said, “I enjoy reading my books to the students. This is a wonderful opportunity. My book is about my grandson and his nickname. It’s really prevalent in the African American community to have nicknames.”
+        ADVERTISEMENT        
+“The Talented Tenth” book series by Ashley Feazell said, “My books are Pan African and cover Black people all over the world, from Beyonce, Marsai Martin, Tyler Perry and Celia Cruz. My books cover past and present figures. The goal is to give kids self-representation and self-esteem. So they can see someone who looks like them doing it, so they can do it too.”
+“Bully Blossom” by Latrice Slaughter, “My books are inspired by self love. We have to teach children at an early age to love and care for themselves. I teach children how to be their own best friend.”
+Aline Bakewell said, “We come to support the school and promote literacy. Whatever you pursue in the future, you have to be able to read, comprehend and appreciate literature on a very basic and spiritual level.”
+Dr. George McKenna, LAUSD School Board member (Kristina Dixon/LA Sentinel)
+Danny J. Bakewell, Sr., publisher of L.A. Sentinel and L.A. Watts Times said, “Like my wife said, it’s spiritual. Whether you read the Bible or the Quran, to learn more about God and how you fit into this world, you have to be able to read. The children are so special. And, to have the opportunity to read and motivate them by seeing people who are interested in them and taking the time to share with them our skills to help them become successful is special. The school is named after myself and my family, it gives us added support.”
+Brandon I. Brooks managing editor for L.A. Sentinel Newspaper and L.A. Watts Times said, “Read Across America is a day of giving back and education awareness. I remember looking up to people that would come to my school and dreaming one day of being in a position where someone would care enough for me to give back. Interacting with African American kids means a lot to me. I’m thankful and blessed to be here today.”
+Cora Jackson Fossett, staff writer and religion editor for L.A. Sentinel Newspaper said, “This is a great opportunity to share the joy of reading with the younger generation. I was honored to be asked to participate because I love reading and I’m so glad to know that there are people coming behind me that like reading too.”
+LAPD officer Divinity and Firefighter/Inspector Mike Nealy (Kristina Dixon/LA Sentinel)
+“Reading is extremely important to me, my son is in 8th grade. It’s really important for us to continue to read so we can expand his universe and his experience. I’m participating today so I can give back to the community.” Said, homeschool teacher Chelsie Young.
+Arhomuz Aubry of Schoolyard Vanguard Artz said, “It’s exciting to get people to read and understand what’s going on. I’m here to take time and help children read and make the world better.”
+“Anything dealing with literacy and interacting with the future of our young people is very important. Anytime I’m invited to spend time reading and mentoring them, I’m always going to be on point,” said, LAPD South Traffic Motor Officer Jerome Divinity. He was joined by his fellow officers Health Adams &amp; Paul Mosley.
+Tracy Mitchell President of Mothers In Action said, “Reading can take you a lot of places. Literacy is very important in our community. It is on us as a village, to make our children excited about reading. I am very thankful to our village of readers, youth ambassadors, community partners and my staff that made today such a success.”
+Marcus Garvey School Mentees &amp; Principal
+Eighth grade Marcus Garvey student, Mitchell Thomas said, “I’m reading ‘Pete Has Big Feet.’ I want to read today to inspire children to be authors.” Mitchell, Kennedy Mitchell-Egbo and Solo Bailey are all members of Youball Foundation Basketball League and came to read as a community service effort demonstrating that their lives are more than basketball.
+George Weaver vice president of Special Programs for Brotherhood Crusade said, “Literacy is key for success. I’m here to help take our young people forward. Today I’m reading ‘The Cat in the Hat.’”
+“Reading is fundamental, you can not do anything without reading. This is a wonderful program, I wish it the best and hope to move it forward and get as many children involved as possible.” Said, Ernestine Lee Henning, former Supervisor of the Women’s missionary society for AME Church.
+“Once I got my library card, I learned to love books, you can live through books.” Said, Lena Cole Dennis, president of Arc Mid-Cities Association for Developmental and Intellectual Disabilities.
+Participants of Read Across America! (Kristina Dixon/L.A. Sentinel)
+“A day to celebrate literacy. It has been our focus here at Bakewell Primary Center for the seven years. If children can access the curriculum, it really opens their world up. I remember being a good reader, but not an avid reader until my 5th grade teacher, Mr. Friedman started reading to us. It made me love reading and I thank him for that. It made me appreciate and love reading, that is what I’m doing here, fostering a love for reading,” said Principal Karen Ward of Danny J. Bakewell Sr., Primary Center.
+Linda Saunders, executive director of Marcus Garvey School said, “We’re so pleased to have our brothers and sisters come out from our community and share with us on Dr. Seuss’s birthday. This is our 4th year of Read Across America and we look forward to it, especially the children.”
+Readers also included members of LAUSD school board Dr. George Mckenna III &amp; Michael Romero, Oscar Joel Bryant members Kevin Smith and Marcia Goodman, retired Firefighter/Inspector Mike Neely.
+		Categories: Education | Family | Local | News | News (Family) Tags: #kristinadixon | #lasentinelnews | 4th Annual Read Across America Day | Aline Bakewell | Arhomuz Aubry | Ashley Feazell | Brandon I. Brooks | Brotherhood Crusade | Cora Jackson-Fossett | Danny J. Bakewell Sr | Danny J. Bakewell Sr Primary Center | Dr. George McKenna III | Dr. Seuss | Elizabeth "Betty" Johnson | George Weaver | Health Adams | Jerome Divinity | Kennedy Mitchell-Egbo | Kevin Smith | Kristina Dixon | L.A. Sentinel Newspaper | L.A. Watts Times | LAPD | Latrice Slaughter | literacy | Marcia Goodman | Marcus Garvey School | Michael Romero | Mike Neely | Mitchell Thomas | Mothers in Action | Oscar Joel Bryant | Paul Mosley | reading | Solo Bailey | Tracy Mitchell		
+						Lacey Wins Big, Wesson And Ridley-Thomas Headed for Run-Off
+						L.A. County Declares State of Emergency for Coronavirus
+						James W. Sweeney Obituary
+						NBA TO SUSPEND SEASON FOLLOWING TONIGHT’S GAMES
+						Evers-Manley Headlines CCCF Women’s Day Service
+						Update: Judis Beats Her Own World Record for Jumping Rope
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

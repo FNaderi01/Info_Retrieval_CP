@@ -1,0 +1,321 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Colson Whitehead, Rep. John Lewis win National Book Awards            
+				By HILLEL ITALIE, AP National Writer                
+	                	                Published November 27, 2016
+		Colson Whitehead’s “The Underground Railroad” has won the National Book Award for fiction presented Wednesday night, Nov. 16, 2016, during a dinner ceremony at Cipriani Wall Street in Manhattan. AP
+On a night of nervous laughter and cathartic tears and applause, Colson Whitehead’s “The Underground Railroad” won the National Book Award for fiction and Democratic U.S. Rep. John Lewis, of Georgia, shared the prize for young people’s literature for a graphic novel about his civil rights activism.
+The awards were presented Wednesday during an emotional dinner ceremony at Cipriani Wall Street in Manhattan, with Larry Wilmore serving as host and President-elect Donald Trump the running theme and arch-villain. From Wilmore’s opening monologue through virtually every award announcement, speakers in the deep-blue literary community addressed Trump’s stunning upset of Democrat Hillary Clinton and how authors should respond.
+“Outside is the blasted hellhole wasteland of Trumpland, which we’re going to inhabit,” said Whitehead, whose Oprah Winfrey-endorsed narrative about an escaped slave already was the year’s most talked about literary work. “I hit upon something that made me feel better: be kind to everybody, make art and fight the power.”
+        ADVERTISEMENT        
+Daniel Borzutzky’s “The Performance of Becoming Human” won for poetry and historian Robert Caro was presented an honorary medal for lifetime achievement.
+No speaker moved the crowd more than Lewis, who collaborated with Andrew Aydin and Nate Powell on a trilogy of illustrated works titled “March.” Cited Wednesday for the finale, “March: Book Three,” the 76-year-old Lewis became tearful as he remembered a librarian in his native Alabama who refused to let him borrow books because of his skin color. He then remembered an elementary school teacher who told him “Read, my child, read!”
+“And I tried to read everything,” he said.
+Lewis’ win marked two rarities for the National Book Awards, now in their 67th year: a prize for a graphic novel and for a member of Congress. In 2004, the government-drafted “9-11 Commission Report” was a nonfiction finalist.
+In this Sept. 19, 2016 file photo, Rep. John Lewis, D-Ga., reacts after being presented with the Liberty Medal for his dedication to civil rights during a ceremony in Philadelphia. Lewis, who collaborated on a trilogy of graphic novels titled “March” about his civil rights activism, was among the winners of the young people’s literature prize. (AP Photo/Matt Slocum, File)
+Wilmore, whose rueful jokes about Trump at the beginning of the night seemed to depress rather than amuse the gathering of writers, publishers, editors and others, got a good laugh at the end when he called the evening the BET (Black Entertainment Television) production of the National Book Awards. The awards are presented by the National Book Foundation and the ceremony was the first under executive director Lisa Lucas, the first black and first woman to have the job. Ibram X. Kendi’s “Stamped from the Beginning: The Definitive History of Racist Ideas in America” won for nonfiction and an honorary award was given to the founders of Cave Canem, a Brooklyn-based foundation for black poets.
+“I spent years looking at the absolute worst of America, its horrible history of racism, but in the end I never lost faith,” Kendi said. “In the midst of the human ugliness of racism, there is the human beauty of the resistance to racism.”
+Each of the winners in the four competitive categories received $10,000. Choices are made by panels of judges that include writers, critics, journalists and scholars.
+Many of the nominated books seemed to take on added relevance and even urgency over the past week. “The Underground Railroad” is a deep look into the culture of this country during the Civil War, and Arlie Russell Hochschild’s nonfiction “Strangers In Their Own Land” a modern journey to a conservative Louisiana community.
+Fiction nominee Jacqueline Woodson, whose “Another Brooklyn” is a coming of age story about a black girl in the 1970s, said she was feeling a “a mixture of sobriety and hope” and “gratitude for what is both a distraction and a call to work.” Nonfiction nominee Andres Resendez said we were living in a “new era” and needed more than ever to study the past.
+“We still have much to learn and discover about this shameful part of our history, and thus the exploration will surely continue and intensify,” said Resendez, a finalist for “The Other Slavery: The Uncovered Story of Indian Enslavement in America.”
+Every speech seemed to touch upon the present even when Trump wasn’t named. Caro spoke of his books about Lyndon Johnson and municipal builder Robert Moses and how his aim was to show how political power really operated. A co-founder of Cave Canem, Cornelius Eady, referred to a certain building (Trump Tower) further north in Manhattan and how he feared that the President-elect and his aides were “trying to write a narrative about who we are and who we are supposed to be and what they intend to do about it.”
+“It’s our duty to make sure we get to write our story …” he said, “the fullness of who we are, the contradictions of who we are, in our own language, in our own way.”
+		Categories: National | News Tags: Colson Whitehead | HILLEL ITALIE | National Book Award | Rep. John Lewis		
+						NNPA President Recalls Castro’s Fight Against Apartheid
+						Council President Wesson Preserves Annual Turkey and Grocery Giveaway Tradi...
+						Ivie, McNeill &amp; Wyatt Welcomes New Partner Rodney S. Diggs
+						Voting Rights Activists Speak on the Aftermath of the 2016 Elections
+						U.S. Senators Demand Study on Federal Advertising in Black-owned Media
+						HBCU Students Speak with Charles Koch During Thurgood Marshall College Fund...
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

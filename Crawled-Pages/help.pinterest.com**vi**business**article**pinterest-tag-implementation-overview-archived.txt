@@ -1,0 +1,172 @@
+      Nhảy đến nội dung
+        Trung tâm Trợ giúp
+  Header navigation
+                  Tổng quan
+                  Doanh nghiệp
+  Header navigation - actions
+        Tìm kiếm
+  Header navigation - anonymous
+        Đăng nhập
+        Trang chủ Pinterest
+  Open menu
+          Tổng quan
+          An toàn và truy cập tài khoản
+          Sự cố với Pinterest
+          Pháp lý &amp; Quyền riêng tư
+          Quản lý tài khoản của bạn
+          Ghim và bảng
+          Doanh nghiệp
+          Ads measurement
+          Ads reporting
+          Build your organic presence on Pinterest
+          Quản lý hồ sơ doanh nghiệp của bạn
+          Shopping on Pinterest
+          Thanh toán và tính phí Ghim Quảng cáo
+          Quảng cáo trên Pinterest
+            An toàn và truy cập tài khoản
+            Sự cố với Pinterest
+            Pháp lý &amp; Quyền riêng tư
+            Quản lý tài khoản của bạn
+            Ghim và bảng
+            Ads measurement
+            Ads reporting
+            Build your organic presence on Pinterest
+            Quản lý hồ sơ doanh nghiệp của bạn
+            Shopping on Pinterest
+            Thanh toán và tính phí Ghim Quảng cáo
+            Quảng cáo trên Pinterest
+              Triển khai thẻ Pinterest
+            Thẻ Pinterest theo dõi hành động mà người dùng thực hiện trên trang web của bạn sau khi xem các Ghim quảng cáo. Hãy gắn thẻ Pinterest trên trang web của bạn để thu thập thông tin chi tiết về đối tượng và đo lường lợi nhuận trên chi tiêu quảng cáo (RoAS).
+Khi bạn thêm thẻ Pinterest vào trang web của mình, bạn có thể tìm hiểu quảng cáo nào dẫn đến nhiều chuyển đổi hơn và cách những người tương tác với trang web của bạn.
+Mã cơ sở
+Mã cơ sở là nền tảng của thẻ Pinterest. Đặt nó trên mỗi trang của trang web của bạn, cho dù bạn có đang theo dõi các sự kiện chuyển đổi cụ thể trên trang đó hay không.
+Mã sự kiện
+Bạn sẽ đặt mã sự kiệns trên các trang mà bạn muốn theo dõi các chuyển đổi cụ thể. Sau khi bạn đặt mã cơ sở, hãy đưa mã sự kiện vào nơi bạn muốn xem những hành động mà người dùng đang thực hiện, ví dụ như nếu họ đã đăng ký hoặc nếu họ đã mua nội dung nào đó.
+Tổng quan về quy trình
+Lưu ý rằng các hướng dẫn sau đây giả định bạn đang sử dụng JavaScript và HTML.
+Thiết lập trình quản lý quảng cáo
+Đăng nhập vào tài khoản kinh doanh Pinterest của bạn và chuyển đến Trang chuyển đổi trong trình quản lý quảng cáo
+Nhấp vào Tạo thẻ Pinterest
+Nhấp vào tên của thẻ Pinterest để sao chép mã cơ sở bao gồm ID thẻ duy nhất của bạn
+Thực hiện đối sánh nâng cao tùy chọn
+Bạn có tùy chọn triển khai Kết hợp nâng cao để bạn có thể thấy nhiều chuyển đổi hơn bằng cách theo dõi hành động trên trang web khi không có cookie của Pinterest. Nó sẽ gửi lại địa chỉ email an toàn với các chuyển đổi của bạn để giúp tăng khả năng hiển thị mà bạn có vào chuyển đổi của bạn. Nếu bạn sử dụng thẻ &lt;img&gt; , bạn sẽ phải chuyển đổi các địa chỉ email của mình trước khi chuyển chúng vào thẻ.
+Tìm mã cơ sở
+Thay thế &lt;user_email_address&gt; trong mã với thông tin cụ thể của bạn
+Thêm thẻ Pinterest vào trang web của bạn
+Định vị tiêu đề cho trang web của bạn.
+Đặt mã cơ sở trong tiêu đề toàn cầu của trang web của bạn giữa các thẻ &lt;head&gt; và &lt;/head&gt; để mã chạy trên mỗi trang
+Truy cập vào các trang mà bạn muốn theo dõi một sự kiện cụ thể, như khi ai đó mua gì đó hoặc khi ai đó thêm một mặt hàng vào giỏ hàng của họ.
+Thêm mã sự kiện tương ứng vào trang, đảm bảo rằng mã cơ sở sẽ chạy trước mã sự kiện.
+Xác minh thẻ Pinterest của bạn
+Tải xuống thẻ Pinterest trợ giúp tiện ích trên Google Chrome để xem thẻ chuyển đổi và dữ liệu sự kiện liên quan được gửi từ trang web của bạn
+Vào trình quản lý quảng cáo và tìm bảng lịch sử sự kiện trên trang chuyển đổi để xem các chuyển đổi được kích hoạt bởi thẻ của bạn trong vòng 24 giờ qua
+Xem chuyển đổi
+Bạn có thể xem các chuyển đổi được phân bổ trong Trình quản lý quảng cáo.
+Sau khi chạy chiến dịch quảng cáo, hãy đăng nhập vào tài khoản Pinterest của bạn và truy cập trình quản lý quảng cáo
+Nhấp vào Quảng cáo ở góc trên cùng bên trái và chọn Báo cáo
+Đi tới Bảng: Hiệu suất dưới biểu đồ trong bảng báo cáo
+Tìm hiểu thêm về bảng điều khiển báo cáo.
+Thêm tài nguyên
+Mã cơ sở
+Mã sự kiện
+Ví dụ về mã sự kiện
+Các ví dụ về mã cơ sở và mã sự kiện đi cùng nhau.
+Đối sánh nâng cao 
+Mã IMG
+Trình trợ giúp về thẻ Pinterest
+  Các bài viết khác
+  Skip Các bài viết khác Links
+      Thẻ Pinterest
+                        Cài đặt mã cơ sở
+                                Cài đặt, xóa hoặc khôi phục Thẻ Pinterest
+                                Kiểm tra các sự kiện Thẻ Pinterest
+            Xem thêm
+                                Mã cơ sở
+                                Mã IMG
+                                Mã sự kiện
+                                Thêm mã sự kiện
+                                Theo dõi chuyển đổi bằng thẻ Pinterest
+                                Tiện ích mở rộng Chrome Pinterest Tag Helper
+                                Triển khai thẻ Pinterest
+                                Ví dụ về các mã cơ sở và mã sự kiện kết hợp
+                                Ví dụ về mã sự kiện
+                                Đối sánh nâng cao
+      Tích hợp thẻ Pinterest
+                        Thêm thủ công thẻ Pinterest vào Shopify
+      Theo dõi bên thứ ba
+                        Theo dõi chuyển động và bên thứ ba
+                                Theo dõi quảng cáo bộ sưu tập
+      Conversions
+                        Tải lên lượt chuyển đổi bằng LiveRamp
+                                Tải lên lượt chuyển đổi với Trình quản lý quảng cáo
+                                Tải lên lượt chuyển đổi để đo lường
+  End of Các bài viết khác Links
+            Bạn vẫn cần trợ giúp?
+                Liên hệ
+    User feedback
+              Bài viết này có hữu ích không?
+        vui
+        buồn
+        collection_fields
+        Chúng tôi có thể cải thiện bài viết này bằng cách nào?
+      Additional Response
+      Leave this field blank
+        Pinterest sử dụng cookie để mang đến cho bạn trải nghiệm tốt nhất có thể.
+        Đã hiểu!
+    Skip Footer Menu
+    Chọn ngôn ngữ
+                      English (US)
+                              Bahasa Indonesia
+                              Čeština
+                              Dansk
+                              Deutsch
+                              English (UK)
+                              Español
+                              Français
+                              Italiano
+                              Magyar
+                              Nederlands
+                              Norsk bokmål
+                              Polski
+                              Português (Brasil)
+                              Português (Europeu)
+                              Română
+                              Slovenčina
+                              Suomi
+                              Svenska
+                              Filipino
+                              Tiếng Việt
+                              Türkçe
+                              Ελληνικά
+                              Русский
+                              Ukrainian
+                              ภาษาไทย
+                              简体中文
+                              繁體中文
+                              한국어
+                              日本語
+            Giới thiệu
+                    Impressum
+                    Pinterest là gì
+                    Trang Pinterest
+                    Blog kỹ thuật
+                    Hướng dẫn thương hiệu
+                    Nghề nghiệp
+                    Trung tâm Trợ giúp
+                    Pinterest Labs
+            Chính sách của chúng tôi 
+                    Bản quyền
+                                          và
+                            thương hiệu
+                    Quảng cáo được cá nhân hóa
+                    Điều khoản Dịch vụ
+                    Quyền riêng tư
+                                          và
+                            cookies
+            Thông tin khác
+                    Dành cho doanh nghiệp
+                    Dành cho nhà phát triển
+                    Dành cho báo chí
+                    Dành cho nhà đầu tư
+                    End of Footer
+    © Pinterest 2020

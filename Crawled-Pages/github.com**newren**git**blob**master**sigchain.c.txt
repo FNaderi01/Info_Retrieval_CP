@@ -1,0 +1,190 @@
+      Skip to content
+                Sign up
+                    Why GitHub?
+                    Features →
+                      Code review
+                      Project management
+                      Integrations
+                      Actions
+                      Packages
+                      Security
+                      Team management
+                      Hosting
+                      Mobile
+                      Customer stories →
+                      Security →
+                Team
+                Enterprise
+                    Explore
+                      Explore GitHub →
+                    Learn &amp; contribute
+                      Topics
+                        Collections
+                      Trending
+                      Learning Lab
+                      Open source guides
+                    Connect with others
+                      Events
+                      Community forum
+                      GitHub Education
+                      GitHub Stars program
+                Marketplace
+                    Pricing
+                    Plans →
+                      Compare plans
+                      Contact Sales
+                      Nonprofit →
+                      Education →
+     -->
+        In this repository
+        All GitHub
+      ↵
+      Jump to
+      ↵
+    No suggested jump to results
+        In this repository
+        All GitHub
+      ↵
+      Jump to
+      ↵
+        In this repository
+        All GitHub
+      ↵
+      Jump to
+      ↵
+          Sign in
+              Sign up
+      {{ message }}
+      newren
+    /
+    git
+    forked from git/git
+    Watch
+      1
+      Star
+      1
+          Fork
+        20k
+            Code
+            Pull requests
+              0
+            Actions
+            Projects
+              0
+            Security
+            Insights
+            More
+                    Code
+                    Pull requests
+                    Actions
+                    Projects
+                    Security
+                    Insights
+    Permalink
+          Dismiss
+        Join GitHub today
+        GitHub is home to over 50 million developers working together to host and review code, manage projects, and build software together.
+        Sign up
+      master
+        git/sigchain.c
+        Go to file
+                Go to file
+                T
+                  Go to line
+                  L
+                Copy path
+          Cannot retrieve contributors at this time
+      61 lines (52 sloc)
+    1.09 KB
+      Raw
+        Blame
+        #include "cache.h"
+        #include "sigchain.h"
+        #define SIGCHAIN_MAX_SIGNALS 32
+        struct sigchain_signal {
+        	sigchain_fun *old;
+        	int n;
+        	int alloc;
+        };
+        static struct sigchain_signal signals[SIGCHAIN_MAX_SIGNALS];
+        static void check_signum(int sig)
+        {
+        	if (sig &lt; 1 || sig &gt;= SIGCHAIN_MAX_SIGNALS)
+        		BUG("signal out of range: %d", sig);
+        }
+        int sigchain_push(int sig, sigchain_fun f)
+        {
+        	struct sigchain_signal *s = signals + sig;
+        	check_signum(sig);
+        	ALLOC_GROW(s-&gt;old, s-&gt;n + 1, s-&gt;alloc);
+        	s-&gt;old[s-&gt;n] = signal(sig, f);
+        	if (s-&gt;old[s-&gt;n] == SIG_ERR)
+        		return -1;
+        	s-&gt;n++;
+        	return 0;
+        }
+        int sigchain_pop(int sig)
+        {
+        	struct sigchain_signal *s = signals + sig;
+        	check_signum(sig);
+        	if (s-&gt;n &lt; 1)
+        		return 0;
+        	if (signal(sig, s-&gt;old[s-&gt;n - 1]) == SIG_ERR)
+        		return -1;
+        	s-&gt;n--;
+        	return 0;
+        }
+        void sigchain_push_common(sigchain_fun f)
+        {
+        	sigchain_push(SIGINT, f);
+        	sigchain_push(SIGHUP, f);
+        	sigchain_push(SIGTERM, f);
+        	sigchain_push(SIGQUIT, f);
+        	sigchain_push(SIGPIPE, f);
+        }
+        void sigchain_pop_common(void)
+        {
+        	sigchain_pop(SIGPIPE);
+        	sigchain_pop(SIGQUIT);
+        	sigchain_pop(SIGTERM);
+        	sigchain_pop(SIGHUP);
+        	sigchain_pop(SIGINT);
+        }
+            Copy lines
+            Copy permalink
+        View git blame
+       -->
+        Go
+        © 2020 GitHub, Inc.
+          Terms
+          Privacy
+  Cookie Preferences
+          Security
+          Status
+          Help
+          Contact GitHub
+          Pricing
+        API
+        Training
+          Blog
+          About
+    You can’t perform that action at this time.
+    You signed in with another tab or window. Reload to refresh your session.
+    You signed out in another tab or window. Reload to refresh your session.
+  We use optional third-party analytics cookies to understand how you use GitHub.com so we can build better products.
+              Learn more.
+              Accept
+              Reject
+  We use optional third-party analytics cookies to understand how you use GitHub.com so we can build better products.
+              You can always update your selection by clicking Cookie Preferences at the bottom of the page.
+              For more information, see our Privacy Statement.
+              Essential cookies
+              We use essential cookies to perform essential website functions, e.g. they're used to log you in. 
+                Learn more
+              Always active
+              Analytics cookies
+              We use analytics cookies to understand how you use our websites so we can make them better, e.g. they're used to gather information about the pages you visit and how many clicks you need to accomplish a task. 
+                Learn more
+                Accept
+                Reject
+            Save preferences

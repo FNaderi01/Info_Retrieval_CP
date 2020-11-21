@@ -1,0 +1,327 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+WATCH: 2020 Democrats Lay Blame on Trump’s Rhetoric for Shootings            
+				By Associated Press -HUNTER WOODALL and HOPE YEN                
+	                	                Published August 4, 2019
+MANCHESTER, N.H. (AP) — Democratic presidential candidates sought to lay blame Sunday on President Donald Trump following a pair of mass shootings in Ohio and Texas, saying his language against minorities promotes racial division and violence.
+At public events and on television, several candidates pointed to a need for more gun restrictions, such as universal background checks. But they directed much of their criticism at Trump, seeking to draw a link between the shootings in Dayton and El Paso that have left more than two dozen dead and months of presidential rhetoric against immigrants and people of color.
+        ADVERTISEMENT        
+“There is complicity in the president’s hatred that undermines the goodness and the decency of Americans regardless of what party,” New Jersey Sen. Cory Booker said. “To say nothing in a time of rising hatred, it’s not enough to say that ‘I’m not a hate monger myself.’ If you are not actively working against hate, calling it out, you are complicit in what is going on.”
+South Bend Mayor Pete Buttigieg said confronting white nationalist terrorism would be embarrassing for a president who “helped stoke many of these feelings in this country to begin with.”
+“At best, he’s condoning and encouraging white nationalism,” Buttigieg said.
+Sen. Kamala Harris of California also found blame in Trump’s use of language, which she said has “incredible consequence.”
+“We have a president of the United States who has chosen to use his words in a way that have been about selling hate and division among us,” she told reporters before attending services at a black church in Las Vegas.
+Sen. Bernie Sanders opened a town hall meeting with a moment of silence and by calling for universal background checks for firearms purchases and more restrictions on assault weapons.
+“Assault weapons are designed for one reason. They are military weapons. And I don’t have to explain that to the people in Las Vegas who experienced the worst gun tragedy in the history of this country,” Sanders said. He urged Senate Majority Leader Mitch McConnell to call senators back to Washington, saying the Senate should “have a special session to address gun violence in America and let us finally have the courage to take on the NRA.”
+He also called out the president.
+“I say to President Trump, please stop the racist anti-immigrant rhetoric,” he said. “Stop the hatred in this country which is creating the kind of violence that we see.”
+The call for McConnell to bring senators back to deal with gun violence was echoed by other candidates, including Sen. Elizabeth Warren.
+“We should vote within 48 hours on the two background check bills that have already passed the House,” Warren said. “It’s not everything we need to do on gun safety, but we could take important steps, and we could demonstrate to the American people that the gun manufacturers are not the ones who are calling the shots in Washington.”
+The candidates and Senate Democratic leader Chuck Schumer calling for the Senate to come back may not get their wish. McConnell fell and fractured his shoulder Sunday at home in Kentucky.
+On Sunday, Trump tweeted praise of law enforcement and said that “information is rapidly being accumulated in Dayton” and that “much has already be learned in El Paso.”
+“Hate has no place in our country, and we’re going to take care of it,” Trump declared before boarding Air Force One for the flight back to Washington from New Jersey, where he spent the weekend. While connecting “hate” and mental illness to the shootings, Trump made no direct mention of gun laws, a factor brought up by Democratic officials and those seeking their party’s nomination to challenge Trump’s reelection next year.
+He tried to assure Americans he was dealing with the problem and defended his administration in light of criticism following the latest in a string of mass shootings. “We have done much more than most administrations,” he said, without elaboration. “We have done actually a lot. But perhaps more needs to be done.”
+In El Paso, authorities were investigating whether the attack was a hate crime after the emergence of a racist, anti-immigrant screed that was posted online shortly beforehand. Detectives sought to determine if it was written by the man who was arrested. The border city has figured prominently in the immigration debate and is home to 680,000 people, most of them Latino.
+In Dayton, the suspected shooter was shot to death by responding officers. Authorities said the shooter was carrying a .223-caliber rifle and had additional high-capacity magazines. No motive has been given for the attacks.
+Former Texas congressman and El Paso native Beto O’Rourke said that Trump is a white nationalist. O’Rourke said El Paso “will overcome this,” as he called for universal background checks, ending the sale of weapons of war into communities and red flag laws.
+“We’ve got to acknowledge the hatred, the open racism that we’re seeing,” O’Rourke said. “There’s an environment of it in the United States. We see it on Fox News, we see it on the internet. But we also see it from our commander in chief and he is encouraging this. He doesn’t just tolerate it, he encourages it.”
+Julian Castro, who previously served as San Antonio mayor and U.S. housing secretary, described “a very toxic brew of white nationalism,” and called on Trump to “to try and unite Americans instead of fanning the flames of bigotry.” He pointed as well to the high rates of gun ownership in Texas, saying “the answer is not more people with guns.”
+O’Rourke and Buttigieg appeared on CNN’s “State of the Union,” and Booker and Castro were on NBC’s “Meet the Press.” Warren spoke on MSNBC.
+		Categories: Daily Briefs Tags: Attorney General and US Senate Candidate Kamala Harris | Bernie Sanders (D-Vt.) | Black News | Black Press | Cory Booker | Democrats | Kamala Harris | LA Sentinel News		
+						Former President Barack Obama Breaks His Silence on Mass Shootings , While ...
+						BREAKING NEWS- Beloved Toni Morrison has Died at 88
+						Barack Obama, Beyonce, Oprah, Gabrielle Union, Senator Kamala Harris Others...
+						Cyntoia Brown is Released from Tennessee Women’s Prison
+						Bill Cosby’s Appeal to Review Handling of #MeToo Case
+						New Rules to Deny Green Cards to many Legal Immigrants
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

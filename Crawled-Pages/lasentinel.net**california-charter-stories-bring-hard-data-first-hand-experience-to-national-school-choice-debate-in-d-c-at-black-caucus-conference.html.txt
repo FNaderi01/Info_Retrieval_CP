@@ -1,0 +1,335 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+California Charter Stories Bring Hard Data, First-Hand Experience to National School Choice Debate in D.C. at Black Caucus Conference            
+				By Tanu Henry, California Black Media                
+	                	                Published September 27, 2019
+		Dr. Margaret Fortune, president and CEO, Fortune School of Education, Shawn Hardnett, CEO &amp; founder, Statesmen College Preparatory Academy For Boys, Dr. Elizabeth A. Davis, president, Washington Teachers’ Union and Dr. Steve Perry, educator and motivational speaker. (Calif. Black Media)
+North Carolina passed a law prohibiting Black slaves from reading and writing during the state’s 1830-31 legislative session.
+The law read in part, “That any free person, who shall hereafter teach, or attempt to teach, any slave within the State to read or write, … or shall give or sell to such slave or slaves any books or pamphlets, shall be liable to indictment in any court of record in this State…not exceeding thirty nine lashes, nor less than twenty lashes.”
+When the emancipation proclamation freed African American slaves some 32 years later, slave-holding states like North Carolina did not automatically throw out the harsh anti-literacy legislation they had been using to oppress slaves. Those laws, the Jim Crow ones that followed, segregated schools, under-funded school districts – as well as other economic, political and social factors – all played a role in erecting barriers to a quality education for African Americans over the decades that followed.
+        ADVERTISEMENT        
+Now almost 150 years later, Black students, especially African American boys, are failing in the American education system at alarming rates. Social scholars are saying it’s an epidemic in need of a remedy now.
+“Since we entered this country, there has been a system in place with the explicit expectation that our humanity will be robbed from us,” said Steve Perry, an African American educator, school choice advocate and head of Capital Preparatory Schools in Connecticut and New York.
+Perry was participating in a panel discussion on charter schools and school choice that took place during the Congressional Black Caucus Foundation Annual Legislative Conference, held in Washington, D.C., September 11-15 at the Walter E. Washington Convention Center.
+Journalist Roland Martin leads a traveling town hall called “School Choice is the Black Choice.” This month, he brought the town hall to the Black caucus convention with a panel of educators. On stage, Perry joined Elizabeth Davis, president of the Washington Teachers Union; Shawn Hardnett, founder and executive director of Statesman Preparatory Academy for Boys in Washington, D.C.; and Margaret Fortune, President and CEO of Fortune School, a network of California charter schools based in Sacramento.
+More than 100 guests showed up for the talk focused on discussing ways to improve African American educational outcomes.
+“To keep Black children in a failing school system is absurd, and should be illegal,” said Fortune, who shared personal accounts with the audience about her experience going through the authorization process to open a charter school and running her system of K-12 college prep schools.
+She also recounted highlights of her grueling fight this year against three bills in California – supported by the NAACP – that would have restricted the operations and growth of the taxpayer-funded independent schools in her state. Most of them operate in poor minority communities.
+“I challenge Black education leaders to come together for the benefit of Black children,” urged Fortune, who also shared data with the audience about the progress her school has made since first opening in 1989.
+She said students at Fortune schools in Sacramento – mostly poor, Black and Latino – are excelling above state averages. Three of them are among the top 10 achieving schools in all of California “In my flagship school,” she said,”66 percent are reading and doing math at grade level.”
+Across the United States, African American students are performing at 24 percentage points below their White counterparts in math. In English and language arts, they are trailing White students by almost 30 percentage points.
+In California, 68 percent of all African American students perform below their grade level in English and language arts. In math, about 80 percent of Black students fail to meet the state’s proficiency mark.
+According to an EdSource
+report, only 73 percent of African American high school seniors in California earned a diploma in 2017, compared to 93 percent of Asian students, 81 percent of Hispanics and 87 percent of White students.
+The only sub-group Black public school students outperform in California is students with disabilities.
+Many teachers unions across the country, including the National Education Association (NEA) and the California Teacher’s Association (CTA), say they are concerned about dwindling financial resources to provide a quality education to all students. They say charter schools siphon away the limited funding for public education that governments allot to school districts, especially in low-income neighborhoods across the United States.
+“I was a supporter of charters,” said Davis. “We’ve had some bad public charter and (non-charter) public schools and they should be closed if they aren’t up to speed, but I’ve noticed there is a pattern of systematically starving public schools in certain parts of the city.”
+Davis argued that charter public schools, particularly in Washington, D.C., where she is based, need more oversight as well; that they need to be more transparent about how they spend taxpayer dollars.
+The group agreed that it is a mistake to look at the charter-school-verses-traditional-public-school debate as a national issue because education policy is decided at the state, county or municipal level.
+“Education in America is a local issue,” said Martin. “You have different rules in different states.”
+In California, Gov. Newsom signed SB 126 into law in March. The legislation, introduced by Sen. Connie Leyva (D-Chino) and Patrick O’Donnell (D-Long Beach), holds the more-than 1,300 charter schools in the state to the same rules around open meetings, public records and conflict of interests that govern traditional public schools.
+During the back-and-forth, several of the school choice advocates on the panel pointed out that the national conversations that relate adequate funding to student performance are misleading. That thinking, they argued, leads charter school educators to believe that their traditional public school peers are only concerned about their salaries, pensions and contracts – rather than the academic achievement of the children they educate.
+Assembly Bill 1505 in California initially required authorizers to evaluate the financial impact a charter school would have on a school district in order for its license to be renewed. For many charter school proponents in California, they won a victory by convincing the author of the bill to add academic performance as a factor.
+Gov Newsom is expected to sign the bill into law.
+Davis, the only educator on the panel defending traditional public schools, was outgunned 3-1 by the other panelists and Martin, who was the moderator. Martin admitted he uses his voice and platform to “elevate the issue” of school choice and spell out to African Americans around the country how it benefits poor Black children and create job opportunities in their neighborhoods.
+Fortune chimed in, too.
+“I don’t want to have to apologize for the fact that I’m starting schools to close the Black achievement gap. I do that without apology,” she said.
+View the entire panel discussion here:
+		Categories: Education | News Tags: #Sacramento | Black slaves | Capital Preparatory Schools | Congressional Black Caucus Foundation Annual Legislative Conference | Connecticut | Dr. Elizabeth A. Davis' | Dr. Margaret Fortune | Dr. Steve Perry | EdSource | Fortune School of Education | Governor Gavin Newsom | Jim Crow | NAACP | New York | north carolina | Roland Martin | Shawn Hardnett | Statesmen College Preparatory Academy For Boys | Steve Perry | Walter E. Washington Convention Center | Washington Teachers’ Union		
+						Man Exonerated in 1998 California Murder Case Files Lawsuit
+						Student Athlete of the Week: Jasper Anderson
+						Race Relations Coalition Moves Toward Office of Racial Equality in Los Ange...
+						Jessye Norman, international opera star, dead at 74
+						Enough is Enough, Dems Back Trump Impeachment Inquiry
+						Jackson Celebrates 78th Birthday Honoring Service of Others
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

@@ -1,0 +1,278 @@
+    Skip to Main Content
+        The Keyword
+               Latest stories
+              Product updates
+    Product updates
+            Android, Chrome &amp; Play
+                  Android
+                  Chrome
+                  Chromebooks
+                  Google Play
+                  Wear OS by Google
+            Connected home
+                  Chromecast
+                  Google Nest
+                  Google Wifi
+            In the cloud
+                  Docs, Sheets and Slides
+                  Gmail
+                  Google Cloud
+                  Meet
+                  More on the Cloud blog
+            Hardware
+                  Pixel
+                  Pixelbook
+                  Stadia
+            Explore &amp; get answers
+                  Earth
+                  Google Assistant
+                  Maps
+                  Search
+                  Photos
+                  Translate
+      See all product updates
+            Android, Chrome &amp; Play
+                    Android
+                    Chrome
+                    Chromebooks
+                    Google Play
+                    Wear OS by Google
+            Connected home
+                    Chromecast
+                    Google Nest
+                    Google Wifi
+            In the cloud
+                    Docs, Sheets and Slides
+                    Gmail
+                    Google Cloud
+                    Meet
+                    More on the Cloud blog
+            Hardware
+                    Pixel
+                    Pixelbook
+                    Stadia
+            Explore &amp; get answers
+                    Earth
+                    Google Assistant
+                    Maps
+                    Search
+                    Photos
+                    Translate
+        See all product updates
+              Company news
+    Company news
+            Outreach &amp; initiatives
+                  Diversity and inclusion
+                  Education
+                  Google.org
+                  Grow with Google
+                  Sustainability
+                  See all
+            Technology
+                  AI
+                  Developers
+                  Families
+                  Next billion users
+                  Safety and security
+                  See all
+            Inside Google
+                  Data centers and infrastructure
+                  Doodles
+                  Googlers
+                  Life at Google
+                  See all
+            Around the globe
+                  Google in Africa
+                  Google in Asia
+                  Google in Europe
+                  Google in Latin America
+                  See all
+            Perspectives
+                  Sundar Pichai, CEO
+                  Ruth Porat, SVP and CFO
+                  Kent Walker, SVP
+                  See all
+            Outreach &amp; initiatives
+                    Diversity and inclusion
+                    Education
+                    Google.org
+                    Grow with Google
+                    Sustainability
+            See all
+            Technology
+                    AI
+                    Developers
+                    Families
+                    Next billion users
+                    Safety and security
+            See all
+            Inside Google
+                    Data centers and infrastructure
+                    Doodles
+                    Googlers
+                    Life at Google
+            See all
+            Around the globe
+                    Google in Africa
+                    Google in Asia
+                    Google in Europe
+                    Google in Latin America
+            See all
+            Perspectives
+                    Sundar Pichai, CEO
+                    Ruth Porat, SVP and CFO
+                    Kent Walker, SVP
+            See all
+    Subscribe
+        Press corner
+        RSS feed
+    Subscribe
+            The Keyword
+               Latest stories
+              Product updates
+    Product updates
+            Android, Chrome &amp; Play
+                  Android
+                  Chrome
+                  Chromebooks
+                  Google Play
+                  Wear OS by Google
+            Connected home
+                  Chromecast
+                  Google Nest
+                  Google Wifi
+            In the cloud
+                  Docs, Sheets and Slides
+                  Gmail
+                  Google Cloud
+                  Meet
+                  More on the Cloud blog
+            Hardware
+                  Pixel
+                  Pixelbook
+                  Stadia
+            Explore &amp; get answers
+                  Earth
+                  Google Assistant
+                  Maps
+                  Search
+                  Photos
+                  Translate
+      See all product updates
+              Company news
+    Company news
+            Outreach &amp; initiatives
+                  Diversity and inclusion
+                  Education
+                  Google.org
+                  Grow with Google
+                  Sustainability
+                  See all
+            Technology
+                  AI
+                  Developers
+                  Families
+                  Next billion users
+                  Safety and security
+                  See all
+            Inside Google
+                  Data centers and infrastructure
+                  Doodles
+                  Googlers
+                  Life at Google
+                  See all
+            Around the globe
+                  Google in Africa
+                  Google in Asia
+                  Google in Europe
+                  Google in Latin America
+                  See all
+            Perspectives
+                  Sundar Pichai, CEO
+                  Ruth Porat, SVP and CFO
+                  Kent Walker, SVP
+                  See all
+            Press corner
+            RSS feed
+    Subscribe
+        Education
+      Chromebook updates help learning happen from anywhere
+    Copy link
+          045-B2S-Blog-Chromebooks-Header-TB_2880x1200.png
+    Bayo Olotu
+        Program Manager, Chrome OS
+      Published Aug 11, 2020
+            Google for Education
+         50 new features in Meet, Classroom, G Suite and other products for students, parents and teachers.
+            Read more
+    Copy link
+          Editor’s note: On August 11, 2020 Google for Education kicked off a global back-to-school event, The Anywhere School. Check out the full recap of product launches and our collection of announcements.This year heading back to school looks a lot different. But wherever learning takes place—at home, in person or a combination of both—Chromebooks help teachers keep teaching and students keep learning even when they aren’t in the same room together.  Last spring we saw students and teachers turn to Chromebooks as schools shifted to distance learning. Hundreds of thousands of students in the New York City and Chicago school districts brought Chromebooks home, giving them a familiar learning experience during a stressful and uncertain time. In Japan, students at Saitama’s Koshigaya Minami High School were able to keep learning with a Chromebook Loaner Program. And at Mexico’s University of Guadalajara, high school students who didn’t have devices at home were able to continue their learning through 1:1 Chromebook device programs. We’re continuing to add new apps and features to Chromebooks to make them useful as students and teachers go back to school—whether it’s virtually or in person. And for administrators, we’re continuing to share best practices on how to prepare Chromebooks to go home with students as this new year unfolds.
+          New admin features for enabling accessibility Admins can now use over 200 policies from the Admin console to customize the Chromebook experience for students and educators. For all of the latest, including the ability to set device accessibility policies, check out the Chrome Enterprise Release Notes. Another policy admins can set is kiosk mode, which allows the exam app to run in full-screen mode on the device, and stops students from accessing the web while they’re taking a test. When using kiosk mode for testing, Chromebook accessibility features are now more readily available and customizable—like screen readers, magnification and more. To access even more accessibility features, some  testing providers, such as Pearson, make it possible to access third-party accessibility tools from partners like Don Johnston and Texthelp.
+        Using built in Chromebook accessibility features in kiosk mode
+          Find and purchase apps with the Chromebook App HubIn January, we announced that you could manage apps more easily with our app licensing system within Google Admin Console. Now, you can purchase a collection of six creativity apps (you can buy one, a few or all) available through Acer, Lenovo, Dell and their partners—which include Infinite Painter, Squid, Book Creator, Soundtrap, Explain Everything and WeVideo—all on the Chromebook App Hub.In schools, IT admins control all aspects of the Android app experience on Chromebooks, including choosing the apps that students can see on their Managed Google Play Store. For all school administrators, check out our best practices for deploying Android apps to a fleet of devices.The Chromebook App Hub is a great resource for educators to find useful apps and new ideas on how to use them in the classroom. You can now search for apps by integration, purchase plan and more. And a related-ideas carousel offers inspiration for new and creative apps to try. Here are a few Android and web apps available on Chromebooks that have new features for Back to School:Minecraft: Education Edition, one of the most popular educational apps, is now available on Chromebooks as an Android app. G Suite for Education users can also expect to have the ability to log-in with their G Suite for Education accounts this coming year.Classcraft’s new self-grading Google Forms Quiz for Classcraft Quests saves time for teachers. And Classcraft’s new Chrome extension reskins Google Classroom with Classcraft characters, keeping students engaged. Texthelp’s EquatIO is an easy-to-use Google Chrome extension letting teachers and students add mathematical equations, formulas, and more to G Suite for Education tools with a click. Explore EquatIO’s new tools to support STEM teaching, including an interactive periodic table, the Desmos scientific calculator, and a molecular viewer.
+        Minecraft: Education Edition is now available on Chromebooks
+          New ways for families to learn at homeLast year, we introduced Family Link for Chromebooks, which helps parents approve apps and extensions and set limits for kids’ online time on their personal Chromebooks they’re using at home. Now, if parents create a Google account for a child and sign in on a Chromebook, they can add their child's G Suite for Education account.  When parents add their child’s school account for a Family Link user, the student can see their assignments in Google Classroom, work on papers and presentations for school, and sign into websites, apps and extensions using the school account—all with a parent’s supervision. For more helpful tips and resources for families while they continue to support their children’s learning from home, check out our new Tech Toolkit for Families and Guardians.
+        Kids can sign into their G Suite for Education account and Family Link account simultaneously
+          To learn more about the benefits of Chromebooks, check out edu.google.com/chromebooks, and for more training and resources, check out g.co/teachfromanywhere. 
+            Google for Education
+         50 new features in Meet, Classroom, G Suite and other products for students, parents and teachers.
+            Read more
+        Posted in:
+Education
+Chromebooks
+Accessibility
+    Related stories
+                Android
+                Important household sounds become more accessible
+                  Receive notifications of important household sounds around you by enabling Sound Notifications, a new Android accessibility feature.
+                  By
+                    Sagar Savla
+                    Sharlene Yuan
+                 Oct 8, 2020
+                Android
+                6 ways your Android is getting more helpful this fall
+                  By
+                    Baris Gultekin
+                 Oct 8, 2020
+                Meet
+                New safety and collaboration features in Google Meet
+                  By
+                    Samir Pradhan
+                 Oct 8, 2020
+                Google Assistant
+                New updates make Google Assistant even more accessible
+                  By
+                    Praveen Chandran
+                 Oct 6, 2020
+                Accessibility
+                Doing more to design for and with people with disabilities
+                  By
+                    Eve Andersson
+                 Oct 6, 2020
+                Education
+                This year, teachers have gone the distance
+                  By
+                    John Vamvakitis
+                 Oct 5, 2020
+        .
+        Let’s stay in touch. Get the latest news from Google in your inbox.
+        Subscribe
+        No thanks
+      Please check your network connection and
+        try again.
+        The latest news from Google, in your inbox.
+    First name
+    Email address
+          Sign up to receive news and other stories from Google.
+          Your information will be used in accordance with
+          Google's privacy policy. You may opt out at any time.
+          Subscribe
+        Done! Check your inbox toconfirm your subscription.
+       OK, got it 
+              Follow Us
+            Privacy
+            Terms
+            About Google
+            Google Products
+              About the Keyword
+              Help

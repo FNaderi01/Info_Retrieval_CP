@@ -1,0 +1,243 @@
+	Infusion pump
+		From Wikipedia, the free encyclopedia
+		Jump to navigation
+		Jump to search
+		This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Infusion pump" – news · newspapers · books · scholar · JSTOR  (September 2011) (Learn how and when to remove this template message)
+  A type of infusion pump, manufactured by Fresenius.
+An infusion pump infuses fluids, medication or nutrients into a patient's circulatory system. It is generally used intravenously, although subcutaneous, arterial and epidural infusions are occasionally used.
+Infusion pumps can administer fluids in ways that would be impractically expensive or unreliable if performed manually by nursing staff.  For example, they can administer as little as 0.1 mL per hour injections (too small for a drip), injections every minute, injections with repeated boluses requested by the patient, up to maximum number per hour (e.g. in patient-controlled analgesia), or fluids whose volumes vary by the time of day.
+Because they can also produce quite high but controlled pressures, they can inject controlled amounts of fluids subcutaneously (beneath the skin), or epidurally (just within the surface of the central nervous system – a very popular local spinal anesthesia for childbirth).
+Contents
+1 Types of infusion
+2 Types of pump
+3 Safety features available on some pumps
+4 Safety issues
+5 See also
+6 References
+Types of infusion[edit]
+The user interface of pumps usually requests details on the type of infusion from the technician or nurse that sets them up:
+Continuous infusion usually consists of small pulses of infusion, usually between 500 nanoliters and 10 milliliters, depending on the pump's design, with the rate of these pulses depending on the programmed infusion speed.
+Intermittent infusion has a "high" infusion rate, alternating with a low programmable infusion rate to keep the cannula open.  The timings are programmable.  This mode is often used to administer antibiotics, or other drugs that can irritate a blood vessel.
+To get the entire dose of antibiotics into the patient, the "volume to be infused" or VTBI must be programmed for at least 30 CCs more than is in the medication bag; failure to do so can potentially result in up to half of the antibiotic being left in the IV tubing.
+Patient-controlled is infusion on-demand, usually with a preprogrammed ceiling to avoid intoxication. The rate is controlled by a pressure pad or button that can be activated by the patient. It is the method of choice for patient-controlled analgesia (PCA), in which repeated small doses of opioid analgesics are delivered, with the device coded to stop administration before a dose that may cause hazardous respiratory depression is reached.
+Total parenteral nutrition usually requires an infusion curve similar to normal mealtimes.
+Some pumps offer modes in which the amounts can be scaled or controlled based on the time of day.  This allows for circadian cycles which may be required for certain types of medication.
+Types of pump[edit]
+  A Baxter International Colleague CX infusion pump
+There are two basic classes of pumps.  Large volume pumps can pump  fluid replacement such as Saline solution, medications such as antibiotics or nutrient solutions large enough to feed a patient.  Small-volume pumps infuse hormones, such as insulin, or other medicines, such as opiates.
+Within these classes, some pumps are designed to be portable, others are designed to be used in a hospital, and there are special systems for charity and battlefield use.
+Large-volume pumps usually use some form of peristaltic pump.  Classically, they use computer-controlled rollers compressing a silicone-rubber tube through which the medicine flows.  Another common form is a set of fingers that press on the tube in sequence.
+Small-volume pumps usually use a computer-controlled motor turning a screw that pushes the plunger on a syringe.
+The classic medical improvisation for an infusion pump is to place a blood pressure cuff around a bag of fluid.  The battlefield equivalent is to place the bag under the patient.  The pressure on the bag sets the infusion pressure.  The pressure can actually be read-out at the cuff's indicator.  The problem is that the flow varies dramatically with the cuff's pressure (or patient's weight), and the needed pressure varies with the administration route, potentially causing risk when attempted by an individual not trained in this method.
+Places that must provide the least-expensive care often use pressurized infusion systems.  One common system has a purpose-designed plastic "pressure bottle" pressurized with a large disposable plastic syringe.  A combined flow restrictor, air filter and drip chamber helps a nurse set the flow.  The parts are reusable, mass-produced sterile plastic, and can be produced by the same  machines that make plastic soft-drink bottles and caps.  A pressure bottle, restrictor and chamber requires more nursing attention than electronically controlled pumps.  In the areas where these are used, nurses are often volunteers, or very inexpensive.
+The restrictor and high pressure helps control the flow better than the improvised schemes because the high pressure through the small restrictor orifice reduces the variation of flow caused by patients' blood pressures.
+An air filter is an essential safety device in a pressure infusor, to keep air out of the patients' veins.  Small bubbles could cause harm in arteries, but in the veins they pass through the heart and leave in the patients' lungs. The air filter is just a membrane that passes gas but not fluid or pathogens. When a large air bubble reaches it, it bleeds off.
+Some of the smallest infusion pumps use osmotic power.  Basically, a bag of salt solution absorbs water through a membrane, swelling its volume.  The bag presses medicine out.  The rate is precisely controlled by the salt concentrations and pump volume.  Osmotic pumps are usually recharged with a syringe.
+Spring-powered clockwork infusion pumps have been developed, and are sometimes still used in veterinary work and for ambulatory small-volume pumps.  They generally have one spring to power the infusion, and another for the alarm bell when the infusion completes.
+Battlefields often have a need to perfuse large amounts of fluid quickly, with dramatically changing blood pressures and patient condition.  Specialized infusion pumps have been designed for this purpose, although they have not been deployed.
+Many infusion pumps are controlled by a small embedded system.  They are carefully designed so that no single cause of failure can harm the patient.  For example, most have batteries in case the wall-socket power fails.  Additional hazards are uncontrolled flow causing an overdose, uncontrolled lack of flow, causing an underdose, reverse flow, which can siphon blood from a patient, and air in the line, which can cause an air embolism.
+Safety features available on some pumps[edit]
+This section has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+      This article's factual accuracy may be compromised due to out-of-date information. Please update this article to reflect recent events or newly available information.  (May 2012)
+ (Learn how and when to remove this template message)
+The range of safety features varies widely with the age and make of the pump.  A state of the art pump in 2003[update] may have the following safety features:
+Certified to have no single point of failure.  That is, no single cause of failure should cause the pump to silently fail to operate correctly.  It should at least stop pumping and make at least an audible error indication.  This is a minimum requirement on all human-rated infusion pumps of whatever age.  It is not required for veterinary infusion pumps.
+Batteries, so the pump can operate if the power fails or is unplugged.
+Anti-free-flow devices prevent blood from draining from the patient, or infusate from freely entering the patient, when the infusion pump is being set up.
+A "down pressure" sensor will detect when the patient's vein is blocked, or the line to the patient is kinked.  This may be configurable for high (subcutaneous and epidural) or low (venous) applications.
+An "air-in-line" detector.  A typical detector will use an ultrasonic transmitter and receiver to detect when air is being pumped.  Some pumps actually measure the volume, and may even have configurable volumes, from 0.1 to 2 ml of air.  None of these amounts can cause harm, but sometimes the air can interfere with the infusion of a low-dose medicine.
+An "up pressure" sensor can detect when the bag or syringe is empty, or even if the bag or syringe is being squeezed.
+A drug library with customizable programmable limits for individual drugs that helps to avoid medication errors.
+Mechanisms  to avoid uncontrolled flow of drugs in large volume pumps (often in combination with a giving st based free flow clamp) and increasingly also in syringe pumps (piston-brake)
+Many pumps include an internal electronic log of the last several thousand therapy events. These are usually tagged with the time and date from the pump's clock.  Usually, erasing the log is a feature protected by a security code, specifically to detect staff abuse of the pump or patient.
+Many makes of infusion pump can be configured to display only a small subset of features while they are operating, in order to prevent tampering by patients, untrained staff and visitors.
+Safety issues[edit]
+Infusion pumps have been a source of multiple patient safety concerns, and problems with such pumps have been linked to more than 56,000 adverse event reports from 2005 to 2009, including at least 500 deaths.[1] As a result, the U.S. Food and Drug Administration (FDA) has launched a comprehensive initiative to improve their safety, called the Infusion Pump Improvement Initiative.[2]  The initiative proposed stricter regulation of infusion pumps.  It cited software defects, user interface issues, and mechanical or electrical failures as the main causes of adverse events.
+See also[edit]
+Intravenous drip
+Pharmacy informatics
+Syringe driver
+Total parenteral nutrition
+References[edit]
+^ Pharmacy Practice News,  May 2010
+^ https://www.fda.gov/MedicalDevices/ProductsandMedicalProcedures/GeneralHospitalDevicesandSupplies/InfusionPumps/ucm205424.htm
+vteRoutes of administration, dosage formsOralDigestive tract (enteral)Solids
+Tablet
+Capsule
+Pastille
+Time release technology
+Osmotic delivery system
+Liquids
+Decoction
+Elixir
+Electuary
+Emulsion
+Effervescent powder or tablet
+Herbal tea
+Hydrogel
+Molecular encapsulation
+Powder
+Softgel
+Solution
+Suspension
+Syrup
+Tincture
+Buccal (sublabial),sublingualSolids
+Orally disintegrating tablet
+Film
+Lollipop
+Sublingual drops
+Lozenges
+Effervescent tablet
+Chewing gum
+Liquids
+Mouthwash
+Toothpaste
+Ointment
+Spray
+Respiratory tractSolids
+Dry-powder inhaler
+00Liquids
+Anesthetic vaporizer
+Vaporizer
+Nebulizer
+Metered-dose inhaler (MDI)
+Gas
+Oxygen mask and Nasal cannula
+Oxygen concentrator
+Anaesthetic machine
+Relative analgesia machine
+Ophthalmic,otologic, nasal
+Nasal spray
+Ear drops
+Eye drops
+Ointment
+Hydrogel
+Insufflation
+Mucoadhesive microdiscUrogenital
+Ointment
+Pessary
+Vaginal ring
+Douche
+Intrauterine device (IUD)
+Extra-amniotic infusion
+Intravesical infusion
+Rectal (enteral)
+Ointment
+Suppository
+Enema
+Solution
+Hydrogel
+Murphy drip
+Nutrient enemaDermal
+Ointment
+Topical cream
+Topical gel
+Liniment
+Paste
+Film
+DMSO solution
+Electrophoretic system
+Hydrogel
+Liposomes
+Transfersome vesicles
+Cream
+Lotion
+Lip balm
+Medicated shampoo
+Dermal patch
+Transdermal patch
+Transdermal spray
+Jet injectorInjection,infusion(into tissue/blood)Skin
+Intradermal
+Subcutaneous
+Injector pen
+Transdermal implant
+Organs
+Intracavernous
+Intravitreal
+Intra-articular
+Central nervous system
+Intracerebral
+Intrathecal
+Epidural
+Circulatory,musculoskeletal
+Intravenous
+Intracardiac
+Intramuscular
+Intraosseous
+Intraperitoneal
+Nanocell injection
+Patient-controlled analgesia pump
+PIC line
+vteIntravenous therapyInfused substancesBlood-based product
+Whole blood
+PF24/Fresh frozen plasma (Cryosupernatant + Cryoprecipitate)
+Blood substitute
+Hemoglobin-based
+Volume expander
+Lactated Ringer's
+Normal saline
+Sugar solution
+Buffers
+Lactated Ringer's, Sodium bicarbonate
+Medications
+Intravenous immunoglobulin
+Parenteral nutrition
+Sugar
+Other
+Drug injection
+Ascorbic acid
+Access points
+Peripheral venous catheter
+Peripherally inserted central catheter (Seldinger technique)
+Central venous catheter
+Other equipment
+Infusion pump
+CVC
+SLC
+MLC
+PICC
+Implantable catheters
+Ports
+Thermodilution catheters
+Hemodialysis catheters
+Specific risks
+Air embolism
+Extravasation
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Infusion_pump&amp;oldid=943008235"
+		Categories: Medical pumpsDrug delivery devicesDosage formsHidden categories: Articles needing additional references from September 2011All articles needing additional referencesArticles with obsolete information from May 2012All Wikipedia articles in need of updatingArticles with multiple maintenance issuesArticles containing potentially dated statements from 2003All articles containing potentially dated statements
+	Navigation menu
+		Personal tools
+		Not logged inTalkContributionsCreate accountLog in
+		Namespaces
+		ArticleTalk
+		Variants
+		Views
+		ReadEditView history
+		More
+		Search
+		Navigation
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		Contribute
+		HelpLearn to editCommunity portalRecent changesUpload file
+		Tools
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		Print/export
+		Download as PDFPrintable version
+		In other projects
+		Wikimedia Commons
+		Languages
+		العربيةDeutschEspañolفارسیFrançaisHrvatskiעבריתNederlands日本語PolskiPortuguêsРусскийСрпски / srpskiSrpskohrvatski / српскохрватски
+		Edit links
+		 This page was last edited on 28 February 2020, at 07:39 (UTC).
+		Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+		Privacy policy
+		About Wikipedia
+		Disclaimers
+		Contact Wikipedia
+		Mobile view
+		Developers
+		Statistics
+		Cookie statement

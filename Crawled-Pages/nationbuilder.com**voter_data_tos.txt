@@ -1,0 +1,330 @@
+mlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"&gt;
+		NationBuilder Voter Data Terms of Service
+		 -->
+label[for="face_tweet_is_facebook"]{display:none;}
+		Skip to main content
+			If you are organizing essential services or emergency response to COVID-19, activate your free account
+        Support: 1-213-394-4623  Contact sales
+    Sign in 
+          Sign in to your nation
+            Sign in to your nation
+            Access your nation's control panel
+          Sign in to NationBuilder.com
+            Sign in to NationBuilder.com
+            Engage with the NationBuilder community on this website
+        Toggle navigation
+        Software
+            Run your nonprofit
+              Run your nonprofit
+              Build the infrastructure to strengthen your supporter relationships and scale your organization.
+            Build your advocacy organization
+              Build your advocacy organization
+              Find, mobilize, and equip your best advocates to spread your message around the world.
+            Win your election
+              Win your election
+              Fully-integrated software to help you reach the right people and get out the vote.
+            Enterprise organizations
+              Enterprise organizations
+              Grow, target, and activate your community.
+            Networks
+              Networks
+              Unified infrastructure for your headquarters and local chapters.
+    Pricing
+    Blog
+    Resources
+    Support
+    Start your free trial
+    Sign in to your nation
+    Sign in to NationBuilder.com
+#content {
+	margin-top: 34px;
+}
+#content h1 {
+	margin-top: 24px;
+}
+					NationBuilder Voter Data TOS
+          Master Terms of Service
+          Privacy Policy
+          Email Acceptable Use Policy
+          Acceptable Use Policy
+          CCPA Data Processing Addendum
+          GDPR Data Processing Addendum
+          List of Subprocessors
+          Use of Voter Data
+          Cookie Declaration
+		Master Terms of Service
+		Privacy Policy
+		Email Acceptable Use Policy
+		Acceptable Use Policy
+    CCPA Data Processing Addendum
+		GDPR Data Processing Addendum
+		List of Subprocessors
+  Use of Voter Data
+  Cookie Declaration
+				Use of Voter Data
+            This Terms of Service Agreement (this “Agreement”) are made between you and 3dna Corp, d/b/a NationBuilder, (“NationBuilder”) with a principal place of business at 520 S. Grand Ave., Suite 200, Los Angeles, CA 90071. All use of NationBuilder Voter Data and all NationBuilder applications that use Voter Data (“Voter Data”) are governed by the terms and conditions set forth in this Agreement:
+User Registration
+You must be a Campaign, Developer, or Voter to use Voter Data. You must meet the appropriate description below to maintain a valid registration as a Campaign, Developer, or Voter. 
+A Campaign is any political candidate, political party, political committee, political organization, or non-profit entity in order to utilize Voter Data for its own organizational, noncommercial purposes. A Campaign does not include any for-profit entity or any non-profit entity that utilizes Voter Data for commercial purposes.
+A Developer is any individual, non-profit entity, or for-profit entity that registers with NationBuilder as a “Developer” in order to create, distribute, sell, and/or market one or more applications that facilitate others’ use of Voter Data for noncommercial purposes.
+A Voter is an individual who registers with NationBuilder as a “Voter”.
+Your Use of Content
+NationBuilder’s Voter Data is protected by copyright as a collective work and/or compilation, under U.S. copyright laws, international conventions, and other copyright laws. You shall abide by any and all additional copyright notices, information, or restrictions contained in Voter Data, and you shall not resell or redistribute any Voter Data outside the NationBuilder’s API itself under any circumstances.
+All Voter Data supplied via the NationBuilder’s API is available solely for your noncommercial use. You shall not, and you shall not allow any other party to, sell Voter Data or utilize Voter Data in selling or marketing any commercial good or service. This restriction does not prohibit Developers from creating, distributing, selling, and/or marketing applications that facilitate others’ use of Voter Data for noncommercial purposes. All use of Voter Data must comply with federal and state regulations.
+Additional Terms for Developers and Voters
+If you are a Developer, you acknowledge that:
+unless a higher number of data requests are specifically authorized by NationBuilder, your application must restrict region index, voter show and voter match calls to 50,000 daily, and region tile, region show, and voter download calls to 5,000 daily;
+your application must clearly present to end-users each voter’s contact preferences;
+your application’s end-users must maintain their own NationBuilder registration, and must require those users to access Voter Data only via their respective NationBuilder registrations;
+you must register your application with NationBuilder before it will appear on our site; and
+your application will not appear on or through NationBuilder when and if your Developer registration is cancelled or discontinued.
+If you are a Voter, you acknowledge that:
+the contact preferences you submit to NationBuilder are non-binding requests and NationBuilder does not guarantee that Voter Data users or any other party will honor those non-binding request; and
+the information you submit through to NationBuilder is not equivalent to changing your official voter registration records, which you may do only by contacting the appropriate public elections office.
+License to NationBuilder
+By posting messages, uploading files, inputting data, or engaging in any other form of communication (individually or collectively “Communications”) with or to NationBuilder, you hereby grant to NationBuilder a perpetual, worldwide, irrevocable, unrestricted, nonexclusive, royalty-free license to use, copy, license, sublicense, adapt, distribute, display, publicly perform, reproduce, transmit, modify, edit, and otherwise exploit such Communications, in all media now known or hereafter developed. You hereby waive all rights to any claim against NationBuilder for any alleged or actual infringements of any proprietary rights, rights of privacy and publicity, moral rights, and rights of attribution in connection with such Communications. 
+No Confidentiality
+You acknowledge that transmissions to and from NationBuilder are not confidential and your Communications may be read or intercepted by others. You acknowledge that by submitting Communications to NationBuilder, no confidential, fiduciary, contractually implied, or other relationship is created between you and NationBuilder other than pursuant to this Agreement.
+Representation and Warranty With Regard to Age
+You represent and warrant that you are at least 18 years old.
+Indemnification 
+You shall indemnify, defend, and hold harmless NationBuilder and its affiliates, and all of their directors, officers, agents, employees, legal advisors, information providers, licensors, and licensees (collectively, the “Indemnified Parties”) from and against any and all liability and costs incurred by the Indemnified Parties in connection with any claim arising out of any breach by you of any term of this Agreement, including without limitation attorneys’ fees and costs. You shall cooperate as fully as reasonably required in the defense of any claim. NationBuilder reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you and you shall not in any event settle any matter without the written consent of NationBuilder.
+Limitation of Liability 
+NationBuilder is not liable for your use of Voter Data (including without limitation the content and any errors contained therein). NationBuilder is not liable for any damages (including without limitation incidental, consequential, or punitive damages, lost profits, or damages resulting from lost data or business interruption) resulting or arising from your use of, or inability to use, Voter Data, or sites linked to Voter Data, whether based on warranty, contract, tort, or any other legal or equitable theory, and whether or not we are advised of the possibility of such damages.
+Use of Your Information
+Information and materials you provide to NationBuilder will be freely shared and used by other parties for any lawful reason or purposes as outlined in this document.
+Site-Content Disclaimer 
+NationBuilder does not represent or endorse the accuracy or reliability of any advice, opinion, statement, or other information displayed or distributed through Voter Data, and NationBuilder disclaims any and all responsibility for content contained in any third-party materials provided through links from NationBuilder. You acknowledge that any reliance upon any such opinion, advice, statement, memorandum, or information is at your sole risk. NationBuilder reserves the right, in its sole discretion, to correct any errors or omissions in any portion of Voter Data at any time.
+User-Content Disclaimer. NationBuilder does not and cannot review all materials posted to sites by users, and NationBuilder is not responsible for any such materials posted by users. NationBuilder reserves the right at all times to disclose any information as necessary to satisfy any law, regulation, or government request, or to edit, refuse to post, or to remove any information or materials, in whole or in part, that in NationBuilder’s sole discretion are objectionable or in violation of this Agreement.
+Third-Party-Resources Disclaimer
+Voter Data may contain links and pointers to other related World Wide Web Internet sites and resources. Links to and from NationBuilder to other third-party sites, maintained by third parties, do not constitute an endorsement by NationBuilder or its affiliates of any third-party resources or their contents.
+Disclaimer of Warranties
+Voter Data, including all content, software, functions, materials, and information made available on or accessed through NationBuilder, is provided “as is.” To the fullest extent permissible by law, NationBuilder and affiliates make no representation or warranties of any kind whatsoever for the content on NationBuilder or the materials, information, and functions made accessible by the software used on or accessed through Voter Data, for any products or services or hypertext links to third parties, or for any breach of security associated with the transmission of sensitive information through NationBuilder or any linked site. Further, NationBuilder and its affiliates disclaim any express or implied warranties, including without limitation noninfringement, merchantability, or fitness for a particular purpose. NationBuilder does not warrant that the functions contained in Voter Data or any materials or content contained therein will be uninterrupted or error free, that defects will be corrected, or that Voter Data or the server that makes it available is free of viruses or other harmful components. NationBuilder and its affiliates are not liable for your use of Voter Data, including without limitation the content and any errors contained therein. 
+Changes to the Voter Data
+NationBuilder may change, suspend, or discontinue any aspect of Voter Data at any time, including the availability of any Voter Data feature, database, or other content. NationBuilder may also impose limits on certain features and services or restrict your access to parts or all of Voter Data without notice or liability.
+Changes to this Agreement
+NationBuilder reserves the right, at its sole discretion, to change, modify, add or remove any portion of this Agreement, in whole or in part, at any time. Notification of changes in this Agreement will be posted on NationBuilder.com.
+Suspension of Access to Voter Data
+NationBuilder reserves the right, at its sole discretion, to restrict or deny access to Voter Data by any party for any purpose.
+Choice of Law; Jurisdiction
+This Agreement is governed by and construed in accordance with the laws of the State of California without regard to its conflicts-of-laws provisions. Sole and exclusive jurisdiction for any action or proceeding arising out of or related to this Agreement is in an appropriate state or federal court located in the State of California.
+Administrative Terms
+This Agreement constitutes the entire agreement between NationBuilder and you with respect to your use of Voter Data. Any cause of action you may have with respect to your use of Voter Data must be commenced within one year after the claim or cause of action arises. If for any reason a court of competent jurisdiction finds any provision of this Agreement, or portion thereof, to be unenforceable, that provision must be enforced to the maximum extent permissible so as to effect the intent of this Agreement, and the remainder of this Agreement continues in full force and effect.
+  @media (max-width: 991px) {
+    .h4-accordion {
+      border-bottom: 1px solid #555B5E;
+    }
+  }
+  footer ul.minimize:not(.expandit) {
+    margin-top: 0;
+  }
+  div#footer-software ul.minimize.expandit:nth-child(2) {
+    height: 188px;
+  }
+  div#footer-community ul.minimize.expandit {
+    height: 190px;
+  }
+  div#footer-resources ul.minimize.expandit {
+    height: 211px;
+  }
+  div#footer-support ul.minimize.expandit {
+    height: 158px;
+  }
+  div#footer-about ul.minimize.expandit {
+    height: 216px;
+  }
+  footer {
+    background: #000;
+    padding: 0 0 40px 0;
+  }
+  .footer-primary-nav {
+    height: 140px;
+    /* border-bottom: 1px solid #333; */
+    margin-bottom: 20px;
+  }
+  .footer-primary-nav ul {
+    margin: 0;
+    padding: 0;
+  }
+  .footer-primary-nav li {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 20px;
+  }
+  .footer-primary-nav li:last-child {
+    margin-right: 0;
+  }
+  .footer-primary-nav-align {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  .form-submitting {
+    bottom: 0px;
+    left: -295px;
+  }
+  .footer-links .link-offsite:after {
+    font-size: 11px;
+    margin-bottom: 2px;
+  }
+  @media (max-width: 1199px) {
+    .form-submitting {
+      left: -335px;
+    }
+  }
+  @media (max-width: 991px) {
+    .footer-primary-nav .signin {
+      padding-bottom: 20px;
+      text-align: center;
+      margin-top: -15px;
+    }
+    .footer-primary-nav {
+      height: 160px;
+    }
+    .footer-primary-nav-align {
+      text-align: center;
+    }
+    .form-submitting {
+      left: -385px;
+      bottom: -90px;
+    }
+  }
+  @media (max-width: 767px) {
+    .form-submitting {
+      left: 0px;
+      bottom: -182px;
+    }
+  }
+  @media (max-width: 496px) {
+    .footer-primary-nav {
+      height: 200px;
+    }
+    .footer-primary-nav .signin {
+      padding-bottom: 40px;
+      margin-top: -20px;
+    }
+    .footer-primary-nav li {
+      margin-bottom: 15px;
+    }
+    .footer-cta-align h1 {
+      font-size: 21px;
+    }
+  }
+  .footer-cta {
+    border-bottom: 1px solid #404040;
+    background: #111111;
+  }
+  .footer-cta-row {
+    height: 250px;
+  }
+  .footer-cta-align {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  .footer-cta-align .form-group.float-label {
+    margin-top: 9px;
+  }
+  .footer-cta-align .input-tall,
+  .footer-cta-align .form-group.float-label .input-tall {
+    height: 54px;
+    width: 100%;
+    font-size: 18px;
+  }
+  .footer-cta-align .float-label label.float-true,
+  .footer-cta-align .float-label label.float-auto {
+    top: 0;
+  }
+  .form-align {
+    margin-top: 38px;
+  }
+  .form-on-dark .or-call {
+    color: #9F9F9F;
+    font-size: 1rem;
+    text-align: center;
+    margin-top: 5px;
+  }
+@media (max-width: 1199px) {
+  .footer-headline {
+    text-align: center;
+    margin-top: -50px;
+  }
+}
+@media (max-width: 991px) {
+    .form-align {
+      margin-top: 0;
+    }
+    .footer-headline {
+      margin-top: -80px;
+    }
+  }
+@media (max-width: 767px) {
+  .footer-cta-align h1 {
+    margin-bottom: 5px;
+  }
+  .footer-cta-align .form-submit {
+    text-align: center;
+  }
+  /*.footer-cta-align input {
+    max-width: 350px;
+    margin: 0 auto;
+  }*/
+  .footer-cta-row {
+    height: 300px;
+  }
+  .footer-headline {
+    margin-top: -107px;
+  }
+}
+        Sign in to NationBuilder.com  Sign in to your nation
+          Live demos
+          Apps &amp; Integrations
+          Free voter file
+          Free trial
+        Software
+          Start free trial
+          Pricing
+          Run your nonprofit
+          Build your advocacy organization
+          Win your election
+          For Enterprise
+          For Networks
+          How's it different?
+        Resources
+              Demos &amp; webinars
+              Website themes
+              Apps &amp; Integrations
+              Hire a pro
+              Team training
+              Courses
+              Events
+              Release notes
+              Blog
+              Customer stories
+              Become a partner
+              Developers
+              Europe, Canada, Australia
+              Free voter file
+              HERE WE ARE
+              Run for Office
+        Support
+          Submit a support request
+          Intro to NationBuilder
+          Documentation
+          FAQs
+          Product suggestions
+          Professional services
+          Service status  &amp; Uptime
+        Company
+          About
+          Jobs
+          Mission &amp; beliefs
+          Philosophy
+          Truths
+          Brand resources
+          Confidentiality
+          Terms &amp; Privacy Policy
+         · 1-213-992-4809PO Box 811428, Los Angeles, CA 90081
+    Created with NationBuilder

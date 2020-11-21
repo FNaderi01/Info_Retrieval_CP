@@ -1,0 +1,49 @@
+/* CSS Document */
+@font-face {
+    font-family: 'robotocondensed-bold-webfont';
+    src: url('../resources/fonts/robotocondensed-bold-webfont.eot');
+    src: url('../resources/fonts/robotocondensed-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../resources/fonts/robotocondensed-bold-webfont.woff2') format('woff2'),
+         url('../resources/fonts/robotocondensed-bold-webfont.woff') format('woff'),
+         url('../resources/fonts/robotocondensed-bold-webfont.ttf') format('truetype'),
+         url('../resources/fonts/robotocondensed-bold-webfont.svg#robotocondensed_bold_webfont') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+.tsg-rwd-facet-builder{
+    float: left;
+        display:none;
+    }
+.cq-element-tsg-rwd-facet-builder{
+        float: left;
+        display:block;
+    }
+.tsg-rwd-facetBox{
+    float: left;
+       border: 1px #003875 solid;
+   width: 98%;
+margin: 15px 0px 0px 0px;
+}
+.tsg-rwd-facet-header{
+float: left;
+            width: 96%;
+    padding: 2%;
+    background:  #003875;
+    color: #fff;
+font-family: 'robotocondensed-bold-webfont';
+font-size: 1em;
+    margin: 0px;
+        }
+.tsg-rwd-facet-holder{
+float: left;
+        padding : 4%;
+        width: 92%;
+font-family: 'robotocondensed-bold-webfont';
+        font-size: .9em;
+}
+@media screen  and (max-width: 1024px) and (min-width: 768px ) {
+.tsg-rwd-facetBox{
+    float: left;
+       border: 1px #003875 solid;
+}
+}

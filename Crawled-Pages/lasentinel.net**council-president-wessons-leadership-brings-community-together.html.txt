@@ -1,0 +1,316 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Council President Wesson’s leadership brings community together             
+				By Sentinel Staff Report                  
+	                	                Published April 19, 2017
+		Los Angeles City Council President Herb Wesson. (courtesy photo)
+To Los Angeles City Council President Herb Wesson, April 29, 1992 is a day that will forever be cemented in his mind. Serving then as the campaign manager for Yvonne Burke’s successful run for the Los Angeles County Board of Supervisors he remembers the day started out as any other. Various campaign stops throughout the morning followed by time at the campaign office to rally volunteers and meet voters before heading out to more campaign events.
+The Rodney King verdicts were read at approximately 3:00 PM. The acquittal of all four officers on trial for the heinous beatings of King, brought outrage to the community whom immediately began protesting the injustice. “I remember being at a previously scheduled campaign event in Lynwood with Supervisor Burke thinking what do we do now?” Wesson said. “Clergymen and ministers had been suggesting leading up to the verdicts that the community should meet at First AME church, which is exactly what we did.” Wesson remembers driving Burke from the campaign, event directly to the church near Western Avenue and Adams Boulevard. What should have only taken twenty or twenty-five minutes to drive instead took almost an hour. “As news of the riots started consuming all of the AM car radio stations we were starting to get a picture of what we were driving into,” Wesson added.
+Wesson remembers by the time they arrived to First AME church, there were already over a thousand community members present. As Burke and Wesson made their way into the church, Los Angeles City Mayor Tom Bradley was being rushed out. Bradley was immediately ushered into the vehicle waiting for him outside, but it was by no means a smooth transition. “Angry protestors were shaking his car left and right. You could feel the tension building,” Wesson noted.
+L.A. City Council President Herb Wesson with the assistance of Councilmember Mitch O’Farrell, launched embRACE LA, a new city initiative aimed at fostering stronger race relations by engaging residents across the city through dialogue and activities (courtesy photo)
+Burke spoke to some of those who had gathered inside the church, but was escorted out as the crowd grew. Burke drove home with campaign staff and tasked Wesson with ensuring that then Los Angeles City Councilmembers Nate Holden and Zev Yaroslavsky, who were also on site made it out of the church and back to their respective homes safely. “By then the sounds of horns honking in the street and the smell of fire consumed all of my senses,” Wesson said.
+        ADVERTISEMENT        
+25 years later, Wesson finds himself leading an effort to capture stories like his about a Los Angeles he wishes was further in the past. Last fall with the help of his colleague, Los Angeles City Councilmember Mitch O’Farrell, Wesson launched embRACE LA, a new city initiative aimed at fostering stronger race relations by engaging residents across the city through dialogue and activities.
+Wesson is not afraid to draw parallels between the state of Los Angeles in 1992 and today. “Looking back, there was so much pent up racial tension in our city from years of just sweeping concerns under the rug whether between neighbors, colleagues, and even the LAPD. I believe if we would have had a program like embRACE LA then, maybe the uprising wouldn’t have been at the magnitude we all witnessed.”
+A recent report by the Los Angeles City Human Relations Commission found hate crimes against African-Americans, Latinos, Jews, and transgender women rose sharply across Los Angeles County, especially around downtown and Los Angeles’ Westside. The report found that half of the nearly 500 crimes reported were racially motivated, with 58 percent of the attacks targeting African-Americans.
+With racial tensions escalating both locally and nationally, Wesson wants to ensure he is doing his part to move the city forward. Speaking at a press conference unveiling the embRACE LA initiative, Wesson said, “When you look at the rise of hate crimes in this city, then there is without a doubt a need for us to do something. As a child of the ‘60s, I know what it’s like to turn a community around, a city around, a state around, a country around, and you do that by having an uncomfortable conversation about what is going on.”
+Next week, Wesson will open his home to a diverse group of individuals who will not only share their memories of the 1992 civil unrest, but also speak honestly about race and the future of the city. Among the guests include former Los Angeles County Supervisor and Los Angeles City Councilmember Zev Yaroslavsky, former Los Angeles City Ethics Commissioner Erin Pak, and Los Angeles Sentinel Publisher Danny Bakewell. By setting an example, Wesson hopes to encourage others to invite friends and neighbors into their homes to have an open and honest conversation about race. Recognizing it can be an “uncomfortable conversation,” as Wesson likes to point out, the conversation has to be had,” he said.
+As the community remembers the 25th anniversary of the 1992 riots, Wesson is also encouraging members of the public to share their stories on social media using #25YearsOn.
+		Categories: Local | News | Political Tags: 10th district | 92 uprising | Council President Herb Wesson | Councilmember Mitch O’Farrell | Danny Bakewell | dialouge on race | Herb Wesson | Leadership | Los Angeles City Countil President Herb Wesson | Nate Holden | Sr. | Supervisor Yvonne Burke		
+						Inglewood Rental Property Owners Association Holds Quarterly Meeting
+						Most of L.A. County Support Sanctuary City Idea
+						Bike Repair Shop Told to Leave USC  
+						West Basin Unveils Ocean Friendly Garden at Inglewood City Hall
+						Black surfers introduce new generations to the California Coastline
+						Her Dream Deferred: On the Status of Black Women
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

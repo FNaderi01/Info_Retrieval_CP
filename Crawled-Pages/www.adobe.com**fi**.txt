@@ -1,0 +1,481 @@
+        #root_content_position_position-par_flex_copy_524341076__1459701253 > .dexter-FlexContainer-Items > *:nth-child(1) {
+            flex: 1 1 1%; max-width: 100%; 
+            min-height: auto;
+            }
+    @media screen and (min-width: 600px) {
+        #root_content_position_position-par_flex_copy_524341076__1459701253 > .dexter-FlexContainer-Items {
+        }
+    }
+    @media screen and (min-width: 1200px) {
+        #root_content_position_position-par_flex_copy_524341076__1459701253 > .dexter-FlexContainer-Items {
+        }
+    }
+    #root_content_position_position-par_flex_copy_524341076__1459701253_items_flex_891506393_copy > .dexter-FlexContainer-Items {
+        min-height: 450px;
+    }
+        #root_content_position_position-par_flex_copy_524341076__1459701253_items_flex_891506393_copy > .dexter-FlexContainer-Items > *:nth-child(1) {
+            flex: 1 1 1%; max-width: 100%; 
+            min-height: auto;
+            }
+        #root_content_position_position-par_flex_copy_524341076__1459701253_items_flex_891506393_copy {
+        }
+        @media screen and (min-width: 600px) {
+            #root_content_position_position-par_flex_copy_524341076__1459701253_items_flex_891506393_copy {
+                    background-color: transparent; 
+                    background-image: unset;
+            }
+        }
+        @media screen and (min-width: 1200px) {
+            #root_content_position_position-par_flex_copy_524341076__1459701253_items_flex_891506393_copy {
+                    background-image: unset;
+            }
+        }
+        #root_content_position_position-par_flex_copy_524341076__1459701253_items_flex_891506393_copy {
+        color: #000000; 
+        }
+        @media screen and (min-width: 600px) {
+            #root_content_position_position-par_flex_copy_524341076__1459701253_items_flex_891506393_copy {
+                color: #000000; 
+            }
+        }
+    @media screen and (min-width: 600px) {
+        #root_content_position_position-par_flex_copy_524341076__1459701253_items_flex_891506393_copy > .dexter-FlexContainer-Items {
+            min-height: 500px;
+        }
+    }
+    @media screen and (min-width: 1200px) {
+        #root_content_position_position-par_flex_copy_524341076__1459701253_items_flex_891506393_copy > .dexter-FlexContainer-Items {
+            min-height: 650px;
+        }
+    }
+        #id-1e01aec5122d654d89b3b7a2bcc1ca3f > .dexter-FlexContainer-Items > *:nth-child(1) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            order: 1;}
+        #id-1e01aec5122d654d89b3b7a2bcc1ca3f > .dexter-FlexContainer-Items > *:nth-child(2) {
+            flex: 0 0 auto; max-width: 100%; width: auto; 
+            min-height: auto;
+            order: 2;}
+        @media screen and (min-width: 1200px) {
+            #id-1e01aec5122d654d89b3b7a2bcc1ca3f {
+                        background-image: url(\2f content\2f dam\2foffers-homepage\2fus\2f en\2fhomepage\2f dotcom-images\2f cc\2f CC_overview_bg.desktop.1440x650.jpg.img.jpg); background-size: cover; 
+                    background-position: 50% 50%; 
+            }
+        }
+    @media screen and (min-width: 600px) {
+        #id-1e01aec5122d654d89b3b7a2bcc1ca3f > .dexter-FlexContainer-Items {
+        }
+        #id-1e01aec5122d654d89b3b7a2bcc1ca3f > .dexter-FlexContainer-Items > *:nth-child(1) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            order: 1;
+        }
+        #id-1e01aec5122d654d89b3b7a2bcc1ca3f > .dexter-FlexContainer-Items > *:nth-child(2) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            order: 2;
+        }
+        #id-1e01aec5122d654d89b3b7a2bcc1ca3f > .dexter-FlexContainer-Items > *:nth-child(3) {
+            flex: 0 0 auto; max-width: 100%; width: auto; 
+            min-height: auto;
+            order: 3;
+        }
+    }
+    @media screen and (min-width: 1200px) {
+        #id-1e01aec5122d654d89b3b7a2bcc1ca3f > .dexter-FlexContainer-Items {
+        }
+        #id-1e01aec5122d654d89b3b7a2bcc1ca3f > .dexter-FlexContainer-Items > *:nth-child(1) {
+            width: 50%; max-width: 50%; flex: 1 1 auto;
+            min-height: auto;
+            order: 1;
+        }
+        #id-1e01aec5122d654d89b3b7a2bcc1ca3f > .dexter-FlexContainer-Items > *:nth-child(2) {
+            width: 50%; max-width: 50%; flex: 1 1 auto;
+            min-height: auto;
+            order: 2;
+        }
+        #id-1e01aec5122d654d89b3b7a2bcc1ca3f > .dexter-FlexContainer-Items > *:nth-child(3) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+        }
+    }
+        #id-89c44a1648dd46f375a2d07ebdb4a86b { width:auto; }
+        @media (min-width: 600px) {
+            #id-89c44a1648dd46f375a2d07ebdb4a86b { width:auto; }
+        }
+        @media (min-width: 1200px) {
+            #id-89c44a1648dd46f375a2d07ebdb4a86b { width:auto; }
+        }
+        #id-4e16826e9651f11f91f6bd2a0bef1c6e { width:auto; }
+        @media (min-width: 600px) {
+            #id-4e16826e9651f11f91f6bd2a0bef1c6e { width:auto; }
+        }
+        #id-a1098d7987b99f147b887e1d2760ea41 { width:auto; }
+        @media (min-width: 1200px) {
+            #id-a1098d7987b99f147b887e1d2760ea41 { width:auto; }
+        }
+    #id-bffa40e4f2b306902dd2062f82ea1cef > .dexter-FlexContainer-Items {
+        min-height: 125px;
+    }
+        #id-bffa40e4f2b306902dd2062f82ea1cef > .dexter-FlexContainer-Items > *:nth-child(1) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            order: 1;}
+        #id-bffa40e4f2b306902dd2062f82ea1cef {
+        color: #000000; 
+        }
+    @media screen and (min-width: 600px) {
+        #id-bffa40e4f2b306902dd2062f82ea1cef > .dexter-FlexContainer-Items {
+        }
+        #id-bffa40e4f2b306902dd2062f82ea1cef > .dexter-FlexContainer-Items > *:nth-child(1) {
+            flex: 0 0 auto; max-width: 100%; width: auto; 
+            min-height: auto;
+            order: 1;
+        }
+    }
+    @media screen and (min-width: 1200px) {
+        #id-bffa40e4f2b306902dd2062f82ea1cef > .dexter-FlexContainer-Items {
+            min-height: 445px;
+        }
+        #id-bffa40e4f2b306902dd2062f82ea1cef > .dexter-FlexContainer-Items > *:nth-child(1) {
+            width: 575px; max-width: 575px;
+            min-height: auto;
+        }
+    }
+        #id-415e13618379e96d8a076c41c5ff043b {
+        color: #000000; 
+        }
+        #id-ec8c9b6c287735efe785133bef5171aa {
+        color: #000000; 
+        }
+    Luo paremmin yhdessä. Missä tahansa.
+    Luo paremmin yhdessä. Missä tahansa.
+    Uusin Creative Cloud -versio on täynnä uusia tapoja luoda, olla yhteydessä ja tehdä yhteistyötä missä tahansa.
+        #id-06d508824a184a35dd8ef254a024b9ff > .dexter-FlexContainer-Items > *:nth-child(1) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            }
+        #id-06d508824a184a35dd8ef254a024b9ff > .dexter-FlexContainer-Items > *:nth-child(2) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            }
+    @media screen and (min-width: 1200px) {
+        #id-06d508824a184a35dd8ef254a024b9ff > .dexter-FlexContainer-Items {
+            margin: -5px;
+        }
+        #id-06d508824a184a35dd8ef254a024b9ff > .dexter-FlexContainer-Items > * {
+            border: 0 solid transparent; border-width: 5px;
+        }
+        #id-06d508824a184a35dd8ef254a024b9ff > .dexter-FlexContainer-Items > *:nth-child(1) {
+            flex: 0 0 auto; max-width: 100%; width: auto; 
+            min-height: auto;
+        }
+        #id-06d508824a184a35dd8ef254a024b9ff > .dexter-FlexContainer-Items > *:nth-child(2) {
+            flex: 0 0 auto; max-width: 100%; width: auto; 
+            min-height: auto;
+        }
+    }
+            Aloita kokeilu.
+            Tutustu uusiin ominaisuuksiin.
+            Tutustu uusiin ominaisuuksiin.
+        #id-0dff9966789e7828afbc044652f0a944 {
+        color: #000000; 
+        }
+    Luo paremmin yhdessä. Missä tahansa.
+    Luo paremmin yhdessä. Missä tahansa.
+    Uusin Creative Cloud -versio on täynnä uusia tapoja luoda, olla yhteydessä ja tehdä yhteistyötä missä tahansa.
+        #id-b3db7e288db37379e233a872a8a820b3 > .dexter-FlexContainer-Items > *:nth-child(1) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            }
+        #id-b3db7e288db37379e233a872a8a820b3 > .dexter-FlexContainer-Items > *:nth-child(2) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            }
+    @media screen and (min-width: 1200px) {
+        #id-b3db7e288db37379e233a872a8a820b3 > .dexter-FlexContainer-Items {
+            margin: -5px;
+        }
+        #id-b3db7e288db37379e233a872a8a820b3 > .dexter-FlexContainer-Items > * {
+            border: 0 solid transparent; border-width: 5px;
+        }
+        #id-b3db7e288db37379e233a872a8a820b3 > .dexter-FlexContainer-Items > *:nth-child(1) {
+            flex: 0 0 auto; max-width: 100%; width: auto; 
+            min-height: auto;
+        }
+        #id-b3db7e288db37379e233a872a8a820b3 > .dexter-FlexContainer-Items > *:nth-child(2) {
+            flex: 0 0 auto; max-width: 100%; width: auto; 
+            min-height: auto;
+        }
+    }
+            Aloita kokeilu.
+            Tutustu uusiin ominaisuuksiin.
+            Tutustu uusiin ominaisuuksiin.
+        #id-825de03abd484d0d116407fa7218ba1a > .dexter-FlexContainer-Items > *:nth-child(1) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            }
+        #id-825de03abd484d0d116407fa7218ba1a {
+        color: #000000; 
+        }
+    @media screen and (min-width: 1200px) {
+        #id-825de03abd484d0d116407fa7218ba1a > .dexter-FlexContainer-Items {
+        }
+        #id-825de03abd484d0d116407fa7218ba1a > .dexter-FlexContainer-Items > *:nth-child(1) {
+            flex: 0 0 auto; max-width: 100%; width: auto; 
+            min-height: auto;
+        }
+    }
+    #id-825de03abd484d0d116407fa7218ba1a {
+        border-bottom: solid 1px #eaeaea; 
+    }
+        #id-4613a36afabb6bcffb1f425ba09eb084 > .dexter-FlexContainer-Items > *:nth-child(1) {
+            flex: 0 0 auto; max-width: 100%; width: auto; 
+            min-height: auto;
+            }
+    @media screen and (min-width: 1200px) {
+        #id-4613a36afabb6bcffb1f425ba09eb084 > .dexter-FlexContainer-Items {
+        }
+    }
+    Creative Cloud:
+    Jokainen
+    Oppilaat
+    Valokuvaajat
+    Yritys
+    Adobe Stock
+    Erikoistarjoukset
+        #root_content_position_position-par_flex_copy_copy_copy__1198321498 > .dexter-FlexContainer-Items > *:nth-child(1) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            }
+        #root_content_position_position-par_flex_copy_copy_copy__1198321498 > .dexter-FlexContainer-Items > *:nth-child(2) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            }
+        #root_content_position_position-par_flex_copy_copy_copy__1198321498 > .dexter-FlexContainer-Items > *:nth-child(3) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            }
+        #root_content_position_position-par_flex_copy_copy_copy__1198321498 {
+        color: #FFFFFF; 
+        }
+    @media screen and (min-width: 600px) {
+        #root_content_position_position-par_flex_copy_copy_copy__1198321498 > .dexter-FlexContainer-Items {
+        }
+    }
+    @media screen and (min-width: 1200px) {
+        #root_content_position_position-par_flex_copy_copy_copy__1198321498 > .dexter-FlexContainer-Items {
+        }
+        #root_content_position_position-par_flex_copy_copy_copy__1198321498 > .dexter-FlexContainer-Items > *:nth-child(1) {
+            width: 33.333333%; max-width: 33.333333%; flex: 1 1 auto;
+            min-height: auto;
+        }
+        #root_content_position_position-par_flex_copy_copy_copy__1198321498 > .dexter-FlexContainer-Items > *:nth-child(2) {
+            width: 33.333333%; max-width: 33.333333%; flex: 1 1 auto;
+            min-height: auto;
+        }
+        #root_content_position_position-par_flex_copy_copy_copy__1198321498 > .dexter-FlexContainer-Items > *:nth-child(3) {
+            width: 33.333333%; max-width: 33.333333%; flex: 1 1 auto;
+            min-height: auto;
+        }
+    }
+    @media screen and (min-width: 600px) {
+        #root_content_position_position-par_flex_copy_copy_copy__1198321498_items_flex > .dexter-FlexContainer-Items {
+        }
+    }
+    @media screen and (min-width: 1200px) {
+        #root_content_position_position-par_flex_copy_copy_copy__1198321498_items_flex > .dexter-FlexContainer-Items {
+        }
+    }
+    #id-87ef093bdaf1a7abc84b052d42b639d8 > .dexter-FlexContainer-Items {
+        min-height: 450px;
+    }
+    @media screen and (min-width: 600px) {
+        #id-87ef093bdaf1a7abc84b052d42b639d8 > .dexter-FlexContainer-Items {
+            min-height: 500px;
+        }
+    }
+            #id-bfd2f5974ade487ecd9d9f62ae93a57b {
+                        background-image: url(https:\2f\2fs7d1.scene7.com\2fis\2fimage\2fTitanProd\2fMAX_2020.registration_banner.mobile.300x500@2x?$pjpeg$\26jpegSize=100\26wid=599); background-size: cover; 
+                    background-position: 50% 50%; 
+            }
+        @media screen and (min-width: 600px) {
+            #id-bfd2f5974ade487ecd9d9f62ae93a57b {
+                        background-image: url(https:\2f\2fs7d1.scene7.com\2fis\2fimage\2fTitanProd\2fMAX_2020.registration_banner.desktop.880x500?$pjpeg$\26jpegSize=200\26wid=880); background-size: cover; 
+                    background-position: 50% 1%; 
+            }
+        }
+            Adobe Max
+        #id-c163d91849a317138bf4e7f4647e8c17 {
+        color: #FFFFFF; 
+        }
+    Adobe MAX
+    20.–22.10.2020 
+Luovuuden merkittävimmät nimet ja laajin Creative Cloudin julkistus yhtyvät Adobe MAX -tapahtumassa. Liity seuraamme, maksutta.
+    #id-b6b789c873471f343688cf4e3c1050b9 {
+        z-index: 2; 
+    }
+            Rekisteröidy nyt 
+#id-3c0203a06c1d0842dfa71103eb2576e4 {
+    height: 250px;
+}
+        #root_content_position_position-par_flex_copy_copy_copy__1198321498_items_flex_898295737 {
+        color: #FFFFFF; 
+        }
+    @media screen and (min-width: 600px) {
+        #root_content_position_position-par_flex_copy_copy_copy__1198321498_items_flex_898295737 > .dexter-FlexContainer-Items {
+        }
+    }
+    #id-16c899ab66bf3cf4019a11f3856d4a5a > .dexter-FlexContainer-Items {
+        min-height: 450px;
+    }
+    @media screen and (min-width: 600px) {
+        #id-16c899ab66bf3cf4019a11f3856d4a5a > .dexter-FlexContainer-Items {
+            min-height: 500px;
+        }
+    }
+        #id-d02e73d8dd90b28f09f7a6d5f65d5629 {
+                background-color: #101713; 
+        }
+            Button
+        #id-59229484e5731b6797f0bb7e7e1cb84e {
+        color: #FFFFFF; 
+        }
+    Opiskelijat ja opettajat säästävät yli 65 %.
+    Saat parhaiden töiden luontiin kaikki sovellukset, kuten Photoshopin ja yli 20 muuta.
+    #id-54cfa3ce1395db6d7ab085691d21793d {
+        z-index: 2; 
+    }
+            Lisätietoja
+    #id-02c36e198114f0ea8598687fe1245c52 {
+        z-index: 1; 
+    }
+            Image CTA
+        #id-cd77b909fb527c873970a86393186978 { width:225px; }
+        @media (min-width: 600px) {
+            #id-cd77b909fb527c873970a86393186978 { width:400px; }
+        }
+        @media (min-width: 1200px) {
+            #id-cd77b909fb527c873970a86393186978 { width:400px; }
+        }
+        #root_content_position_position-par_flex_copy_copy_copy__1198321498_items_flex_1779653455 {
+        color: #FFFFFF; 
+        }
+    @media screen and (min-width: 600px) {
+        #root_content_position_position-par_flex_copy_copy_copy__1198321498_items_flex_1779653455 > .dexter-FlexContainer-Items {
+        }
+    }
+    @media screen and (min-width: 1200px) {
+        #root_content_position_position-par_flex_copy_copy_copy__1198321498_items_flex_1779653455 > .dexter-FlexContainer-Items {
+        }
+    }
+    #id-90a81f8a73b43312f2c6b89ed3919d3e > .dexter-FlexContainer-Items {
+        min-height: 450px;
+    }
+    @media screen and (min-width: 600px) {
+        #id-90a81f8a73b43312f2c6b89ed3919d3e > .dexter-FlexContainer-Items {
+            min-height: 500px;
+        }
+    }
+        #id-84f86f17f82c2b899f607a792d53a3cb {
+                background-color: #EB1000; 
+        }
+            Button
+        #id-a9be5e7414722f8f81d760dfbe5014f3 {
+        color: #FFFFFF; 
+        }
+    Enemmän tuloksia Acrobatin avulla
+    Muokkaa, jaa ja allekirjoita sähköisesti kaikki PDF-tiedostosi – kaikki yhdessä paikassa.
+    #id-fc8b528f87302fc58d109773c52fa8c6 {
+        z-index: 2; 
+    }
+            Aloita kokeilu.
+    #id-d9a3e99348bcc9a03cf6f64978c22687 {
+        z-index: 1; 
+    }
+    @media screen and (min-width: 768px) {
+        #id-d9a3e99348bcc9a03cf6f64978c22687 {
+            z-index: 1; 
+        }
+    }
+    @media screen and (min-width: 1200px) {
+        #id-d9a3e99348bcc9a03cf6f64978c22687 {
+            z-index: 1; 
+        }
+    }
+            Image CTA
+        #id-516059e296b145d33405a6886b36326c { width:375px; }
+        @media (min-width: 600px) {
+            #id-516059e296b145d33405a6886b36326c { width:450px; }
+        }
+        @media (min-width: 1200px) {
+            #id-516059e296b145d33405a6886b36326c { width:450px; }
+        }
+                Language Navigation
+                Language Navigation
+        Valitse oma alueesi
+        Alueen valinta muuttaa kielen ja/tai sisällön Adobe.com-sivustossa.
+            Americas
+                        Brasil
+                        Canada - English
+                        Canada - Français
+                        Latinoamérica
+                        México
+                        United States
+            Europe, Middle East and Africa
+                        Africa - English
+                        België - Nederlands
+                        Belgique - Français
+                        Belgium - English
+                        Česká republika
+                        CIS - English
+                        Cyprus - English
+                        Danmark
+                        Deutschland
+                        Eesti
+                        España
+                        France
+                        Greece - English
+                        Ireland
+                        Israel - English
+                        Italia
+                        Latvija
+                        Lietuva
+                        Luxembourg - Deutsch
+                        Luxembourg - English
+                        Luxembourg - Français
+                        Magyarország
+                        Malta - English
+                        Middle East and North Africa - English
+                        Nederland
+                        Norge
+                        Österreich
+                        Polska
+                        Portugal
+                        România
+                        Schweiz
+                        Slovenija
+                        Slovensko
+                        Suisse
+                        Suomi
+                        Sverige
+                        Svizzera
+                        Türkiye
+                        United Kingdom
+                        България
+                        Россия
+                        СНГ – русский
+                        Україна
+                        الشرق الأوسط وشمال أفريقيا - اللغة العربية
+                        ישראל - עברית
+            Asia Pacific
+                        Australia
+                        Hong Kong SAR of China
+                        India - English
+                        New Zealand
+                        Southeast Asia (Includes Indonesia, Malaysia, Philippines, Singapore, Thailand, and Vietnam) - English
+                        中国
+                        中國香港特別行政區
+                        台灣地區
+                        日本
+                        한국

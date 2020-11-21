@@ -1,0 +1,317 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+It All Starts with a Coffee Shop: Gentrification Beyond the Numbers            
+				By Surreal Lewis                
+	                	                Published December 13, 2018
+		Surreal Lewis (Courtesy photo)
+When I used to tell people in Los Angeles that I live in Windsor Hills, the reaction was generally “where is that?” I’d tell them it’s near where the oil cranes are and they’d nod, placing it vaguely on a mental map. Today, people know where Windsor Hills is. I miss when they didn’t.
+Windsor Hills and View Park have always been a shining Black light in Los Angeles. It’s where Black doctors and lawyers aspired to live when they weren’t welcomed in Bel-Air or Brentwood, where Ray Charles, Meghan Markle, and Ike and Tina Turner lived. It was the gold standard for Black people, a gleaming refuge lost to most in the sprawl of Los Angeles.
+Now strangers have stumbled across it, and intentionally or not, they’re dimming that light. They call it an “up-and-coming neighborhood,” “a hidden gem.” The houses my blue collar family can pay rent for now are being flipped and shooting up in price. The park I used to run in is full of White couples walking dogs. The old shopping center on Slauson is now home to a new coffee shop, a Black owned coffee shop. It’s great for the community – any Black business is – but to outsiders, it’s a billboard in blinking neon lights.
+        ADVERTISEMENT        
+Gentrification always starts with a coffee shop. Or in the case of Windsor Hills, gentrification is at least exacerbated by a coffee shop. White people come to try it out. Then they tell their friends to try it out. Then their friends notice how “cute” the neighborhood is, the cul-de-sacs and Mediterranean-style houses and old people going for walks. And when these older people have lived their lives fully, they go and flip their houses, tearing down the history and pumping up the property value.
+Gentrification is always debated economically. It’s a complicated economic issue, in which cultural and societal changes are unfailingly entwined with money. But these cultural and societal issues carry just as much value as the dollar.
+Windsor Hills isn’t asking for anyone’s charity. Since the sixties, when White homeowners fled and the Black families moved in, our neighborhood has evidenced its residents’ hard work and prosperity. It’s evidenced in the views of downtown from patios, in the backyard pools, in the Christmas lights strung everywhere in View Park this time of year.
+The old adage that Black people have to work twice as hard as White people to achieve the same success is alive and well. It’s a fact, actually. According to The New York Times, for every $100 in income made by White families, Black families bring home only $57.30. Windsor Hills is that doubled hard work. And given this hard work and the history that comes with it, there’s nothing unreasonable about feeling uneasy when your old neighbors move out and your new White neighbors move in, your White neighbors who didn’t have to work twice as hard.
+Of course, there’s validity in arguing that diversity and higher property value is beneficial. There’s also validity in desiring to preserve the space you’ve fought to attain. I’ve seen my new White neighbors wave and smile at me. I’ve also seen them cross the street when they see me walking to the bus on with a hoodie on. I’ve seen my new White neighbors bring desserts to every house on the street. I’ve also seen them shut down parties in public parks when they think we don’t have permits.
+Above all else, what matters to me is that Windsor Hills doesn’t lose what makes it Windsor Hills. It’s not about a stubbornness to see change. It’s about a necessity to hold on to our autonomy, identity, and legacy.
+I don’t want to see one of America’s few Black strongholds collapse. I don’t want to see my neighbors cross the street when I’m jogging in a hoodie. I don’t want to see historical houses torn down and replaced with generic modern structures. Most of all, I don’t want to see Black businesses replaced by White coffee shops.
+Bio: Surreal Lewis is a student who lives Windsor Hills. He’s currently in his first year at Columbia University in New York City.
+surreallewis22@gmail.com
+		Categories: Op-Ed | Opinion Tags: Bel-Air | Brentwood | gentrification | Los Angeles | Mediterranean | Meghan Markle | Ray Charles | Tina Turner | View Park | Windsor Hills		
+						Schools Fail Black Students, Why Are We Silent?
+						Storm-Riding With Howard Thurman: A Depthful and Disciplined Spirituality  ...
+						Wendy’s Window-‘This Christmas’
+						Ask Dr. Jeanette Success On “The Way”: ‘I Am Powerful! I Give You...
+						Will a New Consumer Bureau Director Heed the Agency’s Mission?
+						Compromise is the Best Solution for Our Kids in Battle Between LAUSD Teache...
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

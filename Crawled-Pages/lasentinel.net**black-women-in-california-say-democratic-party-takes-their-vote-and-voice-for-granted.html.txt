@@ -1,0 +1,327 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Black Women in California Say Democratic Party Takes Their Vote and Voice for Granted            
+				By Manny Otiko and Tanu Henry, California Black Media                
+	                	                Published May 10, 2019
+		Tina McKinnor former operations director of the California Democratic Party. (File Photo)
+Black women voters across the state have begun to organize themselves to express dissatisfaction with the California Democratic Party (CDP) and some of its members for overlooking issues that are important to them and taking recent actions that do not advance their interests.
+They plan to share those grievances with fellow Democrats and officials of the party at the state CPD annual convention May 29 – June 2 in San Francisco. Activists have also organized a number of other events, including a rally and march on the State Capitol on June 22 to speak about some of their concerns and celebrate Black womanhood as they consolidate their political presence and power in the state.
+This Wednesday, another group of African American women Democrats, Black Woman Organized for Political Action – Political Action Committee (BWOPA-PAC), the oldest and largest Black political fundraising and advocacy organization in the state, will hold a “Legislative Learning Day” in Sacramento. That event is designed to teach Black women to lobby their legislators on issues that are relevant to them.
+        ADVERTISEMENT        
+“When someone takes you for granted over and over again, it’s time to seriously reevaluate the relationship,” says Elika Bernard, the executive director of the Sacramento-based non-profit Black Women United. Bernard made the statement in an editorial she shared with California Black Media.
+“In the case of the California Democratic Party,” Bernard continued, “ it’s time for Black women to rethink our loyalty and commitment.”
+The view Bernard is expressing is not new. It articulates a widespread sense among Black women Democrats – who are becoming one of the most powerful voting blocs in the country – that the Democratic party relies on their support during elections but rarely rewards or reciprocates it.
+During the last election, 94 percent of Black Women voted for Hilary Clinton. Black women are also largely credited for electing Democrat Doug Jones over his Republican rival in a special election for the US Senate last year in Alabama, one of the reddest Red states in terms of its GOP majority and tendency to consistently vote for Republicans.  According to APVoteCast, a political polling service, Black women votes were responsible for the majority of the Democratic Party wins during the last national midterm elections.
+“While the Democratic Party has talked a good game about making space for Black women in leadership, we’ve seen time and time again that these words ring hollow,” said Dezie Woods-Jones, a Democratic party activist, former vice mayor of Oakland and state president of BWOPA-PAC.
+Critiquing her party, Bernard cites the way some California Democrats are treating Kimberly Ellis, an African American woman and progressive Democrat from Richmond, California. She is on the verge of becoming chair of the CDP if she wins the election at the state convention later this month.
+In 2017, Ellis lost the election for chair by a thin margin to now embattled former chair Eric Baumann, who resigned last year after allegations of sexual harassment by two staffers.
+Ellis has picked up key endorsements from a wide range of progressive and moderate groups, including the Silicon Valley Democratic Club and BWOPA-PAC. California US Reps. Jackie Speier (D-CA 14thDistrict), Mark DeSaulnier (D-CA 11thDistrict) and Ro Khanna (D -CA 17thDistrict) have all thrown their support behind her.
+But when the executive board of the Democratic Party of Sacramento County (DPSC) voted to endorse Ellis at their April meeting, Bernard says, that decision was rejected and overturned by its membership.
+“Immediately questions of the approval threshold were brought up and the rules changed from a simple majority to ⅔ majority vote,” Bernard told CBM.
+Then, there’s the case of Tina McKinnor, another African American Democrat and former operations director of the CDP. Late last year, the acting chair of the CDP Alexandra Gallardo-Rooker, who took over after Bauman resigned, fired her. McKinnor has now filed a lawsuit against the CDP alleging discrimination because she is Black and retaliation because she helped another colleague file a sexual harassment compliant against Bauman.
+In the filing papers obtained by CBM, McKinnor accuses Bauman of taking job responsibilities from her, including chairing staff meetings, fundraising and meeting with party officials and donors, because her style was “too urban.” She says the former chair of the CDP also used racial slurs like “Schwarze,” a disparaging Yiddish slang for African Americans, to describe her and Ellis. The lawsuit also claims Bauman made statements stereotyping all Black people as poor.
+Another time, Bauman asked McKinnor, according to the lawsuit, to chair a meeting and sit up front “for the benefit of the Black folks.”
+Mckinnor alleges that Bauman hired her as a token after winning with a slight margin against Ellis. The suit quotes Bauman allegedly saying he needed a “strong Black woman” on his staff to keep Ellis quiet.
+As for Ellis, she remains focused on winning the election and bringing her vision to the leadership of the CDP.
+“Consistently on the campaign trail I hear from our longest-serving activists that they want new blood and are welcoming the new energy with open arms,” she said.  “It’s clear that there is no longer a place in the California Democratic Party for elitist attitudes. We’re expanding the tent and adding new voices to our ranks – and we’re a better party for it.
+The Black women in California who support her are fired up, too, calling on party members to stand with them in their support of Ellis.
+Tonya Burke, a lifelong Democrat, political consultant and former mayor pro-temp of Perris in Riverside County, said Black women in California should stop giving their money to the Democratic Party and donate directly to candidates they support. She says they should also run for political office and recruit others to do the same on the state, local and national levels.
+“All we seem to keep getting from the Democratic Party are superficial luncheons, tea parties, BBQ’s fish frys and social media apologies,” she said. “If the Democratic Party was a living and breathing human being, Black women would be its brain, heart and soul.”
+		Categories: National | News | Political Tags: #Sacramento | APVoteCast | Black Woman Organized for Political Action – Political Action Committee (BWOPA-PAC) | California Black Media | California Democratic Party (CDP) | Democratic Party of Sacramento County (DPSC) | Dezie Woods-Jones | Doug Jones | Hilary Clinton | Jackie Speier | Kimberly Ellis | Mark DeSaulnier | Ro Khanna | San Francisco | Silicon Valley Democratic Club | Tina McKinnor | Yiddish		
+						Black Girls Continue to Disappear but Few Eyebrows Are Raised
+						NAACP and NNPA Lead Protest Against Police Brutality
+						The California African American Museum  Presents Exhibition On The Life And...
+						For Kamala Harris, Memories of a Warrior Mother Guide her Campaign
+						WATCH: Kamala Harris: We are Seeing a Breakdown of Responsibilities
+						Alabama Senate Passes Near-Total Ban on Abortion
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

@@ -1,0 +1,548 @@
+Pinterest is using cookies to help give you the best experience we can.Got it!article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+nav,
+section,
+ul {
+  display: block;
+}
+audio,
+canvas,
+video {
+  display: inline-block;
+}
+audio:not([controls]) {
+  display: none;
+}
+html {
+  font-size: 100%;
+  text-size-adjust: none;
+}
+a:hover,
+a:active {
+  outline: 0;
+}
+sub,
+sup {
+  position: relative;
+  font-size: 75%;
+  line-height: 0;
+  vertical-align: baseline;
+}
+sup {
+  top: -0.5em;
+}
+sub {
+  bottom: -0.25em;
+}
+img {
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  vertical-align: middle;
+  border: 0;
+  -ms-interpolation-mode: bicubic;
+}
+#map_canvas img {
+  max-width: none;
+}
+fieldset {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+button,
+input,
+select,
+textarea {
+  font-size: 100%;
+  margin: 0;
+  vertical-align: middle;
+}
+button,
+input {
+  overflow: visible;
+  line-height: normal;
+}
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  padding: 0;
+  border: 0;
+}
+button,
+input[type='button'],
+input[type='reset'],
+input[type='submit'] {
+  cursor: pointer;
+  -webkit-appearance: button;
+}
+input[type='search'] {
+  box-sizing: content-box;
+  -webkit-appearance: textfield;
+}
+input[type='search']::-webkit-search-decoration,
+input[type='search']::-webkit-search-cancel-button {
+  -webkit-appearance: none;
+}
+textarea {
+  overflow: auto;
+  vertical-align: top;
+}
+body {
+  margin: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+figure {
+  margin: 0;
+}
+html {
+  background-color: #fff;
+}
+html, body {
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,"ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro",メイリオ,Meiryo,"ＭＳ Ｐゴシック",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  color: rgb(33, 25, 34);
+  font-size: 12px;
+  height: 100%;
+}
+body {
+  position: relative;
+  overflow-y: overlay;
+  overflow-x: hidden;
+}
+input::-ms-clear {
+  display: none;
+}
+a {
+  color: #717171;
+  font-weight: bold;
+  text-decoration: none;
+}
+a:focus,
+a:hover {
+  color: #8a8a8a;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+ul li {
+  list-style: none;
+  padding: 0;
+}
+:focus {
+  outline: #d1d1d1 auto 1px
+}
+button, input, select, textarea {
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,"ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro",メイリオ,Meiryo,"ＭＳ Ｐゴシック",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-size: 100%;
+  vertical-align: middle;
+  margin: 0px;
+}
+.SkipToContent {
+  display: none;
+}
+.FullPageModal__scroller {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+.AlternativesSeparatorContinuous:before, .AlternativesSeparatorContinuous:after {
+  background: rgba(0,0,0,0.2);
+  -webkit-box-shadow: 0 1px 0 rgba(255,255,255,0.5);
+  box-shadow: 0 1px 0 rgba(255,255,255,0.5);
+  content: '';
+  display: inline-block;
+  height: 1px;
+  position: relative;
+  vertical-align: middle;
+  width: 37%;
+}
+.Gender__customGenderTooltip:after, .customGenderTooltip:before {
+  bottom: 100%;
+  left: 92.5%;
+  border: solid transparent;
+  content: ' ';
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+}
+.Gender__customGenderTooltip:after {
+  border-color: rgba(255, 255, 255, 0);
+  border-bottom-color: #ffffff;
+  border-width: 10px;
+  margin-left: -10px;
+}
+.Gender__customGenderTooltip:before {
+  border-color: rgba(145, 145, 145, 0);
+  border-bottom-color: #919191;
+  border-width: 11px;
+  margin-left: -11px;
+}
+.Gender__customGenderTooltipMobile:after, .customGenderTooltip:before {
+  bottom: 100%;
+  left: 92.5%;
+  border: solid transparent;
+  content: ' ';
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+}
+.Gender__customGenderTooltipMobile:after {
+  border-color: rgba(255, 255, 255, 0);
+  border-width: 10px;
+  margin-left: -10px;
+}
+.Gender__customGenderTooltipMobile:before {
+  border-color: rgba(145, 145, 145, 0);
+  border-bottom-color: #919191;
+  border-width: 11px;
+  margin-left: -11px;
+}
+.Gender__customGenderTooltipText:after, .customGenderTooltip:before {
+  bottom: 100%;
+  left: 92.5%;
+  border: solid transparent;
+  content: ' ';
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+}
+.Gender__customGenderTooltipText:after {
+  border-color: rgba(255, 255, 255, 0);
+  border-width: 10px;
+  margin-left: 5px;
+  margin-top: 10px;
+}
+.Gender__customGenderTooltipText:before {
+  border-color: rgba(145, 145, 145, 0);
+  border-bottom-color: #919191;
+  border-width: 11px;
+  margin-left: 5px;
+  margin-top: 10px;
+}
+.Tooltip_message:before, .Tooltip_message:after {
+  border-style: solid;
+  content: '';
+  display: block;
+  margin-top: -8px;
+  position: absolute;
+  right: 100%;
+  top: 17px;
+  width: 0;
+}
+.Tooltip_message:before {
+  border-color: transparent rgba(0,0,0,0.48);
+  border-width: 8px 10px 8px 0;
+}
+.Tooltip_message:after {
+  border-color: transparent #fff;
+  border-width: 8px 10px 8px 0;
+  margin-right: -1px;
+}
+.Tooltip_suggestionMessage:before, .Tooltip_suggestionMessage:after {
+  border-style: solid;
+  content: '';
+  display: block;
+  margin-top: -8px;
+  position: absolute;
+  right: 100%;
+  top: 17px;
+  width: 0;
+}
+.Tooltip_suggestionMessage:before {
+  border-color: transparent rgba(0,0,0,0.48);
+  border-width: 8px 10px 8px 0;
+}
+.Tooltip_suggestionMessage:after {
+  border-color: transparent #E2780D;
+  border-width: 8px 10px 8px 0;
+}
+.Tooltip_mobileMessage:before, .Tooltip_message:after {
+  border-style: solid;
+  display: block;
+  margin-top: -8px;
+  position: absolute;
+  right: 100%;
+  top: 17px;
+  width: 0;
+}
+.Tooltip_mobileMessage:before {
+  border-color: transparent rgba(0,0,0,0.48);
+  border-width: 8px 10px 8px 0;
+}
+.Tooltip_mobileMessage:after {
+  border-color: transparent #fff;
+  border-width: 8px 10px 8px 0;
+  margin-right: -1px;
+}
+.Tooltip_wrapper {
+  position: absolute;
+  left: calc(100% + 12px);
+  z-index: 1;
+}
+.Tooltip_mobileWrapper {
+  margin-top: 7px;
+  z-index: 1;
+}
+.TermsOfService__light a {
+  color: rgba(255,255,255,0.9);
+}
+.red.active:focus,
+.red.active:hover {
+  background-color: #d50c22 !important;
+}
+.lightGrey.active:focus,
+.lightGrey.active:hover {
+  background-color: #f5f3f3 !important;
+}
+.darkGrey.active:focus,
+.darkGrey.active:hover {
+  background-color: #5e5e5e !important;
+}
+.blueTransparent.active:focus,
+.blueTransparent.active:hover {
+  background-color: #0077e6 !important;
+}
+.white.active:focus,
+.white.active:hover {
+  background-color: #e6e6e6 !important;
+}
+@keyframes loadingSpinner {
+  to {transform: rotate(360deg);}
+}
+.loadingSpinner:before {
+  content: '';
+  box-sizing: border-box;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 20px;
+  height: 20px;
+  margin-top: -10px;
+  margin-left: -10px;
+  border-radius: 50%;
+  border-top: 2px solid white;
+  border-right: 2px solid transparent;
+  animation: loadingSpinner 1s linear infinite;
+}
+.FullPageSignup__signupToggle {
+  color: #717171;
+}
+.FullPageSignup__signupToggle:focus,
+.FullPageSignup__signupToggle:hover  {
+  color: #8a8a8a;
+}
+.UnauthHeader__headerContainer {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+.UnauthHeader__discoverText {
+  display: block;
+}
+.UnauthHeader__rightContentContainer {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  flex-direction: row;
+}
+.UnauthHeader__hoverUnderline:hover {
+  text-decoration: underline;
+}
+@media (min-width: 0px) and (max-width: 1249px) {
+.UnauthHeader__discoverText {
+  display: none;
+}
+}
+.EuCookieBar__learnMore:hover, .EuCookieBar__learnMore:focus {
+  text-decoration: underline;
+}
+.EuCookieBar__cookieButton {
+  background-color: transparent;
+  -webkit-text-size-adjust: 120%;
+}
+.EuCookieBar__cookieButton:hover, .EuCookieBar__cookieButton:focus {
+  background-color: #999;
+  opacity: 1;
+}
+.UnauthTextInputField__gray::placeholder {
+  color: #767676;
+}
+.UnauthTextInputField__darkGray::placeholder {
+  color: #333;
+}
+.UnauthTextInputField__gray::-webkit-input-placeholder {
+  color: #767676;
+}
+.UnauthTextInputField__darkGray::-webkit-input-placeholder {
+  color: #333;
+}
+.UnauthTextInputField__gray::-moz-placeholder {
+  color: #767676;
+}
+.UnauthTextInputField__darkGray::-moz-placeholder {
+  color: #333;
+}
+.UnauthTextInputField__gray::-ms-input-placeholder {
+  color: #767676;
+}
+.UnauthTextInputField__darkGray::-ms-input-placeholder {
+  color: #333;
+}
+.UnauthTextInputField__gray::-moz-placeholder {
+  color: #767676;
+}
+.UnauthTextInputField__darkGray::-moz-placeholder {
+  color: #333;
+}.GrowthUnauthPinImage:hover, .GrowthUnauthPinImage:hover .GrowthUnauthPinImage__imageDim,
+  .GrowthUnauthPinImage:hover .PinSaveButton__hoverState, .GrowthUnauthPinImage:hover .GrowthUnauthPinImage__like,
+  .GrowthUnauthPinImage:hover .GrowthUnauthPinImage__contentLink {
+    opacity: 1;
+  }
+  .GrowthUnauthPinImage__Image {
+    -webkit-transition: opacity 0.04s linear;
+    transition: opacity 0.04s linear;
+    border-radius: inherit;
+    opacity: 1;
+    display: block;
+    margin: 0 auto;
+    border: 0;
+    width: 100%;
+    max-width: 100%;
+    vertical-align: middle;
+    position: relative;
+  }
+   .GrowthUnauthPinImage__imageDim {
+     cursor: pointer;
+     bottom: 0;
+     left: 0;
+     right: 0;
+     top: 0;
+     position: absolute;
+     pointer-events: none;
+   }
+  .GrowthUnauthPinImage {
+    position: relative;
+    border-radius: 16px;
+    overflow: hidden;
+    cursor: pointer;
+    display: block;
+    padding: 0;
+    font-weight: bold;
+    text-decoration: none;
+    color: #717171;
+    overflow: hidden;
+  }
+  .GrowthUnauthPinImage__placeholder {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    bottom: 0;
+    color: #f7f7f7;
+    font-size: 12px;
+    height: 56px;
+    left: 0;
+    line-height: 150%;
+    margin-top: -6px;
+    opacity: 0.5;
+    padding: 0 14px;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    text-shadow: 0 -1px rgba(0,0,0,0.17);
+    top: 45%;
+    word-wrap: break-word;
+  }
+  .GrowthUnauthPinImage__imageDim, .PinSaveButton__hoverState, .GrowthUnauthPinImage__like,
+  .GrowthUnauthPinImage__contentLink {
+    opacity: 0;
+  }
+  .GrowthUnauthPinImage__expandButton {
+    background: rgba(255,255,255,0.85);
+  }
+  .GrowthUnauthPinImage__expandButton:hover {
+    background: rgba(255,255,255,0.95);
+  }
+  .GrowthUnauthPinImage__expandButton:after {
+    background: rgba(0,0,0,0.1);
+    bottom: 0;
+    content: '';
+    height: 1px;
+    left: 0;
+    position: absolute;
+    width: 100%;
+  }
+  .GrowthUnauthPinImage__dimGradient {
+    background-color: rgba(0,0,0,0.15);
+    background: -webkit-gradient(linear, left top, left bottom, from(transparent), to(rgba(0,0,0,0.3)));
+    background: -webkit-linear-gradient(transparent, rgba(0,0,0,0.3));
+    background: linear-gradient(transparent, rgba(0,0,0,0.3));
+  }
+  .GrowthUnauthPinImage__dimGradientDark {
+    background-color: rgba(0,0,0,0.60);
+    background: -webkit-gradient(linear, left top, left bottom, from(transparent), to(rgba(0,0,0,0.3)));
+    background: -webkit-linear-gradient(transparent, rgba(0,0,0,0.3));
+    background: linear-gradient(transparent, rgba(0,0,0,0.3));
+    bottom: 0;
+    height: 100px;
+    left: 0;
+    position: absolute;
+    right: 0;
+  }
+  .GrowthUnauthPinImage__dimOverlayDark {
+    opacity: 0.4;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    background-color: #000;
+    border-radius: 16px 16px 0 0;
+    position: absolute;
+    -webkit-transition: opacity .04s linear;
+    transition: opacity .04s linear;
+  }
+  .GrowthUnauthPin_brioPin_toggledLego::before {
+    background: white;
+    border-radius: 16px;
+    content: " " !important;
+    height: 100%;
+    left: 0;
+    opacity: 0;
+    pointer-events: none;
+    position: absolute;
+    top: 0;
+    -webkit-transform: scale(0.96);
+    -ms-transform: scale(0.96);
+    transform: scale(0.96);
+    width: 100%;
+  }
+  .GrowthUnauthPin_brioPin_toggledLego {
+    margin: -8px;
+    padding: 8px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+  }
+  .GrowthUnauthPin_brioPinLego {
+    cursor: -webkit-pointer;
+    cursor: pointer;
+  }AnimalsDiscover animals on Pinterest. See top ideas and trending searches about pets, baby animals, animal memes and more.Trending stories and collections.content-row {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  ::-webkit-scrollbar {
+    display: none;
+  }Cat and dog Halloween costumesCollection byPinterest17Created by✩U𝕟𝕚𝕢𝕦𝕖✩Awesome Animal CostumesCollection bySpirit Halloween6Created byTori Mistick Labrador Dog Mom Blogger + Pet Industry ExpertPet Halloween CostumesCollection byBest Unique &amp; Funny Gift IdeasActivities for animal loversAnimal photographyPet photographyPet trainingAnimal craftsAnimal crossingBehold these baby animalsPuppiesBaby Sea TurtleKittensBaby TigerBaby bulldogTrending searchesRatBatsCatAxolotlBlack catFishBatPinterestExploreLog inSign upPrivacy

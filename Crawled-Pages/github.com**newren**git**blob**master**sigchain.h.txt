@@ -1,0 +1,146 @@
+      Skip to content
+                Sign up
+                    Why GitHub?
+                    Features →
+                      Code review
+                      Project management
+                      Integrations
+                      Actions
+                      Packages
+                      Security
+                      Team management
+                      Hosting
+                      Mobile
+                      Customer stories →
+                      Security →
+                Team
+                Enterprise
+                    Explore
+                      Explore GitHub →
+                    Learn &amp; contribute
+                      Topics
+                        Collections
+                      Trending
+                      Learning Lab
+                      Open source guides
+                    Connect with others
+                      Events
+                      Community forum
+                      GitHub Education
+                      GitHub Stars program
+                Marketplace
+                    Pricing
+                    Plans →
+                      Compare plans
+                      Contact Sales
+                      Nonprofit →
+                      Education →
+     -->
+        In this repository
+        All GitHub
+      ↵
+      Jump to
+      ↵
+    No suggested jump to results
+        In this repository
+        All GitHub
+      ↵
+      Jump to
+      ↵
+        In this repository
+        All GitHub
+      ↵
+      Jump to
+      ↵
+          Sign in
+              Sign up
+      {{ message }}
+      newren
+    /
+    git
+    forked from git/git
+    Watch
+      1
+      Star
+      1
+          Fork
+        20k
+            Code
+            Pull requests
+              0
+            Actions
+            Projects
+              0
+            Security
+            Insights
+            More
+                    Code
+                    Pull requests
+                    Actions
+                    Projects
+                    Security
+                    Insights
+    Permalink
+          Dismiss
+        Join GitHub today
+        GitHub is home to over 50 million developers working together to host and review code, manage projects, and build software together.
+        Sign up
+      master
+        git/sigchain.h
+        Go to file
+                Go to file
+                T
+                  Go to line
+                  L
+                Copy path
+          Cannot retrieve contributors at this time
+      12 lines (8 sloc)
+    247 Bytes
+      Raw
+        Blame
+        #ifndef SIGCHAIN_H
+        #define SIGCHAIN_H
+        typedef void (*sigchain_fun)(int);
+        int sigchain_push(int sig, sigchain_fun f);
+        int sigchain_pop(int sig);
+        void sigchain_push_common(sigchain_fun f);
+        void sigchain_pop_common(void);
+        #endif /* SIGCHAIN_H */
+            Copy lines
+            Copy permalink
+        View git blame
+       -->
+        Go
+        © 2020 GitHub, Inc.
+          Terms
+          Privacy
+  Cookie Preferences
+          Security
+          Status
+          Help
+          Contact GitHub
+          Pricing
+        API
+        Training
+          Blog
+          About
+    You can’t perform that action at this time.
+    You signed in with another tab or window. Reload to refresh your session.
+    You signed out in another tab or window. Reload to refresh your session.
+  We use optional third-party analytics cookies to understand how you use GitHub.com so we can build better products.
+              Learn more.
+              Accept
+              Reject
+  We use optional third-party analytics cookies to understand how you use GitHub.com so we can build better products.
+              You can always update your selection by clicking Cookie Preferences at the bottom of the page.
+              For more information, see our Privacy Statement.
+              Essential cookies
+              We use essential cookies to perform essential website functions, e.g. they're used to log you in. 
+                Learn more
+              Always active
+              Analytics cookies
+              We use analytics cookies to understand how you use our websites so we can make them better, e.g. they're used to gather information about the pages you visit and how many clicks you need to accomplish a task. 
+                Learn more
+                Accept
+                Reject
+            Save preferences

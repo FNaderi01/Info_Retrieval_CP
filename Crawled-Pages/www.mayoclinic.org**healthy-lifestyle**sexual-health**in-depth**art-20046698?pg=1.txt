@@ -1,0 +1,220 @@
+    html[lang="ar"] .globalnotice > div {
+        padding: 24px 80px 24px 40px;
+    }
+    html[lang="ar"] .globalnotice > div:after {
+        left: inherit;
+        right: 40px; 
+    }
+    .globalnotice {
+        background: #0057B8;
+        position: relative;
+    }
+    .globalnotice * {
+        font-family: Helvetica,Arial,sans-serif;
+        box-sizing: border-box;
+        -webkit-font-smoothing: antialiased;
+        color: #fff;
+    }
+    .globalnotice > div {
+        padding: 24px 40px 24px 80px;
+        color: #fff;
+        max-width: 1180px;
+        margin: 0 auto;
+    }
+    .globalnotice a:focus {
+        outline: 3px dotted #ffffff;
+        outline-offset: 3px;
+        z-index: 1;
+    }
+    .globalnotice > div:after {
+        content:'';
+        background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjhweCIgaGVpZ2h0PSIyOHB4IiB2aWV3Qm94PSIwIDAgMjggMjgiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDY0ICg5MzUzNykgLSBodHRwczovL3NrZXRjaC5jb20gLS0+CiAgICA8dGl0bGU+RmlsbCAxPC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPgogICAgPGcgaWQ9Im9yZy1iYW5uZXItbm90aWNlIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8ZyBpZD0iaG9tZS13aXRoLW5vdGljZS1kZXNrdG9wLWJsdWUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0yNC4wMDAwMDAsIC0yNi4wMDAwMDApIiBmaWxsPSIjRkZGRkZGIj4KICAgICAgICAgICAgPGcgaWQ9Im5vdGljZS10aWxlIj4KICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0zNyw0NyBMMzksNDcgTDM5LDQ1IEwzNyw0NSBMMzcsNDcgWiBNMzcsNDIgTDM5LDQyIEwzOSwzMiBMMzcsMzIgTDM3LDQyIFogTTM4LDUyIEM0NC42MjcsNTIgNTAsNDYuNjI3IDUwLDQwIEM1MCwzMy4zNzMgNDQuNjI3LDI4IDM4LDI4IEMzMS4zNzMsMjggMjYsMzMuMzczIDI2LDQwIEMyNiw0Ni42MjcgMzEuMzczLDUyIDM4LDUyIEwzOCw1MiBaIE0zOCwyNiBDNDUuNzMyLDI2IDUyLDMyLjI2OCA1Miw0MCBDNTIsNDcuNzMyIDQ1LjczMiw1NCAzOCw1NCBDMzAuMjY4LDU0IDI0LDQ3LjczMiAyNCw0MCBDMjQsMzIuMjY4IDMwLjI2OCwyNiAzOCwyNiBMMzgsMjYgWiIgaWQ9IkZpbGwtMSI+PC9wYXRoPgogICAgICAgICAgICA8L2c+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=) no-repeat;
+        background-size: cover;
+        width: 28px;
+        height: 28px;
+        position: absolute;
+        top: 20px;
+        left: 40px;
+    }
+    .globalnotice p {
+        font-size: 18px;
+        margin: 0;
+        line-height: 1.4em;
+        max-width: 60%;
+        color: #fff;
+    }
+    .globalnotice p.header {
+        font-weight: 600;
+        line-height: 1em;
+    }
+    .globalnotice div > a {
+        font-size: 18px;
+        text-align: center;
+        line-height: 40px;
+        box-shadow: 0 0 0 1px #fff;
+        display: inline-block;
+        padding: 0 40px;
+        color: #fff;
+        border-radius: 999vw;
+        position: absolute;
+        right: 40px;
+        top: calc(50% - 20px);
+    }
+    .globalnotice ul  {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+    .globalnotice ul li {
+        margin-top: 12px;
+    }
+    .globalnotice ul a, .globalnotice ul a:visited, .globalnotice ul a:hover {
+        font-size: 18px;
+        border-bottom: 1px solid;
+        line-height: 1.33em;
+        color: #fff;
+        text-decoration: none;
+    }
+    @media (max-width: 767px) {
+        .globalnotice > div {
+            padding: 24px 16px 24px 56px;
+        }
+        .globalnotice div > a {
+            position: relative;
+            left: 0;
+            margin-top: 16px;
+            padding: 0 24px;
+        }
+        .globalnotice div:after {
+            left: 16px;
+            top: 20px;
+        }
+        .globalnotice p {
+            max-width: 100%;
+        }
+    }      
+   @media print {
+        .globalnotice {
+            display: none;
+        }
+    }
+		COVID-19 updates
+			    See how we're providing safe in-person care and virtual visits
+    Review the latest COVID-19 resources and research advancements​
+Skip to site navigation
+Skip to Content
+	    This content does not have an English version.
+        This content does not have an Arabic version.
+    Search
+            Request an AppointmentFind a DoctorFind a JobGive Now
+                    Log in to Patient Account
+English
+Español
+ Português
+العربية
+中文
+            TwitterFacebookPinterestYouTube
+English
+Español
+ Português
+العربية
+中文
+                    Menu
+                    Search
+	                    Search
+         All Mayo Clinic Topics Patient Care &amp; Health InfoOverviewHealthy LifestyleSymptoms A-ZDiseases &amp; Conditions A-ZTests &amp; Procedures A-ZDrugs &amp; Supplements A-ZAppointmentsPatient &amp; Visitor GuideBilling &amp; InsurancePatient Online ServicesQuality CareFind out why Mayo Clinic is the right place for your health care. Make an appointment. Departments &amp; CentersOverviewDoctors &amp; Medical StaffMedical Departments &amp; CentersInternational ServicesResearch Centers &amp; ProgramsAbout Mayo ClinicContact UsMeet the StaffFind a directory of doctors and departments at all Mayo Clinic campuses. Visit now. ResearchOverviewExplore Research LabsFind Clinical TrialsResearch FacultyPostdoctoral FellowshipsDiscovery's Edge MagazineSearch PublicationsTraining Grant ProgramsResearch and Clinical TrialsSee how Mayo Clinic research and clinical trials advance the science of medicine and improve patient care. Explore now. EducationOverviewMayo Clinic College of Medicine and ScienceMayo Clinic Graduate School of Biomedical SciencesMayo Clinic Alix School of MedicineMayo Clinic School of Continuous Professional DevelopmentMayo Clinic School of Graduate Medical EducationMayo Clinic School of Health SciencesAlumni CenterVisit Our SchoolsEducators at Mayo Clinic train tomorrow’s leaders to deliver compassionate, high-value, safe patient care. Choose a degree. For Medical ProfessionalsOverviewProvider RelationsReferring Physician PortalAskMayoExpertVideo CenterPublicationsContinuing Medical EducationMayo Clinic LaboratoriesProfessional ServicesExplore Mayo Clinic's many resources and see jobs available for medical professionals. Get updates. Products &amp; ServicesOverviewHealth BooksHealthy Living ProgramInternational Business CollaborationsSports MedicineLicensable ContentMayo Clinic Health LetterMayo Clinic LaboratoriesMayo Clinic Voice AppsMedical Products and Stores Giving to Mayo ClinicOverviewGive NowPhilanthropy in ActionFrequently Asked QuestionsContact Us to GivePhilanthropy at Mayo ClinicYour support accelerates powerful innovations in patient care, research and education. Give today.
+Appointments at Mayo Clinic
+Mayo Clinic offers appointments in Arizona, Florida and Minnesota and at Mayo Clinic Health System locations.
+Request Appointment
+    Healthy LifestyleSexual health
+    Print
+        Sections
+        BasicsSexual health basicsSTD preventionWomen's sexual healthMen's sexual healthSex and agingTalking to kids about sexIn-DepthExpert AnswersMultimediaResourcesNews From Mayo ClinicWhat's New
+        Products and services
+Free E-newsletter
+Subscribe to Housecall
+Our general interest e-newsletter keeps you up to date on a wide variety of health topics.
+Sign up now
+Sexual health and aging: Keep the passion aliveSexual feelings don't disappear as you age. Here's how to keep the flame burning.By Mayo Clinic Staff
+Sexual health is important at any age. And the desire for intimacy is timeless. As you age, sex may not be the same as it was in your 20s, but it can still be very fulfilling. Discover which aspects of sexual health are likely to change as you age — and how you and your partner can adapt.
+Communication is key
+To maintain a satisfying sex life, talk with your partner. Set aside time to be sensual and sexual together. When you're spending intimate time with your partner, share your thoughts about lovemaking. Help your partner understand what you want from him or her. Be honest about what you're experiencing physically and emotionally.
+Sexual health and safe sex
+Women can become pregnant until they've reached menopause — defined as 12 straight months without a period. If you're sexually active, use birth control consistently until menopause. Ask your health care provider for guidance if you're not sure which type of birth control is right for you.
+People of all ages should know how to practice safe sex. If you're having sex with a new or different partner, always use a condom. Also talk with your doctor about other ways to protect yourself from sexually transmitted infections.
+If you're in a long-term monogamous relationship and you've both tested negative for sexually transmitted infections, you probably don't need to worry about protection. Until you know for sure, however, use a condom when you have sex.
+Aging and men's sexual health
+Testosterone plays an important role in a man's sexual experience. Testosterone levels vary greatly among men. In general, however, older men tend to have lower testosterone levels than do younger men. Testosterone levels gradually decline throughout adulthood — about 1&amp;percnt; each year after age 30 on average.
+As a man ages, the penis may take longer to become erect, and erections may not be as firm. It may take longer to achieve full arousal and to have orgasmic and ejaculatory experiences. Erectile dysfunction also becomes more common. Several medications are available to help men achieve or sustain an adequate erection for sexual activity.
+Aging and women's sexual health
+As women approach menopause, their estrogen levels decrease, which may lead to vaginal dryness and slower sexual arousal. Emotional changes can increase feelings of stress, which also can change your interest in sex.
+While some women may enjoy sex more without worrying about pregnancy, naturally occurring changes in body shape and size may cause others to feel less sexually desirable.
+Medical conditions, medications and sexual health
+Any condition that affects your general health and well-being may also affect your sexual health. Illnesses that involve the cardiovascular system — such as high blood pressure, diabetes, hormonal problems, depression or anxiety — can pose challenges to being sexually active.
+The medications used to treat these conditions also can inhibit your sexual response. Certain high blood pressure medications, for instance, can affect your ability to become aroused. Other medications can make it more difficult to have an orgasm.
+If you think you are experiencing sexual side effects from a medication, consult your doctor. It may be possible to switch to a different medication with fewer sexual side effects, or to add an additional medication that reduces sexual side effects.
+Surgery and sexual health
+Any surgical procedure that affects your pelvis and your central nervous system may have significant impact on your sexual response. The body, however, is resilient. Given time to heal and some loving attention, most people can often become sexually responsive again.
+When one partner becomes ill
+If you're ill, your sexuality may temporarily take a back seat to other needs. Pain, discomfort, medications or worry can overshadow your sexual desire. Talk with your partner about other ways to be close during this time.
+If you're the caregiver, the demands of caring for your partner may take a toll on your sexual desire. Find a way to set aside the caregiver role from time to time, and be a partner instead — so that you can relax and feel nurtured by your partner. That way, you can enjoy a mutually satisfying sexual encounter.
+Dealing with differences in desire
+Differences in libidos are common among couples of all ages. Couples can become stuck in a pattern where one person initiates contact while the other avoids it. If you mainly avoid sex, consider taking charge of some engagement. If you usually initiate sex, try talking with your partner about what you need.
+If you're worried about hurting your partner's feelings, talk about your experience using "I" statements, such as "I think my body responds better when …." In turn, try to understand your partner's needs and desires. Together you can find ways to accommodate both your needs.
+Looking forward not back
+Many couples want to know how to get back to the sexual arousal and activity levels they experienced in their 20s, 30s and early 40s. Instead, find ways to optimize your body's response for sexual experiences now. Ask yourselves what's satisfying and mutually acceptable.
+Many books are available about how to maintain a healthy sex life as you get older. In addition, many couples find consulting with an expert helpful. Your doctor may be able to provide useful suggestions or refer you to a specialist.
+    ShareTweet
+    Oct. 01, 2020
+Show references
+    Age page: Sexuality in later life. National Institute on Aging. https://www.nia.nih.gov/health/publication/sexuality-later-life. Accessed May 22, 2017.
+    Contraception: You need it longer than you may think. The North American Menopause Society. https://www.menopause.org/for-women/sexual-health-menopause-online/reminders-and-resources/contraception-you-need-it-longer-than-you-may-think. Accessed June 13, 2017.
+    Yafi FA, et al. Erectile dysfunction. Nature Reviews Disease Primers. 2016;2:e1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5027992/. Accessed May 22, 2017.
+    Lee DM, et al. Sexual health and positive subjective well-being in partnered older men and women. The Journals of Gerontology. Series B, Psychological Sciences and Social Sciences. 2016;71:698.
+    Melmed S, et al. Endocrinology and aging. In: Williams Textbook of Endocrinology. 13th ed. Philadelphia, Pa.: Elsevier; 2016. https://www.clinicalkey.com. Accessed May 22, 2017.
+    Male menopause: Myth vs. fact. The Journal of Clinical Endocrinology and Metabolism. 2014;99:49A.
+    Snyder PJ. Overview of testosterone deficiency in older men. http://www.uptodate.com/home. Accessed May 22, 2017.
+    Laughlin-Tommaso SK (expert opinion). Mayo Clinic, Rochester, Minn. June 12, 2017.
+    Menopause and sexual changes. U.S. Department of Health and Human Services. https://www.womenshealth.gov/menopause/menopause-sexuality/index.html. Accessed May 22, 2017.
+    Fileborn B, et al. Sex and the (older) single girl: Experiences of sex and dating in later life. Journal of Aging Studies. 2015;33:67.
+    Moynihan TJ, et al. Sexuality in palliative care. http://www.uptodate.com/home. Accessed May 22, 2017.
+    How to stay intimate when you become your partner's caregiver. AARP. http://www.aarp.org/home-family/caregiving/info-2016/caregiver-sexual-intimacy-issues.html. Accessed May 22, 2017.
+    Velten J, et al. Satisfaction guaranteed? How individual, partner, and relationship factors impact sexual satisfaction within partnerships. PLoS One. 2017;12:e0172855.
+    Kilpela LS, et al. Body image in adult women: Moving beyond the younger years. Advances in Eating Disorders: Theory, Research and Practice. 2015;3:144.
+See more In-depth
+Products and ServicesBook: Mayo Clinic The Menopause Solution
+See alsoAging doesn't mean the end of sexHave questions about sex? Ask your doctorImprove your health, improve your sex lifeSenior sex tipsTestosterone therapy in women
+    Advertisement
+Mayo Clinic does not endorse companies or products. Advertising revenue supports our not-for-profit mission.
+Advertising &amp; Sponsorship
+    Policy
+    Opportunities
+    Ad Choices
+Mayo Clinic Marketplace
+Check out these best-sellers and special offers on books and newsletters from Mayo Clinic. 
+FREE book offer – Mayo Clinic Health LetterThe Mayo Clinic Diabetes DietMayo Clinic on Digestive HealthNEW – Mayo Clinic Guide to ArthritisThe Mayo Clinic Diet Online
+    Other Topics in Patient Care &amp; Health Info
+                 Healthy Lifestyle
+                 Symptoms A-Z
+                 Diseases &amp; Conditions A-Z
+                 Tests &amp; Procedures A-Z
+                 Drugs &amp; Supplements A-Z
+                 Appointments
+                 Patient &amp; Visitor Guide
+                 Billing &amp; Insurance
+                 Patient Online Services
+                    .
+                ART-20046698
+   Healthy Lifestyle
+Sexual health
+In-Depth
+Sexual health and aging Keep the passion alive
+            Mayo Clinic Footer
+	Request AppointmentGive NowContact UsAbout Mayo ClinicEmployeesSite MapAbout This Site
+	Legal Conditions and TermsAny use of this site constitutes your agreement to the Terms and Conditions and Privacy Policy linked below.
+    Terms and Conditions
+    Privacy Policy
+    Notice of Privacy Practices
+    Notice of Nondiscrimination
+    Manage Cookies
+Reprint PermissionsA single copy of these materials may be reprinted for noncommercial personal use only. "Mayo," "Mayo Clinic," "MayoClinic.org," "Mayo Clinic Healthy Living," and the triple-shield Mayo Clinic logo are trademarks of Mayo Foundation for Medical Education and Research.HON  This site complies with the  HONcode standard for trustworthy health information: verify here. © 1998-2020 Mayo Foundation for Medical Education and Research (MFMER). All rights reserved.

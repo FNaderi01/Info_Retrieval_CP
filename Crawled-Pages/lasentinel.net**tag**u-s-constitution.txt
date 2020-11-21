@@ -1,0 +1,236 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+U.S. Constitution
+							Why Byron Allen’s Comcast Settlement Win Is an “L” for Black America 
+					June 18, 2020Former comedian and entertainment mogul Byron Allen filed suit against Comcast in 2015 seeking $20 billion in damages. Allen alleged that Comcast refused to offer many of his television programs as part of its cable television offerings because he is African American.   ... read more  »
+							Will the 2020 Census change the course of history for the Black community?
+					April 16, 2020Every 10 years, the United States Census Bureau works to conduct an accurate count of the nation’s population, as provided for under the U.S. Constitution. This decennial count – which is currently underway – is one of our nation’s most inclusive civic activities, including every person living in the country, regardless of age, race, ethnicity, religion or citizenship. ... read more  »
+							Census Officials Kick Off $250 Million Ad Campaign in Washington
+					January 23, 2020At a news conference at Arena Stage in Washington, D.C., Census officials revealed that they would have more than 1,000 ads that target a range of demographics in 13 different languages. Those ads are projected to reach 99 percent of U.S. households. ... read more  »
+        ADVERTISEMENT        
+							Ethnic Media Unite to Inform Diverse Communities About 2020 Census
+					September 5, 2019As mandated by the U.S. Constitution, a census is conducted every 10 years to count the number of people living in the nation and its five territories. Census Day kicks-off on April 1, 2020, and every home will receive an invitation to participate in a short questionnaire by phone, mail and for the first time, online. ... read more  »
+							Voter Suppression a Lasting Legacy of the Transatlantic Slave Trade
+					March 21, 2019“Presidential elections and the voter experience have long been fraught for black people. From racist poll taxes to made-up literacy tests to the egregious rollback of voting rights over the past 50 years, American democracy has, at times, felt like a weird and failed social experiment.” —Patrisse Cullors ... read more  »
+							Why Should African Americans Vote?: Special to California Black Media Partners
+					November 1, 2018African Americans cannot afford not to vote. We must vote for people who have our best interest in mind, heart and soul. We must vote for issues that advance the well-being of our families and communities. We can’t expect to win with every vote, but if we don’t vote, we can certainly expect to lose. ... read more  »
+							The Criminalization of Poverty: Cash Bail for Non-Violent Misdemeanors Perpetuates Unequal Treatment Under the Law
+					September 28, 2018Our nation’s racially-discriminatory cash bail system has left hundreds of non-violent misdemeanor suspects to die in jail while awaiting trial, simply because they are poor. A 2015 study identified more than 800 deaths in local jails and lockups; more than 75% of those in local jails have not been convicted, and 70% of those awaiting trial are detained for non-violent offenses.  ... read more  »
+							The Constitution is a Shield for Civil and Human Rights
+					August 9, 2018In a few weeks, the Senate will decide whether a D.C. Circuit Court judge named Brett Kavanaugh should be the nation’s next Supreme Court justice. And from my office window, I can already hear the battle cries. ... read more  »
+							iGeneration Youth are Saying Enough is Enough to Gun Violence and Demanding Real Change!
+					June 7, 2018The Millennial generation was the first to experience a mass school shooting when, in 1999, students were shot and murdered at Columbine High School. Millennials responded by disrupting the political system with debates on gun control and the Second Amendment to U.S. Constitution. ... read more  »
+							Why Trump’s “Law and Order” Speech Is not about “Law”, and not about “Order”
+					August 10, 2017As Americans, we have been taught that the President of the United States is the leader of our nation, often being exalted as "the leader of the free world" ... read more  »
+							(Part 2) DA Jackie Lacey Speaks on diversity and how she began career
+					March 20, 2017"We're the most diverse prosecutor's office in the nation" -District Attorney Jackie Lacey  ... read more / watch video »
+							Ava DuVernay, Nipsey Hussle, Dr. Melina Abdullah &amp; More Talk “13th”
+					February 10, 2017Must see panel discussion surrounding Ava DuVernay's Oscar-nominated documentary, "13th" which explores the 13th Amendment of the U.S. Constitution and America's perilous transition from slavery to mass incaceration. 
+Panelists included filmmaker Ava DuVernay, rapper, social activist and business owner Nipsey Hussle, Black Lives Matter Co-Founder and educator Melina Abdullah, Los Angeles Police Commissioner Cynthia McClain-Hill, Esq., and award-winning civil rights attorney, host and moderator for the evening, Areva Martin. 
+Sponsored by Blackwood Alliance and The California Endowment, panelists and the artist community gathered at the historic Nate Holden Theatre in Los Angeles. ... read more / watch video »
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->

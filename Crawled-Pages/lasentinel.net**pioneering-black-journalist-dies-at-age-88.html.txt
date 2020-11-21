@@ -1,0 +1,318 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Pioneering Black Journalist Dies at Age 88            
+				By Sentinel News Service                
+	                	                Published October 21, 2015
+		Louie Robinson
+Born in Dallas Texas in 1926, Louie Robinson defied the odds of a time when America denied the existence of Black excellence, let alone the tools with which a Black writer could emerge to chronicle such things. Robinson not only showcased some of the nation’s most famous symbols of Black achievement, he exposed their humanity in such a way that readers might see themselves in the stars. Sidney Poitier was first interviewed by Robinson in 1955, before the Bahamian born actor was well-known.
+But he had been cast in the film Blackboard Jungle by a major studio, which made him newsworthy to Black readers.
+“We were to meet at MGM and trying to figure out how we would recognize each other,” Robinson said in a recent interview, “ then it hit us: if you’re there, you are one Black man. I will be the other one.
+        ADVERTISEMENT        
+Poitier describes the passing of the writer who became a friend and collaborator as a major loss.
+“Never in my life have I known a better man. His life was an experience that will leave behind memories of major importance. In his life from which many humane experiences have arisen to the benefit of so many of his fellow human beings, he has always stood strong and he has always reached out to those in need”
+When he joined Johnson Publishing Company in the late 50’s, the timing was just right for a self-taught newspaper man looking to open the world like a book. Black stars were emerging on stage and screen, in sports, politics and business – and demanding equal access and attention. After Robinson was promoted to West Coast Editor of Ebony Magazine in 1960, his stories graced the covers for the next 30 years. He fulfilled a passion and worked to fill a void he first noticed as a child growing up in Mineral Wells Texas. In his yet unpublished memoirs, Robinson writes about what was missing at the time:
+“I listened to the radio, read newspapers, witnessed life as presented in the movies, and in time studied American civics, not yet quite realizing that these were devoted to the White version of America, and that the Blacks I did not hear or see or read about in all this were the Blacks whose existence most of America did not truly wish to recognize.”
+Known for his engaging writing style, integrity and a passion for facts instead of gossip, ROBINSON won the respect of those he covered over the years,. His articles profiled the struggles and triumphs related to making it big in a system intent on keeping Black people small. Sammy Davis Jr. was a member of the storied Rat Pack with Frank Sinatra, Dean Martin, Jerry Lewis, Peter Lawford and Joey Bishop, but while he performed to packed houses at Las Vegas casinos, the entertainer’s Caucasian valet still had to place his bets for him. No Blacks were allowed at the gaming tables.
+Many of the people Robinson wrote about became lifelong friends, including Davis, singer Nancy Wilson, tennis champion Arthur Ashe, comedians Nipsey Russell and Bill Cosby, baseball pioneer Curt Flood and, most notably, actor Sidney Poitier with whom he helped organize two books nearly 30 years apart: This Life (1980), and Life Beyond Measure (2008) . Robinson also wrote the first book on Arthur Ashe, Arthur Ashe: Tennis Champion (1970) and was chosen by Maria Cole to co-author her late husband’s life story in Nat King Cole, an Intimate Biography (1971),
+Robinson also explored the complicated relationship between White audiences and the Black superstars they at once applauded and sometimes derided. When Elvis Presley topped the charts with his fusion of White hillbilly music and Black rhythm and blues, it was Robinson who tracked him down for Jet Magazine in 1957 to ask about racist comments being attributed to him.   Presley denied ever saying, “The only thing Negroes can do for me is buy my records and shine my shoes.” telling Robinson he would never say such a thing and that people who know him knew he would never say it. Robinson confirmed this with several Black sources and his story knocked down the rumor.
+If Robinson was ever star-struck, it never showed. He didn’t marvel at celebrity, only at his own good fortune to be able to do what he loved: writing.
+Louie Robinson passed away at Northwestern Memorial Hospital in Chicago on October 2nd, 2 days before his 89th birthday, after a long battle with heart failure. He is survived by his wife of 62 years, Mati Delores, a retired career counselor, 4 of their 6 children, Toni Frazer, Michael Robinson, Robin Robinson and Stacy Robinson-Hinkhouse, son-n-law Lou Hinkhouse, 10 grandchildren, 13 great-grandchildren and 5 great-great-grandchildren. A private memorial service is planned.
+Contributions in honor of Louie Robinson are invited to the Southern Poverty Law Center, donate.splcenter.org. To acknowledge your support or contact the family, please use the email LouieRobinsonLegacy@gmail.com
+		Categories: National | News Tags: black journalist | journalist | Los Angeles | Louie Robinson | writer		
+						Brotherhood Crusade Youth Ambassador Suffers Tragedy in Savannah, Georgia
+						A glimpse of heaven at Justice or Else Washington, DC gathering
+						Calls for unity and safety define the pulse of the people probed during Tas...
+						This Week in Black History (October 22)
+						Pasadena Tournament of Roses Selects 2016 Rose Queen
+						Chris Paul Donates Computer Lab to Brotherhood Crusade Afterschool Program
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

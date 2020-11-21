@@ -1,0 +1,324 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Women’s March Global Takeover            
+				By Niele Anderson Contributing Writer                
+	                	                Published January 25, 2017
+LETTING THEIR VOICES BE HEARD: Over 750,000 Women from all over the State of California gathered in Downtown Los Angeles to stand united and let newly sworn in President Donald Trump know that there issues should and will be heard. Protesters also gathered in Washington DC, New York and all across America and even in some other parts of the the world calling attention to the many issues that affect women and letting the President know they will not go quietly nor sit on the side lines for the next four years.(AP Photo/Jae C. Hong)
+California continues to lead the progressive movement by drawing the largest crowd in the Women’s March movement. Over 750,000 women filled the streets of downtown Los Angeles in solidary with the Women’s March on Washington.
+Historically Women have been fighting for rights dating back to 1848 with the first women’s rights convention held in Seneca Falls, New York. 68 women and 32 men signed the “Declaration of Sentiments”. The Sentiments demanded equality with men before the law, in education, employment and demanded that women be given the right to vote
+Other highlights in the Women’s Movement included:
+        ADVERTISEMENT        
+1869 the National Association of Colored Women is formed, bringing together more than 100 black women’s clubs. Leaders in the black women’s club movement include Josephine St. Pierre Ruffin, Mary Church Terrell and Anna Julia Cooper.
+1920 The 19th Amendment to the Constitution granting women the right to vote, is signed into law by Secretary of State Bainbridge Colby.
+1921 Margaret Sanger establishes the American Birth Control League, which evolves into the Planned Parenthood Federation of America in 1942.
+1935 Bethune, Mary McLeod organizes the National Council of Negro Women, a coalition of black women’s groups that lobbies against job discrimination, racism, and sexism.
+The battle has been a journey and in 2017 memories of past oppression swelled up like a 9-month pregnancy and the next birth of the Women’s movement was born. The Women’s March!
+With chants, posters and one love, Angelenos far and wide responded in resistance to Republican party policies and President Donald Trump. One day after Trump’s inauguration America resisted to unprecedented numbers worldwide with the main march held in DC and sister marches worldwide.  The march drew at least half a million in Washington, and there were some estimates of worldwide participation at 4.8 million.
+It started with a Facebook event post by Teresa Shook a retired attorney and grandmother living in Hawaii. Devastated by the Nov 8 election results, she created a Women’s March event. The idea picked up nationally, and recruiting co-chairs included: Tamika Mallory, a gun control advocate and former executive director of Al Sharpton’s National Action Network; Carmen Perez, head of the Gathering for Justice, a criminal-justice reform group founded by Harry Belafonte; and Linda Sarsour, who recently led a successful campaign to close New York City public schools on two Muslim holidays.
+Planned Parenthood and the National Resource Defense Council were listed as the two premier partners. Other organizations listed as partners included the National Newspapers Association, AFL_CIO, the Mothers of the Movement, NAACP, the National Center for Lesbian Rights, the National Organization for Women, National Action Network, Moveon.org, Human Rights Watch Black Girls – Rock! , Emily’s List, and the League of Women Voters. Over 400 organizations participated.
+WOMEN’S MARCH-LOS ANGELES TOOK PLACE ON JANUARY 21, 2017. THE MARCH STARTED AT PERSHING SQUARE AND ENDING AT CITY HALL. (PHOTO BY VALERIE GOODLOE)
+Symbolic gestures filled the day. The sea of pink hats was created by the Pussycat Project a nationwide effort to knit pink hats to be worn at the march. Their name refers to the resemblance of the hats’ corners to cat ears and attempts to reclaim the derogatory term “pussy“, a play on Trump’s widely reported 2005 remarks that he would “grab women by the pussy”.  The streets of downtown Los Angeles were so packed, a majority of the crowd could not get near the stage so break out rallies and chants filled the street
+WOMEN’S MARCH-LOS ANGELES TOOK PLACE ON JANUARY 21, 2017. THE MARCH STARTED AT PERSHING SQUARE AND ENDED AT CITY HALL. (PHOTO BY VALERIE GOODLOE)
+Locally the organizers of the Los Angeles march have gone as far as starting a foundation with an interesting committee. All of its donations go towards MALDEF (Mexican American Legal Defense and Education Fund), Planned Parenthood &amp; Los Angeles LGBT Center. It should be noted Civil Rights; Criminal Justice Reform or Gun Control donations are not listed and the website does not say if some of the donations go to the national Woman’s March. “The Los Angeles website is mysterious and vague about leadership and diversity in donation allocation,” griped some rally participants.
+Overall the unity of the movement has carried on to a national call to action for “EVERY 10 DAYS TAKE ACTION ON AN ISSUE WE ALL CARE ABOUT. The first action is to write a postcard to your Senators about what matters most to you – and how you’re going to continue to fight for it in the days, weeks and months ahead”, the website states.
+They encourage visitors to host a postcard party with family, friends and neighbors. They also provide a postcard to download to keep unity in messaging. The detailed information can be found at https://www.womensmarch.com.
+The question remains as the Republicans continue to move swiftly to change America. Will America move past the march and hold these elected officials accountable by going beyond the march to aggressive civic participation. Time will tell.
+WOMEN’S MARCH-LOS ANGELES TOOK PLACE ON JANUARY 21, 2017. THE MARCH STARTED AT PERSHING SQUARE AND ENDING AT CITY HALL. (PHOTO BY VALERIE GOODLOE)
+		Categories: Local | National | News Tags: action | Downtown Los Angeles | progressive movement | Women's March		
+						Roe V. Wade Turns 44, with Future of Being Aborted 
+						Rep. Barbara Lee Fighting for Abortion Rights and Health Care 
+						Liberty Is Depicted as Black Woman on $100 Gold Coin 
+						NNPA Receives $1.5 Million Gates Grant for Education Campaign
+						Elizabeth Primas Takes Helm for New ESSA/NNPA Grant
+						City of L.A. to Honor Johnny Mathis at African American Month Kick-off
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

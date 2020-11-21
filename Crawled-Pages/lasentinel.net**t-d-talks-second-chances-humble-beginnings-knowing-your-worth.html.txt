@@ -1,0 +1,328 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+ T.D. Jakes Talks: Second Chances, Humble Beginnings &amp; Knowing Your Worth             
+				By  Zon D’Amour, Contributing Writer                   
+	                	                Published September 21, 2016
+		To View full video interview click link below:
+The internationally renowned mega preacher is stepping from behind the pulpit on Sundays and into your living room five days a week with his new talk show. In an exclusive interview with the Sentinel, Bishop Jakes, shares how he relates to a younger generation and why his new series is necessary viewing for millennials.
+        ADVERTISEMENT        
+LAS: You previously shared that you discussed doing a TV project with Dr. Phil in ’09 but it  “wasn’t a good time” and you also had an evening talk-show on BET in 2013. Many people just starting out in their career are afraid to pass up on opportunities even if they may not get what they’re worth. When God gives you an idea, how do you trust that an opportunity to bring it to fruition will come back around?
+T.D. Jakes: I had built a strong brand before I had ever started the discussion of having a talk show. I think it’s important that when you’re bringing something to the table that you’re sure has value, that you don’t diminish yourself just so that you can have an opportunity. It’s better to wait for something that respects you than to go in so low that it diminishes what you’ve worked for. I have certain standards for myself so if something drops beneath that standard or if the opportunity doesn’t fit who I am authentically at my core–I don’t invest time where my brand isn’t respected or where what I have to offer isn’t appreciated. You shouldn’t shoot at
+every opportunity that passes by. But when it comes to bringing an idea that God has given you to fruition, don’t wait for it to happen again, you have to get out there and make it happen. You have to knock on doors. You can’t keep your dreams a secret. You have to put them out there on display and people can say whatever they want but keep on pointing your actions towards your dreams.
+LAS: How do you get the message across, especially to millennials that “T.D. Jakes” the talk show host isn’t the same T.D. Jakes from The Potter’s House that preaches sermons on Sundays? How are you reaching people differently but still leaving them with an important message?
+TDJ: The funny thing about it is, this experience hasn’t been that different for me. The subjects are just broader. My church is fifty percent millennials. There’s a connectivity between millennials and I. I started my ministry when I was 19, I was pastoring at 22 and I got married when I was 24, so I was building at such a young age and that fight, that dream and tenacity is still in me. I just did a show with millennials and it was amazing because their approach is different, times have changed but I understand some of the synergy that goes along with it. There’s a connectivity between your generation, my ministry and who I am as a person.
+LAS: Behind the scenes of “The T.D. Jakes Show”, your staff is so beautifully diverse. This is noteworthy because there are many talented writers, directors and producers of color that struggle to find consistent work in Hollywood. Was the diversification of your staff a conscious choice? 
+TDJ: I was looking for excellence in any color or gender it comes in. Some of my top people are African American but not all of them. Our staff is equally diverse with all types of really gifted people. The thing that binds us together is the commonality of our dreams, not our skin tone. As the old African adage says, ‘everybody skin to me ain’t kin to me’. So you can’t exclusively make that the criteria of your job selection and say that it’s right when it’s black and discrimination when it’s white. The standard is the standard and whomever walks in the door at the time I need a person in that position who can do that job with excellence and who understands my vision, if they can fulfill it, they got the job whether they’re young, old, black, white, male or female.
+Renowned mega preacher Bishop T.D. Jakes (courtesy photo)
+LAS: What prayers did you say over your life in your 20s in order to help manifest the personal and professional accomplishments you have today?
+TDJ: I don’t think it was in what I prayed because I was scared just like the kids are today. I didn’t know who I was and I didn’t know if what was in me was any good. But my parents taught me to believe in myself and to work until something happens.
+I think the thing that people do wrong today is that they pray for external validation. I wasn’t looking out, I was looking in. I knew something was in me, I just wasn’t sure how valuable it was. But I wasn’t trying to be rich or famous; I was trying to figure out what is this thing in me that won’t let me sleep that makes me restless and makes me keep pushing. I was trying to discover who I was.
+Set the goal to harvest what’s in you rather than having a car, house or a relationship. The real harvest of life is the outworking of the internal. If there’s nothing in there, there’s nothing to work out.
+LAS: Many of your messages reference the importance of not despising humble beginnings because your initial congregation only consisted of seven people. How should we stay encouraged to keep pursuing the things we’re passionate about even if we’re not seeing the fruits of our labor?
+TDJ: I think many people have an illusion of success based on entering in at a level that’s higher than their experiences. My greatest strength was when I had seven members. It’s a culture shock to go from obscurity to notoriety in a flash. Its more to it than talent and money; its pressure, stress, enemies, critics; you have to develop relationships and a team. There are all of these things that go along with taking a leap and following your dreams.
+I would tell your generation, wherever you are on the totem poll–whether you’re halfway there or at the bottom, don’t despise small beginnings; small beginnings get you ready for great things. But don’t get stuck on small. Don’t stop dreaming, reaching and enhancing what you have.
+I believe God promotes you when you graduate from the level that you’re on. He’s not going to promote you because you have a dream, He’s going to promote you because you’ve maximized where you are so now you’re ready to go to the next level.
+LAS: What are you most excited about for this season?
+TDJ: I’m having an amazing time teaching through the lives of people much like Jesus did. Jesus used parables and taught truth and I think the guests that we’re bringing out are parabolic and I’m able to wrap truth around it in a way that’s refreshing yet familiar. I’m also learning that any great teacher is a great student. The thing that I’ve most enjoyed is what I’m learning. Recently, I did a show that focused on mental illness and it impacted me in such an amazing way. We were looking at people with schizophrenia. And one of the important takeaways was how love transcends affliction because sometimes we’re so busy trying to get things and at the end of the day, all we need is love.
+LAS: Through social media, we’re constantly comparing our lives and our looks to others. How do you encourage this generation to focus on their talents without questioning their self worth?
+TDJ: We pay far too much attention to externals. If you’re gifted enough, nappy hair, gap teeth, acne face–I don’t care what it is, greatness will shine through anything! Don’t try to change the package more than you try and change the product. I don’t care how fancy you wrap trash, it’s still trash. And I don’t care how cheap the box is that you put a diamond ring in, nothing about the box diminishes the value of the content.
+Put the greatest emphasis on what’s in you; your knowledge, your wisdom, your inner strength, your character, your tenacity and people will look through the box and always walk away with the product. No one keeps the container, they always keep the product.
+T.D. Jakes airs weeknights at 6PM/5PM CST on OWN (Oprah Winfrey Network) Visit: tdjakes.com/show/ for additional local listings.
+		Categories: Entertainment | Exclusive (Entertainment) | News (Entertainment) | Religion | TV Tags: Humble Beginnings | Knowing Your Worth | Second Chances | T.D. Jakes | Zon D'Amour		
+						Harris Reaches Out to Faith Leaders as Election Nears
+						 Lexus’ ‘Verses and Flow’ Season 6 Taping Features Major Lineup of A...
+						T.D. Jakes Talks Seconds Chances, Humble Beginnings &amp; Knowing Your Wort...
+						Interview With Kristen Brown, Founder Of Gold Label Cosmetics
+						McDonald’s Inspiration Gospel Tour Returns to TASTE OF SOUL
+						Call 2 Worship – September 29
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

@@ -1,0 +1,319 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+National Congress of Black Women to Honor Shirley Chisholm at Annual Brunch            
+				By Stacy M. Brown, NNPA Newswire Correspondent                
+	                	                Published September 5, 2019
+		Shirley Chisholm, future member of the U.S. House of Representatives (D-NY), announcing her candidacy, 25 January 1972, Thomas J. O’Halloran, U.S. News &amp; World Reports. (Light restoration by Adam Cuerden)
+On Sunday, September 15, the National Congress of Black Women will celebrate its 35th annual brunch in the Thurgood Marshall Room of the Marriott Wardman Park Hotel in Washington, D.C. 
+The non-profit dedicated to the educational, political, economic and cultural development of Black women, will also honor the 50th anniversary of Shirley Chisholm’s election to Congress. 
+“We in the National Congress of Black Women consider it an honor to tell the stories of Black women and to remember them at our events as well as in our daily activities,” said Dr. E. Faye Williams, president, and CEO of the National Congress of Black Women, Inc. 
+        ADVERTISEMENT        
+“We are inspired by so many of them – especially Congresswoman Shirley Chisholm,” Williams said.  
+“Black women are awesome, but unfortunately, our true stories don’t always make the news. Mrs. Chisholm was our founder along with many great women like Dr. C. DeLores Tucker, Dr. Lezli Baskerville, Dr. Mary Frances Berry, Dr. Dorothy I. Height, Mrs. Coretta Scott King, and the Honorable Alexis Herman,” Williams said. 
+Shirley Chisholm presidential campaign, 1972  . (Courtesy photo)
+In 1968, Chisholm became the first Black woman to serve in Congress. In 1972, Chisholm became the first Black woman to seek the nomination for President of the United States from a major political party. Born in Brooklyn, New York, on November 30, 1924, Chisholm was the oldest of four daughters to Charles St. Hill, a factory worker from Guyana, and Ruby Seale St. Hill, a seamstress from Barbados. Her motto and the title of her autobiography, “Unbought and Unbossed,” illustrates her outspoken advocacy for women and minorities during her seven terms in the U.S. House of Representatives, Williams said. 
+Chisholm died in 2005 at the age of 81. 
+The 10 a.m. brunch will include a special tribute to Chisholm by Congresswomen Yvette Clarke (D-NY) and Barbara Lee (D-Texas).  
+During the 35th celebration, the National Congress of Black Women will also honor Congresswomen Lucy McBath (D-GA), Ayanna Pressley (D-MA), Jahana Hayes (D-Conn., Lauren Underwood (D-IL), and Ilhan Omar (D-MN). 
+“Several women serving in Congress today were inspired by Mrs. Chisholm. They will be at our event to pay tribute to her. When I see the newest group of Congresswomen, I can see the influence of Mrs. Chisholm in their actions, and I am so proud of them,” Williams said.  
+“They are not just pathfinders. They are trailblazers. I love their spirit and their courage, and I know that their terms in Congress will definitely make a difference for other Black women as well as our community in general,” she said. 
+Joining the organization at the brunch will be three descendants of Harriet Tubman, and Alelia Bundles, a descendant of Madame C.J. Walker.  
+“We will also be introducing an initiative called, ‘Healing the Wounds of Circumstance,'” Williams said. 
+		Categories: Legends | National | News | Political Tags: 'Healing the Wounds of Circumstance' | "Unbought and Unbossed" | 35th annual brunch | A’Lelia Bundles | also 50th anniversary of Shirley Chisholm's election to Congress | Ayanna Pressley (D-MA) | Barbara Lee (D-Texas) | Black women | Congresswoman Shirley Chisholm | Congresswomen Lucy McBath (D-GA) | Congresswomen Yvette Clarke (D-NY) | cultural development | Dr. C. DeLores Tucker | Dr. Dorothy I. Height | Dr. E. Faye Williams | Dr. Lezli Baskerville | Dr. Mary Frances Berry | Economic | educational | Harriet Tubman | Honorable Alexis Herman | Ilhan Omar (D-MN) | Jahana Hayes (D-Conn.) | Lauren Underwood (D-IL) | Madame C.J. Walker | Mrs. Coretta Scott King | National Congress of Black Women | NNPA Newswire | non-profit | pathfinders | political | Stacy M. Brown | Thurgood Marshall Room of the Marriott Wardman Park Hotel | Trailblazers | U.S. House of Representatives | Washington D.C.		
+						L.A. City Councilman Wants to Appoint Homeless People to Advisory Commissio...
+						L.A. City Council Votes to Allow Police to Remove People from Fire Zones
+						400 Years in Virginia. 500 Years in Slavery.
+						Education in the Segregated South: A Determined African American Culture
+						L.A. County Offers $10,000 Reward in Westmont Killing
+						Judge Denies Temporary Guardianship Bid by Trio of Late Rapper’s Rela...
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

@@ -1,0 +1,127 @@
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+                  success
+          fail
+		  Apr
+		  MAY
+		  May
+		  11
+		  2010
+		  2011
+		  2014
+	      	      44 captures
+	      11 May 2011 - 24 Feb 2020
+       About this capture
+    COLLECTED BY
+		Organization: Internet Archive
+	  The Internet Archive discovers and captures web pages through many different web crawls.
+At any given time several distinct crawls are running, some for months, and some every day or longer.
+View the web archive through the Wayback Machine.
+		Collection: Wide Crawl started March 2011
+	  Web wide crawl with initial seedlist and crawler configuration from March 2011.  This uses the new HQ software for distributed crawling by Kenji Nagahashi.
+What’s in the data set:
+Crawl start date: 09 March, 2011
+Crawl end date: 23 December, 2011
+Number of captures: 2,713,676,341
+Number of unique URLs: 2,273,840,159
+Number of hosts: 29,032,069
+The seed list for this crawl was a list of Alexa’s top 1 million web sites, retrieved close to the crawl start date.  We used Heritrix (3.1.1-SNAPSHOT) crawler software and respected robots.txt directives.  The scope of the crawl was not limited except for a few manually excluded sites.  
+However this was a somewhat experimental crawl for us, as we were using newly minted software to feed URLs to the crawlers, and we know there were some operational issues with it.  For example, in many cases we may not have crawled all of the embedded and linked objects in a page since the URLs for these resources were added into queues that quickly grew bigger than the intended size of the crawl (and therefore we never got to them).  We also included repeated crawls of some Argentinian government sites, so looking at results by country will be somewhat skewed.  
+We have made many changes to how we do these wide crawls since this particular example, but we wanted to make the data available “warts and all” for people to experiment with.  We have also done some further analysis of the content.
+If you would like access to this set of crawl data, please contact us at info at archive dot org and let us know who you are and what you’re hoping to do with it.  We may not be able to say “yes” to all requests, since we’re just figuring out whether this is a good idea, but everyone will be considered.
+    TIMESTAMPS
+skip to main  |
+      skip to sidebar
+Nociones Básicas de Cine
+jueves 6 de mayo de 2010
+Características del lenguaje Cinematográfico
+Tema: aquello de lo que se habla en la película. Subtema: acompañan y alimentan al tema principal.Idea: es el discurso de lo que el director esta diciendo sobre ese tema y la relacion con los subtemas. Se podría decir que es el enunciado, la reflexión.Elípsis: Salto de tiempo necesario para recortar tiempo. Se dejan afuera cosas que no vemos por no tiene relevancia, ya que el cine es una sucesión de momentos relevantes, hechos que contribuyen a los suceso de una historia). Según Truffaut "El cine es como la vida, pero sin los tiempos muertos"Gracias a este recurso economizamos información, generando fluidez narrativa.Tiempos Muertos: se utiliza en el cine de clima o atmósfera. Se pretende reproducir la vida tal cuál es.EJEMPLOS: "La Zona, Stalker", "Solaris" -Tarkovsky-; "El pasajero",  "La noche" -Antonioni-; "Fania Alexander"-Bergman- , "Paris, Texas" -Wenders-;  "La mirada de Ulises" -Angeloupoulos-; "Perdidos en Tokio" -S. Coppola-; "El sol de Membrillo" -Erice-; "Crónica de un niño solo", "El dependiente" -Favio; "Flores Rotas" -Jarmusch-.Tiempo Real: se utiliza el tiempo como elemento dramático de la historiaEJEMPLOS:"Tape", "Antes del atardecer", "Después del amanecer" - Linklater-; "El Arca Rusa" -Sokúrov-; "Hard Candy" -Slade-; "High Noon"-Zinnemann-;  "La soga" -Hitchcock-.Flashbacks: ir al pasado: recuerdos que explican el presente, mediante un mediador que recuerdeEJEMPLOS:"Citizen Kane" -Welles-; "Rashomon" -Kurosawa-.Pseudoflashback: sería lo mismo que un flashback pero con la diferencia que no se sabe si esa información es cierta o no.EJEMPLOS:"Carlito´s Way" -De Palma-; "The Usual suspects" -Singer-.Montaje Paralelo:  historias que se desarrollan al mismo tiempo historias dando una comparación de historias.EJEMPLOS:"Vidas Cruzadas" -Haggis- ; Las horas" -Daldry-.Flashfoward: es un salto en el tiempo hacia adelante. Puede significar una premonición, o un deseo de que suceda algo, y se realiza siempre mediante un mediador.EJEMPLOS"Minority Report" -Spielberg-; "Mentiras Verdaderas" -Cameron-; "Requiem por un sueño"-Aronofsky- ; La zona muerta" -Cronenberg-; Femme Fatal" -De Palma-; "El día de la marmota" -Ramis-.Fuera de CampoCampoMetonimia: Un objeto que representa un personaje en su ausencia. El cine carga de significancia a los objetos: los objetos  rodean a un personaje con su identidad, y al separarse representan a ese personaje.EJEMPLO: cuando vemos el trineo en "Citizen Kane", automáticamente lo relacionamos con el personajeSinedoque: parte del cuerpo que representa al personaje. Se da sobre todo en los planos detalle o en las fragmentaciones.EJEMPLO: en "Alien" no vemos al mounstruo entero, sino fragmentado (hasta el final de la película al menos), pero sabemos de quien se trata.Símbolo: algo que representa otra cosa. No siempre es un objeto, puede ser un sonido0, un número, un color, una canción. Representa una IDEA, pero es una cuestión culturalEJEMPLOS: en "Mars Attack" hay una escena donde al llegar los extraterrestres un humano libera una paloma, en señal de paz. Es algo que al ser universal cualquier persona podría reconocer, pero al ser algo cultural, los extraterrestres no lo asimilan como símbolo de paz y la exterminan.En "Back to the Future" podemos relacionar al Delorean como símbolo de tecnologíaDiégesis: contexto de un film, universo ficcional de una película. Es el marco del relato.Si lo relacionamos con el término anterior podemos decir que existen:Símbolos diegéticos: la cosa tiene relevancia en el marco de ese film, no tendría la misma significacia en otro contextoEJEMPLO: en  "Un oso rojo", el oso rojo es el símbolo de amor entre el padre y la hijaSímbolos extradiegéticos: son símbolos universales, que podrían aplicarse a cualquier contextoEJEMPLO: en "El exorsista" vemos reiteradas veces cruces, que en cualquier contexto podríamos relacionarlo con el cristianismo.Metáfora: Surge de la conjunción de 2 o mas cosas que al estar juntas producen un nuevo significado.EJEMPLO: en "Taxi Driver" vemos una escena donde De Niro coloca en un vaso con agua una pastilla. Esa pastilla realiza una efervecencia que hace referencia al estado mental de su personaje.Simetría:  vínculo entre cosas que guardan cierta similitud entre si y que al asociarse se genera un nuevo significado. En cine, como en toda arte, hay que asociar para interpretar.EJEMPLO: "Titanic" guarda muchas simetrías, pero podemos nombrar el "equilibrio". Hay una escena donde Rose esta al borde del barco a punto de suicidarse. Jack va a su rescate y vemos que trastabilla. Esto se da en un momento inmaduro de su vida. Mas adelante en la película podemos verlos a los dos bailando, y Rose da una desmotración de sus dotes de bailarina y se para sobre las puntas de sus dedos del pie. Podemos ver como James Cameron hace una relación entre los pies y la idea de estabilidad y equilibrioCita: referencia de algo que esta fuera de la película Funcional: el desconocimiento de la cita no me impide el entendimiento de la obra.EJEMPLO: en "La silla del Asesino" uno de los personajes hace referencia a "Hamlet" y "Macbeth". Pero podemos entender la escena por mas que no conozcamos estas obrasNo funcional: El desconocimiento de la cita me impide el entendimiento de la obra           EJEMPLO: "Scary Movie" y sus secuelas son películas de parodias de otras, y no conocer estos otros films hace incomprensible sus chistes.Cliché: Lugar común. Situación ya conocida o trillada.EJEMPLO: las películas de zombies, o las telenovelas, recurren constantemente a clichésCameo: personaje conocido que aparece sin anuncio en cámara. Es una complicidad con el espectador si lo reconoce.EJEMPLO: en "Zoolander" vemos la aprición fugaz de muchos artistas reconocidos como  Fred Durst, Winona Ryder o Lenny KravitzEstereotipo: personaje típico, vulgarizado.EJEMPLO: en la película "Papá por siempre", el personaje principal se disfraza de anciana para poder estar cerca de sus hijos, y tiene las típicas características de señora ingles, dulce, bien educada y servicial.Arquetipo: personaje universal, poco común, complejo y original.EJEMPLOS: Charles Chaplin, Marilyn Monroe, El Quijote, Martin Fierro, Carlos Gardel.
+Publicado por
+Rose
+en
+22:46
+0
+comentarios
+Análisis de Film
+En el principio el cine fue tomado como un arte de atracciones, no como un arte, y sus primeros directores simplemente captaban imágenes de la vida cotidiana. Hoy en día la dirección se da oficialmente como carrera terciaria.Pero en sí director es el que dirige, y no es un título que uno pueda ganarse con un diploma.Una de las principales enseñanzas del director, esta en el visionado de películas, y es muy importante tener un criterio para la crítica. Hay que tener cuidado siempre de no confundir la crítica con una crónica o una reseña como la que podemos encontrar en la sección de espectáculos en el diario. Para ir entendiendo, damos los siguientes conceptos:Crítica: es un juicio de valor sobre una película, justificando esta opinión a partir de argumentos estéticos, tendiendo a una objetividad.Estética: esto es, una disciplina filosófica griega que guarda paralelismo con la ética: la ética se podría decir en resumen qué es lo "bueno o malo" y la estética, según Platón, lo bello o no bello.Análisis: metodología que nos permite la críticaLa teoría es muy importante, ya que cuando argumentamos estéticamente (o criticamos), estamos teorizando.Interpretación: entender el mensaje del autor.
+Publicado por
+Rose
+en
+22:34
+0
+comentarios
+Fundamentos de Composición
+Al momento de planificar un material audiovisual, no solo el diálogo y las actuaciones hacen al dramatismo de la escena, también tiene que ver como este compuesta visualmente la imagen:Regla de los terciosEsto es una simplificación de la llamada "Proporción Áurea" en dibujo y pintura, y sirve para dirigir o guiar la mirada del espectador al punto donde el director lo desee, logrando dinamismo en poco tiempo.Se divide el encuadre en 3 proporciones iguales horizontales y verticales, quedando 9 segmentos.EJEMPLOLas 4 lineas cruzadas serán llamadas "Líneas de Interés", mientras que las 4 intersecciones centrales serán los "centro de interes"Si la figura central (en el ejemplo el perro) se encuentra en el medio de la pantalla, la imagen se vuelve monótona y no capta tanto la atención, pero como en esta imagen, al estar desplazada se rompe la simetría y logra mas atención por parte del espectador.Líneas de estructuraSon líneas implícitas o sugeridas con elementos, que dan determinadas sensacionesHorizonales: Sugieren relax, paz. EjemploVerticales: Sugieren estacismo, rigidez. Ejemplo (primeros 45 segundos)Diagonales: Sugieren tensión, movimiento. Ejemplo (primeros 4 minutos)Curvas: Sugieren protección o sensualidad. Ejemplo Profundidad VisualPensemos una imagen plana como una foto carnet, donde se ve el fondo y arriba una figura. Ahora, si le agregamos algunas líneas diagonales que convergen en un punto, llamado "Punto de Fuga" -PF- (pudiendo este estar dentro o fuera del cuadro), podemos dar la sensación de tridimencionalidad.Perspectiva: Se busca que la imagen no sea plana, chata sino que haya una profundidad, dando mas relieve o tridimensionalidad.Tenemos que tener en mente también lo siguiente: todo lo que se acerca al  PF se verá mas grande, mientras lo que se acerca se aleja se vera más pequeño.Doble Encuadre: se le da al espacio elementos que puedan darle mas de un plano de profundidad.EJEMPLOSRitmoEsto se da cuando realizamos una reiteración de lineas, formas o figuras en el encuadre que genera dinámica y atrae la atención del espectador.A continuación ejemplos de distintos reconocidos artistas que logran este efecto
+Publicado por
+Rose
+en
+21:19
+0
+comentarios
+martes 4 de mayo de 2010
+Relaciones Espaciales
+También en una película se van conectando espacios, y podemos dividirlo en 2 tipos:Continuidad: dos planos en un mismo espacioDiscontinuidad:-Definida: cuando el espectador puede hacerse la idea de las distancia entre ambos espacios.-Indefinida: cuando el espectador no puede definir cuanto es la distancia que separa ambos espacios
+Publicado por
+Rose
+en
+19:36
+0
+comentarios
+Relaciones Temporales
+En el cine hay distintas relaciones que producen una unión de tiempo, o un paso de tiempo determinado, y hasta un retroceso.Estas son:Continuidad: sin saltos de tiempoElípsis: salto hacia adelante en el tiempo. Ayuda a acortar tiempos-Elípsis Definida: el espectador comprende el salto de tiempo, cuánto y qué pasó. Suele corresponder a un corto período. Pro ejemplo la luz o el vestuario pueden hacer el entendimiento de este paso del tiempo.-Elípsis Indefinida: el espectador no puede reconstruir cuánto y qué pasó (suele corresponder a un largo período). A veces se suele utilizar lo que se llama raccord de aprehensión retardada, que es un salto que no se ve, generando sorpresa en el espectador.Retroceso : quiebre en la diégesis. También llamado flashback. Alarga el tiempo para potenciar situaciones que para la percepción del espectador es muy corta y necesita ver más, y otras veces puede ser inconsciente.-Retroceso Definido: salto temporal medible.-Retroceso Indefinido: saltos de tiempo grandes que, suelen necesitar indicadores (ya sea con una fotografía especial, un cartel, voz off, etc).
+Publicado por
+Rose
+en
+19:25
+0
+comentarios
+Principio del Triángulo
+Esto es algo que se aplica generalmente en las películas clásicas. No es algo que hay que cumplir a raja tabla, pero si ayuda mucho para lograr climax o tensiones.Básicamente se establece que una escena se inicia con un "master shot", o plano establecimiento, que no es más que un plano general del escenario. Sirve para ubicar al espectador en el espacio en el que se va a desarrollar la acción.Luego tenemos una progreción de pares de cámaras. Esto significa que si se realizó un plano de determinadas características a un personaje, se otorga una de idénticas (o con leves modificaciones, dependiendo el dramatismo o idea que se quiera dar) características al momento de filmar al otro personaje.A medida que la cámara se acerca a los personajes, la tensión dramática crece.Los planos referencia sirven para hacer planos a un personaje, pero con la referencia del otro, viéndose parte de su espalda.Siempre debe existir una simetría entre los planos de ambos personajesDe tamañoDe duraciónDe sonido (plano sonoro)De composiciónDe angulaciónDe alturaDe ángulo con respecto al eje
+Publicado por
+Rose
+en
+19:07
+0
+comentarios
+Ley de 180°
+Esta ley nos permite lograr el raccord.El concepto de eje se refiere a la línea imaginaria que organiza el espacio cinematográfico. Tenemos un radio de 360° de posibilidades para colocar la cámara al rededor de nuestros personajes, pero solo podremos hacerlo en 180°.  A partir de la elección de nuestro eje podemos posicionar nuestra/s cámara/s.1 personaje móvil. El eje se determina en relacipon a la mirada2 o más personajes inmóviles. El eje se determina a la posiciónPersonajes / objetos en movimiento. Esto ya fue explicado con anterioridad aquíMétodos para pasar de manera fluida al otro lado del ejePero esta ley no es una prohibición por que si. En caso de romper este eje se perdería el entendimiento de la posición de los personajes, afectando la fluidez dela narración. Pero hay casos donde si es necesario realizarlo, y hay formas de no romper con la contuinidad:Movimiento de cámara: el travelling no reconoce esta leyRealizar un plano en el eje: oséa, luego del primer plano, se realiza un plano con la cámara frontal del personaje sobre el eje, y luego sin problemas realizar el plano sobre el lado del eje "prohibido"Insertar un PD (o un plano muy cerrado) que tengan una orientación neutra, antes de romper el eje.Pero hay que tener en cuenta que la cámara no puede posicionarse de un lado, cortar y pasar al otro.
+Publicado por
+Rose
+en
+18:48
+0
+comentarios
+Entradas antiguas
+Página principal
+Suscribirse a:
+Entradas (Atom)
+Seguidores
+Archivo del blog
+▼ 
+2010
+(16)
+▼ 
+mayo
+(16)
+Características del lenguaje Cinematográfico
+Análisis de Film
+Fundamentos de Composición
+Relaciones Espaciales
+Relaciones Temporales
+Principio del Triángulo
+Ley de 180°
+Continuidad
+Posicionamiento de la Cámara
+Segmentos del Espacio y Fuera de Campo
+Story Board
+Planta
+Guión Técnico
+Claqueta
+Movimientos de Cámara
+Plano
+Datos personales
+Rose
+Ver todo mi perfil

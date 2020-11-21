@@ -1,0 +1,21 @@
+        +
+      GitHub for Atom
+        The GitHub package brings Git and GitHub integration right inside your editor! Now you can switch or create branches, stage changes, commit, pull and push, resolve merge conflicts, view and checkout pull requests and more.
+        Visit the 🚀 documentation to learn how to use all the features.
+      Install
+      The GitHub package comes already bundled with Atom, so there is nothing extra to install. 🎉
+      Feedback
+      We would love to hear your feedback. If you run into any problems, please open an issue. For contributions, take a look at the contribution guide.
+      Community packages
+      We also would like to point out all the amazing packages the Atom community has already created.
+      Give them a try to further improve your Git workflows. 🙌
+      Here just a few to check out:
+        git-plus
+        git-control
+        git-time-machine
+        git-history
+        git-blame
+        context-git
+        simple-git
+        split-diff
+       with  by 

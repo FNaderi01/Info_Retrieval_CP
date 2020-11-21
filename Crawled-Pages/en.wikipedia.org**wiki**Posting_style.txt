@@ -1,0 +1,453 @@
+	Posting style
+		From Wikipedia, the free encyclopedia
+		Jump to navigation
+		Jump to search
+		Style of quoting and replying to an email or post on an Internet forum
+For the practice of posting to raise the visibility of an Internet forum thread, see Bump (Internet).
+When a message is replied to in e-mail, Internet forums, or Usenet, the original can often be included, or "quoted", in a variety of different posting styles.
+The main options are interleaved posting (also called inline replying, in which the different parts of the reply follow the relevant parts of the original post), bottom-posting (in which the reply follows the quote) or top-posting (in which the reply precedes the quoted original message). For each of those options, there is also the issue of whether trimming of the original text is allowed, required, or preferred.
+For a long time the traditional style was to post the answer below as much of the quoted original as was necessary to understand the reply (bottom or inline). Many years later, when email became widespread in business communication, it became a widespread practice to reply above the entire original and leave it (supposedly untouched) below the reply.
+While each online community differs on which styles are appropriate or acceptable, within some communities the use of the "wrong" method risks being seen as a breach of netiquette, and can provoke vehement response from community regulars.
+Contents
+1 Quoting previous messages
+1.1 Quoted line prefix
+1.2 Reply level indication
+1.3 Attribution lines
+2 Trimming and reformatting
+2.1 How much to trim
+3 Placement of replies
+3.1 Interleaved style
+3.2 Top-posting
+3.3 Bottom-posting
+3.4 Choosing the proper posting style
+3.5 Quoting support in popular mail clients
+4 References
+5 External links
+Quoting previous messages[edit]
+In an e-mail reply, it is sometimes appropriate to include a full or partial copy of the original message that is being replied to.  As opposed to in-person conversations and Internet chats, email responses may be received long after the original message was sent, so the original sender may have forgotten, misplaced or deleted the original. Many email reading programs (mail user agents) encourage this behaviour by automatically including a copy of the original message in the reply editing window.
+Quoted text from previous messages is usually distinguished in some way from the new (reply) text. At a minimum, the two parts are given different indentation. In the example below, the first line is the original message, the second line is the reply:
+    All these words are terrible. They're hurtful and they make no sense. --Mary
+Much like your posting.--Joe.
+Alternatively, special delimiter lines may be used:
+Hey Joe, Paris is in France, not England. --Mary
+--- original message ---
+You just had a call from England, from Paris I think. --Joe
+--- end of original message ---
+For extra clarity, blank lines may also be inserted between the two parts. When using an email medium that supports text markup (such as HTML or RTF), the previous text may be indicated by a distinctive font and/or color:
+    The meeting has been postponed to next Friday. --Mary
+Has the deadline for the report been moved too? --Joe
+Quoted line prefix[edit]
+  Alternative e-mail quoting styles supported by Microsoft Outlook
+See also: Usenet quoting
+A common convention in plain-text email is to prefix each line of the quoted text with a distinctive character or string.  As of 2020 (and for many years previously), the greater-than sign ("&gt;", the canonical prefix)[1] is almost universally used; but other characters such as the ASCII vertical bar character ("|") have been used as well, sometimes with one or more spaces inserted before or after the quoted text marker.
+There is no standard declaring one quote-prefix to be "right" and others to be "wrong", but some standards depend on conventional quoting. The "never issued" and obsolete "son-of-1036" draft RFC 1849 recommends "&gt;" as the quote-prefix; RFC 3676 depends on it and considers "&gt;&gt; " and "&gt; &gt; " to be semantically different. That is, "&gt;&gt; " has a quote-depth of two, while "&gt; &gt; " has a quote-depth of one, quoting a line starting with "&gt;". Most e-mail clients treat the two sequences as equivalent, however.
+The convention of quoting was common in Usenet newsgroups by 1990, and is supported by many popular  email interfaces, either by default or as a user-settable option. In Microsoft Outlook, for instance, this behavior is controlled by an option labeled "Prefix each line of the original".  Besides inserting markers automatically in quoted lines, some interfaces assume that a line starting with a "&gt;" character or similar is quoted text, and will automatically display it in a distinctive font or color:
+&gt; How is the report coming? --Mary
+It will be on your desk by noon. --Joe
+Sometimes the insertion of a quoted line marker will cause one original line to be folded as two lines in the reply, and the continuation line may not have the proper marker. To avoid ambiguity in such cases, one may consider inserting blank lines after each block of quoted text:
+&gt;The board is asking again for the sales data. We really must provide
+&gt; them with some figures. How is the report coming? --Mary
+It will be on your desk by noon. --Joe
+Quoted line markers are most commonly used in plain-text messages. In HTML messages, other devices may be used to indicate quoted text, such as HTML indentation elements like blockquote or dl.
+Reply level indication[edit]
+A message often includes text from two or more messages exchanged in previous rounds of a long discussion. If an additional quotation marker is inserted at every round, without removing any existing markers, the number of markers at the beginning of each line will show the "level" of the reply, that is, how many rounds have occurred since that line was written. These accumulated markers are usually sufficient to distinguish the parts that came from each message.  Some email interfaces recognize this convention and automatically render each level in a different color. For example:
+&gt;&gt;&gt; How is the report coming? --Mary
+&gt;&gt;
+&gt;&gt; It will be on your desk by noon. --Joe
+&gt;
+&gt; Sorry Joe, I need it by 11:00 at the latest. --Mary
+OK, but it will be missing this month's figures. --Joe
+If the discussion is between two parties only, then an even number of markers (including zero) identifies text written by the sender, while an odd number of markers identifies text by the recipient. (In the above example even numbers are Joe's text and odd numbers are Mary's.)
+No problem. 6pm it is then. --Jim
+At 10.01am Wednesday, Danny wrote:
+&gt; Whoa! I need to email a report at 5:30.
+&gt; Could you push it back an hour? --Danny
+&gt;
+&gt; At 9.40am Wednesday, Jim wrote:
+&gt;
+&gt;&gt; I'm going to suspend the mail service for approx. thirty
+&gt;&gt; minutes tonight, starting at 5pm. --Jim
+In HTML messages, blockquote or dl elements may be nested to achieve the same effect.
+Attribution lines[edit]
+Quoted material is often preceded by an attribution line that identifies its author.  These lines are particularly helpful in discussions between multiple parties. For example:
+Nancy wrote:
+&gt; Peter wrote:
+&gt;&gt; When will we have the performance figures?
+&gt; The tests will be completed next week. 
+Peter wrote:
+&gt; Mary wrote:
+&gt;&gt; We should meet today to discuss the marketing strategy.
+&gt; Better wait, we do not have the West Coast sales data yet.
+I agree with Peter.  We need the sales data and also Nancy's
+performance figures.  Let's meet next Friday after lunch.
+This reply quotes two messages, one by Nancy (itself a reply to Peter) and one by Peter (itself a reply to Mary).
+Many mail agents will add these attribution lines automatically to the top of the quoted material.  Note that a newly added attribution line should not get the quotation marker, since it is not part of the quoted text; so that the level indicator of the attribution line is always one less than the corresponding text. Doing otherwise may confuse the reader and also e-mail interfaces that choose the text color according to the number of leading markers.
+Instead of an attribution line, one may indicate the author by a comment in brackets, at the beginning of the quotation:
+&gt;&gt; [Peter:] When will we have the performance figures?
+&gt; [Nancy:] The tests will be completed next week. 
+&gt;&gt; [Mary:] We should meet today to discuss the marketing strategy.
+&gt; [Peter:] Better wait, we do not have the West Coast sales data yet.
+I agree with Peter.  We need the sales data and Nancy's
+performance figures.  Let's meet next Friday after lunch.
+Another alternative, used in Fidonet and some mail user agents, is to place the initials of the author before the quoting marker. This may be used with or without attribution lines:
+Nancy wrote:
+N&gt; Peter wrote:
+P&gt;&gt; When will we have the performance figures?
+N&gt; The tests will be completed next week. 
+Peter wrote:
+P&gt; Mary wrote:
+M&gt;&gt; We should meet today to discuss the marketing strategy.
+P&gt; Better wait, we do not have the West Coast sales data yet.
+I agree with Peter.  We need the sales data and also Nancy's
+performance figures.  Let's meet next Friday after lunch.
+Trimming and reformatting[edit]
+When replying to long discussions, particularly in newsgroup discussions, quoted text from the original message is often trimmed so as to leave only the parts that are relevant to the reply—or only a reminder thereof.  This practice is sometimes called "trim-posting" or "edited posting", and is recommended by some manuals of posting etiquette.[2]
+Sometimes an indicator of deleted text is given, usually in the form of a square bracketed tag as: "[snipped]",  "[trimmed]", or simply "[...]". The text that is retained may be edited to some extent, e.g. by re-folding the lines.  For example, if the original message was
+ This is a reminder that the project meeting which was canceled
+ last week will be held today in the 3rd floor conference room at
+ 14:30 sharp.  Everybody must attend. --Mary
+the reply may be
+  &gt; the project meeting [...] will be held today in the 3rd floor
+  &gt; conference room
+  Mary, be sure to check the mics in that room. --Joe
+or even just
+  &gt; 3rd floor conference room
+  Mary, be sure to check the mics in that room. --Joe
+Deleted text may also be replaced by a summary in brackets:
+  On Thursday, Jim wrote:
+  &gt; The movie clearly adds a sense of menace to the story
+  &gt; which is not present in the original book.
+  &gt; [...claim that the darker tone weakens the movie...]
+  I disagree.  The darker tone works well, once one understands
+  the two are aimed at different audiences.
+Automatically included text (such as signature blocks, free e-mail service ads, and corporate disclaimers) are more likely to be deleted, usually without ellipses, than manually written text.  Some posters may delete any parts of the original message that they are not replying to.  Some posters delete only parts dealing with issues that they see as  "closed", and leave any parts that, in their opinion, deserve further discussion or will be replied to in a later message.[citation needed]
+How much to trim[edit]
+Some style guides recommend that, as a general rule, quoted material in replies should be trimmed or summarized as much as possible, keeping only the parts that are necessary to make the readers understand the replies.[2]  That of course depends on how much the readers can be assumed to know about the discussion.  For personal e-mail, in particular, the subject line is often sufficient, and no quoting is necessary; unless one is replying to only some points of a long message.[2]
+In particular, when replying to a message that already included quoted text, one should consider whether that quoted material is still relevant.  For example:
+&gt;&gt; [Mary:] Shall we meet this afternoon to discuss the
+&gt;&gt; marketing strategy?
+&gt;
+&gt; [Peter:] Perhaps, if we can get all the information we need.
+&gt; Do we have the West Coast sales data yet?
+The LA office just sent them in.
+Joe
+The quote from Mary's message is relevant to Peter's reply, but not to Joe's reply.  The latter could have been trimmed to
+ &gt; [Peter:] Do we have the West Coast sales data yet?
+ The LA office just sent them in.
+ Joe
+On the other hand, in some situations, any trimming or editing of the original message may be inappropriate. For example, if the reply is being copied to a third person who did not see the original message, it may be advisable to quote it in full; otherwise the trimmed message may be misinterpreted by the new recipient, for lack of context.
+Also, when replying to a customer or supplier, it may be advisable to quote the original message in its entirety, in case the other party somehow failed to keep a copy of it.
+Placement of replies[edit]
+Interleaved style[edit]
+In the interleaved reply style (also called "inline reply", "interlined reply", "point-by-point rebuttal", or, sometimes, "bottom posting"), the original message is broken into two or more sections, each followed by a specific reply or comment.  A reply in inline style may also include some top-posted or bottom-posted comments that apply to the whole reply message, rather than to a specific point.  For example:
+I have been following the discussion about the new product line. Here are my thoughts.
+Joe wrote:
+&gt; Will our prices be competitive?
+That may not be a problem for now, we still have a quality edge.
+&gt; We do not have enough trained people on the West Coast. We have many
+&gt; new employees but they do not know our products yet.
+We can bring them here for a crash training course.
+Mary wrote:
+&gt; We still do not have a clear marketing plan. 
+Peter, would you take charge of that? Let me know if you need help.
+On the whole, I am quite optimistic.  It looks like we will be shipping
+the basic system before the end of this quarter.
+Nancy
+The interleaved reply style can also be combined with top-posting: selected points are quoted and replied to, as above, and then a full copy of the original message is appended.
+&gt; Can you present your report an hour later?
+Yes I can. The summary will be sent no later than 5pm.
+Jim
+At 10.01am Wednesday, Danny wrote:
+&gt;&gt; 2.00pm: Present report
+&gt; Jim, I have a meeting at that time. Can you present your report an hour later?
+&gt;
+&gt;&gt; 4.30pm: Send out summary of feedback
+&gt; Also if you do the above, this may need to happen later too.
+&gt; Danny
+&gt;
+&gt; At 9.40am Wednesday, Jim wrote:
+&gt;&gt; My schedule for today will be:
+&gt;&gt; 10.00am: Gather data for report
+&gt;&gt; 2.00pm: Present report to team
+&gt;&gt; 4.30pm: Send out summary of feedback
+&gt;&gt; Jim
+Interleaving was the predominant reply style in the Usenet discussion lists, years before the existence of the WWW and the spread of e-mail and the Internet outside the academic community.[3]
+Interleaving was also common originally in e-mail, because many internet users had been exposed to Usenet newsgroups and other Internet forums, where it is still used.[citation needed] The style became less common for email after the opening of the internet to commercial and non-academic personal use.[citation needed] One possible reason is the large number of casual e-mail users that entered the scene at that time.[citation needed]  Another possible reason is the inadequate support provided by the reply function of some webmail readers, which either do not automatically insert a copy of the original message into the reply, or do so without any quoting prefix level indicators.[citation needed]  Finally, most forums, wiki discussion pages, and blogs (such as Slashdot) essentially impose the bottom-post format, by displaying all recent messages in chronological order.[citation needed]. Interleaving continues to be used on technical mailing lists where clarity within complex threads is important.[citation needed].
+Top-posting[edit]
+In top-posting style, the original message is included verbatim, with the reply above it.  It is sometimes referred to by the acronym TOFU ("text over, fullquote under"). It has also been colloquially referred to as Jeopardy! reply style: as in the game show's signature clue/response format, the answers precede the question.
+Example:
+No problem.  6pm it is then.
+Jim 
+-------- Original Message --------
+From: Danny &lt;danny@example.com&gt;
+Sent: Tuesday, October 16, 2007 10:01 AM
+To: Jim &lt;jim@example.com&gt;
+Subject: RE: Job
+Whoa!  Hold on.  I have a job scheduled at 5:30 which mails out
+a report to key tech staff.  Could you please push it back an hour?
+Danny
+-------- Original Message --------
+From: Jim &lt;jim@example.com&gt;
+Sent: Tuesday, October 16, 2007 9:40 AM
+To: Danny &lt;danny@example.com&gt;
+Subject: Job
+I'm going to suspend the mail service for approx. thirty
+minutes tonight, starting at 5pm, to install some updates
+and important fixes.
+Jim
+Top-posting preserves an apparently unmodified transcript of a branch in the conversation.  Often all replies line up in a single branch of a conversation.  The top of the text shows the latest replies.  This appears to be advantageous for business correspondence, where an e-mail thread can dupe others into believing it is an "official" record.[citation needed]
+By contrast, excessive indentation of interleaved and bottom posting may turn difficult to interpret.  If the participants have different stature such as manager vs. employee or consultant vs. client, one person's cutting apart another person's words without the full context may look impolite or cause misunderstanding.
+In the earlier days of Usenet informal discussions where everyone was an equal encouraged bottom-posting.  Until the mid-1990s, posts in a net.newcomers newsgroup insisted on interleaving replies.  Usenet comp.lang hierarchy, especially comp.lang.c and comp.lang.c++ insisted on the same as of the 2010s.  The alt hierarchy tolerated top-posting.  Newer online participants, especially those with limited experience of Usenet, tend to be less sensitive to arguments about posting style.
+Top-posting can be problematic on mailing lists with ongoing discussions which eventually require someone to act on the top-posted material. For example, top-posting "Those changes look ok to me, go ahead and make them" can be very inconvenient for the person who needs to make the changes if he or she has to read through a long email trail to know which changes the top-poster is referring to. Inter-leaving the text directly below the text describing the changes is much more convenient in these cases.
+Users of mobile devices, like smartphones, are encouraged to use top-posting because the devices may only download the beginning of a message for viewing.  The rest of the message is only retrieved when needed, which takes additional download time.  Putting the relevant content at the beginning of the message requires less bandwidth, less time, and less scrolling for the user.[4][5][6]
+Top-posting is a natural consequence of the behavior of the "reply" function in many current e-mail readers, such as Microsoft Outlook, Gmail, and others.  By default, these programs insert into the reply message a copy of the original message (without headers and often without any extra indentation or quotation markers), and position the editing cursor above it.  Moreover, a bug present on most flavours of Microsoft Outlook caused the quotation markers to be lost when replying in plain text to a message that was originally sent in HTML/RTF.[citation needed]  
+For these and possibly other reasons, many users seem to accept top-posting as the "standard" reply style.
+Partially because of Microsoft's influence, top-posting is very common on mailing lists and in personal e-mail.[7][8][9][10]
+Top-posting has always been the standard format for forwarding a message to a third party, in which case the comments at the top (if any) are a "cover note" for the recipient.
+Bottom-posting[edit]
+In the "bottom-posting" style, the reply is appended to a full or partial copy of the original message. The name bottom-posting is sometimes used for inline-style replies, and indeed the two formats are the same when only one point is being replied to.
+At 10.01am Wednesday, Danny wrote:
+&gt; At 9.40am Wednesday, Jim wrote:
+&gt;&gt; I'm going to suspend the mail service for approx. thirty
+&gt;&gt; minutes tonight, starting at 5pm, to install some updates
+&gt;&gt; and important fixes.
+&gt; Whoa!  Hold on.  I have a job scheduled at 5:30 which mails out
+&gt; a report to key tech staff.  Could you push it back an hour?
+&gt;
+&gt; By the way, which systems will be updated? I had some network
+&gt; problems after last week's update.  Will I have to reboot?
+No problems. 6pm it is then.
+Basically, I will update our WWW server and firewall.
+No, you won't have to reboot.
+Bottom-posting, like inline replies, encourages posters to trim the original message as much as possible, so that readers are not forced to scroll past irrelevant text, or text that they have already seen in the original message:
+At 10.01am Wednesday, Danny wrote:
+&gt; Could you push it back an hour?
+&gt; [...] which systems will be updated?
+&gt; [...] Will I have to reboot?
+No problems. 6pm it is then.
+Basically, I will update our WWW server and firewall.
+No, you won't have to reboot.
+Choosing the proper posting style[edit]
+The choice between interleaved, top and bottom posting generally depends on the forum and on the nature of the message. Some forums (such as personal e-mail) are quite tolerant, in which case the proper style is dictated by taste and effectiveness.  In any case one should consider whether the reply will be easily read by the intended recipient(s).  Their e-mail interfaces may have different rules for handling quoted line markers and long lines, so a reply that looks readable in one's screen may be jumbled and incorrectly colored on theirs.  Blank lines and judicious trimming of the original text may help avoid ambiguity.
+The interleaved reply style can require more work in terms of labeling lines, but possibly less work in establishing the context of each reply line. It also keeps the quotes and their replies close to each other and in logical reading order, and encourages trimming of the quoted material to the bare minimum. This style makes it easier for readers to identify the points of the original message that are being replied to; in particular, whether the reply misunderstood or ignored some point of the original text.   It also gives the sender freedom to arrange the quoted parts in any order, and to provide a single comment to quotations from two or more separate messages, even if these did not include each other.
+Top- and bottom-posting are sometimes compared to traditional written correspondence in that the response is a single continuous text, and the whole original is appended only to clarify which letter is being replied to. Customer service e-mail practices, in particular, often require that all points be addressed in a clear manner without quoting, while the original e-mail message may be included as an attachment.  Including the whole original message may be necessary also when a new correspondent is included in an ongoing discussion.[11][12]  Especially in business correspondence, an entire message thread may need to be forwarded to a third party for handling or discussion. On the other hand, in environments where the entire discussion is accessible to new readers (such as newsgroups or online forums), full inclusion of previous messages is inappropriate; if quoting is necessary, the interleaved style is probably best.
+If the original message is to be quoted in full, for any reason, bottom-posting is usually the most appropriate format—because it preserves the logical order of the replies and is consistent with the Western reading direction from top to bottom.
+It is not uncommon during discussions concerning top-posting vs. bottom-posting to hear quotes from "Netiquette Guidelines (RFC 1855)". While many RFCs are vetted and approved though a committee process, some RFCs, such as RFC 1844, are just "Informational" and in reality, sometimes just personal opinions. (Additional information on "Informational" RFCs can be found in RFC 2026, under "4.2.2  Informational" and "4.2.3  Procedures for Experimental and Informational RFCs".) The nature of RFC 1855 should be considered while reading the following discussion.
+According to RFC 1855, a message can begin with an abbreviated summary; i.e. a post can begin with a paraphrasing instead of quoting selectively.  Specifically, it says:
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}If you are sending a reply to a message or a posting be sure you summarize the original at the top of the message, or include just enough text of the original to give a context. This will make sure readers understand when they start to read your response.  Since NetNews, especially, is proliferated by distributing the postings from one host to another, it is possible to see a response to a message before seeing the original. Giving context helps everyone. But do not include the entire original!
+Interleaved reply combined with top-posting combines the advantages of both styles. However this also results in some portions of the original message being quoted twice, which takes up extra space and may confuse the reader.
+In forwarding it is sometimes preferred to include the entire original message (including all headers) as a MIME attachment, while in top-posted replies these are often trimmed or replaced by an attribution line. An untrimmed quoted message is a weaker form of transcript, as key pieces of meta information are destroyed.  (This is why an ISP's Postmaster will typically insist on a forwarded copy of any problematic e-mail, rather than a quote.)  These forwarded messages are displayed in the same way as top-posting in some mail clients. Top-posting is viewed as seriously destructive to mailing-list digests, where multiple levels of top-posting are difficult to skip.  The worst case would be top-posting while including an entire digest as the original message.
+Some believe that "top-posting" is appropriate for interpersonal e-mail, but inline posting should always be applied to threaded discussions such as newsgroups.
+This example is occasionally used in mailing lists to mock and discourage top-posting:[13][14][15]
+A: Because it messes up the order in which people normally read text.
+Q: Why is top-posting such a bad thing?
+A: Top-posting.
+Q: What is the most annoying thing in e-mail?
+Bottom-posting preserves the logical order of the replies and is consistent with the Western reading direction from top to bottom.
+The major argument against bottom-posting is that scrolling down through a post to find a reply is inconvenient, especially for short replies to long messages, and many inexperienced computer users may not know that they need to scroll down to find a reply to their query. When sending an untrimmed bottom-posted message, one might indicate inline replies with a notice at the top such as "I have replied below." However, as many modern mail programs are capable of displaying different levels of quotation with different colors (as seen in the bottom-posting example on this page), this is not so much of an issue any more. Another method to indicate that there is more reply text still to come is to always end your text with a signature line. Then a reader who is familiar with your reply style will know to continue to read until your signature line appears. This method is particularly polite and useful when using the inline reply method, since it tells the reader that your response is complete at the point where your signature line appears.
+Quoting support in popular mail clients[edit]
+This widespread policy in business communication made bottom and inline posting so unknown among most users that some of the most popular email programs no longer support the traditional posting style. For example, Microsoft Outlook, AOL, and Yahoo! make it difficult or impossible to indicate which part of a message is the quoted original or do not let users insert comments between parts of the original.
+Yahoo! does not have the option "Quote the text of the original message" in Mail Classic, but this setting is retained after turning it on in All-New Mail and then switching back to Mail Classic. Inline replying is broken in Microsoft Outlook, which despite choosing the setting to prefix each line of the original with the "greater-than" character (&gt;) produces a blue line that makes answers inserted between quotes of an HTML email look like part of the original. The workarounds are to use the setting "read all standard mail in plain text", or to use the "Edit Message" option on the original email and convert it to plain text before replying (then discard the edited version).[16]
+References[edit]
+^ R. Gellens (February 2004), RFC 3676 The Text/Plain Format and DelSp Parameters
+^ a b c S. Hambridge (October 1995), Network Working Group RFC 1855 Netiquette Guidelines
+^ Archives of Usenet posts at Google Groups prior to the beginning of the WWW (1993).
+^ My rapidly growing email habit Archived January 19, 2007, at the Wayback Machine blog post
+^ Stopping SirCam Archived September 28, 2007, at the Wayback Machine—postfix.org mailing list
+^ Top Posting and Mobiles—Jabber mailing list
+^ "reply intelligently to e-mail". TechRepublic. 2006-01-19. Archived from the original (blog post and responses) on 2008-03-08. Retrieved 2013-04-12..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}
+^ Various authors (2004-03-19). "Top posting" (Mailing list thread). FreeBSD mailing list. Retrieved 2007-01-11.
+^ Various authors (2002-10-13). "Top-posting is so Microsoftish". SuSE Linux English discussion. Archived from the original (Mailing list thread) on 2004-12-24. Retrieved 2007-01-11.
+^ Kennedy, Angus J.; Peter Buckley; Duncan Clark (October 2003).  Andrew Dickson (ed.). The Rough Guide to the Internet 9 (Google Book Search) (2004 ed.). London: Penguin Books. p. 241. ISBN 1-84353-101-1. Retrieved 2007-01-11. It used to be taboo to reply at the top of a message ("top posting") until Microsoft made it the default setting
+^ Quoting: Top Posting—Dan's Mail Format Site
+^ Sensible email Archived October 17, 2006, at the Wayback Machine—Blog post and discussion
+^ "ARM Linux - Mailing Lists - Etiquette". linux.org.uk.
+^ "Top Posting and Bottom Posting". idallen.com.
+^ "What is Top Posting?". what-is-what.com.
+^ "Making Outlook 2007 quote responsibly". loftninjas.org.
+External links[edit]
+"top-post" in The Jargon File (version 4.4.7)
+Quoting Style—How to use quote using interleaved quoting instead of top-posting
+Why is Bottom-posting better than Top-posting
+"In Defence of Top-Posting". Archived from the original on 2007-06-07. Retrieved 2013-04-12.
+Outlook Quotefix, Outlook Express Quotefix and OE PowerTool—third party utilities for automatically reformatting quoted text in Microsoft mail products
+The Trim-Posting Manifesto
+Using Internet e-mail
+The Aglami Top-Posting FAQ
+Stewart, Godwin (2006-09-07). "USENET and Mailing List posting netiquette". Retrieved 2008-03-10. (see #9 for comments on proper inline quoting)
+"Mailing and Posting Etiquette: Quote Judiciously". River of Stars. 2004-01-14. Retrieved 2013-04-12.
+"Mailing and Posting Etiquette: Post In-line for Context". River of Stars. 2004-01-14. Retrieved 2013-04-12.
+Judith. "Email Etiquette: Courtesy #6 ~ Always Respond Promptly (and Down-edit)". TheIStudio.com using the brand NetM@nners.com. Retrieved 2013-04-12. (see the fourth paragraph)
+Easter, Mike (2006-04-03). "Re: Joe jobs - was Re: Victim of Spam-Trap addresses..." SpamCop. Archived from the original on 2013-02-22. Retrieved 2008-03-10.
+Meiss, Alan (2005-03-16). "101 Ways to be Obnoxious on Usenet". Epsilon 3 Productions. Archived from the original on 2005-03-16. Retrieved 2013-04-12.
+Sherwood, Kaitlin Duck. "Email Guide - Email Tutorial - Learn Email Basics". newbie.org. Retrieved 2008-03-10.
+vteWeb syndication
+History
+Blogging
+Podcasting
+Vlogging
+Web syndication technology
+Types
+Art
+Bloggernacle
+Classical music
+Corporate
+Dream diary
+Edublog
+Electronic journal
+Fake
+Family
+Fashion
+Food
+Health
+Law
+Lifelog
+Litblog
+MP3
+News
+Photoblog
+Police
+Political
+Prayer
+Project
+Reverse
+Travel
+Warblog
+TechnologyGeneral
+BitTorrent
+Feed URI scheme
+Features
+Linkback
+Permalink
+Ping
+Pingback
+Reblogging
+Refback
+Rollback
+Trackback
+Mechanism
+Conversation threading
+Geotagging
+RSS enclosure
+Synchronization
+Memetics
+Atom feed
+Data feed
+Photofeed
+Product feed
+RDF feed
+Web feed
+RSS
+GeoRSS
+MRSS
+RSS TV
+Social
+Inter-process communication
+Livemark
+Mashup
+Referencing
+RSS editor
+RSS tracking
+Streaming media
+Standard
+OML
+OPML
+RSS Advisory Board
+Usenet
+World Wide Web
+XBEL
+XOXO
+Form
+Audio podcast
+Enhanced podcast
+Mobilecast
+Narrowcasting
+Peercasting
+Screencast
+Slidecasting
+Videocast
+Webcomic
+Webtoon
+Web series
+Anonymous blogging
+Collaborative blog
+Columnist
+Instant messaging
+Liveblogging
+Microblog
+Mobile blogging
+Roblog
+Spam blog
+Video blogging
+Motovlogging
+MediaAlternative media
+Carnivals
+Fiction
+Journalism
+Citizen
+Database
+Online diary
+Search engines
+Sideblog
+Software
+Web directory
+Micromedia
+Aggregation
+News
+Poll
+Review
+Search
+Video
+Atom
+AtomPub
+Broadcatching
+Hashtag
+NewsML
+1
+G2
+Social communication
+Social software
+Web Slice
+Related
+Blogosphere
+Escribitionist
+Glossary of blogging
+Pay per click
+Posting style
+Slashdot effect
+Spam in blogs
+Uses of podcasting
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Posting_style&amp;oldid=975076780"
+		Categories: EmailEtiquetteInternet cultureUsenetHidden categories: Webarchive template wayback linksPages using RFC magic linksArticles with short descriptionShort description matches WikidataAll articles with unsourced statementsArticles with unsourced statements from April 2009Articles with unsourced statements from March 2009Articles with unsourced statements from September 2010Articles with unsourced statements from January 2012Articles with unsourced statements from April 2016Articles with unsourced statements from April 2011
+	Navigation menu
+		Personal tools
+		Not logged inTalkContributionsCreate accountLog in
+		Namespaces
+		ArticleTalk
+		Variants
+		Views
+		ReadEditView history
+		More
+		Search
+		Navigation
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		Contribute
+		HelpLearn to editCommunity portalRecent changesUpload file
+		Tools
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		Print/export
+		Download as PDFPrintable version
+		Languages
+		한국어
+		Edit links
+		 This page was last edited on 26 August 2020, at 16:19 (UTC).
+		Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+		Privacy policy
+		About Wikipedia
+		Disclaimers
+		Contact Wikipedia
+		Mobile view
+		Developers
+		Statistics
+		Cookie statement

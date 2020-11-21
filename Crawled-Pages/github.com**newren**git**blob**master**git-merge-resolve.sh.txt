@@ -1,0 +1,189 @@
+      Skip to content
+                Sign up
+                    Why GitHub?
+                    Features →
+                      Code review
+                      Project management
+                      Integrations
+                      Actions
+                      Packages
+                      Security
+                      Team management
+                      Hosting
+                      Mobile
+                      Customer stories →
+                      Security →
+                Team
+                Enterprise
+                    Explore
+                      Explore GitHub →
+                    Learn &amp; contribute
+                      Topics
+                        Collections
+                      Trending
+                      Learning Lab
+                      Open source guides
+                    Connect with others
+                      Events
+                      Community forum
+                      GitHub Education
+                      GitHub Stars program
+                Marketplace
+                    Pricing
+                    Plans →
+                      Compare plans
+                      Contact Sales
+                      Nonprofit →
+                      Education →
+     -->
+        In this repository
+        All GitHub
+      ↵
+      Jump to
+      ↵
+    No suggested jump to results
+        In this repository
+        All GitHub
+      ↵
+      Jump to
+      ↵
+        In this repository
+        All GitHub
+      ↵
+      Jump to
+      ↵
+          Sign in
+              Sign up
+      {{ message }}
+      newren
+    /
+    git
+    forked from git/git
+    Watch
+      1
+      Star
+      1
+          Fork
+        20k
+            Code
+            Pull requests
+              0
+            Actions
+            Projects
+              0
+            Security
+            Insights
+            More
+                    Code
+                    Pull requests
+                    Actions
+                    Projects
+                    Security
+                    Insights
+    Permalink
+          Dismiss
+        Join GitHub today
+        GitHub is home to over 50 million developers working together to host and review code, manage projects, and build software together.
+        Sign up
+      master
+        git/git-merge-resolve.sh
+        Go to file
+                Go to file
+                T
+                  Go to line
+                  L
+                Copy path
+          Cannot retrieve contributors at this time
+      executable file
+      54 lines (50 sloc)
+    944 Bytes
+      Raw
+        Blame
+        #!/bin/sh
+        #
+        # Copyright (c) 2005 Linus Torvalds
+        # Copyright (c) 2005 Junio C Hamano
+        #
+        # Resolve two trees, using enhanced multi-base read-tree.
+        # The first parameters up to -- are merge bases; the rest are heads.
+        bases= head= remotes= sep_seen=
+        for arg
+        do
+        	case ",$sep_seen,$head,$arg," in
+        	*,--,)
+        		sep_seen=yes
+        		;;
+        	,yes,,*)
+        		head=$arg
+        		;;
+        	,yes,*)
+        		remotes="$remotes$arg "
+        		;;
+        	*)
+        		bases="$bases$arg "
+        		;;
+        	esac
+        done
+        # Give up if we are given two or more remotes -- not handling octopus.
+        case "$remotes" in
+        ?*' '?*)
+        	exit 2 ;;
+        esac
+        # Give up if this is a baseless merge.
+        if test '' = "$bases"
+        then
+        	exit 2
+        fi
+        git update-index -q --refresh
+        git read-tree -u -m --aggressive $bases $head $remotes || exit 2
+        echo "Trying simple merge."
+        if result_tree=$(git write-tree 2&gt;/dev/null)
+        then
+        	exit 0
+        else
+        	echo "Simple merge failed, trying Automatic merge."
+        	if git merge-index -o git-merge-one-file -a
+        	then
+        		exit 0
+        	else
+        		exit 1
+        	fi
+        fi
+            Copy lines
+            Copy permalink
+        View git blame
+       -->
+        Go
+        © 2020 GitHub, Inc.
+          Terms
+          Privacy
+  Cookie Preferences
+          Security
+          Status
+          Help
+          Contact GitHub
+          Pricing
+        API
+        Training
+          Blog
+          About
+    You can’t perform that action at this time.
+    You signed in with another tab or window. Reload to refresh your session.
+    You signed out in another tab or window. Reload to refresh your session.
+  We use optional third-party analytics cookies to understand how you use GitHub.com so we can build better products.
+              Learn more.
+              Accept
+              Reject
+  We use optional third-party analytics cookies to understand how you use GitHub.com so we can build better products.
+              You can always update your selection by clicking Cookie Preferences at the bottom of the page.
+              For more information, see our Privacy Statement.
+              Essential cookies
+              We use essential cookies to perform essential website functions, e.g. they're used to log you in. 
+                Learn more
+              Always active
+              Analytics cookies
+              We use analytics cookies to understand how you use our websites so we can make them better, e.g. they're used to gather information about the pages you visit and how many clicks you need to accomplish a task. 
+                Learn more
+                Accept
+                Reject
+            Save preferences

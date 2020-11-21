@@ -1,0 +1,331 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Many Say Education of King’s Life, Legacy Remains Critical for Young People            
+				By Stacy M. Brown, NNPA Newswire Senior Correspondent                
+	                	                Published February 27, 2020
+		President Lyndon B. Johnson meets with Martin Luther King, Jr. at the signing of the Voting Rights Act of 1965. August 6, 1965. (Photo: Lyndon Baines Johnson Library and Museum / Wikimedia Commons)
+More than a half-century after the death of Rev. Dr. Martin Luther King Jr., many of America’s youth are still in the dark about the life and legacy of the nation’s foremost civil rights leader.
+Brainly, the world’s largest online learning platform, recently surveyed more than 1,700 U.S. students to understand better what they know – and don’t know – about Dr. King, his life, and his legacy.
+It turns out; the answer is not much.
+        ADVERTISEMENT        
+According to the data, 63 percent of U.S. students incorrectly identified Dr. King’s accomplishments or were not aware of some of the most important things he did to contribute to America’s Civil Rights Movement.
+As an example, the survey found that more than 25 percent of U.S. students said that he did not lead the Montgomery Bus boycott.
+Also, about 18 percent said they were not aware that Dr. King organized the famous “March on Washington.”
+What’s more, a stunning 19 percent said Dr. King didn’t give his most famous speech, “I Have a Dream.”
+In an email, Brainly officials told NNPA Newswire that its mission is to democratize education and ensure that all students have equal access to the resources they need to be academically successful.
+The organization stated that this was particularly important ahead of Martin Luther King, Jr. Day as the country and the world reflects on the major impact Dr. King had on the U.S. and the globe, and how his sacrifice has left an indelible impression on the cause for equality.
+For those who understand King’s legacy, they said education and reflection are most important – particularly in observing the holiday that honors Dr. King.
+“MLK Day is a day to recommit to the fight for equality and inclusion. To remember who we want to be as individuals and as a country,” stated Lena Hackett, executive director and managing partner of the Kennedy King Memorial Initiative, a nonprofit based in Indianapolis that works to commemorate the historic speech delivered by Sen. Robert F. Kennedy in Indiana on the night Dr. King was assassinated.
+“The best way to commemorate Dr. King is for America to re-read his sermons and gain a renewed appreciation for their timeless wisdom on racial reconciliation, justice, family, and faith,” stated Frederick Weaver, a GIS Specialist who researches African American historical figures.
+“Then, we must individually and collectively act on that wisdom to solve today’s challenges,” Weaver stated. MLK Day is a day of service and reflection for America, especially the Black community. It is a time to acknowledge remaining injustices and problems to be fought while celebrating areas where society has improved,” Weaver continued.
+Lucinda Cross, an author and marketing coach at Activate Worldwide LLC, noted that the best way to commemorate Dr. King’s holiday is by “throwing a large ‘Dream Board’ party where young children and even their parents come together to create dream boards for future goals.”
+“MLK day means a day to reflect on one man’s dream for the nation and how important it is for us to dream big enough for others.
+Thinking of selfless dreams that can change the communities in which we live, work, and serve,” Cross stated.
+“MLK day is a day of permission to believe that all it takes is a dream and the belief to verbalize it and act on it in spite of.”
+Alex Tran, a digital marketing strategist, said he believes the best way for children and all others to commemorate Dr. King is to live a life where respect is given and received freely regardless of race, skin color, gender, and sexual orientation.
+“It’s a time for us to reflect on how much our nation has changed and what we still need to do to foster equality and justice for all,” Tran stated.
+“I created an organization where we teach current and former foster youth, and beyond, what it means to be confident, have self-worth, respect others and live life as authentic contributing human beings. We teach lessons that are not traditionally taught in school until college, and this includes communication, critical thinking, finance, and health and wellness.”
+While preschoolers and those in kindergarten may not be prepared to learn intricate details of the civil rights movement, a recent NBC Today Show study noted that elementary school students should be provided books that teach about Dr. King’s life and legacy.
+Also, middle schoolers should be taught, or reintroduced, to Dr. King’s “I Have a Dream” speech, which could educate them on stereotypes and other biases.
+NBC’s study also concluded that high school students should be taught how Dr. King “walked the walk and talked the talk.” Teenagers can understand the modern civil rights movement and Dr. King’s leading role in it as he risked his life to he lead the Montgomery Bus Boycott of 1955 and the March on Washington in 1963, which helped facilitate passage of the Civil Rights Act of 1964 abolishing discrimination based on race, color, religion, sex or nationality, NBC researchers stated.
+Martin Luther King Day is the perfect time to get the message across that when there’s injustice we need to stand up to it,” Steven Friedman, a middle school social studies teacher at the mostly white Brandeis Marin School in San Rafael, Calif., told the network.
+“It’s also a chance to share a message about the beauty of diversity — something to remember every day,” Friedman stated.
+@StacyBrownMedia @brainly @KennedyKing1968 @lhackett7520 @lucindaspeaks
+		Categories: History | National | News Tags: 'Dream Board' party | "I Have A Dream" | #blackhistorymonth | Activate Worldwide LLC | African American historical figures | Alex Tran | America's Civil Rights Movement | America's youth | beauty of diversity | Black History Month | Brainly | Brandeis Marin School | Civil Rights | Civil Rights Act of 1964 | civil rights movement | Color | country | democratize education | discrimination based on race | Dr. King | Dr. Martin Luther King Jr. | equality | foster equality | Frederick Weaver | gender | globe | his legacy | his life | historic speech | holiday | honors Dr. King | inclusion | Indianapolis | justice for all | Kennedy King Memorial Initiative | King's legacy | legacy | Lena Hackett | life and legacy of the nation's foremost civil rights leader | Lucinda Cross | March on Washington | Martin Luther King Jr. Day | MLK | MLK Day | Montgomery Bus Boycott | more than 1700 U.S. students | NNPA Newswire | nonprofit | race | Religion | Rev. Dr. Martin Luther King Jr. | Sen. Robert F. Kennedy | sex or nationality | sexual orientation | skin color | Stacy M. Brown | Steven Friedman | young children		
+						Black Fact of the Day: Feb. 28, 2020-Brought to you by Black365
+						NNPA EXCLUSIVE — Biden Says, ‘The Black Vote Will Determine the Nominee...
+						LMU Unveils Statue of Basketball Great, Hank Gathers
+						Destination Crenshaw Broke Ground in Leimert Park Celebrating the Future of...
+						Vanessa Bryant “Devastated” Over Reports of Deputy Photos From ...
+						Mothers In Action Hosted 4th Annual Read Across America Day
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

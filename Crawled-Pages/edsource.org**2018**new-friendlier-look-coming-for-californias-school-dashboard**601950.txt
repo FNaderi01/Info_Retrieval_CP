@@ -1,0 +1,281 @@
+How is remote learning working out?
+We need your insights! In a state as vast and diverse as California, we depend on parents, educators, students, administrators,  policymakers and community members like you to help us understand what's working at your schools, colleges and early child care centers — and what must be improved.
+Please join our community network and help inform our coverage of California education.
+.tingle-modal--overflow {
+    overflow-y: scroll;
+    padding-top: 2.5vh;
+}
+.tingle-modal-box {
+    max-width: 664px;
+}
+.tingle-modal {
+  font-family: "proxima-nova-condensed", sans-serif;
+}
+.tingle-modal p {
+  font-family: "proxima-nova-condensed", sans-serif;  
+  margin: 1em 0;
+  font-size: 1.15em;
+  line-height: 1.5em;
+}
+.content-block {
+  margin: 40px auto;
+  padding: 0px;
+  background-color: white;
+  color: #1f3d00;
+  max-width: 600px;
+  border: 7.5px solid white;
+}
+.content-inner {
+  background-color: #d7eb68;
+  padding: 28px 38px;
+}
+.content-block h1 {
+  text-align: center;
+  font-size: 242%;
+  line-height: 124%;
+}
+.content-block a {
+  color: inherit;
+  text-decoration: underline;
+}
+.tingle-modal .embed-sub.embed-minimal {
+  padding: 0px;
+}
+.tingle-modal .embed-sub.embed-minimal h3 {
+  display: none;
+}
+.tingle-modal .embed-sub.embed-minimal form {
+  margin-bottom: 32px;
+}
+.tingle-modal .embed-sub.embed-minimal form input {
+  border-radius: 0px;
+  background-color: rgba(255,255,255,.8);
+  color: #1f3d00;
+  border: 0px solid white;
+} 
+.tingle-modal .embed-sub.embed-minimal form input,
+.tingle-modal .embed-sub.embed-minimal form button {
+  font-size: 22px;
+  padding: 12px 8px 10px;
+} 
+.tingle-modal .embed-sub.embed-minimal form button {
+  background-color: #9ac43c;
+  color: #1f3d00;
+  font-weight: 600; 
+  text-transform: uppercase;
+  border-radius: 0px; 
+  border:0px solid green;
+}
+.tingle-modal .embed-sub.embed-minimal p {
+  margin: 0px 0px 6px;
+}
+.tingle-modal p:last-of-type {
+  margin-bottom: 0px;
+}
+.tingle-modal img {
+    max-width: 82%;
+    margin: 0 auto;
+}
+@media screen and (max-width:768px) {
+.tingle-modal--overflow {
+    overflow-y: scroll;
+    padding-top: 0vh;
+}
+  .tingle-modal {
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  .content-block {
+  }
+  .content-inner {
+    padding: 22px;
+  }
+  .content-block h1 {
+    text-align: center;
+    font-size: 162%;
+  }
+}
+@media screen and (max-width:480px) {
+  .content-block {
+  }
+}
+.tingle-modal-box {
+background: transparent;
+}
+}
+#custom-close {
+    top: 0px;
+    right: 0px;
+    top: 0px !important;
+    right: 0px !important;
+}
+				EXPLORE: How Prop. 15 would increase K-12 districts' fundingCoronavirus updatesQuick Guides			
+					Highlighting Strategies for Student Success
+							Donate
+							Subscribe
+					Quick search above or Advanced Search
+				☰Topics
+	Charter Schools
+	Chronic Absenteeism
+	College &amp; Careers
+	Common Core
+	Coronavirus
+	Distance Learning
+	Early Learning
+	Elections and Education
+	Getting Down to Facts
+	High-needs students
+	Legislation &amp; Budget
+	Local Control Funding
+	Math &amp; Science
+	Teachers’ Pensions: Who Pays?
+	Policy &amp; Finance
+	Race and Equity
+	Research &amp; Reports in Brief
+	School Discipline
+	Social and Emotional Learning
+	Student Wellbeing
+	Teachers
+	Teacher Shortage
+Audio &amp; Video
+	Podcasts
+	Webcasts and Webinars
+	Video
+	2017 Symposium Video Archive
+Projects
+	Rural California: An Education Divide
+	Saving Stege
+	California’s Teacher Housing Crunch
+	Tainted Taps: Lead puts California Students at Risk
+	Full Circle: California Schools Work To Transform Discipline
+	California’s Homeless Students: Undercounted, Underfunded And Growing
+	Common Core Explained
+	Local Control Funding Formula Explained
+	Special Series: Restraint in the Shadows
+Commentaries
+	Share your commentary
+Data
+	California School Dashboard Data
+	Smarter Balanced Results Database
+	States in Motion
+	Vaccination Database
+	Grad and Dropout Rates
+	LCFF Database
+	Ed-Data Partnership
+Publications
+	Newsletters
+	Publications Archive
+	Quick Guides
+	Glossary of Terms
+	Eyes on the Early Years Newsletter Archive
+About EdSource
+	Donate
+	EdSource Staff
+	Board of Directors
+	Major Donors
+	EdSource Advisory Council
+	Jobs at EdSource
+	Contact Us
+				Kindly Log In
+				Username
+				Password
+												New ‘friendlier’ look coming for California’s school dashboard
+						Website will have simpler layout, clearer translations and no more ‘pies’					
+						Testing and AccountabilitySeptember 4, 2018John Fensterwald4 Comments					
+					John FensterwaldSeptember 4, 20184 CommentsThe much-maligned California School Dashboard is getting a makeover.
+Catch the presentationThe State Board of Education will get its first glimpse of the prototype for a new Dashboard first thing at its meeting Thursday. It’s Item 1 on the agenda, starting at 8:30 am. You can watch the webcast here.
+The dashboard is the website that rates districts, schools and student groups on test scores, student suspensions and a range of measures on a scale of five colors. It’s a key element of the state’s new school accountability system, which emphasizes performance on individual indicators without a single summative rating like a letter grade.
+Since its debut in spring 2017, the dashboard has gotten a lot of criticism. Parent and school groups said they appreciated the extensive data but not the presentation, which they called confusing and hard to use. Gov. Jerry Brown responded with $300,000 in the state budget for the state to rebuild the site and hire a firm well-known for design work, Collaborative Communications, a Washington, D.C., firm that has designed data websites for organizations like the Data Quality Campaign and governments, including New York City schools.
+Dashboard 2.0 won’t roll out until the next data update scheduled for December, but prototypes are drawing good reviews. The state Board of Education will take a look at its meeting on Thursday.
+The dashboard’s target audience will be informed parents involved in their school, and parents on an advisory committee setting priorities for the district’s annual accountability report, called the Local Control and Accountability Plan or LCAP.
+“It shouldn’t be the burden of families and students to figure out data,” said Norma Rodriguez, organizing and policy director for the nonprofit Californians for Justice. A group of parents and students got an early peek at the new work and agreed that it will be easier to see how children are doing in their schools, she said.
+Rodriguez said Californians for Justice “appreciated that the department reached out to high-needs students and parents for their input” on how to make the dashboard useful for them.
+Every PTA member she spoke with thinks the new dashboard will be an improvement, said Mary Perry, vice president for education at the California State PTA, who showed a prototype to parent leaders.
+The most obvious change: No more icons of full and partially eaten pies with the number of slices corresponding to one of five performance levels (3 slices for yellow, the middle performance level, 1 for red, the lowest score). Instead, there will be a simple gauge with an arrow pointing to a color. This accommodates visual disabilities and printers that don’t print colors (see examples).
+“The movement from pies to using gauges is a real plus — far more intuitive,” said Perry.
+Under the new prototype, each performance indicator would get its own “card,” which would show how students overall did — in this case, with graduation rates. The school or district would be designated orange, the second lowest color, because the rate had dropped from the previous year to below the state’s graduation target. The “equity report” shows how many student groups performed in each color.image updated: -->
+Other big changes:
+Clearer and easier to navigate: There will be 80 percent fewer web pages by eliminating redundancy and referring “superusers” who want more details to other pages on the Department of Education web site, said Cindy Kazanis, the director of the Analysis, Measurement and Accountability division of the state Department of Education. Users will move up and down to see more data instead of clicking through to another page.
+Friendlier landing page: The new landing page is simpler. Each performance measure, like math scores on the Smarter Balanced tests, is a baseball card that a user will be able to flip over for more details on student groups’ ratings. And they’ll be able to compare overall school or district test scores with state averages — a new feature.
+Designed for mobile devices: For many families, cell phones are their computers. Mobile platforms were an after-thought for the current dashboard, which was rushed into service to meet a posting deadline.
+Real Spanish translations: Web translating tools tended to come up with inaccurate translations of academic terms. The new dashboard will use experienced Spanish translators.
+Simpler language: Needless terms like “status” and “change,” referring to the data elements behind the selection of a color, were dropped. Percentages and up/down arrows tell the story.
+There’s still work to be done. The site must be rebuilt, and the state board may want additional changes. Kazanis said that the department continues to struggle with explaining some of the data behind the ratings — how, for example, student scores on the Smarter Balanced point scale translate into colors on the dashboard.
+Collaborative Communications based its work on findings from a half-dozen meetings with parents who shared what they liked and disliked about the current dashboard, organized by the CDE Foundation. “What I saw in prototype addressed the concerns” that the parents raised, said Paul Richmond, consultant to the foundation who organized the sessions.
+To get more reports like this one,  click here to sign up for EdSource’s no-cost daily email on latest developments in education.Republish this articleShare Article John Fensterwald writes about education policy and its impact in California. Follow @jfensterEXPLORE:Local Control Funding FormulaState Education PolicyTesting and AccountabilityDataCalifornia School DashboardCindy KazanisFeaturedMary PerryNorma Rodriguez 			
+				Comments 
+				(4)				
+				Leave a Comment				
+				Your email address will not be published.
+				 Required fields are marked * *				
+					Click here to cancel reply.
+						Name *
+						Mail *
+						Website
+					Comment
+					XHTML: You can use these tags: &lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;s&gt; &lt;strike&gt; &lt;strong&gt; -->
+					Comments Policy We welcome your comments. All comments are moderated for civility, relevance and other considerations. Click here for EdSource's Comments Policy.			
+			Glenn Cox 2 years ago2 years ago	The only true measure of a student’s achievement  level is a standardized test score where each student is given a percentile ranking.
+Tom Nelson 2 years ago2 years ago	The performance information being reported  has a different focus than in the past.
+Performance comparisons now focus on a smaller perspective of the school's previous performance.
+Performance comparisons used to have a wider perspective of how a school performed compared to other (similar) schools in the state.
+When California education lags behind so many other states, this change in focus enables progress at a snail's pace to be acceptable for many of the lowest performing schools.  … Read MoreThe performance information being reported  has a different focus than in the past.
+Performance comparisons now focus on a smaller perspective of the school’s previous performance.
+Performance comparisons used to have a wider perspective of how a school performed compared to other (similar) schools in the state.
+When California education lags behind so many other states, this change in focus enables progress at a snail’s pace to be acceptable for many of the lowest performing schools.   The achievement gap between high and low performing schools will likely continue because comparisons between schools are not reported.
+That is a disservice to our democratic philosophy of creating equality for all people.
+Frances O'Neill Zimmerman 2 years ago2 years ago	This is an improvement over the dodgey ditched dashboard — any change would have been a plus.
+Big picture becomes clear: California schools are not in the clear-blue or new-growth-green.
+Doug McRae 2 years ago2 years ago	The redesign of the Dashboard appears to be a step forward for displaying and communicating the substantive meaning of the underlying graphics involved. However, it is only a surface change; if the underlying numbers are flawed for many of the multiple measures displayed, the strategic decisions made by local districts and schools based on Dashboard displays will remain flawed.
+I would particularly point to the "change" metrics for California's new status-and-change multiple measures accountability system as … Read MoreThe redesign of the Dashboard appears to be a step forward for displaying and communicating the substantive meaning of the underlying graphics involved. However, it is only a surface change; if the underlying numbers are flawed for many of the multiple measures displayed, the strategic decisions made by local districts and schools based on Dashboard displays will remain flawed.
+I would particularly point to the “change” metrics for California’s new status-and-change multiple measures accountability system as problematic and flawed. It will take several years for the “change” metrics to mature before the new system can support reliable strategic decision making.
+				Template last modified: 
+				Topics
+	College &amp; Careers
+	Commentary
+	Curriculum
+	Early Learning
+	Getting Down to Facts
+	Policy &amp; Finance
+	Reforms
+	Student Wellbeing
+Projects
+	Podcasts
+	Webcasts and Webinars
+	Rural California: An Education Divide
+	California’s Teacher Housing Crunch
+	Tainted Taps
+	Full Circle
+	California’s Homeless Students
+	Common Core Explained
+	Smarter Balanced Database
+	States in Motion
+	LCFF Guide
+	Glossary
+About EdSource
+	About Us
+	Subscribe
+	Donate
+	2017 Symposium
+	EdSource Staff
+	Board of Directors
+	Jobs at EdSource
+	Major Donors
+	Contact Us
+					436 14th St.Suite 1005Oakland, CA 94612
+					PHONE 510-433-0421 | FAX 510-433-0422
+					edsource@edsource.org
+					-->
+				Privacy Policy
+				2020 EdSource. All Rights Reserved.
+			.ssp-wave wave wave {
+				background: #28c0e1 !important;
+			}
+			           Thanks for signing up!
+			       Stay informed with our daily newsletter
+			           Sign Up
+			              I'm a human
+			  #dot { width:15px;height:15px;border-radius:15px;border:2px solid black;display:inline-block;position:relative;top:2px; }
+			  #dot:hover { cursor: pointer; }
+			  #dot.alive { background-color: red }
+			  #dot.dead { background-color:white }

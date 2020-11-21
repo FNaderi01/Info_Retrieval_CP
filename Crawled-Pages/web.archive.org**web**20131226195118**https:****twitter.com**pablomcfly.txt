@@ -1,0 +1,739 @@
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+                  success
+          fail
+		  Aug
+		  DEC
+		  Aug
+		  26
+		  2012
+		  2013
+		  2019
+	      	      6 captures
+	      13 Aug 2013 - 15 Apr 2020
+       About this capture
+    COLLECTED BY
+		Organization: Internet Archive
+	  The Internet Archive discovers and captures web pages through many different web crawls.
+At any given time several distinct crawls are running, some for months, and some every day or longer.
+View the web archive through the Wayback Machine.
+		Collection: Survey Crawl Number 0 - Started May 18th, 2013 - Ended May 15, 2014
+	  The seed for this crawl was a list of every host in the Wayback Machine
+This crawl was run at a level 1 (URLs including their embeds, plus the URLs of all outbound links including their embeds)
+The WARC files associated with this crawl are not currently available to the general public.
+    TIMESTAMPS
+            Twitter        
+    Search query
+          Search
+  Saved searches
+      Remove
+        Verified account
+        @
+    Language: English           Bahasa Indonesia  Bahasa Melayu  Dansk  Deutsch  EnglishUK  Español  Euskara  Filipino  Galego  Italiano  LOLCATZ  Magyar  Nederlands  Norsk  Polski  Português  Suomi  Svenska  Türkçe  català  français  română  Čeština  Ελληνικά  Русский  Українська мова  עִבְרִית  اردو  العربية  فارسی  हिन्दी  ภาษาไทย  日本語  简体中文  繁體中文  한국어                 Have an account? Sign in   New to Twitter? Join Today »        
+    Sign In
+    Username or email
+    Password
+  Sign in
+    Remember me
+    Forgot password?
+    Already using Twitter via text message?
+          Close all open Tweets
+  a,
+  a:hover,
+  a:focus,
+  a:active,
+  .u-linkPseudo,
+  .u-linkPseudo:hover,
+  .u-linkPseudo:focus,
+  .u-linkPseudo:active {
+    color: #E4D498;
+  }
+  .u-textUserColor {
+    color: #E4D498 !important;
+  }
+  .u-borderUserColor,
+  .u-borderUserColorHover:hover,
+  .u-borderUserColorHover:focus {
+    border-color: #E4D498 !important;
+  }
+  .u-bgUserColor,
+  .u-bgUserColorHover:hover,
+  .u-bgUserColorHover:focus {
+    background-color: #E4D498 !important;
+  }
+  .u-boxShadowInsetUserColorHover:hover,
+  .u-boxShadowInsetUserColorHover:focus {
+    -webkit-box-shadow: inset 0 0 0 5px #E4D498 !important;
+    box-shadow: inset 0 0 0 5px #E4D498 !important;
+  }
+  .ProfileTweet.is-actionable .ProfileTweet-divider:after {
+    background-color: #E4D498 !important;
+  }
+  .u-textUserColorLight {
+    color: #F4EDD5 !important;
+  }
+  .u-borderUserColorLight,
+  .u-borderUserColorLightFocus:focus {
+    border-color: #F4EDD5 !important;
+  }
+  .u-bgUserColorLight {
+    background-color: #F4EDD5 !important;
+  }
+  .u-boxShadowUserColorLighterFocus:focus {
+    -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.05), inset 0 1px 2px rgba(228,212,152,0.25) !important;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.05), inset 0 1px 2px rgba(228,212,152,0.25) !important;
+  }
+  .u-textUserColorLightest {
+    color: #FCFAF4 !important;
+  }
+  .u-borderUserColorLightest {
+    border-color: #FCFAF4 !important;
+  }
+  .u-bgUserColorLightest {
+    background-color: #FCFAF4 !important;
+  }
+  .u-bgUserColorDarkHover:hover {
+    background-color: #B6A979 !important;
+  }
+  .u-bgUserColorDarkerActive:active {
+    background-color: #887F5B !important;
+  }
+a,
+.btn-link,
+.btn-link:focus,
+.pretty-link b,
+.pretty-link:hover s,
+.pretty-link:hover b,
+.pretty-link:focus s,
+.pretty-link:focus b,
+/* Account Group */
+.metadata a:hover,
+.metadata a:focus,
+.account-group:hover .fullname,
+.account-group:focus .fullname,
+.account-summary:focus .fullname,
+.stats a:hover,
+.stats a:hover strong,
+.stats a:focus,
+.stats a:focus strong,
+.profile-modal-header .fullname a:hover,
+.profile-modal-header .username a:hover,
+.profile-modal-header .fullname a:focus,
+.profile-modal-header .username a:focus,
+.story-article:hover .metadata,
+.story-article .metadata a:focus,
+.find-friends-sources li:hover .source,
+.stream-item a:hover .fullname,
+.stream-item a:focus .fullname,
+.stream-item .view-all-supplements:hover,
+.stream-item .view-all-supplements:focus,
+.tweet .time a:hover,
+.tweet .time a:focus,
+.tweet-actions a,
+.tweet .details.with-icn b,
+.tweet .details.with-icn .Icon,
+.stream-item:hover .original-tweet .expand-action-wrapper,
+.stream-item .original-tweet.focus .expand-action-wrapper,
+.opened-tweet.original-tweet  .expand-action-wrapper,
+.stream-item:hover .original-tweet .details b,
+.stream-item .original-tweet.focus .details b,
+.stream-item.open .original-tweet .details b,
+.simple-tweet:hover .details b,
+.simple-tweet.focus .details b,
+.simple-tweet.open .details b,
+.simple-tweet:hover .details .expand-action-wrapper,
+.simple-tweet.focus .details .expand-action-wrapper,
+.simple-tweet.open .details .collapse-action-wrapper,
+.simple-tweet:hover .details .simple-details-link,
+.simple-tweet.focus .details .simple-details-link,
+.client-and-actions a:hover,
+.client-and-actions a:focus,
+.dismiss-promoted:hover b,
+.tweet .context .pretty-link:hover s,
+.tweet .context .pretty-link:hover b,
+.tweet .context .pretty-link:focus s,
+.tweet .context .pretty-link:focus b,
+.list .username a:hover,
+.list .username a:focus,
+.list-membership-container .create-a-list,
+.list-membership-container .create-a-list:hover,
+.story-header:hover .view-tweets,
+.card .list-details a:hover,
+.card .list-details a:focus,
+.card .card-body:hover .attribution,
+.card .card-body .attribution:focus,
+.events-card .card-body:hover .attribution,
+.events-card .card-body .attribution:focus,
+.new-tweets-bar,
+.onebox .soccer ul.ticker a:hover,
+.onebox .soccer ul.ticker a:focus,
+.discover-item-actions a,
+.disco-stream-item.disco_exp_actions_on_btm .more-tweet-actions .btn-link,
+.disco-stream-item.disco_exp_actions_on_btm_without_stats .more-tweet-actions .btn-link,
+.remove-background-btn,
+.stream-item-activity-me .latest-tweet .tweet-row a:hover,
+.stream-item-activity-me .latest-tweet .tweet-row a:focus,
+.stream-item-activity-me .latest-tweet .tweet-row a:hover b,
+.stream-item-activity-me .latest-tweet .tweet-row a:focus b {
+    color: #E4D498;
+}
+s,
+.pretty-link:hover s,
+.pretty-link:focus s,
+.stream-item-activity-me .latest-tweet .tweet-row a:hover s,
+.stream-item-activity-me .latest-tweet .tweet-row a:focus s {
+    color: #EEE5C1;
+}
+.vellip,
+.vellip:before,
+.vellip:after,
+.conversation-module > li:after,
+.conversation-module > li:before {
+    background-color: #EEE5C1;
+}
+.tweet .sm-reply,
+.tweet .sm-rt,
+.tweet .sm-fav,
+.tweet .sm-image,
+.tweet .sm-video,
+.tweet .sm-audio,
+.tweet .sm-geo,
+.tweet .sm-in,
+.tweet .sm-trash,
+.tweet .sm-more,
+.tweet .sm-page,
+.tweet .sm-embed,
+.tweet .sm-summary,
+.tweet .sm-chat,
+.timelines-navigation .active .profile-nav-icon,
+.timelines-navigation .profile-nav-icon:hover,
+.timelines-navigation .profile-nav-link:focus .profile-nav-icon,
+.sm-top-tweet,
+.metadata a.tweet-geo-text:hover .sm-geo,
+.discover-item .js-action-card-search:hover .sm-search,
+.discover-item .js-action-card-search:focus .sm-search {
+    background-color: #E4D498;
+}
+.tweet-action-icons .tweet .tweet-actions .sm-reply, .tweet-action-icons .tweet.opened-tweet .tweet-actions .sm-reply,
+.tweet-action-icons .tweet .tweet-actions .sm-rt, .tweet-action-icons .tweet.opened-tweet .tweet-actions .sm-rt,
+.tweet-action-icons .tweet .tweet-actions .sm-fav, .tweet-action-icons .tweet.opened-tweet .tweet-actions .sm-fav,
+.tweet-action-icons .tweet .tweet-actions .sm-trash, .tweet-action-icons .tweet.opened-tweet .tweet-actions .sm-trash,
+.tweet-action-icons .tweet .tweet-actions .sm-more, .tweet-action-icons .tweet.opened-tweet .tweet-actions .sm-more {
+    background-color: #EEE5C1;
+}
+.persistent-tweet-actions.tweet-action-icons .tweet:hover .tweet-actions .sm-reply,
+.persistent-tweet-actions.tweet-action-icons .tweet:hover .tweet-actions .sm-rt,
+.persistent-tweet-actions.tweet-action-icons .tweet:hover .tweet-actions .sm-fav,
+.persistent-tweet-actions.tweet-action-icons .tweet:hover .tweet-actions .sm-trash,
+.persistent-tweet-actions.tweet-action-icons .tweet:hover .tweet-actions .sm-more {
+    background-color: #EEE5C1;
+}
+.tweet-action-icons .stream .tweet .tweet-actions .sm-reply:hover, .tweet-action-icons .stream .tweet .tweet-actions a:focus .sm-reply,
+.tweet-action-icons .stream .tweet .tweet-actions .sm-rt:hover, .tweet-action-icons .stream .tweet .tweet-actions a:focus .sm-rt,
+.tweet-action-icons .stream .tweet .tweet-actions .sm-fav:hover, .tweet-action-icons .stream .tweet .tweet-actions a:focus .sm-fav,
+.tweet-action-icons .stream .tweet .tweet-actions .sm-trash:hover, .tweet-action-icons .stream .tweet .tweet-actions a:focus .sm-trash,
+.tweet-action-icons .stream .tweet .tweet-actions .sm-more:hover, .tweet-action-icons .stream .tweet .tweet-actions a:focus .sm-more {
+    background-color: #E4D498;
+}
+.wrapper.black {
+  background: url(https://web.archive.org/web/20131226195118im_/https://abs.twimg.com/a/1387816399/t1/img/wash-black-30.png);
+}
+.wrapper.white {
+  background: url(https://web.archive.org/web/20131226195118im_/https://abs.twimg.com/a/1387816399/t1/img/wash-white-30.png);
+}
+  body.user-style-PabloMcFly {
+        background-image: url(https://web.archive.org/web/20131226195118im_/https://si0.twimg.com/profile_background_images/602614574/twilk_background_4ffef9dbaa0ac.jpg);
+      background-position: left 40px;
+      background-attachment: fixed;
+      background-repeat: repeat;
+      background-color: #000000;
+  }
+    body.user-style-PabloMcFly .enhanced-mini-profile .mini-profile .profile-summary {
+      background-image: url(https://web.archive.org/web/20131226195118im_/https://pbs.twimg.com/profile_banners/6727142/1360690420/web);
+    }
+    body.user-style-PabloMcFly .wrapper-profile .profile-card.profile-header .profile-header-inner {
+      background-image: url(https://web.archive.org/web/20131226195118im_/https://pbs.twimg.com/profile_banners/6727142/1360690420/web);
+    }
+    body.user-style-PabloMcFly .profile-canopy .bg-img {
+      background-image: url(https://web.archive.org/web/20131226195118im_/https://pbs.twimg.com/profile_banners/6727142/1360690420/web_retina);
+    }
+        Tweets
+        Following
+        Followers
+          Favorites
+        Lists
+      Follow Pablo Mc Fly
+    Photos and videos
+          Concordia City...
+    · Change
+        © 2013 Twitter
+        About
+        Help
+          Terms
+          Privacy
+            Cookies
+          Ads info
+          Brand
+          Blog
+          Status
+          Apps
+          Jobs
+          Advertise
+          Media
+          Developers
+            Directory
+          Pablo Mc Fly
+            @PabloMcFly
+        Pseudo periodista de cine y el septimo arte. Diagramador y profesor de plastica. Algo mas?. Ah!, si, cinéfilo a muerte. ;)
+            Concordia City...
+        ·
+  flavors.me/pablomcfly
+    41,076 Tweets
+    891 Following
+    1,107 Followers
+      Follow
+     Following
+     Unfollow
+  Blocked
+  Unblock
+  Pending
+  Cancel
+        Close
+            Trends
+  Trends tailored just for you.
+  Trends offer a unique way to get closer to what you care about. They are tailored for you based on your location and who you follow.
+    Change
+    Keep tailored Trends
+            Get Worldwide Trends
+Done
+      Tweets
+    Pablo Mc Fly
+    ‏@PabloMcFly
+    2h
+      I'm at La Casa De Gogy (Wilde, Buenos Aires) http://4sq.com/1cBRWxN 
+      View details
+      Hide details
+      Reply
+      Retweet
+      Retweeted
+      Delete
+      Favorite
+      Favorited
+        More
+        Embed Tweet
+    Pablo Mc Fly
+    ‏@PabloMcFly
+    4h
+      I'm at Cinemark Palermo - @cinemarkarg (Ciudad de Buenos Aires, Buenos Aires) http://4sq.com/1dFgkLm 
+      View details
+      Hide details
+      Reply
+      Retweet
+      Retweeted
+      Delete
+      Favorite
+      Favorited
+        More
+        Embed Tweet
+    Pablo Mc Fly
+    ‏@PabloMcFly
+    7h
+      I'm at Estación 9 de Julio [Línea D] (Ciudad de Buenos Aires) http://4sq.com/19iF4qh 
+      View details
+      Hide details
+      Reply
+      Retweet
+      Retweeted
+      Delete
+      Favorite
+      Favorited
+        More
+        Embed Tweet
+    Pablo Mc Fly
+    ‏@PabloMcFly
+    18h
+      #TrueStory bien verídico... :P http://fb.me/U5XDdpGN 
+          Expand
+      Collapse
+      Reply
+      Retweet
+      Retweeted
+      Delete
+      Favorite
+      Favorited
+        More
+        Embed Tweet
+    Pablo Mc Fly
+    ‏@PabloMcFly
+    23h
+      #TrueStory... fué así nomás... #PLOP!!!... :P http://fb.me/17RslFyjW 
+          Expand
+      Collapse
+      Reply
+      Retweet
+      Retweeted
+      Delete
+      Favorite
+      Favorited
+        More
+        Embed Tweet
+    Pablo Mc Fly
+    ‏@PabloMcFly
+    23h
+      Así cualquiera trabaja feliz... :D http://fb.me/6xtRwWdzV 
+          Expand
+      Collapse
+      Reply
+      Retweet
+      Retweeted
+      Delete
+      Favorite
+      Favorited
+        More
+        Embed Tweet
+    Pablo Mc Fly
+    ‏@PabloMcFly
+    23h
+      Momento “aaah!!!” del día en 3... 2... 1... :D http://fb.me/6irqbLumd 
+          Expand
+      Collapse
+      Reply
+      Retweet
+      Retweeted
+      Delete
+      Favorite
+      Favorited
+        More
+        Embed Tweet
+    Pablo Mc Fly
+    ‏@PabloMcFly
+    23h
+      Lo politicamente incorrecto acerca de Santa Claus... ;) #Navidad http://fb.me/19qwPAkSE 
+          Expand
+      Collapse
+      Reply
+      Retweet
+      Retweeted
+      Delete
+      Favorite
+      Favorited
+        More
+        Embed Tweet
+    Pablo Mc Fly
+    ‏@PabloMcFly
+    23h
+      Ay ay ay... pobre God... :P http://fb.me/37L52Mg9h 
+          Expand
+      Collapse
+      Reply
+      Retweet
+      Retweeted
+      Delete
+      Favorite
+      Favorited
+        More
+        Embed Tweet
+    Pablo Mc Fly
+    ‏@PabloMcFly
+    23h
+      Deben estar baratas... ;) http://fb.me/6Et9g8MnC 
+          Expand
+      Collapse
+      Reply
+      Retweet
+      Retweeted
+      Delete
+      Favorite
+      Favorited
+        More
+        Embed Tweet
+    Pablo Mc Fly
+    ‏@PabloMcFly
+    25 Dec
+      #TrueStory... a festejar se ha dicho... #Navidad :D http://fb.me/6BR23q1tL 
+          Expand
+      Collapse
+      Reply
+      Retweet
+      Retweeted
+      Delete
+      Favorite
+      Favorited
+        More
+        Embed Tweet
+    Pablo Mc Fly
+    ‏@PabloMcFly
+    25 Dec
+      Gracias... #Navidad http://fb.me/SpX8cJnP 
+          Expand
+      Collapse
+      Reply
+      Retweet
+      Retweeted
+      Delete
+      Favorite
+      Favorited
+        More
+        Embed Tweet
+    Pablo Mc Fly
+    ‏@PabloMcFly
+    25 Dec
+      Almuerzo navideño familiar... :D (@ La Casa De Gogy) [pic]: http://4sq.com/1fHd6Zy 
+      View details
+      Hide details
+      Reply
+      Retweet
+      Retweeted
+      Delete
+      Favorite
+      Favorited
+        More
+        Embed Tweet
+    Pablo Mc Fly
+    ‏@PabloMcFly
+    25 Dec
+      Horarios de los cines en Capital Federal en Navidad
+La mayoría en Capital Federal cierra el 24 y abre en la... http://fb.me/2IVJ68pax 
+          Expand
+      Collapse
+      Reply
+      Retweet
+      Retweeted
+      Delete
+      Favorite
+      Favorited
+        More
+        Embed Tweet
+    Pablo Mc Fly
+    ‏@PabloMcFly
+    25 Dec
+      Horarios de los cines en Capital Federal en Navidad
+La mayoría en Capital Federal cierra el 24 y abre en la... http://fb.me/6BSSy9He8 
+          Expand
+      Collapse
+      Reply
+      Retweet
+      Retweeted
+      Delete
+      Favorite
+      Favorited
+        More
+        Embed Tweet
+    Pablo Mc Fly
+    ‏@PabloMcFly
+    24 Dec
+      Gracias a tod@s por una nochebuena y una navidad inolvidable... :D
+La familia es lo primero... ;) http://fb.me/2hOsNTdFX 
+          Expand
+      Collapse
+      Reply
+      Retweet
+      Retweeted
+      Delete
+      Favorite
+      Favorited
+        More
+        Embed Tweet
+    Pablo Mc Fly
+    ‏@PabloMcFly
+    24 Dec
+      http://fb.me/6TpHDHfV6 
+          Expand
+      Collapse
+      Reply
+      Retweet
+      Retweeted
+      Delete
+      Favorite
+      Favorited
+        More
+        Embed Tweet
+    Pablo Mc Fly
+    ‏@PabloMcFly
+    24 Dec
+      Estallo la bomba loca... :) #navidad https://vine.co/v/hElhp5mTWbX 
+        Vine
+        Play
+      9:45 PM - 24 Dec 13
+         · Details
+    Flag media
+    Flagged
+        (learn more)
+      Expand
+      Collapse
+      Reply
+      Retweet
+      Retweeted
+      Delete
+      Favorite
+      Favorited
+        More
+        Embed Tweet
+    Pablo Mc Fly
+    ‏@PabloMcFly
+    24 Dec
+      Pedro la anguila... :P #Navidad https://socialcam.com/s/2Xameitc 
+      View media
+      Hide media
+      Reply
+      Retweet
+      Retweeted
+      Delete
+      Favorite
+      Favorited
+        More
+        Embed Tweet
+    Pablo Mc Fly
+    ‏@PabloMcFly
+    24 Dec
+      Estallo #navidad !!!... :D https://vine.co/v/hElBLqewvE2 
+        Vine
+        Play
+      9:14 PM - 24 Dec 13
+         · Details
+    Flag media
+    Flagged
+        (learn more)
+      Expand
+      Collapse
+      Reply
+      Retweet
+      Retweeted
+      Delete
+      Favorite
+      Favorited
+        More
+        Embed Tweet
+            @PabloMcFly hasn't tweeted yet.
+          Back to top ↑
+    Loading seems to be taking a while.
+      Twitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.
+        Close
+        Flag this media
+        This has already been marked as containing sensitive content.
+          Flag this as containing potentially illegal content.
+        Submit
+        Cancel
+          Learn more about flagging media
+        Close
+        We’re loading your contacts…
+          (This can take a while if you’ve got a large address book.)
+        ×
+        Close
+        Close
+        Go to a person's profile
+  Saved searches
+      Remove
+        Verified account
+        @
+        Close
+        Retweet this to your followers?
+        Cancel
+        Retweet
+        Close
+        Are you sure you want to delete this Tweet?
+        Cancel
+        Delete
+        Close
+        Keyboard shortcuts
+            Note: To use these shortcuts, users of screen readers may need to toggle off the virtual navigation.
+                  Enter
+                Open Tweet details
+                  g f
+                Go to user...
+                  ?
+                This menu
+                  j
+                Next Tweet
+                  k
+                Previous Tweet
+                  Space
+                Page down
+                  /
+                Search
+                  .
+                Load new Tweets
+        Close
+        Are you sure you want to block this user?
+        Cancel
+        Block
+      Add a location to your Tweets
+        When you tweet with a location, Twitter stores that location. 
+        You can switch location on/off before each Tweet and always have the option to delete your location history.
+        Learn more
+        Turn location on
+        Not now
+      Turn off location
+        Close
+        Profile summary
+        Close
+        Your lists
+        Close
+        Create a new list
+    List name
+    List link
+    Description
+    Under 100 characters, optional
+    Privacy
+        Public · Anyone can follow this list
+        Private · Only you can access this list
+    Save list
+        Close
+        Close
+        Close
+        Embed this Tweet
+  Add this Tweet to your website by copying the code below. Learn more
+        Hmm, there was a problem reaching the server. Try again?
+            Include parent Tweet
+            Include media
+    Preview
+        Close
+            Sign up for Twitter &amp; follow @PabloMcFly
+            Sign in to Twitter
+  Sign In
+  Sign in
+      Remember me
+  ·
+  Forgot password?
+    Forgot password?
+    Already using Twitter via text message?
+              Not on Twitter? Sign up, tune into the things you care about, and get updates as they happen.
+  Sign up »
+        Close
+        Two-way (sending and receiving) short codes:
+      Country
+      Code
+      For customers of
+      United States
+      40404
+      (any)
+      Canada
+      21212
+      (any)
+      United Kingdom
+      86444
+      Vodafone, Orange, 3, O2
+      Brazil
+      40404
+      Nextel, TIM
+      Haiti
+      40404
+      Digicel, Voila
+      Ireland
+      51210
+      Vodafone, O2
+      India
+      53000
+      Bharti Airtel, Videocon, Reliance
+      Indonesia
+      89887
+      AXIS, 3, Telkomsel, Indosat, XL Axiata
+      Italy
+      4880804
+      Wind
+      3424486444
+      Vodafone
+        » See SMS short codes for other countries

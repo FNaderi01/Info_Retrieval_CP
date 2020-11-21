@@ -1,0 +1,41 @@
+.promo-bar {
+    position: fixed;
+    bottom: 20px;
+    left: calc(50% - 129px);
+    z-index: 99999;
+    background-color: #ffffff;
+    font-family: arial;
+    padding: 7px 25px;
+    border-radius: 20px;
+    border: 1px solid #efefef;
+    font-weight: 600;
+    letter-spacing: -0.3pt;
+    padding-right: 40px;
+    -webkit-animation: floatup 0.8s ease-in-out;
+    -moz-animation: floatup 0.8s ease-in-out;
+    -o-animation: floatup 0.8s ease-in-out;
+    animation: floatup 0.8s ease-in-out;
+    display: none;
+    -webkit-transition: margin .85s;
+    transition: margin .85s
+}
+.promo-bar a {
+    color: #222222
+}
+.promo-bar .close-promo-bar {
+    position: absolute;
+    right: 15px;
+    top: 7px;
+    cursor:pointer;
+}
+@keyframes floatup {
+    0% {
+        margin-bottom: -200px;
+    }
+    100% {
+        margin-bottom: 0px;
+    }
+}
+.customize .promo-bar {
+    display: block
+	}

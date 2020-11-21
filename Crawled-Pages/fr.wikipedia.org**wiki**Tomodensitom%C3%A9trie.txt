@@ -1,0 +1,231 @@
+	Aller au contenu
+		Afficher/cacher la barre latérale
+		Rechercher
+		Outils personnels
+		Non connectéDiscussionContributionsCréer un compteSe connecter
+		Navigation
+		AccueilPortails thématiquesArticle au hasardContact
+		Contribuer
+		Débuter sur WikipédiaAideCommunautéModifications récentesFaire un don
+		Outils
+		Pages liéesSuivi des pages liéesTéléverser un fichierPages spécialesLien permanentInformations sur la pageCiter cette pageÉlément Wikidata
+		Imprimer / exporter
+		Créer un livreTélécharger comme PDFVersion imprimable
+		Dans d’autres projets
+		Wikimedia Commons
+		Dans d’autres langues
+		العربيةAzərbaycancaБеларускаяБългарскиBrezhonegBosanskiCatalàکوردیČeštinaCymraegDanskDeutschΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیSuomiGaeilgeGalego客家語/Hak-kâ-ngîעבריתहिन्दीHrvatskiMagyarՀայերենBahasa IndonesiaÍslenskaItaliano日本語ಕನ್ನಡ한국어RipoarischKurdîLatinaLietuviųLatviešuമലയാളംBahasa MelayuNederlandsNorsk nynorskNorsk bokmålPolskiپښتوPortuguêsРусскийسنڌيSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaСрпски / srpskiSvenskaதமிழ்ไทยTürkçeУкраїнськаOʻzbekcha/ўзбекчаTiếng ViệtWinaray吴语中文粵語
+		Modifier les liens
+		Menu de navigation
+		Espaces de noms
+		ArticleDiscussion
+		Variantes
+		Affichages
+		LireModifierModifier le codeVoir l’historique
+		Plus
+	Tomodensitométrie
+		Un article de Wikipédia, l'encyclopédie libre.
+		Pour les articles homonymes, voir TDM et Scanner.
+Cet article ne cite pas suffisamment ses sources (mai 2013).
+Si vous disposez d'ouvrages ou d'articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l'article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références » 
+En pratique : Quelles sources sont attendues ? Comment ajouter mes sources ?
+La tomodensitométrie (TDM), dite aussi scanographie, tomographie axiale calculée par ordinateur (TACO), CT-scan (CT : computerized tomography), CAT-scan (CAT : computer-assisted tomography), ou simplement scanner ou scanneur pour l'appareil[a], est une technique d'imagerie médicale qui consiste à mesurer l'absorption des rayons X par les tissus puis, par traitement informatique, à numériser et enfin reconstruire des images 2D ou 3D des structures anatomiques. Pour acquérir les données, on emploie la technique d'analyse tomographique ou « par coupes », en soumettant le patient au balayage d'un faisceau de rayons X. 
+Bien que la possibilité théorique de créer de tels appareils ait été connue depuis le début du XXe siècle, ce n'est qu'au début des années 1970 qu'apparaissent les premiers imageurs couplés à, ou « assistés » par, des ordinateurs suffisamment puissants pour être capables de réaliser rapidement les calculs nécessaires à la reconstruction des images. Pour la mise au point de cette technique, Godfrey Newbold Hounsfield et Allan MacLeod Cormack ont été récompensés par le Prix Nobel de physiologie ou médecine en 1979.
+Dans les appareils modernes, l'émetteur de rayons X (tube à rayons X) effectue une rotation autour du patient en même temps que les récepteurs situés en face, et qui ont pour fonction de mesurer l'intensité des rayons après qu'ils ont été partiellement absorbés durant leur passage à travers le corps. Les données obtenues sont ensuite traitées par ordinateur, ce qui permet de recomposer des vues en coupes bidimensionnelles puis des vues en trois dimensions des organes. On peut faire ressortir le contraste de certains tissus, en particulier des vaisseaux sanguins, en injectant un produit dit « de contraste » (un complexe de l'iode) qui a la propriété de fortement absorber les rayons X et donc de rendre très visibles les tissus où ce produit est présent (qui apparaissent alors hyperdenses, c'est-à-dire plus « blancs » sur l'image). Grâce aux tomodensitomètres multidétecteurs (ou multi-barrettes) à acquisition spiralée (déplacement lent de la table d'examen durant l'acquisition), on obtient depuis les années 1990 une exploration très précise d'un large volume du corps humain pour un temps d'acquisition de quelques secondes.
+Comme pour toute radiographie, l'exposition répétée aux rayons X peut être nocive pour l'organisme, mais le rapport bénéfice/risque lié à l'irradiation penche largement en faveur de la tomodensitométrie, lorsque la demande d'examen est justifiée, ce qui en fait une technique d'imagerie médicale de plus en plus pratiquée. L'imagerie par résonance magnétique (IRM), technique non irradiante utilisant les champs magnétiques, représente une solution de remplacement ou un complément pour certaines applications mais ne peut pas remplacer l'imagerie scanographique dans toutes les indications.
+Sommaire
+1 Historique
+2 Les différents types d'appareils
+3 Réalisation de l'examen tomodensitométrique
+4 Complications et précautions
+4.1 Lors d'utilisation de produits de contraste iodés
+4.2 Irradiation
+5 Autres usages
+6 Bibliographie
+7 Notes et références
+7.1 Notes
+7.2 Références
+8 Voir aussi
+8.1 Articles connexes
+Historique[modifier | modifier le code]
+Le principe de la tomodensitométrie repose sur le théorème de Radon (1917) qui décrit comment il est possible de reconstruire la géométrie bidimensionnelle d'un objet à partir d'une série de projections mesurées tout autour de celui-ci. Cette méthode peut être étendue à la reconstruction de la tomographie interne d'un objet à partir de la façon dont les rayons le traversant sont absorbés suivant leurs angles de pénétration. Toutefois, les calculs nécessaires à cette technique la rendaient impraticable avant l'avènement des ordinateurs. L'ordinateur attribue à chaque pixel d'image une valeur d'échelle de gris proportionnelle à l'absorption des rayons X par le volume corporel correspondant. La densité mesurée en unités Hounsfield (UH) va de -1000 pour l'air à +1000 pour l'os dense cortical, en passant par -50 pour la graisse et 0 pour l'eau.
+  L'une des premières machines EMI.
+Le premier scanner à rayons X a été mis au point au début des années 1970 par un ingénieur britannique travaillant dans un laboratoire financé par EMI, Godfrey Newbold Hounsfield[1], d'après les travaux publiés quelques années auparavant par un physicien américain, Allan MacLeod Cormack. Ces deux savants ont ainsi obtenu le Prix Nobel de physiologie ou médecine en 1979 pour le « développement de la tomographie axiale calculée ». 
+Les premiers prototypes de tomodensitomètre ne permettaient d'« imager » que le cerveau au moyen d'une série de capteurs ou détecteurs disposés en arc de cercle autour de la tête. Pour réaliser une seule image sur ces appareils, il fallait acquérir le signal pendant plusieurs minutes. L'ordinateur auquel ils étaient couplés, nécessitait deux heures et demie pour traiter chaque coupe ou tomographie. Ces images tomodensitométriques du cerveau permirent de visualiser, pour la première fois en imagerie, le tissu cérébral et les ventricules remplis de liquide cérébrospinal. Les appareils suivants permirent ensuite de produire des images de toutes les parties du corps humain. D'une matrice grossière de 80×80, on est passé rapidement à des pixels plus petits, jusqu'à une résolution d'images de 512×512.
+Les différents types d'appareils[modifier | modifier le code]
+  Dernier cri dans la tomodensitométrie : le CT-scan à double source. Deux sources de RX placées à angle droit permettent de diviser par deux la résolution temporelle. Cela entraine une diminution du flou cinétique présent sur les CT-scan à 64 barrettes de détecteurs et permet soit une acquisition deux fois plus rapide, soit une acquisition avec une double dose de rayons X (patients obèses), soit une acquisition avec deux énergies différentes.
+Les anciennes générations de scanners à acquisition séquentielle ne permettaient d'acquérir que des coupes successives isolées : la table mobile sur laquelle le patient est étendu était déplacée de quelques millimètres dans la structure circulaire ou anneau (gantry) puis immobilisée pendant la mesure, et ainsi de suite pour chaque niveau d'acquisition assimilé à une coupe transversale. Les anciennes générations de tubes à rayons X avaient en outre une capacité d'évacuation de la chaleur trop faible pour être compatible avec une cadence d'acquisition élevée. 
+Dans les scanners spiralés ou hélicoïdaux disponibles depuis les années 1990, l'émission des rayons X est continue durant toute la séquence, la table d'examen progressant à vitesse constante et fixée (pas ou pitch en anglais) dans l'anneau. La réalisation de l'examen est beaucoup plus rapide (de quelques centaines de millisecondes à quelques secondes), et plus confortable dans beaucoup de cas (apnée de quelques secondes pour les examens thoraciques, au lieu de plusieurs apnées correspondant à chaque coupe) et fournit une meilleure qualité d'images. La durée de révolution du tube émetteur est passée de 2 secondes à 0,25 seconde sur les appareils de dernière génération. Les acquisitions rapides ont permis le développement de l’angioscanner, technique non invasive d'exploration des vaisseaux sanguins durant le court temps de transit vasculaire du produit de contraste après son injection intraveineuse, supplantant l'angiographie invasive dans maintes indications à visée diagnostique.
+Le Scanner multi-barrettes associe, à la technique hélicoïdale, un nombre de capteurs plus importants (de deux barrettes ou rangées de détecteurs sur le premier modèle de 1993, jusqu'à 320 barrettes en 2007[Quand ?], permettant des coupes plus fines et l'accession à la reconstruction tridimensionnelle de structures de taille réduite (artères coronaires ou osselets de l'oreille moyenne, par exemple). La dose d'irradiation qui en résulte est néanmoins nettement supérieure aux premières générations.  
+Le Scanner double tube (ou Scanner spectral) (Somatom Definition (2005), Somatom Definition Flash (2009) et Somatom Force de Siemens Healthineers) est le premier scanner à double source mettant en œuvre une technologie dans laquelle deux sources de rayons X disposées à angle droit l’une par rapport à l’autre offre une vitesse d’acquisition (pitch 3,4 c'est-à-dire 737 mm/s) et une résolution temporelle (65 ms) deux fois plus élevée. Il est également possible d'utiliser les deux tubes simultanément à des énergies différentes (double énergie DE), ce qui ouvre de nouveaux domaines d'utilisation, comme l’évaluation de la composition des calculs rénaux, la réduction des artefacts métalliques, l'évaluation de la perfusion pulmonaire et myocardique ou bien encore la soustraction automatique des os et du produit de contraste.
+Depuis la fin des années 1990, l'Imagerie volumétrique par faisceau conique (ou Cône beam) permet un examen précis des tissus minéralisés (dents, cartilages, os) de la tête ou de petites parties du corps (poignets, chevilles).
+Réalisation de l'examen tomodensitométrique[modifier | modifier le code]
+L'examen standard peut être fait dans toute circonstance, à condition que le patient puisse être immobile sur la table une dizaine de secondes. Il n'y a pas de nécessité d'être à jeun sauf rares explorations particulières. En cas de grossesse, la justification (indication) de l'examen et son rapport bénéfice sur risque doivent être soigneusement évalués, du fait de la sensibilité particulière du fœtus à l'irradiation, particulièrement en tout début de grossesse.
+L'examen peut nécessiter une injection intraveineuse d'un produit de contraste iodé.
+On s'assure que le patient a une fonction rénale correcte (taux sanguin de créatinine, et débit de filtration glomérulaire ou clairance de la créatinine, normaux) et qu'il n'existe pas d'antécédent personnel d'allergie à un produit de contraste iodé. Dans le cas contraire, soit l'examen est réalisé sans produit de contraste, soit l'examen est remplacé par une autre technique, soit il est reporté le temps que le patient se soit soumis aux tests d'allergologie, soit un traitement à visée préventive anti-allergique est administré au préalable par voie intraveineuse en cas d'examen urgent et sous haute surveillance. De plus, pour éviter une possible insuffisance rénale, le patient diabétique traité par des médicaments à base de metformine ou biguanides doit interrompre ce traitement anti-diabétique oral durant les 48 heures suivant l'administration de produit de contraste iodé, et le reprendre après vérification de l'absence d'apparition d'une insuffisance rénale. Il est recommandé pour tout patient, sauf contre-indication particulière, de bien s'hydrater par voie orale les heures précédant et la journée suivant l'examen.
+Une voie d'abord veineuse (cathéter court) est mise en place avant l'examen et le produit de contraste est injecté peu de temps avant l'acquisition. 
+Au moment de l'injection du produit de contraste iodé (environ 70 % des examens), la majorité des patients ressentent une sensation de chaleur au niveau de la gorge et du pelvis, qui dure environ 10  à   30 secondes et qui est liée à la vasodilatation provoquée par l'hyper-osmolarité du produit.
+Durant l'acquisition, les images sont visualisées sur une console informatique par le manipulateur en électroradiologie médicale et par le médecin radiologue.
+Simultanément, le radiologue reçoit sur sa console de visualisation et de traitement l'ensemble des données acquises (de 150 à plus de 2 000 images).
+Celles-ci se présentent sous la forme de « coupes » ou tranches d'épaisseur millimétrique (de 0,4 mm à 10 mm) que le radiologue peut étudier dans tous les plans de l'espace (sagittal, axial, coronal et obliques), et qu'il s'agit de post-traiter (augmentation de l'épaisseur des coupes visualisées, mise en valeur de certaines densités, reconstructions volumiques en 3D, extraction des vaisseaux ou des structures osseuses, navigation virtuelle endoscopique, etc.).  Images obtenues après traitement des données.
+Les images sont transmises au correspondant soit sous forme de films radiologiques ou imprimées sur papier (dans ce cas il s'agit  d'une sélection d'images dites pertinentes), soit sous format numérique, c'est-à-dire sous forme de fichiers informatiques gravés sur un support CD-ROM ; le format d'image couramment utilisé est le format « médical » DICOM nécessitant un logiciel de visualisation simple gravé avec le CD, mais parfois les images sont converties au format JPEG pour permettre la visualisation sommaire sur tout ordinateur.
+Complications et précautions[modifier | modifier le code]
+La tomodensitométrie est un examen en théorie anodin. Il existe néanmoins quelques rares contre-indications liées à l'injection éventuelle de produit de contraste iodé : insuffisance rénale, contre-indication médicamenteuse (notamment les médicaments anti-diabétiques de type II comme la metformine), allergie avérée à un ou plusieurs produits de contraste iodés, l'allaitement et bien évidemment en cas de grossesse (sauf cas particulier comme la pelvimétrie prénatale ou s'il existe une urgence vitale) .
+Les jeunes enfants, avant quatre ans, ont souvent du mal à conserver l'immobilité et nécessitent une prémédication sédative ou une contention dans un matelas adapté.
+Chez les patients anxieux ou très agités non coopératifs, une prémédication anxiolytique ou sédative (on administre des médicaments pour réduire l'anxiété ou provoquer un sommeil court et léger) voire une brève anesthésie, permettent la réalisation de l'examen. 
+Durant la grossesse, il faut éviter de principe l'exploration du pelvis ou l'utilisation de produit de contraste iodé mais le rapport bénéfice/risque doit être apprécié au cas par cas. 
+Lors d'utilisation de produits de contraste iodés[modifier | modifier le code]
+  CAT scan rénale, hépatique, contraste iodés
+Le risque est celui d'une allergie au produit de contraste allant de la simple réaction cutanée (urticaire) au choc anaphylactique engageant le pronostic vital. Pour cette raison, on privilégie les produits de contraste iodés dits « non-ioniques », et le patient ayant bénéficié d'une injection de produit de contraste iodé est gardé en surveillance quelque temps après l'administration du produit. La seule prévention raisonnablement sécurisée est de proscrire définitivement l'administration du produit de contraste particulier qui a provoqué chez un patient une réaction adverse de type allergique. En pratique, on recommande de faire pratiquer des tests d'allergie par un allergologue, qui testera tous les produits de contrastes disponibles sur le marché et indiquera dans ses conclusions s'il apparaît que le patient réagit anormalement ou non à telle ou telle préparation. Le médecin radiologue évaluera le rapport bénéfice/risque vis-à-vis des produits auxquels le patient n'aura pas réagi anormalement, sachant qu'une allergie peut apparaître ultérieurement à un produit jusqu'alors jugé sans risque.
+Les produits de contraste iodés étant néphrotoxiques, il existe également une possible aggravation d'une insuffisance rénale préexistante. Les risques sont majorés en cas de diabète et de défaut d'hydratation.
+Irradiation[modifier | modifier le code]
+Le risque est celui de développer un cancer à distance de l'examen.
+L'irradiation de la population par les rayons X utilisés en imagerie médicale a été multipliée par six aux États-Unis en un peu moins de 25 ans, la moitié des doses administrées étant imputée aux tomodensitomètres[2]. En France, elle a augmenté de 50 % entre 2002 et 2007[3]. L'augmentation de ces doses s'explique principalement par trois raisons : changement de nature des actes (augmentation du nombre d'examen fait par scanner), augmentation des doses pour obtenir une image plus contrastée, banalisation de l'acte de radiodiagnostic.
+Certains types d'examens, par la multiplicité des coupes requises, sont particulièrement irradiants comme le scanner des artères coronaires dont la dose peut atteindre, dans certains cas, 600 fois celle d'une simple radiographie pulmonaire[4]. Un examen complet du corps expose l'individu concerné à 20 mSv en une seule fois[b], soit l’équivalent de la dose de rayonnements maximum recommandée annuellement pour les salariés du nucléaire[3]. 
+Le risque individuel d'une telle exposition n'est pas nul et chaque indication d'examen doit donc être soigneusement pesée suivant le bénéfice attendu (directives de radioprotection). Ce risque peut être néanmoins estimé par des modélisations[6] ; la presse rapportait en 2010 qu'au moins 400 patients aux États-Unis avaient été exposés à une sur-irradiation lors d'examens CT de perfusion du cerveau[7]. Il peut être également quantifié statistiquement : il est d'autant plus élevé que le scanner a été réalisé chez un sujet jeune (enfant ou adolescent), avec un nombre de cancers augmenté de près d'un quart sur dix ans[8]. Ces chiffres devraient cependant diminuer, l'irradiation étant moindre qu'il y a quelques années.
+Autres usages[modifier | modifier le code]
+Examen d'objets anciens (tableaux, objets d'art...),
+Exploration des restes fossiles, notamment en paléoneurologie pour l'observation des crânes fossilisés[9].
+Examen de contenu à risque
+Examen de contenants fermés (cercueils à momies, etc.).
+Examen de l'intérieur d'un tronc ou d'une pièce de bois l'intérieur de morceaux d'arbres[10] pour y observer les structures internes et épicormiques. Des recherches suisses[11] cherchent à engager la tomodensitométrie dans les scieries, afin d'optimiser les découpes. En passant une grume au travers d'un CT, il est possible de visualiser les nœuds internes du bois, et ainsi de procéder au sciage de manière à réduire les faiblesses des planches par un ajustement de leur position par rapport aux branches. Cette méthode n'est de loin pas encore généralisée, car très onéreuse.
+Numérisation 3D d'animaux congelés ou préservés dans un fluide conservateur[12]. L’injection d’iode dans certains organes d’un animal (grenouille par exemple) permet en outre de visualiser de manière très précise les muscles, glandes, le système nerveux, des œufs, des parasites, etc. Il est ainsi prévu de numériser environ 20 000 animaux conservés dans plus d'une quinzaine de musées américains à partir de septembre 2017, dans le cadre du projet « Open Exploration of Vertebrate Diversity in 3D » (plus souvent dénommé scan-all-vertebrates), doté de 2,5 millions de dollars et soutenu par la National Science Foundation. Un représentant de 80 % des genres de vertébrés connus sera traduit en image 3D et environ 1000 spécimens seront colorés à l’iode pour montrer les tissus mous, tels que muscles, système circulatoire, cerveau, etc.[12] Ces rendus 3D seront stockés dans la base  « MorphoSource » [13] à l'Université Duke de Caroline du Nord[12] Ils seront gratuitement disponibles à condition de ne pas en faire d’usage commercial au service de la Recherche dans des domaines tels que le biomimétisme, l'anatomie comparée, la biologie du développement, la biométrie, etc. Il devient ainsi possible d’étudier dans le monde entier les détails anatomiques des organismes uniques, rares ou menacés, à partir de seulement un ou deux spécimens connus[12]. Ces rendus 3D trouveront probablement aussi d'éventuelles valorisations pédagogiques via les imprimantes 3D et les casques de réalité virtuelle.
+Bibliographie[modifier | modifier le code]
+Dr Sophie Taieb et Dr Alain Taieb, Passer un scanner, Les Asclépiades, 2003 (ISBN 2915238049)
+Notes et références[modifier | modifier le code]
+Notes[modifier | modifier le code]
+↑ Le terme scanner est aussi employé pour désigner le scanner IRM.
+↑ Le seuil à partir duquel on voit un risque de cancer radioinduit en une seule fois est de 100 mS[5].
+Références[modifier | modifier le code]
+↑ (en) Hounsfield GN, « Computerized transverse axial scanning (tomography). 1. Description of system », Br J Radiol, vol. 46, no 552,‎ 1973, p. 1016-22. (PMID 4757352, lire en ligne [PDF]) modifier.
+↑ (en)Mettler FA Jr, Thomadsen BR, Bhargavan M, Gilley DB, Gray JE, Lipoti JA, McCrohan J, Yoshizumi TT, Mahesh M, Medical radiation exposure in the U.S. in 2006: preliminary results, Health Physics, 2008; 95: 502–507.
+↑ a et b  Juliette Demey, « Santé : Trop de scanners ? », France Soir, 31 mars 2011.
+↑ (en)Hausleiter J, Meyer T, Hermann F, et al. Estimated radiation dose associated with cardiac CT angiography, JAMA. 2009;301:500-507.
+↑ (en)  UNSCEAR, Annex E: Occupational radiation exposures[PDF] in Sources and Effects of Ionizing Radiation: United Nations Scientific Committee on the Effects of Atomic Radiation UNSCEAR 2000 Report to the General Assembly, with Scientific Annexes, Volume I: Sources, 2000.
+↑ (en)Einstein AJ, Henzlova MJ, Rajagopalan S, Estimating risk of cancer associated with radiation exposure from 64-slice computed tomography coronary angiography, JAMA, 2007;298:317–323.
+↑ (en)After Stroke Scans, Patients Face Serious Health Risks, New York Times, 31 juillet 2010.
+↑ (en)Mathews JD, Forsythe AV, Brady Z, Butler MW, et al. Cancer risk in 680 000 people exposed to computed tomography scans in childhood or adolescence: data linkage study of 11 million Australians, BMJ, 2013;346:f2360.
+↑ « Scanner à rayons X et paléoanthropologie crânienne – Académie nationale de médecine | Une institution dans son temps » (consulté le 29 août 2020).
+↑  Colin F., Mothe F., Morisset J.-B., Freyburger C., Lamiche F., Fund C., Debret L., Garnier B., Canta R. [2011]. Branches, gourmands et épicormiques. Petit atlas de vues en 3D obtenues par tomographie à rayons X. Forêt Wallonne 115 : 44-53 (10 p., 17 fig., 11 réf.).
+↑ (de) « Neugestaltung der Wertschöpfungskette Holz durch den Einsatz von 3D Computertomographen bei der Rundholzvermessung. », sur Berner Fachhochschule, 26 mars 13 (consulté le 5 février 2015).
+↑ a b c et d Ryan Cross (2017) New 3D scanning campaign will reveal 20,000 animals in stunning detail | News de la revue Science | 24 aout 2017 | Biology Funding Plants &amp; Animals Technology |doi:10.1126/science.aap7604.
+↑ http://morphosource.org/.
+Voir aussi[modifier | modifier le code]
+.mw-parser-output .autres-projets>.titre{text-align:center;margin:0.2em 0}.mw-parser-output .autres-projets>ul{margin:0;padding:0}.mw-parser-output .autres-projets>ul>li{list-style:none;margin:0.2em 0;text-indent:0;padding-left:24px;min-height:20px;text-align:left;display:block}.mw-parser-output .autres-projets>ul>li>a{font-style:italic}
+Sur les autres projets Wikimedia :
+Tomodensitométrie, sur Wikimedia Commons
+Articles connexes[modifier | modifier le code]
+Imagerie médicale
+Scanner spectral
+Tomosynthèse
+Cone beam
+Cette section est vide, insuffisamment détaillée ou incomplète. Votre aide est la bienvenue ! Comment faire ?
+v · mAnalyse par rayons X
+Spectroscopie des rayons X
+Spectroscopie d'absorption des rayons X (XAS)
+XANES
+EXAFS
+Dichroïsme circulaire magnétique de rayons X
+Spectroscopie d'émission des rayons X (XES)
+Spectroscopie d'émission de rayons X induite par des particules chargées (PIXE)
+Spectroscopie de fluorescence des rayons X (XRF)
+Spectroscopie de fluorescence des rayons X en réflexion totale
+Spectroscopie photoélectronique X (XPS)
+Spectroscopie électronique Auger induite par rayons X (XAES)
+Spectroscopie de rayons X à dispersion d'énergie
+Spectroscopie de rayons X à dispersion de longueur d'onde
+Diffusion des rayons X
+Diffusion des rayons X aux petits angles (SAXS)
+Diffusion des rayons X aux grands angles (WAXS)
+Réflectométrie des rayons X (XRR)
+Diffusion inélastique résonante de rayons X (RIXS)
+Imagerie par rayons  X
+Microscopie des rayons X
+Radiographie des rayons X
+Tomodensitométrie
+Coronarographie
+Diffraction des rayons X (XRD)
+v · mProduits de contraste
+Imagerie par rayons X :  Radiographie, Tomodensitométrie, Coronarographie
+Iodés
+Acide diatrizoïque
+Iohexol
+Acide iotroxique
+barytés
+Sulfate de baryum
+Imagerie par résonance magnétique (IRM)
+Gadolinium
+Citrate d'ammonium ferrique
+Oxyde de fer
+Nanoparticule
+Bromure de perfluorooctyle
+Échocardiographie de contraste
+Microparticules de galactose
+Perfluoropentane
+Perfluorobutane
+Microsphère de phospholipides
+Hexafluorure de soufre
+v · mImagerie médicale
+Rayon X : Radiographie
+2D
+Myélographie
+Radiographie du thorax
+Ostéodensitométrie
+Lavement baryté
+Mammographie
+Cystographie
+Arthrographie
+Hystérographie
+Angiographie
+Cavographie
+3D : Tomodensitométrie
+Coloscanner
+Ostéodensitométrie
+Microtomographie aux rayons X
+Ionographie
+Autres
+Fluoroscopie
+Champ magnétique : IRM
+Imagerie par résonance magnétique fonctionnelle
+IRM de diffusion
+Ultrason : Échographie
+Échocardiographie
+Échographie transœsophagienne
+Échographie pleurale
+Échographie gynécologique
+Échographie obstétricale
+Échographie au premier trimestre de la grossesse
+Échographie morphologique
+Doppler transcrânien fonctionnel
+Échocardiographie de contraste
+Échographie endoscopique
+Hystérosonographie
+Échographie de stress
+Échographie haute fréquence
+Échographie Doppler
+Radioisotope : Médecine nucléaire
+2D : Scintigraphie
+Scintigraphie pulmonaire
+Scintigraphie rénale
+Scintigraphie myocardique
+3D : Tomographie par émission
+Tomographie par émission monophotonique
+Tomographie par émission de positons
+Lumière visible : Imagerie optique médicale
+Tomographie en cohérence optique
+Microscopie confocal
+Chaleur : Thermographie
+ Portail de la médecine   Portail de l’imagerie numérique                    
+Ce document provient de « https://fr.wikipedia.org/w/index.php?title=Tomodensitométrie&amp;oldid=175445821 ».
+		Catégories : RadiologieTomographieÉquipement médicalAnalyse par rayon XCatégories cachées : Article manquant de références depuis mai 2013Article manquant de références/Liste complèteCatégorie Commons avec lien local identique sur WikidataArticle avec une section vide ou incomplètePortail:Médecine/Articles liésPortail:Biologie/Articles liésPortail:Sciences humaines et sociales/Articles liésPortail:Sciences/Articles liésPortail:Imagerie numérique/Articles liésPortail:Informatique/Articles liés
+		 La dernière modification de cette page a été faite le 10 octobre 2020 à 11:52.
+		Droit d'auteur : les textes sont disponibles sous licence Creative Commons attribution, partage dans les mêmes conditions ; d’autres conditions peuvent s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que les crédits graphiques. En cas de réutilisation des textes de cette page, voyez comment citer les auteurs et mentionner la licence.
+Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.
+		Politique de confidentialité
+		À propos de Wikipédia
+		Avertissements
+		Contact
+		Version mobile
+		Développeurs
+		Statistiques
+		Déclaration sur les témoins (cookies)

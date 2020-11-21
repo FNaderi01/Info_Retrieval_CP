@@ -1,0 +1,657 @@
+Git Mailing List Archive on lore.kernel.org
+ help / color / Atom feed* [BUG?] 'git rebase --abort' couldn't abort aborted rebase
+@ 2020-02-07 11:10 SZEDER Gábor
+  2020-02-07 11:49 ` SZEDER Gábor
+  0 siblings, 1 reply; 8+ messages in thread
+From: SZEDER Gábor @ 2020-02-07 11:10 UTC (permalink / raw)
+  To: Git Mailing List
+That's a good subject, isn't it? :)
+So, to clarify: apparently it is possible to abort an ongoing 'git
+rebase' process with ctrl-C in just the right moment that a subsequent
+'git rebase --abort' will refuse to clear it up.
+I somehow messed up the upstream and branch parameters of 'git
+rebase', and ended up trying to rebase a fairly recent (post v2.24.0)
+branch on top of v2.22.0.  Upon seeing the unexpectedly large number
+of patches I realized that something is wrong, hit ctrl-C right away,
+and this is what happened:
+  $ git rebase v2.22.0 &lt;a-branch-on-top-of-2.24.0&gt;
+  First, rewinding head to replay your work on top of it...
+  Generating patches: 100% (1108/1108), done.
+  Applying: send-email: move the read_config() function above getopts
+  Applying: send-email: rename the @bcclist variable for consistency
+  Applying: send-email: do defaults -&gt; config -&gt; getopt in that order
+  Using index info to reconstruct a base tree...
+  M       git-send-email.perl
+  M       t/t9001-send-email.sh
+  Falling back to patching base and 3-way merge...
+  Auto-merging t/t9001-send-email.sh
+  Auto-merging git-send-email.perl
+  ^C
+  ((5f07da12ac...) *|REBASE 3/1108)$ git rebase --abort 
+  error: could not read '/home/szeder/src/git/.git/worktrees/WT/rebase-apply/head-name': No such file or directory
+"Fortunately" it was in a separate worktree, so I could easily get out
+of the situation by forcibly deleting that worktree.  Unfortunately,
+that was exactly what I did, instead of securing the failed state for
+later analysis...  sorry.
+The only thing I still have is the list of files in the rebase directory,
+rescued from the terminal's scrollback buffer:
+  $ ls ~/src/git/.git/worktrees/WT/rebase-apply/
+  &lt; ... omitting the 1k+ patch files ... &gt;
+  abort-safety
+  apply-opt
+  author-script
+  final-commit
+  keep
+  last
+  messageid
+  next
+  original-commit
+  patch
+  patch-merge-index
+  quiet
+  rebasing
+  rewritten
+  scissors
+  sign
+  threeway
+  utf8
+All this is with a git built from current 'next', with a bunch of
+unrelated (none of them touches rebase or the sequencer) patches on
+top.
+^ permalink raw reply	[flat|nested] 8+ messages in thread* Re: [BUG?] 'git rebase --abort' couldn't abort aborted rebase
+  2020-02-07 11:10 [BUG?] 'git rebase --abort' couldn't abort aborted rebase SZEDER Gábor
+@ 2020-02-07 11:49 ` SZEDER Gábor
+  2020-02-07 13:21   ` SZEDER Gábor
+  0 siblings, 1 reply; 8+ messages in thread
+From: SZEDER Gábor @ 2020-02-07 11:49 UTC (permalink / raw)
+  To: Git Mailing List
+On Fri, Feb 07, 2020 at 12:10:08PM +0100, SZEDER Gábor wrote:
+&gt; That's a good subject, isn't it? :)
+&gt; 
+&gt; So, to clarify: apparently it is possible to abort an ongoing 'git
+&gt; rebase' process with ctrl-C in just the right moment that a subsequent
+&gt; 'git rebase --abort' will refuse to clear it up.
+&gt; 
+&gt; I somehow messed up the upstream and branch parameters of 'git
+&gt; rebase', and ended up trying to rebase a fairly recent (post v2.24.0)
+&gt; branch on top of v2.22.0.  Upon seeing the unexpectedly large number
+&gt; of patches I realized that something is wrong, hit ctrl-C right away,
+&gt; and this is what happened:
+&gt; 
+&gt;   $ git rebase v2.22.0 &lt;a-branch-on-top-of-2.24.0&gt;
+&gt;   First, rewinding head to replay your work on top of it...
+&gt;   Generating patches: 100% (1108/1108), done.
+&gt;   Applying: send-email: move the read_config() function above getopts
+&gt;   Applying: send-email: rename the @bcclist variable for consistency
+&gt;   Applying: send-email: do defaults -&gt; config -&gt; getopt in that order
+&gt;   Using index info to reconstruct a base tree...
+&gt;   M       git-send-email.perl
+&gt;   M       t/t9001-send-email.sh
+&gt;   Falling back to patching base and 3-way merge...
+&gt;   Auto-merging t/t9001-send-email.sh
+&gt;   Auto-merging git-send-email.perl
+&gt;   ^C
+&gt;   ((5f07da12ac...) *|REBASE 3/1108)$ git rebase --abort 
+&gt;   error: could not read '/home/szeder/src/git/.git/worktrees/WT/rebase-apply/head-name': No such file or directory
+&gt;    
+&gt; "Fortunately" it was in a separate worktree, so I could easily get out
+&gt; of the situation by forcibly deleting that worktree.  Unfortunately,
+&gt; that was exactly what I did, instead of securing the failed state for
+&gt; later analysis...  sorry.
+&gt; All this is with a git built from current 'next', with a bunch of
+&gt; unrelated (none of them touches rebase or the sequencer) patches on
+&gt; top.
+Trying to reproduce it is a hit or miss... well, mostly miss :)
+There is a rather short window when 'git rebase' applies patches
+before hitting a first merge conflict.  If the ctrl-C arrives before
+'git rebase' starts applying patches, then it cleans everything up,
+and we are not rebasing, so there is no need for 'git rebase --abort'.
+Once 'git rebase' stops because of the merge conflict we get our shell
+back, and 'git rebase --abort' works as it should.  But after a good
+couple of tries I managed to hit ctrl-C while 'git rebase' was
+applying patches:
+  $ ./BUILDS/v2.25.0/bin/git rebase v2.22.0 v2.24.0^{commit}
+  First, rewinding head to replay your work on top of it...
+  Generating patches: 100% (1049/1049), done.
+  Applying: send-email: move the read_config() function above getopts
+  ^C
+  ((v2.22.0) +|REBASE 1/1049)$ ./BUILDS/v2.25.0/bin/git rebase --abort
+  error: could not read '.git/rebase-apply/head-name': No such file or directory
+Note that I'm using v2.25.0 here, so the problem is not with 'next' or
+with my patches.  Also note that I reproduced the error in the main
+worktree, and only using commits that are present in git.git.
+Finally, note the 'v2.24.0^{commit}' parameter, in particular the
+'^{commit}' part.  That's important, because without it we stumble
+upon _another_ bug:
+  $ git rebase v2.22.0 v2.24.0
+  error: Object 1cc4bc0fcd93f816d514d77c29f2cc9ffdd8ae09 not a commit
+  First, rewinding head to replay your work on top of it...
+  Generating patches: 100% (1049/1049), done.
+  Applying: send-email: move the read_config() function above getopts
+  &lt; ... applying further patches and hitting a merge conflict ... &gt;
+  Resolve all conflicts manually, mark them as resolved with
+  "git add/rm &lt;conflicted_files&gt;", then run "git rebase --continue".
+  You can instead skip this commit: run "git rebase --skip".
+  To abort and get back to the state before "git rebase", run "git rebase --abort".
+  (detached HEAD *+|REBASE 7/1049)$ git rebase --abort 
+  error: update_ref failed for ref 'HEAD': cannot update ref 'HEAD': trying to write non-commit object 1cc4bc0fcd93f816d514d77c29f2cc9ffdd8ae09 to branch 'HEAD'
+So 'git rebase' shows an error right at the beginning when rebasing a
+tag, but then continues anyway.  However, 'git rebase --abort' can't
+restore the original state.
+^ permalink raw reply	[flat|nested] 8+ messages in thread* Re: [BUG?] 'git rebase --abort' couldn't abort aborted rebase
+  2020-02-07 11:49 ` SZEDER Gábor
+@ 2020-02-07 13:21   ` SZEDER Gábor
+  2020-02-07 17:52     ` Elijah Newren
+  0 siblings, 1 reply; 8+ messages in thread
+From: SZEDER Gábor @ 2020-02-07 13:21 UTC (permalink / raw)
+  To: Git Mailing List; +Cc: Elijah Newren
+On Fri, Feb 07, 2020 at 12:49:54PM +0100, SZEDER Gábor wrote:
+&gt; On Fri, Feb 07, 2020 at 12:10:08PM +0100, SZEDER Gábor wrote:
+&gt; &gt; That's a good subject, isn't it? :)
+&gt; &gt; 
+&gt; &gt; So, to clarify: apparently it is possible to abort an ongoing 'git
+&gt; &gt; rebase' process with ctrl-C in just the right moment that a subsequent
+&gt; &gt; 'git rebase --abort' will refuse to clear it up.
+&gt; &gt; 
+&gt; &gt; I somehow messed up the upstream and branch parameters of 'git
+&gt; &gt; rebase', and ended up trying to rebase a fairly recent (post v2.24.0)
+&gt; &gt; branch on top of v2.22.0.  Upon seeing the unexpectedly large number
+&gt; &gt; of patches I realized that something is wrong, hit ctrl-C right away,
+&gt; &gt; and this is what happened:
+&gt; &gt; 
+&gt; &gt;   $ git rebase v2.22.0 &lt;a-branch-on-top-of-2.24.0&gt;
+&gt; &gt;   First, rewinding head to replay your work on top of it...
+&gt; &gt;   Generating patches: 100% (1108/1108), done.
+&gt; &gt;   Applying: send-email: move the read_config() function above getopts
+&gt; &gt;   Applying: send-email: rename the @bcclist variable for consistency
+&gt; &gt;   Applying: send-email: do defaults -&gt; config -&gt; getopt in that order
+&gt; &gt;   Using index info to reconstruct a base tree...
+&gt; &gt;   M       git-send-email.perl
+&gt; &gt;   M       t/t9001-send-email.sh
+&gt; &gt;   Falling back to patching base and 3-way merge...
+&gt; &gt;   Auto-merging t/t9001-send-email.sh
+&gt; &gt;   Auto-merging git-send-email.perl
+&gt; &gt;   ^C
+&gt; &gt;   ((5f07da12ac...) *|REBASE 3/1108)$ git rebase --abort 
+&gt; &gt;   error: could not read '/home/szeder/src/git/.git/worktrees/WT/rebase-apply/head-name': No such file or directory
+&gt; &gt;    
+&gt; &gt; "Fortunately" it was in a separate worktree, so I could easily get out
+&gt; &gt; of the situation by forcibly deleting that worktree.  Unfortunately,
+&gt; &gt; that was exactly what I did, instead of securing the failed state for
+&gt; &gt; later analysis...  sorry.
+&gt; 
+&gt; &gt; All this is with a git built from current 'next', with a bunch of
+&gt; &gt; unrelated (none of them touches rebase or the sequencer) patches on
+&gt; &gt; top.
+&gt; 
+&gt; Trying to reproduce it is a hit or miss... well, mostly miss :)
+&gt; 
+&gt; There is a rather short window when 'git rebase' applies patches
+&gt; before hitting a first merge conflict.  If the ctrl-C arrives before
+&gt; 'git rebase' starts applying patches, then it cleans everything up,
+&gt; and we are not rebasing, so there is no need for 'git rebase --abort'.
+&gt; Once 'git rebase' stops because of the merge conflict we get our shell
+&gt; back, and 'git rebase --abort' works as it should.  But after a good
+&gt; couple of tries I managed to hit ctrl-C while 'git rebase' was
+&gt; applying patches:
+This patch below increases the size of the window where a ctrl-C gets
+us into that problematic situation:
+diff --git a/builtin/am.c b/builtin/am.c
+index 8181c2aef3..5d62766000 100644
+--- a/builtin/am.c
++++ b/builtin/am.c
+@@ -1737,6 +1737,14 @@ static void am_run(struct am_state *state, int resume)
+ 			exit(1);
+ 		say(state, stdout, _("Applying: %.*s"), linelen(state-&gt;msg), state-&gt;msg);
++		{
++			int i;
++			for (i = 0; i &lt; 60; i++) {
++				fprintf(stderr, "sleeping... %d\r", i);
++				sleep(1);
++			}
++			fprintf(stderr, "\n");
++		}
+ 		apply_status = run_apply(state, NULL);
+And then we can reliably reproduce the issue even when rebasing only a
+single commit:
+  $ ./bin-wrappers/git rebase v2.25.0 9c8a294
+  First, rewinding head to replay your work on top of it...
+  Applying: sha1-file: remove OBJECT_INFO_SKIP_CACHED
+  ^Ceeping... 3
+  ((v2.25.0)|REBASE 1/1)$ ./bin-wrappers/git rebase --abort 
+  error: could not read '.git/rebase-apply/head-name': No such file or directory
+Note that the sleep() calls were added to 'builtin/am.c', i.e. this
+issue is present in the 'am' rebase backend.  I tried to break 'git
+rebase -m ...' by adding sleep()s to various places in pick_commits()
+in 'sequencer.c', but, FWIW, the subsequent 'git rebase --abort'
+always worked as expected.
+So we may have yet another reason to switch the default rebase backend
+from 'am' to 'merge'.
+&gt; Finally, note the 'v2.24.0^{commit}' parameter, in particular the
+&gt; '^{commit}' part.  That's important, because without it we stumble
+&gt; upon _another_ bug:
+&gt; 
+&gt;   $ git rebase v2.22.0 v2.24.0
+&gt;   error: Object 1cc4bc0fcd93f816d514d77c29f2cc9ffdd8ae09 not a commit
+&gt;   First, rewinding head to replay your work on top of it...
+&gt;   Generating patches: 100% (1049/1049), done.
+&gt;   Applying: send-email: move the read_config() function above getopts
+&gt;   &lt; ... applying further patches and hitting a merge conflict ... &gt;
+&gt;   Resolve all conflicts manually, mark them as resolved with
+&gt;   "git add/rm &lt;conflicted_files&gt;", then run "git rebase --continue".
+&gt;   You can instead skip this commit: run "git rebase --skip".
+&gt;   To abort and get back to the state before "git rebase", run "git rebase --abort".
+&gt;   (detached HEAD *+|REBASE 7/1049)$ git rebase --abort 
+&gt;   error: update_ref failed for ref 'HEAD': cannot update ref 'HEAD': trying to write non-commit object 1cc4bc0fcd93f816d514d77c29f2cc9ffdd8ae09 to branch 'HEAD'
+&gt; 
+&gt; So 'git rebase' shows an error right at the beginning when rebasing a
+&gt; tag, but then continues anyway.  However, 'git rebase --abort' can't
+&gt; restore the original state.
+Now let's rebase a tag with the 'merge' backend, and then try to abort
+it:
+  $ ./BUILDS/v2.25.0/bin/git rebase -m v2.22.0 v2.24.0
+  error: Object 1cc4bc0fcd93f816d514d77c29f2cc9ffdd8ae09 not a commit
+  Auto-merging t/t9001-send-email.sh
+  Auto-merging git-send-email.perl
+  CONFLICT (content): Merge conflict in git-send-email.perl
+  Auto-merging Documentation/git-send-email.txt
+  error: could not apply 3ff15040e2... send-email: fix regression in sendemail.identity parsing
+  Resolve all conflicts manually, mark them as resolved with
+  "git add/rm &lt;conflicted_files&gt;", then run "git rebase --continue".
+  You can instead skip this commit: run "git rebase --skip".
+  To abort and get back to the state before "git rebase", run "git rebase --abort".
+  Recorded preimage for 'git-send-email.perl'
+  Could not apply 3ff15040e2... send-email: fix regression in sendemail.identity parsing
+  (detached HEAD *+|REBASE 7/1049)$ ./BUILDS/v2.25.0/bin/git rebase --abort
+  ((v2.24.0))$
+So it prints the same error as the 'am' backend (or perhaps that error
+comes from the common, backend-independent parts of rebase?  I didn't
+look), and it continues all the same, but in the end '--abort' is
+capable to abort the operation.  So we do have yet another reason to
+switch the default backend.
+^ permalink raw reply	[flat|nested] 8+ messages in thread* Re: [BUG?] 'git rebase --abort' couldn't abort aborted rebase
+  2020-02-07 13:21   ` SZEDER Gábor
+@ 2020-02-07 17:52     ` Elijah Newren
+  0 siblings, 0 replies; 8+ messages in thread
+From: Elijah Newren @ 2020-02-07 17:52 UTC (permalink / raw)
+  To: SZEDER Gábor; +Cc: Git Mailing List
+On Fri, Feb 7, 2020 at 5:21 AM SZEDER Gábor &lt;szeder.dev@gmail.com&gt; wrote:
+&gt;
+&gt; On Fri, Feb 07, 2020 at 12:49:54PM +0100, SZEDER Gábor wrote:
+&gt; &gt; On Fri, Feb 07, 2020 at 12:10:08PM +0100, SZEDER Gábor wrote:
+&gt; &gt; &gt; That's a good subject, isn't it? :)
+Indeed.  :-)
+&gt; &gt; &gt; So, to clarify: apparently it is possible to abort an ongoing 'git
+&gt; &gt; &gt; rebase' process with ctrl-C in just the right moment that a subsequent
+&gt; &gt; &gt; 'git rebase --abort' will refuse to clear it up.
+&gt; &gt; &gt;
+&gt; &gt; &gt; I somehow messed up the upstream and branch parameters of 'git
+&gt; &gt; &gt; rebase', and ended up trying to rebase a fairly recent (post v2.24.0)
+&gt; &gt; &gt; branch on top of v2.22.0.  Upon seeing the unexpectedly large number
+&gt; &gt; &gt; of patches I realized that something is wrong, hit ctrl-C right away,
+&gt; &gt; &gt; and this is what happened:
+&gt; &gt; &gt;
+&gt; &gt; &gt;   $ git rebase v2.22.0 &lt;a-branch-on-top-of-2.24.0&gt;
+&gt; &gt; &gt;   First, rewinding head to replay your work on top of it...
+&gt; &gt; &gt;   Generating patches: 100% (1108/1108), done.
+&gt; &gt; &gt;   Applying: send-email: move the read_config() function above getopts
+&gt; &gt; &gt;   Applying: send-email: rename the @bcclist variable for consistency
+&gt; &gt; &gt;   Applying: send-email: do defaults -&gt; config -&gt; getopt in that order
+&gt; &gt; &gt;   Using index info to reconstruct a base tree...
+&gt; &gt; &gt;   M       git-send-email.perl
+&gt; &gt; &gt;   M       t/t9001-send-email.sh
+&gt; &gt; &gt;   Falling back to patching base and 3-way merge...
+&gt; &gt; &gt;   Auto-merging t/t9001-send-email.sh
+&gt; &gt; &gt;   Auto-merging git-send-email.perl
+&gt; &gt; &gt;   ^C
+&gt; &gt; &gt;   ((5f07da12ac...) *|REBASE 3/1108)$ git rebase --abort
+&gt; &gt; &gt;   error: could not read '/home/szeder/src/git/.git/worktrees/WT/rebase-apply/head-name': No such file or directory
+&gt; &gt; &gt;
+&gt; &gt; &gt; "Fortunately" it was in a separate worktree, so I could easily get out
+&gt; &gt; &gt; of the situation by forcibly deleting that worktree.  Unfortunately,
+&gt; &gt; &gt; that was exactly what I did, instead of securing the failed state for
+&gt; &gt; &gt; later analysis...  sorry.
+&gt; &gt;
+&gt; &gt; &gt; All this is with a git built from current 'next', with a bunch of
+&gt; &gt; &gt; unrelated (none of them touches rebase or the sequencer) patches on
+&gt; &gt; &gt; top.
+&gt; &gt;
+&gt; &gt; Trying to reproduce it is a hit or miss... well, mostly miss :)
+&gt; &gt;
+&gt; &gt; There is a rather short window when 'git rebase' applies patches
+&gt; &gt; before hitting a first merge conflict.  If the ctrl-C arrives before
+&gt; &gt; 'git rebase' starts applying patches, then it cleans everything up,
+&gt; &gt; and we are not rebasing, so there is no need for 'git rebase --abort'.
+&gt; &gt; Once 'git rebase' stops because of the merge conflict we get our shell
+&gt; &gt; back, and 'git rebase --abort' works as it should.  But after a good
+&gt; &gt; couple of tries I managed to hit ctrl-C while 'git rebase' was
+&gt; &gt; applying patches:
+&gt;
+&gt; This patch below increases the size of the window where a ctrl-C gets
+&gt; us into that problematic situation:
+&gt;
+&gt; diff --git a/builtin/am.c b/builtin/am.c
+&gt; index 8181c2aef3..5d62766000 100644
+&gt; --- a/builtin/am.c
+&gt; +++ b/builtin/am.c
+&gt; @@ -1737,6 +1737,14 @@ static void am_run(struct am_state *state, int resume)
+&gt;                         exit(1);
+&gt;
+&gt;                 say(state, stdout, _("Applying: %.*s"), linelen(state-&gt;msg), state-&gt;msg);
+&gt; +               {
+&gt; +                       int i;
+&gt; +                       for (i = 0; i &lt; 60; i++) {
+&gt; +                               fprintf(stderr, "sleeping... %d\r", i);
+&gt; +                               sleep(1);
+&gt; +                       }
+&gt; +                       fprintf(stderr, "\n");
+&gt; +               }
+&gt;
+&gt;                 apply_status = run_apply(state, NULL);
+&gt;
+&gt; And then we can reliably reproduce the issue even when rebasing only a
+&gt; single commit:
+&gt;
+&gt;   $ ./bin-wrappers/git rebase v2.25.0 9c8a294
+&gt;   First, rewinding head to replay your work on top of it...
+&gt;   Applying: sha1-file: remove OBJECT_INFO_SKIP_CACHED
+&gt;   ^Ceeping... 3
+&gt;   ((v2.25.0)|REBASE 1/1)$ ./bin-wrappers/git rebase --abort
+&gt;   error: could not read '.git/rebase-apply/head-name': No such file or directory
+&gt;
+&gt; Note that the sleep() calls were added to 'builtin/am.c', i.e. this
+&gt; issue is present in the 'am' rebase backend.  I tried to break 'git
+&gt; rebase -m ...' by adding sleep()s to various places in pick_commits()
+&gt; in 'sequencer.c', but, FWIW, the subsequent 'git rebase --abort'
+&gt; always worked as expected.
+&gt;
+&gt; So we may have yet another reason to switch the default rebase backend
+&gt; from 'am' to 'merge'.
+&gt;
+&gt;
+&gt; &gt; Finally, note the 'v2.24.0^{commit}' parameter, in particular the
+&gt; &gt; '^{commit}' part.  That's important, because without it we stumble
+&gt; &gt; upon _another_ bug:
+&gt; &gt;
+&gt; &gt;   $ git rebase v2.22.0 v2.24.0
+&gt; &gt;   error: Object 1cc4bc0fcd93f816d514d77c29f2cc9ffdd8ae09 not a commit
+&gt; &gt;   First, rewinding head to replay your work on top of it...
+&gt; &gt;   Generating patches: 100% (1049/1049), done.
+&gt; &gt;   Applying: send-email: move the read_config() function above getopts
+&gt; &gt;   &lt; ... applying further patches and hitting a merge conflict ... &gt;
+&gt; &gt;   Resolve all conflicts manually, mark them as resolved with
+&gt; &gt;   "git add/rm &lt;conflicted_files&gt;", then run "git rebase --continue".
+&gt; &gt;   You can instead skip this commit: run "git rebase --skip".
+&gt; &gt;   To abort and get back to the state before "git rebase", run "git rebase --abort".
+&gt; &gt;   (detached HEAD *+|REBASE 7/1049)$ git rebase --abort
+&gt; &gt;   error: update_ref failed for ref 'HEAD': cannot update ref 'HEAD': trying to write non-commit object 1cc4bc0fcd93f816d514d77c29f2cc9ffdd8ae09 to branch 'HEAD'
+&gt; &gt;
+&gt; &gt; So 'git rebase' shows an error right at the beginning when rebasing a
+&gt; &gt; tag, but then continues anyway.  However, 'git rebase --abort' can't
+&gt; &gt; restore the original state.
+&gt;
+&gt; Now let's rebase a tag with the 'merge' backend, and then try to abort
+&gt; it:
+&gt;
+&gt;   $ ./BUILDS/v2.25.0/bin/git rebase -m v2.22.0 v2.24.0
+&gt;   error: Object 1cc4bc0fcd93f816d514d77c29f2cc9ffdd8ae09 not a commit
+&gt;   Auto-merging t/t9001-send-email.sh
+&gt;   Auto-merging git-send-email.perl
+&gt;   CONFLICT (content): Merge conflict in git-send-email.perl
+&gt;   Auto-merging Documentation/git-send-email.txt
+&gt;   error: could not apply 3ff15040e2... send-email: fix regression in sendemail.identity parsing
+&gt;   Resolve all conflicts manually, mark them as resolved with
+&gt;   "git add/rm &lt;conflicted_files&gt;", then run "git rebase --continue".
+&gt;   You can instead skip this commit: run "git rebase --skip".
+&gt;   To abort and get back to the state before "git rebase", run "git rebase --abort".
+&gt;   Recorded preimage for 'git-send-email.perl'
+&gt;   Could not apply 3ff15040e2... send-email: fix regression in sendemail.identity parsing
+&gt;   (detached HEAD *+|REBASE 7/1049)$ ./BUILDS/v2.25.0/bin/git rebase --abort
+&gt;   ((v2.24.0))$
+&gt;
+&gt; So it prints the same error as the 'am' backend (or perhaps that error
+&gt; comes from the common, backend-independent parts of rebase?  I didn't
+&gt; look), and it continues all the same, but in the end '--abort' is
+&gt; capable to abort the operation.  So we do have yet another reason to
+&gt; switch the default backend.
+Ooh, interesting; thanks for investigating and providing a heads up.
+I should probably add a note about this to the "differences between
+backends"; I'll roll it into whatever changes I might need to make
+with Phillip's review of the series.
+^ permalink raw reply	[flat|nested] 8+ messages in thread[parent not found: &lt;CADhmr77EbC+3f=Oa+bm18Z_SSEMK8vCjNHQniuvkdfaZdRT_5A@mail.gmail.com&gt;]* Re: [BUG?] 'git rebase --abort' couldn't abort aborted rebase
+       [not found] &lt;CADhmr77EbC+3f=Oa+bm18Z_SSEMK8vCjNHQniuvkdfaZdRT_5A@mail.gmail.com&gt;
+@ 2020-05-30 16:24 ` Elijah Newren
+  2020-06-03 16:09   ` Thomas Braun
+  0 siblings, 1 reply; 8+ messages in thread
+From: Elijah Newren @ 2020-05-30 16:24 UTC (permalink / raw)
+  To: Md Naeim; +Cc: Git Mailing List, SZEDER Gábor
+Hi,
+On Sat, May 30, 2020 at 3:52 AM Md Naeim &lt;naeim249@gmail.com&gt; wrote:
+&gt;
+&gt;
+&gt;
+&gt; 01718479491
+Could you provide any details beyond the subject, such as the output
+from 'git rebase --abort', your git version, the output of `git
+status`, whether there are any untracked files with special status
+(e.g. ignored but a submodule in the way of something?), any special
+file permissions (does root own some files and prevent git from
+updating things?), operating system you are on, link to a repository
+people can use to reproduce?  Without more details, this report is
+unactionable.
+^ permalink raw reply	[flat|nested] 8+ messages in thread* Re: [BUG?] 'git rebase --abort' couldn't abort aborted rebase
+  2020-05-30 16:24 ` Elijah Newren
+@ 2020-06-03 16:09   ` Thomas Braun
+  2020-06-04 10:19     ` Phillip Wood
+  0 siblings, 1 reply; 8+ messages in thread
+From: Thomas Braun @ 2020-06-03 16:09 UTC (permalink / raw)
+  To: Elijah Newren, Md Naeim; +Cc: Git Mailing List, SZEDER Gábor
+On 30.05.2020 18:24, Elijah Newren wrote:
+&gt; On Sat, May 30, 2020 at 3:52 AM Md Naeim &lt;naeim249@gmail.com&gt; wrote:
+[...]
+&gt; Could you provide any details beyond the subject, such as the output
+&gt; from 'git rebase --abort', your git version, the output of `git
+&gt; status`, whether there are any untracked files with special status
+&gt; (e.g. ignored but a submodule in the way of something?), any special
+&gt; file permissions (does root own some files and prevent git from
+&gt; updating things?), operating system you are on, link to a repository
+&gt; people can use to reproduce?  Without more details, this report is
+&gt; unactionable.
+&gt; 
+I don't know the OPs details but I can reproduce with the following
+clumsy snippet:
+#!/bin/sh
+git init
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+git config rebase.autostash true
+git config core.autocrlf false
+echo "*.abcd !eol" &gt; .gitattributes
+git add .gitattributes
+git commit -m "Add attributes"
+echo -e "1\r\n" &gt; test.abcd
+git add test.abcd
+git commit --no-verify -m "Added test.abcd" test.abcd
+echo "*.abcd eol=lf" &gt; .gitattributes
+git add .gitattributes
+git commit -m "Add attributes (LF)"
+git rebase --root --interactive
+git rebase --abort
+which gives
+ ./run.sh
+Initialized empty Git repository in E:/projekte/test-init/.git/
+[master (root-commit) 7169943] Add attributes
+ 1 file changed, 1 insertion(+)
+ create mode 100644 .gitattributes
+[master 61f0599] Added test.abcd
+ 1 file changed, 2 insertions(+)
+ create mode 100644 test.abcd
+[master 0acd46a] Add attributes (LF)
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+warning: CRLF will be replaced by LF in test.abcd.
+The file will have its original line endings in your working directory
+Created autostash: 310f745
+error: cannot rebase: You have unstaged changes.
+error: Please commit or stash them.
+error: could not read '.git/rebase-merge/head-name': No such file or
+directory
+and
+$ ls -la .git/rebase-merge/
+total 5
+drwxr-xr-x 1 thomas 197121  0 Jun  3 17:57 ./
+drwxr-xr-x 1 thomas 197121  0 Jun  3 17:57 ../
+-rw-r--r-- 1 thomas 197121 41 Jun  3 17:57 autostash
+I'm running on Windows, both 2.27.0.windows.1 and 2.26.2.windows.1 show
+the problem. And I'm pretty sure it is not Windows specific.
+Although my test case uses EOL normalization, I think the real issue is
+that autostashing for the rebase fails (in the sense that the working
+tree is clean afterwards) and that is unexpected.
+^ permalink raw reply	[flat|nested] 8+ messages in thread* Re: [BUG?] 'git rebase --abort' couldn't abort aborted rebase
+  2020-06-03 16:09   ` Thomas Braun
+@ 2020-06-04 10:19     ` Phillip Wood
+  2020-06-05 15:29       ` Junio C Hamano
+  0 siblings, 1 reply; 8+ messages in thread
+From: Phillip Wood @ 2020-06-04 10:19 UTC (permalink / raw)
+  To: Thomas Braun, Elijah Newren, Md Naeim; +Cc: Git Mailing List, SZEDER Gábor
+Hi Thomas
+On 03/06/2020 17:09, Thomas Braun wrote:
+&gt; On 30.05.2020 18:24, Elijah Newren wrote:
+&gt;&gt; On Sat, May 30, 2020 at 3:52 AM Md Naeim &lt;naeim249@gmail.com&gt; wrote:
+&gt; 
+&gt; [...]
+&gt; 
+&gt;&gt; Could you provide any details beyond the subject, such as the output
+&gt;&gt; from 'git rebase --abort', your git version, the output of `git
+&gt;&gt; status`, whether there are any untracked files with special status
+&gt;&gt; (e.g. ignored but a submodule in the way of something?), any special
+&gt;&gt; file permissions (does root own some files and prevent git from
+&gt;&gt; updating things?), operating system you are on, link to a repository
+&gt;&gt; people can use to reproduce?  Without more details, this report is
+&gt;&gt; unactionable.
+&gt;&gt;
+&gt; 
+&gt; I don't know the OPs details but I can reproduce with the following
+&gt; clumsy snippet:
+Thanks for the script, I've annotated the error messages in an attempt
+to understand what's happening
+&gt; #!/bin/sh
+&gt; 
+&gt; git init
+&gt; git config --global user.email "you@example.com"
+&gt; git config --global user.name "Your Name"
+&gt; git config rebase.autostash true
+&gt; git config core.autocrlf false
+&gt; echo "*.abcd !eol" &gt; .gitattributes
+&gt; git add .gitattributes
+&gt; git commit -m "Add attributes"
+&gt; echo -e "1\r\n" &gt; test.abcd
+&gt; git add test.abcd
+&gt; git commit --no-verify -m "Added test.abcd" test.abcd
+&gt; echo "*.abcd eol=lf" &gt; .gitattributes
+&gt; git add .gitattributes
+&gt; git commit -m "Add attributes (LF)"
+&gt; git rebase --root --interactive
+&gt; git rebase --abort
+&gt; which gives
+&gt; 
+&gt;  ./run.sh
+&gt; Initialized empty Git repository in E:/projekte/test-init/.git/
+&gt; [master (root-commit) 7169943] Add attributes
+&gt;  1 file changed, 1 insertion(+)
+&gt;  create mode 100644 .gitattributes
+&gt; [master 61f0599] Added test.abcd
+&gt;  1 file changed, 2 insertions(+)
+&gt;  create mode 100644 test.abcd
+&gt; [master 0acd46a] Add attributes (LF)
+&gt;  1 file changed, 1 insertion(+), 1 deletion(-)
+&gt; warning: CRLF will be replaced by LF in test.abcd.
+&gt; The file will have its original line endings in your working directory
+&gt; Created autostash: 310f745
+&gt; error: cannot rebase: You have unstaged changes.
+The stash fails to stash all the changes because of some line ending
+issue I've yet to understand but the stash command exit code is zero as
+if it had succeeded in stashing everything so the rebase creates
+.git/rebase-merge/autostash and continues
+&gt; error: Please commit or stash them.
+only for the clean worktree check to fail. The cleanup path from that
+point assumes we have not yet created .git/rebase-merge which is not
+true if an autostash has been created. This means we do not pop the stash.
+&gt; error: could not read '.git/rebase-merge/head-name': No such file or
+&gt; directory
+When we try to abort we try to read some state that does not exist
+because the rebase never really started
+&gt; and
+&gt; 
+&gt; $ ls -la .git/rebase-merge/
+&gt; total 5
+&gt; drwxr-xr-x 1 thomas 197121  0 Jun  3 17:57 ./
+&gt; drwxr-xr-x 1 thomas 197121  0 Jun  3 17:57 ../
+&gt; -rw-r--r-- 1 thomas 197121 41 Jun  3 17:57 autostash
+&gt; 
+&gt; I'm running on Windows, both 2.27.0.windows.1 and 2.26.2.windows.1 show
+&gt; the problem. And I'm pretty sure it is not Windows specific.
+You're right I can reproduce it on linux
+&gt; Although my test case uses EOL normalization, I think the real issue is
+&gt; that autostashing for the rebase fails (in the sense that the working
+&gt; tree is clean afterwards) and that is unexpected.
+Yes. I'm not sure what to do for the best. A simple fix to the stash
+failure is to check for a clean worktree after we've stashed and apply
+the stash and exit if the worktree is not clean. Ideally `git stash`
+would be able to tell us that it didn't stash everything, but that
+warning comes from `void check_global_conv_flags_eol()` in convert.c so
+it does not pass along that information to the caller.
+We should also improve the cleanup code path so that it applies the
+autostash (and removes the state dir) if it exists as after a quick
+glance through the code it seems we might not be applying the autostash
+if `git checkout`.
+Best Wishes
+Phillip
+^ permalink raw reply	[flat|nested] 8+ messages in thread* Re: [BUG?] 'git rebase --abort' couldn't abort aborted rebase
+  2020-06-04 10:19     ` Phillip Wood
+@ 2020-06-05 15:29       ` Junio C Hamano
+  0 siblings, 0 replies; 8+ messages in thread
+From: Junio C Hamano @ 2020-06-05 15:29 UTC (permalink / raw)
+  To: Phillip Wood
+  Cc: Thomas Braun, Elijah Newren, Md Naeim, Git Mailing List,
+	SZEDER Gábor
+Phillip Wood &lt;phillip.wood123@gmail.com&gt; writes:
+&gt;&gt; Although my test case uses EOL normalization, I think the real issue is
+&gt;&gt; that autostashing for the rebase fails (in the sense that the working
+&gt;&gt; tree is clean afterwards) and that is unexpected.
+&gt;
+&gt; Yes. I'm not sure what to do for the best. A simple fix to the stash
+&gt; failure is to check for a clean worktree after we've stashed and apply
+&gt; the stash and exit if the worktree is not clean.
+The suggested fix covers all cases where the auto-stash step fails
+to revert the index and the working tree to the prestine state for
+any reason, not limited to the eol normalization.  It is not just a
+simple but necessary fix, regardless of what other things we do.
+Why doesn't the internal "stash" fail to clean the index and the
+working tree to pristine state in the first place, though?  It may
+be another thing that needs fixing, but in a sense, that is of
+secondary importance.
+Thanks.
+^ permalink raw reply	[flat|nested] 8+ messages in threadend of thread, back to index
+Thread overview: 8+ messages (download: mbox.gz / follow: Atom feed)
+-- links below jump to the message on this page --
+2020-02-07 11:10 [BUG?] 'git rebase --abort' couldn't abort aborted rebase SZEDER Gábor
+2020-02-07 11:49 ` SZEDER Gábor
+2020-02-07 13:21   ` SZEDER Gábor
+2020-02-07 17:52     ` Elijah Newren
+     [not found] &lt;CADhmr77EbC+3f=Oa+bm18Z_SSEMK8vCjNHQniuvkdfaZdRT_5A@mail.gmail.com&gt;
+2020-05-30 16:24 ` Elijah Newren
+2020-06-03 16:09   ` Thomas Braun
+2020-06-04 10:19     ` Phillip Wood
+2020-06-05 15:29       ` Junio C Hamano
+Git Mailing List Archive on lore.kernel.org
+Archives are clonable:
+	git clone --mirror https://lore.kernel.org/git/0 git/git/0.git
+	# If you have public-inbox 1.1+ installed, you may
+	# initialize and index your mirror using the following commands:
+	public-inbox-init -V2 git git/ https://lore.kernel.org/git \
+		git@vger.kernel.org
+	public-inbox-index git
+Example config snippet for mirrors
+Newsgroup available over NNTP:
+	nntp://nntp.lore.kernel.org/org.kernel.vger.git
+AGPL code for this site: git clone https://public-inbox.org/public-inbox.git

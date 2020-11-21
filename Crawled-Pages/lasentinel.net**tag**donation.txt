@@ -1,0 +1,238 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+donation
+							Highest COVID-19 Case Count Over Holiday Weekend; Over 7,000 Tested Positive
+					July 6, 2020Monday, July 6, L.A. Public officials provided an update on current levels of escalation in the COVID-19 outbreak. In order to maintain control over the spread of COVID-19, Los Angeles leaders took a “hard pause” and closed down beaches, piers, bike trails, and outdoor dining in order to limit access to large gatherings this past holiday weekend.  ... read more  »
+							Re-imagine Serving and Protecting with Barack Obama; Discussing New Opportunities in Public Safety.
+					June 3, 2020Obama continues to use his platform to seek a solution to the imbalance in the police force structure on a national scale, but also within local government.  President Barack along with his administration is orchestrating a commit to action for all mayors, city councils, and police oversight bodies to address police use of force.  ... read more  »
+							Shaq, Epson, and Communities In Schools Donate to Local Schools
+					October 31, 2019NBA Hall of Famer Shaquille O’Neal teamed up with Epson and Communities in Schools (CIS) to donate color printers, projectors and whiteboards to 11 schools. 
+Video by: Amanda Scurlock ... read more / watch video »
+        ADVERTISEMENT        
+							Los Angeles Dodgers Foundation Awards Over $1.6 Million In 2018 Grants To Local Organizations Impacting Over 600,000 Youth
+					December 27, 2018The Los Angeles Dodgers Foundation (LADF) announced 2018 cumulative grant donations of over $1.6 million to 70 local nonprofit organizations, which impacted over 600,000 underserved youth in some of the most challenged neighborhoods of Los Angeles. ... read more  »
+							Spelman board member, husband give $30M to school
+					December 27, 2018Spelman College has received $30 million, its largest single gift from living donors, to be used for its new Center for Innovation &amp; the Arts.
+The donation, announced Thursday, was made by Spelman trustee Ronda Stryker and her husband, William Johnston, The Atlanta Journal-Constitution reported. ... read more  »
+							NBA All-Star Chris Paul Donates $2.5 Million to Wake Forest Basketball
+					August 16, 2018The Houston Rockets point guard’s latest donation to his alma mater – the largest ever by a former basketball student-athlete or any alumnus under the age of 35 – will ensure that future generations of Demon Deacons can succeed on and off the court. ... read more  »
+							Northern Trust to Donate to the Brotherhood Crusade in Honor of 50th Anniversary
+					July 19, 2018The Brotherhood Crusade works to empower and support underserved youth in South Los Angeles through mentoring, education, health and wellness, and leadership programs. ... read more  »
+							King/Drew Athletics Receives Financial Donation
+					May 3, 2018The NFL Alliance gave back to the community by donating over $4,000 to the athletic department at King/Drew Medical Magnet High School. ... read more  »
+							New Law will Allow Donation of Uneaten School Lunches
+					October 5, 2017Gov. Jerry Brown last week signed a new law that will allow the Los Angeles Unified School District to donate uneaten food to food banks instead of discarding it. ... read more  »
+							Arrowhead Helps Homeless Community stay Hydrated During Recent Heat Wave
+					October 3, 2017Last month, Arrowhead came out to Los Angeles’ homeless community to donate water, keeping some of the city’s most vulnerable residents hydrated during the recent heat wave.  ... read more  »
+							News One Now Host Roland S. Martin Creates Social Media Call to Action With #HBCUGIVINGDAY
+					June 8, 2017Roland S. Martin, has created the fundraising initiative, #HBCUGivingDay, a national call to action in support of raising funds for HBCUs. ... read more  »
+							Rapper gives $1 million to Chicago schools, blasts governor
+					March 15, 2017Chance the Rapper’s unusual intervention into Chicago Public Schools’ funding crisis took an even more curious turn Monday when the Grammy-winner presented a $1 million check to city schools and urged Gov. ... read more  »
+							Barkley donates $1 million to Clark Atlanta University
+					December 9, 2016In honor of Giving Tuesday, Barkley said he would be donating $1 million to the historically black institution.  ... read more  »
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->

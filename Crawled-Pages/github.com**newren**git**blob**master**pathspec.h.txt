@@ -1,0 +1,245 @@
+      Skip to content
+                Sign up
+                    Why GitHub?
+                    Features →
+                      Code review
+                      Project management
+                      Integrations
+                      Actions
+                      Packages
+                      Security
+                      Team management
+                      Hosting
+                      Mobile
+                      Customer stories →
+                      Security →
+                Team
+                Enterprise
+                    Explore
+                      Explore GitHub →
+                    Learn &amp; contribute
+                      Topics
+                        Collections
+                      Trending
+                      Learning Lab
+                      Open source guides
+                    Connect with others
+                      Events
+                      Community forum
+                      GitHub Education
+                      GitHub Stars program
+                Marketplace
+                    Pricing
+                    Plans →
+                      Compare plans
+                      Contact Sales
+                      Nonprofit →
+                      Education →
+     -->
+        In this repository
+        All GitHub
+      ↵
+      Jump to
+      ↵
+    No suggested jump to results
+        In this repository
+        All GitHub
+      ↵
+      Jump to
+      ↵
+        In this repository
+        All GitHub
+      ↵
+      Jump to
+      ↵
+          Sign in
+              Sign up
+      {{ message }}
+      newren
+    /
+    git
+    forked from git/git
+    Watch
+      1
+      Star
+      1
+          Fork
+        20k
+            Code
+            Pull requests
+              0
+            Actions
+            Projects
+              0
+            Security
+            Insights
+            More
+                    Code
+                    Pull requests
+                    Actions
+                    Projects
+                    Security
+                    Insights
+    Permalink
+          Dismiss
+        Join GitHub today
+        GitHub is home to over 50 million developers working together to host and review code, manage projects, and build software together.
+        Sign up
+      master
+        git/pathspec.h
+        Go to file
+                Go to file
+                T
+                  Go to line
+                  L
+                Copy path
+          Cannot retrieve contributors at this time
+      118 lines (107 sloc)
+    3.28 KB
+      Raw
+        Blame
+        #ifndef PATHSPEC_H
+        #define PATHSPEC_H
+        struct index_state;
+        /* Pathspec magic */
+        #define PATHSPEC_FROMTOP	(1&lt;&lt;0)
+        #define PATHSPEC_MAXDEPTH	(1&lt;&lt;1)
+        #define PATHSPEC_LITERAL	(1&lt;&lt;2)
+        #define PATHSPEC_GLOB		(1&lt;&lt;3)
+        #define PATHSPEC_ICASE		(1&lt;&lt;4)
+        #define PATHSPEC_EXCLUDE	(1&lt;&lt;5)
+        #define PATHSPEC_ATTR		(1&lt;&lt;6)
+        #define PATHSPEC_ALL_MAGIC	  \
+        	(PATHSPEC_FROMTOP	| \
+        	 PATHSPEC_MAXDEPTH	| \
+        	 PATHSPEC_LITERAL	| \
+        	 PATHSPEC_GLOB		| \
+        	 PATHSPEC_ICASE		| \
+        	 PATHSPEC_EXCLUDE	| \
+        	 PATHSPEC_ATTR)
+        #define PATHSPEC_ONESTAR 1	/* the pathspec pattern satisfies GFNM_ONESTAR */
+        struct pathspec {
+        	int nr;
+        	unsigned int has_wildcard:1;
+        	unsigned int recursive:1;
+        	unsigned int recurse_submodules:1;
+        	unsigned magic;
+        	int max_depth;
+        	struct pathspec_item {
+        		char *match;
+        		char *original;
+        		unsigned magic;
+        		int len, prefix;
+        		int nowildcard_len;
+        		int flags;
+        		int attr_match_nr;
+        		struct attr_match {
+        			char *value;
+        			enum attr_match_mode {
+        				MATCH_SET,
+        				MATCH_UNSET,
+        				MATCH_VALUE,
+        				MATCH_UNSPECIFIED
+        			} match_mode;
+        		} *attr_match;
+        		struct attr_check *attr_check;
+        	} *items;
+        };
+        #define GUARD_PATHSPEC(ps, mask) \
+        	do { \
+        		if ((ps)-&gt;magic &amp; ~(mask))	       \
+        			die("BUG:%s:%d: unsupported magic %x",	\
+        			    __FILE__, __LINE__, (ps)-&gt;magic &amp; ~(mask)); \
+        	} while (0)
+        /* parse_pathspec flags */
+        #define PATHSPEC_PREFER_CWD (1&lt;&lt;0) /* No args means match cwd */
+        #define PATHSPEC_PREFER_FULL (1&lt;&lt;1) /* No args means match everything */
+        #define PATHSPEC_MAXDEPTH_VALID (1&lt;&lt;2) /* max_depth field is valid */
+        /* die if a symlink is part of the given path's directory */
+        #define PATHSPEC_SYMLINK_LEADING_PATH (1&lt;&lt;3)
+        #define PATHSPEC_PREFIX_ORIGIN (1&lt;&lt;4)
+        #define PATHSPEC_KEEP_ORDER (1&lt;&lt;5)
+        /*
+         * For the callers that just need pure paths from somewhere else, not
+         * from command line. Global --*-pathspecs options are ignored. No
+         * magic is parsed in each pathspec either. If PATHSPEC_LITERAL is
+         * allowed, then it will automatically set for every pathspec.
+         */
+        #define PATHSPEC_LITERAL_PATH (1&lt;&lt;6)
+        /*
+         * Given command line arguments and a prefix, convert the input to
+         * pathspec. die() if any magic in magic_mask is used.
+         *
+         * Any arguments used are copied. It is safe for the caller to modify
+         * or free 'prefix' and 'args' after calling this function.
+         */
+        void parse_pathspec(struct pathspec *pathspec,
+        		    unsigned magic_mask,
+        		    unsigned flags,
+        		    const char *prefix,
+        		    const char **args);
+        void copy_pathspec(struct pathspec *dst, const struct pathspec *src);
+        void clear_pathspec(struct pathspec *);
+        static inline int ps_strncmp(const struct pathspec_item *item,
+        			     const char *s1, const char *s2, size_t n)
+        {
+        	if (item-&gt;magic &amp; PATHSPEC_ICASE)
+        		return strncasecmp(s1, s2, n);
+        	else
+        		return strncmp(s1, s2, n);
+        }
+        static inline int ps_strcmp(const struct pathspec_item *item,
+        			    const char *s1, const char *s2)
+        {
+        	if (item-&gt;magic &amp; PATHSPEC_ICASE)
+        		return strcasecmp(s1, s2);
+        	else
+        		return strcmp(s1, s2);
+        }
+        void add_pathspec_matches_against_index(const struct pathspec *pathspec,
+        					const struct index_state *istate,
+        					char *seen);
+        char *find_pathspecs_matching_against_index(const struct pathspec *pathspec,
+        					    const struct index_state *istate);
+        int match_pathspec_attrs(const struct index_state *istate,
+        			 const char *name, int namelen,
+        			 const struct pathspec_item *item);
+        #endif /* PATHSPEC_H */
+            Copy lines
+            Copy permalink
+        View git blame
+       -->
+        Go
+        © 2020 GitHub, Inc.
+          Terms
+          Privacy
+  Cookie Preferences
+          Security
+          Status
+          Help
+          Contact GitHub
+          Pricing
+        API
+        Training
+          Blog
+          About
+    You can’t perform that action at this time.
+    You signed in with another tab or window. Reload to refresh your session.
+    You signed out in another tab or window. Reload to refresh your session.
+  We use optional third-party analytics cookies to understand how you use GitHub.com so we can build better products.
+              Learn more.
+              Accept
+              Reject
+  We use optional third-party analytics cookies to understand how you use GitHub.com so we can build better products.
+              You can always update your selection by clicking Cookie Preferences at the bottom of the page.
+              For more information, see our Privacy Statement.
+              Essential cookies
+              We use essential cookies to perform essential website functions, e.g. they're used to log you in. 
+                Learn more
+              Always active
+              Analytics cookies
+              We use analytics cookies to understand how you use our websites so we can make them better, e.g. they're used to gather information about the pages you visit and how many clicks you need to accomplish a task. 
+                Learn more
+                Accept
+                Reject
+            Save preferences

@@ -1,0 +1,94 @@
+	Help
+	Category:CS1 maintenance
+		From Wikipedia, the free encyclopedia
+		Jump to navigation
+		Jump to search
+		This is a tracking category.It is used to build and maintain lists of pages—primarily for the sake of the lists themselves and their use in article and category maintenance. It is not part of the encyclopedia's categorization scheme. 
+More information:
+This category is hidden on its member pages—unless the corresponding user preference is set.
+These categories are used to track, build and organize lists of pages needing "attention en masse" (for example, pages using deprecated syntax), or that may need to be edited at someone's earliest convenience.
+These categories also serve to aggregate members of several lists or sub-categories into a larger, more efficient list (discriminated by classifications).
+This is a tracking category for various CS1 citation maintenance categories.  This category should not contain individual pages.  Pages in the individual subcategories should only be added by CS1 templates and Module:Citation/CS1.
+By default, Citation Style 1 and Citation Style 2 error messages are visible to all readers and maintenance category messages are hidden from all readers.
+To display maintenance messages, include the following text in your common CSS page or your specific skin's CSS page (common.css and skin.css respectively):
+.mw-parser-output span.cs1-maint {display: inline;} /* display Citation Style 1 maintenance messages */
+To display hidden-by-default error messages:
+.mw-parser-output span.cs1-hidden-error {display: inline;} /* display hidden Citation Style 1 error messages */
+Even with this css installed, older pages in Wikipedia's cache may not have been updated to show these error messages even though the page is listed in one of the tracking categories. A null edit will resolve that issue.
+To hide normally-displayed error messages:
+.mw-parser-output span.cs1-visible-error {display: none;} /* hide Citation Style 1 error messages */
+You can personalize the display of these messages (such as changing the color), but you will need to ask someone who knows CSS or at the technical village pump if you do not understand how.
+The total count of articles in subcategories of this category is 292,122 
+(update this page to refresh this count). This number involves some double-counting, since a single article may appear in multiple subcategories.
+See also: Category:CS1 errors
+Subcategories
+This category has the following 34 subcategories, out of 34 total.
+A
+►  CS1 maint: archived copy as title‎ (164,912 P)
+►  CS1 maint: ASIN uses ISBN‎ (449 P)
+►  CS1 maint: uses authors parameter‎ (13,210 P)B
+►  CS1 maint: BOT: original-url status unknown‎ (23,562 P)D
+►  CS1 maint: date and year‎ (1,446 P)
+►  CS1 maint: date format‎ (3,654 P)
+►  CS1 maint: display-authors‎ (4 P)
+►  CS1 maint: display-editors‎ (empty)
+►  CS1 maint: DOI inactive‎ (1 C)
+►  Pages with inactive DOIs‎ (1 C)E
+►  CS1 maint: extra punctuation‎ (4,896 P)
+►  CS1 maint: extra text‎ (4 C, 36 P)
+►  CS1 maint: uses editors parameter‎ (empty)I
+►  CS1 maint: ignored ISBN errors‎ (290 P)L
+►  CS1 maint: location‎ (9,935 P)
+►  CS1 maint: unrecognized language‎ (466 P)M
+►  CS1 maint: multiple names: authors list‎ (35,223 P)
+►  CS1 maint: multiple names: contributors list‎ (empty)
+►  CS1 maint: multiple names: editors list‎ (6 P)
+►  CS1 maint: multiple names: interviewers list‎ (4 P)
+►  CS1 maint: multiple names: translators list‎ (1 P)N
+►  CS1 maint: nocat‎ (9 P)
+►  CS1 maint: numeric names: authors list‎ (13,548 P)
+►  CS1 maint: numeric names: contributors list‎ (empty)
+►  CS1 maint: numeric names: editors list‎ (empty)
+►  CS1 maint: numeric names: interviewers list‎ (empty)
+►  CS1 maint: numeric names: translators list‎ (empty)O
+►  CS1 maint: others‎ (23,286 P)P
+►  CS1 maint: PMC embargo expired‎ (empty)
+►  CS1 maint: PMC format‎ (1 P)R
+►  CS1 maint: ref=harv‎ (115,523 P, 4 F)U
+►  CS1 maint: unfit url‎ (9,795 P)
+►  CS1 maint: untitled periodical‎ (979 P, 1 F)Z
+►  CS1 maint: ZBL‎ (2 P)
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Category:CS1_maintenance&amp;oldid=937835165"
+		Hidden categories: Hidden categoriesTracking categoriesCS1
+	Navigation menu
+		Personal tools
+		Not logged inTalkContributionsCreate accountLog in
+		Namespaces
+		CategoryTalk
+		Variants
+		Views
+		ReadEditView history
+		More
+		Search
+		Navigation
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		Contribute
+		HelpLearn to editCommunity portalRecent changesUpload file
+		Tools
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		Print/export
+		Download as PDFPrintable version
+		Languages
+		العربيةBân-lâm-gúभोजपुरीDanskفارسی한국어हिन्दीIlokanoעבריתLietuviųМакедонскиNorsk bokmålଓଡ଼ିଆRomânăScotsShqipසිංහලSimple EnglishSlovenščinaСрпски / srpskiSrpskohrvatski / српскохрватскиTürkçeTiếng Việt粵語中文
+		Edit links
+		 This page was last edited on 27 January 2020, at 14:21 (UTC).
+		Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+		Privacy policy
+		About Wikipedia
+		Disclaimers
+		Contact Wikipedia
+		Mobile view
+		Developers
+		Statistics
+		Cookie statement

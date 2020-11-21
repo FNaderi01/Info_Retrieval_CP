@@ -1,0 +1,120 @@
+        Skip to Main Content
+	/* SPECIAL MODE BAR */
+	div.sw-special-mode-bar {
+		background: #FBC243 url('https://achieve.lausd.net/Static//GlobalAssets/Images/special-mode-bar-background.png') no-repeat;
+		height: 30px;
+		text-align: left;
+		font-size: 12px;
+		position: relative;
+		z-index: 10000;
+	}
+	div.sw-special-mode-bar > div {
+		padding: 8px 0 0 55px;
+		font-weight: bold;
+	}
+	div.sw-special-mode-bar > div > a {
+		margin-left: 20px;
+		background: #A0803D;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		color: #fff;
+		padding: 4px 6px 4px 6px;
+		font-size: 11px;
+	}
+	/* END SPECIAL MODE BAR */
+District Home
+Sign In
+Search Our Site
+				LAUSD Home
+				Board of Ed Home
+				STAFF
+				POPULAR Links
+					Jackie Goldberg
+						LAUSD Home
+						Board of Ed Home
+						STAFF
+                        Site Map
+                        POPULAR Links
+                        s
+                                Search...
+                                    GO
+.rs-photo-title > h1
+{
+   width: 0;
+   height: 0;
+   opacity: 0;
+}
+#hp-slideshow .rs-photo-gallery-bullet
+{
+   border: solid 1px #0B3C5D;
+}
+#hp-slideshow .rs-photo-gallery-bullet.active::before
+{
+   background: #0B3C5D;
+}
+#hp-slideshow .rs-photo-gallery-control.next,
+#hp-slideshow .rs-photo-gallery-control.back
+{
+   background: #0B3C5D;
+}
+#gb-header 
+{
+min-height: 164px;
+}
+#gb-header .gb-logo
+{
+margin: 6px 0;
+}
+li.sw-channel-item > a
+{
+   font: normal 14px/1 'Raleway', sans-serif;
+}
+#pmi-55526, #pmi-59808, #pmi-59809, #pmi-59811
+{
+   height: 0;
+   width: 0;
+   opacity: 0;
+   margin: 0;
+}
+#pmi-55526 div.ui-widget.app div.ui-widget-detail,
+#pmi-59808 div.ui-widget.app div.ui-widget-detail,
+#pmi-59809 div.ui-widget.app div.ui-widget-detail,
+#pmi-59811 div.ui-widget.app div.ui-widget-detail
+{
+   height: 0;
+   width: 0;
+   opacity: 0;
+   margin: 0;
+}
+Home
+News/Media
+"
+Contact Us
+"
+Resources
+"
+        	This site is under construction. 
+In the interim, to contact Board Vice President Jackie Goldberg, please call (213) 241-5555 or email BD5info@lausd.net.
+		Follow Jackie on Twitter
+Tweets by Jackie4LAKids  
+		Follow Jackie on Facebook
+Jackie Goldberg 
+					Jackie Goldberg
+						facebook
+						youtube
+						twitter
+						pinterest
+						vimeo
+						flickr
+						linked in
+						instagram
+				Board District 5c/o Los Angeles Unified School District 333 S. Beaudry Ave., 24th Floor Los Angeles, CA 90017
+				(213) 241-5555
+				Fax: 
+			Add Disclaimer Text
+Questions or Feedback? | 
+Blackboard Web Community Manager Privacy Policy (Updated) | 
+Terms of Use
+Copyright © 2002-2020 Blackboard, Inc. All rights reserved.
+            CLOSE
+            CLOSE

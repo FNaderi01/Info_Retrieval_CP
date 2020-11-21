@@ -1,0 +1,682 @@
+     category > maptopic > article -->
+    GitHub Docs
+    All products
+  REST API
+          Overview
+          Resources in the REST API
+          Media types
+          Other authentication methods
+          Troubleshooting
+          API previews
+          Libraries
+          Endpoints available for GitHub Apps
+          Reference
+          Activity
+          Apps
+          Checks
+          Codes of conduct
+          Emojis
+          GitHub Enterprise administration
+          Gists
+          Git database
+          Gitignore
+          Issues
+          Licenses
+          Markdown
+          Meta
+          OAuth Authorizations
+          Organizations
+          Projects
+          Pulls
+          Rate limit
+          Reactions
+          Repositories
+          Search
+          Teams
+          Users
+          Permissions required for GitHub Apps
+          Guides
+          Getting started with the REST API
+          Basics of authentication
+          Discovering resources for a user
+          Delivering deployments
+          Rendering data as graphs
+          Working with comments
+          Traversing with pagination
+          Building a CI server
+          Best practices for integrators
+          Getting started with the Git Database API
+          Getting started with the Checks API
+        GitHub Docs
+                Explore by product
+                      REST API
+                       GitHub.com
+                       Enterprise Administrators
+                       GitHub Actions
+                       GitHub Packages
+                       Developers
+                       REST API
+                       GraphQL API
+                       GitHub Insights
+                       GitHub Desktop
+                       Atom
+                       Electron
+                            English
+                              English
+                              简体中文 (Simplified Chinese)
+                              日本語 (Japanese)
+                              Español (Spanish)
+                              Português do Brasil (Portuguese)
+          This version of GitHub Enterprise will be discontinued on
+          This version of GitHub Enterprise was discontinued on
+        2020-11-12.
+      No patch releases will be made, even for critical security issues. For better performance, improved security, and new features, upgrade to the latest version of GitHub Enterprise.
+For help with the upgrade, contact GitHub Enterprise support.
+      Article version: Enterprise Server 2.19
+      Free, Pro, and Team
+      Enterprise Server 2.22
+      Enterprise Server 2.21
+      Enterprise Server 2.20
+      Enterprise Server 2.19
+    REST API
+    Reference
+    Permissions required for GitHub Apps
+      Article version: Enterprise Server 2.19
+      Free, Pro, and Team
+      Enterprise Server 2.22
+      Enterprise Server 2.21
+      Enterprise Server 2.20
+      Enterprise Server 2.19
+        Permissions required for GitHub Apps
+        You can find the required permissions for each GitHub App-compatible endpoint.
+        In this article
+          About GitHub App permissions
+          Metadata permissions
+          Permission on "administration"
+          Permission on "checks"
+          Permission on "contents"
+          Permission on "deployments"
+          Permission on "emails"
+          Permission on "followers"
+          Permission on "gpg keys"
+          Permission on "issues"
+          Permission on "keys"
+          Permission on "members"
+          Permission on "organization administration"
+          Permission on "organization hooks"
+          Permission on "organization pre receive hooks"
+          Permission on "organization projects"
+          Permission on "pages"
+          Permission on "pull requests"
+          Permission on "repository hooks"
+          Permission on "repository pre receive hooks"
+          Permission on "repository projects"
+          Permission on "single file"
+          Permission on "starring"
+          Permission on "statuses"
+          Permission on "team discussions"
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        Required
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        Optional
+      Can we contact you if we have more questions?
+        Optional
+      Send
+    Thank you! Your feedback has been submitted.
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  Or, learn how to contribute.
+      About GitHub App permissions
+GitHub Apps are created with a set of permissions. Permissions define what resources the GitHub App can access via the API. For more information, see "Setting permissions for GitHub Apps."
+Metadata permissions
+GitHub Apps have the Read-only metadata permission by default. The metadata permission provides access to a collection of read-only endpoints with metadata for various resources. These endpoints do not leak sensitive private repository information.
+If you set the metadata permission to No access and select a permission that requires repository access, GitHub will override your selection and set the metadata permission back to Read-only. To set the metadata permission to No access, you must set all permissions that require repository access to No access first.
+GET /
+GET /codes_of_conduct
+GET /codes_of_conduct/:key
+GET /emojis
+GET /feeds
+GET /licenses
+GET /licenses/:key
+POST /markdown
+POST /markdown/raw
+GET /meta
+GET /organizations
+GET /orgs/:org
+GET /orgs/:org/projects
+GET /orgs/:org/repos
+GET /rate_limit
+GET /repos/:owner/:repo
+GET /repos/:owner/:repo/contributors
+GET /repos/:owner/:repo/forks
+GET /repos/:owner/:repo/languages
+GET /repos/:owner/:repo/license
+GET /repos/:owner/:repo/stargazers
+GET /repos/:owner/:repo/stats/code_frequency
+GET /repos/:owner/:repo/stats/commit_activity
+GET /repos/:owner/:repo/stats/contributors
+GET /repos/:owner/:repo/stats/participation
+GET /repos/:owner/:repo/stats/punch_card
+GET /repos/:owner/:repo/subscribers
+GET /repos/:owner/:repo/tags
+GET /repos/:owner/:repo/topics
+GET /repositories
+GET /user/repos
+GET /user/starred
+GET /user/subscriptions
+GET /users
+GET /users/:username
+GET /users/:username/followers
+GET /users/:username/following
+GET /users/:username/following/:target_user
+GET /users/:username/gpg_keys
+GET /users/:username/orgs
+GET /users/:username/received_events
+GET /users/:username/received_events/public
+GET /users/:username/repos
+GET /users/:username/subscriptions
+Collaborators
+GET /repos/:owner/:repo/collaborators
+GET /repos/:owner/:repo/collaborators/:username
+Commit comments
+GET /repos/:owner/:repo/comments
+GET /repos/:owner/:repo/comments/:comment_id
+GET /repos/:owner/:repo/comments/:comment_id/reactions
+GET /repos/:owner/:repo/commits/:sha/comments
+Events
+GET /events
+GET /networks/:owner/:repo/events
+GET /orgs/:org/events
+GET /repos/:owner/:repo/events
+GET /users/:username/events
+GET /users/:username/events/public
+Git
+GET /gitignore/templates
+GET /gitignore/templates/:key
+Keys
+GET /users/:username/keys
+Organization members
+GET /orgs/:org/members
+GET /orgs/:org/members/:username
+GET /orgs/:org/public_members
+GET /orgs/:org/public_members/:username
+Search
+GET /search/code
+GET /search/commits
+GET /search/issues
+GET /search/labels
+GET /search/repositories
+GET /search/topics
+GET /search/users
+Permission on "administration"
+POST /orgs/:org/repos (:write)
+PATCH /repos/:owner/:repo (:write)
+DELETE /repos/:owner/:repo (:write)
+POST /repos/:owner/:repo/forks (:write)
+PUT /repos/:owner/:repo/topics (:write)
+POST /repos/:owner/:repo/transfer (:write)
+PATCH /user/repository_invitations/:invitation_id (:write)
+DELETE /user/repository_invitations/:invitation_id (:write)
+Branches
+GET /repos/:owner/:repo/branches/:branch/protection (:read)
+PUT /repos/:owner/:repo/branches/:branch/protection (:write)
+DELETE /repos/:owner/:repo/branches/:branch/protection (:write)
+GET /repos/:owner/:repo/branches/:branch/protection/enforce_admins (:read)
+POST /repos/:owner/:repo/branches/:branch/protection/enforce_admins (:write)
+DELETE /repos/:owner/:repo/branches/:branch/protection/enforce_admins (:write)
+GET /repos/:owner/:repo/branches/:branch/protection/required_pull_request_reviews (:read)
+PATCH /repos/:owner/:repo/branches/:branch/protection/required_pull_request_reviews (:write)
+DELETE /repos/:owner/:repo/branches/:branch/protection/required_pull_request_reviews (:write)
+GET /repos/:owner/:repo/branches/:branch/protection/required_signatures (:read)
+POST /repos/:owner/:repo/branches/:branch/protection/required_signatures (:write)
+DELETE /repos/:owner/:repo/branches/:branch/protection/required_signatures (:write)
+GET /repos/:owner/:repo/branches/:branch/protection/required_status_checks (:read)
+PATCH /repos/:owner/:repo/branches/:branch/protection/required_status_checks (:write)
+DELETE /repos/:owner/:repo/branches/:branch/protection/required_status_checks (:write)
+GET /repos/:owner/:repo/branches/:branch/protection/required_status_checks/contexts (:read)
+POST /repos/:owner/:repo/branches/:branch/protection/required_status_checks/contexts (:write)
+PUT /repos/:owner/:repo/branches/:branch/protection/required_status_checks/contexts (:write)
+DELETE /repos/:owner/:repo/branches/:branch/protection/required_status_checks/contexts (:write)
+GET /repos/:owner/:repo/branches/:branch/protection/restrictions (:read)
+DELETE /repos/:owner/:repo/branches/:branch/protection/restrictions (:write)
+GET /repos/:owner/:repo/branches/:branch/protection/restrictions/teams (:read)
+POST /repos/:owner/:repo/branches/:branch/protection/restrictions/teams (:write)
+PUT /repos/:owner/:repo/branches/:branch/protection/restrictions/teams (:write)
+DELETE /repos/:owner/:repo/branches/:branch/protection/restrictions/teams (:write)
+GET /repos/:owner/:repo/branches/:branch/protection/restrictions/users (:read)
+POST /repos/:owner/:repo/branches/:branch/protection/restrictions/users (:write)
+PUT /repos/:owner/:repo/branches/:branch/protection/restrictions/users (:write)
+DELETE /repos/:owner/:repo/branches/:branch/protection/restrictions/users (:write)
+Collaborators
+PUT /repos/:owner/:repo/collaborators/:username (:write)
+DELETE /repos/:owner/:repo/collaborators/:username (:write)
+Invitations
+GET /repos/:owner/:repo/invitations (:read)
+PATCH /repos/:owner/:repo/invitations/:invitation_id (:write)
+DELETE /repos/:owner/:repo/invitations/:invitation_id (:write)
+Keys
+GET /repos/:owner/:repo/keys (:read)
+POST /repos/:owner/:repo/keys (:write)
+GET /repos/:owner/:repo/keys/:key_id (:read)
+DELETE /repos/:owner/:repo/keys/:key_id (:write)
+Teams
+GET /repos/:owner/:repo/teams (:read)
+PUT /teams/:team_id/repos/:owner/:repo (:write)
+DELETE /teams/:team_id/repos/:owner/:repo (:write)
+Permission on "checks"
+POST /repos/:owner/:repo/check-runs (:write)
+GET /repos/:owner/:repo/check-runs/:check_run_id (:read)
+PATCH /repos/:owner/:repo/check-runs/:check_run_id (:write)
+GET /repos/:owner/:repo/check-runs/:check_run_id/annotations (:read)
+POST /repos/:owner/:repo/check-suites (:write)
+GET /repos/:owner/:repo/check-suites/:check_suite_id (:read)
+GET /repos/:owner/:repo/check-suites/:check_suite_id/check-runs (:read)
+POST /repos/:owner/:repo/check-suites/:check_suite_id/rerequest (:write)
+PATCH /repos/:owner/:repo/check-suites/preferences (:write)
+GET /repos/:owner/:repo/commits/:sha/check-runs (:read)
+GET /repos/:owner/:repo/commits/:sha/check-suites (:read)
+Permission on "contents"
+GET /repos/:owner/:repo/:archive_format/:ref (:read)
+GET /repos/:owner/:repo/check-runs/:check_run_id (:read)
+GET /repos/:owner/:repo/check-runs/:check_run_id/annotations (:read)
+GET /repos/:owner/:repo/check-suites/:check_suite_id (:read)
+GET /repos/:owner/:repo/check-suites/:check_suite_id/check-runs (:read)
+POST /repos/:owner/:repo/check-suites/:check_suite_id/rerequest (:write)
+GET /repos/:owner/:repo/commits (:read)
+GET /repos/:owner/:repo/commits/:sha (:read)
+GET /repos/:owner/:repo/commits/:sha/check-runs (:read)
+GET /repos/:owner/:repo/commits/:sha/check-suites (:read)
+GET /repos/:owner/:repo/community/code_of_conduct (:read)
+GET /repos/:owner/:repo/compare/:base...:head (:read)
+GET /repos/:owner/:repo/contents/:path (:read)
+POST /repos/:owner/:repo/forks (:read)
+POST /repos/:owner/:repo/merges (:write)
+PUT /repos/:owner/:repo/pulls/:pull_number/merge (:write)
+GET /repos/:owner/:repo/readme(?:/(.*))? (:read)
+Branches
+GET /repos/:owner/:repo/branches (:read)
+GET /repos/:owner/:repo/branches/:branch (:read)
+GET /repos/:owner/:repo/branches/:branch/protection/restrictions/apps (:write)
+POST /repos/:owner/:repo/branches/:branch/protection/restrictions/apps (:write)
+PUT /repos/:owner/:repo/branches/:branch/protection/restrictions/apps (:write)
+DELETE /repos/:owner/:repo/branches/:branch/protection/restrictions/apps (:write)
+Commit comments
+PATCH /repos/:owner/:repo/comments/:comment_id (:write)
+DELETE /repos/:owner/:repo/comments/:comment_id (:write)
+POST /repos/:owner/:repo/comments/:comment_id/reactions (:read)
+POST /repos/:owner/:repo/commits/:sha/comments (:read)
+Git
+POST /repos/:owner/:repo/git/blobs (:write)
+GET /repos/:owner/:repo/git/blobs/:sha (:read)
+POST /repos/:owner/:repo/git/commits (:write)
+GET /repos/:owner/:repo/git/commits/:commit_id (:read)
+POST /repos/:owner/:repo/git/refs (:write)
+GET /repos/:owner/:repo/git/ref/:ref (:read)
+GET /repos/:owner/:repo/git/matching-refs/:ref (:read)
+PATCH /repos/:owner/:repo/git/refs/:ref (:write)
+DELETE /repos/:owner/:repo/git/refs/:ref (:write)
+POST /repos/:owner/:repo/git/tags (:write)
+GET /repos/:owner/:repo/git/tags/:tag_id (:read)
+POST /repos/:owner/:repo/git/trees (:write)
+GET /repos/:owner/:repo/git/trees/:sha (:read)
+Reactions
+DELETE /reactions/:reaction_id (:write)
+Releases
+GET /repos/:owner/:repo/releases (:read)
+POST /repos/:owner/:repo/releases (:write)
+GET /repos/:owner/:repo/releases/:release_id (:read)
+PATCH /repos/:owner/:repo/releases/:release_id (:write)
+DELETE /repos/:owner/:repo/releases/:release_id (:write)
+GET /repos/:owner/:repo/releases/:release_id/assets (:read)
+GET /repos/:owner/:repo/releases/assets/:asset_id (:read)
+PATCH /repos/:owner/:repo/releases/assets/:asset_id (:write)
+DELETE /repos/:owner/:repo/releases/assets/:asset_id (:write)
+GET /repos/:owner/:repo/releases/latest (:read)
+GET /repos/:owner/:repo/releases/tags/:tag (:read)
+Permission on "deployments"
+GET /repos/:owner/:repo/deployments (:read)
+POST /repos/:owner/:repo/deployments (:write)
+GET /repos/:owner/:repo/deployments/:deployment_id (:read)
+GET /repos/:owner/:repo/deployments/:deployment_id/statuses (:read)
+POST /repos/:owner/:repo/deployments/:deployment_id/statuses (:write)
+GET /repos/:owner/:repo/deployments/:deployment_id/statuses/:status_id (:read)
+Permission on "emails"
+GET /user/emails (:read)
+POST /user/emails (:write)
+DELETE /user/emails (:write)
+GET /user/public_emails (:read)
+Permission on "followers"
+GET /user/followers (:read)
+GET /user/following (:read)
+GET /user/following/:username (:read)
+PUT /user/following/:username (:write)
+DELETE /user/following/:username (:write)
+Permission on "gpg keys"
+GET /user/gpg_keys (:read)
+POST /user/gpg_keys (:write)
+GET /user/gpg_keys/:gpg_key_id (:read)
+DELETE /user/gpg_keys/:gpg_key_id (:write)
+Permission on "issues"
+Issues and pull requests are closely related. For more information, see "List issues assigned to the authenticated user." If your GitHub App has permissions on issues but not on pull requests, these endpoints will be limited to issues. Endpoints that return both issues and pull requests will be filtered. Endpoints that allow operations on both issues and pull requests will be restricted to issues.
+GET /repos/:owner/:repo/issues (:read)
+POST /repos/:owner/:repo/issues (:write)
+GET /repos/:owner/:repo/issues/:issue_number (:read)
+PATCH /repos/:owner/:repo/issues/:issue_number (:write)
+GET /repos/:owner/:repo/issues/:issue_number/comments (:read)
+POST /repos/:owner/:repo/issues/:issue_number/comments (:write)
+PUT /repos/:owner/:repo/issues/:issue_number/lock (:write)
+DELETE /repos/:owner/:repo/issues/:issue_number/lock (:write)
+GET /repos/:owner/:repo/issues/:issue_number/reactions (:read)
+POST /repos/:owner/:repo/issues/:issue_number/reactions (:write)
+GET /repos/:owner/:repo/issues/:issue_number/timeline (:read)
+GET /repos/:owner/:repo/issues/comments (:read)
+GET /repos/:owner/:repo/issues/comments/:comment_id (:read)
+PATCH /repos/:owner/:repo/issues/comments/:comment_id (:write)
+DELETE /repos/:owner/:repo/issues/comments/:comment_id (:write)
+GET /repos/:owner/:repo/issues/comments/:comment_id/reactions (:read)
+POST /repos/:owner/:repo/issues/comments/:comment_id/reactions (:write)
+Assignees
+GET /repos/:owner/:repo/assignees (:read)
+GET /repos/:owner/:repo/assignees/:username (:read)
+POST /repos/:owner/:repo/issues/:issue_number/assignees (:write)
+DELETE /repos/:owner/:repo/issues/:issue_number/assignees (:write)
+Events
+GET /repos/:owner/:repo/issues/:issue_number/events (:read)
+Get an issue event (:read)
+Labels
+GET /repos/:owner/:repo/issues/:issue_number/labels (:read)
+POST /repos/:owner/:repo/issues/:issue_number/labels (:write)
+PUT /repos/:owner/:repo/issues/:issue_number/labels (:write)
+DELETE /repos/:owner/:repo/issues/:issue_number/labels (:write)
+DELETE /repos/:owner/:repo/issues/:issue_number/labels/:name (:write)
+GET /repos/:owner/:repo/labels (:read)
+POST /repos/:owner/:repo/labels (:write)
+GET /repos/:owner/:repo/labels/:name (:read)
+PATCH /repos/:owner/:repo/labels/:name (:write)
+DELETE /repos/:owner/:repo/labels/:name (:write)
+Milestones
+GET /repos/:owner/:repo/milestones (:read)
+POST /repos/:owner/:repo/milestones (:write)
+GET /repos/:owner/:repo/milestones/:milestone_number (:read)
+PATCH /repos/:owner/:repo/milestones/:milestone_number (:write)
+DELETE /repos/:owner/:repo/milestones/:milestone_number (:write)
+GET /repos/:owner/:repo/milestones/:milestone_number/labels (:read)
+Reactions
+GET /repos/:owner/:repo/issues/comments/:comment_id/reactions (:read)
+POST /repos/:owner/:repo/issues/comments/:comment_id/reactions (:write)
+GET /repos/:owner/:repo/issues/:issue_number/reactions (:read)
+POST /repos/:owner/:repo/issues/:issue_number/reactions (:write)
+DELETE /reactions/:reaction_id (:write)
+Permission on "keys"
+Keys
+GET /user/keys (:read)
+POST /user/keys (:write)
+GET /user/keys/:key_id (:read)
+DELETE /user/keys/:key_id (:write)
+Permission on "members"
+GET /orgs/:org/outside_collaborators (:read)
+PUT /orgs/:org/outside_collaborators/:username (:write)
+DELETE /orgs/:org/outside_collaborators/:username (:write)
+GET /orgs/:org/team/:team_id (:read)
+Organization members
+DELETE /orgs/:org/members/:username (:write)
+GET /orgs/:org/memberships/:username (:read)
+PUT /orgs/:org/memberships/:username (:write)
+DELETE /orgs/:org/memberships/:username (:write)
+PUT /orgs/:org/public_members/:username (:write)
+DELETE /orgs/:org/public_members/:username (:write)
+GET /user/memberships/orgs (:read)
+GET /user/memberships/orgs/:org (:read)
+PATCH /user/memberships/orgs/:org (:write)
+Team members
+GET /teams/:team_id/members (:read)
+GET /teams/:team_id/memberships/:username (:read)
+PUT /teams/:team_id/memberships/:username (:write)
+DELETE /teams/:team_id/memberships/:username (:write)
+Teams
+GET /orgs/:org/teams (:read)
+POST /orgs/:org/teams (:write)
+GET /orgs/:org/teams/:team_slug (:read)
+GET /teams/:team_id (:read)
+PATCH /teams/:team_id (:write)
+DELETE /teams/:team_id (:write)
+GET /teams/:team_id/repos (:read)
+GET /teams/:team_id/repos/:owner/:repo (:read)
+PUT /teams/:team_id/repos/:owner/:repo (:read)
+DELETE /teams/:team_id/repos/:owner/:repo (:write)
+GET /teams/:team_id/teams (:read)
+Permission on "organization administration"
+PATCH /orgs/:org (:write)
+Permission on "organization hooks"
+GET /orgs/:org/hooks (:read)
+POST /orgs/:org/hooks (:write)
+GET /orgs/:org/hooks/:hook_id (:read)
+PATCH /orgs/:org/hooks/:hook_id (:write)
+DELETE /orgs/:org/hooks/:hook_id (:write)
+POST /orgs/:org/hooks/:hook_id/pings (:write)
+Teams
+DELETE /teams/:team_id/projects/:project_id (:read)
+Permission on "organization pre receive hooks"
+GET /orgs/:org/pre-receive-hooks (:read)
+GET /orgs/:org/pre-receive-hooks/:pre_receive_hook_id (:read)
+PATCH /orgs/:org/pre-receive-hooks/:pre_receive_hook_id (:write)
+DELETE /orgs/:org/pre-receive-hooks/:pre_receive_hook_id (:write)
+Permission on "organization projects"
+POST /orgs/:org/projects (:write)
+GET /projects/:project_id (:read)
+PATCH /projects/:project_id (:write)
+DELETE /projects/:project_id (:write)
+POST /projects/:project_id/cards (:write)
+GET /projects/:project_id/columns (:read)
+POST /projects/:project_id/columns (:write)
+GET /projects/columns/:column_id (:read)
+PATCH /projects/columns/:column_id (:write)
+DELETE /projects/columns/:column_id (:write)
+GET /projects/columns/:column_id/cards (:read)
+POST /projects/columns/:column_id/cards (:write)
+POST /projects/columns/:column_id/moves (:write)
+GET /projects/columns/cards/:card_id (:read)
+PATCH /projects/columns/cards/:card_id (:write)
+DELETE /projects/columns/cards/:card_id (:write)
+POST /projects/columns/cards/:card_id/moves (:write)
+Permission on "pages"
+GET /repos/:owner/:repo/pages (:read)
+POST /repos/:owner/:repo/pages (:write)
+PUT /repos/:owner/:repo/pages (:write)
+DELETE /repos/:owner/:repo/pages (:write)
+GET /repos/:owner/:repo/pages/builds (:read)
+POST /repos/:owner/:repo/pages/builds (:write)
+GET /repos/:owner/:repo/pages/builds/:build_id (:read)
+GET /repos/:owner/:repo/pages/builds/latest (:read)
+Permission on "pull requests"
+Pull requests and issues are closely related.. If your GitHub App has permissions on pull requests but not on issues, these endpoints will be limited to pull requests. Endpoints that return both pull requests and issues will be filtered. Endpoints that allow operations on both pull requests and issues will be restricted to pull requests.
+PATCH /repos/:owner/:repo/issues/:issue_number (:write)
+GET /repos/:owner/:repo/issues/:issue_number/comments (:read)
+POST /repos/:owner/:repo/issues/:issue_number/comments (:write)
+PUT /repos/:owner/:repo/issues/:issue_number/lock (:write)
+DELETE /repos/:owner/:repo/issues/:issue_number/lock (:write)
+GET /repos/:owner/:repo/issues/:issue_number/timeline (:read)
+GET /repos/:owner/:repo/issues/comments (:read)
+GET /repos/:owner/:repo/issues/comments/:comment_id (:read)
+PATCH /repos/:owner/:repo/issues/comments/:comment_id (:write)
+DELETE /repos/:owner/:repo/issues/comments/:comment_id (:write)
+GET /repos/:owner/:repo/pulls (:read)
+POST /repos/:owner/:repo/pulls (:write)
+GET /repos/:owner/:repo/pulls/:pull_number (:read)
+PATCH /repos/:owner/:repo/pulls/:pull_number (:write)
+GET /repos/:owner/:repo/pulls/:pull_number/comments (:read)
+POST /repos/:owner/:repo/pulls/:pull_number/comments (:write)
+GET /repos/:owner/:repo/pulls/:pull_number/commits (:read)
+GET /repos/:owner/:repo/pulls/:pull_number/files (:read)
+GET /repos/:owner/:repo/pulls/:pull_number/merge (:read)
+GET /repos/:owner/:repo/pulls/comments (:read)
+GET /repos/:owner/:repo/pulls/comments/:comment_id (:read)
+PATCH /repos/:owner/:repo/pulls/comments/:comment_id (:write)
+DELETE /repos/:owner/:repo/pulls/comments/:comment_id (:write)
+Assignees
+GET /repos/:owner/:repo/assignees (:read)
+GET /repos/:owner/:repo/assignees/:username (:read)
+POST /repos/:owner/:repo/issues/:issue_number/assignees (:write)
+DELETE /repos/:owner/:repo/issues/:issue_number/assignees (:write)
+Events
+GET /repos/:owner/:repo/issues/:issue_number/events (:read)
+GET /repos/:owner/:repo/issues/events/:event_id (:read)
+POST /repos/:owner/:repo/pulls/:pull_number/reviews/:review_id/events (:write)
+Labels
+GET /repos/:owner/:repo/issues/:issue_number/labels (:read)
+POST /repos/:owner/:repo/issues/:issue_number/labels (:write)
+PUT /repos/:owner/:repo/issues/:issue_number/labels (:write)
+DELETE /repos/:owner/:repo/issues/:issue_number/labels (:write)
+DELETE /repos/:owner/:repo/issues/:issue_number/labels/:name (:write)
+GET /repos/:owner/:repo/labels (:read)
+POST /repos/:owner/:repo/labels (:write)
+GET /repos/:owner/:repo/labels/:name (:read)
+PATCH /repos/:owner/:repo/labels/:name (:write)
+DELETE /repos/:owner/:repo/labels/:name (:write)
+Milestones
+GET /repos/:owner/:repo/milestones (:read)
+POST /repos/:owner/:repo/milestones (:write)
+GET /repos/:owner/:repo/milestones/:milestone_number (:read)
+PATCH /repos/:owner/:repo/milestones/:milestone_number (:write)
+DELETE /repos/:owner/:repo/milestones/:milestone_number (:write)
+GET /repos/:owner/:repo/milestones/:milestone_number/labels (:read)
+Reactions
+POST /repos/:owner/:repo/issues/:issue_number/reactions (:write)
+GET /repos/:owner/:repo/issues/comments/:comment_id/reactions (:read)
+POST /repos/:owner/:repo/issues/comments/:comment_id/reactions (:write)
+GET /repos/:owner/:repo/pulls/comments/:comment_id/reactions (:read)
+POST /repos/:owner/:repo/pulls/comments/:comment_id/reactions (:write)
+DELETE /reactions/:reaction_id (:write)
+Requested reviewers
+GET /repos/:owner/:repo/pulls/:pull_number/requested_reviewers (:read)
+POST /repos/:owner/:repo/pulls/:pull_number/requested_reviewers (:write)
+DELETE /repos/:owner/:repo/pulls/:pull_number/requested_reviewers (:write)
+Reviews
+GET /repos/:owner/:repo/pulls/:pull_number/reviews (:read)
+POST /repos/:owner/:repo/pulls/:pull_number/reviews (:write)
+GET /repos/:owner/:repo/pulls/:pull_number/reviews/:review_id (:read)
+PUT /repos/:owner/:repo/pulls/:pull_number/reviews/:review_id (:write)
+DELETE /repos/:owner/:repo/pulls/:pull_number/reviews/:review_id (:write)
+GET /repos/:owner/:repo/pulls/:pull_number/reviews/:review_id/comments (:read)
+PUT /repos/:owner/:repo/pulls/:pull_number/reviews/:review_id/dismissals (:write)
+Permission on "repository hooks"
+GET /repos/:owner/:repo/hooks (:read)
+POST /repos/:owner/:repo/hooks (:write)
+GET /repos/:owner/:repo/hooks/:hook_id (:read)
+PATCH /repos/:owner/:repo/hooks/:hook_id (:write)
+DELETE /repos/:owner/:repo/hooks/:hook_id (:write)
+POST /repos/:owner/:repo/hooks/:hook_id/pings (:read)
+POST /repos/:owner/:repo/hooks/:hook_id/tests (:read)
+Permission on "repository pre receive hooks"
+GET /repos/:owner/:repo/pre-receive-hooks (:read)
+GET /repos/:owner/:repo/pre-receive-hooks/:pre_receive_hook_id (:read)
+PATCH /repos/:owner/:repo/pre-receive-hooks/:pre_receive_hook_id (:write)
+DELETE /repos/:owner/:repo/pre-receive-hooks/:pre_receive_hook_id (:write)
+Permission on "repository projects"
+GET /projects/:project_id (:read)
+PATCH /projects/:project_id (:write)
+DELETE /projects/:project_id (:write)
+POST /projects/:project_id/cards (:write)
+GET /projects/:project_id/columns (:read)
+POST /projects/:project_id/columns (:write)
+GET /projects/columns/:column_id (:read)
+PATCH /projects/columns/:column_id (:write)
+DELETE /projects/columns/:column_id (:write)
+GET /projects/columns/:column_id/cards (:read)
+POST /projects/columns/:column_id/cards (:write)
+POST /projects/columns/:column_id/moves (:write)
+GET /projects/columns/cards/:card_id (:read)
+PATCH /projects/columns/cards/:card_id (:write)
+DELETE /projects/columns/cards/:card_id (:write)
+POST /projects/columns/cards/:card_id/moves (:write)
+GET /repos/:owner/:repo/projects (:read)
+POST /repos/:owner/:repo/projects (:write)
+Teams
+DELETE /teams/:team_id/projects/:project_id (:read)
+Permission on "single file"
+GET /repos/:owner/:repo/contents/:path (:read)
+PUT /repos/:owner/:repo/contents/:path (:write)
+DELETE /repos/:owner/:repo/contents/:path (:write)
+Permission on "starring"
+GET /user/starred/:owner/:repo (:read)
+PUT /user/starred/:owner/:repo (:write)
+DELETE /user/starred/:owner/:repo (:write)
+Permission on "statuses"
+GET /repos/:owner/:repo/commits/:ref/status (:read)
+GET /repos/:owner/:repo/commits/:ref/statuses (:read)
+POST /repos/:owner/:repo/statuses/:sha (:write)
+Permission on "team discussions"
+GET /teams/:team_id/discussions (:read)
+POST /teams/:team_id/discussions (:write)
+GET /teams/:team_id/discussions/:discussion_number (:read)
+PATCH /teams/:team_id/discussions/:discussion_number (:write)
+DELETE /teams/:team_id/discussions/:discussion_number (:write)
+GET /teams/:team_id/discussions/:discussion_number/comments (:read)
+POST /teams/:team_id/discussions/:discussion_number/comments (:write)
+GET /teams/:team_id/discussions/:discussion_number/comments/:comment_number (:read)
+PATCH /teams/:team_id/discussions/:discussion_number/comments/:comment_number (:write)
+DELETE /teams/:team_id/discussions/:discussion_number/comments/:comment_number (:write)
+GET /teams/:team_id/discussions/:discussion_number/comments/:comment_number/reactions (:read)
+POST /teams/:team_id/discussions/:discussion_number/comments/:comment_number/reactions (:write)
+GET /teams/:team_id/discussions/:discussion_number/reactions (:read)
+POST /teams/:team_id/discussions/:discussion_number/reactions (:write)
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        Required
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        Optional
+      Can we contact you if we have more questions?
+        Optional
+      Send
+    Thank you! Your feedback has been submitted.
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  Or, learn how to contribute.
+      Still need help?
+      Ask the GitHub community
+      Contact support
+        Product
+          Features
+          Security
+          Enterprise
+          Case Studies
+          Pricing
+          Resources
+        Platform
+          Developer API
+          Partners
+          Atom
+          Electron
+          GitHub Desktop
+        Support
+          Help
+          Community Forum
+          Training
+          Status
+          Contact GitHub
+        Company
+          About
+          Blog
+          Careers
+          Press
+          Shop
+        © 2020 GitHub, Inc.
+        Terms 
+        Privacy 

@@ -1,0 +1,331 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Gov. Sets Up Advisory Team on Aging as Golden State Population Grows Grayer            
+				By Tanu Henry, California Black Media                
+	                	                Published September 27, 2019
+		Carl Maryland, a Sacramento area resident displays his championship rings after retiring from the Sacramento Golden Seniors Softball Club league. (Photo by Robert Maryland)
+After Carl Maryland retired in 2009, he started playing for a team in the Sacramento Golden Seniors Softball Club league.
+“Mostly to stay active and fit,” the 78-year-old says, but he enjoyed hanging out and shooting the breeze with his teammates, too.
+During his seven-year run, playing in the league, Maryland’s team won 10 championship rings.
+        ADVERTISEMENT        
+“If you love the game, you got to stay with it,” says Maryland.
+Then, two years ago, he fell ill. His doctor advised him to take some time off from playing. In April of this year, when it was time to go back, he wasn’t well enough to get back on the field.
+Maryland has now moved into his son Robert’s home in Sacramento. Occasionally, they go out to the batting cage and play catch together.
+The younger Maryland is freelance photographer and father of two. He loves hanging out with his dad, he says. And although the senior Maryland is independent most of the time, caring for  him while balancing all of his other obligations at home and work can be challenging.
+“He doesn’t drive anymore,” Robert says. “It would be good if he could go out at anytime and hang out with his buddies. He misses that.”
+In California, caring for aging parents can be difficult for middle income families like the Marylands. There are few resources they can access for information or money to pay for medical bills, at-home care, or other needs.  The state provides assistance for home aides and transportation for low-income families. And most aging Californians who are wealthy can afford to move into plush nursing homes or senior communities – an unaffordable option for  average families – where there are people on staff to assist them.
+Expecting California’s aging population to balloon by about four million to 8.6 million people by 2030, Gov. Newsom is taking steps to meet the needs of families like the Marylands.
+In June, the governor issued an executive order, asking the Secretary of the Health and Human Services (HHS) to set up a cabinet-level “Workgroup for Aging” to advise the Secretary on “developing” a Master Plan on policy and programs.
+Gov. Newsom expects the committee to complete and deliver the Master Plan by October 2020.
+To support the workgroup, Ghaly announced the creation of an advisory committee comprised of Californians from various backgrounds who have some expertise on aging, including former Assemblymember Cheryl Brown (D-San Bernardino). Brown was chair of the Assembly Committee on Aging and Long Term Care during her tenure in the legislature.
+For Brown, working to solve problems aging adults and their caregivers face is fulfilling. Since she was about 14 years old, Brown says she remembers being a caretaker for aging adults in her family.
+“I never thought twice about it,” says Brown. “That’s what we did. Families used to have that intergenerational support. It brought us closer together. It made us stronger.”
+That’s why, Brown says, when she was a member of the state legislature – a Democrat representing a district covering parts of the Inland Empire from 2012 to 2016 – she authored legislation that would have required the state to set up a task force on caregivers for aging adults. The bill passed in the full Assembly and state Senate. But when it landed on then-Gov. Jerry Brown’s desk, he vetoed the legislation, letting her know there was not a need at the time for the team she was proposing.
+“Of course, I disagreed,”said Brown. “ Californians provide an estimated $47 billion a year in unpaid labor taking care of their families and every day in California, 1,000 people turn 65. Long-term care costs are increasing.”
+Instead of re-introducing the bill or authoring a similar one, Brown wrote a resolution that pointed out the need for the task force on caregiving for the aging. It passed in both the Assembly and Senate.
+Now, with her new appointment to the advisory committee, Brown says she’s ready the to join other Californians on the board to influence statewide policy on aging adults.
+“Our collective charge is to develop a roadmap that envisions a future where all Californians, regardless of race, economic status or level of support, can grow old safely, with dignity and independence,” wrote Marko Mijic, a Deputy Secretary at the HHS in an email to the new committee members.
+Gov. Newsom, who has first-hand caregiver experience from taking care of his dad before his death in 2018, announced the Master Plan committee in his State of the State speech in January. The governor’s father, William Newsom, was a former Appeals Court Judge who suffered from dementia.
+The governor said the plan must be “person-centered” and address issues like isolation, transportation, the nursing shortage and the increasing demand for in-home supportive services.”
+By 2030,  the Public Policy Institute of California estimates about 1 million aging adults in the state will need some assistance to take care of themselves. The population of seniors who will need nursing home care is expected to grow as well. California is also one of 14 states that has a poverty rate of more than 10 percent among the 65-and-older population, according to the U.S. Department of Health and Human Services.
+Accurately counting California’s aging population in next year’s Census will be a challenge as more and more aging adults fall in to poverty, become isolated from family and social networks, and continue to lack access to the internet. The 2020 Census will be the first to be primarily conducted online.
+Brown says it is important for California to get ahead of the challenges coming.
+“How do we create a one-stop shop?,” asks Brown. “What can we do to assist middle income families? Then, there is the sandwich generation – those working Californians with both young children and aging parents. How can we help them to help their loved ones?”
+		Categories: Economy | Family | Health | Lifestyle | Political Tags: Appeals Court Judge | Assemblymember Cheryl Brown (D-San Bernardino) | California | Carl Maryland | Ghaly | Gov. Gavin Newsom | Marko Mijic | Public Policy Institute of California | Sacramento Golden Seniors Softball Club league. | U.S. Department of Health and Human Services | William Newsom		
+						Los Angeles County Bans Flavored Tobacco Products
+						Seven Ways California’s New ‘Rent Cap’ Law Would Affect You
+						Student Athlete of the Week: Jasper Anderson
+						Enough is Enough, Dems Back Trump Impeachment Inquiry
+						Jackson Celebrates 78th Birthday Honoring Service of Others
+						The Human and Economic Toll of Gun Violence is Staggering
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

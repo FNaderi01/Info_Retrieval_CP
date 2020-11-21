@@ -1,0 +1,248 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Stacy Brown
+							Justice Ginsburg’s Death Could Prove Fatal to American Democracy
+					September 24, 2020Through her cancer, Ruth Bader Ginsburg fought to the end with unwavering faith in our democracy and its ideals, and that's how she'll be remembered, Obama expressed in a written statement. "But, she also left instructions for how she wanted her legacy to be honored," observed President Barack Obama.   ... read more  »
+							WATCH: Kareem Abdul Jabbar Speaks to the Black Press About Injustice
+					June 5, 2020Sentinel Managing Editor, Brandon I. Brooks joins the interview ... read more / watch video »
+							WATCH: Strategy, Innovation &amp; Community Support in Era of COVID-19
+					May 13, 2020
+On Wednesday, May 6 at 1PM ET, four publishers from across the country, including Bobby Henry of Florida’s Westside Gazette, Sonny Messiah Jiles of the Houston Defender, Hiram Jackson of Real Times Media (whose publications include the Chicago Defender and five other regional weeklies in the U.S.) and Larry Lee of the Sacramento Observer, will participate in a special livestream broadcast to discuss the status of their operations as the global COVID-19 pandemic rages on.
+ ... read more / watch video »
+        ADVERTISEMENT        
+							WATCH: BlackPressUSA LIVESTREAM – Accessing COVID-19 Testing &amp; Availability
+					May 13, 2020NNPA Sr. Correspondent Stacy Brown is joined by Dr. Leigh-Ann Webb, MD, MBA, Assistant Professor, University of Virginia, Dept of Emergency Medicine and Reggie Swift, Founder of Rubix Life Sciences for a wide-reaching discussion on COVID-19 testing, treatment and impact. ... read more / watch video »
+							WATCH: NNPA’S Stacy Brown Interviews Cosby Spokesman, Andrew Wyatt on the Plea for Cosby’s Rele
+					May 13, 2020During a visit to the infirmary at SCI-Phoenix for high blood pressure issues, Mr. Cosby was informed that the carotid arteries on the right and left side of his neck had 90% blockage due to plaque build-up (the carotid arteries are the major blood vessels in the neck that supply blood to the brain, neck and face). ... read more / watch video »
+							WATCH: Stacy Brown interviews murder victim Ahmaud Arbery’s family attorney, Benjamin Crump
+					May 13, 2020
+LIVESTREAM — Stacy Brown interviews Ahmaud Arbery's family lawyer, Benjamin Crump (@BenCrumpLaw) for BlackPressUSA (@BlackPressUSA) at 1 p.m. ET, Monday, May 11, 2020. View the interview and share your questions and comments LIVE at https://Facebook.com/BlackPressUSA.
+ ... read more / watch video »
+							WATCH:#SaveLocalJournalism WEEK 3: THE #BLACKPRESSMATTERS MORE THAN EVER BEFORE
+					May 13, 2020
+LIVESTREAM — On Wednesday, May 13th at 1PM ET, join NNPA Sr. Correspondent Stacy Brown as he discusses the state of the Black Press and small business in America with four iconic publishers:  Joy Bramble of The Baltimore Times; Francis Page Jr. of Houston Style Magazine; Ayesha K. Mustafaa of The Muslim Journal; and Paul Cobb of The Oakland Post. Streamed live at facebook.com/blackpressusa
+ ... read more / watch video »
+							Census Bureau Delays Decennial Count
+					March 26, 2020The results of the census directly determine the amount of funding communities will receive for the next ten years for essential services ... read more  »
+							NNPA NEWSWIRE EXCLUSIVE: Bill Cosby Speaks from Prison
+					November 28, 2019During the exclusive interview with NNPA, Cosby was candid, vivid and outspoken. ... read more  »
+							400 Years in Virginia. 500 Years in Slavery.
+					September 6, 2019Indeed, “the slave trade began in the 15th century,” said Boniface Chidyausiku of Zimbabwe in 2007, when he was the acting president of the United Nations General Assembly. Chidyausiku made the remarks during the UN’s observance of the 200th anniversary of the end of the transatlantic slave trade. “It was driven by colonial expansion, emerging capitalist economies and the insatiable demand for commodities – with racism and discrimination serving to legitimize the trade,” said Chidyausiku.  ... read more  »
+							Applying Racial Bias During Jury Selection is an American Tradition
+					December 19, 2018“The assertion that there is no substantial differential racial impact in jury selection, however well intended, has been largely discredited by research and diminished by detached observation,” said Dr. Lorenzo Morris, a professor of Political Science at Howard University. ... read more  »
+							NNPA President Extols the Black Press, Black Voters at NAACP Convention
+					July 26, 2018Dr. Benjamin F. Chavis, Jr., the president and CEO of the National Newspaper Publishers Association (NNPA), delivered a rousing speech about the importance of the Black Press and the Black vote, ... read more  »
+							Joe Jackson Dead at 89
+					July 5, 2018On Wednesday, June 27, Joseph Jackson died at the age of 89. ... read more  »
+							Bill Cosby to Remain on House Arrest
+					May 3, 2018Bill Cosby Found Guilty on All Charges in Sex Assault Trial, Remains Free on $1 Million Bail ... read more  »
+							Jury Deliberations Begin in Cosby Trial
+					April 26, 2018Statute of Limitations Looms over Prosecutor’s Timeline
+ ... read more  »
+        &lt;&lt; Older Posts
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->

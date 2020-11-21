@@ -1,0 +1,332 @@
+        About
+            Branching and Merging
+            Small and Fast
+            Distributed
+            Data Assurance
+            Staging Area
+            Free and Open Source
+            Trademark
+        Documentation
+            Reference
+            Book
+            Videos
+            External Links
+        Downloads
+            GUI Clients
+            Logos
+        Community
+This book is available in
+  English.
+  Full translation available in
+    български език,
+    Deutsch,
+    Español,
+    Français,
+    Ελληνικά,
+    日本語,
+    한국어,
+    Nederlands,
+    Русский,
+    Slovenščina,
+    Tagalog,
+    Українська
+    简体中文,
+  Partial translations available in
+    Čeština,
+    Македонски,
+    Polski,
+    Српски,
+    Ўзбекча,
+    繁體中文,
+  Translations started for
+    azərbaycan dili,
+    Беларуская,
+    فارسی,
+    Indonesian,
+    Italiano,
+    Bahasa Melayu,
+    Português (Brasil),
+    Português (Portugal),
+    Svenska,
+    Türkçe.
+The source of this book is  hosted on GitHub.
+Patches, suggestions and comments are welcome.
+  Chapters ▾
+  1. Aan de slag
+          1.1
+          Over versiebeheer 
+          1.2
+          Een kort historisch overzicht van Git 
+          1.3
+          Wat is Git? 
+          1.4
+          De commando-regel 
+          1.5
+          Git installeren 
+          1.6
+          Git klaarmaken voor eerste gebruik 
+          1.7
+          Hulp krijgen 
+          1.8
+          Samenvatting 
+  2. Git Basics
+          2.1
+          Een Git repository verkrijgen 
+          2.2
+          Wijzigingen aan de repository vastleggen 
+          2.3
+          De commit geschiedenis bekijken 
+          2.4
+          Dingen ongedaan maken 
+          2.5
+          Werken met remotes 
+          2.6
+          Taggen (Labelen) 
+          2.7
+          Git aliassen 
+          2.8
+          Samenvatting 
+  3. Branchen in Git
+          3.1
+          Branches in vogelvlucht 
+          3.2
+          Eenvoudig branchen en mergen 
+          3.3
+          Branch-beheer 
+          3.4
+          Branch workflows 
+          3.5
+          Branches op afstand (Remote branches) 
+          3.6
+          Rebasen 
+          3.7
+          Samenvatting 
+  4. Git op de server
+          4.1
+          De protocollen 
+          4.2
+          Git op een server krijgen 
+          4.3
+          Je publieke SSH sleutel genereren 
+          4.4
+          De server opzetten 
+          4.5
+          Git Daemon 
+          4.6
+          Slimme HTTP 
+          4.7
+          GitWeb 
+          4.8
+          GitLab 
+          4.9
+          Hosting oplossingen van derden 
+          4.10
+          Samenvatting 
+  5. Gedistribueerd Git
+          5.1
+          Gedistribueerde workflows 
+          5.2
+          Bijdragen aan een project 
+          5.3
+          Het beheren van een project 
+          5.4
+          Samenvatting 
+  6. GitHub
+          6.1
+          Account setup en configuratie 
+          6.2
+          Aan een project bijdragen 
+          6.3
+          Een project onderhouden 
+          6.4
+          Een organisatie beheren 
+          6.5
+          GitHub Scripten 
+          6.6
+          Samenvatting 
+  7. Git Tools
+          7.1
+          Revisie Selectie 
+          7.2
+          Interactief stagen 
+          7.3
+          Stashen en opschonen 
+          7.4
+          Je werk tekenen 
+          7.5
+          Zoeken 
+          7.6
+          Geschiedenis herschrijven 
+          7.7
+          Reset ontrafeld 
+          7.8
+          Mergen voor gevorderden 
+          7.9
+          Rerere 
+          7.10
+          Debuggen met Git 
+          7.11
+          Submodules 
+          7.12
+          Bundelen 
+          7.13
+          Vervangen 
+          7.14
+          Het opslaan van inloggegevens 
+          7.15
+          Samenvatting 
+  8. Git aanpassen
+          8.1
+          Git configuratie 
+          8.2
+          Git attributen 
+          8.3
+          Git Hooks 
+          8.4
+          Een voorbeeld van Git-afgedwongen beleid 
+          8.5
+          Samenvatting 
+  9. Git en andere systemen
+          9.1
+          Git als een client 
+          9.2
+          Migreren naar Git 
+          9.3
+          Samenvatting 
+  10. Git Binnenwerk
+          10.1
+          Binnenwerk en koetswerk (plumbing and porcelain) 
+          10.2
+          Git objecten 
+          10.3
+          Git Referenties 
+          10.4
+          Packfiles 
+          10.5
+          De Refspec 
+          10.6
+          Uitwisseling protocollen 
+          10.7
+          Onderhoud en gegevensherstel 
+          10.8
+          Omgevingsvariabelen 
+          10.9
+          Samenvatting 
+  A1. Appendix A: Git in andere omgevingen
+          A1.1
+          Grafische interfaces 
+          A1.2
+          Git in Visual Studio 
+          A1.3
+          Git in Visual Studio Code 
+          A1.4
+          Git in Eclipse 
+          A1.5
+          Git in Sublime Text 
+          A1.6
+          Git in Bash 
+          A1.7
+          Git in Zsh 
+          A1.8
+          Git in PowerShell 
+          A1.9
+          Samenvatting 
+  A2. Appendix B: Git in je applicaties inbouwen
+          A2.1
+          Commando-regel Git 
+          A2.2
+          Libgit2 
+          A2.3
+          JGit 
+          A2.4
+          go-git 
+          A2.5
+          Dulwich 
+  A3. Appendix C: Git Commando’s
+          A3.1
+          Setup en configuratie 
+          A3.2
+          Projecten ophalen en maken 
+          A3.3
+          Basic Snapshotten 
+          A3.4
+          Branchen en mergen 
+          A3.5
+          Projecten delen en bijwerken 
+          A3.6
+          Inspectie en vergelijking 
+          A3.7
+          Debuggen 
+          A3.8
+          Patchen 
+          A3.9
+          Email 
+          A3.10
+          Externe systemen 
+          A3.11
+          Beheer 
+          A3.12
+          Binnenwerk commando’s (plumbing commando’s) 
+      2nd Edition
+    A3.3 Appendix C: Git Commando’s - Basic Snapshotten
+Basic Snapshotten
+Voor de gewone workflow van het stagen van inhoud en dit committen naar je historie, zijn er maar een paar basis commando’s.
+git add
+Het git add commando voegt inhoud van de werk directory toe aan de staging area (of “index”) voor de volgende commit.
+Als het git commit commando wordt aangeroepen, kijkt het standaard alleen naar deze staging area, dus git add wordt gebruikt om de samenstelling van de volgende commit precies naar jouw eigen wens te bepalen.
+Dit commando is een ongelofelijk belangrijk commando in Git en het wordt tientallen keren genoemd of gebruikt in dit boek.
+We zullen heel kort een aantal van de meer incourante gebruiken benoemen die kunnen worden gevonden.
+We hebben git add voor het eerst geïntroduceerd en in detail uitgelegd in Nieuwe bestanden volgen (tracking).
+We beschrijven hoe we het moeten gebruiken om merge conflicten op te lossen in Eenvoudige merge conflicten.
+We behandelen het gebruik ervan om interactief alleen specifieke delen van een gewijzigd bestand te stagen in Interactief stagen.
+Tot slot spelen we het op een laag niveau na in Boom objecten (tree objects), zodat je een idee krijgt van wat het achter de schermen doet.
+git status
+Het git status commando laat je de verschillende stadia zien van bestanden in je werk directory en staging area.
+Welke bestanden er zijn gewijzigd en nog niet gestaged en welke er zijn gestaged maar nog niet gecommit.
+In zijn reguliere vorm, laat het je ook een aantal hints zien over hoe bestanden tussen deze stadia te verplaatsen.
+We behandelen status voor het eerst in De status van je bestanden controleren, zowel in zijn basis en versimpelde vormen.
+Alhoewel we het door het hele boek heen gebruiken, wordt vrijwel alles wat je met het git status commando kunt doen daar behandeld.
+git diff
+Het git diff commando wordt gebruikt als je de verschillen wilt zien tussen elke twee trees.
+Dit kan het verschil zijn tussen je werk omgeving en je staging area (git diff op zichzelf), tussen je staging area en je laatste commit (git diff --staged), of tussen twee commits (git diff master branchB).
+We kijken eerst naar de basis gebruiken van git diff in Je staged en unstaged wijzigingen bekijken, waar we laten zien hoe je kunt zien welke wijzigingen er zijn gestaged en welke nog niet.
+We gebruiken het om te kijken of er mogelijke witruimte-problemen zijn voor we committen met de --check optie in
+Commit richtlijnen.
+We zien hoe we de verschillen tussen branches efficiënter kunnen controleren met de git diff A...B syntax in Bepalen wat geïntroduceerd is geworden.
+We gebruiken het om de witruimte verschillen weg te filteren met -b en hoe de verschillende stadia van conflicterende bestanden te vergelijken met --theirs, --ours en --base in Mergen voor gevorderden.
+En tot slot, gebruiken we het om efficiënt submodule wijzigingen te vergelijjken met --submodule in Beginnen met submodules.
+git difftool
+Het git difftool commando roept simpelweg een externe tool aan om je de verschillen te tonen tussen twee trees in het geval dat je iets anders wilt gebruiken dan het ingebouwde git diff commando.
+We vermelden dit slechts kort in  Je staged en unstaged wijzigingen bekijken.
+git commit
+Het git commit commando neemt alle bestandsinhoud die zijn gestaged met git add en slaat een nieuwe permanente snapshot in de database op en verplaatst erna de branch verwijzer op de huidige branch daar naar toe.
+We behandelen eerst de basis van committen in Je wijzigingen committen.
+Daar laten we ook zien hoe je de -a vlag kunt gebruiken om de git add stap over te slaan in de dagelijkse workflows en hoe je de -m vlag kunt gebruiken om een commit bericht uit de commando regel kunt doorgeven in plaats van een editor te laten opstarten.
+In Dingen ongedaan maken behandelen we het gebruik van de --amend optie om de meest recente commit over te doen.
+In Branches in vogelvlucht gaan we met veel meer detail in op wat git commit doet en waarom het doet wat het doet.
+We keken naar hoe commits cryptografisch te tekenen met de -S vlag in Commits tekenen.
+Tot slot, nemen we een kijkje naar wat het git commit commando op de achtergrond doet en hoe het echt is geïmplementeerd in Commit objecten.
+git reset
+Het git reset commando is voornamelijk gebruikt om zaken terug te draaien, zoals je waarschijnlijk al kunt zien aan het werkwoord.
+Het verplaatst de HEAD verwijzing en verandert optioneel de index of staging area en kan optioneel ook de werk directory wijzigen als je --hard gebruikt.
+Deze laatste optie maakt het mogelijk met dit commando je werk te verliezen als je het niet juist gebruikt, dus verzeker je ervan dat je alles goed begrijpt voordat je het gebruikt.
+We hebben feitelijk het eenvoudigste gebruik van git reset in Een gestaged bestand unstagen behandeld, waar we het hebben gebruikt om een bestand te unstagen waar we git add op hadden gebruikt.
+We behandelen het daarna in behoorlijk meer detail in Reset ontrafeld, die volledig is gewijd aan de uitleg van dit commando.
+We gebruiken git reset --hard om een merge af te breken in Een merge afbreken, waar we ook git merge --abort gebruiken, wat een vorm van een wrapper is voor het git reset commando.
+git rm
+Het git rm commando wordt gebruikt om bestanden te verwijderen van de staging area en de werk directory voor Git.
+Het lijkt op git add in die zin dat het de verwijdering van een bestand staged voor de volgende commit.
+We behandelen het git rm commando in enige detail in Bestanden verwijderen, inclusief het recursief verwijderen van bestanden en alleen bestanden verwijderen van de staging area maar ze in de werk directory ongemoeid te laten met --cached.
+Het enige andere alternatieve gebruik van git rm in het boek is in Objecten verwijderen waar we het even gebruiken en de --ignore-unmatch uitleggen als we git filter-branch aanroepen, wat ervoor zorgt dat we niet met een fout eindigen als het bestand dat we proberen te verwijderen niet bestaat.
+Dit kan nuttig zijn bij het maken van scripts.
+git mv
+Het git mv commando is een kleine gemaks-commando om een bestand te verplaatsen en dan git add aan te roepen op het nieuwe bestand en git rm op het oude bestand.
+We noemen dit commando heel kort in Bestanden verplaatsen.
+git clean
+Het git clean commando wordt gebruikt om ongewenste bestanden te verwijderen uit je werk directory.
+Dit zou het verwijderen van tijdelijke bouw-artefacten kunnen inhouden of merge conflict bestanden.
+We hebben veel van de opties en scenario’s besproken waar je het clean commando zou kunnen gebruiken in Je werk directory opschonen.
+prev | next
+    About this site
+    Patches, suggestions, and comments are welcome.
+    Git is a member of Software Freedom Conservancy

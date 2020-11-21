@@ -1,0 +1,74 @@
+Git Mailing List Archive on lore.kernel.org
+ help / color / Atom feedFrom: Junio C Hamano &lt;gitster@pobox.com&gt;
+To: Phillip Wood &lt;phillip.wood123@gmail.com&gt;
+Cc: "Thomas Braun" &lt;thomas.braun@virtuell-zuhause.de&gt;,
+	"Elijah Newren" &lt;newren@gmail.com&gt;,
+	"Md Naeim" &lt;naeim249@gmail.com&gt;,
+	"Git Mailing List" &lt;git@vger.kernel.org&gt;,
+	"SZEDER Gábor" &lt;szeder.dev@gmail.com&gt;
+Subject: Re: [BUG?] 'git rebase --abort' couldn't abort aborted rebase
+Date: Fri, 05 Jun 2020 08:29:27 -0700
+Message-ID: &lt;xmqqpnado7jc.fsf@gitster.c.googlers.com&gt; (raw)
+In-Reply-To: &lt;b83568b8-e465-243e-cd84-eba88c4e95d9@gmail.com&gt; (Phillip Wood's message of "Thu, 4 Jun 2020 11:19:56 +0100")
+Phillip Wood &lt;phillip.wood123@gmail.com&gt; writes:
+&gt;&gt; Although my test case uses EOL normalization, I think the real issue is
+&gt;&gt; that autostashing for the rebase fails (in the sense that the working
+&gt;&gt; tree is clean afterwards) and that is unexpected.
+&gt;
+&gt; Yes. I'm not sure what to do for the best. A simple fix to the stash
+&gt; failure is to check for a clean worktree after we've stashed and apply
+&gt; the stash and exit if the worktree is not clean.
+The suggested fix covers all cases where the auto-stash step fails
+to revert the index and the working tree to the prestine state for
+any reason, not limited to the eol normalization.  It is not just a
+simple but necessary fix, regardless of what other things we do.
+Why doesn't the internal "stash" fail to clean the index and the
+working tree to pristine state in the first place, though?  It may
+be another thing that needs fixing, but in a sense, that is of
+secondary importance.
+Thanks.
+next prev parent reply index
+Thread overview: 8+ messages / expand[flat|nested]  mbox.gz  Atom feed  top
+     [not found] &lt;CADhmr77EbC+3f=Oa+bm18Z_SSEMK8vCjNHQniuvkdfaZdRT_5A@mail.gmail.com&gt;
+2020-05-30 16:24 ` Elijah Newren
+2020-06-03 16:09   ` Thomas Braun
+2020-06-04 10:19     ` Phillip Wood
+2020-06-05 15:29       ` Junio C Hamano [this message]
+2020-02-07 11:10 SZEDER Gábor
+2020-02-07 11:49 ` SZEDER Gábor
+2020-02-07 13:21   ` SZEDER Gábor
+2020-02-07 17:52     ` Elijah Newren
+Reply instructions:
+You may reply publicly to this message via plain-text email
+using any one of the following methods:
+* Save the following mbox file, import it into your mail client,
+  and reply-to-all from there: mbox
+  Avoid top-posting and favor interleaved quoting:
+  https://en.wikipedia.org/wiki/Posting_style#Interleaved_style
+* Reply using the --to, --cc, and --in-reply-to
+  switches of git-send-email(1):
+  git send-email \
+    --in-reply-to=xmqqpnado7jc.fsf@gitster.c.googlers.com \
+    --to=gitster@pobox.com \
+    --cc=git@vger.kernel.org \
+    --cc=naeim249@gmail.com \
+    --cc=newren@gmail.com \
+    --cc=phillip.wood123@gmail.com \
+    --cc=szeder.dev@gmail.com \
+    --cc=thomas.braun@virtuell-zuhause.de \
+    /path/to/YOUR_REPLY
+  https://kernel.org/pub/software/scm/git/docs/git-send-email.html
+* If your mail client supports setting the In-Reply-To header
+  via mailto: links, try the mailto: link
+Git Mailing List Archive on lore.kernel.org
+Archives are clonable:
+	git clone --mirror https://lore.kernel.org/git/0 git/git/0.git
+	# If you have public-inbox 1.1+ installed, you may
+	# initialize and index your mirror using the following commands:
+	public-inbox-init -V2 git git/ https://lore.kernel.org/git \
+		git@vger.kernel.org
+	public-inbox-index git
+Example config snippet for mirrors
+Newsgroup available over NNTP:
+	nntp://nntp.lore.kernel.org/org.kernel.vger.git
+AGPL code for this site: git clone https://public-inbox.org/public-inbox.git

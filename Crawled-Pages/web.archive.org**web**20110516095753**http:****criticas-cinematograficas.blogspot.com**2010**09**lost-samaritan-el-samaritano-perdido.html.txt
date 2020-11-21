@@ -1,0 +1,447 @@
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+                  success
+          fail
+		  Apr
+		  MAY
+		  Nov
+		  16
+		  2010
+		  2011
+		  2012
+	      	      9 captures
+	      16 May 2011 - 30 Jun 2012
+       About this capture
+    COLLECTED BY
+		Organization: Internet Archive
+	  The Internet Archive discovers and captures web pages through many different web crawls.
+At any given time several distinct crawls are running, some for months, and some every day or longer.
+View the web archive through the Wayback Machine.
+		Collection: Wide Crawl started March 2011
+	  Web wide crawl with initial seedlist and crawler configuration from March 2011.  This uses the new HQ software for distributed crawling by Kenji Nagahashi.
+What’s in the data set:
+Crawl start date: 09 March, 2011
+Crawl end date: 23 December, 2011
+Number of captures: 2,713,676,341
+Number of unique URLs: 2,273,840,159
+Number of hosts: 29,032,069
+The seed list for this crawl was a list of Alexa’s top 1 million web sites, retrieved close to the crawl start date.  We used Heritrix (3.1.1-SNAPSHOT) crawler software and respected robots.txt directives.  The scope of the crawl was not limited except for a few manually excluded sites.  
+However this was a somewhat experimental crawl for us, as we were using newly minted software to feed URLs to the crawlers, and we know there were some operational issues with it.  For example, in many cases we may not have crawled all of the embedded and linked objects in a page since the URLs for these resources were added into queues that quickly grew bigger than the intended size of the crawl (and therefore we never got to them).  We also included repeated crawls of some Argentinian government sites, so looking at results by country will be somewhat skewed.  
+We have made many changes to how we do these wide crawls since this particular example, but we wanted to make the data available “warts and all” for people to experiment with.  We have also done some further analysis of the content.
+If you would like access to this set of crawl data, please contact us at info at archive dot org and let us know who you are and what you’re hoping to do with it.  We may not be able to say “yes” to all requests, since we’re just figuring out whether this is a good idea, but everyone will be considered.
+    TIMESTAMPS
+skip to main  |
+      skip to sidebar
+30 de septiembre de 2010
+The Lost Samaritan (El samaritano perdido)
+Hola, ¿se acuerdan de nosotras? Tenemos un blog del que nos tomamos vacaciones de repente y volvemos sólo cuando nos encontramos con una película muy buena... o muy mala.Quienes ya hayan visto "The lost samaritan" o tenga poderes psíquicos, ya sabe cuál de las dos opciones se aplica a ella.
+Pero primero hablemos de la película:
+William Arthur es un contador que una vez más debe quedarse hasta tarde en la oficina cumpliendo un encargo de su jefe.Después de muchas horas decide salir a comer algo y termina en American Dinners, un restaurante de 24 horas... con una mesera que no sabe preparar otra cosa que no sean desayunos...Como sea, Will se queda sin cenar y cuando se marcha se encuentra con un accidente y no duda en detenerse a dar una mano (por eso lo del samaritano, vea). Salva al herido y lo lleva al hospital, pero cuando se queda solo se le acerca un hombre que pretende convencerlo de alejarse de la entrada de emergencias para "hablar unos momentos". Will ve algo extraño en él y no se le ocurre nada mejor que subirse a su auto e irse.La noche no hace más que mejorar, pues cuando va a su casa a cambiarse se encuentra a su jefe en una situación bastante desenfadada con su esposa.Will se va, y vaya uno a saber por qué, vuelve al restaurante donde la rubia no tarda dos minutos en saltarle al cuello, donde permanecerá hasta el final de la película ¬_¬Dispuestos a iniciar una nueva vida y seguir los dictados del destino (?), Will y Ellen llegan a la casa de éste donde se encuentran con un par de cadáveres y un hombre decidido a matarlos.Como no había mucho presupuesto, regresan al restaurante a esconderse, y es así como también se convierten en el objetivo de la policía y de un asesino vengativo...
+Qué, cómo dices? Qué conté demasiado de la película?Pues dudo que vayas a verla de todos modos, y si lo haces por el mismo motivo que yo, siempre podrás disfrutarla.
+Iremos por parte, para que parezca un poco profesional...
+La historia no es mala. Lo que pasa es que no le pusieron voluntad. Miren, un hombre que ayuda a otro en un accidente y que nadie sabe porqué se convierte en el blanco de un par de asesinos. Se ve obligado a huir y demostrar su inocencia. El problema acá fue que:
+- los asesinos hablan mucho- hay una rubia que molesta desde el principio- nadie se cree que la esposa engañe a Will (es decir... es Ian Somerhalder... no tiene sentido).- todo pasa en unas horas - no hay suficiente acción.- el misterio nunca se resuelve. ¿Se olvidaron de él, o qué?
+Los efectos.... mejor no los mencionemos, pienso en ellos y me viene a la cabeza la palabra "pedorros" y eso no es profesional.
+Las actuaciones... psst....creo que hay sólo tres buenas en esta película: Ian Somerhalder, Oliver Debuschewitz y ahí ahí Jens Neuhaus.
+Después está la golf.... la rubia, Ruta Gedmintas, cuyo papel no se lo cree nadie, y además dan ganas de ir y pegarle. David Scheller, que interpreta al otro asesino, creo que tiene un serio complejo y quiere parecerse a Samuel L. Jackson en "Pulp Fiction". A ver si alguien le avisa que no es negro, así que no necesita hablar con tono de negro, y que para parecerse a Samuel... bueno, hay que ser actor. Y también aparece por ahí Dulcie Smart (¿de qué me suena?) que debió interpretar a la agente de policia Kat Velázquez... pero sólo parece una Cuddy con sobrepeso que mastica chicle todo el tiempo. Y lo de Cuddy lo digo sólo porque parece que empezó a hacerse la cirugía para parecérsele y después ya no pudo pagar más.Oliver Debuschewitz, caramba, es su primer papel. No está mal, podría haber sido un asesino decente. Jens Neuhaus ha hecho algún que otro papel por ahí, casi siempre para televisión. Su participación aquí parecía un poco incongruente, como si hubiera estudiado el guión para comedia, pero bueno, comparado con los demás...
+Finalmente, Ian. No esperarán que hable mal de Ian, ¿verdad? Me gustaría mucho que no haga más películas solo porque deba algún favor, o sea amigo del director. No sé si era el caso, pero es que no encuentro otro motivo, siempre queda la opción de despedir a tu agente, Ian...Me parece increíble que Ian esté participando en una película así después de los papeles que tuvo en "The Tournament", o en las series "Lost" y "The vampire diaries". Y sin embargo, aquí lo tenemos, casi al borde de la risa cada vez que tiene que decir o escuchar un parlamento absurdo, o que se encuentra ante una situación ridícula. 
+Resumiendo:
+Mi opinión de la película: es mala con ganas.Recomendación: sólo si te gusta Ian Somerhalder.¿La volvería a ver?: ni aunque tuviera que elegir entre ella y "Funny People".
+Se las ingeniaron para que fuera mala Thomas Jahn en la dirección, y Chris Artiga-Oliver en el guión.
+Les dejo el trailer, que es malísimo de por sí, pero igual el video siguiente es sobre Ian y se pueden sacar el mal sabor y entender por qué vi ésta película...
+Publicado por
+Maga de Lioncourt
+en
+21:00
+Enviar por correo electrónico
+Escribe un blog
+Compartir con Twitter
+Compartir con Facebook
+Compartir con Google Buzz
+Etiquetas:
+The Lost Samaritan (El samaritano perdido)
+2
+lectores compartieron el pop:
+GABU
+dijo...
+Con todo la claridad de palabras que utilizaste para describir esta peli,no sè por què me tuve que terminar torturando pispeando el trailer!!! :/jajajajajajajaajEsta es,lo que yo llamarìa,una pelìcula mala x 8!!! ;)BESITOS Y BIENVOLVIDAS CHE :D
+1 de octubre de 2010 13:20
+Hipólito Bouchard
+dijo...
+Desastrosa, concuerdo.De todos modos, al lado de Knight &amp; Day es una obra maestra del cine.Hay mucha porquería, pero lo triste es que las veo igual, supongo que todo eso junto en mi cerebro me puede servir algún día para algo.
+22 de octubre de 2010 01:26
+Publicar un comentario en la entrada
+Entrada más reciente
+Entrada antigua
+Página principal
+Suscribirse a:
+Enviar comentarios (Atom)
+También estamos por separado
+A Deadly se le dio por la docencia...
+Deadly recorre su amada ciudad
+La Colorada se descarga
+La Rubia tiene un anecodtario
+Maga habla de libros
+Maga publica textos
+Maga se va de viaje
+Maga y sus novelas románticas
+PROXIMAMENTE
+knight and day
+Contribuyentes
+deadly brunette
+colorada en libertad condicional
+Maga de Lioncourt
+ilegalmente rubia
+La Maga
+La Deadly
+La Colo
+La Rubia
+Recomendamos:
+Ba-k
+Darkville
+Full Cine
+Los Simpson On Line (y otras)
+Mc. Animé
+Nuevo Cinema Paradiso
+Películas 21.com
+Películas.
+Solo Descargas Directas
+Solo Subtítulos
+SubDivX
+Subtitulos.es
+Taringa
+Todo Torrents
+Torrentz
+Warez Life (ex Dkv)
+Archivo del blog
+▼ 
+2010
+(35)
+          ► 
+noviembre
+(2)
+Wild Target.
+The Expendables.
+▼ 
+septiembre
+(1)
+The Lost Samaritan (El samaritano perdido)
+          ► 
+agosto
+(3)
+toy story 3
+robin hood
+The Fourth Kind (Cuarta fase)
+          ► 
+julio
+(9)
+Innocent Blood (Sangre inocente)
+Evil Angel (Ángel malvado)
+35 películas en dos minutos!
+Apt. (9:56)
+The Eclipse.
+The Hawlling (Aullidos)
+From Hell.
+Haunting of Winchester House.
+Brendan and the secret of Kells.
+          ► 
+junio
+(8)
+I love you, Phillip Morris.
+Død snø (Dead Snow)
+Precious - (Preciosa)
+Tormented.
+30 days of night.
+Prince of Persia: The sands of time (El príncipe d...
+Clash of the Titans (2010) (Furia de Titantes)
+44 Inch Chest.
+          ► 
+mayo
+(6)
+The Book of Eli.
+Premio, premio, premio.
+The shutter island - (La isla siniestra)
+The bounty hunter - (El caza recompensas)
+Dread (Terror)
+Everybody's fine - (Estan todos bien)
+          ► 
+abril
+(4)
+Fantastic Mr. Fox (El Fantástico señor Zorro)
+How to train your dragon (Cómo entrenar a tu dragó...
+The blind side  -  (Un sueño posible)
+Daybreakers.
+          ► 
+marzo
+(1)
+Did you hear about the Morgans? (Dónde están los M...
+          ► 
+febrero
+(1)
+Funny People.
+          ► 
+2009
+(24)
+          ► 
+noviembre
+(2)
+Pride and glory - (Codigo de familia)
+Surrogates - (Identidad multiple)
+          ► 
+octubre
+(7)
+Nuestro Halloween - Cuarta y Última Parte.
+The ugly truth - (La cruda verdad)
+Nuestro Halloween - Tercera parte.
+Last chance, Harvey (Tú última oportunidad)
+Nuestro Halloween - Segunda parte
+Happy go Lucky (La felicidad trae suerte).
+Nuestro Halloween - Primera parte.
+The taking of Pelham 123 (Asalto al tren Pelhma 12...
+          ► 
+septiembre
+(3)
+The proposal - (La Propuesta)
+My Bloody Valentine - 3D (Sangriento San Valentin)...
+Public Enemies (Enemigos Públicos)
+          ► 
+agosto
+(2)
+The Hangover - (Qué pasó ayer?)
+Ghosts of girlfriends past - (Los fantasmas de mis...
+          ► 
+julio
+(1)
+          ► 
+junio
+(1)
+          ► 
+mayo
+(1)
+          ► 
+abril
+(1)
+          ► 
+marzo
+(1)
+          ► 
+febrero
+(1)
+          ► 
+enero
+(4)
+          ► 
+2008
+(31)
+          ► 
+diciembre
+(2)
+          ► 
+noviembre
+(3)
+          ► 
+octubre
+(9)
+          ► 
+septiembre
+(11)
+          ► 
+agosto
+(6)
+Seguidores
+Etiquetas
+10.000 B.C. (10.000 A.C.)
+(1)
+21 (Black Jack)
+(1)
+21 Grams (21 Gramos)
+(1)
+27 Dresses (27 bodas)
+(1)
+30 days of night
+(1)
+3:10 to Yuma (El tren de las 3:10 a Yuma)
+(1)
+44 Inch Chest
+(1)
+Apt. (9:56)
+(1)
+Brendan and the secret of Kells
+(1)
+Butterfly on a wheel (Acorralados)
+(1)
+Cassandra's dream (El sueño de Cassandra)
+(1)
+Clash of the Titans (Furia de Titanes 2010)
+(1)
+Colorada en Libertad Condicional
+(9)
+Crash (Vidas cruzadas)
+(1)
+Daybreakers
+(1)
+Deadly Brunette
+(17)
+Definitely maybe (Definitivamente tal vez)
+(1)
+Did you hear about the Morgans? (¿Dónde están los Morgan?)
+(1)
+Disturbia (Paranoia)
+(1)
+Dread (Terror)
+(1)
+Drácula (1979)
+(1)
+Død snø (Dead Snow)
+(1)
+El baño del Papa
+(1)
+Especial
+(6)
+Everybody's fine (Están todos bien)
+(1)
+Evil Angel (Ángel malvado)
+(1)
+Fantastic Mr. Fox (El fantástico Sr. Zorro)
+(1)
+From Hell
+(1)
+Funny people
+(1)
+Ghosts of girlfriends past (Los fantasmas de mis ex)
+(1)
+Halloween
+(4)
+Hancock
+(1)
+Happy go lucky (La felicidad trae suerte)
+(1)
+Haunting of Winchester house
+(1)
+He's just not that into you (Simplemente no te quiere)
+(1)
+How to train your dragon (Cómo entrenar a tu dragón)
+(1)
+I love you Phillip Morris
+(1)
+Ilegalmente Rubia
+(12)
+In the Valley of Elah (La Conspiración)
+(1)
+Innocent Blood (Sangre inocente)
+(1)
+La Maga de Lioncourt
+(51)
+La tigre y la neve (El tigre y la nieve)
+(1)
+Last chance Harvey (Tu última oportunidad)
+(1)
+Made of honor (Quiero robarme a la novia)
+(1)
+Milk (Mi nombre es Harvey Milk)
+(1)
+My bloody Valentine 3D (Sangriento San Valentín)
+(1)
+Oscar
+(1)
+P.S.: I love You (Pósdata: Te amo)
+(1)
+Perfume: the story of a murderer (El perfume: historia de un asesino)
+(1)
+Precius (Preciosa)
+(1)
+Premio
+(1)
+Pride and glory (Código de familia)
+(1)
+Prince of Persia: The sands of time (El príncipe de Persia: Las arenas del tiempo).
+(1)
+Public enemies (Enemigos públicos)
+(1)
+Sex and the city: the movie (Sexo en la ciudad: la película)
+(1)
+Slumdog Millionaire (¿Quién quiere ser millonario?)
+(1)
+Street Kings (Reyes de la calle)
+(1)
+Surrogates (Identidad múltiple)
+(1)
+Sweeney Todd: The demon barber of Fleet Street
+(1)
+Taken (Búsqueda implacable)
+(1)
+The blind side (Un sueño posible)
+(1)
+The book of Eli
+(1)
+The bounty hunter (El caza recompensas)
+(1)
+The day the earth stood still (El día que la tierra se detuvo)
+(1)
+The Eclipse
+(1)
+The Expendables
+(1)
+The Fourth Kind (Cuarta fase)
+(1)
+The golden compass (La brújula dorada)
+(1)
+The Hangover (¿Qué pasó ayer?)
+(1)
+The Hawlling (Aullidos)
+(1)
+The Illusionist (El Ilusionista)
+(1)
+The incredible Hulk (El increíble Hulk)
+(1)
+The Lost Samaritan (El samaritano perdido)
+(1)
+The mist (La niebla)
+(1)
+The Oxford Murders (Los crímenes de Oxford)
+(1)
+The proposal (La propuesta)
+(1)
+The shutter island (La isla siniestra)
+(1)
+The takinf of Pelham 123 (Asalto al tren Pelham 123)
+(1)
+The time machine (La máquina del tiempo)
+(1)
+The ugly truth (La cruda verdad)
+(1)
+The unborn (La profecía del no nacido)
+(1)
+Tideland (País de mareas)
+(1)
+Tormented
+(1)
+Tropic Thunder (Una guerra de película)
+(1)
+Twilight (Crepúsculo)
+(1)
+Up
+(1)
+Vantage point (Justo en la mira)
+(1)
+What happens in Vegas (Locura en las Vegas)
+(1)
+Wild Target
+(1)
+You don't mess with the Zohan (Zohan licencia para peinar)
+(1)
+Gracias, Cintia!!
+Mi lista de blogs
+Blog de cine
+Críticas a la carta: 'El dilema', de Michael Mann
+Mundo Cine
+Dos nuevos proyectos interesantes para Antonio Banderas
+Criticas de Cine
+Corazón Valiente
+Sin pelos en la lengua
+Crítica de Dragon Ball Evolution
+Citas y Refranes.com
+Follow this blog

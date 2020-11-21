@@ -1,0 +1,230 @@
+	Trove
+		From Wikipedia, the free encyclopedia
+		Jump to navigation
+		Jump to search
+		This article is about the Australian online service. For other uses of the word "trove", see Trove (disambiguation).
+Australian online library database aggregator
+TroveLogo (prior to August 2020)Homepage (December 2014)Type of siteAustralian library database aggregatorAvailable inEnglishOwnerNational Library of AustraliaURLwww.trove.nla.gov.auCommercialnoRegistrationOptionalLaunched2009; 11 years ago (2009)Current statusOnline
+Trove is an Australian online library database aggregator and service which includes full text documents, digital images, bibliographic and holdings data of items which are not available digitally, and a free faceted-search engine as a discovery tool. The database includes archives, images, newspapers, official documents, archived websites, manuscripts and other types of data. Hosted by the National Library of Australia in partnership with content providers, including members of the National and State Libraries Australia, it is one of the most well-respected and accessed GLAM services in Australia, with over 70,000 daily users.
+Based on antecedents dating back to 1996, the first version of Trove was released for public use in late 2009. It includes content from libraries, museums, archives, repositories and other organisations with a focus on Australia. It allows searching of catalogue entries of books in Australian libraries (some fully available online), academic and other journals, full-text searching of digitised archived newspapers, government gazettes and archived websites. It provides access to digitised images, maps, aggregated information about people and organisations, archived diaries and letters, and all born-digital content which has been deposited via National edeposit (NED). Searchable content also includes music, sound and videos, and transcripts of radio programs. With the exception of the digitised newspapers, none of the contents is hosted by Trove itself, which indexes the content of its partners' collection metadata, formats and manages it, and displays the aggregated information in a relevance-ranked search result.
+In the wake of government funding cuts since 2015, the National Library and other organisations have been struggling to keep up with ensuring that content on Trove is kept flowing through and up to date.
+Contents
+1 History
+1.1 Implementation
+1.2 2010s
+2 Content and services
+2.1 Description
+2.2 Content and delivery
+2.2.1 Books
+2.2.2 Newspapers
+2.2.3 Websites
+2.2.4 Other zones
+3 Reception and usage
+3.1 Awards
+4 Budget cuts
+5 Continuing development
+6 See also
+7 Notes
+8 References
+9 Further reading
+10 External links
+History[edit]
+Trove's origins can be seen in the development of earlier services such as the Australian Bibliographic Network (ABN),[1] a shared cataloguing service launched in 1981.
+The "Single Business Discovery Project" was launched in August 2008.[2]  The intention was to create a single point of entry for the public to the various online discovery services developed by the library between 1997 and 2008, including:[2][3][4]
+PANDORA archive (1996);
+the Register of Australian Archives and Manuscripts (RAAM, launched 1997);
+PictureAustralia (2000);[5][6]
+Libraries Australia (the service that developed out of the ABN in 2006);
+Australia Dancing, a joint venture with Ausdance (2003);
+Music Australia (2005);
+ARROW Discovery Service (first Australian Research Repositories Online, then Australian Research Online, launched 2005);
+People Australia (late 2006); and
+Australian Newspapers Beta service (July 2008).
+The service developed by the project was called Single Business Discovery Service, and also briefly known by the staff as Girt. The name Trove was suggested by a staff member, with the associations of a treasure trove and the French verb trouver (to find or discover).[4]
+The key features of the service were designed to create a faceted search system specifically for Australian content. Tight integration with the provider databases has allowed "Find and Get" functions (e.g. viewing digitally, borrowing, buying, copying). Important extra features include the provision of a "check copyright" tool and persistent identifiers (which enables stable URLs).[7]
+The first version of Trove was released to the public in late 2009.[7]
+Implementation[edit]
+The National Library of Australia combined eight different online discovery tools that had been developed over a period of twelve years into a new single discovery interface that was released as a prototype in May 2009 for public comment before launching in November 2009 as Trove.[8] It is continually updated to expand its reach.[9][10] With the notable exception of the newspaper "zone", none of the material that appears in Trove search results is hosted by Trove itself. Instead, it indexes the content of its content partners' collection metadata and displays the aggregated information in a relevance-ranked search result.[11]
+The service is built using a variety of open source software.[12][13] Trove provides a free, public Application Programming Interface (API).[14] This allows developers to search across the records for books, images, maps, video, archives, music, sound, journal articles, newspaper articles and lists and to retrieve the associated metadata using XML and JSON encoding.[15][16] The full text of digitised newspaper articles is also available.[17]
+Several citation styles are automatically produced by the software, giving a stable URL to the edition, page or article-level for any newspaper.  Wikipedia was closely integrated from the beginning of the project, making Trove the first GLAM website in the world to integrate the Wikipedia API into its product.[18]
+2010s[edit]
+Trove has continued to evolve and take on new services and collections. In 2016, in collaboration with the State Library of New South Wales, Trove launched the Government Gazettes zone, and continues to collect the official gazettes of all level of government (Commonwealth and State and Territory) where possible.[19]
+In March 2019 PANDORA became part of larger the Australian Web Archive, which comprises the PANDORA archive, the Australian Government Web Archive (AGWA) and the National Library's ".au" domain collections, using a single interface in Trove which is publicly available.[20][21][22][23]
+Content and services[edit]
+Description[edit]
+Trove has grown beyond its original aims, and has become "a community, a set of services, an aggregation of metadata, and a growing repository of full text digital resources" and "a platform on which new knowledge is being built". It is now a collaboration between the National Library, Australia's State and Territory libraries and hundreds of other cultural and research institutions around Australia.[24]
+It is an Australian online library database aggregator; a free faceted-search engine hosted by the National Library of Australia,[25] in partnership with content providers, including members of the National and State Libraries Australia (NSLA).[7]
+Content and delivery[edit]
+Trove "brings together content from libraries, museums, archives, repositories and other research and collecting organisations big and small" in order to help users find and use resources relating to Australia and therefore the content is Australian-focused.[24] Much of the material may be difficult to retrieve with other search tools, for example in cases where it is part of the deep web, including records held in collection databases,[7] or in projects such as the PANDORA web archive, Australian Research Online, Australian National Bibliographic Database and others mentioned above.[3]
+Since 2019, Trove has included access to all electronic documents deposited by Australian publishers under the legal deposit provisions of the Copyright Act 1968, as amended in 2017 to included such publications.[26] These resources are identifiable by a display in the top right-hand corner in both the ebook and pdf viewers, saying "National edeposit collection". Many of these are readable and some are downloadable, depending on the access conditions.[27]
+The site's content is split into "zones" designating different forms of content which can be searched all together, or separately.[28]
+Books[edit]
+The book zone allows searching of the collective catalogues of institutions findable in Libraries Australia using the Australian National Bibliographic Database (ANBD). It provides access to books, audio books, e-books, theses, conference proceedings and pamphlets listed in ANBD, which is a union catalogue of items held in Australian libraries and a national bibliographic database of resources including Australian online publications.[29]  Bibliographic records from the ANBD are also uploaded into the WorldCat global union catalogue.[30] The results can be filtered by format if searching for braille, audio books, theses or conference proceedings and also by decade and language of publication.[31] A filter for Australian content is also provided.[8][32]
+Newspapers[edit]
+  Front page of The Leader (Orange, New South Wales) 31 July 1915, the 10 millionth newspaper page to be made available through Trove.[33]
+  Front cover of The Dawn  Issue 1, 15 May 1888. The first feminist magazine in Australia.
+Trove allows text-searching of digitised historic newspapers, with the Newspapers zone replacing the previous "Australian Newspapers" website.[citation needed] It provides text-searchable access to over 700 historic Australian newspapers from each State and Territory.[34] By 2014, over 13.5 million digitised newspaper pages had been made available through Trove as part of the Australian Newspaper Plan (ANPlan),[35] a "collaborative program to collect and preserve every newspaper published in Australia, guaranteeing public access" to these important historical records.[36]
+The extent of digitised newspaper archives is wide reaching and includes now defunct publications, such as the Australian Home Companion and Band of Hope Journal and The Barrier Miner in New South Wales and The Argus in Victoria.[note 1][37] It includes the earliest published Australian newspaper, the Sydney Gazette (which dates to 1803), and some community language newspapers.[35] Also included is The Australian Women's Weekly.[38][note 2]
+The Canberra Times is the only major newspaper available beyond 1957. It allowed publication of its in-copyright archive up to 1995 as part of the "centenary of Canberra" in 2013,[40] and the digitisation costs were raised with a crowdfunding campaign.[41] Also crowdfunded, the Australian feminist magazine The Dawn was included on International Women's Day 2012.[42][43]
+As of 10 May 2020[update], 23,498,368 newspaper pages and 2,026,782 government gazette pages were available to view.
+Australian Newspapers Digitisation Project
+On 25 July 2008 the "Australian Newspapers Beta" service was released to the public as a standalone website and a year later became a fully integrated part of the newly launched Trove. The service contains millions of articles from 1803 onwards, with more content being added regularly.[44] The website was the public face of the Australian Newspapers Digitisation Project, a coordination of major libraries in Australia to convert historic newspapers to text-searchable digital files. The Australian Newspapers website allowed users to search the database of digitised newspapers from 1803 to 1954 which are now in the public domain.
+The newspapers (frequently microfiche or other photographic facsimiles) were scanned and the text from the articles has been captured by optical character recognition (OCR) to facilitate easy searching, but it contains many OCR errors, often due to poor quality facsimiles.[45][46]
+Public text correctors
+Since August 2008 the system has incorporated crowdsourced text-correction as a major feature, allowing the public to change the searchable text. Many users have contributed tens of thousands of corrected lines, and some have contributed millions.[47] This collaborative participation allows users to give back to the service and over time improves the database's searchability.[48][49] The text-correcting community and other Trove users have been referred to as "Trovites".[50]
+Websites[edit]
+The Australian Web Archive, created in March 2019,[51] includes websites archived from 1996 until the present. This is the primary search portal of the PANDORA web-archiving service, and also includes the Australian Government Web Archive (AGWA) as well as websites from the ".au" domain, which are collected annually through large crawl harvests.[52]
+Other zones[edit]
+(In order of presentation along the top tab.)
+Pictures, photos, objects: Including digitised photographs, drawings, posters, postcards etc. Considerable numbers of images on Flickr with the appropriate licensing are donated as well.[53] Replacing the previous "Pictures Australia" website.
+Journals, articles and datasets searching of academic and other periodicals, and various datasets.
+Government Gazettes: allows searching of official publications written for the purpose of notifying the public of government business.
+Music, sound and videos: allows searching of digitised historic sheet music and audio recordings. Replacing the previous "Music Australia" website. Also includes searchable transcripts from many Radio National programs.[54]
+Maps
+Diaries, letters, archives
+People and organisations: allows searching of biographical information and other resources about associated people and organisations, from resources including the Australian Dictionary of Biography.
+Lists Users are able to create an account and log in to Trove. Once this is done, a type of "zone" called Lists allows logged-in users to make their own public compilations of items found in Trove searches. There is also a facility to join the Trove community and make contributions to the resources such as tags, comments and corrections.
+Reception and usage[edit]
+In a keynote address to the 14th National Australian Library and Information Association (ALIA) Conference in Melbourne in 2014, Roly Keating, Chief Executive of the British Library described Trove as "exemplary" – a "both-end choice" of deep rich interconnected archive.[55]
+Digital humanities researcher and Trove manager Tim Sherratt noted that in relation to the Trove API "delivery of cultural heritage resources in a machine-readable form, whether through a custom API or as Linked Open Data, provides more than just improved access or possibilities for aggregation. It opens those resources to transformation. It empowers us to move beyond ‘discovery’ as a mode of interaction to analyse, extract, visualise and play".[56]
+The site has been described as "a model for collaborative digitization projects and serves to inform cultural heritage institutions building both large and small digital collections".[57]
+The reach of the newspaper archives makes the service attractive to genealogists[58][59][60] and knitters.[9] It is one of the most well-respected[61] and accessed GLAM (galleries, archives, archives and museums) services in Australia, with over 70,000 daily users.[62][9]
+Dr Liz Stainforth of the University of Leeds calls it "that rare beast: a digital heritage platform with popular appeal"; "of the most successful of its kind among aggregators such as Europeana, the Digital Public Library of America and...DigitalNZ". What distinguishes it from the other three is that it also delivers content, and engages with the general public, which has created a form of virtual community amongst its text correctors. Users can log in and thus create their own lists, and also correct the text of newspapers scanned using Optical character recognition (OCR), with an honour board for the top correctors.  International researchers also use Trove: a 2018 showed the site among the top 15 for external citations in the English-language version of Wikipedia. The width and breadth of its audience adds to its uniqueness.[63]
+Awards[edit]
+Trove received the 2011 Excellence in eGovernment Award and the 2011 Service Delivery Category Award.[64][65]
+Budget cuts[edit]
+In the wake of the Australian Government's 2015 Mid-Year Economic and Fiscal Outlook Statement, Trove funding was cut with the result that the National Library of Australia would cease "aggregating content in Trove from museums and universities unless ... fully funded to do so".[66] In addition, it was argued that the cuts would further "result in many smaller institutions across Australia being unable to afford to add their digital collections to this national knowledge infrastructure".[67] Those smaller institutions would include local historical societies, clubs, schools, and commercial and public organisations, as well as private collections.
+In March 2016 ten major Australian galleries, libraries, archives and museums (commonly referred to as the GLAM sector) signed a statement of support for Trove, in which they warned that the budgetary cuts would "hamper the development of our world leading portal and will be a major obstacle to exposing the collections of smaller and regional institutions" and that "without additional funding, Trove will not fulfil its promise as the discovery site for all Australian cultural content".[68] Similar statements were issued by the Australian Academy of the Humanities[69] and the National Trust (NSW).[70]
+Tim Sherratt, a former manager of Trove, warned in early 2016 that fewer collections would be added and that less digitised content would be available – "not quite a content freeze, but certainly a slowdown".[71]
+Following extensive campaigning, including a public campaign on Twitter, Trove received a commitment of A$16.4 million in December 2016, spread over four years.[63][72]
+By early 2020, with the surge in demand for all types of digital services, the National Library was having to cope with increasingly dwindling staff resources to develop services on Trove and National edeposit, and undertook a restructure of its staffing and operations.[73]
+Continuing development[edit]
+In July–August 2020 a redesigned user interface was unrolled, with a more open display of search results and a new logo reminiscent of a rifle sight.
+See also[edit]
+.mw-parser-output .portal{border:solid #aaa 1px;padding:0}.mw-parser-output .portal.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portal.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portal>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portal>ul>li{display:table-row}.mw-parser-output .portal>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portal>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}
+Australia portal
+Journalism portal
+Internet portal
+Digital Public Library of America
+Europeana
+List of newspapers in Australia
+List of newspapers in New South Wales
+National Digital Library Program (NDLP), US digital library created by scanning the resources of the Library of Congress
+National Digital Information Infrastructure and Preservation Program (NDIIPP) - US digitisation project
+Warwick Cathro
+Notes[edit]
+^ Published in Melbourne between 1846 and 1947
+^ Digitised between 1933 and 1982 – where the National Library acknowledges the use of newspapers and microfilm owned by the State Library of New South Wales and Australian Consolidated Press for the digitisation of the title.[39]
+References[edit]
+^ National Library of Australia; Australian Bibliographic Network (1981), Draft proposal for the development of an Australian Bibliographic Network, National Library of Australia, ISBN 978-0-642-99217-8.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}
+^ a b Cathro, Warwick. "Single Business Discovery Project". National Library of Australia. Archived from the original on 9 December 2014. Retrieved 5 December 2014.
+^ a b Ayres, Marie-Louise (2013). "Singing for their supper: Trove, Australian newspapers, and the crowd" (PDF). IFLA World Library and Information Congress. Archived (PDF) from the original on 23 November 2015. Retrieved 3 December 2014.
+^ a b Bryce, Catriona (5 November 2014). "Trove - A Brief History: Trove is now 5 years old. Here's how we came to be". National Library of Australia. Retrieved 10 May 2020.
+^ Goldrick, Chrissie (1 October 2006), "PictureAustralia.", Australian Geographic, Athena Information Solutions Pvt. Ltd (84): 19, ISSN 0816-1658, retrieved 10 May 2020
+^ "Asia and the Commons: NLA PictureAustralia Click &amp; Flick" (PDF). Retrieved 10 May 2020. Cite journal requires |journal= (help)
+^ a b c d Holley, Rose (29 July 2010). "Trove: Innovation in Access to Information in Australia". Ariadne. Archived from the original on 13 November 2014. Retrieved 3 December 2014.
+^ a b Weight, Mary-Louise (2010). "Trove – One Search, a Wealth of Information". Incite. 31 (1/2): 10–11.
+^ a b c Thorpe, Clarissa (8 November 2014). "National Library of Australia's Trove website celebrates five years of uncovering the past". ABC News. Archived from the original on 23 November 2015. Retrieved 5 September 2015.
+^ Ayres, Marie-Louise (4 September 2012). "Digging deep in Trove: Success, challenge and uncertainty". National Library of Australia. Archived from the original on 5 December 2014. Retrieved 3 December 2014.
+^ Warwick Cathro; Susan Collier (8 June 2010), Developing Trove: the policy and technical challenges, National Library of Australia, retrieved 17 December 2014
+^ Clarke, Trevor (28 April 2010). "Australian National Library uses open source for treasure Trove". ComputerWorld. Archived from the original on 9 December 2014. Retrieved 7 December 2014.
+^ "Trove: mapping Australia's culture where Google fears to tread". APC. 29 April 2010. Archived from the original on 9 December 2014. Retrieved 7 December 2014.
+^ "Trove API lets developers delve deeper". National State Libraries Australasia. 19 April 2012. Archived from the original on 17 December 2014. Retrieved 16 December 2014.
+^ perkinsy (11 March 2014). "An Introduction to the Trove API". Archived from the original on 8 December 2014. Retrieved 16 December 2014.
+^ "Building with Trove". Trove Help. National Library of Australia. Archived from the original on 17 December 2014. Retrieved 16 December 2014.
+^ "Building with Trove". National Library of Australia. Archived from the original on 17 December 2014. Retrieved 3 December 2014.
+^ Holley, Rose (6 August 2009). "Perspectives on National Library of Australia Developments Part 1 Rose Holley – Presentation slides from GLAM-Wiki conference, Canberra". Slideshare. Archived from the original on 19 December 2014. Retrieved 2 December 2014.
+^ "About digitised newspapers and gazettes". Trove help centre. Retrieved 10 May 2020.
+^ "Preserving and Accessing Networked DOcumentary Resources of Australia". Pandora Archive. May 1999. Retrieved 30 April 2020.
+^ "Australian web archive". Trove. Retrieved 30 April 2020.
+^ "Archived websites". National Library of Australia. 23 March 2020. Retrieved 30 April 2020.
+^ Koerbin, Paul (11 February 2015). "The Australian Government Web Archive". National Library of Australia. Retrieved 30 April 2020.
+^ a b "About Trove". Trove. National Library of Australia. Retrieved 8 May 2020.
+^ Baich, Tina (May 2013). "The global research landscape: resources for locating international publications". College &amp; Research Libraries News. 74 (5): 243–248. doi:10.5860/crln.74.5.8945. Archived from the original on 24 June 2014. Retrieved 16 December 2014.
+^ "What is legal deposit?". National Library of Australia. 17 February 2016. Retrieved 6 May 2020.
+^ "Legal Deposit and Trove". Trove: Help centre. Retrieved 6 May 2020.
+^ "Using Trove – Finding things". Trove. National Library of Australia. Archived from the original on 24 December 2014. Retrieved 16 December 2014.
+^ Rajapatirana, Bemal; Missingham, Roxanne (February 2005). "The Australian National Bibliographic Database and the Functional Requirements for the Bibliographic Database (FRBR)". The Australian Library Journal. 54 (1): 31–42. doi:10.1080/00049670.2005.10721711.
+^ "OCLC Agreement". Libraries Australia. National Library of Australia. Archived from the original on 10 December 2014. Retrieved 6 December 2014.
+^ Rathi, Dinesh; Shiri, Ali; Lucky, Shannon (2013). "Evolving and Emerging Trends in Digital Libraries User Interfaces". In Proceedings of the Annual Conference of CAIS/Actes du Congrès Annuel de l'ACSI. doi:10.29173/cais660. Archived from the original on 17 December 2014. Retrieved 16 December 2014.
+^ "Refining your results". Trove help. National Library of Australia. Archived from the original on 17 December 2014. Retrieved 16 December 2014.
+^ Wyatt, Liam (21 June 2013). "10 Million newspaper pages in Trove". Trove Blog. National Library of Australia. Archived from the original on 9 December 2014. Retrieved 5 December 2014.
+^ "About Digitised Newspapers and more". Trove. National Library of Australia. Archived from the original on 29 February 2016. Retrieved 22 May 2017.
+^ a b "Australian Newspaper Digitisation Program". National Library of Australia. Archived from the original on 2 July 2015. Retrieved 3 December 2014.
+^ Australian Newspaper Plan Archived 7 December 2014 at the Wayback Machine.
+^ "Newspaper Titles". Trove. National Library of Australia. Archived from the original on 29 February 2016. Retrieved 3 December 2014.
+^ Rohan, Pearce (22 November 2010). "National Library puts iconic Aussie magazine on Web". PCWorld. Archived from the original on 9 December 2014. Retrieved 7 December 2014.
+^ Acknowledgements – Trove: The Australian Women's Weekly (1933–1982) Archived 25 November 2014 at the Wayback Machine
+^ Boland-Rudder, Hamish (26 December 2013). "Yesterday's Canberra news gets an update for digital age at National Library". The Canberra Times. Archived from the original on 20 February 2014. Retrieved 5 December 2014.
+^ Warden, Ian (18 June 2013). "Four more decades of print now in digital". The Canberra Times. Archived from the original on 12 January 2015. Retrieved 7 December 2014.
+^ "The Dawn rises again". National Library of Australia. 8 March 2012. Archived from the original on 19 May 2014. Retrieved 19 May 2014.
+^ Ross, Monique (8 March 2012). "New dawn for historic suffragette journal". ABC News. Archived from the original on 5 January 2015. Retrieved 7 December 2014.
+^ "NLA.gov.au". NLA.gov.au. 17 February 2012. Archived from the original on 25 August 2012. Retrieved 30 May 2012.
+^ Foreshew, Jennifer (20 September 2011). "Devil in the detail for landmark National Library of Australia project". The Australian. Retrieved 16 December 2014.
+^ Riley, Carole (6 August 2008). "Australian Newspapers Digitisation Project". Heritage Genealogy. Archived from the original on 17 December 2014. Retrieved 16 December 2014.
+^ Drake, Jess (15 May 2014). "Trove's Volunteers". Trove Blog. National Library of Australia. Archived from the original on 10 December 2014. Retrieved 7 December 2014.
+^ Walters, Conrad (7 February 2011). "Volunteers with an eagle-eye on the news". Sydney Morning Herald. Archived from the original on 25 September 2015. Retrieved 7 December 2014.
+^ Ridge, Mia (2014). Crowdsourcing our cultural heritage. Farnham, Surrey, England: Ashgate Publishing. ISBN 978-1-4724-1022-1.
+^ Tester, Alona. "Trove Celebrates with TROVEmber". Genealogy and History News. Archived from the original on 10 December 2014. Retrieved 5 December 2014.
+^ Bruns, Axel (14 March 2019). "The Australian Web Archive is a momentous achievement – but things will get harder from here". The Conversation. Retrieved 6 May 2020.
+^ "Archived websites (1996 – now)". Trove. Retrieved 6 May 2020.
+^ "Picture query page". Archived from the original on 3 December 2014. Retrieved 6 December 2014.
+^ Sherratt, Tim (17 April 2014). "Harvesting Radio National". Trove Blog. National Library of Australia. Archived from the original on 10 December 2014. Retrieved 6 December 2014.
+^ "Keynote speakers at 2014 National ALIA conference". Archived from the original on 27 February 2015. Retrieved 2 December 2014.
+^ Sherratt, Tim. "'A map and some pins': open data and unlimited horizons". Invisible Australians: living under the White Australia Policy. Archived from the original on 23 February 2014. Retrieved 3 December 2014.
+^ Thiel, SG; Roberts, JR; Drost, CA. (June 2013). "Trove". College &amp; Research Libraries News. 74 (6): 323–324. ISSN 0099-0086.CS1 maint: multiple names: authors list (link)
+^ Kidman, Angus (5 July 2010). "Trove Lets You Locate Books In Any Australian Library". Archived from the original on 5 December 2014. Retrieved 3 December 2014.
+^ "Trove: Discover Genealogy Treasure in the National Library of Australia". Gould Genealogy and History. Archived from the original on 5 December 2014. Retrieved 3 December 2014.
+^ Hicks, Shauna; Unlock the Past (Project) (2012), Trove: discover genealogy treasure in the National Library of Australia, Unlock the Past, ISBN 978-0-9808746-0-0
+^ "An Innovation Study: Challenges and Opportunities for Australia's Galleries, Libraries, Archives and Museums". Australian museums must innovate or risk becoming 'digital dinosaurs'. CSIRO. 16 September 2014. Archived from the original on 24 October 2014. Retrieved 18 December 2014.
+^ Sweeney, Shahida (26 September 2014). "National Library of Australia invests in digital future". CIO Magazine. Archived from the original on 11 December 2014. Retrieved 3 December 2014.
+^ a b Stainforth, Liz (26 October 2018). "Treasuring Trove: Why Australia's digital heritage platform is so special". Pursuit. University of Melbourne. Retrieved 10 May 2020.
+^ Gedda, Rodney (2 June 2011). "CeBIT 2011: Trove search engine wins eGovernment award: Content from more than 1000 libraries". TechWorld. Archived from the original on 4 December 2017. Retrieved 5 December 2017.
+^ "Trove takes top honours in Government awards". National Library of Australia. 6 June 2011. Retrieved 10 May 2020.
+^ Henry Belot, "Budget cuts will have a 'grave impact' on the National Library, staff told", The Sydney Morning Herald, 22 February 2016. Retrieved 12 April 2020.
+^ "Peak bodies advocate for Trove". Australian Library and Information Association. 7 March 2016. Retrieved 10 May 2020.
+^ GLAM PEAK BODIES STATEMENT OF SUPPORT FOR TROVE, Australian Library and Information Association, alia.org.au. Retrieved 12 April 2020.
+^ Critical research infrastructure at risk, Australian Academy of the Humanities, humanities.org.au. Retrieved 12 April 2020.
+^ De-funding of Trove, nationaltrust.org.au. Retrieved 12 April 2020.
+^ Sherratt, Tim (24 February 2016). "#FundTrove". Discontents. Retrieved 9 May 2020.
+^ Villiers, Annelie de (23 February 2016). "#FundTROVE". Identity &amp; Archives. Retrieved 10 May 2020.
+^ Rollins, Adrian (28 February 2020). "Job cuts a 'live possibility' in National Library of Australia restructure". The Canberra Times. Retrieved 9 May 2020.
+Further reading[edit]
+Boston, Tony. "Exposing the deep web to increase access to library collections". National Library of Australia. Retrieved 16 December 2014. In Treloar, Andrew; Ellis, Allan; Southern Cross University (2005). AusWeb05 : the eleventh Australasian World Wide Web Conference : AusWeb05 : making a difference with the web : proceedings of AusWeb05. Southern Cross University. ISBN 978-0-9751644-3-3. Archived from the original on 15 February 2017.
+External links[edit]
+Official website 
+vteAuthority control filesAAG • ACM DL • ADB • AGSA • autores.uy • AWR • BALaT • BIBSYS • Bildindex • BNC • BNE • BNF • Botanist • BPN • CANTIC • CiNii • DAAO • DBLP • DSI • FNZA • GND • HDS • World Athletics • ICCU • ICIA • ISNI • Joconde • KulturNav • LCCN • LIR • LNB • Léonore • MusicBrainz • MGP • NARA • NCL • NDL • NGV • NKC • NLA • NLG • NLI • NLK • NLP • NLR • NSK • NTA • ORCID • PIC • ResearcherID • RERO • RKD • RKDimages ID • RSL • SELIBR • SIKART • SNAC • SUDOC • S2AuthorId • TA98 • TDVİA • TE • TePapa • TH • TLS • Trove • UKPARL • ULAN • US Congress • VcBA • VIAF • WorldCat Identities
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Trove&amp;oldid=978985580"
+		Categories: 2009 establishments in AustraliaAggregation-based digital librariesAustralian digital librariesBibliographic databases and indexesNational Library of AustraliaOnline databasesOnline archives of AustraliaInternet properties established in 2009Hidden categories: CS1 errors: missing periodicalWebarchive template wayback linksCS1 maint: multiple names: authors listArticles with short descriptionShort description is different from WikidataUse Australian English from December 2014All Wikipedia articles written in Australian EnglishUse dmy dates from December 2014All articles with unsourced statementsArticles with unsourced statements from May 2020Articles containing potentially dated statements from May 2020All articles containing potentially dated statementsAC with 0 elements
+	Navigation menu
+		Personal tools
+		Not logged inTalkContributionsCreate accountLog in
+		Namespaces
+		ArticleTalk
+		Variants
+		Views
+		ReadEditView history
+		More
+		Search
+		Navigation
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		Contribute
+		HelpLearn to editCommunity portalRecent changesUpload file
+		Tools
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		Print/export
+		Download as PDFPrintable version
+		Languages
+		AfrikaansIlokanoBahasa MelayuNederlandsSuomi
+		Edit links
+		 This page was last edited on 18 September 2020, at 03:04 (UTC).
+		Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+		Privacy policy
+		About Wikipedia
+		Disclaimers
+		Contact Wikipedia
+		Mobile view
+		Developers
+		Statistics
+		Cookie statement

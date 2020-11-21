@@ -1,0 +1,335 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Michelle Obama: A first lady who charted her own course            
+				By DARLENE SUPERVILLE Associated Press                
+	                	                Published January 18, 2017
+		FILE – In this May 3, 2011, file photo, first lady Michelle Obama dances with students at Alice Deal Middle School in northwest Washington during a surprise visit for the school’s Let’s Move! event. When Michelle Obama considered the daunting prospect of becoming first lady, she purposely avoided turning to books by her predecessors for guidance. Instead, she turned inward (AP Photo/Manuel Balce Ceneta, File)
+When Michelle Obama considered the daunting prospect of becoming first lady, she avoided turning to books by her predecessors for guidance.
+Instead, she turned inward.
+“I didn’t want to be influenced by how they defined the role,” Mrs. Obama once said.
+        ADVERTISEMENT        
+That meant doing it her way: shaping the role around her family, specifically her two young daughters, and not letting her new responsibilities consume her.
+Mrs. Obama has been a powerful, if somewhat enigmatic, force in her husband’s White House. She chose her moments in the often unforgiving spotlight with great care and resisted pressure to become more engaged in the mudslinging of partisan politics.
+As she navigated her way through, the woman who grew up on the South Side of Chicago discovered a talent for television and a comfort with Hollywood A-listers, haute couture and social media. And she used all of those elements to promote her causes: childhood obesity, support for military families, girls’ education.
+Friends say she charted that path largely on her own.
+“What she did was she sort of listened to herself and allowed her own inner voice and strength and direction to lead her in the way that felt most authentic to her. And I think watching somebody makes you want to do that for yourself,” Oprah Winfrey told The Associated Press.
+FILE – In this Oct. 6, 2015, file photo, first lady Michelle Obama, joined by school children from Washington area, pick sweet potatoes as they participate in a harvest of the White House Kitchen Garden at the White House in Washington.When Michelle Obama considered the daunting prospect of becoming first lady, she purposely avoided turning to books by her predecessors for guidance. Instead, she turned inward. (AP Photo/Andrew Harnik, File)
+_
+Mrs. Obama grappled with the childhood obesity issue before becoming first lady after a doctor warned about her daughters’ weight.
+At the White House, she decided to share her experience and started by planting a vegetable garden. That led the following year, in 2010, to the launch of her anti-childhood obesity initiative, “Let’s Move.”
+The first lady appealed to elected officials, food makers, sellers, restaurant chains and others to try to make healthy food more accessible. She lobbied lawmakers to add more fruit, vegetables and whole grains, and limit fat, sugar and sodium in the federal school lunch program.
+That led to the first update to the program in decades and, for Mrs. Obama, the process was akin to a crash course in Washington sausage-making. The effort was not universally welcomed. Republicans in Congress wanted to reverse the rules. Others said Mrs. Obama was acting like the “food police.” Even the kids she wanted to help added to the backlash. Some students posted photos of lunches they found unappealing on Twitter with the hashtag (hash)ThanksMichelleObama, or tossed the food into the trash.
+Mrs. Obama would never again try to work closely with Congress, opting instead to use her platform to press industry to change its ways.
+It’s too early to know how Mrs. Obama’s efforts may affect childhood obesity rates long term, but advocates believe she helped change the debate around healthy eating. They worry about the fate of Mrs. Obama’s effort under a White House and Congress that will be controlled by the GOP.
+Mrs. Obama said some people initially wondered why she would bother with such a “softball issue” but “now, all those challenges and criticisms are off the table.” She told talk-show host Rachael Ray that “at least we’ve become very aware as a society that this is one of our most important health issues.”
+She’s said that when she leaves the White House next month, a few days after her 53rd birthday, she’ll continue to work on the issues that engaged her as first lady.
+FILE – In this Oct. 28, 2015, file photo, Britain’s Prince Harry and first lady Michelle Obama tour the USO Warrior and Family Center at Fort Belvoir, Va. When Michelle Obama considered the daunting prospect of becoming first lady, she purposely avoided turning to books by her predecessors for guidance. Instead, she turned inward (AP Photo/Andrew Harnik, File)
+___
+Being first lady was never something Mrs. Obama imagined, given her modest upbringing, her distaste for politics and having never seen her skin color on a U.S. president and first lady.
+Her early aversion to politics developed while watching her father navigate Chicago politics for his job with the city water department, and was reinforced by her husband’s pursuit of a political career. Both Obamas have said his political ambition had strained their marriage and family.
+Once in the White House, Mrs. Obama vowed to protect her then 10- and 7-year-old daughters’ right to a normal childhood. She declared being “mom in chief” to Malia and Sasha as her priority, irking women who hoped the first lady might not allow herself to be constrained by stereotypes.
+Mrs. Obama was an enthusiastic White House hostess. She rarely spoke about issues that were outside of her portfolio. She crafted her public schedule around her daughters’ activities and limited her travel so she could spend time with them.
+FILE – In this July 27, 2012, file photo, first lady Michelle Obama plays tennis with schoolchildren during a ‘Let’s Move!’ event for about 1,000 American military children and American and British students at the U.S. ambassador’s residence in London, ahead of the 2012 Summer Olympics. When Michelle Obama considered the daunting prospect of becoming first lady, she purposely avoided turning to books by her predecessors for guidance. Instead, she turned inward. (AP Photo/Lefteris Pitarakis, File)
+The Obamas’ parenting style _ which they often described as warm, but strict _ made them a point of pride, particularly for African-Americans.
+“We have heard no Obama children drama,” said Ingrid Saunders Jones, national chairwoman of the National Council of Negro Women.
+Mrs. Obama didn’t really begin to open up about the historic nature of her service as the first black woman to become first lady until the end of the presidency was in sight. She mostly addressed the subject when asked in interviews, when she discussed how important it was for children to see a black president and first lady.
+Longtime friend and White House adviser Valerie Jarrett said Mrs. Obama was often reluctant to talk about such matters earlier because she wanted her legacy to be more than just her place in history.
+“Her goal is not what she is, but what she does,” Jarrett said.
+		Categories: National | News | Political Tags: Chicago | childhood | Education | First Lady | FLOTUS | girls | Let's Move | Michelle Obama | mom in chief | obesity | The White House		
+						With Final Press Briefing of 2016, President Obama Reflects on his Record
+						Yes We Did: Obama Rallies All Americans in Farewell Speech
+						Saying Goodbye to the Obamas is hard to do
+						Saluting the Greatness of Michelle Obama
+						Michelle Obama Leaves Legacy of Strength, Advocacy, Accomplishment
+						LA County Federation of Labor Celebrates Second Chances
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

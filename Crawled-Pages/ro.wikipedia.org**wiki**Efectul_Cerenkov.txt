@@ -1,0 +1,113 @@
+	Efectul Cerenkov
+		De la Wikipedia, enciclopedia liberă
+		Jump to navigation
+		Jump to search
+		  Radiație Cerenkov strălucind într-un reactor nuclear
+Radiația Cerenkov este radiație electromagnetică emisă atunci când o particulă încărcată electric (cum ar fi un proton) trece printr-un dielectric cu o viteză mai mare decât viteza de fază a luminii în acel mediu, fenomen numit și efect Cerenkov. Strălucirea albastră caracteristică reactorilor nucleari se datorează radiației Cerenkov. Numele provine de la fizicianul rus Pavel Alexeevici Cerenkov, laureat al Premiului Nobel pentru Fizică în 1958, primul care a caracterizat acest fenomen.[1]
+Origini fizice[modificare | modificare sursă]
+În timp ce teoria relativității postulează că viteza luminii în vid este o constantă universală (c), viteza cu care lumina se propagă într-un material poate să fie semnificativ mai mică decât c. De exemplu, viteza de propagare a luminii în apă este doar 0,75c. Materia poate fi accelerată peste această viteză în procesul reacțiilor nucleare și în acceleratoarele de particule. Radiația Cerenkov rezultă când o particulă încărcată electric, de regulă un electron, depășește viteza cu care lumina se propagă într-un mediu dielectric (izolator electric) prin care trece.
+Mai mult, viteza ce trebuie să fie depășită este viteza de fază și nu cea de grup. Viteza de fază poate fi modificată dramatic în cazul unui mediu periodic, și în acest caz se poate obține radiație Cerenkov fără un prag minim pentru viteza particulei — fenomen numit efectul Smith-Purcell. Într-un mediu cu o periodicitate complexă, cum ar fi un cristal fotonic, se poate obține o varietate de alte efecte Cerenkov anormale, cum ar fi radiație Cerenkov ce se propagă în direcție inversă (în timp ce radiația Cerenkov obișnuită formează un unghi ascuțit cu vectorul viteză a particulei).
+Când o particulă încărcată electric se deplasează, ea perturbă câmpul electromagnetic local din mediul său. Electronii din atomii din mediu vor fi deplasați și polarizați de câmpul electromagnetic al particulei încărcate. Fotonii sunt emiși de electronii unui dielectric în timp ce revin la echilibru după trecerea particulei. (Într-un material conductor, perturbarea electromagnetică poate fi înlăturată fără emisia de fotoni.) În condiții normale, acești fotoni interferează distructiv unii cu ceilalți și nu se detectează nicio radiație. Totuși, când perturbarea se deplasează mai repede decât viteza cu care se propagă lumina în mediu, fotonii interferează constructiv și intensifică radiația observată.
+Este important de observat că viteza cu care se deplasează fotonii este mereu aceeași. Adică viteza luminii, numită în general c, nu se modifică. Lumina pare să se deplaseze mai lent atunci când trece printr-un mediu din cauza interacțiunilor frecvente ale fotonilor cu materia. Situația este similară cu cea a unui tren, care se deplasează cu viteză constantă. Dacă un astfel de tren ar merge pe niște linii cu multe stații, atunci ar părea că se deplasează cu viteză mai mică per total, adică ar avea o viteză medie mai mică, deși în perioadele de mișcare, viteza este constant mai mare.
+  Geometria radiației Cerenkov.
+O analogie comună este cea cu bumul sonic al unui zgomot de avion supersonic sau glonț. Undele sonore generate de corpul supersonic nu se mișcă suficient de repede pentru a se da la o parte din calea corpului respectiv. Astfel, undele "se adună" și formează un front de șoc.
+Într-un fel similar, o particulă încărcată electric poate genera o undă de șoc fotonică în timp ce se deplasează printr-un izolator.
+În figură, particula (săgeata roșie) se deplasează cu viteza 
+          v
+            p
+    {\displaystyle v_{p}}
+ și se definește 
+        β
+        =
+          v
+            p
+          /
+        c
+    {\displaystyle \beta =v_{p}/c}
+ unde 
+        c
+    {\displaystyle c}
+ este viteza luminii. n este indicele de refracție al mediului și astfel fotonii (săgețile albastre) se deplasează cu viteza 
+          v
+            e
+            m
+        =
+        c
+          /
+        n
+    {\displaystyle v_{em}=c/n}
+.
+Colțul stâng al triunghiului reprezintă locația particulei superluminice la un moment inițial (t=0). Colțul din dreapta al triunghiului este locația particulei la un moment ulterior t. În timpul t dat, particula parcurge
+          x
+            p
+        =
+          v
+            p
+        t
+        =
+        β
+        c
+        t
+    {\displaystyle x_{p}=v_{p}t=\beta \,ct}
+în timp ce undele electromagnetice pot călători doar
+          x
+            e
+            m
+        =
+          v
+            e
+            m
+        t
+        =
+            c
+            n
+        t
+    {\displaystyle x_{em}=v_{em}t={\frac {c}{n}}t}
+Deci:
+        cos
+        ⁡
+        θ
+        =
+            1
+              n
+              β
+    {\displaystyle \cos \theta ={\frac {1}{n\beta }}}
+De observat că deoarece acest raport este independent de timp, se pot lua timpi arbitrari și se pot obține triunghiuri asemenea. Unghiurile rămân aceleași, astfel că undele generate ulterior între momentul inițial t=0 și cel final t formează triunghiuri asemenea cu cel arătat.
+Note[modificare | modificare sursă]
+^ Cerenkov, P.A., "Emisii de lumină vizibilă în lichide transparente prin acțiunea radiațiilor γ", Doklady Akad. Nauk SSSR 2 (1934) 451. Retipărită în Lucrări alese ale fizicienilor sovietici, Usp. Fiz. Nauk 93 (1967) 385. V sbornike: Pavel Alexeevici Cerenkov: Celovek i Otkrîtie pod redakției A. N. Gorbunova i E. P. Cerenkovoi, M.,"Nauka, 1999, s. 149-153. (ref)
+Adus de la https://ro.wikipedia.org/w/index.php?title=Efectul_Cerenkov&amp;oldid=12974225
+		Categorii: Fizica particulelorRadiații
+	Meniu de navigare
+		Unelte personale
+		Nu sunteți autentificatDiscuțiiContribuțiiCreare contAutentificare
+		Spații de nume
+		ArticolDiscuție
+		Variante
+		Vizualizări
+		LecturăModificareModificare sursăIstoric
+		Mai mult
+		Căutare
+		Navigare
+		Pagina principalăSchimbări recenteCafeneaArticol aleatoriuFacebook
+		Participare
+		Cum încep pe WikipediaAjutorPortaluri tematiceArticole ceruteDonații
+		Trusa de unelte
+		Ce trimite aiciModificări corelateTrimite fișierPagini specialeNavigare în istoricInformații despre paginăCitează acest articolElement Wikidata
+		Tipărire/exportare
+		Creare carteDescarcă PDFVersiune de tipărit
+		În alte proiecte
+		Wikimedia Commons
+		În alte limbi
+		AlemannischالعربيةБеларускаяБългарскиCatalàČeštinaDanskDeutschΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیSuomiFrançaisGaeilgeGalegoעבריתहिन्दीHrvatskiMagyarՀայերենBahasa IndonesiaItaliano日本語한국어LatinaLietuviųLatviešuമലയാളംNederlandsNorsk nynorskNorsk bokmålPolskiPortuguêsРусскийScotsSrpskohrvatski / српскохрватскиSimple EnglishSlovenčinaSlovenščinaСрпски / srpskiSvenskaதமிழ்ไทยTürkçeТатарча/tatarçaУкраїнськаOʻzbekcha/ўзбекчаTiếng Việt中文
+		Modifică legăturile
+		 Ultima editare a paginii a fost efectuată la 19 iulie 2019, ora 11:36.
+		Acest text este disponibil sub licența Creative Commons cu atribuire și distribuire în condiții identice;
+pot exista și clauze suplimentare.
+Vedeți detalii la Termenii de utilizare.
+		Politica de confidențialitate
+		Despre Wikipedia
+		Termeni
+		Versiune mobilă
+		Dezvoltatori
+		Statistics
+		Cookie statement

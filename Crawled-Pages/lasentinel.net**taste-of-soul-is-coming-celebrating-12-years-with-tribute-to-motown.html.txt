@@ -1,0 +1,327 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+HERE COMES TASTE OF SOUL!            
+				By Brian W. Carter, Staff Writer                 
+	                	                Published October 19, 2017
+		Taste of Soul is Coming—Celebrating 12 Years with Tribute to Motown! 
+One thing TOS is known for is its vendors—food, clothes, healthcare, jobs, education, haircuts, you name it and TOS has it! (file photo)
+If you haven’t been to Taste of Soul (TOS), where have you been? This is L.A.’s #1 one-day festival, which celebrates 12 years—count ‘em! For over a decade, TOS has been bringing the community and the Greater Los Angeles area together in brotherhood, peace and fun. This year, TOS salutes, celebrates and honors the legacy of Motown—the sound of many generations.
+So, what’s the history of TOS? Well, it goes back to 2005, where the festival was a simple vision of the community coming together for a day of celebrating each other. The Los Angeles Sentinel &amp; L.A. Watts Times Newspaper executive publisher/Bakewell Media CEO, Founder/Creator Danny J. Bakewell, Sr. and the late Brenda Marsh-Mitchell together with committed city officials, community partners and friends gave birth to the idea which is now the #1 one-day street festival in Los Angeles county.
+TOS has grown to be a family festival attended by over 350,000 people from SoCal and beyond in recent years and is still growing. People come from all over for great food, music, entertainment and fellowship on Crenshaw Blvd. Over the years, TOS has become a tradition of meeting old friends and family as many plan parties and get-togethers around the event. Many attendees live on Crenshaw Blvd. and simply pull up a seat and enjoy the festivities with friends and family.
+        ADVERTISEMENT        
+One thing TOS is known for is its vendors—food, clothes, healthcare, jobs, education, haircuts, you name it and TOS has it! But for many, the food is one of the biggest draws because the best come out to TOS. This year’s returning vendors, some of which have been with TOS since its inception, include: Harold &amp; Belle’s, Dulans, Boone’s Fish, Heavenly Delight, Brother’s BBQ, Dippin Chicken, Stone’s Jamaican to name few. This year, TOS welcomes new food vendors such as Don’t Forget The Sugar, Fat Cat &amp; Birds, Yo Way Eatery, Nay’s Tacos, Gourmet Paper Plates and Cane Patch Kitchen also to name a few. TOS also acknowledges its non-food vendors who have been a part of TOS for years like Nu lyfe Gifts, Pride Hatz, West Love and Hustle Girl Entertainment.
+One of the rising stars of TOS is its singing competition, StarQuest which is being sponsored this year by Hyundai Motors. In 2012, StarQuest debuted at the 7th annual TOS festival as a community singing competition, a creation of the Los Angeles Sentinel and Bakewell Media. StarQuest has recognized and help launch careers for past winners such as Beau Williams and Adrian Battle (2012), Nathan Davis, Jr. and Noah Jay (2013), Mothership and Tim Jr. (2014), Tia P. and Terrence Smith (2015) and Chloe Roston and Jeriell Laconn Anderson (2016).
+Last year, StarQuest introduced online auditions, which were a hit with two talented artists being chosen (Minerva Larry and Ryenn Hubbard) to compete in the singing competition on the StarQuest Stage. This year, the online auditions once again produced adult finalist, Norma Richardson and kids finalist, Kennedy Chisholm, who will be joining kids finalists: Nancy Fifita, Sydney Strickland, Khadijah Hajjaj, Auriana Chisholm, Anisa Washington, K’Lynn Jackman, Jordan Jackman, Na’Miyah McCormick, Jhala Angelique, Mykira Cleopatra Church and adult finalists: Terrill Williams Carter, Byrd Duckett, Khoryawne Heads, Christopher Martin, Sharee Fogarty, Ryan Wirtz, Brandon Wattz, Kyree Sterling and Goward D. Horton II.
+This year, the StarQuest Soundstage explodes with exclusive talent as Hyundai Motors brings an All-Star celebrity line-up to that includes R&amp;B sensations Brandy and Melanie Fiona, rap legends Kool Moe Dee and Doug E. Fresh, DJ B-Hen, Candace Coles &amp; The CJ Legacy Band and Raffia Ford.
+The 102.3 KJLH Radio Free stage is back rocking the crowd with world-class and well-known entertainment. This year the stage presents R&amp;B artist Lalah Hathaway, The Crossrhodes featuring Raheem DeVaughn and Wes Felton, legendary DJ, rapper and producer, Kid Capri and friends, R&amp;B, funk and contemporary band DW3, and singer and songwriter Yuna. The KJLH Gospel choir will kick things off with a powerful performance. The 102.3 Radio Free stage is located on the corner of Crenshaw and Rodeo.
+The 94.7 The Wave Stage continues to bring classic and timeless talent to their stage and this year will be no different. This year’s stage presents an incredible line-up which includes The GAPX band, the Ohio Players, On Tour, TOS Media Day 2016 sensations, the Connect Band and gospel group, Chosen Recovery. The Wave stage will be located at Crenshaw and Stocker.
+The McDonald’s Inspiration Celebration Gospel Tour will once again headline a praise-and-worship experience at the Brenda Marsh-Mitchell Gospel Stage.  Marsh-Mitchell was the late executive assistant to Bakewell, Sr. and was responsible for the TOS gospel platform for eight years before her passing in 2014. Her legacy will continue to bless TOS Nation with God-inspired talent in the form of gospel superstar Tye Tribbett, Grammy award-winning artist, Bishop Hezekiah Walker, legendary pastor and singer, Bishop Paul S. Morton, gospel singer, Brian Courtney Wilson, singer Anita Wilson, singing sensation, Jekalyn Carr and the renowned quartet voice, Paul Porter. The L.A.-area faith community will bring praise and tribute to God thanks to the efforts and work of Pastor Kelvin Sauls of Holman United Methodist Church. Songwriter Donald Lawrence will return as music director along with appearances by Christian comedienne, Small Fire and radio personality, Lonnie Hunter will host the stage. The Brenda Marsh-Mitchell Gospel Stage will be located at the intersection of Crenshaw and Martin Luther King, Jr. Boulevards.
+With TOS being a family-friendly festival, Children’s World is back bringing fun and exciting games, activities and entertainment for children. Sponsored by Metro and Plenary Airport Infrastructure and hosted by Challengers Boys and Girls Club, Children’s World will be the spot to take your kids for some fun-filled activities. For the past four years, Children’s World host and founder of the School Tour, Randy Hankins, has brought some of the best sound and entertainment to the Children’s World Stage and this year’s lineup will continue to do just that, with performances by Artiistri, DJ Kiss, Mayseo The Magaician, BoomSquad, Prince of LA, KnsRocStar, and the DWA Drumline.
+TOS always has medical, safety and law enforcement at every festival as it takes everyone’s well-being as the number one priority. Although for 12 years, this festival has been without incident, it’s always good to know certain things are covered. The Los Angeles Police Department (LAPD), the Los Angeles Fire Department (LAFD), the California Highway Patrol (CHP), and private security firm Able Solutions, have worked together to create safety plans to help keep the festival safe. Kaiser Permanente, Martin Luther King, Jr. Hospital, Watts Health Foundation, and WKing Health Care Group are also working together to meet all possible medical needs at TOS.
+Red flags will be above medical stations with California state certified medical doctors and nurses. The cooling stations are not for general public and only for people who are being treated. If there is an event or emergency of a medical nature, attendees are encouraged to visit the TOS medical stations for emergency treatment. If there are serious injuries or medical problems, patients will be moved to the event’s main medical facility #3, which is operated by Kaiser Permanente.
+TOS attendees are encouraged to report any and all suspicious activity to ‘Information’ booths located on each block along Crenshaw Blvd. or to any block ambassadors wearing colored TOS t-shirts, so that they can dispatch the appropriate teams. TOS information booths are listed by color: the Yellow block has one booth, Blue Block has two booths, Red Block has two booths and Pink Block has one booth.
+Please visit www.tasteofsoul.org for the DOs and DONTs lists while attending TOS. These rules help keep everybody happy and having a good time at the festival.
+This year, Hyundai Motors, in partnership with TOS, presented the Hyundai ‘Better’ Contest for a chance to win a 2018 Hyundai Sonata. Participants are encouraged to download the Taste of Soul mobile app or visit hyundaibetterla.com. There is no purchase necessary and CA 21+ residents only. The contest is set to end October 21.
+Bakewell Media, the Los Angeles Sentinel Newspaper and the L.A. Watts Times Newspaper would like to thank all of our sponsors and partners: Hyundai, City National Bank, Airbnb, McDonalds, Kaiser Permanente, South Coast Air Quality Management District (AQMD), Bank of America, Charles R. Drew University, Comerica, L.A. City Workforce Investment Board (WIB), Metro, Walsh/Shea, Metropolitan Water District, Nestle Waters, California Resources Corporation, SEIU Local 2015, Southern California Gas Company, US Bank, Walmart, Watts Health, Wells Fargo, Brotherhood Crusade, Ivie, McNeill and Wyatt, Chase Bank, Plenary Group, West Basin Municipal Water District, USC, AT&amp;T,  L.A. World Airports, Greyhound, Nielsen, Californians For Energy Independence, Uber, UCLA Health, UCLA, Super Heroic, DaVita, Metro PCS, Burden to Bear, Cedars-Sinai, City of Hope and Encoure Capital Group.
+A special thanks to our chairs and co-chairs this year: Mayor Eric Garcetti, Council President Herb Wesson, Councilmember Marqueece Harris-Dawson, L.A. County Supervisor Mark Ridley-Thomas, Congressmember Karen Bass, Councilmember Curren Price, Assemblymember Reggie Jones-Sawyer, Assemblymember Autumn Burke, Assemblymember Sebastian Ridley-Thomas, LAUSD District 1: Dr. George McKenna, KCBS-Channel 2, Pat Harvey and Ivie, McNeill &amp; Wyatt.
+Taste of Soul is presented by Bakewell Media, produced by the L.A. Sentinel Newspaper and Mothers in Action in partnership with the Brotherhood Crusade, AAUC, LA City, LA county, 102.3 Radio Free KJLH, 94.7 The WAVE and CBS2/KCAL9.
+Please download the Taste of Soul mobile app as your go-to event guide for the latest information on vendors, stage locations and entertainment, transportation and parking needs, shuttles, street closures, locations of medical stations and information booths, and partners and sponsors information.
+Please visit www.tasteofsoul.org for more information.
+		Categories: A Taste of Soul | Crenshaw &amp; Around | Entertainment | Family | Local | Metro | News | News (Family) Tags: #brianwcarter | 94.7 The Wave | Brian W. Carter | California Highway Patrol | Children's World | CHP | hallengers Boys and Girls Club | Jr. Hospital | Kaiser Permanente | LAFD | LAPD | Los Angeles Fire Department | Los Angeles Police Department | Martin Luther King | McDonald’s Inspiration Celebration Gospel Tour | Metro | Plenary Airport Infrastructure | Randy Hankins | School Tour | Taste of Soul | TOS | TOS Media Day | Watts Health Foundation | WKing Health Care Group		
+						Campus and Community Join to Celebrate the Life of CSUF President Milton A....
+						Kam’s Kapsules: Weekly Previews That Make Choosing a Film Fun
+						Dodgers add Seager, McCarthy, drop Granderson, Farmer
+						Pastor Turner Reaches Half-Century Mark at New Revelation Church
+						Kenneka Jenkins’ Death Continues to Raise Questions 
+						Taste of Soul Media Day Kicks Off The Festival
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

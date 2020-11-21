@@ -1,0 +1,241 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+World War II
+							Success On The Way,  Ask Dr. Jeanette:  And The Beat Goes On!  It’s Your Way, Not the Highway!  Unless You Own The Highway!
+					May 28, 2020Encourage yourself and one another. NEVER GIVE UP! Things are not as they sometimes appear. Personal experience has taught me. Stay in the game. Obstacles, which appear to be insurmountable with persistence can be overcome. It says, “appear to be insurmountable. The way becomes brighter as you continue to move through the continuum. Concentrate. Focus.  All the time building up your resistance. Establish a mindset of faith..no wavering or doubt. Stay the course. Do not allow yourself to be derailed from your passion nor your dream. Do not devalue your ideas or yourself. You’re worthy. Giving up is wiped from your vocabulary. Giving up is not for you, a conqueror. Conquerors have vision and hope. ... read more  »
+							WATCH: Tuskegee Airman Charles McGee
+					March 6, 2020Tuskegee Airman Charles McGee joins the LA Sentinel  ... read more / watch video »
+							David G. Brown Cartoon: February 13, 2020
+					February 13, 2020 ... read more / view cartoon »
+        ADVERTISEMENT        
+							Casa De Rosas Groundbreaking Ceremony
+					November 28, 2019At a time when the availability of affordable housing is not keeping pace with the need for this precious resource, Ward Economic Development Corporation (WEDC) has partnered with Integral Group to transform the historic Casa de Rosas into a campus for formerly homeless single-parent veterans with a child.  ... read more  »
+							Betty Reid Soskin, the Nation’s Oldest Park Ranger Suffers Stroke
+					October 24, 2019Betty Reid Soskin is renowned for numerous reasons, including the insightful dissertations she regularly gives at the Rosie the Riveter Museum in Richmond, Virginia. ... read more  »
+							Former NNPA Chairs Talk Yesterday, Today and the Future: Part One in a series, as the NNPA prepares to Celebrate 80 Years as the Voice of Black America
+					July 19, 2019Whether it’s taking a stand for the Double V campaign during World War II; marching with Dr. Martin Luther King Jr. during the Civil Rights Movement; or fighting to have a voice in the White House in more recent times, NNPA’s board chairpersons’ responsibilities have historically gone far beyond any standard business definitions. ... read more  »
+							Nate Holden Celebrates 90th Birthday-Still Going Strong
+					June 27, 2019At 90 years young Nate Holden looks as fit as a fiddle.  On Saturday evening June 15 at the Luxe Hotel - Sunset, family, friends and colleagues all came together to honor one of Los Angeles first and most influential political leaders. ... read more  »
+							African WWII Vets Seek Formal Apology and Compensation from UK
+					February 22, 2019More than half a million Black African soldiers who fought in the British army were paid up to three times less than their white counterparts, a newly unearthed document has revealed, prompting calls for an investigation and the government to compensate surviving veterans. ... read more  »
+							Cold War (FILM REVIEW) Star-Crossed Lovers Repeatedly Rendezvous in Polish Postwar Drama
+					February 22, 2019Dateline: Poland, 1949. The countryside is still devastated by the blight left behind in the wake of the Second World War. It is amidst these ruins that we find young Zula Lichon (Joanna Kulig) auditioning for a spot in the national entertainment ensemble. ... read more  »
+							Kam’s Kapsules: Weekly Previews That Make Choosing a Film Fun
+					January 25, 2019For movies opening January 25, 2019: ... read more  »
+							Kam’s Kapsules: Weekly Previews That Make Choosing a Film Fun
+					January 10, 2019For movies opening January 11, 2019. ... read more  »
+							Tuskegee Airman John Lyle Dead at 98
+					January 10, 2019The members of the nation's first black fighter squadron won acclaim for their aerial prowess and bravery, despite a military that imposed segregation on its African-American recruits while respecting the rights of German prisoners. ... read more  »
+							Russia’s Secret Weapon
+					December 27, 2018It is clear now that the 45thpresident of the United States is knowingly or unwittingly a tool of the Russian government.  But for many years before the dumpster fire in the White House came into office, the Kremlin has been wielding a secret weapon against the “land of the free.” ... read more  »
+							Kam’s Kapsules: Weekly Previews That Make Choosing a Film Fun
+					December 11, 2018For movies opening December 14, 2018. ... read more  »
+							Kam’s Kapsules Weekly Previews: That Make Choosing a Film Fun
+					November 2, 2018For movies opening November 9, 2018. ... read more  »
+        &lt;&lt; Older Posts
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->

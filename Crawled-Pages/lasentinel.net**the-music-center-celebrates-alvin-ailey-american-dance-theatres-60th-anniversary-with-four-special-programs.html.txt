@@ -1,0 +1,319 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+The Music Center Celebrates Alvin Ailey  American Dance Theatre’s 60th Anniversary  with Four Special Programs            
+				By Sentinel News Service                
+	                	                Published March 14, 2019
+		Featuring West Coast premieres of “Lazurus” and “Kairos” as well the Los Angeles premiere of “The Call”
+Y. Lebrun, J. Green and C. Monteiro. (Photo by Andrew Eccles)
+The Music Center welcomes one of America’s most popular dance companies, Alvin Ailey American Dance Theater, back to Los Angeles with the dance company’s 60th anniversary celebration tour at The Music Center’s Dorothy Chandler Pavilion from April 3 – 7, 2019. Led by artistic director, Robert Battle, Ailey’s remarkable dancers – including Danica Paulos of Huntington Beach and rehearsal director and guest artist, Matthew Rushing of Los Angeles, who has been with the company for more than 25 years – will perform four different programs of diverse repertory featuring West Coast premieres, new productions and returning classics. Part of the 2018/2019 season of Glorya Kaufman Presents Dance at The Music Center, which is curated by The Music Center’s artistic division The Music Center Arts (TMC Arts), the engagement includes four special programs: “Trailblazers,” featuring the West Coast premiere of “Lazarus” by Rennie Harris – the company’s first two-act ballet; “Bold Visions,” featuring West Coast premiere of Wayne McGregor’s “Kairos” and the Los Angeles premiere of “The Call” by Ronald K. Brown, alongside Jawole Willa Jo Zollar’s “Shelter”; a Timeless Ailey program with rarely seen gems by one of America’s greatest cultural leaders; and a musical inspirations program featuring the Los Angeles premiere of Ailey star, Jamar Roberts’ “Members Don’t Get Weary,” a new production of Robert Battle’s “Juba,” and his tour-de-force duet, “Ella.”
+Each of the four programs will feature Ailey’s American masterpiece “Revelations.” Since its creation in 1960, “Revelations” has been seen by more audiences around the world than any other modern work, inspiring generations through its powerful storytelling and soul-stirring spirituals. Springing from Ailey’s childhood memories of growing up in the South and attending services at Mount Olive Baptist Church in Texas, “Revelations” pays homage to the rich African-American cultural heritage and explores the emotional spectrum of the human condition.
+Jacquelin Harris and Chalvar Monteiro. (Photo by Andrew Eccles)
+“Given our commitment to both excellence and relevance, it is an honor for TMC Arts to welcome the return of Alvin Ailey American Dance Theater to The Music Center for the company’s 60th anniversary celebration,” said Rachel Moore, president and CEO of The Music Center. “It’s no wonder that Angelenos have a strong affinity for Ailey. The company is a national treasure and a vital cultural institution that reveals our shared humanity through the power of dance. Ailey’s legacy transcends cultural boundaries and reminds us of a universal sense of connectedness that will uplift and inspire for many generations to come.”
+“Alvin Ailey forever changed the American landscape by raising up the lives and cultural heritage of African Americans for all to see, opening the hearts and minds of people of every background and elevating the world of the performing arts,” said Robert Battle. “During this milestone season, we are thrilled to return to Los Angeles, the city that was home to Mr. Ailey for many years, and where he fell in love with dance and launched his career. We honor Alvin Ailey’s storied legacy with performances across North America, educational programs that enlighten young people and develop the next generation of performing artists. What Mr. Ailey gave us is more than a repertory and a tradition. It is a movement, a direction, a desire, a conviction that if the spirit is to live it must rise. We dedicate our 60th anniversary to the next ascent.”
+Jacqueline Green. (PHoto by Andrew Eccles)
+Audiences will experience Ailey’s first ever two-act work with the West Coast premiere of Rennie Harris’ “Lazarus.” Inspired by the life and legacy of Alvin Ailey, and addressing the racial inequities America faced in 1958, when the company was founded and which continue to challenge today, “Lazarus” is an ensemble work featuring a soundtrack that melds Nina Simone, Terrence Trent D’Arby, Michael Kiwanuka, Odetta, original music by Darrin Ross, and the voice of Alvin Ailey. The New York Times said, “… Mr. Harris gives us something like heaven,” and “… the style has a spiritual force that’s uplifting, and the pleasure of it is mixed with a revelation of the past in the present, of Black history in the body language.”
+        ADVERTISEMENT        
+Wayne McGregor’s “Kairos,” the second piece the choreographer set on the company following “Chroma” in 2013, is performed to a reimagined Vivaldi’s “The Four Seasons” by experimental composer Max Richter in the “Bold Visions” program. The dance enthusiast described the company’s performance of Kairos as “the dancers of Alvin Ailey American Dance Theater stay true to Wayne McGregor’s intellectual brilliance without sacrificing the trademark spirituality of Ailey.” The Music Center opened its current season of Glorya Kaufman Presents Dance at The Music Center with Company Wayne McGregor/Autobiography and will again present McGregor’s work during its upcoming presentation of “Adès &amp; McGregor: A Dance Collaboration” this coming July. Richter was at the helm of another music center presentation, “The Music Center Presents Max Richter’s SLEEP”, this past summer in Grand Park.
+Ronald K. Brown’s seventh work for Ailey, “The Call,” will make its Los Angeles premiere at The Music Center and is included in the Bold Visions program. Brown, a 2018 Dance Magazine Award recipient, describes the work, which seamlessly blends modern and West African dance idioms, as “a love letter to Mr. Ailey.” The music includes Johann Sebastian Bach (recorded by Chris Thile, Edgar Meyere &amp; Yo-Yo Ma), Mary Lou Williams Trio, and Asase Yaa. Jawole Willa Jo Zollar’s “Shelter,” a passionate statement about the physical, is also featured on the Bold Visions program.
+Jeroboam Bozeman. (Photo by Andrew Eccles)
+Honoring Ailey’s 60th anniversary, the company will showcase “Timeless Ailey,” a program that brings treasures by the company’s iconic founder back to the stage. Excerpts from rarely seen gems, including “Blues Suite,” “Streams,” “Mary Lou’s Mass,” “The Lark Ascending,” “Hidden Rites,” “Phases,” “Opus McShann,” “Pas de Duke,” and “For ‘Bird’ – With Love,” will be joined by perennial favorites such as “Memoria,” “Night Creature,” and “Cry.”
+The Musical Inspirations program includes Robert Battle’s first work for the company, “Juba” (2003), a quartet with a score by frequent collaborator John Mackey; Ailey dancer and 2016 “Bessie” Award recipient, Jamar Roberts’ first work for Alvin Ailey American Dance Theater, “Members Don’t Get Weary,” set to the powerful music of the legendary American jazz saxophonist and composer, John Coltrane; and Ella, a high- energy comical dance originally created as a solo and reinvented as a duet in anticipation of the legendary singer, Ella Fitzgerald’s centennial in April 2017.
+One hour prior to each performance, The Music Center will host DANCETALKS featuring interviews with Ailey company members. Ticketed guests can join this fascinating behind-the-scenes pre-performance discussion and also have the opportunity to learn a segment from the famed Ailey masterpiece “Revelations.”
+		Categories: Entertainment | News (Entertainment) | Theater Tags: Alvin Ailey American Dance Theater | Danica Paulos | Michael Kiwanuka | Nina Simone | Odetta | Ronald K. Brown | Terrence Trent D’Arby | The Music Center		
+						The 50th NAACP Image Awards Nominees Luncheon
+						Legendary songstress Dionne Warwick announces, “She’s Back,” first ne...
+						For Jussie Smollett, One Story Equals 16 Felony Counts
+						Tape Appears To Show R. Kelly Sexually Abusing Girls
+						Kam’s Kapsules: Weekly Previews That Make Choosing a Film Fun
+						MASTERCHEF JUNIOR Casting in Los Angeles!
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

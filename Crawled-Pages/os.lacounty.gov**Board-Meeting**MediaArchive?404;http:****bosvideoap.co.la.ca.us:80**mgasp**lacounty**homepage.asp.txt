@@ -1,0 +1,160 @@
+/* GOOGLE TRANSLATE */
+#google_translate_element {
+  /*position: relative;*/
+  top: calc (10px + 10px);
+  right: 10px!important;
+}
+.goog-te-gadget {
+  font-family: 'Open Sans', sans-serif;
+  text-transform: uppercase;
+}
+.goog-te-gadget-simple, .goog-te-gadget-simple:hover, .goog-te-gadget-simple:active, .goog-te-gadget-simple:visited   {
+  background-color: rgba(255,255,255,0.20)!important;
+  border: 1px solid #777777 !important;
+  padding: 8px!important;
+  border-radius: 4px!important;
+  font-size: 1rem!important;
+  line-height:1.6rem!important;
+  display: inline-block;
+  cursor: pointer;
+  zoom: 1;
+}
+/*
+.goog-te-gadget-icon {
+    background-image: url("https://translate.googleapis.com/translate_static/img/te_ctrl3.gif");
+}
+*/
+/*
+.goog-te-menu2 {
+  max-width: 100%;
+}
+*/
+/*
+.goog-te-menu-value {
+    color: #000000 !important;
+    &:before {
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    content: "\E927";
+    margin-right: 16px;
+    font-size: 2rem;
+    vertical-align: -10px;
+  } 
+}
+*/
+.goog-te-menu-value span:nth-child(5) {
+  display:none;
+}
+.goog-te-menu-value span:nth-child(3) {
+  border:none!important;
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+  /*
+  &:after {
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    content: "\E5C5";
+    font-size: 1.5rem;
+    vertical-align: -6px;
+  } 
+  */
+}
+.goog-te-menu-frame:first {
+    background-image: url("https://translate.googleapis.com/translate_static/img/te_ctrl3.gif");            
+    background-position: -65px 0px;
+}
+/* ============ HIDE TOP BAR ============ */
+.goog-te-banner-frame.skiptranslate {display: none!important;} 
+body {top: 0px!important;}
+/* ================================== *\
+    Mediaqueries
+\* ================================== */
+/* */
+@media (max-width: 667px) {
+    #google_translate_element {
+        bottom: calc(100% - 50% - 53px);
+        left: 16px!important;
+        width: 100%!important;
+        goog-te-gadget {
+            width:100%!important;
+        }
+        .skiptranslate {
+            width:100%!important;           
+        }
+        .goog-te-gadget-simple {
+            width: calc(100% - 32px)!important;
+            text-align: center;
+        }   
+    }
+}
+      Call Us : (213) 974-1411 
+      Email Us : executiveoffice@bos.lacounty.gov 
+             | 
+    Login
+    GO
+Home
+Board Meeting
+Board Agendas
+Live Broadcast
+Statement of Proceedings/Minutes
+Public Hearings
+Services
+Assessment Appeals
+Board Members and Hearing Officers
+Public Education Program
+FAQ
+Assessment Appeals Information
+Tax Agent Registration
+Commission Services
+Membership Roster
+FAQ
+Our Commissions
+Event Information
+Conflict of Interest/ Lobbyist
+Lobbyist Information
+Statement of Economic Interest
+LACERA Election
+FAQ
+Postgovernment Information
+Customer Service Center
+Kids Corner
+Workstations/Kiosks
+Records Search
+Forms
+About Us
+Board of Supervisors
+Executive Office of the Board
+A note from the Executive Officer
+FAQ
+X
+    HomeBoard MeetingBoard AgendasLive BroadcastStatement of Proceedings/MinutesPublic HearingsServicesAssessment AppealsBoard Members and Hearing OfficersPublic Education ProgramFAQAssessment Appeals InformationTax Agent RegistrationCommission ServicesMembership RosterFAQOur CommissionsEvent InformationConflict of Interest/ LobbyistLobbyist InformationStatement of Economic InterestLACERA ElectionFAQPostgovernment InformationCustomer Service CenterKids CornerWorkstations/KiosksRecords SearchFormsAbout UsBoard of SupervisorsExecutive Office of the BoardA note from the Executive OfficerFAQ
+    GO
+          |
+    Login
+        Media Archive 
+          Board Meeting   &gt;   Media Archive
+    Meetings On-Demand
+Your browser does not support inline frames Your browser does not support inline frames
+Your browser does not support inline frames Your browser does not support inline frames
+    Featured Links
+		FAQ
+		Rewards
+		Kid's Corner
+		Postgovernment Information
+		Child Support
+		County Equity Oversight Panel
+		LACERA Elections
+		LA County Jail Plan
+    Customer Service Center
+Kenneth Hahn Hall of Administration
+ 500 West Temple St. Ste 383 Los Angeles, CA 90012
+ (213) 974-1411
+ executiveoffice@bos.lacounty.gov
+County Social Media Directory
+    Contact Us
+ Have a question?
+ 211 LA County
+ LA CountyHelps
+ Public Alerts
+            Copyright 2020 by County of Los Angeles Board of Supervisors
+            |
+            Privacy Statement
+            |
+            Terms Of Use

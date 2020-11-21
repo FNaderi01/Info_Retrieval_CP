@@ -1,0 +1,319 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+International Conference Celebrating the 55th Anniversary of The Nguzo Saba (The Seven Principles)            
+				By Special to the Sentinel                
+	                	                Published October 8, 2020
+		A wide range of Black scholars, activists, teachers, students and community members from the national and global African community will join in discussions of critical issues confronting Black people nationally and internationally which begins this Sunday, October 11, 3:00pm at the virtual International Nguzo Saba 2020 Conference and will continue over the month. The conference marks the 55th Anniversary of The Nguzo Saba (The Seven Principles), the Organization Us and the African American Cultural Center. Focus will be especially on the Nguzo Saba and their use by thousands of organizations and institutions in this country and throughout the world African community for value orientation, cultural grounding and programmatic initiatives.
+Held every five years, this year’s conference theme is “55 Years of Unbudging Blackness: Nguzo Saba, African Principles for Life, Work and Struggle ” and includes engaging the Nguzo Saba in the context of the fifty-five year history and significant impact of the Organization Us on Black intellectual, creative and political culture. Also, panel discussions and presentations will demonstrate the many ways The Nguzo Saba (The Seven Principles) are used to build and strengthen Black families, communities and culture and celebrate Kwanzaa.
+Also, the conference will offer forums for dialogue on such topics as pan-Africanism, political empowerment and voting; police violence and reimagining public safety, quality education, ethnic studies requirement, healthcare, housing and gentrification, mass incarceration, economic empowerment, reparations, community building, climate change, Kawaida philosophy, organizing for social change and other topics relative to the lived experience, critical initiatives and struggles of the Black community.
+        ADVERTISEMENT        
+The highlight of the conference will be an opening Roundtable Discussion on October 11th on critical issues facing the national and global African community. It will include activist scholars and leaders: Dr. Molefi Kete Asante, Professor and Chair, Department of Africology and African American Studies, Temple University; Founder/President, The Molefi Kete Asante Institute; Dr. Maulana Karenga, Professor and Chair, Department of Africana Studies, Cal State Long Beach; Executive Director, African American Cultural Center; Chair, Us; Creator of Kwanzaa and Nguzo Saba, (Moderator); Dr. Yaa Ashantewaa Ngidi, Director, Institute of Afrikology, Durban, S.A.; Dr. Patricia Reid-Merritt, Distinguished Professor, Department of Africana Studies and Social Work, Richard Stockton College, Pomona, NJ; Founder/Artistic Director, Afro-Dance One; Dr. LaFrancis Rodgers, CEO International Black Women’s Congress; Sociologist; Former Professor of African American Studies, Princeton University; Hon. Dr. Shirley Weber, Assemblymember, CA 79th District; Author of AB 1460 (Ethnic Studies Requirement); AB 3121 (Reparations); Former Professor and Chair, Department of Africana Studies, San Diego State University; and Dr. Cornel West, Professor of the Practice of Public Philosophy, Harvard Divinity School and the Department of African and African American Studies, Harvard University.
+Dr. Molefi Asante (File Photo)
+Dr. LaFrancis Rodgers (File Photo)
+Cornel West (File Photo)
+Dr. Shirley Weber
+Dr. Patricia Reid-Merritt
+Dr. Yaa Ashantewaa Ngidi
+The Nguzo Saba (The Seven Principles) were conceived and developed 55 years ago in 1965 by Dr. Maulana Karenga, professor and chair of the Department of Africana Studies, California State University, Long Beach,  executive director of the African American Cultural Center and chair of The Organization Us and the National Association of Kawaida Organizations. The Nguzo Saba in Swahili and English are Umoja (Unity), Kijichagulia (Self-determination), Ujima (Collective Work and Responsibility), Ujamaa (Cooperative Economics), Nia (Purpose), Kuumba (Creativity) and Imani (Faith).  These values are most widely known as the core values of the African American and pan-African holiday of Kwanzaa which is a celebration of family, community and culture.  
+Dr. Maulana Karenga (File Photo)
+Over the last fifty five years these Seven Principles have been increasingly embraced by African peoples in the United States, on the continent and throughout the global African community. An internet search using the Nguzo Saba or any of the principles brings up hundreds of thousands of entries ranging from scholarly articles and research projects, to names of organizations, institutions and individuals.
+The Nguzo Saba have demonstrated practical usefulness in such varied areas as educational curricula, rites of passage and other youth programs, family and male/female relations, spirituality and ethics, economic development, political organization, creative production, principles of organizing and, physical and psychological well-being, as well as African-centered value grounding by people in their daily lives.
+For more information please contact the African American Cultural Center at 323.299.6124 or visit www.AfricanAmericanCulturalCenter-LA.org
+		Categories: Education | International | National | News Tags: California State University | Imani | Kuumba | Kwanzaa | Long Beach | Maulana Karenga | Nia | San Diego State University | Swahili | The Nguzo Saba | The Seven Principles		
+						Senator Kamala Harris Makes History; First Black Woman to Participate in Vi...
+						Dodgers advance to 4th NLCS in 5 years with sweep of rival Padres
+						IN MEMORIAM: MLB Great Bob Gibson Dies at 84
+						Report: Black People Stopped, Arrested Three Times More Than Whites, Latino...
+						Air Quality Board Votes to Assist South Los Angeles with Pollution Issues
+						Chief Deputy Emada Tingirides Serves as the Bridge to a Better Relationship...
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

@@ -1,0 +1,137 @@
+	Aller au contenu
+		Afficher/cacher la barre latérale
+		Rechercher
+		Outils personnels
+		Non connectéDiscussionContributionsCréer un compteSe connecter
+		Navigation
+		AccueilPortails thématiquesArticle au hasardContact
+		Contribuer
+		Débuter sur WikipédiaAideCommunautéModifications récentesFaire un don
+		Outils
+		Pages liéesSuivi des pages liéesTéléverser un fichierPages spécialesLien permanentInformations sur la pageCiter cette pageÉlément Wikidata
+		Imprimer / exporter
+		Créer un livreTélécharger comme PDFVersion imprimable
+		Dans d’autres projets
+		Wikimedia Commons
+		Dans d’autres langues
+		CatalàDanskDeutschEnglishEspañolEestiفارسیBahasa Indonesia日本語Қазақшаភាសាខ្មែរ한국어NederlandsNorsk nynorskNorsk bokmålPolskiPortuguêsРусскийSvenskaTürkçeУкраїнська中文
+		Modifier les liens
+		Menu de navigation
+		Espaces de noms
+		ArticleDiscussion
+		Variantes
+		Affichages
+		LireModifierModifier le codeVoir l’historique
+		Plus
+	Radio numérique
+		Un article de Wikipédia, l'encyclopédie libre.
+		Cet article concernant la presse écrite ou les médias en général doit être recyclé (décembre 2016).
+Une réorganisation et une clarification du contenu paraissent nécessaires. Améliorez-le, discutez des points à améliorer ou précisez les sections à recycler en utilisant {{section à recycler}}.
+La radio numérique, c’est-à-dire la diffusion de programmes de radio sous forme numérique, suppose communément une radiodiffusion numérique hertzienne et terrestre ; en pratique la radio numérique couvre un spectre bien plus large puisque sa diffusion existe par satellite et par internet depuis la fin des années 1990.
+Sommaire
+1 Principe
+1.1 Avantages
+1.2 Inconvénients
+2 Déploiement
+2.1 Dans le monde
+2.2 En Europe
+2.3 En France
+3 Normes
+4 Équipement
+5 Notes et références
+6 Annexes
+6.1 Bibliographie
+6.2 Articles connexes
+6.3 Liens externes
+Principe[modifier | modifier le code]
+Contrairement à la radio analogique hertzienne (AM ou FM) où le son sous forme de signal électrique est transporté tel quel dans l'onde porteuse, la radio numérique envoie un son qui est d'abord numérisé puis compressé selon différentes techniques afin d'être transmis en optimisant la bande passante.
+Ce signal numérique peut être diffusé en temps réel (streaming) ou enregistré et laissé à disposition pendant un certain temps (podcasting).
+Il existe deux modes principaux de diffusion de la radio numérique :
+La radio numérique via Internet : Le signal est véhiculé par les réseaux Internet. Il peut être donc être reçu à partir de tout terminal connecté à Internet avec ou sans fil via différents types de lecteurs en fonction du format du « stream » (MP3, WMA, AAC, etc.) ;
+La radio numérique terrestre (RNT), petite sœur de la télévision TNT, garde le principe d'une fréquence allouée à la chaîne de radio, mais cette fréquence est unique à l'échelle nationale. Cette radio numérique terrestre nécessite, pour être captée, un équipement spécifique (poste radio numérique).
+Avantages[modifier | modifier le code]
+La qualité du son est améliorée en radiodiffusion numérique par rapport à la radiodiffusion analogique (rapport signal/bruit, bande passante, et diaphonie bien meilleures, absence d'interférences entre stations par rapport aux procédés de modulations analogiques AM ou FM) ;
+Un peu plus de radios : il est possible de diffuser plusieurs radios sur la même fréquence en compressant le signal. Cela est intéressant pour les radios commerciales qui cherchent à s'implanter dans les villes où la bande FM est saturée ;
+Possibilité de véhiculer de l'information associée (musique : titre et auteur du morceau, données complémentaires d'information par exemple les coordonnées GPS d'un accident dans un flash routier, etc.) ;
+Possibilité de diffuser le son en multicanal.
+Inconvénients[modifier | modifier le code]
+Risque d'absence de signal (décrochage) dans les zones à réception difficile (un exemple typique sont les pentes de la Croix rousse à Lyon). Avec le numérique soit le signal passe, soit il ne passe pas. En analogique, on pouvait écouter un signal dégradé. En numérique, ce ne sera pas le cas. Toutefois, un signal numérique est bien moins sensible aux interférences du fait de la correction d'erreurs ;
+Augmentation du nombre d'émetteurs et des dépenses associées : selon l'Union européenne de radio-télévision (UER) dans son document technique « Cost-benefit analysis of FM, DAB, DAB+ and broadband for radio broadcasters and listeners » de 2017[1], le nombre d'émetteurs DAB de la zone France-Allemagne-Italie-Espagne-Royaume-Uni passerait à 723 au lieu de 452 émetteurs FM (estimation en 2017) sur cette zone ; toutefois, ce document de l'EBU indique que la puissance totale des émetteurs DAB+ ne dépassera pas celle des émetteurs FM (selon leur modèle mathématique, au total 595 kW en DAB contre 535 kW en FM) ;
+Augmentation de la consommation énergétique à la réception : au contraire de la réception FM qui peut être réalisée par des composants électroniques sobres[2], la réception DAB nécessite un dispositif électronique et informatique de décodage dont la consommation électrique s'élève quasiment au double de la consommation d'un récepteur FM, selon l'analyse détaillée menée par Intertek[3], organisme d'inspection et de certification international. Cela sans considérer par exemple que la syntonisation d'un récepteur FM n'a pas besoin d'un afficheur numérique nécessitant de l'énergie électrique pour fonctionner, elle peut s'effectuer au moyen d'un simple potentiomètre gradué (pour davantage de précision, le recours à une aiguille et pignonnerie associée est fréquent). Cela représente donc un frein à l'écoute nomade de la DAB ;
+Avec le passage au numérique, les radios devront nécessairement passer par un nouveau prestataire technique appelé « multiplexeur », chargé de coordonner la diffusion de neuf programmes sur une même fréquence. Ce multiplexage signe donc la fin de l’autodiffusion, une condition de l'indépendance totale qui avait permis les radios libres ;
+Au niveau de l'entité qui a un message à diffuser, le coût (transition vers le Terrestrial Digital Multimedia Broadcasting en France par exemple) et l'environnement technique changent (notamment la double diffusion analogique/numérique avant le « switch off », le basculement définitif en numérique)[4].
+Déploiement[modifier | modifier le code]
+Dans le monde[modifier | modifier le code]
+Déjà lancée aux États-Unis, en Asie, dans des pays européens comme l'Allemagne ou le Royaume-Uni et en Afrique notamment en Tunisie et en Algérie[5], la radio numérique pourrait connaître un développement comparable à celui de la TNT pour la télévision. Le 27 octobre 2017, le rapport du WorldDAB indique que 60 millions de récepteurs RNT ont été vendus en Europe et Asie-Pacifique, contre 48 un an auparavant[6].
+En Europe[modifier | modifier le code]
+En février 2016, la vente de récepteurs radio numériques a progressé de 26 % sur un an[7].
+La Norvège est le premier pays à complètement supprimer la radio FM pour la remplacer par la Radio Numérique Terrestre[8]. Cette extinction se fait progressivement depuis le début de l'année 2017, la RNT s'installant ainsi tout au long de l'année, non sans quelques difficultés[9]. Celle-ci est disponible depuis 1995 et sept Norvégiens sur dix sont équipés actuellement[Quand ?] d'une radio numérique.
+L'expansion de la radio numérique en Europe a cru de 8 % entre 2019 et 2020 pour atteindre 1 697 stations au sein de l'UER, dont 80 % en DAB+[10]. 
+La Suisse prévoit, d'ici 2020 à 2024, le remplacement de la FM par la radio numérique, pendant que le Royaume-Uni et le Danemark y réfléchissent[8],[11].
+Le Portugal et la Finlande ont abandonné le DAB. Les radios finlandaises démandent au gouvernement que la FM soit obligatoire dans les voitures vendues en Finlande.
+Le 14 novembre 2018, la Commission européenne a imposé la radio numérique dans les autoradios vendus dans l'Union à partir de 2020[12],[11].
+En France[modifier | modifier le code]
+Article détaillé : Développement de la radio numérique terrestre en France.
+Normes[modifier | modifier le code]
+Il existe plusieurs procédés de diffusion de radio numérique. Certains sont le fruit de travail de collaboration entre fabricants, centres de recherches et diffuseurs et sont ouverts, ceux-ci sont généralement standardisés par des organismes de standardisation comme l'union internationale des télécommunications (UIT) ou l'ETSI. D'autres sont développés par des entreprises et sont donc propriétaires. On distingue également des différences entre pays et continents. 
+Quelques standards ouverts :
+DAB (Digital Audio Broadcasting). Standard européen pour la radiodiffusion dans les ondes ultra-courtes (VHF, UHF) et micro-ondes (SHF). Elle a donné naissance à des variantes, comme le DAB+ ou le T-DMB (Terrestrial Digital Multimedia Broadcasting).
+DRM (Digital Radio Mondiale). Standard mondial pour la diffusion numérique en ondes courtes, moyennes et longues (&lt;30 MHz).
+DVB (Digital Video Broadcasting). Standard destiné à l'origine pour la télévision mais qui inclut la diffusion radio. Il se décline en plusieurs versions destinées, à la diffusion par satellite : DVB-S, à la diffusion terrestre hertzienne vers les téléviseurs : DVB-T, à la diffusion terrestre vers les mobiles : DVB-H et à la diffusion sur le câble : DVB-C.
+SDR : standard pour la radio diffusion par satellite, normalisé pour l'Europe par l'ETSI depuis novembre 2006
+Quelques standards propriétaires ou partiellement ouverts :
+HD Radio, un système américain de type in-band on-channel, rétro-compatible avec les émissions actuelles en bande FM.
+Systèmes propriétaires de diffusion par satellite :
+XM Satellite Radio, diffusé par satellite et réseau terrestre en Amérique du Nord.
+Sirius Satellite Radio, également.
+Quelques systèmes abandonnés ou en voie de disparition :
+ADR, Astra Digital Radio, système de diffusion par satellite.
+DSR, Digital Super Radio, système de diffusion par câble et satellite. Le son n'est pas compressé et donc la bande passante occupée sur le canal de transmission est grande.
+Worldspace, diffusé par satellite sur chaque continent.
+Équipement[modifier | modifier le code]
+La radio numérique peut être captée en voiture, sur un terminal de poche ou à la maison avec un récepteur radio compatible. Reste que l'auditeur doit impérativement acquérir un poste compatible avec la norme de diffusion adoptée par les stations de son pays.
+Outre l’écoute via ordinateur, de nombreux récepteurs Wi-Fi, dont des radios Wi-Fi domestiques, permettent aujourd’hui l’écoute de radios en ligne. 
+De plus, des récepteurs 3G pour la voiture font également leur apparition et il est dorénavant devenu aisé d’écouter la radio en ligne sur les smartphones.
+Pour harmoniser l'offre dans ce domaine, des organismes s'efforcent d'encourager les industriels à développer des récepteurs en commun. Par exemple, le consortium WorldDAB, qui regroupe les intérêts du DAB, a passé en 2003 un accord avec le consortium DRM pour le développement dans le futur de récepteurs DAB/DRM.
+Un autre espoir de convergence réside dans l'évolution de la radio logicielle (software radio). L'Association pour la Radio Numérique DR, aux côtés du Syndicat national des radios libres[13], milite pour la radio numérique multistandard, dont les premiers récepteurs (compatibles DRM/DAB/AM/FM/MP3) sont actuellement[Quand ?] en test.
+Un label commun a été créé pour la promotion de la radio numérique en France et en Belgique/Luxembourg.
+La diffusion par les relais réseaux de téléphonie mobile 3G et 4G forment une variante à la RNT classique. En écoutant une web radio par son smartphone, sans fil, c'est bien de la radio numérique terrestre. De plus la mémoire tampon (buffer) utilisée peut limiter les perturbations d'écoute (c'est un mode connecté). Une série d'applications permet l'écoute facile : tune in, radio.fr…
+Notes et références[modifier | modifier le code]
+↑ (en) Marcello Lombardo, « Cost-benefit analysis of FM, DAB, DAB+ and broadband for radio broadcasters and listeners » [PDF], Union européenne de radio-télévision (UER), juillet 2017, p. 12.
+↑ Andreia Nitescu-Henry, Conception et réalisation d'un récepteur FM complètement intégré sur silicium (Thèse de doctorat en électronique), Université des Sciences et Technologies de Lille, 9 mars 1998 (lire en ligne [PDF]).
+↑ (en) « Research Study of Energy Consumption of Digital Radios Upgrade : Phase 1 » [PDF], Intertek, p. 5.
+↑ « La radio numérique », RadioScope, 2009.
+↑ « TDA de Tamentfoust : Lancement de sa première station expérimentale de la radio numérique terrestre », sur www.elwatan.com, 14 février 2018 (consulté le 14 février 2018).
+↑ « Les ventes de récepteurs RNT approchent 60 millions d'unités », sur www.lalettre.pro, 27 octobre 2017 (consulté le 27 octobre 2017).
+↑ « Ventes de récepteurs numériques en hausse », sur www.lalettre.pro, 11 février 2016 (consulté le 12 février 2016).
+↑ a et b Brulhatour, « RNT : la Norvège entre dans l'Histoire », La Lettre Pro de la Radio &amp; des Médias - La Puissance du Média Radio,‎ 2017 (lire en ligne, consulté le 9 janvier 2017).
+↑ « La Norvège éteint sa bande FM pour la RNT, non pas sans difficultés », sur www.techni2radio.fr, 22 janvier 2017 (consulté le 23 janvier 2017).
+↑ Brulhatour, « Le poids de la radio numérique en Europe », sur www.lalettre.pro, 18 février 2020 (consulté le 19 février 2020).
+↑ a et b « La nouvelle Directive Européenne pour la radio numérique célébrée au Salon de l’Auto de Bruxelles », sur DAB+ BE, 18 janvier 2019 (consulté le 2 mai 2019).
+↑ « La Commission européenne impose la radio numérique dans les autoradios », sur www.lalettre.pro, 16 novembre 2018 (consulté le 20 novembre 2018).
+↑ www.snrl.org : Site officiel du Syndicat National des Radios Libres.
+Annexes[modifier | modifier le code]
+Bibliographie[modifier | modifier le code]
+Romain Bordier, Aloïs Kirchner et Jonathan Nussbaumer, Radio numérique : qui nous réveillera dans 10 ans ? : Enquête chez les guerriers de la part d'audience (Mémoire de fin d'étude dirigé par Serge Catoire), Annales des Mines, 2012 (lire en ligne [PDF]).
+Jean-Jacques Cheval, Les radios en France : Histoire, état et enjeux, Rennes, Apogée, coll. « Médias et nouvelles technologies », 1997, 248 p. (lire en ligne).
+Clément Gariel, La Radio sur Internet : Quel impact du visuel ? (Mémoire de fin d'étude - Section son), ENS Louis-Lumière, 2012 (lire en ligne [PDF]).
+Articles connexes[modifier | modifier le code]
+Digital Radio Mondiale
+Digital Audio Broadcasting
+Développement de la radio numérique terrestre en France
+Liens externes[modifier | modifier le code]
+« Évolution des modes de diffusion de la radio : quel rôle pour la radio numérique terrestre ? », CSA, 21 janvier 2015.
+ Portail de la radio   Portail des télécommunications                    
+Ce document provient de « https://fr.wikipedia.org/w/index.php?title=Radio_numérique&amp;oldid=175457192 ».
+		Catégories : RadiodiffusionVocabulaire radio propre à la techniqueCatégories cachées : Article à recycler/Liste complèteArticle à recycler/médiaPortail:Radio/Articles liésPortail:Médias/Articles liésPortail:Télécommunications/Articles liésPortail:Technologies/Articles liés
+		 La dernière modification de cette page a été faite le 10 octobre 2020 à 18:43.
+		Droit d'auteur : les textes sont disponibles sous licence Creative Commons attribution, partage dans les mêmes conditions ; d’autres conditions peuvent s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que les crédits graphiques. En cas de réutilisation des textes de cette page, voyez comment citer les auteurs et mentionner la licence.
+Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.
+		Politique de confidentialité
+		À propos de Wikipédia
+		Avertissements
+		Contact
+		Version mobile
+		Développeurs
+		Statistiques
+		Déclaration sur les témoins (cookies)

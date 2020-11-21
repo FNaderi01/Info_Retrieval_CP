@@ -1,0 +1,231 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Freedom’s Journal
+							‘Mightier Than the Sword –The History of the Black Press’
+					October 1, 2020From the Freedom’s Journal to the Chicago Defender, and of course, the Los Angeles Sentinel, Black publications and journalists have been on the frontlines fighting for social justice, equality, and basic human rights for Black communities. With the recent killings of Breonna Taylor and George Floyd, Black America is reminded of the power the Black press holds. The rage, the protests, the tears, and the chants screaming, “Black Lives Matter,” inspire Black newspapers and digital media outlets to keep advocating for change. ... read more  »
+							OP-ED: Black Americans and COVID-19 Clinical Trials
+					September 10, 2020Black Americans have to be involved at all levels of responding to the COVID-19 pandemic. We cannot afford to be silent, detached, denied, or prevented from being at the decision-making tables in terms of COVID-19 public health policies, research, clinical trials, remedies, and vaccine development. Our lives and future are at stake. ... read more  »
+							Black Press of America Celebrates 193 Years of Freedom-Fighting Journalism
+					March 19, 2020 “As we deal with some of the most challenging times in modern history, it is important that we understand the significance of the Black Press in reporting on and recording our history,” said National Newspaper Publishers Association (NNPA) Chair, and publisher of the Houston Forward Times, Karen Carter Richards. The NNPA is the national trade association representing America’s Black Press. ... read more  »
+        ADVERTISEMENT        
+							Dynamex Law Will Gut Black Newspapers in California
+					September 12, 2019This is a direct appeal to Governor Newsom, Assemblymember Lorena Gonzalez and our entire state legislature. I’m writing this on behalf of the more than 20 African American-owned newspapers that operate in cities and towns across California. ... read more  »
+							Dynamex Law Will Gut Black Newspapers in California
+					September 8, 2019 
+This is a direct appeal to Governor Gavin Newsom, Assemblymember Lorena Gonzalez and our entire state legislature. I’m writing this on behalf of the more than 20 African American-owned newspapers that operate in cities and towns across California. ... read more  »
+							Chicago Defender Newspaper Moves to Digital Only with its July 11 Edition
+					July 11, 2019After 114 years of using ink on paper to deliver news that informs, educates and empowers the African American community throughout the Windy City, Real Times Media, parent company of the Chicago Defender, has announced that the Chicago Defender will move to a digital-only format with its July 11 edition. The final printed edition will be delivered Wednesday, July 10. ... read more  »
+							Marcus Garvey, Frances Murphy Enshrined into Black Press Gallery of Distinguished Publishers
+					March 28, 2019Nationalist, Pan-Africanism movement leader and Negro World newspaper founder Marcus Mosiah Garvey and Washington AFRO-AMERICAN publisher emeritus Francis L. Murphy II, were enshrined into the National Newspaper Publishers Association (NNPA) Gallery of Distinguished Publishers during Black Press Week in Washington, D.C. ... read more  »
+							Black History Month: Two Centuries of Black History and the Black Press 
+					February 21, 2019“The Black Press is an aspect of the fabric of the Black existence in America that is not getting enough attention or support from the community,” Kisha A. Brown, the founder and CEO of Justis Connection, told NNPA Newswire.   ... read more  »
+							NNPA celebrates a successful year at Mid-Winter Training Conference 
+					February 7, 2019The Black Press remains resilient and powerful with NNPA members providing excellent reporting from a Black perspective for more than 75 years while celebrating 192 years of the Black Press in America.  ... read more  »
+							Still Pleading Our Own Cause: The Black Press Celebrates 190 Years
+					March 22, 2017It's vital that the Black Press continue to focus on telling the stories that are relevant to the Black community and recording Black history ... read more  »
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->

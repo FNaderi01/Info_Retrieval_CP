@@ -1,0 +1,246 @@
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+                  success
+          fail
+		  Feb
+		  APR
+		  Sep
+		  27
+		  2009
+		  2011
+		  2012
+	      	      26 captures
+	      29 Jan 2005 - 04 Oct 2016
+       About this capture
+    COLLECTED BY
+		Organization: Internet Archive
+	  The Internet Archive discovers and captures web pages through many different web crawls.
+At any given time several distinct crawls are running, some for months, and some every day or longer.
+View the web archive through the Wayback Machine.
+		Collection: Wide Crawl started March 2011
+	  Web wide crawl with initial seedlist and crawler configuration from March 2011.  This uses the new HQ software for distributed crawling by Kenji Nagahashi.
+What’s in the data set:
+Crawl start date: 09 March, 2011
+Crawl end date: 23 December, 2011
+Number of captures: 2,713,676,341
+Number of unique URLs: 2,273,840,159
+Number of hosts: 29,032,069
+The seed list for this crawl was a list of Alexa’s top 1 million web sites, retrieved close to the crawl start date.  We used Heritrix (3.1.1-SNAPSHOT) crawler software and respected robots.txt directives.  The scope of the crawl was not limited except for a few manually excluded sites.  
+However this was a somewhat experimental crawl for us, as we were using newly minted software to feed URLs to the crawlers, and we know there were some operational issues with it.  For example, in many cases we may not have crawled all of the embedded and linked objects in a page since the URLs for these resources were added into queues that quickly grew bigger than the intended size of the crawl (and therefore we never got to them).  We also included repeated crawls of some Argentinian government sites, so looking at results by country will be somewhat skewed.  
+We have made many changes to how we do these wide crawls since this particular example, but we wanted to make the data available “warts and all” for people to experiment with.  We have also done some further analysis of the content.
+If you would like access to this set of crawl data, please contact us at info at archive dot org and let us know who you are and what you’re hoping to do with it.  We may not be able to say “yes” to all requests, since we’re just figuring out whether this is a good idea, but everyone will be considered.
+    TIMESTAMPS
+ Otra Salida
+Encontrá la salida ideal
+       Home
+	Cine
+	Deportes
+	Expo
+	Familia y chicos
+	Recitales
+	Teatro
+Casi Angeles en el Gran Rex 2010
+15
+jul
+2010
+Author: -->
+En: Familia y chicos
+Los protagonistas del éxito televisivo ¨Casi Ángeles¨, se trasladan una vez más a los escenarios del Teatro Gran Rex para presentar el nuevo show musical de la cuarta temporada.
+ 19 Críticas
+  Tags: Casi Angeles 
+¡Agregá esta noticia a tu acebook!
+-->
+El nuevo show de Topa
+15
+jul
+2010
+Author: -->
+En: Familia y chicos
+El nuevo show de Topa llega a La Rural. Enterate cuándo y el valor de las entradas.
+ 1 Crítica
+  Tags: Topa 
+¡Agregá esta noticia a tu acebook!
+-->
+La bella y la bestia: el musical de Broadway
+29
+abr
+2010
+Author: -->
+En: Familia y chicos, Teatro
+Una súper producción teatral basada en la clásica historia y la adaptación de la película de Disney que cuenta con más de cuarenta artistas en escena, una gran orquesta en vivo y una increíble puesta en escena con un diseño cargado de imaginación y deslumbrantes efectos especiales.
+ 3 Críticas
+  Tags: La bella y la bestia: el musical 
+¡Agregá esta noticia a tu acebook!
+-->
+Contrapunto: Pepe Soriano y Leonardo Sbaraglia
+9
+feb
+2010
+Author: -->
+En: Teatro
+“La humillación es el camino más corto al corazón de un hombre”. Una obra plena de suspenso, ironía, sonrisas y emoción, con la mano maestra en la dirección de Agustín Alezzo.
+ 3 Críticas
+  Tags: Contrapunto 
+¡Agregá esta noticia a tu acebook!
+-->
+Valientes llega al teatro en Mar del Plata
+9
+feb
+2010
+Author: -->
+En: Teatro
+El mayor éxito de la pantalla chica del pasado año llega al teatro.
+ Sin Críticas
+  Tags: Valientes 
+¡Agregá esta noticia a tu acebook!
+-->
+ART
+2
+feb
+2010
+Author: -->
+En: Teatro
+La vuelta a los escenarios porteños de uno de los más grandes éxitos del teatro en nuestro país de los últimos años con Ricardo Darín, Germán Palacios y José Luis Mazza.
+ 1 Crítica
+  Tags: art 
+¡Agregá esta noticia a tu acebook!
+-->
+Agosto: Condado Osage de Tracy Letts
+11
+ene
+2010
+Author: -->
+En: Teatro
+Con NORMA ALEANDRO, MERCEDES MORÁN, ANDREA PIETRA, LUCRECIA CAPELLO y gran elenco. Dirección: CLAUDIO TOLCACHIR.
+ 17 Críticas
+  Tags: Agosto 
+¡Agregá esta noticia a tu acebook!
+-->
+Disney Live! La magia de Mickey
+5
+oct
+2009
+Author: -->
+En: Familia y chicos
+¡Abracadabra! Disney Live! presenta “La Magia de Mickey”. Mickey, Minnie y sus amigos se unen a dos ilusionistas de primerísimo nivel para recrear la magia de los legendarios films de Disney ¡en vivo!
+ 5 Críticas
+  Tags: Disney Live 
+¡Agregá esta noticia a tu acebook!
+-->
+Más respeto que soy tu madre, con Antonio Gasalla
+3
+jul
+2009
+Author: -->
+En: Teatro
+Antonio Gasalla en el papel de Mirta Bertotti, una mujer de 52 años que vive en la ciudad de Mercedes, provincia de Buenos Aires, cuya familia y sistema de vida se ve amenazado por la crisis económica del 2001. Junto a un marido desocupado, tres hijos adolescentes, un suegro y una incipiente menopausia, Mirta deberá sortear distintas situaciones de la vida cotidiana con humor y proeza. Esta singular mujer habla sobre su vida, repasa su temor a la vejez y al tedio matrimonial.
+ 11 Críticas
+  Tags: Antonio Gasalla 
+¡Agregá esta noticia a tu acebook!
+-->
+LLEGA PUCCA AL TEATRO EL NACIONAL
+2
+jul
+2009
+Author: -->
+En: Familia y chicos
+Estos dulces personajes van a estar llegando en julio y se estarán presentando en el Teatro El Nacional, donde tienen programadas 45 funciones.
+ 21 Críticas
+  Tags: Pucca 
+¡Agregá esta noticia a tu acebook!
+-->
+ Páginas (10): 1 2  3  4 » ... Ultima » 
+  Salidas (RSS)
+  Comentarios (RSS)
+		Video Destacado			El Hombre Araña - Acción y aventura
+VER INFO DEL SHOW
+		Nube de Temas100% Lucha
+alegria
+alfredo casero
+Andrés Calamaro
+Backyardigans
+barbie
+Batman
+Casi Angeles
+Catupecu Machu
+cirque du soleil
+compañia fanstasma
+Copa Davis
+Dave Mathews Band
+da vinci
+el mamut
+Fernando Peña
+Hellboy 2
+Indiana Jones
+james bond
+Joe Satriani
+jorge rodriguez
+Kevin Johansen
+Ki-Many Marley
+lfc
+Los Auténticos Decadentes
+Los Cafres
+Los Cazurros
+los fabulosos cadillacs
+luca prodan
+massacre
+Mayumana
+Midachi
+muse
+pepsi music
+pronto volveran los buenos tiempos
+Quantum of Solace
+soloist
+Sueño de una noche de verano
+super agente 86
+Terminator 4
+The Cult
+The dark Knight
+The Hives
+The Pillowman
+yo te avise
+Comentarios RecientesSilvia en ARTrafaela en Barbie en Argentina: las aventuras de la princesaceleste tolosa en Casi Angeles en el Gran Rex 2009anna en Casi Angeles en el Gran Rex 2010alan torres en 100% Lucha: La revanchaariel yolan en 100% Lucha: La revanchajimena en Casi Angeles en el Gran Rex 2010nerea y lourdes en Casi Angeles en el Gran Rex 2010nerea y lourdes en Casi Angeles en el Gran Rex 2010romina en Casi Angeles en el Gran Rex 2010beatriz en Casi Angeles en el Gran Rex 2010melisa en LLEGA PUCCA AL TEATRO EL NACIONALxochilt en LLEGA PUCCA AL TEATRO EL NACIONALAnónimo en LLEGA PUCCA AL TEATRO EL NACIONALmili en Alimentación de tiburones en Temaikén No Mas CDsStone Temple Pilots nuevamente en ArgentinaLas Consecuencias Tour incluirá sólo 5 ciudades de EspañaDave Matthews Band nuevamente en ArgentinaEcho &amp; The Bunnymen en PalermoLa hermana torcida va al teatro: Twisted Sister en Argentina(CANCELADO)The Music: de Leeds a ColegialesJeff Beck va a tocar un domingo, en el Luna.Los Pixies en Argentina, Uruguay y BrasilIncubus en ArgentinaLa despedida de Scorpions del mundo. Ah, del mundo de la música. Cine con McFlyMETEGOL, EL CREADOR DE “MI VILLANO FAVORITO” SE SUMA A LA NUEVA PELICULA DE CAMPANELLAYouTube se alía con Warner, Universal y Sony para el alquiler de películasBrad Pitt se va a la guerra con los zombies en "World War Z""Matrimonio" para Cecilia Roth y Darío GrandinettiJeremy Renner se convierte en estrella de "Bourne" e inicia "The Avengers"El Cine Argentino tuvo Cuatro Títulos en el Top TenLos Pájaros de “Rio” son Millonarios25 de abril: Avant Premiere La Oscuridad a beneficio de la Fundación "Un Milagro para Agustín"Taquilla del Jueves: Cuatro Argentinas en el Top TenEstrenos de la semana 21/4/11				Lo más reciente		
+				Casi Angeles en el Gran Rex 2010
+				El nuevo show de Topa
+				La bella y la bestia: el musical de Broadway
+				Contrapunto: Pepe Soriano y Leonardo Sbaraglia
+				Valientes llega al teatro en Mar del Plata
+				ART
+				Agosto: Condado Osage de Tracy Letts
+				Disney Live! La magia de Mickey
+				Más respeto que soy tu madre, con Antonio Gasalla
+				LLEGA PUCCA AL TEATRO EL NACIONAL
+Categorías
+  	Cine (19)
+	Deportes (1)
+	Expo (3)
+	Familia y chicos (24)
+	Recitales (20)
+	Teatro (35)
+Salidas Anteriores
+  	julio 2010
+	abril 2010
+	febrero 2010
+	enero 2010
+	octubre 2009
+	julio 2009
+	junio 2009
+	mayo 2009
+	marzo 2009
+	febrero 2009
+	enero 2009
+	octubre 2008
+	septiembre 2008
+	agosto 2008
+	julio 2008
+	junio 2008
+Otras Salidas
+ Living de Danixa Pum
+Ahora Cine
+No Mas CDs
+Cine con McFly
+Copyright © 2007 - Otra Salida - is proudly powered by WordPress - Desarrollos adicionales Fuxion
+Dilectio Theme is created by: Design Disease brought to you by Smashingmagazine.com 

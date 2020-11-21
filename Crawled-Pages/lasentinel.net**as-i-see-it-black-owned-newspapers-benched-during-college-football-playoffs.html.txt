@@ -1,0 +1,311 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+As I See It: Black-owned Newspapers Benched During College Football Playoffs            
+				By G. Napier Barnes III, Special to the NNPA News Wire from the Arizona Informant                
+	                	                Published January 13, 2016
+The more things change, the more they remain the same. As a little boy growing up in the segregated South, it had never dawned on me that someday schools like the University of Georgia, the University of Alabama, Ole Miss or Louisiana State University would ever have people of color representing their storied athletic programs, let alone attending the school. At the time, all of the college educated people that I knew attended schools like Howard University, Virginia Union University, Shaw University, or Hampton Institute now known as historically Black colleges and universities (HBCUs). In 1966 I was still in grade school and couldn’t understand all the commotion when Virginia Intercollegiate Association (VIA) superstar Leroy Keys decided to attend Purdue University on a football scholarship. The VIA managed athletic events (including championships) for the states’ colored high schools during those times of separate, but unequal opportunities. The Virginia High School League (VHSL) had the same responsibilities for the White high school players of the state. The two never mixed as it seem to me that it was almost against the law to compete athletically with my White counter parts.
+Keys may not have been the first African-American from Virginia to leave the South to play football, but to us, he was a folk hero doing something that we could only dream about. We followed his career with the Boilermakers by reading the Richmond Afro-American. The mainstream newspapers didn’t seem that interested in covering his exploits on or off the field. He did reach All-American status and was considered for the Heisman. Fast forward a few years, more African-Americans began going to mainstream schools, especially after the Trojans of the University of Southern California thoroughly stomped the Crimson Tide of the University of Alabama in September of 1970. U.S.C. was an integrated team (something common in the North and West) and its historic game with Alabama was the first time that an integrated team had played in the segregated Deep South. Trojan Sam Cunningham ran amuck, causing Alabama’s Legendary Coach Bear Bryant to open up the possibility of bringing Black players into that program. I read about the game and its consequences, again in the Black Press. The Black Press has been instrumental in covering events that have been important to our community and it also has the unique ability to give our special perspective on events.
+        ADVERTISEMENT        
+When the College Football Playoff (CFP) system came into play last season the powers that be passed a series of requirements that has basically kept minority-owned news agencies from covering their events first hand. Using our Arizona Informant as an example, in order to get media credentials to cover this year’s Fiesta Bowl, the Informant, as a weekly publication, must have a circulation of at least 500,000 readers. If the Informant could not make that requirement they could receive credentials if a “full-time staff member” has covered all of the participating institution’s regular season games. It didn’t matter that the Informant had covered every Fiesta Bowl since its inception in the early 1970’s. It didn’t matter that there was no way, as a local news agency, that we could have covered every game of Ohio State or Norte Dame, the participants in this years’ bowl. It didn’t even matter that the Informant is a member of the National Newspaper Publishing Association (NNPA) a network of over 200 Black owned and operated newspapers that reach millions of readers weekly.
+Barnes says that the people who wrote the regulations for the CFP media credentials knew that they would be eliminating a certain segment of our society. This photo was taken during the 2009 Fiesta Bowl in Phoenix, Ariz. (Enoch Lai/Creative Commons)
+In contrast the primary local news agency, in this case The Republic, could be granted eight credentials based on their daily circulation alone, plus an additional two seats to reporters on the “non-sport” side of their organization.
+The same regulations apply to Monday’s national championship game on January 11 between Alabama and Clemson. There are three African-American newspapers in South Carolina, the home of the Clemson University Tigers. I would suspect that neither the Charleston Chronicle, the Community Times, nor the South Carolina Black News have circulations in excess of 500,000. Maybe not even combined. The same could be said of the four Black-owned news agencies in Alabama. The Birmingham Times, The Greene County Democrat, the Mobile Beacon Citizen, and Speakin’ Out News more than likely do not meet the 500,000 circulation criteria. With the news business being what it is, especially with the smaller organizations, it is also almost impossible to have a “full-time staff” assigned to a school to cover all of its athletic events. I would expect that none of these papers have in their budgets money in case a team makes it to the national championship game.
+I am positive that the people who wrote these regulations knew that they would be eliminating a certain segment of our society. And then again the people who forced Leroy Keys out of the state knew what they were doing also.
+		Categories: Op-Ed | Opinion Tags: African American | Black Press | HBCUS | Leroy Keys | NNPA		
+						“Doing It” While Black – Preventing HIV/AIDS in the African American ...
+						American’s Blind Eye
+						EDUCATION POLICY MUST TARGET STANDARD ENGLISH LEARNERS
+						Frances Cress Welsing, Isis Ascendant:  Teaching Self-Respect, Reasoning an...
+						The State of the Union Address: Class Act, Crass Responses
+						Compton Unified Students To Receive Expanded Counseling Services
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

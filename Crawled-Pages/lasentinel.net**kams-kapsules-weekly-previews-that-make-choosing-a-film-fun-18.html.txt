@@ -1,0 +1,317 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Kam’s Kapsules: Weekly Previews That Make Choosing a Film Fun            
+				By Kam Williams                
+	                	                Published December 20, 2018
+		(IMDB.com)
+WIDE RELEASES
+Aquaman (PG-13 for action, violence and some profanity) Jason Momoa stars as the legendary DC character in this origins tale which finds the reluctant superhero forced to face his destiny as king of Atlantis in order to defend the underwater kingdom and the rest of the planet from his power-hungry half-brother (Patrick Wilsson). With Amber Heard, Willem Dafoe, Dolph Lundgren, Djimon Hounsou and Nicole Kidman.
+        ADVERTISEMENT        
+Ben Is Back (R for drug use and pervasive profanity) Lucas Hedges plays the title character in this coming-of-age drama about a troubled teen who arrives home unexpectedly on Christmas Eve after running away from a drug treatment center. With Julia Roberts, Courtney B. Vance and Kathryn Newton.
+Bumblebee (PG-13 for action and violence) Spinoff of the Transformers franchise revolving around the adventures of a young autobot (Dylan O’Brien) resuscitated by an 18 year-old (The Favourite) after being found battle-scarred and broken in a junkyard along the California coast. Cast includes John Cena, Angela Bassett, Len Cariou and Justin Theroux.
+The Favourite (R for profanity, nudity and graphic sexuality) Olivia Colman portrays Queen Anne (1665-1714) in this biopic revolving around the bitter battle between the Duchess of Marlborough (Rachel Weisz) and a servant (Emma Stone) for the frail monarch’s friendship and affections. With Emma Delves, Faye Daveney and Paul Swaine.
+Mary Poppins Returns (PG for mature themes and brief action) Emily Blunt assumes the title role in this musical sequel which finds the magical nanny reunited with the now-grown Michael (Ben Whishaw) and Jane Banks (Emily Mortimer) in the wake of a family tragedy. With Lin-Manuel Miranda, Colin Firth and Meryl Streep.
+Second Act (PG-13 for profanity and crude sexual references) Fish-out-of-water comedy about a 40 year-old sales clerk (Jennifer Lopez) who lands a dream job she isn’t qualified for with help of a doctored resume. Cast includes Milo Ventimiglia, Vanessa Hudgens and Charlyne Yi.
+Welcome to Marwen (PG-13 for violence, profanity, mature themes, disturbing images and suggestive content) Fact-based drama about a transvestite (Steve Carell) left with amnesia after a violent, bias attack who tries to recover his memory by building a miniature World War II village in his back yard. Support cast includes Janelle Monae, Leslie Mann, Diane Kruger and Eiza Gonzalez. (In English, French and German with subtitles)
+INDEPENDENT &amp; FOREIGN FILMS
+Cold War (R for sexuality, nudity and profanity) Romance drama, set behind the Iron Curtain in the 1950s, chronicling the unlikely relationship of a celebrated musical director (Tomasz Kot) and an aspiring, young singer (Joanna Kulig) from a humble background. With Borys Szyc, Agata Kulesza and Cedric Kahn. (In Polish, French, Russian, German, Italian and Croatian)
+Swing Kids (Unrated) Musical drama, set at an American POW camp during the Korean War, revolving around a rebellious prisoner (Oh Jung-Se) who forms a tap dancing team with the help of a guard (Jared Grimes) who once worked on Broadway. Cast includes Ross Kettle, Hye-soo Park and Matthew Darcy. (In Korean with subtitles)
+They Shall Not Grow Old (R for graphic images) World War I documentary, directed by Peter Jackson, featuring unseen footage and commemorating the centennial of the conflict.
+		Categories: Entertainment | Movies Tags: Agata Kulesza | Amber Heard | Angela Bassett | Aquaman | Atlantis | Ben Is Back | Ben Whishaw | Borys Szyc | Broadway | Bumblebee | California | Cedric Kahn | Charlyne Yi | Christmas eve | Cold War | Colin Firth | Courtney B. Vance | Diane Kruger | Djimon Hounsou | Dolph Lundgren | Duchess of Marlborough | Dylan O'Brien | Eiza Gonzalez | Emily Blunt | Emily Mortimer | Emma Delves | Emma Stone | Faye Daveney | Hailee Steinfeld | Hye-soo Park | Iron Curtain | Janelle Monae | Jared Grimes | Jason Momoa | jennifer lopez | Joanna Kulig | John Cena | Julia Roberts | Justin Theroux | Kathryn Newton | Korean War | Len Cariou | Leslie Mann | Lin-Manuel Miranda | Lucas Hedges | Mary Poppins Returns | Matthew Darcy | Meryl Streep | Milo Ventimiglia | Nicole Kidman | Oh Jung-Se | Olivia Colman | Patrick Wilsson | Paul Swaine | Peter Jackson | Queen Anne | Rachel Weisz | Ross Kettle | Second Act | Steve Carell | Swing Kids | The Favourite | They Shall Not Grow Old | Tomasz Kot | Vanessa Hudgens | Welcome to Marwen | Willem Dafoe | World War I		
+						WATCH: Jordan Peele Trailer for “US”, his Next Provocative, Soc...
+						Ailey Troupe Marks 60 Years by Looking Back at its Founder
+						Top Local Stories of 2018
+						Blacktrospective 2018
+						BEST FILMS OF 2018
+						LeBron James Named Associated Press Male Athlete of 2018  
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

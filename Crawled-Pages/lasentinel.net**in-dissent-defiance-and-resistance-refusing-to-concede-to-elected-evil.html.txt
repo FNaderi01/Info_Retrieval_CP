@@ -1,0 +1,315 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+In Dissent, Defiance and Resistance: Refusing to Concede to Elected Evil            
+				By Dr. Maulana Karenga                
+	                	                Published November 16, 2016
+		Dr. Maulana Karenga
+Even if it is elected, anointed and propped up on a presidential pedestal, evil is not acceptable, wrong is not made right, and mendacity, meanness and injustice cannot be normalized in any system of morality worthy of its name. We cannot in good faith confuse political approval of who or what is currently popular with enduring moral good for all. Nor can we sanction a social and political process which calls for, cultivates or provokes hatred, hostility and aggression against people because of their difference, vulnerability and variedness. And we cannot go along with the tyranny of a majority in numbers or in electoral votes and turn a deaf ear to truth or a blind eye to injustice because of official or unofficial calls for compliance, calm or giving election-sanctioned evil a chance to prove itself.
+Thus, we must dissent against such a governmental process and social practice, dare to defy the odds and wage righteous and relentless resistance against all forms of evil, injustice and oppression, regardless. And we must do this in spite of official and unofficial appeals to a “patriotism” and parallel deceptive and sedative “morality” that calls for our forgetfulness and forgiveness for injury, injustice and oppression, even before they are ended, corrected or even seriously considered. Indeed, we must not agree to our self-effacement and the sacrifice of our rights and lives. In a word, we cannot and will not concede, cooperate and collaborate in our own oppression.
+There is so much misinformation and mystification that surround the election of Donald Trump and of course, the first and foremost problem is the inability and/or unwillingness to understand and engage Trump as the monster side of America. It is difficult to admit that it is a side that appeals to a large and decisive number of White Americans who embrace his psychology and agenda of domination, deprivation and degradation of vulnerable others. It is not just rural and rustbelt people, angry and anxious about real and imagined issues, but also suburban and college-educated, women as well as men, religious claiming and non-believers that see in Trump a “savior” and sanction of their interests and ideas. And lurking in more places than they would like to admit or acknowledge is the race and racism question and problem; a question that must be raised and answered, a problem that must be engaged and solved, especially by the people who created and sustained it.
+        ADVERTISEMENT        
+But they will not do it because they wake up one morning with reformed hearts and minds or come to an enlightened conclusion at a hearing, hideaway, bar, ball game or breakfast table. They will change because we struggle, because the injured and oppressed dissent, defy and resist, build coalitions and alliances and with other oppressed and progressive peoples and persons, imagine and dare to bring into being a new society, world and way of being human, of making history and expanding the horizon of good and possibility for everyone. There is in America so much illusion and lying offered to explain and excuse a myriad of things to keep up appearances, to hide naked truths and to close the hearts and minds of both the masses and would-be “nobles”. And almost everywhere we turn or talk, there is the issue of race and racism, which as I’ve said elsewhere, is not simply the elephant in the room, but often the room itself, and this in no way is to dismiss the importance of gender and class in the practice of oppression.
+We are told that Trump won because he cultivated those neglected, in pain and anxious and that wins them and him some recognition and respect. But we and other peoples of color have been neglected, suffer and are constantly on edge, wondering what hammer, evil hand or heavy weight will fall next. And there are no media pundits, pollsters or born-again politicians talking about how wrong they were or still are in treating us in such immoral, unjust and injurious ways. In a word, we are not granted even similar recognition or respect, no matter how great our oppression or how gracious, forgiving and forgetful many of us declare ourselves and strive to be. Also, even though Black people voted in greater percentages for the liberal or neo-liberal candidate than did White men and women, college-educated and not, suburbanites, Catholics, Jews, Protestants, Evangelicals, and even youth, we are not given credit, but are blamed for others’ failures.
+Indeed, they are not talking about vicious and widespread suppression of our voting in numerous states, emboldened by the gutting of the Voting Rights Act, and our defiant determination to vote regardless. Instead, they pay homage to those who initiated and collaborated in that process and practice of suppression in numerous ways. And we are called on by corporate media and their hirelings and handmaidens to praise the process, welcome the elected and appointed violators and accept the injury and attacks on us, other peoples of colors, Muslims, immigrants and others vulnerable in the spirit of some specious thing called “healing”. And we are not to question our constant need to “heal” from underserved injuries, injustice and oppression in a system that prides itself on claims of freedom, justice and equality for all. It might frighten some and shock others, but it’s time to reject conversations on “healing” and begin to discuss serious and sustained ways of how to stop the heavy hurt so the healing won’t be necessary.
+For us, it has always been about more than the elections, the changing of office-holders, the oath-takers who guard the established order and their wealth and power and leave others to forge, fend and fight for themselves and for whatever is left over or on loan for the common good. For many, the struggle begins and ends with the election cycle, with announcement of candidates’ intentions to run, and ends with the declaring of a winner among them. But for us, the struggle began in this country on our forced arrival here and there has not been a day, night, week, month, year, decade or century we, as a people have not been on the battle line. For as Malcolm reminds us, “this country is a battle line for all of us”. It’s been a long struggle to break the chains of enslavement, break the back of racism and to take the rope, bludgeon and the enabling law from the lyncher and the badge, gun, legal cover and social sanction from abusive and killer police. And it’s been about freedom of our people from domination, deprivation and degradation and about expanding the realm of freedom, justice and social good for everyone and elections are only one battlefront on which we fight.
+So no one can sanely or seriously expect us to whistle Dixie, dance in joy, sing anthems or accept conditions that hide, downplay or overlook our suffering, poverty, and oppression in the midst of the wealth, power and elevated status of others. We understand Langston Hughes’ poem and appeal “I Sing America, Too”, but before we sing it, we need to radically reconstruct it, so that it’s worthy of the high claims it makes, and it resembles in meaningful and measureable ways the new evolved ideal of America without White supremacy in its raw, retouched or revised forms. So, after the initial shock, we must face the fact that there is still work to be done, struggles to be waged and won, and a new world to be built on the ashes of injustice and oppression and all things negative to the well-being of that world and all in it.
+Dr. Maulana Karenga, Professor and Chair of Africana Studies, California State University-Long Beach; Executive Director, African American Cultural Center (Us); Creator of Kwanzaa; and author of Kwanzaa: A Celebration of Family, Community and Culture and Introduction to Black Studies, 4th Edition, www.OfficialKwanzaaWebsite.org; www.MaulanaKarenga.org.
+11-14-16
+		Categories: Dr. Maulana Karenga | Opinion Tags: 2016 presidential election | black voters | Donald Trump | electoral votes | Langston Hughes | Malcolm X | morality | people of color | politics | president | Voting Rights Act		
+						America Has Just Been “White-lashed” with Alt-Right
+						The right to vote in America has been fractured    
+						Rethinking Thanksgiving: Beyond Big Turkeys and Small Talk
+						Do Not Be Complacent In The Face Of Hate
+						What will you lose if consumer financial protection goes away?
+						REFLECTIONS ON A HOMEWARD JOURNEY
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

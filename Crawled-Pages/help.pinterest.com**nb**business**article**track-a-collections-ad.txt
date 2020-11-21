@@ -1,0 +1,172 @@
+      Hopp til hovedinnhold
+        Brukerstøtte
+  Header navigation
+                  Generelt
+                  Bedrift
+  Header navigation - actions
+        Søk
+  Header navigation - anonymous
+        Logg på
+        Pinterest – Hjem
+  Open menu
+          Generelt
+          Kontotilgang og -sikkerhet
+          Problemer med Pinterest
+          Juridisk og personvern
+          Administrer kontoen din
+          Pins og tavler
+          Bedrift
+          Administrer bedriftsprofilen
+          Ads measurement
+          Ads reporting
+          Build your organic presence on Pinterest
+          Shopping on Pinterest
+          Fakturering og betaling – annonser
+          Annonsér på Pinterest
+            Kontotilgang og -sikkerhet
+            Problemer med Pinterest
+            Juridisk og personvern
+            Administrer kontoen din
+            Pins og tavler
+            Administrer bedriftsprofilen
+            Ads measurement
+            Ads reporting
+            Build your organic presence on Pinterest
+            Shopping on Pinterest
+            Fakturering og betaling – annonser
+            Annonsér på Pinterest
+              Spor en samlingsannonse
+            Det ser ut til at du er i et område hvor annonser ikke er tilgjengelige ennå. Se hvor annonser er tilgjengelige for Pinterest Business-kontoer.
+  Les mer
+            Du kan legge til sporing i samlingsannonsene dine for å analysere effektiviteten deres. Sporingsparametre støttes for både hovedbildet og det sekundære reklameinnholdet i samlingsannonser. Du kan konfigurere dem i annonseverktøyet og Bulk Editor. 
+Hvis du ikke har opprettet en samlingsannonse ennå, anbefaler vi at du begynner med veiledningen vår til Samlingsannonser på Pinterest.
+            Destinasjonsadresse og sporingsparametre for samlingsannonser
+Hovedbilde
+Destinasjonsnettadresse
+Destinasjonsadressen brukes for hovedbildet og når det rulles helt opp.
+			Destinasjonsadressen må samsvare med domenet du har gjort krav på.
+Sporingsparametre
+Samlingsannonser støtter alle de samme dynamiske parametrene som standardannonser.
+Du finner den komplette listen over støttede dynamiske parametre under «Støttede dynamiske parametre for destinasjonsnettadresser for standardannonser».
+Sekundære reklamebilder
+Destinasjonsnettadresse
+Når en destinasjonsadresse ikke er oppgitt, vil destinasjonsadressen som standard være den som ble angitt under opprettelsen av samlings-Pinnen.
+			 Hvis du vil legge til sporing for en destinasjonsadresse, kan du enten legge til en URL-prefiks (f.eks: http://www.pinterest.com/) eller legge inn {organic_url} som vil henvise til destinasjonsadressen som ble lagt inn under opprettelsen av Pinnen. Dynamiske parametere kan legges til etter dette. F.eks.: {organic_url}?campaignid={campaignid}
+Vær oppmerksom på at sporingsparametre alene ikke er gyldige inndata. Du må enten angi en fullstendig nettadresse eller {organic_url} som destinasjonsadresse for sekundære reklamebilder.
+Sporingsparametre
+Samlingsannonser støtter alle de samme dynamiske parametrene som standardannonser.
+Du finner den komplette listen over støttede dynamiske parametre under «Støttede dynamiske parametre for destinasjonsnettadresser for standardannonser».
+Vær oppmerksom på at sporingsparametrene blir brukt på alle sekundære reklamebilder i samlingsannonsen din.
+            Angi destinasjonsadresse og sporingsparametre
+            Bruk annonseverktøyet til å angi destinasjonsadresse og sporingsparametre
+            På en datamaskin klikker du på Annonser øverst til venstre på skjermen
+Velg Opprett annonse
+Klikk på Annonser i menyen til venstre
+Velg samlingannonsen du vil legge til sporing for
+Klikk på Valgt-fanen
+Skriv inn destinasjonsadressen for sekundært reklameinnhold under «Legg til en destinasjonsnettadresse for sekundært reklameinnhold (valgfritt)»
+Bekreft annonseinformasjonen ovenfor
+Når du er ferdig, klikker du på Start
+Merk: Destinasjonsnettadressen for sekundært reklameinnhold er unik for samlinger. Du vil ikke se dette alternativet for andre annonseformater.
+            Bruk Bulk Editor til å angi destinasjonsadresse og sporingsparametere
+            Opprett en ny Bulk Editor-mal
+Legg til en ny kolonne med overskriften «Collections Secondary Creative Destination Url»
+Under overskriften angir du destinasjonsadressen for sporing av sekundært reklameinnhold
+Deretter trykker du på Last opp mal
+Merk: Destinasjonsadressen for hovedbildet er fortsatt å finne under kolonneoverskriften «Promoted Pin URL», som er den samme som brukes for standardannonser.
+  Andre artikler
+  Skip Andre artikler Links
+      Pinterest-kode
+                        Basiskode
+                                Eksempler på hendelseskoder
+                                Eksempler på kombinerte basis- og hendelseskoder
+            Se mer
+                                Forbedret samsvar
+                                Hendelseskoder
+                                IMG-tag
+                                Implementering av Pinterest-taggen
+                                Installer basiskoden
+                                Installer, fjern eller gjenopprett Pinterest-taggen
+                                Legg til hendelseskoder
+                                Pinterest Tag Helper-utvidelsen for Chrome
+                                Spor konverteringer med Pinterest-taggen
+                                Test hendelser for Pinterest-taggen
+      Integrasjon av Pinterest-tagger
+                        Legg til Pinterest-taggen i Shopify manuelt
+      Sporing via tredjeparter
+                        Dynamisk sporing og tredjepartssporing
+                                Spor en samlingsannonse
+      Conversions
+                        Last opp konverteringer for måling
+                                Last opp konverteringer med annonseverktøyet
+                                Last opp konverteringer med LiveRamp
+  End of Andre artikler Links
+            Trenger du fortsatt hjelp?
+                Kontakt oss
+    User feedback
+              Var denne artikkelen nyttig?
+        glad
+        trist
+        collection_fields
+        Hvordan kan vi gjøre denne artikkelen bedre?
+      Additional Response
+      Leave this field blank
+        Pinterest bruker informasjonskapsler for å gi deg en best mulig opplevelse.
+        Skjønner.
+    Skip Footer Menu
+    Velg språk
+                      English (US)
+                              Bahasa Indonesia
+                              Čeština
+                              Dansk
+                              Deutsch
+                              English (UK)
+                              Español
+                              Français
+                              Italiano
+                              Magyar
+                              Nederlands
+                              Norsk bokmål
+                              Polski
+                              Português (Brasil)
+                              Português (Europeu)
+                              Română
+                              Slovenčina
+                              Suomi
+                              Svenska
+                              Filipino
+                              Tiếng Việt
+                              Türkçe
+                              Ελληνικά
+                              Русский
+                              Ukrainian
+                              ภาษาไทย
+                              简体中文
+                              繁體中文
+                              한국어
+                              日本語
+            Om oss
+                    Impressum
+                    Hva er Pinterest
+                    Vår Pinterest-side
+                    Utviklerbloggen
+                    Retningslinjene for merkevaren
+                    Karrierer
+                    Brukerstøtte
+                    Pinterest Labs
+            Våre retningslinjer
+                    Opphavsrett
+                                          og
+                            varemerke
+                    Personlig tilpassede annonser
+                    Vilkårene for bruk
+                    Personvern
+                                          og
+                            informasjonskapsler
+            Mer info
+                    For bedrifter
+                    For utviklere
+                    For pressen
+                    For investorer
+                    End of Footer
+    © Pinterest 2020

@@ -1,0 +1,82 @@
+     Skip to Main Content
+                                        FAQ - Journal Styles
+                        How do I change the appearance of my journal?                Which journal styles are available on Dreamwidth?                How do I change my journal's title or subtitle?                How do modules and sidebars work?                How do I add a link list?                How do I add a web counter to my journal?                What is the Advanced Customization page?                    
+                » How do I change the appearance of my journal?
+                                    You can select a style for your journal at the Select Journal Style page.  You can reach this from the Select Style link in the Organize menu on Dreamwidth site-skinned pages.The Select Journal Style page shows a grid containing thumbnail previews of the available styles. The magnifying glass Preview link expands each thumbnail to a full-sized preview of what your journal will look like with that style. Use the Apply Theme button to select the style you want for your journal.Once you have selected a style, you can make further customizations at the Customize Journal Style page.If you are customizing a community you maintain, you'll need to use the "Switch to" menu to switch to that community, before making any changes.Once you've chosen and customized a theme, your settings for that theme will be saved. You won't lose your customizations if you switch themes or styles and then return to the one you'd previously customized.Some pages, such as your profile page, will show in the site skin, rather than your personal journal style. That FAQ also has information on how to change your site skin.
+                Last Activity:
+                August 31st, 2015 (kaberett)
+                » Which journal styles are available on Dreamwidth?
+                                    To see the journal styles available on Dreamwidth, visit the Base Styles section of the Customize Journal area.This view shows the default themes of each of the base styles available. Each style has multiple additional themes, which can be browsed by clicking the name of the style itself, as opposed to the name of the default theme. You can also customize the colors and page setup yourself using the Customize Journal Style Options page.There are two special styles: Tabula Rasa, which is a base style designed for you to personalize with your own CSS, and EasyRead, which emphasizes accessibility. Zesty, a legacy style, has a different collection of features than the other styles.The current default style for newly-created journals and communities is Practicality.
+                Last Activity:
+                August 31st, 2015 (kaberett)
+                » How do I change my journal's title or subtitle?
+                                    The Select Journal Style page has options to set or change your journal title, journal subtitle, and reading page title.  The journal title and subtitle, if set, will also display on your Profile page.
+                Last Activity:
+                August 31st, 2015 (kaberett)
+                » How do modules and sidebars work?
+                                    Modules are sections of a page you can use in your journal style. You can choose which modules to include, and where to put them on the page. These modules are available in default styles:Your personal information
+A set of links to other parts of your journal
+Your Links List
+A mini calendar
+A summary of the entries or comments on the page
+Your tags
+Buttons for syndicated content
+The time the page was loaded
+A link back to the main Dreamwidth site
+Custom text
+An "expand all cuts on the page" button
+A Style Credit, naming the users who designed your journal styleSome modules are restricted to paid accounts. These include:A journal search module
+A 'recent active entries' module, calculated by which entries have received recent commentsTo arrange your modules, use the Modules section of the Customize Journal Style page. Check the modules you want to include, and uncheck any that you don't want. The number box lets you choose the order of the modules (lower numbers will come first).  The drop-down menu beside each option lets you choose which page section to put your modules in; you can choose from Main Module Section or Secondary Module Section. Where each of those sections show in your journal — in the header, in the sidebars, or in the footer — depends on the particular layout and page setup.For example, you can choose to add your personal information to the journal header, and the time of loading and a link labeled Powered by Dreamwidth to the footer. You might want a page summary and some personalized text in the sidebar, but choose to turn off tags and the mini-calendar. Or perhaps you prefer not to have a sidebar at all, but to put some extra information in your page header."None" means that the module won't be displayed in your journal. Modules with no content in will not show up in your journal even if they have been selected.Some of the modules have additional options. Basic journal info can include any or all of your user icon, your display name, and the URL of your website, if you have one. The Calendar can display as a horizontal line or a table; horizontal calendars usually look best in the header or footer, and tables look best in sidebars. Tags can display as a simple list, a cloud, or a multilevel list. 
+                Last Activity:
+                August 31st, 2015 (kaberett)
+                » How do I add a link list?
+                                    The Customize Journal Style page includes a Links List section where you can add or edit items in your Links list.
+                Last Activity:
+                August 31st, 2015 (kaberett)
+                » How do I add a web counter to my journal?
+                                    If the web counter you want to add to your journal uses HTML only — no JavaScript or Flash — you can add the code for it into the "Custom Text" box in Customize Journal Style. After you add the code, you'll need to enable the Custom Text module.If the web counter you want to add to your journal requires JavaScript or Flash, you can't use it. This is for security reasons, as malicious JavaScript and Flash can be used to gain access to other people's accounts, and so we block it from being used.If you have a paid, premium paid, or seed account, you can use Google Analytics to get information about visitors to your journal.
+                Last Activity:
+                August 31st, 2015 (kaberett)
+                » What is the Advanced Customization page?
+                                    The Advanced Customization page is where programmers and web designers can make changes to the code that generates their journal style using the S2 programming language. We're currently working on documenting the S2 programming language, but for now consider the Advanced Customization area to be provided "as is". You can use it if you're familiar with S2 already, but we don't recommend it for people who aren't familiar.If you don't feel comfortable with S2 programming, you can change the appearance of your journal through the Customize Journal Style page. The unofficial style_system community is designed to help people with journal customization, and its members are usually willing to help you get your journal looking exactly the way you'd like it to look.
+                Last Activity:
+                August 31st, 2015 (kaberett)
+    Licensing
+Back to the full FAQ list.
+Return to the Search Page.
+Need more help? Go to the Support Area.
+    Log in
+            Account name:
+            Password:
+             Remember me
+            Other options:
+              Forget your password?
+              Log in with OpenID?
+      ×
+                    menu
+  Log in
+Create
+                Create Account
+                Display Preferences
+Explore
+                Interests
+                Directory Search
+                Site and Journal Search
+                Latest Things
+                Random Journal
+                Random Community
+                FAQ
+Shop
+                Buy Dreamwidth Services
+                Gift a Random User
+                DW Merchandise
+InterestRegionSite and AccountFAQEmailIM Info
+    Privacy Policy • 
+    Terms of Service • 
+    Diversity Statement • 
+    Guiding Principles • 
+    Site Map • 
+    Make a Suggestion • 
+    Open Source • 
+    Help/Support
+Copyright © 2009-2020 Dreamwidth Studios, LLC. Some rights reserved.

@@ -1,0 +1,328 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Mayor Butts’ Opponent Running Suspect Campaign, Say Supporters             
+				By Jennifer Bihm, Contributing Writer                
+	                	                Published October 25, 2018
+		Inglewood incumbent, Mayor James Butts (Sentinel file photo)
+Supporters for incumbent Inglewood Mayor James Butts said his opponent in the upcoming election is campaigning, not to make lives in Inglewood better, but as a way to stop him from moving forward with the Clippers Arena. Republican candidate Marc Little has received donations totaling more than $700,000 and not one of his donors comes from the Inglewood community. In contrast, they said, Butts’ only agenda is wanting his city to prosper.
+“Thirty nine percent of [Butts’] donors actually come from Inglewood, accounting for 51% of funds received,” said spokesperson for Clippers Arena project Alice Walton.
+Added Butts’ attorney Skip Miller, “this is about knocking out the competition, not about the people of Inglewood.”
+        ADVERTISEMENT        
+It’s “interesting”, said Butts supporters, that almost half of Little’s campaign funds come from Clippers Arena competitors Madison Square Garden; the company moved forward with a lawsuit earlier this year over what its officials said was a secret land deal between Butts and builders of the arena. MSG doesn’t want the competition of an arena so close to their own, since it will be another entertainment venue just blocks away.  Attorneys for MSG have accused Butts of “tricking” them into giving up their lease of city owned land and making a private deal with the Clippers for it.
+The breakdown of Little’s campaign funding sources so far is as follows, according to Butts’ supporters:
+5% from the Los Angeles area
+4% from Beverly Hills
+5% from, or associated with attorneys Latham and Watkins (pursuing various legal actions on behalf of MSG)
+2% from out of state
+84% from New York (home of MSG headquarters)
+84% ($560,000) of all funding to the Little Campaign came from sources associated with MSG
+Calls to Little’s campaign office went unanswered as of press time.
+“It also seems odd that folks like Democratic mega donor Haim Saban and Kris Jenner of Kardashian fame would take an interest in the mayoral race for Inglewood,” Walton said.
+“Mayor Butts has received 28 donations totaling $151,850.”
+“It’s shocking that these people would spend that much money just to get revenge on Mayor Butts,” said Miller.
+Earlier this year, Butts defended his support of the Clippers Arena in his city, pointing out the fact that the Staples Center is only 20 minutes away from Inglewood and that doesn’t take away from the fact that the Forum remains the number one concert venue in California.
+“It’s ludicrous to believe that this is going to change the dynamic of their competitiveness,” said Butts.
+“This basketball arena was going to be built somewhere and somewhere local. The reality is that after we get past this nonsense everyone is going to cooperate and we’re going to have the synergy that’s going to be developed by the sports and entertainment district and it’s going to be unparalleled in this country.”
+Attempts to contact Madison Square Garden officials and Little’s campaign officials were unsuccessful by Sentinel press time.
+The Forum was erected in 1967. It had been home to the famous Los Angeles Lakers until about 2000 when they left for the Staples Center in downtown L.A. The Clippers have shared the Staples Center with the Lakers since then. Earlier this year, Clippers owner Steve Ballmer told reporters that his team was “moving to Inglewood, come hell or high water.”
+Meanwhile, housing activists in Inglewood filed a lawsuit against the city, claiming the arena hype is pushing residents out, as affordable housing becomes more and more available. But proponents of the arena, like Assemblymember Sydney Kamlager and Senator Steve Bradford said the project will bring much needed jobs to the community, like 10,000 construction jobs, 1400 permanent jobs and over $1 billion in local investments.
+Miller described Butts as a “super guy, who has helped Inglewood tremendously.”
+His only agenda is to “do what’s right for Inglewood,” Miller said.
+		Categories: Business | Local | News | News (Business) | Political Tags: Assemblymember Sydney Kamlager | city of Inglewood | Clippers Arena | Clippers owner Steve Ballmer | Inglewood Mayor James Butts | Inglewood mayoral candidate Marc Little | Madison Square Garden | Mayor James Butts | Mayor James Butts election | Senator Steve Bradford		
+						Councilwoman Martinez Recognizes Three-Year Anniversary of the LAPD Operati...
+						Financial Literacy For Business Owners Workshop #102
+						Pimp Found Guilty of Human Trafficking of Minors
+						Congresswoman Waters Statement on Suspicious Package
+						Aging Autocrat Whips Opposition and Claims Victory in A Disputed Poll
+						Over 200,000 Congolese Driven Out of Angola in Anti-Smuggling Row
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

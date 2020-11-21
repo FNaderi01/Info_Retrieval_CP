@@ -1,0 +1,331 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Obama endorses Biden as the best leader for ‘darkest times’            
+	                	                Published April 15, 2020
+Former President Barack Obama endorsed Joe Biden on Tuesday, giving the presumptive Democratic presidential nominee a boost from the party’s biggest fundraiser and one of its most popular figures.
+“Joe has the character and the experience to guide us through one of our darkest times and heal us through a long recovery,“ Obama said in a 12-minute video in which he argued the coronavirus pandemic reinforced the need for better leadership.
+        ADVERTISEMENT        
+The endorsement marked Obama’s return to presidential politics more than three years after leaving the White House. He didn’t mention his successor, President Donald Trump, by name and instead sought to bridge the ideological divide among Democrats.
+Obama commended Bernie Sanders, who was the leading progressive foil to Biden during the Democratic primary. The Vermont senator ended his campaign last week and threw his support behind Biden on Monday.
+The former president called Sanders an “American original” and backed his frequent call for “structural change.” But he also said that while Democrats “may not always agree on every detail,“ they must unify to defeat Republicans.
+“The Republicans occupying the White House and running the U.S. Senate are not interested in progress,“ he said. “They’re interested in power.”
+Sanders reiterated his support of Biden on Tuesday, saying it would be “irresponsible” for his own supporters not to back the former vice president.
+“I will do everything I can to help elect Joe,” Sanders said in an interview. “We had a contentious campaign. We disagree on issues. But my job now is to not only rally my supporters, but to do everything I can to bring the party together to see that (Trump) is not elected president.”
+Elizabeth Warren is the only former Democratic presidential candidate who hasn’t yet backed Biden. The Massachusetts senator is expected to do so soon, according to a person familiar with her plans who spoke on condition of anonymity to discuss her thinking.
+Two other prominent Democrats who have yet to publicly back Biden are former President Bill Clinton and Hillary Clinton, the party’s 2016 nominee. Hillary Clinton has been in regular touch with Biden, including several times since Sanders dropped out of the race, according to an aide.
+Obama avoided intervening in the Democratic primary, but followed the race closely from the sidelines and is eager to take a more active public role. He’s expected to headline fundraisers for Biden and public events in key swing states, if such gatherings can still be held given social distancing guidelines during the coronavirus pandemic.
+After his endorsement was released, Obama sent a fundraising appeal to Biden supporters, asking for donations ranging from $5 to $100.
+In this Jan. 4, 2017 file photo, Vice President Joe Biden, left, watches President Barack Obama, center, at Conmy Hall, Joint Base Myer-Henderson Hall, Va. (AP Photo/Susan Walsh)
+The endorsement will test whether Obama can transfer his personal popularity to Biden. While the former president is seen favorably by a wide swath of Democratic voters, he was also a deeply polarizing figure during his two terms in office. During his presidency, Democrats lost about 1,000 legislative seats around the country, starting with disastrous 2010 midterms that also cost the party control of the House and many statehouses.
+In 2018, he campaigned for some winning Senate and gubernatorial candidates, like Sen. Jacky Rosen in Nevada and Gov. Tony Evers in Wisconsin. But his influence seemed less powerful in other places such as Florida.
+The Trump campaign noted that Obama tacitly discouraged Biden from running for president in 2016 and said the former president is only backing him now because everyone else has dropped out of the primary.
+“Now that Biden is the only candidate left in the Democrat field, Obama has no other choice but to support him,” Brad Parscale, Trump’s campaign manager, said in a statement.
+Though Obama stayed out of the primary, Biden frequently pointed to their time together in the White House. Biden often spoke of the “Obama-Biden” administration when talking about various accomplishments and referred to himself as an “Obama-Biden Democrat.”
+But he also insisted he was running as his own man, telling anyone who asked that he urged Obama not to endorse him out of the gate or even in the thick of the primary.
+Obama’s tenure became a sort of punching bag for some presidential hopefuls in a primary fight that early on was defined by a debate over the need for generational and systemic change versus a return to normalcy after the Trump era.
+Julian Castro pushed Biden repeatedly on whether he argued with Obama privately over deportations overseen by that administration. Pete Buttigieg and Beto O’Rourke jabbed Biden – and by extension, Obama — by suggesting the party shouldn’t “return to the past.” Sanders and Warren said the 2010 Affordable Care Act hadn’t gone far enough.
+But Biden was a staunch defender of that legislation and called it “bizarre” for Democrats, even faintly, to attack Obama’s record.
+Former President Barack Obama endorsed Joe Biden in a video on Tuesday, giving the presumptive Democratic presidential nominee a boost from the party’s biggest fundraiser and one of its most popular figures. (April 14)
+The conversation around Obama’s presidency shifted as the primary wore on. By the time voting began, Buttigieg was almost explicitly comparing his youthful bid to Obama’s 2008 campaign, and progressives were framing their health care proposals as a way to build on Obama’s legacy.
+For his part, Biden leaned even more heavily into Obama as primary voting began. Aiming at Sanders, the self-described democratic socialist, and Bloomberg, who’d been elected New York City mayor as a Republican, Biden said in a Feb. 21 interview that “they’re not bad folks. They’re just not Democrats.”
+Campaigning before increasingly diverse audiences in Nevada and South Carolina, Biden ramped up his recollections of when Obama tapped him for the ticket in 2008. Biden recalled Inauguration Day 2009, waiting for the train in his hometown of Wilmington, Delaware, “for a black man to pick me up . for the two of us to be sworn in as president and vice president of the United States.”
+Often drawing nods and vocal affirmation from his audiences, Biden said he had thought of that day as a national victory over institutional racism. Now, in the Trump era, Biden calls that conclusion a mistake.
+“I thought we could defeat hate,” he said, but “it never goes away.“
+		Categories: National | News | Political Tags: Barack Obama | Barack Obama endorses Joe Biden for President | former president Barack Obama | Former Vice President Joe Biden | Joe Biden | Obama | Obama endorses Biden | President Barack Obama | President Obama | Vice President Joe Biden		
+						Black Los Angeles Makes Demands in Light of COVID-19 and Rates of Black Dea...
+						LA Councilmember Marqueece-Harris Dawson Partners with Lyft to Help Thousan...
+						Assemblymembers Ask Governor Newsom to Establish New State Economic  Assist...
+						Video: Rep. Adams’ Women’s Symposium on Maternal Health Breaks Attendan...
+						Councilman Jawane Hilton Fights To Bring Covid-19 Testing To Carson
+						L.A. COVID-19 Update on testing; Now Accessible for Vast Majority. Over 11,...
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

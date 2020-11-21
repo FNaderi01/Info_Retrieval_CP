@@ -1,0 +1,425 @@
+      Skip to content
+            palantir
+                Sign up
+                    Why GitHub?
+                    Features →
+                      Code review
+                      Project management
+                      Integrations
+                      Actions
+                      Packages
+                      Security
+                      Team management
+                      Hosting
+                      Mobile
+                      Customer stories →
+                      Security →
+                Team
+                Enterprise
+                    Explore
+                      Explore GitHub →
+                    Learn &amp; contribute
+                      Topics
+                        Collections
+                      Trending
+                      Learning Lab
+                      Open source guides
+                    Connect with others
+                      Events
+                      Community forum
+                      GitHub Education
+                      GitHub Stars program
+                Marketplace
+                    Pricing
+                    Plans →
+                      Compare plans
+                      Contact Sales
+                      Nonprofit →
+                      Education →
+     -->
+        In this organization
+        All GitHub
+      ↵
+      Jump to
+      ↵
+    No suggested jump to results
+        In this organization
+        All GitHub
+      ↵
+      Jump to
+      ↵
+        In this organization
+        All GitHub
+      ↵
+      Jump to
+      ↵
+          Sign in
+              Sign up
+      {{ message }}
+            Palantir Technologies
+                Palo Alto, CA
+                https://palantir.com
+        Verified
+            We've verified that the organization Palantir Technologies controls the domain:
+                palantir.com
+            Learn more about verified organizations
+          Repositories
+            Packages
+            People
+            Projects
+          Dismiss
+        Grow your team on GitHub
+        GitHub is home to over 50 million developers working together. Join them to grow your own development teams, manage permissions, and collaborate on projects.
+        Sign up
+     -->
+              Type:
+                All
+                Select type
+                    All
+                    Sources
+                    Forks
+                    Archived
+                    Mirrors
+                Language:
+                  All
+                  Select language
+                    All
+                      CoffeeScript
+                      Go
+                      Groovy
+                      HCL
+                      Java
+                      JavaScript
+                      PowerShell
+                      Python
+                      Roff
+                      Ruby
+                      Rust
+                      Scala
+                      Shell
+                      TypeScript
+      Repositories
+            gradle-conjure
+            Gradle plugin that integrates with the Conjure toolchain
+  Java
+          Apache-2.0
+          15
+          3
+        10
+        1
+          Updated Oct 11, 2020
+            sls-version-java
+            Java utilities for manipulating SLS versions
+  Java
+          Apache-2.0
+          6
+          1
+        0
+        0
+          Updated Oct 11, 2020
+            conjure
+            Strongly typed HTTP/JSON APIs for browsers and microservices
+  Java
+          Apache-2.0
+          37
+          248
+        52
+        5
+          Updated Oct 11, 2020
+            tracing-java
+            Java library providing zipkin-like tracing functionality
+  Java
+          Apache-2.0
+          19
+          10
+        10
+        6
+          Updated Oct 11, 2020
+            human-readable-types
+            A collection of human-readable types
+  Java
+          Apache-2.0
+          3
+          6
+        1
+        2
+          Updated Oct 11, 2020
+            conjure-python
+            Conjure generator for Python clients
+  Java
+          Apache-2.0
+          8
+          6
+        9
+        4
+          Updated Oct 11, 2020
+            conjure-java-example
+  Java
+          7
+          1
+        0
+        3
+          Updated Oct 11, 2020
+            assertj-automation
+            Automatic code rewriting for AssertJ using error-prone and refaster
+  Java
+          Apache-2.0
+          2
+          2
+        3
+        0
+          Updated Oct 11, 2020
+            graal-annotations
+            basic annotations and associated processors to make working with GraalVM easier and more ergonomic
+  Java
+          Apache-2.0
+          2
+          11
+        0
+        1
+          Updated Oct 11, 2020
+            dialogue
+            A client-side RPC library for conjure-java
+  Java
+          Apache-2.0
+          5
+          8
+        12
+        5
+          Updated Oct 11, 2020
+            palantir-java-format
+            A modern, lambda-friendly, 120 character Java formatter.
+  java
+  formatter
+  gofmt
+  codeformatter
+  Java
+          Apache-2.0
+          4
+          22
+        14
+        6
+          Updated Oct 11, 2020
+            metric-schema
+            Schema for standard metric definitions
+  Java
+          Apache-2.0
+          3
+          9
+        6
+        3
+          Updated Oct 11, 2020
+            async-shuffle-upload
+            Asynchronously replicates Spark shuffle files in a distributed storage layer.
+  Java
+          Apache-2.0
+          3
+          1
+        0
+        7
+          Updated Oct 11, 2020
+            conjure-java-runtime
+            Opinionated libraries for HTTP&amp;JSON-based RPC using Retrofit, Feign, OkHttp as clients and Jetty/Jersey as servers
+  Java
+          Apache-2.0
+          96
+          60
+        34
+        1
+          Updated Oct 11, 2020
+            sls-packaging
+            A set of Gradle plugins for creating SLS-compatible packages
+  gradle
+  Shell
+          Apache-2.0
+          73
+          36
+        46
+        2
+          Updated Oct 11, 2020
+            gradle-git-version
+            a Gradle plugin that uses `git describe` to produce a version string.
+  Java
+          Apache-2.0
+          57
+          201
+        29
+        1
+          Updated Oct 11, 2020
+            junit-resource-poller
+            A JUnit rule that allows waiting for a set of services to become available
+  Java
+          Apache-2.0
+          8
+          7
+        0
+        2
+          Updated Oct 11, 2020
+            resource-identifier
+            Common resource identifier specification for inter-application object sharing
+  Java
+          Apache-2.0
+          15
+          12
+        2
+        1
+          Updated Oct 11, 2020
+            auth-tokens
+  Java
+          Apache-2.0
+          28
+          5
+        4
+        4
+          Updated Oct 11, 2020
+            Cinch
+            A Java library that manages component action/event bindings for MVC patterns
+  Java
+          17
+          107
+        5
+        2
+          Updated Oct 11, 2020
+            docker-proxy-rule
+            A JUnit Proxy/DNS rule for connecting to dockerised applications with standard hostnames and ports
+  Java
+          Apache-2.0
+          5
+          9
+        0
+        1
+          Updated Oct 11, 2020
+            atlasdb
+            Transactional Distributed Database Layer
+  transactions
+  Java
+          Apache-2.0
+          138
+          728
+        308
+        14
+          Updated Oct 11, 2020
+            hadoop-crypto
+            Library for per-file client-side encyption in Hadoop FileSystems such as HDFS or S3.
+  hadoop
+  hadoop-filesystem
+  hadoop-crypto
+  Java
+          Apache-2.0
+          31
+          32
+        3
+        4
+          Updated Oct 11, 2020
+            safe-logging
+            Interfaces and utilities for safe log messages
+  Java
+          Apache-2.0
+          17
+          11
+        8
+        2
+          Updated Oct 11, 2020
+            gradle-graal
+            A plugin for Gradle that adds tasks to download, extract and interact with GraalVM tooling.
+  Java
+          Apache-2.0
+          23
+          159
+        27
+        6
+          Updated Oct 11, 2020
+            spark-tpcds-benchmark
+            Utility for benchmarking changes in Spark using TPC-DS workloads
+  Java
+          Apache-2.0
+          6
+          5
+        2
+        6
+          Updated Oct 10, 2020
+            conjure-verification
+            A testing tool that ensures all Conjure clients and servers adhere to a common wire spec
+  Rust
+          Apache-2.0
+          3
+          8
+        13
+        1
+          Updated Oct 9, 2020
+            witchcraft-api
+            Common APIs and Conjure definitions for witchcraft projects
+  Shell
+          Apache-2.0
+          2
+          1
+        0
+        0
+          Updated Oct 9, 2020
+            docker-compose-rule
+            A JUnit rule to manage docker containers using docker-compose
+  docker
+  docker-compose
+  junit
+  junit-rule
+  junit4
+  Java
+          Apache-2.0
+          91
+          387
+        50
+        21
+          Updated Oct 9, 2020
+            conjure-go-runtime
+            Go implementation of the Conjure runtime
+  Go
+          Apache-2.0
+          16
+          4
+        12
+        3
+          Updated Oct 9, 2020
+      Previous 1 2 3 4 5 6 7 Next
+      Previous Next
+          Top languages
+          Loading…
+          Most used topics
+  golang
+  java
+  typescript
+  gradle
+  tslint
+            People
+        © 2020 GitHub, Inc.
+          Terms
+          Privacy
+  Cookie Preferences
+          Security
+          Status
+          Help
+          Contact GitHub
+          Pricing
+        API
+        Training
+          Blog
+          About
+    You can’t perform that action at this time.
+    You signed in with another tab or window. Reload to refresh your session.
+    You signed out in another tab or window. Reload to refresh your session.
+  We use optional third-party analytics cookies to understand how you use GitHub.com so we can build better products.
+              Learn more.
+              Accept
+              Reject
+  We use optional third-party analytics cookies to understand how you use GitHub.com so we can build better products.
+              You can always update your selection by clicking Cookie Preferences at the bottom of the page.
+              For more information, see our Privacy Statement.
+              Essential cookies
+              We use essential cookies to perform essential website functions, e.g. they're used to log you in. 
+                Learn more
+              Always active
+              Analytics cookies
+              We use analytics cookies to understand how you use our websites so we can make them better, e.g. they're used to gather information about the pages you visit and how many clicks you need to accomplish a task. 
+                Learn more
+                Accept
+                Reject
+            Save preferences

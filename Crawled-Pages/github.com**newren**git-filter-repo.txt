@@ -1,0 +1,671 @@
+      Skip to content
+                Sign up
+                    Why GitHub?
+                    Features →
+                      Code review
+                      Project management
+                      Integrations
+                      Actions
+                      Packages
+                      Security
+                      Team management
+                      Hosting
+                      Mobile
+                      Customer stories →
+                      Security →
+                Team
+                Enterprise
+                    Explore
+                      Explore GitHub →
+                    Learn &amp; contribute
+                      Topics
+                        Collections
+                      Trending
+                      Learning Lab
+                      Open source guides
+                    Connect with others
+                      Events
+                      Community forum
+                      GitHub Education
+                      GitHub Stars program
+                Marketplace
+                    Pricing
+                    Plans →
+                      Compare plans
+                      Contact Sales
+                      Nonprofit →
+                      Education →
+     -->
+        In this repository
+        All GitHub
+      ↵
+      Jump to
+      ↵
+    No suggested jump to results
+        In this repository
+        All GitHub
+      ↵
+      Jump to
+      ↵
+        In this repository
+        All GitHub
+      ↵
+      Jump to
+      ↵
+          Sign in
+              Sign up
+      {{ message }}
+      newren
+    /
+    git-filter-repo
+    Watch
+      13
+      Star
+      1.1k
+          Fork
+        99
+        Quickly rewrite git repository history (filter-branch replacement)
+            View license
+        1.1k
+        stars
+        99
+        forks
+      Star
+    Watch
+            Code
+            Issues
+              24
+            Pull requests
+              5
+            Actions
+            Projects
+              0
+            Security
+            Insights
+            More
+                    Code
+                    Issues
+                    Pull requests
+                    Actions
+                    Projects
+                    Security
+                    Insights
+          Dismiss
+        Join GitHub today
+        GitHub is home to over 50 million developers working together to host and review code, manage projects, and build software together.
+        Sign up
+      main
+      8
+      branches
+      7
+      tags
+    Go to file
+      Code
+  Clone
+       -->
+            HTTPS
+            GitHub CLI
+        Use Git or checkout with SVN using the web URL.
+      Work fast with our official CLI.
+      Learn more.
+                Open with GitHub Desktop
+                Download ZIP
+          Launching GitHub Desktop
+          If nothing happens, download GitHub Desktop and try again.
+          Go back
+          Launching GitHub Desktop
+          If nothing happens, download GitHub Desktop and try again.
+          Go back
+          Launching Xcode
+          If nothing happens, download Xcode and try again.
+          Go back
+          Launching Visual Studio
+          If nothing happens, download the GitHub extension for Visual Studio and try again.
+          Go back
+    Latest commit
+      newren
+          Merge branch 'mr/fix-filter-lamely-name-error' into main
+      …
+      b1606ba
+        Oct 7, 2020
+        Merge branch 'mr/fix-filter-lamely-name-error' into main
+      Signed-off-by: Elijah Newren &lt;newren@gmail.com&gt;
+      b1606ba
+        Git stats
+                    422
+                  commits
+  Files
+    Permalink
+    Failed to load latest commit information.
+        Type
+        Name
+        Latest commit message
+        Commit time
+            Documentation
+                    converting-from-bfg-repo-cleaner.md: fix typo
+              Oct 6, 2020
+            contrib/filter-repo-demos
+                    Merge branch 'mr/fix-filter-lamely-name-error' into main
+              Oct 7, 2020
+            release
+                    setup.py: test for FileExistsError on symlink
+              Feb 11, 2020
+            t
+                    filter-repo: fix crash from assuming parent is an int
+              Jul 27, 2020
+            .gitignore
+                    .gitignore: ignore the generated documentation
+              Jul 9, 2020
+            COPYING
+                    filter-repo: re-license
+              Jul 16, 2019
+            COPYING.gpl
+                    Update GPL license file
+              Dec 22, 2019
+            COPYING.mit
+                    filter-repo: re-license
+              Jul 16, 2019
+            INSTALL.md
+                    INSTALL.md: wording clarification on what repology.org tracks
+              Jun 23, 2020
+            Makefile
+                    Makefile: a few sanity checks for releasing
+              Mar 23, 2020
+            README.md
+                    filter-repo (README): remove outdated 2.28.0-not-yet-released comment
+              Jul 27, 2020
+            git-filter-repo
+                    filter-repo: fix crash from assuming parent is an int
+              Jul 27, 2020
+            git_filter_repo.py
+                    filter-repo: simplify import in lib-usage examples
+              Apr 26, 2019
+        View code
+        README.md
+        git filter-repo is a versatile tool for rewriting history, which includes
+capabilities I have not found anywhere
+else.  It roughly falls into the
+same space of tool as git
+filter-branch but without the
+capitulation-inducing poor
+performance,
+with far more capabilities, and with a design that scales usability-wise
+beyond trivial rewriting cases.  git filter-repo is now recommended by the
+git project instead
+of git filter-branch.
+While most users will probably just use filter-repo as a simple command
+line tool (and likely only use a few of its flags), at its core filter-repo
+contains a library for creating history rewriting tools.  As such, users
+with specialized needs can leverage it to quickly create entirely new
+history rewriting tools.
+Table of Contents
+Prerequisites
+How do I install it?
+How do I use it?
+Why filter-repo instead of other alternatives?
+filter-branch
+BFG Repo Cleaner
+Simple example, with comparisons
+Solving this with filter-repo
+Solving this with BFG Repo Cleaner
+Solving this with filter-branch
+Solving this with fast-export/fast-import
+Design rationale behind filter-repo
+How do I contribute?
+Is there a Code of Conduct?
+Upstream Improvements
+Prerequisites
+filter-repo requires:
+git &gt;= 2.22.0 at a minimum; some features
+require git &gt;= 2.24.0 or later
+python3 &gt;= 3.5
+How do I install it?
+git-filter-repo is a single-file python script, which was done to make
+installation for basic use trivial: just copy it into your $PATH.
+See INSTALL.md for things beyond basic usage or special
+cases.  The more involved instructions are needed if you
+are working with a python3 executable named something other than "python3"
+want to install documentation (beyond the builtin docs shown with -h)
+want to run some of the contrib examples
+want to create your own python filtering scripts using filter-repo as a
+module/library
+How do I use it?
+See the user
+manual.
+If you prefer learning from examples:
+the simple example below may
+be of interest
+the user manual has an extensive examples
+section
+there is a cheat sheet for converting filter-branch
+commands,
+which covers every example from the filter-branch manual
+there is a cheat sheet for converting BFG Repo Cleaner
+commands,
+which covers every example from the BFG website
+Why filter-repo instead of other alternatives?
+This was covered in more detail in a Git Rev News article on
+filter-repo,
+but some highlights for the main competitors:
+filter-branch
+filter-branch is extremely to unusably
+slow
+(multiple orders of magnitude slower than it should
+be)
+for non-trivial repositories.
+filter-branch is riddled with
+gotchas that can
+silently corrupt your rewrite or at least thwart your "cleanup"
+efforts by giving you something more problematic and messy than what
+you started with.
+filter-branch is very onerous
+to
+use
+for any rewrite which is even slightly non-trivial.
+the git project has stated that the above issues with filter-branch
+cannot be backward compatibly fixed; they recommend that you stop
+using
+filter-branch
+die-hard fans of filter-branch may be interested in
+filter-lamely
+(a.k.a. filter-branch-ish),
+a reimplementation of filter-branch based on filter-repo which is
+more performant (though not nearly as fast or safe as
+filter-repo).
+a cheat
+sheet
+is available showing how to convert example commands from the manual of
+filter-branch into filter-repo commands.
+BFG Repo Cleaner
+great tool for its time, but while it makes some things simple, it
+is limited to a few kinds of rewrites.
+its architecture is not amenable to handling more types of
+rewrites.
+its architecture presents some shortcomings and bugs even for its
+intended usecase.
+fans of bfg may be interested in
+bfg-ish, a reimplementation of bfg
+based on filter-repo which includes several new features and bugfixes
+relative to bfg.
+a cheat
+sheet
+is available showing how to convert example commands from the manual of
+BFG Repo Cleaner into filter-repo commands.
+Simple example, with comparisons
+Let's say that we want to extract a piece of a repository, with the intent
+on merging just that piece into some other bigger repo.  For extraction, we
+want to:
+extract the history of a single directory, src/.  This means that only
+paths under src/ remain in the repo, and any commits that only touched
+paths outside this directory will be removed.
+rename all files to have a new leading directory, my-module/ (e.g. so that
+src/foo.c becomes my-module/src/foo.c)
+rename any tags in the extracted repository to have a 'my-module-'
+prefix (to avoid any conflicts when we later merge this repo into
+something else)
+Solving this with filter-repo
+Doing this with filter-repo is as simple as the following command:
+  git filter-repo --path src/ --to-subdirectory-filter my-module --tag-rename '':'my-module-'
+(the single quotes are unnecessary, but make it clearer to a human that we
+are replacing the empty string as a prefix with my-module-)
+Solving this with BFG Repo Cleaner
+BFG Repo Cleaner is not capable of this kind of rewrite; in fact, all
+three types of wanted changes are outside of its capabilities.
+Solving this with filter-branch
+filter-branch comes with a pile of caveats (more on that below) even
+once you figure out the necessary invocation(s):
+  git filter-branch \
+      --tree-filter 'mkdir -p my-module &amp;&amp; \
+                     git ls-files \
+                         | grep -v ^src/ \
+                         | xargs git rm -f -q &amp;&amp; \
+                     ls -d * \
+                         | grep -v my-module \
+                         | xargs -I files mv files my-module/' \
+          --tag-name-filter 'echo "my-module-$(cat)"' \
+	  --prune-empty -- --all
+  git clone file://$(pwd) newcopy
+  cd newcopy
+  git for-each-ref --format="delete %(refname)" refs/tags/ \
+      | grep -v refs/tags/my-module- \
+      | git update-ref --stdin
+  git gc --prune=now
+Some might notice that the above filter-branch invocation will be really
+slow due to using --tree-filter; you could alternatively use the
+--index-filter option of filter-branch, changing the above commands to:
+  git filter-branch \
+      --index-filter 'git ls-files \
+                          | grep -v ^src/ \
+                          | xargs git rm -q --cached;
+                      git ls-files -s \
+                          | sed "s%$(printf \\t)%&amp;my-module/%" \
+                          | git update-index --index-info;
+                      git ls-files \
+                          | grep -v ^my-module/ \
+                          | xargs git rm -q --cached' \
+      --tag-name-filter 'echo "my-module-$(cat)"' \
+      --prune-empty -- --all
+  git clone file://$(pwd) newcopy
+  cd newcopy
+  git for-each-ref --format="delete %(refname)" refs/tags/ \
+      | grep -v refs/tags/my-module- \
+      | git update-ref --stdin
+  git gc --prune=now
+However, for either filter-branch command there are a pile of caveats.
+First, some may be wondering why I list five commands here for
+filter-branch.  Despite the use of --all and --tag-name-filter, and
+filter-branch's manpage claiming that a clone is enough to get rid of
+old objects, the extra steps to delete the other tags and do another
+gc are still required to clean out the old objects and avoid mixing
+new and old history before pushing somewhere.  Other caveats:
+Commit messages are not rewritten; so if some of your commit
+messages refer to prior commits by (abbreviated) sha1, after the
+rewrite those messages will now refer to commits that are no longer
+part of the history.  It would be better to rewrite those
+(abbreviated) sha1 references to refer to the new commit ids.
+The --prune-empty flag sometimes misses commits that should be
+pruned, and it will also prune commits that started empty rather
+than just ended empty due to filtering.  For repositories that
+intentionally use empty commits for versioning and publishing
+related purposes, this can be detrimental.
+The commands above are OS-specific.  GNU vs. BSD issues for sed,
+xargs, and other commands often trip up users; I think I failed to
+get most folks to use --index-filter since the only example in the
+filter-branch manpage that both uses it and shows how to move
+everything into a subdirectory is linux-specific, and it is not
+obvious to the reader that it has a portability issue since it
+silently misbehaves rather than failing loudly.
+The --index-filter version of the filter-branch command may be two to
+three times faster than the --tree-filter version, but both
+filter-branch commands are going to be multiple orders of magnitude
+slower than filter-repo.
+Both commands assume all filenames are composed entirely of ascii
+characters (even special ascii characters such as tabs or double
+quotes will wreak havoc and likely result in missing files or
+misnamed files)
+Solving this with fast-export/fast-import
+One can kind of hack this together with something like:
+  git fast-export --no-data --reencode=yes --mark-tags --fake-missing-tagger \
+      --signed-tags=strip --tag-of-filtered-object=rewrite --all \
+      | grep -vP '^M [0-9]+ [0-9a-f]+ (?!src/)' \
+      | grep -vP '^D (?!src/)' \
+      | perl -pe 's%^(M [0-9]+ [0-9a-f]+ )(.*)$%\1my-module/\2%' \
+      | perl -pe 's%^(D )(.*)$%\1my-module/\2%' \
+      | perl -pe s%refs/tags/%refs/tags/my-module-% \
+      | git -c core.ignorecase=false fast-import --date-format=raw-permissive \
+            --force --quiet
+  git for-each-ref --format="delete %(refname)" refs/tags/ \
+      | grep -v refs/tags/my-module- \
+      | git update-ref --stdin
+  git reset --hard
+  git reflog expire --expire=now --all
+  git gc --prune=now
+But this comes with some nasty caveats and limitations:
+The various greps and regex replacements operate on the entire
+fast-export stream and thus might accidentally corrupt unintended
+portions of it, such as commit messages.  If you needed to edit
+file contents and thus dropped the --no-data flag, it could also
+end up corrupting file contents.
+This command assumes all filenames in the repository are composed
+entirely of ascii characters, and also exclude special characters
+such as tabs or double quotes.  If such a special filename exists
+within the old src/ directory, it will be pruned even though it
+was intended to be kept.  (In slightly different repository
+rewrites, this type of editing also risks corrupting filenames
+with special characters by adding extra double quotes near the end
+of the filename and in some leading directory name.)
+This command will leave behind huge numbers of useless empty
+commits, and has no realistic way of pruning them.  (And if you
+tried to combine this technique with another tool to prune the
+empty commits, then you now have no way to distinguish between
+commits which were made empty by the filtering that you want to
+remove, and commits which were empty before the filtering process
+and which you thus may want to keep.)
+Commit messages which reference other commits by hash will now
+reference old commits that no longer exist.  Attempting to edit
+the commit messages to update them is extraordinarily difficult to
+add to this kind of direct rewrite.
+Design rationale behind filter-repo
+None of the existing repository filtering tools did what I wanted;
+they all came up short for my needs.  No tool provided any of the
+first eight traits below I wanted, and all failed to provide at least
+one of the last four traits as well:
+[Starting report] Provide user an analysis of their repo to help
+them get started on what to prune or rename, instead of expecting
+them to guess or find other tools to figure it out.  (Triggered, e.g.
+by running the first time with a special flag, such as --analyze.)
+[Keep vs. remove] Instead of just providing a way for users to
+easily remove selected paths, also provide flags for users to
+only keep certain paths.  Sure, users could workaround this by
+specifying to remove all paths other than the ones they want to
+keep, but the need to specify all paths that ever existed in
+any version of the repository could sometimes be quite
+painful.  For filter-branch, using pipelines like git ls-files | grep -v ... | xargs -r git rm might be a reasonable workaround
+but can get unwieldy and isn't as straightforward for users; plus
+those commands are often operating-system specific (can you spot
+the GNUism in the snippet I provided?).
+[Renaming] It should be easy to rename paths.  For example, in
+addition to allowing one to treat some subdirectory as the root
+of the repository, also provide options for users to make the
+root of the repository just become a subdirectory.  And more
+generally allow files and directories to be easily renamed.
+Provide sanity checks if renaming causes multiple files to exist
+at the same path.  (And add special handling so that if a commit
+merely copied oldname-&gt;newname without modification, then
+filtering oldname-&gt;newname doesn't trigger the sanity check and
+die on that commit.)
+[More intelligent safety] Writing copies of the original refs to
+a special namespace within the repo does not provide a
+user-friendly recovery mechanism.  Many would struggle to recover
+using that.  Almost everyone I've ever seen do a repository
+filtering operation has done so with a fresh clone, because
+wiping out the clone in case of error is a vastly easier recovery
+mechanism.  Strongly encourage that workflow by detecting and
+bailing if we're not in a fresh
+clone,
+unless the user overrides with --force.
+[Auto shrink] Automatically remove old cruft and repack the
+repository for the user after filtering (unless overridden); this
+simplifies things for the user, helps avoid mixing old and new
+history together, and avoids problems where the multi-step
+process for shrinking the repo documented in the manpage doesn't
+actually work in some cases.  (I'm looking at you,
+filter-branch.)
+[Clean separation] Avoid confusing users (and prevent accidental
+re-pushing of old stuff) due to mixing old repo and rewritten
+repo together.  (This is particularly a problem with filter-branch
+when using the --tag-name-filter option, and sometimes also an
+issue when only filtering a subset of branches.)
+[Versatility] Provide the user the ability to extend the tool or
+even write new tools that leverage existing capabilities, and
+provide this extensibility in a way that (a) avoids the need to
+fork separate processes (which would destroy performance), (b)
+avoids making the user specify OS-dependent shell commands (which
+would prevent users from sharing commands with each other), (c)
+takes advantage of rich data structures (because hashes, dicts,
+lists, and arrays are prohibitively difficult in shell) and (d)
+provides reasonable string manipulation capabilities (which are
+sorely lacking in shell).
+[Old commit references] Provide a way for users to use old commit
+IDs with the new repository (in particular via mapping from old to
+new hashes with refs/replace/ references).
+[Commit message consistency] If commit messages refer to other
+commits by ID (e.g. "this reverts commit 01234567890abcdef", "In
+commit 0013deadbeef9a..."), those commit messages should be
+rewritten to refer to the new commit IDs.
+[Become-empty pruning] Commits which become empty due to filtering
+should be pruned.  If the parent of a commit is pruned, the first
+non-pruned ancestor needs to become the new parent.  If no
+non-pruned ancestor exists and the commit was not a merge, then it
+becomes a new root commit.  If no non-pruned ancestor exists and
+the commit was a merge, then the merge will have one less parent
+(and thus make it likely to become a non-merge commit which would
+itself be pruned if it had no file changes of its own).  One
+special thing to note here is that we prune commits which become
+empty, NOT commits which start empty.  Some projects intentionally
+create empty commits for versioning or publishing reasons, and
+these should not be removed.  (As a special case, commits which
+started empty but whose parent was pruned away will also be
+considered to have "become empty".)
+[Become-degenerate pruning] Pruning of commits which become empty
+can potentially cause topology changes, and there are lots of
+special cases.  Normally, merge commits are not removed since they
+are needed to preserve the graph topology, but the pruning of
+parents and other ancestors can ultimately result in the loss of
+one or more parents.  A simple case was already noted above: if a
+merge commit loses enough parents to become a non-merge commit and
+it has no file changes, then it too can be pruned.  Merge commits
+can also have a topology that becomes degenerate: it could end up
+with the merge_base serving as both parents (if all intervening
+commits from the original repo were pruned), or it could end up
+with one parent which is an ancestor of its other parent.  In such
+cases, if the merge has no file changes of its own, then the merge
+commit can also be pruned.  However, much as we do with empty
+pruning we do not prune merge commits that started degenerate
+(which indicates it may have been intentional, such as with --no-ff
+merges) but only merge commits that become degenerate and have no
+file changes of their own.
+[Speed] Filtering should be reasonably fast
+How do I contribute?
+See the contributing guidelines.
+Is there a Code of Conduct?
+Participants in the filter-repo community are expected to adhere to
+the same standards as for the git project, so the git Code of
+Conduct
+applies.
+Upstream Improvements
+Work on filter-repo and its
+predecessor
+has also driven numerous improvements to fast-export and fast-import
+(and occasionally other commands) in core git, based on things
+filter-repo needs to do its work:
+git-2.28.0
+fast-import: add new --date-format=raw-permissive format
+git-2.24.0
+fast-export: handle nested tags
+t9350: add tests for tags of things other than a commit
+fast-export: allow user to request tags be marked with --mark-tags
+fast-export: add support for --import-marks-if-exists
+fast-import: add support for new 'alias' command
+fast-import: allow tags to be identified by mark labels
+fast-import: fix handling of deleted tags
+fast-export: fix exporting a tag and nothing else
+git-fast-import.txt: clarify that multiple merge commits are allowed
+git-2.23.0
+t9350: fix encoding test to actually test reencoding
+fast-import: support 'encoding' commit header
+fast-export: avoid stripping encoding header if we cannot reencode
+fast-export: differentiate between explicitly UTF-8 and implicitly
+UTF-8
+fast-export: do automatic reencoding of commit messages only if
+requested
+git-2.22.0
+log,diff-tree: add --combined-all-paths option
+t9300: demonstrate bug with get-mark and empty orphan commits
+git-fast-import.txt: fix wording about where ls command can appear
+fast-import: check most prominent commands first
+fast-import: only allow cat-blob requests where it makes sense
+fast-import: fix erroneous handling of get-mark with empty orphan
+commits
+Honor core.precomposeUnicode in more places
+git-2.21.0
+fast-export: convert sha1 to oid
+git-fast-import.txt: fix documentation for --quiet option
+git-fast-export.txt: clarify misleading documentation about rev-list
+args
+fast-export: use value from correct enum
+fast-export: avoid dying when filtering by paths and old tags exist
+fast-export: move commit rewriting logic into a function for reuse
+fast-export: when using paths, avoid corrupt stream with non-existent
+mark
+fast-export: ensure we export requested refs
+fast-export: add --reference-excluded-parents option
+fast-import: remove unmaintained duplicate documentation
+fast-export: add a --show-original-ids option to show
+original names
+git-show-ref.txt: fix order of flags
+git-2.20.0
+update-ref: fix type of update_flags variable to
+match its usage
+update-ref: allow --no-deref with --stdin
+git-1.7.3
+fast-export: Fix dropping of files with --import-marks and path
+limiting
+fast-export: Add a --full-tree option
+fast-export: Fix output order of D/F changes
+fast-import: Improve robustness when D-&gt;F changes provided in wrong
+order
+git-1.6.4:
+fast-export: Set revs.topo_order before calling setup_revisions
+fast-export: Omit tags that tag trees
+fast-export: Make sure we show actual ref names instead of "(null)"
+fast-export: Do parent rewriting to avoid dropping relevant commits
+fast-export: Add a --tag-of-filtered-object option for newly
+dangling tags
+Add new fast-export testcases
+fast-export: Document the fact that git-rev-list arguments are
+accepted
+git-1.6.3:
+git-filter-branch: avoid collisions with variables in eval'ed
+commands
+Correct missing SP characters in grammar comment at top of
+fast-import.c
+fast-export: Avoid dropping files from commits
+git-1.6.1.4:
+fast-export: ensure we traverse commits in topological order
+            About
+      Quickly rewrite git repository history (filter-branch replacement)
+  Resources
+      Readme
+  License
+        View license
+    Releases
+      7
+        v2.28.0
+          Latest
+      Jul 27, 2020
+        + 6 releases
+    Packages 0
+        No packages published 
+    Contributors 13
+      + 2 contributors
+              Languages
+        Python
+        65.0%
+        Shell
+        33.3%
+        Makefile
+        1.7%
+        © 2020 GitHub, Inc.
+          Terms
+          Privacy
+  Cookie Preferences
+          Security
+          Status
+          Help
+          Contact GitHub
+          Pricing
+        API
+        Training
+          Blog
+          About
+    You can’t perform that action at this time.
+    You signed in with another tab or window. Reload to refresh your session.
+    You signed out in another tab or window. Reload to refresh your session.
+  We use optional third-party analytics cookies to understand how you use GitHub.com so we can build better products.
+              Learn more.
+              Accept
+              Reject
+  We use optional third-party analytics cookies to understand how you use GitHub.com so we can build better products.
+              You can always update your selection by clicking Cookie Preferences at the bottom of the page.
+              For more information, see our Privacy Statement.
+              Essential cookies
+              We use essential cookies to perform essential website functions, e.g. they're used to log you in. 
+                Learn more
+              Always active
+              Analytics cookies
+              We use analytics cookies to understand how you use our websites so we can make them better, e.g. they're used to gather information about the pages you visit and how many clicks you need to accomplish a task. 
+                Learn more
+                Accept
+                Reject
+            Save preferences

@@ -1,0 +1,237 @@
+					12:09AM
+					Obituaries
+					PGe
+					PGe -->
+										PG Store
+										Archives
+						Events
+						Jobs
+						Real Estate
+						Cars
+						Classified
+					-->
+					Classifieds 
+							Classified
+							Events
+							Jobs
+							Real Estate
+							Legal Notices
+							Pets
+						MENU
+									SUBSCRIBE
+								   LOGIN
+								   REGISTER
+									LOG OUT
+									MY PROFILE
+							Home
+							News
+							Local
+							Sports
+							Opinion
+							A&amp;E
+							Life
+							Business
+							Contact Us
+						-->
+						NEWSLETTERS
+						Search Box -->
+						 -->
+					-->
+			 -->
+			MENU
+				>>&amp;text='+encodeURIComponent(&quot;>>&quot;)+'&amp;via=PittsburghPG','','width=500,height=500')  "> -->
+		ACCOUNT
+					Subscribe -->
+					Subscribe
+					Login
+					Register
+					Log out
+					My Profile
+					Subscriber Services
+					Search
+				SECTIONS
+				HOME
+					Homepage
+					This Just In
+					Chats
+					Weather
+					Traffic
+					Event Guide
+					PG Store
+					PGe
+					Video
+					Photos
+					The Digs
+					Circulars
+					RSS Feeds
+				NEWS
+					News Home
+					COVID-19
+					World
+					Nation
+					State
+					Insight
+					Obituaries
+					News Obituaries
+					Politics
+					Education
+					Portfolio
+					Science
+					Health
+					Environment
+					Aging Edge
+					Transportation
+					Faith &amp; Religion
+					Crimes &amp; Courts
+					Social Services
+				LOCAL
+					Local Home
+					Region
+					City
+					North
+					East
+					West
+					South
+					Washington
+					Westmoreland
+					The Neighborhood
+					Obituaries
+					Classifieds
+					Cars -->
+					Legal Notices
+					Real Estate
+				SPORTS
+					Sports Home
+					Steelers
+					Penguins
+					Pirates
+					Sports Columns
+					Gene Collier
+					Ron Cook
+					Joe Starkey
+					Paul Zeise
+					High School Sports
+					College Sports
+					Pitt
+					Penn State
+					Other Sports
+					North Shore Drive Podcast
+				OPINION
+					Opinion Home
+					Editorials
+					Letters
+					Op-Ed Columns
+					PG Columnists
+					Rob Rogers -->
+				A&amp;E
+					A&amp;E Home
+					Celebrities
+					Movies
+					TV &amp; Radio
+					Music
+					Concert Listings
+					Theatre &amp; Dance
+					Art &amp; Architecture
+					Books
+					Events
+				LIFE
+					Life Home
+					Food
+					Buying Here
+					Homes &amp; Gardens
+					Style &amp; Fashion
+					Travel
+					Restaurants
+					Seen
+					Setting the SEEN
+					Random Acts of Kindness
+					Pets
+					Beer Me
+					Outdoors
+					Holidays
+				BUSINESS
+					Business Home
+					Your Money
+					Wheels
+					Workzone
+					Business Health
+					Tech News
+					Building PGH
+					Powersource
+					Business / Law
+					Top Workplaces
+					Business of Pittsburgh
+					Consumer Alerts
+					Other Business -->
+		OTHER
+			PGe
+			PGe -->
+			NEWSLETTERS
+			PG STORE
+			ARCHIVES
+		CLASSIFIEDS
+			OBITUARIES
+			JOBS
+			LEGAL NOTICES
+			REAL ESTATE
+			CLASSIFIEDS
+			EVENTS
+			PETS
+				CONTACT US / FAQ
+			CONTACT US
+			ADVERTISING
+			CAREER OPPORTUNITIES
+		 -->
+%|%{param1="nate"}
+	[%{blah}
+	%|%
+	%]
+%|% -->
+ -->
+TOP
+ -->
+#pgevoke-tipform {
+	margin: auto;
+	max-width: 300px;
+	background-color: white;
+	border: 5px solid #ccc;
+	border-radius: 5px;
+	color: #222;
+	padding: 45px 15px 15px;
+	position: relative;
+	font-size: 14px;
+	font-family: proxima-nova, Arial, sans-serif;
+}
+.pgevoke-tipform-header {
+	background-color: #eee;
+	color: #222;
+	font-weight: bold;
+	font-size: 14px;
+	text-transform: uppercase;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	padding: 10px 5px;
+	margin: 0 auto 10px;
+}
+.pgevoke-tipform-field {
+	width: 100%;
+	margin-bottom:10px;
+}
+.pgevoke-tipform-field input {
+	width: 100%;
+}
+			Email a Story
+				Your e-mail:
+				Friends e-mail:
+			-->
+		          Submit
+-->
+ pg.analytics.aam
+- analytics.pg -> pg.analytics.civicscience
+- pg.analytics.aam-certifier (live only)
+- pg.analytics.google-analytics
+-->
+(function(a,b,c,d,e){e=a.createElement(b);a=a.getElementsByTagName(b)[0];e.async=1;e.src=c;a.parentNode.insertBefore(e,a)})(document,'script','//b6227.xyz/fc4ef4b0cd862534876ba3940f4684fdecc9f9cac6edd85a9939093b4c1889c363192384d285f62117e1b1e2ba8939ec2e65b9aa3a4786c9dccae2dea926');
+-->

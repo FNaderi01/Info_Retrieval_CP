@@ -1,0 +1,428 @@
+        About
+            Branching and Merging
+            Small and Fast
+            Distributed
+            Data Assurance
+            Staging Area
+            Free and Open Source
+            Trademark
+        Documentation
+            Reference
+            Book
+            Videos
+            External Links
+        Downloads
+            GUI Clients
+            Logos
+        Community
+This book is available in
+  English.
+  Full translation available in
+    български език,
+    Deutsch,
+    Español,
+    Français,
+    Ελληνικά,
+    日本語,
+    한국어,
+    Nederlands,
+    Русский,
+    Slovenščina,
+    Tagalog,
+    Українська
+    简体中文,
+  Partial translations available in
+    Čeština,
+    Македонски,
+    Polski,
+    Српски,
+    Ўзбекча,
+    繁體中文,
+  Translations started for
+    azərbaycan dili,
+    Беларуская,
+    فارسی,
+    Indonesian,
+    Italiano,
+    Bahasa Melayu,
+    Português (Brasil),
+    Português (Portugal),
+    Svenska,
+    Türkçe.
+The source of this book is  hosted on GitHub.
+Patches, suggestions and comments are welcome.
+  Chapters ▾
+  1. Aan de slag
+          1.1
+          Over versiebeheer 
+          1.2
+          Een kort historisch overzicht van Git 
+          1.3
+          Wat is Git? 
+          1.4
+          De commando-regel 
+          1.5
+          Git installeren 
+          1.6
+          Git klaarmaken voor eerste gebruik 
+          1.7
+          Hulp krijgen 
+          1.8
+          Samenvatting 
+  2. Git Basics
+          2.1
+          Een Git repository verkrijgen 
+          2.2
+          Wijzigingen aan de repository vastleggen 
+          2.3
+          De commit geschiedenis bekijken 
+          2.4
+          Dingen ongedaan maken 
+          2.5
+          Werken met remotes 
+          2.6
+          Taggen (Labelen) 
+          2.7
+          Git aliassen 
+          2.8
+          Samenvatting 
+  3. Branchen in Git
+          3.1
+          Branches in vogelvlucht 
+          3.2
+          Eenvoudig branchen en mergen 
+          3.3
+          Branch-beheer 
+          3.4
+          Branch workflows 
+          3.5
+          Branches op afstand (Remote branches) 
+          3.6
+          Rebasen 
+          3.7
+          Samenvatting 
+  4. Git op de server
+          4.1
+          De protocollen 
+          4.2
+          Git op een server krijgen 
+          4.3
+          Je publieke SSH sleutel genereren 
+          4.4
+          De server opzetten 
+          4.5
+          Git Daemon 
+          4.6
+          Slimme HTTP 
+          4.7
+          GitWeb 
+          4.8
+          GitLab 
+          4.9
+          Hosting oplossingen van derden 
+          4.10
+          Samenvatting 
+  5. Gedistribueerd Git
+          5.1
+          Gedistribueerde workflows 
+          5.2
+          Bijdragen aan een project 
+          5.3
+          Het beheren van een project 
+          5.4
+          Samenvatting 
+  6. GitHub
+          6.1
+          Account setup en configuratie 
+          6.2
+          Aan een project bijdragen 
+          6.3
+          Een project onderhouden 
+          6.4
+          Een organisatie beheren 
+          6.5
+          GitHub Scripten 
+          6.6
+          Samenvatting 
+  7. Git Tools
+          7.1
+          Revisie Selectie 
+          7.2
+          Interactief stagen 
+          7.3
+          Stashen en opschonen 
+          7.4
+          Je werk tekenen 
+          7.5
+          Zoeken 
+          7.6
+          Geschiedenis herschrijven 
+          7.7
+          Reset ontrafeld 
+          7.8
+          Mergen voor gevorderden 
+          7.9
+          Rerere 
+          7.10
+          Debuggen met Git 
+          7.11
+          Submodules 
+          7.12
+          Bundelen 
+          7.13
+          Vervangen 
+          7.14
+          Het opslaan van inloggegevens 
+          7.15
+          Samenvatting 
+  8. Git aanpassen
+          8.1
+          Git configuratie 
+          8.2
+          Git attributen 
+          8.3
+          Git Hooks 
+          8.4
+          Een voorbeeld van Git-afgedwongen beleid 
+          8.5
+          Samenvatting 
+  9. Git en andere systemen
+          9.1
+          Git als een client 
+          9.2
+          Migreren naar Git 
+          9.3
+          Samenvatting 
+  10. Git Binnenwerk
+          10.1
+          Binnenwerk en koetswerk (plumbing and porcelain) 
+          10.2
+          Git objecten 
+          10.3
+          Git Referenties 
+          10.4
+          Packfiles 
+          10.5
+          De Refspec 
+          10.6
+          Uitwisseling protocollen 
+          10.7
+          Onderhoud en gegevensherstel 
+          10.8
+          Omgevingsvariabelen 
+          10.9
+          Samenvatting 
+  A1. Appendix A: Git in andere omgevingen
+          A1.1
+          Grafische interfaces 
+          A1.2
+          Git in Visual Studio 
+          A1.3
+          Git in Visual Studio Code 
+          A1.4
+          Git in Eclipse 
+          A1.5
+          Git in Sublime Text 
+          A1.6
+          Git in Bash 
+          A1.7
+          Git in Zsh 
+          A1.8
+          Git in PowerShell 
+          A1.9
+          Samenvatting 
+  A2. Appendix B: Git in je applicaties inbouwen
+          A2.1
+          Commando-regel Git 
+          A2.2
+          Libgit2 
+          A2.3
+          JGit 
+          A2.4
+          go-git 
+          A2.5
+          Dulwich 
+  A3. Appendix C: Git Commando’s
+          A3.1
+          Setup en configuratie 
+          A3.2
+          Projecten ophalen en maken 
+          A3.3
+          Basic Snapshotten 
+          A3.4
+          Branchen en mergen 
+          A3.5
+          Projecten delen en bijwerken 
+          A3.6
+          Inspectie en vergelijking 
+          A3.7
+          Debuggen 
+          A3.8
+          Patchen 
+          A3.9
+          Email 
+          A3.10
+          Externe systemen 
+          A3.11
+          Beheer 
+          A3.12
+          Binnenwerk commando’s (plumbing commando’s) 
+      2nd Edition
+    A2.2 Appendix B: Git in je applicaties inbouwen - Libgit2
+Libgit2
+Een andere optie die je hebt is om Libgit2 te gebruiken.
+Libgit2 is een implementatie van Git die nergens van afhankelijk is, met een focus op het behouden van een goede API om vanuit andere programma’s te gebruiken.
+Je kunt het vinden op https://libgit2.org.
+Laten we allereerst eens kijken hoe de C API eruit ziet.
+Hier is een razendsnel overzicht:
+// Open a repository
+git_repository *repo;
+int error = git_repository_open(&amp;repo, "/path/to/repository");
+// Dereference HEAD to a commit
+git_object *head_commit;
+error = git_revparse_single(&amp;head_commit, repo, "HEAD^{commit}");
+git_commit *commit = (git_commit*)head_commit;
+// Print some of the commit's properties
+printf("%s", git_commit_message(commit));
+const git_signature *author = git_commit_author(commit);
+printf("%s &lt;%s&gt;\n", author-&gt;name, author-&gt;email);
+const git_oid *tree_id = git_commit_tree_id(commit);
+// Cleanup
+git_commit_free(commit);
+git_repository_free(repo);
+De eerste paar regels openen een Git repository.
+Het git_repository type vertegenwoordigt een handvat (handle) naar een repository met een buffer in het geheugen.
+Dit is de eenvoudigste manier, voor als je het exacte pad naar de werk directory of .git folder weet.
+Er is ook git_repository_open_ext die opties voor zoeken in zich heeft, git_clone en z’n vriendjes voor het maken van een lokale kloon van een remote repository, en git_repository_init voor het maken van een hele nieuwe repository.
+Het tweede stuk code gebruikt rev-parse syntax (zie Branch referenties voor meer details) om de commit te krijgen waar HEAD uiteindelijk naar wijst.
+Het type dat je terugkrijgt is een git_object pointer, wat staat voor iets dat bestaat in de Git object database voor een repository.
+git_object is eigenlijk en “parent” type voor een aantal verschillende soorten objecten; de geheugenindeling voor elk van de “child” typen is hetzelfde als voor git_object, dus je kunt het veilig naar de juiste omzetten (casten).
+In dit geval, zou git_object_type(commit) GIT_OBJ_COMMIT teruggeven, dus het is veilig te casten naar een git_commit pointer.
+Het volgende stuk laat zien hoe de kenmerken van een commit kunnen worden benaderd.
+De laatste regel hier gebruikt een git_oid type; dit is hoe Libgit2 een SHA-1 hash representeert.
+Uit dit voorbeeld beginnen een aantal patronen naar boven te komen:
+Als je een pointer declareert en een referentie hieraan doorgeeft met een Libgit2 aanroep, zal die aanroep waarschijnlijk een integer foutcode teruggeven.
+Een 0 waarde geeft een succes aan; al het andere is een fout.
+Als Libgit2 een pointer voor je vult, ben jij verantwoordelijk deze weer vrij te geven.
+Als Libgit2 een const pointer teruggeeft van een aanroep, hoef je deze niet vrij te geven, maar het wordt ongeldig als het object waar het toe behoort vrij wordt gegeven.
+In C schrijven is nogal uitdagend.
+Dat laatste houdt in dat het niet erg waarschijnlijk is dat je in C gaat schrijven als je Libgit2 gebruikt.
+Gelukkig is er een aantal taal-specifieke "bindings" beschikbaar die het redelijk eenvoudig maken om vanuit jouw specifieke taal en omgeving met Git repositories te werken.
+Laten we naar het bovenstaande voorbeeld kijken die we in Ruby schrijven met gebruikmaking van de bindings voor deze taal die Rugged heet, en gevonden kan worden op https://github.com/libgit2/rugged.
+repo = Rugged::Repository.new('path/to/repository')
+commit = repo.head.target
+puts commit.message
+puts "#{commit.author[:name]} &lt;#{commit.author[:email]}&gt;"
+tree = commit.tree
+Zoals je kunt zien, is de code een stuk schoner.
+Ten eerste, Rugged gebruikt exceptions; het kan dingen gooien als ConfigError of `ObjectError om fout situaties aan te geven.
+Ten tweede, er is geen expliciete vrij geven van middelen, omdat Ruby een garbage-collector kent.
+Laten we een kijkje nemen naar een iets ingewikkelder voorbeeld: vanaf het begin een commit samenstellen
+blob_id = repo.write("Blob contents", :blob) # (1)
+index = repo.index
+index.read_tree(repo.head.target.tree)
+index.add(:path =&gt; 'newfile.txt', :oid =&gt; blob_id) # (2)
+sig = {
+    :email =&gt; "bob@example.com",
+    :name =&gt; "Bob User",
+    :time =&gt; Time.now,
+}
+commit_id = Rugged::Commit.create(repo,
+    :tree =&gt; index.write_tree(repo), # (3)
+    :author =&gt; sig,
+    :committer =&gt; sig, # (4)
+    :message =&gt; "Add newfile.txt", # (5)
+    :parents =&gt; repo.empty? ? [] : [ repo.head.target ].compact, # (6)
+    :update_ref =&gt; 'HEAD', # (7)
+)
+commit = repo.lookup(commit_id) # (8)
+Maak een nieuwe blob, die de inhoud van een nieuw bestand bevat.
+Vul de index met tree van de commit van de head, en voeg het nieuwe bestand toe aan het pad nexfile.txt.
+Dit maakt een nieuwe tree aan in de ODB, en gebruikt deze voor de nieuwe commit.
+We gebruiken hetzelfde kenmerk voor de velden van zowel de auteur en de committer.
+Het commit bericht.
+Als je een commit maakt, moet je de ouders van de nieuwe commit opgeven.
+Dit gebruikt de punt van HEAD voor de enige ouder.
+Rugged (en Libgit2) kan optioneel een referentie updaten als er een commit wordt gemaakt.
+De retourwaarde is de SHA-1 has van een nieuw commit object, die je dan weer kan gebruiken om een Commit object te krijgen.
+De code in Ruby is mooi en schoon, maar omdat Libgit2 het zware werk doet, zal deze code ook redelijk snel draaien.
+Als je niet zo’n rubyist bent, we behandelen nog een aantal andere bindings in Andere bindings.
+Functionaliteit voor gevorderden
+Libgit2 heeft een aantal mogelijkheden die buiten het bereik liggen van de kern van Git.
+Een voorbeeld is de inhaakmogelijkheid (pluggability): Libgit2 geeft je de mogelijkheid om eigengemaakte “backends” voor een aantal type operaties te verzorgen, zodat je dingen anders kunt opslaan dan Git standaard doet.
+Libgit2 staat, onder andere, eigengemaakte backends toe voor configuratie, opslag van refs en de object database.
+Laten we eens kijken hoe dit in elkaar zit.
+De onderstaande code is geleend van de set van backend voorbeelden die door het Libgit2 team wordt geleverd (deze
+ kunnen worden gevonden op https://github.com/libgit2/libgit2-backends).
+Hier zie je hoe een eigengemaakte backend voor de objectdatabase wordt opgezet:
+git_odb *odb;
+int error = git_odb_new(&amp;odb); // (1)
+git_odb_backend *my_backend;
+error = git_odb_backend_mine(&amp;my_backend, /*…*/); // (2)
+error = git_odb_add_backend(odb, my_backend, 1); // (3)
+git_repository *repo;
+error = git_repository_open(&amp;repo, "some-path");
+error = git_repository_set_odb(odb); // (4)
+(Merk op dat fouten worden opgevangen, maar niet afgehandeld. We hopen dat jouw code beter is dan de onze.)
+Initialiseer een lege object database (ODB) “frontend”, die als een bevatter dient voor de “backends” die het echte werk zullen uitvoeren.
+Initialiseer een eigengemaakte ODB backend.
+Voeg de backend toe aan de frontend.
+Open een repository, en stel het in om onze ODB te gebruiken om objecten op te zoeken.
+Maar wat is dat git_odb_backend_mine voor een ding?
+Nou, dat is de constructor voor je eigen ODB implementatie, en je kunt daarin doen wat je wilt, zolang als je de git_odb_backend structuur maar juist vult.
+Hier is hoe het eruit zou kunnen zien:
+typedef struct {
+    git_odb_backend parent;
+    // Some other stuff
+    void *custom_context;
+} my_backend_struct;
+int git_odb_backend_mine(git_odb_backend **backend_out, /*…*/)
+{
+    my_backend_struct *backend;
+    backend = calloc(1, sizeof (my_backend_struct));
+    backend-&gt;custom_context = …;
+    backend-&gt;parent.read = &amp;my_backend__read;
+    backend-&gt;parent.read_prefix = &amp;my_backend__read_prefix;
+    backend-&gt;parent.read_header = &amp;my_backend__read_header;
+    // …
+    *backend_out = (git_odb_backend *) backend;
+    return GIT_SUCCESS;
+}
+Een heel subtiele beperking hier is dat de eerste member van my_backend_struct een git_odb_backend structure moet zijn; dit zorgt ervoor dat de geheugenindeling dat is wat de Libgit2 code ervan verwacht.
+De rest is vrij in te vullen; deze structuur kan zo groot of zo klein zijn als je het nodig vindt.
+De initialisatie functie alloceert wat geheugen voor de structure, richt de eigen context in en vult daarna de de members van de parent structure die het ondersteunt.
+Neem een kijkje in het include/git2/sys/odb_backend.h bestand in de Libgit2 broncode voor een volledige set van aanroep-signatures; jou specifieke use-case helpt je bepalen welke van deze je wilt ondersteunen.
+Andere bindings
+Libgit2 heeft bindings voor vele talen.
+Hier laten we je een klein voorbeeld waarbij we een aantal van de meer complete binding pakketen op het moment van schrijven; er bestaan libraries voor vele andere talen, waaronder C++, Go, Node.js, Erlang, en de JVM, alle in verschillende stadia van volwassenheid.
+De officiele verzameling van bindings kan je vinden door in de repositories te zoeken op https://github.com/libgit2.
+De code die we zullen schrijven gaat het commit bericht teruggeven van de commit waar de HEAD uiteindelijk naar toe wijst (vergelijkbaar met git log -l).
+LibGit2Sharp
+Als je een applicatie in .NET of Mono schrijft, is LigGit2Sharp (https://github.com/libgit2/libgit2sharp) waar je naar op zoek bent.
+De bindings zijn geschreven in C#, and er is veel zorg besteed aan het inpakken van de ruwe Libgit2 calls met CLR APIs die natuurlijk aanvoelen.
+Dit is hoe ons voorbeeld programma eruit ziet:
+new Repository(@"C:\path\to\repo").Head.Tip.Message;
+Voor Windows werkblad-applicaties is er zelfs een NuGet pakket dat je helpt snel op gang te komen.
+objective-git
+Als je applicatie op een Apple platform draait, gebruik je waarschijnlijk Objective-C als je implementatie taal.
+Objective-Git (https://github.com/libgit2/objective-git) is de naam van de Libgit2 bindings voor die omgeving.
+Ons voorbeeld programma ziet er zo uit:
+GTRepository *repo =
+    [[GTRepository alloc] initWithURL:[NSURL fileURLWithPath: @"/path/to/repo"] error:NULL];
+NSString *msg = [[[repo headReferenceWithError:NULL] resolvedTarget] message];
+Objective-git kan naadloos samenwerken met Swift, dus je hoeft er niet bang voor te zijn als je Objective-C hebt verlaten.
+pygit2
+De bindings voor Libgit2 in Python heten Pygit2, en kunnen worden gevonden op https://www.pygit2.org.
+Ons voorbeeld programma:
+pygit2.Repository("/path/to/repo") # open repository
+    .head                          # get the current branch
+    .peel(pygit2.Commit)           # walk down to the commit
+    .message                       # read the message
+Meer lezen
+Een volledige behandeling van de mogelijkheden van Libgit2 ligt natuurlijk buiten het bestek van dit boek.
+Als je meer informatie wilt over Libgit2 zelf, kan je de API documentatie vinden op https://libgit2.github.com/libgit2, en een aantal handboeken op https://libgit2.github.com/docs.
+Voor de andere bindings, kan je de meegeleverde README en testen bekijken; je kunt er vaak kleine tutorials en hints naar meer informatie vinden.
+prev | next
+    About this site
+    Patches, suggestions, and comments are welcome.
+    Git is a member of Software Freedom Conservancy

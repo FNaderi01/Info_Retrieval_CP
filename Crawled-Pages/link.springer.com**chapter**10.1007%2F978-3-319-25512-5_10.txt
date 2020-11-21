@@ -1,0 +1,345 @@
+    Skip to main content
+        This service is more advanced with JavaScript available
+                Advertisement
+                Hide
+    Search SpringerLink
+                Search
+                    Home
+                        Log in
+        Digital Forensics and Cyber Crime
+             International Conference on Digital Forensics and Cyber Crime
+ICDF2C 2015: Digital Forensics and Cyber Crime
+                pp 126-139 |
+                Cite asCyber PeacekeepingAuthorsAuthors and affiliationsNikolay AkatyevJoshua I. JamesConference paperFirst Online: 25 December 2015    
+                            7
+                       Mentions
+                     1.1k
+                     Downloads
+                Part of the
+                Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+                book series (LNICST, volume 157)AbstractUntil now, many works have focused on attempting to define cyber warfare, as well as appropriate response leading to conflict escalation. Instead, this paper proposes a comprehensive definition of Cyber Peacekeeping motivated by prior research on peacekeeping, cyber conflict and warfare, and international relations in cyberspace. Cyber Peacekeeping works to promote online safety and security, which assists in both physical and cyber conflict cessation, and helps protect cyber civilians from becoming either victims or participants in cyber conflicts. This work defines key terms of cyber peacekeeping, as well as its scope and goals in relation to conflict prevention, mitigation, aftermath containment and cleanup. We then propose a potential organizational structure of Cyber Peacekeeping to support its defined roles and functions. Through a case study of a notable past cyber conflict, examples of practical cyber peacekeeping are shown, as well as the roles that peacekeeping could have played in such conflicts.KeywordsCyber peacekeeping Cyber conflicts Cyber war Cyberspace safe layer International relations in cyberspace Stability and security Information clearinghouse This is a preview of subscription content, log in to check access.References1.Bellamy, A.J., Williams, P.D., Griffin, S.: Understanding Peacekeeping. Polity, Cambridge (2010)Google Scholar2.Lynn III, W.J.: Defending a new domain: the pentagon’s cyberstrategy. Foreign Aff. 89, 97–108 (2010)Google Scholar3.Melzer, N.: Cyberwarfare and International Law. UNDIR Resources, Helgafell (2011)Google Scholar4.Schmitt, M.N. (ed.): Tallinn Manual on the International Law Applicable to Cyber Warfare. Cambridge University Press, Cambridge (2013)Google Scholar5.Hathaway, O.A.: The Law of Cyber-Attack. Faculty Scholarship Series. Paper 3852 (2012)Google Scholar6.Allen, P.D., Demchak, C.: The Palestinian-Israeli Cyberwar. Mil. Rev. 83, 52 (2003)Google Scholar7.Rehman, S.: Estonia’s Lessons in Cyberwarfare. USNews (2013)Google Scholar8.Boo, H.-W., Lee, K.-K.: Cyber war and policy suggestions for South Korean planners. Int. J. Korean Unification Stud. 21(2), 85–106 (2012)Google Scholar9.Cahill, T.P., Rozinov, K., Mule, C.: Cyber warfare peacekeeping, pp. 100. In: Proceedings of the 2003 IEEE Workshop on Information Assurance (2003)Google Scholar10.Kleffner, J.K.: Keeping the cyber peace: international legal aspects of cyber activities in peace operations. Int. Law Stud. 89, 1 (2013)Google Scholar11.Bayo, O.A.: The factors behind success and failures of United Nations peacekeeping missions: a case of the Democratic Republic of Congo. J. Altern. Perspect. Soc. Sci. 3(4), 19 (2012)Google Scholar12.ITU International Multilateral Partnership Against Cyber Threats. http://www.impact-alliance.org/
+        13.NATO Cooperative Cyber Defense Center of Excellence. https://ccdcoe.org/
+        14.Bronk, C.: Hacks on Gas: Energy, Cybersecurity, and U.S. Defense. Rice University, Houston (2014)Google Scholar15.Chang, Y.: Cyber conflict between Taiwan and China. Strateg. Insights 10(1), 25–35 (2011)Google Scholar16.Farwell, J.P., Arakelian, D.: A Better Syria Option: Cyber War. The National Interest (2013)Google Scholar17.Al-Marashi, I.: The Angel of Death is coming for you, ISIL. AlJazeera (2015)Google Scholar18.Mobile Continues to Steal Share of US Adults’ Daily Time Spent with Media. eMarketer (2014)Google Scholar19.Eugene Kaspersky Press Club 2013. Canberra, Australia (2013). http://outsidelens.scmagazine.com/video/Eugene-Kaspersky-Press-Club-201
+        20.Kulikova, A.: Is a cyber arms race between the US and Russia possible? Russia Direct (2015)Google Scholar21.Cole, J.M.: China’s Shifting Cyber Focus on Taiwan. The Diplomat (2013)Google Scholar22.Sartre, P.: Making UN Peacekeeping More Robust: Protecting the Mission, Persuading the Actors. International Peace Institute, New York (2011)Google Scholar23.Das, S.K., Kant, K., Zhang, N.: Handbook on Securing Cyber-Physical Critical Infrastructure. Elsevier, Amsterdam (2012)Google ScholarCopyright information© Institute for Computer Sciences, Social informatics and Telecommunication Engineering 2015Authors and AffiliationsNikolay Akatyev1Email authorJoshua I. James21.Seoul Tech SocietySeoulSouth Korea2.Digital Forensic Investigation Research LaboratoryHallym UniversityChuncheonSouth Korea
+    About this paper
+        Cite this paper as:
+    Akatyev N., James J.I. (2015) Cyber Peacekeeping. In: James J., Breitinger F. (eds) Digital Forensics and Cyber Crime. ICDF2C 2015. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 157. Springer, Cham. https://doi.org/10.1007/978-3-319-25512-5_10
+            First Online
+            25 December 2015
+            DOI
+            https://doi.org/10.1007/978-3-319-25512-5_10
+                Publisher Name
+                Springer, Cham
+                Print ISBN
+                978-3-319-25511-8
+                Online ISBN
+                978-3-319-25512-5
+            eBook Packages
+                Computer Science
+                Computer Science (R0)
+                Buy this book on publisher's site
+            Reprints and Permissions
+    Personalised recommendations
+    Cite
+    paper
+        How to cite?
+                    .RIS
+                            Papers
+                            Reference Manager
+                            RefWorks
+                            Zotero
+                    .ENW
+                            EndNote
+                    .BIB
+                            BibTeX
+                            JabRef
+                            Mendeley
+            Buy options
+                                    Actions
+    .buybox {
+        margin: 16px 0 0;
+        position: relative;
+    }
+    .buybox {
+        font-family: Source Sans Pro, Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        font-size: 1.4rem;
+    }
+    .buybox {
+        zoom: 1;
+    }
+    .buybox:after,
+    .buybox:before {
+        content: '';
+        display: table;
+    }
+    .buybox:after {
+        clear: both;
+    }
+    /*---------------------------------*/
+    .buybox .buybox__header {
+        border: 1px solid #b3b3b3;
+        border-bottom: 0;
+        padding: 8px;
+        position: relative;
+        background-color: #f2f2f2;
+    }
+    .buybox__header .buybox__login {
+        font-family: Source Sans Pro, Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        font-size: 1.4rem;
+        letter-spacing: .017em;
+        display: inline-block;
+        line-height: 1.2;
+        padding: 0;
+    }
+    .buybox__header .buybox__login:before {
+        position: absolute;
+        top: 50%;
+        -webkit-transform: perspective(1px) translateY(-50%);
+        transform: perspective(1px) translateY(-50%);
+        content: '\A';
+        width: 34px;
+        height: 34px;
+        left: 10px;
+    }
+    /*---------------------------------*/
+    .buybox .buybox__body {
+        padding: 0;
+        padding-bottom: 16px;
+        position: relative;
+        text-align: center;
+        background-color: #fcfcfc;
+        border: 1px solid #b3b3b3;
+    }
+    /******/
+    .buybox__body .buybox__section {
+        padding: 16px 12px 0 12px;
+        text-align: left;
+    }
+    .buybox__section .buybox__buttons {
+        text-align: center;
+        width: 100%;
+    }
+    /********** mycopy buybox specific **********/
+    .buybox.mycopy__buybox .buybox__body {
+        background-color: transparent;
+    }
+    .buybox.mycopy__buybox .buybox__section .buybox__buttons {
+        border-top: 0;
+        padding-top: 0;
+    }
+    /******/
+    .buybox__section:nth-child(2) .buybox__buttons {
+        border-top: 1px solid #b3b3b3;
+        padding-top: 20px;
+    }
+    .buybox__buttons .buybox__buy-button {
+        display: inline-block;
+        text-align: center;
+        margin-bottom: 5px;
+        padding: 6px 12px;
+        max-width: 180px
+    }
+    .buybox__buttons .buybox__price {
+        white-space: nowrap;
+        text-align: center;
+        font-size: larger;
+        padding-top: 6px;
+    }
+    .buybox__section .buybox__meta {
+        letter-spacing: 0;
+        padding-top: 12px;
+    }
+    .buybox__section .buybox__meta:only-of-type {
+        padding-top: 0;
+        position: relative;
+        bottom: 6px;
+    }
+    /********** mycopy buybox specific **********/
+    .buybox.mycopy__buybox .buybox__section .buybox__meta {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    /******/
+    .buybox__meta .buybox__product-title {
+        display: inline;
+        font-weight: bold;
+    }
+    .buybox__meta .buybox__list {
+        line-height: 1.3;
+    }
+    .buybox__meta .buybox__list li {
+        position: relative;
+        padding-left: 1em;
+        list-style: none;
+        margin-bottom: 5px;
+    }
+    .buybox__meta .buybox__list li:before {
+        font-size: 1em;
+        content: '\2022';
+        float: left;
+        position: relative;
+        top: .1em;
+        font-family: serif;
+        font-weight: 600;
+        text-align: center;
+        line-height: inherit;
+        color: #666;
+        width: auto;
+        margin-left: -1em;
+    }
+    .buybox__meta .buybox__list li:last-child {
+        margin-bottom: 0;
+    }
+    /********** chapter buybox specific **********/
+    .buybox.chapter__buybox .buybox__section .buybox__meta {
+        border-top: 1px solid #d3d3d3;
+        padding-top: 12px;
+    }
+    .buybox.chapter__buybox .buybox__section .buybox__buy-ebook {
+        margin-bottom: 12px;
+    }
+    /******/
+    /*---------------------------------*/
+    .buybox .buybox__footer {
+        border: 1px solid #b3b3b3;
+        border-top: 0;
+        padding: 8px;
+        position: relative;
+        border-style: dashed;
+        line-height: 1.3;
+    }
+    .buybox .deepdyve {
+        display: none;
+        text-align: left;
+        margin: 8px 12px 0 12px;
+        padding-top: 5px;
+        border-top: 1px solid #d3d3d3;
+    }
+    /*-----------------------------------------------------------------*/
+    @media screen and (min-width: 460px) and (max-width: 1074px) {
+        .buybox__body .buybox__section {
+            display: inline-block;
+            vertical-align: top;
+            padding: 12px 12px;
+            padding-bottom: 0;
+            text-align: left;
+            width: 48%;
+        }
+        .buybox__body .buybox__section {
+            padding-top: 16px;
+            padding-left: 0;
+        }
+        .buybox__section:nth-of-type(2) .buybox__meta {
+            border-left: 1px solid #d3d3d3;
+            padding-left: 28px;
+        }
+        .buybox__section:nth-of-type(2) .buybox__buttons {
+            border-top: 0;
+            padding-top: 0;
+            padding-left: 16px ;
+        }
+        .buybox__buttons .buybox__buy-button {
+        }
+        /********** article buybox specific **********/
+        .buybox.article__buybox .buybox__section:nth-of-type(2) {
+            margin-top: 16px;
+            padding-top: 0;
+        }
+        .buybox.article__buybox .buybox__section:nth-of-type(2) .buybox__meta {
+            margin-top: 40px;
+            padding-top: 0;
+            padding-bottom: 45px;
+        }
+        .buybox.article__buybox .buybox__section:nth-of-type(2) .buybox__meta:only-of-type {
+            margin-top: 8px;
+            padding-top: 12px;
+            padding-bottom: 12px;
+        }
+        /********** mycopy buybox specific **********/
+        .buybox.mycopy__buybox .buybox__section:first-child {
+            width: 69%;
+            padding-left: 12px ;
+        }
+        .buybox.mycopy__buybox .buybox__section:last-child {
+            width: 29%;
+        }
+        /********** chapter buybox specific **********/
+        .buybox.chapter__buybox .buybox__body {
+            display: flex;
+            align-items: stretch;
+            padding-left: 12px;
+            padding-top: 12px;
+        }
+        .buybox.chapter__buybox .buybox__section .buybox__meta {
+            display: flex;
+            align-items: center;
+            height: 100%;
+            border-top: 0;
+            padding-top: 0;
+        }
+        /******/
+    }
+    /*-----------------------------------------------------------------*/
+    @media screen and (max-width: 459px) {
+        /********** mycopy buybox specific **********/
+        .buybox.mycopy__buybox .buybox__body {
+            padding-bottom: 5px;
+        }
+        .buybox.mycopy__buybox .buybox__section:last-child {
+            text-align: center;
+            width: 100%;
+        }
+        .buybox.mycopy__buybox .buybox__buttons {
+            display: inline-block;
+            width: 150px ;
+        }
+        /******/
+    }
+    /*-----------------------------------------------------------------*/
+        Log in to check access
+                            Buy eBook
+                            EUR 39.58
+            Buy paper (PDF)
+            EUR 24.95
+            Instant download
+            Readable on all devices
+            Own it forever
+            Local sales tax included if applicable
+            Buy Physical Book
+        Learn about institutional subscriptions
+    Cite
+    paper
+        How to cite?
+                    .RIS
+                            Papers
+                            Reference Manager
+                            RefWorks
+                            Zotero
+                    .ENW
+                            EndNote
+                    .BIB
+                            BibTeX
+                            JabRef
+                            Mendeley
+            Advertisement
+            Hide
+                    Over 10 million scientific documents at your fingertips
+                                    Switch Edition
+                                        Academic Edition
+                                        Corporate Edition
+                    Home
+                    Impressum
+                    Legal information
+                    Privacy statement
+                    California privacy statement
+                    How we use cookies
+                    Manage cookies/Do not sell my data
+                    Accessibility
+                    Contact us
+                Springer Nature
+            © 2020 Springer Nature Switzerland AG. Part of Springer Nature.
+                    Not logged in
+                    Not affiliated
+                    37.129.69.29

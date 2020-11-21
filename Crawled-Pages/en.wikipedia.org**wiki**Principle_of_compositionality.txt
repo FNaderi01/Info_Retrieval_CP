@@ -1,0 +1,194 @@
+	Principle of compositionality
+		From Wikipedia, the free encyclopedia
+		Jump to navigation
+		Jump to search
+		This article includes a list of general references, but it remains largely unverified because it lacks sufficient corresponding inline citations. Please help to improve this article by introducing more precise citations.  (April 2016) (Learn how and when to remove this template message)
+In mathematical logic and related disciplines, the principle of compositionality is the principle that the meaning of a complex expression is determined by the meanings of its constituent expressions and the rules used to combine them. This principle is also called Frege's principle, because Gottlob Frege is widely credited for the first modern formulation of it. The principle was never explicitly stated by Frege,[1] and it was arguably already assumed by George Boole[2] decades before Frege's work.
+Contents
+1 Overview
+2 Critiques
+3 See also
+4 References
+5 External links
+Overview[edit]
+The principle of compositionality states that in a meaningful sentence, if the lexical parts are taken out of the sentence, what remains will be the rules of composition. Take, for example, the sentence "Socrates was a man". Once the meaningful lexical items are taken away—"Socrates" and "man"—what is left is the pseudo-sentence, "S was a M". The task becomes a matter of describing what the connection is between S and M.
+It is frequently taken to mean that every operation of the syntax should be associated with an operation of the semantics that acts on the meanings of the constituents combined by the syntactic operation. As a guideline for constructing semantic theories, this is generally taken, as in the influential work on the philosophy of language by Donald Davidson, to mean that every construct of the syntax should be associated by a clause of the T-schema with an operator in the semantics that specifies how the meaning of the whole expression is built from constituents combined by the syntactic rule. In some general mathematical theories (especially those in the tradition of Montague grammar), this guideline is taken to mean that the interpretation of a language is essentially given by a homomorphism between an algebra of syntactic representations and an algebra of semantic objects.
+The principle of compositionality also exists in a similar form in the compositionality of programming languages.
+Critiques[edit]
+The principle of compositionality has been the subject of intense debate. Indeed, there is no general agreement as to how the principle is to be interpreted, although there have been several attempts to provide formal definitions of it. (Szabó, 2012)
+Scholars are also divided as to whether the principle should be regarded as a factual claim, open to empirical testing; an analytic truth, obvious from the nature of language and meaning; or a methodological principle to guide the development of theories of syntax and semantics. The Principle of Compositionality has been attacked in all three spheres, although so far none of the criticisms brought against it have been generally regarded as compelling. Most proponents of the principle, however, make certain exceptions for idiomatic expressions in natural language. (Szabó, 2012)
+Further, in the context of the philosophy of language, the principle of compositionality does not explain all of meaning. For example, you cannot infer sarcasm purely on the basis of words and their composition, yet a phrase used sarcastically means something completely different from the same phrase uttered straightforwardly. Thus, some theorists argue that the principle has to be revised to take into account linguistic and extralinguistic context, which includes the tone of voice used, common ground between the speakers, the intentions of the speaker, and so on. (Szabó, 2012)
+See also[edit]
+Componential analysis
+Context principle
+Formal semantics (logic)
+Initial algebra
+Referential transparency
+References[edit]
+^ Pelletier, Francis Jeffry. 2001. Did Frege believe Frege’s principle? Journal of Logic, Language, and Information 10:87–114.
+^ Boole, G. (1854). An investigation of the laws of thought: on which are founded the mathematical theories of logic and probabilities. Walton and Maberly.
+External links[edit]
+Szabó, Zoltán Gendler. "Compositionality".  In Zalta, Edward N. (ed.). Stanford Encyclopedia of Philosophy..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}
+The Oxford Handbook of Compositionality (OUP, 2012, edited by Markus Werning, Wolfram Hinzen, &amp; Edouard Machery)
+The Compositionality of Meaning and Content (Vol. I &amp; II, Ontos, 2004, edited by Markus Werning, Edouard Machery, &amp; Gerhard Schurz)
+vtePhilosophy of languageIndex of language articlesPhilosophers
+Plato (Cratylus)
+Gorgias
+Confucius
+Xunzi
+Aristotle
+Stoics
+Pyrrhonists
+Scholasticism
+Ibn Rushd
+Ibn Khaldun
+Thomas Hobbes
+Gottfried Wilhelm Leibniz
+Johann Herder
+Ludwig Noiré
+Wilhelm von Humboldt
+Fritz Mauthner
+Paul Ricœur
+Ferdinand de Saussure
+Gottlob Frege
+Franz Boas
+Paul Tillich
+Edward Sapir
+Leonard Bloomfield
+Zhuangzi
+Henri Bergson
+Lev Vygotsky
+Ludwig Wittgenstein
+Philosophical Investigations
+Tractatus Logico-Philosophicus
+Bertrand Russell
+Rudolf Carnap
+Jacques Derrida
+Of Grammatology
+Limited Inc
+Benjamin Lee Whorf
+Gustav Bergmann
+J. L. Austin
+Noam Chomsky
+Hans-Georg Gadamer
+Saul Kripke
+A. J. Ayer
+G. E. M. Anscombe
+Jaakko Hintikka
+Michael Dummett
+Donald Davidson
+Roger Gibson
+Paul Grice
+Gilbert Ryle
+P. F. Strawson
+Willard Van Orman Quine
+Hilary Putnam
+David Lewis
+John Searle
+Joxe Azurmendi
+Scott Soames
+Stephen Yablo
+John Hawthorne
+Stephen Neale
+Paul Watzlawick
+Theories
+Causal theory of reference
+Contrast theory of meaning
+Contrastivism
+Conventionalism
+Cratylism
+Deconstruction
+Descriptivism
+Direct reference theory
+Dramatism
+Dynamic semantics
+Expressivism
+Linguistic determinism
+Mediated reference theory
+Nominalism
+Non-cognitivism
+Phallogocentrism
+Relevance theory
+Semantic externalism
+Semantic holism
+Structuralism
+Supposition theory
+Symbiosism
+Theological noncognitivism
+Theory of descriptions (Definite description)
+Unilalianism
+Verification theory
+Concepts
+Ambiguity
+Cant
+Linguistic relativity
+Language
+Truth-bearer
+Proposition
+Use–mention distinction
+Concept
+Categories
+Set
+Class
+Family resemblance
+Intension
+Logical form
+Metalanguage
+Mental representation
+Presupposition
+Principle of compositionality
+Property
+Sign
+Sense and reference
+Speech act
+Symbol
+Sentence
+Statement
+more...
+Related articles
+Analytic philosophy
+Philosophy of information
+Philosophical logic
+Linguistics
+Pragmatics
+Rhetoric
+Semantics
+Formal semantics
+Semiotics
+Category
+Task Force
+Discussion
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Principle_of_compositionality&amp;oldid=977568597"
+		Categories: SemanticsPrinciplesPhilosophy of languageHidden categories: Articles lacking in-text citations from April 2016All articles lacking in-text citations
+	Navigation menu
+		Personal tools
+		Not logged inTalkContributionsCreate accountLog in
+		Namespaces
+		ArticleTalk
+		Variants
+		Views
+		ReadEditView history
+		More
+		Search
+		Navigation
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		Contribute
+		HelpLearn to editCommunity portalRecent changesUpload file
+		Tools
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		Print/export
+		Download as PDFPrintable version
+		Languages
+		CatalàDeutschEspañolFrançaisItalianoMagyarSvenska中文
+		Edit links
+		 This page was last edited on 9 September 2020, at 16:41 (UTC).
+		Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+		Privacy policy
+		About Wikipedia
+		Disclaimers
+		Contact Wikipedia
+		Mobile view
+		Developers
+		Statistics
+		Cookie statement

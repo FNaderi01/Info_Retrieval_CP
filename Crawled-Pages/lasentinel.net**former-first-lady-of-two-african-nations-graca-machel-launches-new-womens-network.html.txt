@@ -1,0 +1,326 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Former First Lady of Two African Nations, Graça Machel Launches New Women’s Network            
+				By Stacy M. Brown  NNPA Newswire Contributor                
+	                	                Published September 28, 2016
+		Graça Machel said that the primary mission of WIMN is to amplify the voices of women’s movements, influence governance and promote women’s leadership and contributions in the economic, social, and political development of Africa. (Graça Michel)
+In an effort to transform the narrative and negative perceptions of African women and children, Graça Machel, the former first lady of two African nations, recently established a first of its kind Pan African Women in Media Network (WIMN).
+The network of women journalists will work in conjunction with the Graça Machel Trust.
+“The Graça Machel Trust’s women’s rights program is based on our aim to multiply the faces and amplify the voices of women, especially in areas where they are underrepresented,” said Machel, who is also the founder of the Foundation for Community Development in Mozambique. “Through our women’s networks in agribusiness, finance and ‘Women Creating Wealth,’ we foster links and build a critical mass of highly-qualified and active women across sectors and professions who can work collectively to influence, shape and drive the socio-economic policies to ensure that they achieve economic prosperity and social change.”
+        ADVERTISEMENT        
+The Graça Machel Trust works across the African continent to amplify women’s movements, influence governance, and advocate for the protection of children’s rights and dignity.
+The Trust consolidates the work of Machel and seeks to build on her legacy by inspiring the younger generation to take up new challenges and create societies that value and care about social justice.
+Machel noted that the primary mission is to amplify the voices of women’s movements, influence governance and promote women’s leadership and contributions in the economic, social, and political development of Africa.
+The Trust also advocates for the protection of children’s rights and dignity. Recognizing the crucial role that media plays in shaping societal attitudes, Machel said it’s important that women are at the center of transformation within the media landscape.
+The new network has also gained the support of the National Newspaper Publishers Association (NNPA), the Black Press that’s comprised of approximately 208 African-American owned newspapers across the United States.
+“The National Newspaper Publishers Association supports and salutes the Graça Machel Trust that effectively empowers African women. When African women are empowered, it results in advancing all African people throughout the world,” said Dr. Benjamin Chavis, the president and CEO of the NNPA.
+Graça Machel said that the primary mission of WIMN is to amplify the voices of women’s movements, influence governance and promote women’s leadership and contributions in the economic, social, and political development of Africa. (Graça Michel)
+“The Diamond Empowerment Fund, co-founded by Russell Simmons, me and others also recognizes the extraordinary global leadership of Graca Machel and the Graca Machel Trust. I vividly remember meeting Graça Machel at her home in Maputo, Mozambique along with her husband South Africa President Nelson Mandela and my colleague Russell Simmons in 2006.”
+Chavis continued: “We discussed the ongoing struggle and movement to transform Africa for progress and the liberation of all who stand for freedom and equality.”
+Prior to her marriage to Mandela, Machel was the wife of Mozambique President Samora Machel. She also served for more than a decade as that country’s minister of education and culture.
+Machel said that WIMN will drive coordinated messaging and build awareness on issues related to health, education, and women’s economic empowerment, which will have a positive effect on women and children.
+“Given the influential role that media plays in shaping societal attitudes, the network seeks to change the present narrative of women that presents them as powerless victims and ignores the many positive stories and successes,” Machel added. “When economically empowered, women take control of their lives, set their own agendas, provide solutions to their problems and challenges, and develop self-reliance.”
+Machal added: “To build a strong and equitable future for all Africans, we acknowledge the fundamental contribution of women and ensure that we create a supportive and enabling environment where they are able to fully participate and benefit.”
+The network will also create an inter-generational platform to allow young talented female journalists to participate and work alongside the continent’s more seasoned veterans. WIMN will comprise an initial group of about 30 to 40 women journalists, bloggers and influencers, officials said in a statement.
+“Women and children’s issues have tended to make headlines more as victims that are helpless, abused and exploited yet women and children have, over time, been capable of so much more, having overcome many obstacles and excelled in many sectors of the economy and society,” said WIMN board co-chair Susan Makore. “The amazing stories need to find more expression in our media. Therefore, I hope to do my part in ensuring that key stories that highlight and celebrate the various facets of children and women’s activities across all sectors are given prominence in the media by working with my colleagues that run media houses, especially in Zimbabwe where I hail from.”
+Bronwyn Nielsen, the co-chair of the WIMN advisory board, said that Africa’s youth and female dividends are at the core of the continent’s future.
+“It is a fact that women and children can positively impact the future from an economic growth and development perspective,” said Nielsen. “I look forward to working with my fellow board members and all the members of this privileged network to jointly leverage our circles of influence under the esteemed guidance of Mrs. Machel to drive this agenda deep across the continent with both speed and passion.”
+Nielsen continued: “Together we can create a new narrative when it comes to Africa’s women and children.”
+		Categories: International | News | News (Business) Tags: children's rights | First Lady | global leadership | Graca Machel | Pan African | WIMN | Women in Media | women's movements		
+						Judge tosses suit over police tactics in Ferguson protests
+						6 Omaha Central cheerleaders kneel for Friday night anthem
+						Family of black man shot 14 times by police wants charges
+						2015 Hate Crime Report Released
+						PrepareAthon! Gives Tips on Staying Ready
+						LACCD Seeking Applications for Personnel Commissioner
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

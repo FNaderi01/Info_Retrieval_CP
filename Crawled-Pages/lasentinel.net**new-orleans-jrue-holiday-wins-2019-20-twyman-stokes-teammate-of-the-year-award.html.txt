@@ -1,0 +1,315 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+New Orleans’ Jrue Holiday Wins 2019-20 Twyman-Stokes Teammate of the Year Award            
+				By Sentinel News Service                
+	                	                Published October 7, 2020
+		New Orleans guard Jrue Holiday (Facebook photo)
+NBA players have selected New Orleans Pelicans guard Jrue Holiday as the recipient of the 2019-20 Twyman-Stokes Teammate of the Year Award, the NBA announced today.
+The award, presented annually since the 2012-13 season, recognizes the player deemed the best teammate based on selfless play, on- and off-court leadership as a mentor and role model to other NBA players, and commitment and dedication to team.
+More than 250 NBA players submitted their votes for the 2019-20 Twyman-Stokes Teammate of the Year Award through confidential balloting conducted by the league office.  NBA players determined the winner from among the 12 nominees who were selected by a panel of league executives.
+        ADVERTISEMENT        
+Holiday received 53 of 267 first-place votes and finished with 1,041 total points.  Philadelphia 76ers forward Tobias Harris (806 points; 48 first-place votes) and Milwaukee Bucks forward Kyle Korver (796 points; 26 first-place votes) finished in second and third place, respectively.  Players were awarded 10 points for each first-place vote, seven points for each second-place vote, five points for each third-place vote, three points for each fourth-place vote and one point for each fifth-place vote.
+In addition to Holiday, Harris and Korver, the other finalists were Dallas Mavericks guard J.J. Barea, Denver Nuggets forward Torrey Craig, Los Angeles Lakers forward Jared Dudley, Miami Heat forward Udonis Haslem, Boston Celtics forward Gordon Hayward, Toronto Raptors forward-center Serge Ibaka, Portland Trail Blazers guard Damian Lillard, San Antonio Spurs guard Patty Mills and Indiana Pacers center Myles Turner.
+Holiday, 30, has spent the last seven seasons with New Orleans after playing his first four seasons with Philadelphia.  The 6-3 guard was selected as an NBA All-Star in the 2012-13 season and named to the NBA All-Defensive Team in 2017-18 and 2018-19.  In the 2019-20 season, he averaged 19.1 points, 6.7 assists, 4.8 rebounds and 1.62 steals in 61 games across regular-season games and seeding games.
+In July, Holiday announced that he would use the remainder of his 2019-20 season salary to start a social justice fund with his wife, Lauren, a former player for the U.S. Women’s National Soccer Team.  The Jrue and Lauren Holiday Social Justice Impact Fund is designed to address socioeconomic inequalities across communities in New Orleans, the Los Angeles area and Indianapolis.  Jrue and Lauren are Los Angeles and Indianapolis natives, respectively, and Jrue’s two brothers, Aaron and Justin, both play for the Pacers.
+The Twyman-Stokes Teammate of the Year Award is named for Jack Twyman and Maurice Stokes, whose storied friendship transcended their Hall of Fame accomplishments.  Twyman and Stokes were teammates on the Rochester/Cincinnati Royals from 1955-58.  In the last game of the 1957-58 regular season, Stokes sustained an injury that led to his falling into a coma days later and becoming permanently paralyzed.  He was diagnosed with post-traumatic encephalopathy, a brain injury that damaged his motor-control center.  Stokes was supported for the rest of his life by Twyman, who became his legal guardian and advocate.
+Twyman helped organize the NBA’s Maurice Stokes Memorial Basketball Game, which raised funds for Stokes’ medical care and, after Stokes’ death in 1970 at age 36, for other players in need.  In 2004, after years of lobbying by Twyman, Stokes was enshrined in the Naismith Memorial Basketball Hall of Fame.  Twyman, who was elected to the Hall of Fame in 1983, died in 2012.
+Below are voting totals for the 2019-20 Twyman-Stokes Teammate of the Year Award and the list of all-time winners.
+		Categories: Basketball | Sports Tags: Damian Lillard | Gordon Hayward | Jack Twyman | Jared Dudley | Jrue and Lauren Holiday Social Justice Impact Fund | Jrue Holiday | Kyle Korver | Maurice Stokes | Miami Heat | Myles Turner | Patty Mills | Serge Ibaka | Torrey Craig		
+						Sparks Coach Derek Fisher Reflects on 2020 Season
+						Lakers, Heat are Desperate to Win Game 5 of NBA Finals
+						Dodgers advance to 4th NLCS in 5 years with sweep of rival Padres
+						IN MEMORIAM: MLB Great Bob Gibson Dies at 84
+						Heat Survive Lakers 111-108, Force Game 6
+						Chargers Come up Short Against Tampa Bay
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

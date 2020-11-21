@@ -1,0 +1,238 @@
+        About
+            Branching and Merging
+            Small and Fast
+            Distributed
+            Data Assurance
+            Staging Area
+            Free and Open Source
+            Trademark
+        Documentation
+            Reference
+            Book
+            Videos
+            External Links
+        Downloads
+            GUI Clients
+            Logos
+        Community
+  English ▾
+  Localized versions of git-fetch-pack manual
+        English
+        Português (Brasil)
+    Want to read in your language or fix typos? You can help translate this page.
+    Topics ▾
+      Setup and Config
+  git
+  config
+  help
+  bugreport
+      Getting and Creating Projects
+  init
+  clone
+      Basic Snapshotting
+  add
+  status
+  diff
+  commit
+  notes
+  restore
+  reset
+  rm
+  mv
+      Branching and Merging
+  branch
+  checkout
+  switch
+  merge
+  mergetool
+  log
+  stash
+  tag
+  worktree
+      Sharing and Updating Projects
+  fetch
+  pull
+  push
+  remote
+  submodule
+      Inspection and Comparison
+  show
+  log
+  diff
+  difftool
+  range-diff
+  shortlog
+  describe
+      Patching
+  apply
+  cherry-pick
+  diff
+  rebase
+  revert
+      Debugging
+  bisect
+  blame
+  grep
+      Email
+  am
+  apply
+  format-patch
+  send-email
+  request-pull
+      External Systems
+  svn
+  fast-import
+      Server Admin
+  daemon
+  update-server-info
+      Guides
+  gitattributes
+  Command-line interface conventions
+  Everyday Git
+  Frequently Asked Questions (FAQ)
+  Glossary
+  githooks
+  gitignore
+  gitmodules
+  Revisions
+  Submodules
+  Tutorial
+  Workflows
+      Administration
+  clean
+  gc
+  fsck
+  reflog
+  filter-branch
+  instaweb
+  archive
+  bundle
+      Plumbing Commands
+  cat-file
+  check-ignore
+  checkout-index
+  commit-tree
+  count-objects
+  diff-index
+  for-each-ref
+  hash-object
+  ls-files
+  ls-tree
+  merge-base
+  read-tree
+  rev-list
+  rev-parse
+  show-ref
+  symbolic-ref
+  update-index
+  update-ref
+  verify-pack
+  write-tree
+    Version 2.8.6
+ ▾ 
+git-fetch-pack last updated in 2.28.0
+  Changes in the git-fetch-pack manual
+        2.18.1 → 2.28.0 no changes
+        2.18.0
+          06/21/18
+        2.12.5 → 2.17.5 no changes
+        2.11.4
+          09/22/17
+        2.10.5 no changes
+        2.9.5
+          07/30/17
+        2.8.6
+          07/30/17
+        2.5.6 → 2.7.6 no changes
+        2.4.12
+          05/05/17
+    See more previous releases → -->
+    Check your version of git by running
+    $
+NAME
+git-fetch-pack - Receive missing objects from another repository
+SYNOPSIS
+git fetch-pack [--all] [--quiet|-q] [--keep|-k] [--thin] [--include-tag]
+	[--upload-pack=&lt;git-upload-pack&gt;]
+	[--depth=&lt;n&gt;] [--no-progress]
+	[-v] &lt;repository&gt; [&lt;refs&gt;…​]
+DESCRIPTION
+Usually you would want to use git fetch, which is a
+higher level wrapper of this command, instead.
+Invokes git-upload-pack on a possibly remote repository
+and asks it to send objects missing from this repository, to
+update the named heads.  The list of commits available locally
+is found out by scanning the local refs/ hierarchy and sent to
+git-upload-pack running on the other end.
+This command degenerates to download everything to complete the
+asked refs from the remote side when the local side does not
+have a common ancestor commit.
+OPTIONS
+ --all 
+Fetch all remote refs.
+ --stdin 
+Take the list of refs from stdin, one per line. If there
+are refs specified on the command line in addition to this
+option, then the refs from stdin are processed after those
+on the command line.
+If --stateless-rpc is specified together with this option then
+the list of refs must be in packet format (pkt-line). Each ref must
+be in a separate packet, and the list must end with a flush packet.
+ -q 
+ --quiet 
+Pass -q flag to git unpack-objects; this makes the
+cloning process less verbose.
+ -k 
+ --keep 
+Do not invoke git unpack-objects on received data, but
+create a single packfile out of it instead, and store it
+in the object database. If provided twice then the pack is
+locked against repacking.
+ --thin 
+Fetch a "thin" pack, which records objects in deltified form based
+on objects not included in the pack to reduce network traffic.
+ --include-tag 
+If the remote side supports it, annotated tags objects will
+be downloaded on the same connection as the other objects if
+the object the tag references is downloaded.  The caller must
+otherwise determine the tags this option made available.
+ --upload-pack=&lt;git-upload-pack&gt; 
+Use this to specify the path to git-upload-pack on the
+remote side, if is not found on your $PATH.
+Installations of sshd ignores the user’s environment
+setup scripts for login shells (e.g. .bash_profile) and
+your privately installed git may not be found on the system
+default $PATH.  Another workaround suggested is to set
+up your $PATH in ".bashrc", but this flag is for people
+who do not want to pay the overhead for non-interactive
+shells by having a lean .bashrc file (they set most of
+the things up in .bash_profile).
+ --exec=&lt;git-upload-pack&gt; 
+Same as --upload-pack=&lt;git-upload-pack&gt;.
+ --depth=&lt;n&gt; 
+Limit fetching to ancestor-chains not longer than n.
+git-upload-pack treats the special depth 2147483647 as
+infinite even if there is an ancestor-chain that long.
+ --no-progress 
+Do not show the progress.
+ --check-self-contained-and-connected 
+Output "connectivity-ok" if the received pack is
+self-contained and connected.
+ -v 
+Run verbosely.
+ &lt;repository&gt; 
+The URL to the remote repository.
+ &lt;refs&gt;…​ 
+The remote heads to update from. This is relative to
+$GIT_DIR (e.g. "HEAD", "refs/heads/master").  When
+unspecified, update from all heads the remote side has.
+If the remote has enabled the options uploadpack.allowTipSHA1InWant or
+uploadpack.allowReachableSHA1InWant, they may alternatively be 40-hex
+sha1s present on the remote.
+SEE ALSO
+git-fetch[1]
+GIT
+Part of the git[1] suite
+    About this site
+    Patches, suggestions, and comments are welcome.
+    Git is a member of Software Freedom Conservancy

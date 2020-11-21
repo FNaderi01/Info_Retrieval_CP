@@ -1,0 +1,318 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Michelle Obama Leaves Legacy of Strength, Advocacy, Accomplishment            
+				By Jennifer Bihm, Assistant Editor                
+	                	                Published January 19, 2017
+She could simply be remembered as the United States’ first African American first lady and that would be sufficient. Except, Michelle Obama was so much more. She leaves in her wake, a determination for a healthy and sane America, through her health campaigns, her fight for human and civil rights and her encouragement for the development of girls around the world.
+In 2008, Michelle LaVaughn Robinson Obama became the 44th first lady of the United States. Since then, she has faced a level of scrutiny that no other U.S. first lady has ever faced. And still, she carried out her duties and then some, with style, grace and strength. 
+        ADVERTISEMENT        
+She was born January 17, 1964 in Chicago, a descendent of slaves from both South Carolina and Georgia. She grew up, she said, in a conventional family where her father worked and her mom stayed home and raised the children. Unfortunately her father’s health took a turn for the worse in 1991 and he died from complications of multiple sclerosis. 
+Her father’s struggle and subsequently his memory is what motivated her, she said, to reach her full potential. Michelle attended Princeton University, graduating cum laude in 1985, and went on to earn a degree from Harvard Law School in 1988. Following her graduation from Harvard, she worked at a Chicago law firm, where she met her husband, future U.S. president Barack Obama. The couple married on October 3, 1992.
+Michelle has enjoyed a diverse career over the years, having been an associated at Sidley and Austin law firm, an assistant to Chicago’s mayor in 1991, a fundraiser for a non profit, Associate Dean of Student Services at the University of Chicago, where she developed the University’s Community Service Center. In 2002, she began working for the University of Chicago Hospitals, first as executive director for community affairs and, beginning May 2005, as Vice President for Community and External Affairs.
+She took on her most important role in 1988 when Malia Ann Obama was born and then again in 2001 when Sasha born. During her husband’s first campaign, she made it clear that she is “a mother first” and foremost. That being said, she has been the backbone of Barack Obama’s political career from his 2000 run for Senate to his run for a second presidential term in 2012. 
+She began her stint as America’s first lady in a myriad of homeless shelters and soup kitchens and as an advocate of public service. But despite her accomplishments, Michelle Obama still faced racism and sexism from a part of the general public, insulted by a black family in the White House. A West Virginia non profit director was recently fired for referring to her as “an ape in heels.”
+One of her biggest projects was taking on America’s child obesity problem, with the “Let’s Move” campaign. She was instrumental in overhauling the Standard American Diet (SAD) public school lunches and replacing them with healthier options. She established the White House Kitchen Garden, where organic produce is now grown and she traveled the country encouraging kids to get out and exercise. 
+She has also been a strong advocate for human rights. Along with her husband, she supported LGBT rights, specifically the Illinois gender violence act, the Employment Non-Discrimination Act, repealing Don’t Ask Don’t Tell, and full repeal of the Defense of Marriage Act, civil unions; along with hate crimes protection for sexual orientation and gender identity and renewed effort to fight HIV and AIDS. They have both been opponents of constitutional amendments banning same-sex marriage in the federal, California, and Florida constitutions. 
+“This is an important issue for millions of Americans, and for Barack and me, it really comes down to the values of fairness and equality we want to pass down to our girls,” she said at the time.
+“These are basic values that kids learn at a very young age and that we encourage them to apply in all areas of their lives. And in a country where we teach our children that everyone is equal under the law, discriminating against same-sex couples just isn’t right. It’s as simple as that.”
+In March 2015, the President and First Lady launched Let Girls Learn, which brings together the Department of State, the U.S. Agency for International Development (USAID), the Peace Corps, the U.S. Department of Labor, the U.S. Department of Agriculture and the Millennium Challenge Corporation (MCC), as well the U.S. President’s Emergency Fund for AIDS Relief (PEPFAR), to address the range of challenges preventing adolescent girls from attaining a quality education that empowers them to reach their full potential. 
+“Let Girls Learn combines the necessary political will, diplomacy, grassroots organizing, and development expertise to create lasting change,” according to the Let Girl’s Learn website.
+ To sum it up, Michelle Obama leaves a legacy of accomplishment. She showed resilience and strength in the face of racism, sexism and at times downright opposition to everything she and Barack set out to make happen. She did it with grace and style and as an example to girls and women what “having it all” looks like. 
+		Categories: National | News | Political Tags: accomplishment | Advocacy | Barack Obama | family career | legacy | Malia | Michelle Obama | motherhood | Sasha		
+						2017 “Our History Today! Black History Calendar &amp; Resource Guide Prov...
+						Trump Speaks of Ending “Carnage” as He Enters White House
+						Blacks, Minorities Largely Absent During Inauguration
+						Group Uses Inauguration to “Make America High”
+						Women’s March Global Takeover
+						Mother of Ezell Ford speaks out against DA’s refusal to file charges
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

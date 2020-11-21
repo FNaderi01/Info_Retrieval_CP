@@ -1,0 +1,322 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+What Do You Believe?            
+				By Zon D’Amour, Contributing Writer                
+	                	                Published June 16, 2016
+		Oprah Winfrey’s new scripted series, “Greenleaf” (courtesy photo)
+It’s been two decades since Oprah Winfrey starred in a scripted television series. Now the talk show host and mogul is returning to primetime as one of the stars and executive producers of “Greenleaf”. Premiering over two nights beginning Tuesday, June 21 at 10 p.m. ET/PT and Wednesday, June 22 at 9 p.m. ET/PT on OWN. “Greenleaf” is a behind the scenes look at the lives and lies that bind together the family at the center of a fictional Memphis, TN megachurch, Calvary Fellowship World Ministries.
+Grace Greenleaf (Merle Dandridge, “The Night Shift”) has returned home after a twenty-year absence following the untimely death of her sister, Faith. Not only is Grace back in Memphis for the burial, she promises her Aunt Mavis (Winfrey, “Selma”) that she’s ready to unearth her family’s salacious and sordid secrets.
+The prodigal daughter is welcomed with open arms by her father and church leader, Bishop James Greenleaf (Keith David, “Community”). However, you can cut the tension between Grace and her mother Lady Mae Greenleaf (Lynn Whitfield, “The Josephine Baker Story”) with a knife as the matriarch of the dynasty works to maintain the family’s prestigious image.
+        ADVERTISEMENT        
+The L.A. Sentinel had the honor of attending an exclusive press screening of the new series which also included a Q&amp;A with Winfrey, Dandridge, David and Whitfield as well as Emmy nominated writer/producer Craig Wright and director Clement Virgo. Here are highlights from the candid conversation on how the cast prepared for their roles, insight on the controversial topics tackled within season one as well as what Winfrey and her colleagues hope audiences take away from “Greenleaf”.
+Addressing the debate of spirituality vs. religion:
+Talk show host, actress, producer, and philanthropist Oprah Winfrey. (Courtesy photo)
+Oprah Winfrey: Craig and I met at a screening of [the OWN documentary series]“Belief” and we talked about his background in the church and him being a preacher and that’s how this whole thing started. If you’ve watched me over the years, you can hear my voice [in the character’s dialogue] “What do you believe, Grace?” is one of my lines. And when Grace says, ‘I swear to God’, the first time I read that I told Craig, ‘You can’t be in a black family and in a black church and swear to God and get away with it so Lady Mae has to have a reaction. For me [this show] is another platform in order to offer the message that we’re more alike than we are different as well as being grounded in whatever you believe is important.
+Craig Wright: [In reference to a prolific dinner scene in the premiere] That scene survived because most of us are born helplessly into a tradition, even if it’s atheism and our parents go ‘this is the truth’. Then we grow up and we experience the world and we meet a moment where we say, ‘well that’s what I was told but what do I think?’ And the reason that the crazy 13 page [dinner] scene survives is because it’s a universal truth: I was told “this” but I’ve lived “this” so now what do I do? That’s Grace’s predicament, that’s the viewers’ predicament and that’s the show.
+…On the church being a business and showing the flaws of a typically idolized leader:  
+Keith David: When you grow up in the church you want to minister to people, that’s what you start out doing; I don’t think that that ever goes away. And I think that has to do with Grace’s journey and never losing that part of her spirit but as a business grows, the man behind the business becomes different and his relationship with the spirit changes whether he veers from it or is enhanced by it. There are moments when you can get lost in the business part of it and you talk to God on the side and sometimes if you think God isn’t going to be okay with what you’re doing, you say, ‘God I’ll talk to you later.’ That happens [because] they are humans that run this church. However, we’re very respectful to the church, I used to want to be a preacher so I wouldn’t have taken this role if it were desecrating. I love the fact that we can say ‘I love God’ and still talk about what it means to be a human being.
+…On how she would describe her character:
+Lynn Whitfield: “Committed”. [Lady Mae] is committed to her family, to her role in the church and her sense of right and wrong. To prepare for the role, Oprah also asked me [how I would describe my character] and I said, she’s a gatekeeper. She wants everything to go well and she believes she should have everything that they built. As an actor, it’s those action words that help you–I’m protecting something, I’m defending something, I’m committed to something.
+…Reaction to the show’s mention of police brutality and Black Lives Matters:
+Clement Virgo: The show takes on all of the things that are happening in the world today. There’s the issue of young black people being shot by the police and we felt that it was incumbent of us as a show to speak to that and explore that and be honest about it. In episode four, the church is divided because the bishop makes a choice that everyone doesn’t always agree with. The show explores those dynamics in the black community.
+On the experience that reiterated her faith in God:
+Merle Dandridge: I’ve always felt like I had a great ongoing conversation with God, it’s always been an open channel since I found him at the age of 15. I had a wonderful career in New York on Broadway for a long time but I realized that I had pigeonholed myself in a way that I wasn’t letting myself stretch and I was becoming unhappy with my own company and maybe working in Time Square after a decade of it wasn’t where I was going to thrive. I remember walking out into Shubert Alley and I put my hands out and said ‘God, your will because my way isn’t working. I’ve been holding on to this will for too long’. And sure enough a week later my show closed and I was asked to open it up on the west coast and that opened me up to this whole world of television and on camera work, which is terrifying and new for me.
+Everyday is different which is a drastic change from the same show eight days a week. But it’s been the most gratifying, terrifying, wonderful opening of my life. Anytime I’ve let go of the controls, His will has been better than I could have ever dreamed.
+		Categories: Entertainment | News (Entertainment) | TV Tags: "Greenleaf" | New | Oprah Winfrey | scripted | series | Zon D'Amour		
+						106 &amp; PARK LIVE SPECIAL RETURNS WITH PERFORMANCES BY RICH GANG, O.T. GE...
+						TV ONE’S FIRST-EVER UNSUNG FEATURE FILM,  LOVE UNDER NEW MANAGEMENT: THE ...
+						Sale of Ebony &amp; Jet Evokes Mixed Feelings
+						Off The Field And On Set With Actor Tyler Lepley
+						It’s a Rap 6.9.16
+						Monica, Luke James, Bilal, V Bozeman and more Kick-Off BET Experience
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

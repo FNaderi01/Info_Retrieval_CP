@@ -1,0 +1,562 @@
+	Cyberattack
+		From Wikipedia, the free encyclopedia
+		Jump to navigation
+		Jump to search
+		"Cyberstrike" redirects here. For the online game, see CyberStrike.
+Attack on a computer system
+In computers and computer networks an attack is any attempt to expose, alter, disable, destroy, steal or gain unauthorized access to or make unauthorized use of an asset.[1] A cyberattack is any type of offensive maneuver that targets computer information systems, infrastructures, computer networks, or personal computer devices. An attacker is a person or process that attempts to access data, functions or other restricted areas of the system without authorization, potentially with malicious intent.[2] Depending on context, cyberattacks can be part of cyberwarfare or cyberterrorism. A cyberattack can be employed by sovereign states, individuals, groups, society or organizations, and it may originate from an anonymous source. A product that facilitates a cyberattack is sometimes called a cyberweapon.
+A cyberattack may steal, alter, or destroy a specified target by hacking into a susceptible system.[3] Cyberattacks can range from installing spyware on a personal computer to attempting to destroy the infrastructure of entire nations. Legal experts are seeking to limit the use of the term to incidents causing physical damage, distinguishing it from the more routine data breaches and broader hacking activities.[4]
+Cyberattacks have become increasingly sophisticated and dangerous.[5]
+User behavior analytics and SIEM can be used to help prevent these attacks.
+Contents
+1 Definitions
+2 Prevalence
+3 Cyberwarfare and cyberterrorism
+4 Factors
+4.1 Spectacularity factor
+4.2 Vulnerability factor
+5 Professional hackers to cyberterrorists
+6 Types of attack
+6.1 Syntactic attacks
+6.1.1 Viruses
+6.1.2 Worms
+6.1.3 Trojan horses
+6.2 Semantic attacks
+6.2.1 India and Pakistan
+7 Cyberattacks by and against countries
+7.1 China
+7.2 Estonia
+7.3 Ethiopia
+7.4 Iran
+7.5 Israel
+7.6 North Korea
+7.7 Russia
+7.8 Ukraine
+7.9 United Arab Emirates
+7.10 United States
+8 Consequence of a potential attack
+9 Infrastructures as targets
+9.1 Control systems
+9.2 Energy
+9.3 Finance
+9.4 Telecommunications
+9.5 Transportation
+9.6 Water
+9.7 Hospitals
+10 See also
+11 References
+12 Further reading
+13 External links
+Definitions[edit]
+Since the late 1980s cyberattacks have evolved several times to use innovations in information technology as vectors for committing cybercrimes. In recent years, the scale and robustness of cyberattacks has increased rapidly, as observed by the World Economic Forum in its 2018 report: "Offensive cyber capabilities are developing more rapidly than our ability to deal with hostile incidents."[6]
+In May 2000, the Internet Engineering Task Force defined attack in RFC 2828 as:[7]
+an assault on system security that derives from an intelligent threat, i.e., an intelligent act that is a deliberate attempt (especially in the sense of a method or technique) to evade security services and violate the security policy of a system.
+CNSS Instruction No. 4009 dated 26 April 2010 by Committee on National Security Systems of the United States of America[8]  defines an attack as:
+Any kind of malicious activity that attempts to collect, disrupt, deny, degrade, or destroy information system resources or the information itself.
+The increasing dependency of modern society on information and computer networks (both in private and public sectors, including the military)[9][10][11] has led to new terms like cyber attack and cyberwarfare.
+CNSS Instruction No. 4009[8] define a cyber attack as:
+An attack, via cyberspace, targeting an enterprise’s use of cyberspace for the purpose of disrupting, disabling, destroying, or maliciously controlling a computing environment/infrastructure; or destroying the integrity of the data or stealing controlled information.
+As cars begin to adopt more technology, cyber attacks are becoming a security threat to automobiles.[12]
+Prevalence[edit]
+In the first six months of 2017, two billion data records were stolen or impacted by cyber attacks, and ransomware payments reached US$2 billion, double that in 2016.[13]
+Cyberwarfare and cyberterrorism[edit]
+Main articles: Cyberwarfare and Cyberterrorism
+Cyberwarfare utilizes techniques of defending and attacking information and computer networks that inhabit cyberspace, often through a prolonged cyber campaign or series of related campaigns. It denies an opponent's ability to do the same, while employing technological instruments of war to attack an opponent's critical computer systems. Cyberterrorism, on the other hand, is "the use of computer network tools to shut down critical national infrastructures (such as energy, transportation, government operations) or to coerce or intimidate a government or civilian population".[14] That means the end result of both cyberwarfare and cyberterrorism is the same, to damage critical infrastructures and computer systems linked together within the confines of cyberspace.
+The financial crime expert Veit Buetterlin explained that organizations, including state actors, which cannot finance themselves through trade because of imposed sanctions, conduct cyber attacks on banks to generate funds.[15]
+Factors[edit]
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.  (July 2014) (Learn how and when to remove this template message)
+Three factors contribute to why cyber-attacks are launched against a state or an individual: the fear factor, spectacularity factor, and vulnerability factor.
+Spectacularity factor[edit]
+The spectacularity factor is a measure of the actual damage achieved by an attack, meaning that the attack creates direct losses (usually loss of availability or loss of income) and garners negative publicity. On 8 February 2000, a Denial of Service attack severely reduced traffic to many major sites, including Amazon, Buy.com, CNN, and eBay (the attack continued to affect still other sites the next day).[16] Amazon reportedly estimated the loss of business at $600,000.[16]
+Vulnerability factor[edit]
+Vulnerability factor exploits how vulnerable an organization or government establishment is to cyber-attacks. Organizations without maintenance systems might be running on old servers which are more vulnerable than updated systems. An organization can be vulnerable to a denial of service attack and a government establishment can be defaced on a web page. A computer network attack disrupts the integrity or authenticity of data, usually through malicious code that alters program logic that controls data, leading to errors in output.[17]
+Professional hackers to cyberterrorists[edit]
+This section possibly contains original research. Please improve it by verifying the claims made and adding inline citations. Statements consisting only of original research should be removed.  (March 2015) (Learn how and when to remove this template message)
+Professional hackers, either working on their own or employed by government agencies or the military, can find computer systems with vulnerabilities lacking the appropriate security software. Once those vulnerabilities are found, they can infect systems with malicious code and then remotely control the system or computer by sending commands to view content or to disrupt other computers. There needs to be a pre-existing system flaw within the computer such as no antivirus protection or faulty system configuration for the viral code to work.
+Many professional hackers will promote themselves to cyberterrorists, where a new set of rules govern their actions. Cyberterrorists have premeditated plans and their attacks are not born of rage.[citation needed] They need to develop their plans step-by-step and acquire the appropriate software to carry out an attack. They usually have political agendas, targeting political structures. Cyberterrorists are hackers with a political motivation, their attacks can impact political structure through this corruption and destruction.[18]  They also target civilians, civilian interests and civilian installations. As previously stated cyberterrorists attack persons or property and cause enough harm to generate fear.
+Types of attack[edit]
+An attack can be active or passive.[7]
+An "active attack" attempts to alter system resources or affect their operation.
+A "passive attack" attempts to learn or make use of information from the system but does not affect system resources (e.g., wiretapping).
+An attack can be perpetrated by an insider or from outside the organization;[7]
+An "inside attack" is an attack initiated by an entity inside the security perimeter (an "insider"), i.e., an entity that is authorized to access system resources but uses them in a way not approved by those who granted the authorization.
+An "outside attack" is initiated from outside the perimeter, by an unauthorized or illegitimate user of the system (an "outsider"). In the Internet, potential outside attackers range from amateur pranksters to organized criminals, international terrorists, and hostile governments.[7]
+A resource (both physical or logical), called an asset, can have one or more vulnerabilities that can be exploited by a threat agent in a threat action. As a result, the confidentiality, integrity or availability of resources may be compromised. Potentially, the damage may extend to resources in addition to the one initially identified as vulnerable, including further resources of the organization, and the resources of other involved parties (customers, suppliers).
+The so-called CIA triad is the basis of information security.
+The attack can be active when it attempts to alter system resources or affect their operation: so it compromises integrity or availability. A "passive attack" attempts to learn or make use of information from the system but does not affect system resources: so it compromises confidentiality.
+A threat is a potential for violation of security, which exists when there is a circumstance, capability, action or event that could breach security and cause harm. That is, a threat is a possible danger that might exploit a vulnerability. A threat can be either "intentional" (i.e., intelligent; e.g., an individual cracker or a criminal organization) or "accidental" (e.g., the possibility of a computer malfunctioning, or the possibility of an "act of God" such as an earthquake, a fire, or a tornado).[7]
+A set of policies concerned with information security management, the information security management systems (ISMS), has been developed to manage, according to risk management principles, the countermeasures in order to accomplish to a security strategy set up following rules and regulations applicable in a country.[19]
+An attack should led to a security incident i.e. a security event that involves a security violation. In other words, a security-relevant system event in which the system's security policy is disobeyed or otherwise breached.
+The overall picture represents the risk factors of the risk scenario.[20]
+An organization should make steps to detect, classify and manage security incidents. The first logical step is to set up an incident response plan and eventually a computer emergency response team.
+In order to detect attacks, a number of countermeasures can be set up at organizational, procedural and technical levels. Computer emergency response team, information technology security audit and intrusion detection system are examples of these.[21]
+An attack usually is perpetrated by someone with bad intentions: black hatted attacks falls in this category, while other perform penetration testing on an organization information system to find out if all foreseen controls are in place.
+The attacks can be classified according to their origin: i.e. if it is conducted using one or more computers: in the last case is called a distributed attack. Botnets are used to conduct distributed attacks.
+Other classifications are according to the procedures used or the type of vulnerabilities exploited: attacks can be concentrated on network mechanisms or host features.
+Some attacks are physical: i.e. theft or damage of computers and other equipment. Others are attempts to force changes in the logic used by computers or network protocols in order to achieve unforeseen (by the original designer) result but useful for the attacker. Software used to for logical attacks on computers is called malware.
+The following is a partial short list of attacks:
+Passive
+Computer and network surveillance
+Network
+Wiretapping
+Fiber tapping
+Port scan
+Idle scan
+Host
+Keystroke logging
+Data scraping
+Backdoor
+Active
+Denial-of-service attack
+DDos or Distributed Denial of service attack is an attempt made by the hacker to block access to a server or a website that is connected to the Internet. This is achieved using multiple computerized systems, which overloads the target system with requests, making it incapable of responding to any query.[22]
+Spoofing
+Mixed threat attack
+Network
+Man-in-the-middle
+Man-in-the-browser
+ARP poisoning
+Ping flood
+Ping of death
+Smurf attack
+Host
+Buffer overflow
+Heap overflow
+Stack overflow
+Format string attack
+  Intrusion kill chain for information security[23]
+In detail, there are a number of techniques to utilize in cyber-attacks and a variety of ways to administer them to individuals or establishments on a broader scale. Attacks are broken down into two categories: syntactic attacks and semantic attacks. Syntactic attacks are straightforward; it is considered malicious software which includes viruses, worms, and Trojan horses.
+Syntactic attacks[edit]
+Viruses[edit]
+Main article: Computer virus
+A virus is a self-replicating program that can attach itself to another program or file in order to reproduce. The virus can hide in unlikely locations in the memory of a computer system and attach itself to whatever file it sees fit to execute its code. It can also change its digital footprint each time it replicates making it harder to track down in the computer.
+Worms[edit]
+Main article: Computer worm
+A worm does not need another file or program to copy itself; it is a self-sustaining running program. Worms replicate over a network using protocols. The latest incarnation of worms make use of known vulnerabilities in systems to penetrate, execute their code, and replicate to other systems such as the Code Red II worm that infected more than 259 000 systems in less than 14 hours.[24] On a much larger scale, worms can be designed for industrial espionage to monitor and collect server and traffic activities then transmit it back to its creator.
+Trojan horses[edit]
+Main article: Trojan horse (computing)
+A Trojan horse is designed to perform legitimate tasks but it also performs unknown and unwanted activity. It can be the basis of many viruses and worms installing onto the computer as keyboard loggers and backdoor software. In a commercial sense, Trojans can be imbedded in trial versions of software and can gather additional intelligence about the target without the person even knowing it happening. All three of these are likely to attack an individual and establishment through emails, web browsers, chat clients, remote software, and updates.
+Semantic attacks[edit]
+Semantic attack is the modification and dissemination of correct and incorrect information. Information modified could have been done without the use of computers even though new opportunities can be found by using them. To set someone into the wrong direction or to cover your tracks, the dissemination of incorrect information can be utilized.
+India and Pakistan[edit]
+Main article: India–Pakistan relations
+There were two such instances between India and Pakistan that involved cyberspace conflicts, started in 1990s. Earlier cyber attacks came to known as early as in 1999.[18] Since then, India and Pakistan were engaged in a long-term dispute over Kashmir which moved into cyberspace. Historical accounts indicated that each country's hackers have been repeatedly involved in attacking each other's computing database system. The number of attacks has grown yearly: 45 in 1999, 133 in 2000, 275 by the end of August 2001.[18] In 2010, Indian hackers laid a cyber attack at least 36 government database websites going by the name "Indian Cyber Army".[25] In 2013, Indian hackers hacked the official website of Election Commission of Pakistan in an attempt to retrieve sensitive database information.[26] In retaliation, Pakistani hackers, calling themselves "True Cyber Army" hacked and defaced ~1,059 websites of Indian election bodies.[26]
+In 2013, India's Ministry of Electronics and Information Technology (MeitY) which was then known as Department of Electronics and Information Technology (DeitY), unveiled a cybersecurity policy framework called National Cyber Security Policy 2013 which officially came into effect on July 1, 2013.[27] 
+According to the media, Pakistan's has been working on effective cyber security system, in a program called the "Cyber Secure Pakistan" (CSP).[28]  The program was launched in April 2013 by Pakistan Information Security Association and the program has expanded to country's universities.
+In 2020, according to the Media reports, Pakistan Army confirms the series of Cyber Attacks that has been identified on Pakistani Government and private websites by the Indian Intelligence. ISPR also advised the government and private institutions to enhance cyber security measures.[29]
+Cyberattacks by and against countries[edit]
+Within cyberwarfare, the individual must recognize the state actors involved in committing these cyber-attacks against one another. The two predominant players that will be discussed is the age-old comparison of East versus West, China's cyber capabilities compared to United States' capabilities. There are many other state and non-state actors involved in cyberwarfare, such as Russia, Iran, Iraq, and Al Qaeda; since China and the U.S. are leading the foreground in cyberwarfare capabilities, they will be the only two state actors discussed.
+But in Q2 2013, Akamai Technologies reported that Indonesia toppled China with portion 38 percent of cyber attack, a high increase from 21 percent portion in previous quarter. China set 33 percent and US set at 6.9 percent. 79 percent of attack came from Asia Pacific region. Indonesia dominated the attacking to ports 80 and 443 by about 90 percent.[30]
+China[edit]
+Main article: Cyberwarfare in China
+This section, except for one footnote, needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Cyberattack" – news · newspapers · books · scholar · JSTOR  (July 2013) (Learn how and when to remove this template message)
+China's People's Liberation Army (PLA) has developed a strategy called "Integrated Network Electronic Warfare" which guides computer network operations and cyberwarfare tools. This strategy helps link together network warfare tools and electronic warfare weapons against an opponent's information systems during conflict. They believe the fundamentals for achieving success is about seizing control of an opponent's information flow and establishing information dominance.[31] The Science of Military and The Science of Campaigns both identify enemy logistics systems networks as the highest priority for cyber-attacks and states that cyberwarfare must mark the start if a campaign, used properly, can enable overall operational success.[31] Focusing on attacking the opponent's infrastructure to disrupt transmissions and processes of information that dictate decision-making operations, the PLA would secure cyber dominance over their adversary. The predominant techniques that would be utilized during a conflict to gain the upper hand are as follows, the PLA would strike with electronic jammers, electronic deception and suppression techniques to interrupt the transfer processes of information. They would launch virus attacks or hacking techniques to sabotage information processes, all in the hopes of destroying enemy information platforms and facilities. The PLA's Science of Campaigns noted that one role for cyberwarfare is to create windows of opportunity for other forces to operate without detection or with a lowered risk of counterattack by exploiting the enemy's periods of "blindness", "deafness" or "paralysis" created by cyber-attacks.[31] That is one of the main focal points of cyberwarefare, to be able to weaken your enemy to the full extent possible so that your physical offensive will have a higher percentage of success.
+The PLA conduct regular training exercises in a variety of environments emphasizing the use of cyberwarfare tactics and techniques in countering such tactics if it is employed against them.  Faculty research has been focusing on designs for rootkit usage and detection for their Kylin Operating System which helps to further train these individuals' cyberwarfare techniques. China perceives cyberwarfare as a deterrent to nuclear weapons, possessing the ability for greater precision, leaving fewer casualties, and allowing for long ranged attacks.
+Estonia[edit]
+Main article: 2007 cyberattacks on Estonia
+The 2007 cyberattacks on Estonia were a series of cyberattacks which began on 27 April 2007 and targeted websites of Estonian organizations, including Estonian parliament, banks, ministries, newspapers and broadcasters, amid the country's disagreement with Russia about the relocation of the Bronze Soldier of Tallinn, an elaborate Soviet-era grave marker, as well as war graves in Tallinn.[32][33] The attacks triggered a number of military organizations around the world to reconsider the importance of network security to modern military doctrine. The direct result of the cyberattacks was the creation of the NATO Cooperative Cyber Defence Centre of Excellence in Tallinn.
+Ethiopia[edit]
+In an extension of a bilateral dispute between Ethiopia and Egypt over the Grand Ethiopian Renaissance Dam, Ethiopian government websites have been hacked by the Egypt-based hackers in June 2020.[34] 
+Iran[edit]
+On 8 February 2020, the telecommunication network of Iran witnessed extensive disruptions at 11:44 a.m. local time, which lasted for about an hour. The Ministry of Information and Communications Technology of Iran confirmed it as a Distributed Denial of Service (DDoS) attack. The Iranian authorities activated the "Digital Fortress" cyber-defense mechanism to repel. Also known as DZHAFA, it led to a drop of 75 percent in the national internet connectivity.[35]
+Israel[edit]
+In April 2020, there were attempts to hack into Israel's water infrastructure of the Sharon central region by Iran, which was thwarted by Israeli cyber defenses. The cyberattack intended to introduce dangerous levels of chlorine into the Israeli water supply.[36]
+North Korea[edit]
+Further information: Sony Pictures hack
+Russia[edit]
+During the 2018 FIFA World Cup, Russia countered and stopped around 25 million cyber attacks on IT Infrastructure.[37]
+In June 2019, Russia has conceded that it is "possible" its electrical grid is under cyberattack by the United States.[38] The New York Times reported that American hackers from the United States Cyber Command planted malware potentially capable of disrupting the Russian electrical grid.[39]
+Ukraine[edit]
+Main article: 2017 cyberattacks on Ukraine
+A series of powerful cyber attacks began 27 June 2017 that swamped websites of Ukrainian organizations, including banks, ministries, newspapers and electricity firms.
+United Arab Emirates[edit]
+In 2019, Reuters reported that United Arab Emirates launched a series of cyberattacks on its political opponents, journalists, and human rights activists under Project Raven, on an espionage platform namely Karma. The team included ex-US intelligence agents. Project Raven commenced in 2009 and was planned to be continued for the coming ten years.[40]
+United States[edit]
+This section's tone or style may not reflect the encyclopedic tone used on Wikipedia. See Wikipedia's guide to writing better articles for suggestions.  (August 2019) (Learn how and when to remove this template message)
+See also: Office of Personnel Management data breach and Vault 7
+In the West, the United States provides a different "tone of voice" when cyberwarfare is on the tip of everyone's tongue. The United States provides security plans strictly in the response to cyberwarfare, basically going on the defensive when they are being attacked by devious cyber methods. In the U.S., the responsibility of cybersecurity is divided between the Department of Homeland Security, the Federal Bureau of Investigation, and the Department of Defense. In recent years, a new department was created to specifically tend to cyber threats, this department is known as Cyber Command. Cyber Command is a military subcommand under US Strategic Command and is responsible for dealing with threats to the military cyber infrastructure. Cyber Command's service elements include Army Forces Cyber Command, the Twenty-fourth Air Force, Fleet Cyber Command and Marine Forces Cyber Command.[41] It ensures that the President can navigate and control information systems and that he also has military options available when defense of the nation needs to be enacted in cyberspace. Individuals at Cyber Command must pay attention to state and non-state actors who are developing cyberwarfare capabilities in conducting cyber espionage and other cyber-attacks against the nation and its allies. Cyber Command seeks to be a deterrence factor to dissuade potential adversaries from attacking the U.S., while being a multi-faceted department in conducting cyber operations of its own.
+Three prominent events took place which may have been catalysts in the creation of the idea of Cyber Command. There was a failure of critical infrastructure reported by the CIA where malicious activities against information technology systems disrupted electrical power capabilities overseas. This resulted in multi-city power outages across multiple regions. The second event was the exploitation of global financial services. In November 2008, an international bank had a compromised payment processor that allowed fraudulent transactions to be made at more than 130 automated teller machines in 49 cities within a 30-minute period.[42] The last event was the systemic loss of U.S. economic value when an industry in 2008 estimated $1 trillion in losses of intellectual property to data theft. Even though all these events were internal catastrophes, they were very real in nature, meaning nothing can stop state or non-state actors to do the same thing on an even grander scale. Other initiatives like the Cyber Training Advisory Council were created to improve the quality, efficiency, and sufficiency of training for computer network defense, attack, and exploitation of enemy cyber operations.
+On both ends of the spectrum, East and West nations show a "sword and shield" contrast in ideals. The Chinese have a more offensive minded idea for cyberwarfare, trying to get the pre-emptive strike in the early stages of conflict to gain the upper-hand. In the U.S. there are more reactionary measures being taken at creating systems with impenetrable barriers to protect the nation and its civilians from cyber-attacks.
+According to Homeland Preparedness News, many mid-sized U.S. companies have a difficult time defending their systems against cyber attacks. Around 80 percent of assets vulnerable to a cyber attack are owned by private companies and organizations. Former New York State Deputy Secretary for Public Safety Michael Balboni said that private entities "do not have the type of capability, bandwidth, interest or experience to develop a proactive cyber analysis."[43]
+In response to cyber-attacks on 1 April 2015, President Obama issued an Executive Order establishing the first-ever economic sanctions. The Executive Order will impact individuals and entities ("designees") responsible for cyber-attacks that threaten the national security, foreign policy, economic health, or financial stability of the US. Specifically, the Executive Order authorizes the Treasury Department to freeze designees' assets.[44]
+According to Ted Koppel's book, in 2008, the United States in collaboration with Israel, ran a cyberattack on Iran's nuclear program, becoming "the first to use a digital weapon as an instrument of policy".[45]
+Consequence of a potential attack[edit]
+A whole industry is working trying to minimize the likelihood and the consequence of an information attack.
+For a partial list see: Computer security software companies.
+They offer different products and services, aimed at:
+study all possible attacks category
+publish books and articles about the subject
+discovering vulnerabilities
+evaluating the risks
+fixing vulnerabilities
+invent, design and deploy countermeasures
+set up contingency plan in order to be ready to respond
+Many organizations are trying to classify vulnerability and their consequence: the most famous vulnerability database is the Common Vulnerabilities and Exposures.
+Computer emergency response teams are set up by government and large organization to handle computer security incidents.
+Infrastructures as targets[edit]
+Once a cyber-attack has been initiated, there are certain targets that need to be attacked to cripple the opponent. Certain infrastructures as targets have been highlighted as critical infrastructures in times of conflict that can severely cripple a nation. Control systems, energy resources, finance, telecommunications, transportation, and water facilities are seen as critical infrastructure targets during conflict. A new report on the industrial cybersecurity problems, produced by the British Columbia Institute of Technology, and the PA Consulting Group, using data from as far back as 1981, reportedly[weasel words] has found a 10-fold increase in the number of successful cyber-attacks on infrastructure Supervisory Control and Data Acquisition (SCADA) systems since 2000.[17] Cyberattacks that have an adverse physical effect are known as cyber-physical attacks.[46]
+Control systems[edit]
+Control systems are responsible for activating and monitoring industrial or mechanical controls. Many devices are integrated with computer platforms to control valves and gates to certain physical infrastructures. Control systems are usually designed as remote telemetry devices that link to other physical devices through internet access or modems. Little security can be offered when dealing with these devices, enabling many hackers or cyberterrorists to seek out systematic vulnerabilities. Paul Blomgren, manager of sales engineering at cybersecurity firm explained how his people drove to a remote substation, saw a wireless network antenna and immediately plugged in their wireless LAN cards. They took out their laptops and connected to the system because it wasn't using passwords. "Within 10 minutes, they had mapped every piece of equipment in the facility," Blomgren said. "Within 15 minutes, they mapped every piece of equipment in the operational control network. Within 20 minutes, they were talking to the business network and had pulled off several business reports. They never even left the vehicle."[47]
+Energy[edit]
+Energy is seen as the second infrastructure that could be attacked. It is broken down into two categories, electricity and natural gas. Electricity also known as electric grids power cities, regions, and households; it powers machines and other mechanisms used in day-to-day life. Using US as an example, in a conflict cyberterrorists can access data through the Daily Report of System Status that shows power flows throughout the system and can pinpoint the busiest sections of the grid. By shutting those grids down, they can cause mass hysteria, backlog, and confusion; also being able to locate critical areas of operation to further attacks in a more direct method. Cyberterrorists can access instructions on how to connect to the Bonneville Power Administration which helps direct them on how to not fault the system in the process. This is a major advantage that can be utilized when cyber-attacks are being made because foreign attackers with no prior knowledge of the system can attack with the highest accuracy without drawbacks. Cyberattacks on natural gas installations go much the same way as it would with attacks on electrical grids. Cyberterrorists can shutdown these installations stopping the flow or they can even reroute gas flows to another section that can be occupied by one of their allies. There was a case in Russia with a gas supplier known as Gazprom, they lost control of their central switchboard which routes gas flow, after an inside operator and Trojan horse program bypassed security.[47]
+Finance[edit]
+Financial infrastructures could be hit hard by cyber-attacks as the financial system is linked by computer systems.[3] Money is constantly being exchanged in these institutions and if cyberterrorists were to attack and if transactions were rerouted and large amounts of money stolen, financial industries would collapse and civilians would be without jobs and security. Operations would stall from region to region causing nationwide economic degradation. In the U.S. alone, the average daily volume of transactions hit $3 trillion and 99% of it is non-cash flow.[47] To be able to disrupt that amount of money for one day or for a period of days can cause lasting damage making investors pull out of funding and erode public confidence.
+A cyberattack on a financial institution or transactions may be referred to as a cyberheist. These attacks may start with phishing that targets employees, using social engineering to coax information from them. They may allow attackers to hack into the network and put keyloggers on the accounting systems. In time, the cybercriminals are able to obtain password and keys information. An organization's bank accounts can then be accessed via the information they have stolen using the keyloggers.[48] In May 2013, a gang carried out a US$40 million cyberheist from the Bank of Muscat.[49]
+Telecommunications[edit]
+Cyberattacking telecommunication infrastructures have straightforward results. Telecommunication integration is becoming common practice, systems such as voice and IP networks are merging. Everything is being run through the internet because the speeds and storage capabilities are endless. Denial-of-service attacks can be administered as previously mentioned, but more complex attacks can be made on BGP routing protocols or DNS infrastructures. It is less likely that an attack would target or compromise the traditional telephony network of SS7 switches, or an attempted attack on physical devices such as microwave stations or satellite facilities. The ability would still be there to shut down those physical facilities to disrupt telephony networks. The whole idea on these cyber-attacks is to cut people off from one another, to disrupt communication, and by doing so, to impede critical information being sent and received. In cyberwarfare, this is a critical way of gaining the upper-hand in a conflict. By controlling the flow of information and communication, a nation can plan more accurate strikes and enact better counter-attack measures on their enemies.
+Transportation[edit]
+Transportation infrastructure mirrors telecommunication facilities; by impeding transportation for individuals in a city or region, the economy will slightly degrade over time. Successful cyber-attacks can impact scheduling and accessibility, creating a disruption in the economic chain. Carrying methods will be impacted, making it hard for cargo to be sent from one place to another. In January 2003 during the "slammer" virus, Continental Airlines was forced to shut down flights due to computer problems.[47] Cyberterrorists can target railroads by disrupting switches, target flight software to impede airplanes, and target road usage to impede more conventional transportation methods. In May 2015, a man, Chris Roberts, who was a cyberconsultant, revealed to the FBI that he had repeatedly, from 2011 to 2014, managed to hack into Boeing and Airbus flights' controls via the onboard entertainment system, allegedly, and had at least once ordered a flight to climb. The FBI, after detaining him in April 2015 in Syracuse, had interviewed him about the allegations.[50]
+Water[edit]
+Water as an infrastructure could be one of the most critical infrastructures to be attacked. It is seen as one of the greatest security hazards among all of the computer-controlled systems. There is the potential to have massive amounts of water unleashed into an area which could be unprotected causing loss of life and property damage. It is not even water supplies that could be attacked; sewer systems can be compromised too. There was no calculation given to the cost of damages, but the estimated cost to replace critical water systems could be in the hundreds of billions of dollars.[47] Most of these water infrastructures are well developed making it hard for cyber-attacks to cause any significant damage, at most, equipment failure can occur causing power outlets to be disrupted for a short time.
+Hospitals[edit]
+Hospital as an infrastructure is one of the major assets to have been impacted by cyberattacks. These attacks could "directly lead to deaths." The cyberattacks are designed to deny hospital workers access to critical care systems. Recently, there has been a major increase of cyberattacks against hospitals amid covid-19 pandemic. Hackers lock up a network and demand ransom to return access to these systems. The ICRC and other human rights group have urged law enforcement to take “immediate and decisive action” to punish such cyberattackers.[51]
+See also[edit]
+Asset (computing)
+Common Vulnerabilities and Exposures
+Computer emergency response team
+Computer insecurity
+Computer security
+Contingency plan
+Countermeasure (computer)
+Exploit (computer security)
+Factor Analysis of Information Risk
+Hacking: The Art of Exploitation Second Edition
+Internet Engineering Task Force
+Information technology security audit
+Information Security
+Intrusion detection system
+IT risk
+List of cyber warfare forces
+Metasploit
+Month of Bugs
+National Information Assurance Glossary
+Network lateral movement
+Penetration test
+Risk factor
+Security control
+Security service (telecommunication)
+Threat
+Vulnerability
+Vulnerability management
+Web application attack and audit framework (w3af)
+List of cyber-attacks
+Access control
+Security controls
+Security management
+References[edit]
+^ Standardization), ISO (International Organization for. "Publicly Available Standards". standards.iso.org..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}
+^ "ISTQB Standard glossary of terms used in Software Testing".
+^ a b W., Lin, Tom C. (14 April 2016). "Financial Weapons of War". ssrn.com.
+^ SATTER, RAPHAEL (28 March 2017). "What makes a cyberattack? Experts lobby to restrict the term". Retrieved 7 July 2017.
+^ S. Karnouskos: Stuxnet Worm Impact on Industrial Cyber-Physical System Security. In:37th Annual Conference of the IEEE Industrial Electronics Society (IECON 2011), Melbourne, Australia, 7-10 Nov 2011. Retrieved 20 April 2014.
+^ World Economic Forum (2018). "The Global Risks Report 2018 13th Edition" (PDF). World Economic Forum. Archived from the original (PDF) on 19 June 2018. Alt URL)
+^ a b c d e Internet Security Glossary. doi:10.17487/RFC2828. RFC 2828.
+^ a b CNSS Instruction No. 4009 dated 26 April 2010
+^ Cortada, James W. (4 December 2003). The Digital Hand: How Computers Changed the Work of American Manufacturing, Transportation, and Retail Industries. USA: Oxford University Press. p. 512. ISBN 978-0-19-516588-3.
+^ Cortada, James W. (3 November 2005). The Digital Hand: Volume II: How Computers Changed the Work of American Financial, Telecommunications, Media, and Entertainment Industries. USA: Oxford University Press. ISBN 978-0-19-516587-6.
+^ Cortada, James W. (6 November 2007). The Digital Hand, Vol 3: How Computers Changed the Work of American Public Sector Industries. USA: Oxford University Press. p. 496. ISBN 978-0-19-516586-9.
+^ "Sectigo Releases Embedded Firewall to Protect Automotive Systems". www.embedded-computing.com. Retrieved 9 January 2020.
+^ Fosco, Molly (30 October 2018). "Will Artificial Intelligence Save Us From the Next Cyberattack?". Fast Forward. OZY. Retrieved 30 October 2018.
+^ Lewis, James. United States. Center for Strategic and International Studies. Assessing the Risks of Cyber Terrorism, Cyber War and Other Cyber Threats. Washington, D.C.:, 2002. Web.
+^ https://www.cnnmoney.ch/shows/living-markets/videos/fighting-war-against-terrorist-financing
+^ a b "Distributed Denial-Of-Service". www.garykessler.net.
+^ a b Linden, Edward. Focus on Terrorism. New York: Nova Science Publishers, Inc., 2007. Web.
+^ a b c Prichard, Janet, and Laurie MacDonald. "Cyber Terrorism: A Study of the Extent of Coverage in Computer Security Textbooks." Journal of Information Technology Education. 3. (2004): n. page. Web.
+^ Wright, Joe; Jim Harmening (2009). "15".  In Vacca, John (ed.). Computer and Information Security Handbook. Morgan Kaufmann Publications. Elsevier Inc. p. 257. ISBN 978-0-12-374354-1.
+^ "ISACA THE RISK IT FRAMEWORK (registration required)" (PDF). isaca.org.
+^ Caballero, Albert (2009). "14".  In Vacca, John (ed.). Computer and Information Security Handbook. Morgan Kaufmann Publications. Elsevier Inc. p. 225. ISBN 978-0-12-374354-1.
+^ "What is DDoS? (Guest Post)". The Code Files. Retrieved 13 May 2013.
+^ "U.S. Senate-Committee on Commerce, Science, and Transportation-A "Kill Chain" Analysis of the 2013 Target Data Breach-March 26, 2014" (PDF). navy.mil. Archived from the original (PDF) on 6 October 2016. Retrieved 30 June 2016.
+^ Janczewski, Lech, and Andrew Colarik. Cyber Warfare and Cyber Terrorism. Hershey, New York: Information Science Reference, 2008. Web.
+^ Staff (30 November 2010). "Cyber Indian Army". Express Tirbune. Retrieved 8 June 2013.
+^ a b Waseem Abbasi (6 April 2013). "Pakistani hackers defaced over 1,000 Indian websites". The News International 2013. Retrieved 8 June 2013.
+^ "National Cyber Security Policy-2013 | Ministry of Electronics and Information Technology, Government of India". www.meity.gov.in. Retrieved 19 August 2020.
+^ Staff (22 April 2013). "Cyber Secure Pakistan' initiative launched". The News International, April 2013. Retrieved 10 June 2013.
+^ "Major cyber attack by Indian intelligence identified: ISPR". The Express Tribune. 12 August 2020. Retrieved 26 September 2020.
+^ "Indonesia Tops China as Cyber Attack Capital". PC Magazine. 16 October 2013.
+^ a b c Krekel, Bryan. People's Republic of China. The US-China Economic and Security Review Commission.Capability of the People's Republic of China to Conduct Cyber Warfare and Computer Network Exploitation . Virginia: Northrop Grumman, 2009. Web.
+^ Ian Traynor (17 May 2007). "Russia accused of unleashing cyberwar to disable Estonia". The Guardian.
+^ "War in the fifth domain. Are the mouse and keyboard the new weapons of conflict?". The Economist. 1 July 2010. Retrieved 2 July 2010. Important thinking about the tactical and legal concepts of cyber-warfare is taking place in a former Soviet barracks in Estonia, now home to NATO’s “centre of excellence” for cyber-defence. It was established in response to what has become known as “Web War 1”, a concerted denial-of-service attack on Estonian government, media and bank web servers that was precipitated by the decision to move a Soviet-era war memorial in central Tallinn in 2007.
+^ "An Egyptian cyber attack on Ethiopia by hackers is the latest strike over the Grand Dam". Quartz. 27 June 2020.
+^ "Iran Repels Cyberattack Targeting Internet Backbone". Financial Tribune. Retrieved 8 February 2020.
+^ "Iran cyberattack on Israel's water supply could have sickened hundreds – report". The Times of Israel. 1 June 2020.
+^ "Russia blocked 25mn cyber attacks on IT infrastructure during World Cup – Putin". RT International. Retrieved 16 July 2018.
+^ "US and Russia clash over power grid 'hack attacks". BBC News. 18 June 2019.
+^ "How Not To Prevent a Cyberwar With Russia". Wired. 18 June 2019.
+^ "Inside the UAE's secret hacking team of American mercenaries". Reuters. Retrieved 30 January 2019.
+^ Lewis, James, and Katrina Timlin. United States. Center for Strategic and International Studies. Cybersecurity and Cyberwarfare: Preliminary Assessment of National Doctrine and Organization. Washington, D.C.:, 2011. Web.
+^ United States. Review Team of Government Cybersecurity Experts. Cyberspace Policy Review: Assuring a Trusted and Resilient Information and Communications Infrastructure. Washington, D.C.:, Web.
+^ Rozens, Tracy (19 May 2016). "Expert: More work needed to get private sector cyber secure". Homeland Preparedness News. Retrieved 19 July 2016.
+^ "Sanctions: U.S. action on cyber crime" (PDF). PwC Financial Services Regulatory Practice, April 2015.
+^ 8-, Koppel, Ted, 1940 February (2015). Lights out : a cyberattack, a nation unprepared, surviving the aftermath (First ed.). New York. ISBN 9780553419962. OCLC 910424314.CS1 maint: numeric names: authors list (link)
+^ Loukas, George (June 2015). Cyber-Physical Attacks A growing invisible threat. Oxford, UK: Butterworh-Heinemann (Elsevier). p. 65. ISBN 9780128012901.
+^ a b c d e Lyons, Marty. United States. Homeland Security. Threat Assessment of Cyber Warfare. Washington, D.C.:, 2005. Web.
+^ Krebs, Brian. "Security Fix - Avoid Windows Malware: Bank on a Live CD". Voices.washingtonpost.com. Retrieved 23 June 2011.
+^ "Indian Companies at Center of Global Cyber Heist". onlinenewsoman.com. Archived from the original on 31 December 2016. Retrieved 6 December 2017.
+^ Evan Perez (18 May 2015). "FBI: Hacker claimed to have taken over flight's engine controls". CNN.
+^ "Cyber Daily: Human-Rights Groups Want Law Enforcement to Do More to Stop Hospital Cyberattacks". WSJ. Retrieved 1 June 2020.
+Sanaei, M. G., Isnin, I. F., &amp; Bakhtiari, M. (2013). Performance Evaluation of Routing Protocol on AODV and DSR Under Wormhole Attack. International Journal of Computer Networks and Communications Security, Volume 1, Issue 1, ISSN 2308-9830.
+Further reading[edit]
+Alexander, Keith. United States. Senate Committee on Armed Service. United States Cyber Command. 2012. Web.[full citation needed]
+External links[edit]
+Wikimedia Commons has media related to Cyberattacks.
+July 2015 Cyber Attacks Statistics – Hackmageddon
+Norse Attack Map
+Term in FISMApedia
+vteGlobal catastrophic risks
+Future of the Earth
+Future of an expanding universe
+Ultimate fate of the universe
+Technological
+Chemical warfare
+Cyberattack
+Cyberwarfare
+Cyberterrorism
+Cybergeddon
+Doomsday Clock
+Gray goo
+Kinetic bombardment
+Mutual assured destruction
+Dead Hand
+Doomsday device
+Antimatter weapon
+Nuclear warfare
+Safety of high-energy particle collision experiments
+Micro black hole
+Strangelet
+Synthetic intelligence / Artificial intelligence
+Existential risk from artificial intelligence
+AI takeover
+Technological singularity
+Transhumanism
+Year 2000 problem
+Year 2038 problem
+Year 10,000 problem
+Sociological
+Doomsday argument
+Self-Indication Assumption Doomsday argument rebuttal
+Self-referencing doomsday argument rebuttal
+Economic collapse
+Malthusian catastrophe
+New World Order (conspiracy theory)
+Nuclear holocaust
+winter
+famine
+cobalt
+Societal collapse
+Collapsology
+World War III
+EcologicalClimate change
+Anoxic event
+Biodiversity loss
+Mass mortality event
+Cascade effect
+Cataclysmic pole shift hypothesis
+Climate apocalypse
+Deforestation
+Desertification
+Extinction risk from global warming
+Tipping points in the climate system
+Flood basalt
+Global dimming
+Global terrestrial stilling
+Global warming
+Hypercane
+Ice age
+Ecocide
+Ecological collapse
+Environmental degradation
+Habitat destruction
+Human impact on the environment
+coral reefs
+on marine life
+Land degradation
+Land consumption
+Land surface effects on climate
+Ocean acidification
+Ozone depletion
+Resource depletion
+Sea level rise
+Supervolcano
+winter
+Verneshot
+Water pollution
+Water scarcity
+Earth Overshoot Day
+Overexploitation
+Overpopulation
+Human overpopulation
+BiologicalExtinction
+Extinction event
+Holocene extinction
+Human extinction
+List of extinction events
+Genetic erosion
+Genetic pollution
+Others
+Biodiversity loss
+Decline in amphibian populations
+Decline in insect populations
+Biotechnology risk
+Biological agent
+Biological warfare
+Bioterrorism
+Colony Collapse Disorder
+Defaunation
+Dysgenics
+Interplanetary contamination
+Pandemic
+Pollinator decline
+Overfishing
+Astronomical
+Big Crunch
+Big Rip
+Coronal mass ejection
+False vacuum
+Gamma-ray burst
+Heat death of the universe
+Impact event
+Asteroid impact avoidance
+Asteroid impact prediction
+Potentially hazardous object
+Near-Earth object
+winter
+Near-Earth supernova
+Solar flare
+Stellar collision
+MythologicalEschatology
+Buddhist
+Maitreya
+Three Ages
+Hindu
+Kalki
+Kali Yuga
+Last Judgement
+Second Coming
+1 Enoch
+Daniel
+Abomination of Desolation
+Prophecy of Seventy Weeks
+Messiah
+Christian
+Dispensationalism
+Futurism
+Historicism
+Interpretations of Revelation
+ Idealism
+Preterism
+2 Esdras
+2 Thessalonians
+Man of sin
+Katechon
+Antichrist
+Book of Revelation
+Events
+Four Horsemen of the Apocalypse
+Lake of fire
+Number of the Beast
+Seven bowls
+Seven seals
+The Beast
+Two witnesses
+War in Heaven
+Whore of Babylon
+Great Apostasy
+New Earth
+New Jerusalem
+Olivet Discourse
+Great Tribulation
+Son of Perdition
+Sheep and Goats
+Islamic
+Al-Qa'im
+Beast of the Earth
+Dhul-Qarnayn
+Dhul-Suwayqatayn
+Dajjal
+Israfil
+Mahdi
+Sufyani
+Jewish
+Messiah
+War of Gog and Magog
+Third Temple
+Norse
+Zoroastrian
+Saoshyant
+Others
+2011 end times prediction
+2012 phenomenon
+Apocalypse
+Apocalypticism
+Armageddon
+Blood moon prophecy
+Earth Changes
+End time
+Gog and Magog
+List of dates predicted for apocalyptic events
+Messianism
+Messianic Age
+Millenarianism
+Millennialism
+Premillennialism
+Amillennialism
+Postmillennialism
+Nemesis (hypothetical star)
+Nibiru cataclysm
+Rapture
+Prewrath
+Post-tribulation rapture
+Resurrection of the dead
+Revelation 12 sign prophecy
+World to come
+Fictional
+Alien invasion
+Apocalyptic and post-apocalyptic fiction
+List of apocalyptic and post-apocalyptic fiction
+List of apocalyptic films
+Climate fiction
+Disaster films
+List of disaster films
+List of fictional doomsday devices
+Zombie apocalypse
+Zombie
+ Categories
+Apocalypticism
+Future problems
+Hazards
+Risk analysis
+Doomsday scenarios
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Cyberattack&amp;oldid=980792793"
+		Categories: CyberattacksCybercrimeAttacks by methodComputer securitySecurity complianceHidden categories: Pages with non-numeric formatnum argumentsCS1 maint: numeric names: authors listArticles with short descriptionShort description is different from WikidataUse dmy dates from August 2019Use American English from August 2019All Wikipedia articles written in American EnglishArticles needing additional references from July 2014All articles needing additional referencesArticles that may contain original research from March 2015All articles that may contain original researchAll articles with unsourced statementsArticles with unsourced statements from August 2019Articles needing additional references from July 2013Wikipedia articles with style issues from August 2019All articles with style issuesAll articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from May 2013All articles with incomplete citationsArticles with incomplete citations from March 2018Commons category link is on WikidataWikipedia articles with ASCII artPages using RFC magic links
+	Navigation menu
+		Personal tools
+		Not logged inTalkContributionsCreate accountLog in
+		Namespaces
+		ArticleTalk
+		Variants
+		Views
+		ReadEditView history
+		More
+		Search
+		Navigation
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		Contribute
+		HelpLearn to editCommunity portalRecent changesUpload file
+		Tools
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		Print/export
+		Download as PDFPrintable version
+		Languages
+		العربيةAzərbaycancaभोजपुरीCatalàČeštinaDeutschEestiΕλληνικάEspañolفارسیFrançaisहिन्दीBahasa IndonesiaItalianoLatinaLatviešuLietuviųမြန်မာဘာသာNorsk bokmålPortuguêsРусскийதமிழ்УкраїнськаTiếng Việt中文
+		Edit links
+		 This page was last edited on 28 September 2020, at 13:53 (UTC).
+		Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+		Privacy policy
+		About Wikipedia
+		Disclaimers
+		Contact Wikipedia
+		Mobile view
+		Developers
+		Statistics
+		Cookie statement

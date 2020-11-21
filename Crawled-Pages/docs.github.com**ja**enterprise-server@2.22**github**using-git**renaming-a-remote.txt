@@ -1,0 +1,723 @@
+     category > maptopic > article -->
+    GitHub Docs
+    All products
+  GitHub.com
+          はじめましょう
+              クイックスタート
+                  Git のセットアップ
+                  リポジトリを作成する
+                  リポジトリをフォークする
+                  ソーシャル機能
+              GitHub について学ぶ
+                  GitHub の製品
+                  GitHub アカウントの種類
+                  GitHub CLI
+                  GitHub Desktop
+                  GitHub 上のアクセス権限
+                  GitHub 用語集
+                  Git チートシート
+                  Git と GitHub の学習リソース
+              GitHub へのサインアップ
+                  GitHub Enterprise Cloud のトライアルを設定する
+                  GitHub Enterprise Server のトライアルを設定する
+              GitHub 上でプロジェクトを探索する
+                  Star を付けてリポジトリを保存する
+                  人をフォローする
+              GitHub を使用する
+                  サポートされているブラウザ
+                  キーボードショートカット
+          ユーザアカウント
+              ユーザ アカウント設定の管理
+                  パーソナルダッシュボードについて
+                  GitHub ユーザ名の変更
+                  ユーザを Organization に変換する
+                  自分のユーザアカウントの削除
+                  ユーザーアカウントのリポジトリ権限レベル
+                  ユーザー所有のプロジェクトボードの権限レベル
+                  ユーザ アカウントのプロジェクトボードに対するアクセスを管理する
+                  JIRA を個人プロジェクトに統合する
+              メール プリファレンスの管理
+                  GitHub アカウントへのメールアドレスの追加
+                  プライマリメールアドレスの変更
+                  バックアップメールアドレスを設定する
+                  コミットメールアドレスを設定する
+                  自分の GitHub ユーザ名またはメールアドレスを忘れた場合は
+              個人リポジトリに対するアクセスを管理する
+                  コラボレーターを個人リポジトリに招待する
+                  個人リポジトリからコラボレーターを削除する
+                  コラボレーターのリポジトリから自分を削除する
+              Organization でメンバーシップを管理する
+                  Organization メンバーシップについて
+                  Organization へのアクセス
+                  Organization の人のロールを表示する
+                  Organization のメンバーシップを公開または非公開にする
+                  Organization から自分を削除する
+          プロフィール
+              プロフィールのカスタマイズ
+                  プロフィールについて
+                  Organization のプロフィールについて
+                  プロフィールをパーソナライズする
+                  Managing your profile README
+                  プロフィールにアイテムをピン止めする
+              プロフィールでコントリビューショングラフを管理する
+                  プロフィールでコントリビューションを表示する
+                  プロフィールでのアクティビティのオーバービューを表示する
+                  プライベートコントリビューションをプロフィールで公開または非公開にする
+                  GitHub.com プロフィールにGitHub Enterprise Server コントリビューションを伝達する
+                  コントリビューションがプロフィールに表示されないのはなぜですか？
+                  タイムライン上のコミットのトラブルシューティング
+          認証
+              アカウントとデータを安全に保つ
+                  GitHub への認証方法について
+                  強力なパスワードの作成
+                  GitHub アクセス認証情報を更新する
+                  個人アクセストークンを使用する
+                  SSH キーをレビューする
+                  デプロイ キーをレビューする
+                  OAuth アプリケーションの認可
+                  許可されたインテグレーションをレビューする
+                  サードパーティアプリケーションと接続する
+                  許可されたアプリケーション (OAuth) をレビューする
+                  セキュリティログをレビューする
+                  機密データをリポジトリから削除する
+                  Sudo モード
+                  許可されていないアクセスを防止する
+              2 要素認証でアカウントを保護する
+                  2 要素認証について
+                  2 要素認証を設定する
+                  2 要素認証リカバリ方法を設定する
+                  2 要素認証を利用した GitHub へのアクセス
+                  2 要素認証クレデンシャルをなくした際のアカウントの回復
+                  個人アカウントの 2 要素認証を無効化する
+              GitHub に SSH で接続する
+                  SSH について
+                  既存の SSH キーの確認
+                  新しい SSH キーを生成して ssh-agent に追加する
+                  GitHub アカウントへの新しい SSH キーの追加
+                  SSH 接続をテストする
+                  SSH キーのパスフレーズを使う
+              SSH のトラブルシューティング
+                  SSH キーのパスフレーズのリカバリ
+                  Error: Permission denied (publickey)
+                  エラー: Bad file number
+                  Error: Key already in use
+                  Error: Permission to user/repo denied to other-user
+                  Error: Permission to user/repo denied to user/other-repo
+                  Error: Agent admitted failure to sign
+                  Error: ssh-add: illegal option -- K
+                  Error: We're doing an SSH key audit
+              コミット署名の検証を管理する
+                  コミット署名の検証について
+                  既存の GPG キーの確認
+                  新しい GPG キーを生成する
+                  GitHub アカウントへの新しい GPG キーの追加
+                  Git へ署名キーを伝える
+                  GPG キーとメールの関連付け
+                  コミットに署名する
+                  タグに署名する
+              コミット署名検証のトラブルシューティング
+                  コミットおよびタグの署名の検証ステータスを確認する
+                  期限切れ GPG キーを更新する
+                  GPG キーで検証済みのメールアドレスを使う
+          GitHub でサブスクリプションと通知を管理する
+              通知を設定する
+                  通知について
+                  Configuring notifications
+              通知の表示とトリアージ
+                  インボックスからの通知を管理する
+                  単一の通知をトリアージする
+                  通知をトリアージするためのワークフローをカスタマイズする
+              GitHub におけるアクティビティのサブスクリプションを管理する
+                  サブスクリプションを表示する
+                  サブスクリプションを管理する
+          Organization および Team
+              Organization のグループでコラボレーションする
+                  Organizationについて
+                  Organization ダッシュボードについて
+                  新しい Organization をゼロから作成
+                  Organization の設定へのアクセス
+                  Organization のニュースフィードについて
+              Organization でメンバーシップを管理する
+                  Organization への人の追加
+                  Organization からメンバーを削除する
+                  Oraganization の以前のメンバーを復帰させる
+              Organization へのアクセスをロールで管理する
+                  Organization の権限レベル
+                  Organization の所有権の継続性を管理する
+                  Organization メンバーに「チームメンテナー」権限を付与する
+              メンバーを Team に編成する
+                  Team について
+                  Team の作成
+                  Team のプロフィール画像を設定する
+                  Team への Organization メンバーの追加
+                  Team のコードレビューの割り当てを管理する
+                  Team の名前の変更
+                  Team の可視性の変更
+                  Organization 階層内で Team を移動する
+                  子チームの追加をリクエストする
+                  親チームの追加または変更をリクエストする
+                  Team から Organization メンバーを削除する
+                  Organization の Team ディスカッションを無効にする
+                  Team の削除
+              Organization のリポジトリに対するアクセスを管理する
+                  Organization のリポジトリ権限レベル
+                  Organization の基本レベルの権限の設定
+                  自分のリポジトリにアクセスできる人を表示する
+                  Organization のリポジトリへの個人のアクセスを管理する
+                  Organization リポジトリへの Team のアクセスを管理する
+                  外部のコラボレータを Organization のリポジトリに追加する
+                  外部コラボレーターを Organization リポジトリから削除する
+                  Organization メンバーを外部コラボレーターに変換する
+                  外部コラボレーターを Organization メンバーに変換する
+                  以前の外部のコラボレータの Organization へのアクセスを復帰させる
+              Organization のプロジェクトボードへのアクセスを管理する
+                  Organization のプロジェクトボード権限
+                  Organization メンバーのプロジェクトボードへのアクセスを管理する
+                  Organization のプロジェクトボードに対するチームのアクセスを管理する
+                  Organization のプロジェクトボードに対する個々のアクセスを管理する
+                  Organization のプロジェクトボードに外部のコラボレータを追加する
+                  外部コラボレーターを Organization プロジェクトボードから削除する
+              Organization のアプリケーションに対するアクセスを管理する
+                  GitHub App マネージャーを Organization に追加する
+                  GitHub App マネージャーを Organization から削除する
+              Organization の設定を管理する
+                  Organization の名前を変更する
+                  Organization の所有権を移譲する
+                  Organization 内でリポジトリの作成を制限する
+                  リポジトリを削除または移譲する権限を設定する
+                  Organization 内でリポジトリの可視性の変更を制限する
+                  Organization のフォークポリシーを管理する
+                  Organization について GitHub Actions を無効化または制限する
+                  外部のコラボレーターを追加するための権限を設定する
+                  Organization 内の Issue の削除を許可する
+                  Organization のチーム作成権限を設定する
+                  Organization 内のリポジトリのためのデフォルトラベルを管理する
+                  Organization のメンバー名表示を管理する
+                  Organization アカウントの削除
+                  Organization をユーザに変換する
+                  Organization のプロジェクトボードに JIRA を統合する
+              改善された Organization の権限に移行する
+                  オーナー Team を改善された Organization の権限に移行する
+                  管理者 Team を改善された Organization の権限に移行する
+                  管理者 Team を改善された Organization の権限に移行する
+              Organization を安全に保つ
+                  Organization 内のユーザが 2 要素認証を有効にしているかどうかを表示する
+                  Organization で 2 要素認証の義務化を準備する
+                  Organization で 2 要素認証を要求する
+                  Reviewing the audit log for your organization
+                  Organization のインストール済みインテグレーションをレビューする
+              Organization のリポジトリに対する Git アクセスを管理する
+                  SSH 認証局について
+                  OrganizationのSSH認証局を管理する
+          GitHub での執筆
+              GitHub で書き、フォーマットしてみる
+                  GitHub 上での執筆とフォーマットについて
+                  基本的な書き方とフォーマットの構文
+              高度なフォーマットを使用して作業する
+                  情報を表に編成する
+                  コードブロックの作成と強調表示
+                  自動リンクされた参照と URL
+              返信テンプレートを使って作業する
+                  返信テンプレートについて
+                  返信テンプレートの作成
+                  返信テンプレートを編集する
+                  返信テンプレートの削除
+                  返信テンプレートを使う
+              Gist でコンテンツを編集・共有する
+                  Gist の作成
+                  Gistのフォークとクローン
+          リポジトリの作成、クローン、アーカイブ
+              GitHub でのリポジトリの作成
+                  リポジトリについて
+                  リポジトリの可視性について
+                  新しいリポジトリの作成
+                  テンプレートからリポジトリを作成する
+                  READMEについて
+                  コードオーナーについて
+                  リポジトリの言語について
+                  リポジトリのライセンス
+                  テンプレートリポジトリを作成する
+                  Issue だけのリポジトリの作成
+                  リポジトリでコンテンツと diff の表示を制限する
+                  リポジトリを複製する
+              GitHub からリポジトリをクローンする
+                  リポジトリをクローンする
+                  HTTPS クローニングエラー
+                  Error: Repository not found
+                  Error: Remote HEAD refers to nonexistent ref, unable to checkout
+              GitHub リポジトリのアーカイブ
+                  リポジトリのアーカイブ処理について
+                  リポジトリのアーカイブ
+                  リポジトリのバックアップ
+          Git を使用する
+              Git および GitHub を使ってみる
+                  Git でのユーザ名を設定する
+                  Git に GitHub の認証情報をキャッシュする
+                  Git が常にパスワードを要求するのはなぜですか？
+                  Updating credentials from the macOS Keychain
+              Git について学ぶ
+                  Git のワークフロー
+                  Git とのテキストエディタの関連付け
+                  行終端を処理するようGitを設定する
+                  ファイルを無視する
+              一般的な Git コマンドを使用する
+                  コミットをリモートリポジトリにプッシュする
+                  リモートリポジトリから変更を取得する
+                  non-fast-forward エラーの扱い
+              リモートリポジトリを管理する
+                  リモートリポジトリについて
+                  どのリモート URL を使うべきですか？
+                  リモートの追加
+                  リモートの URL の変更
+                  リモートの名前を変更する
+                  リモートを削除する
+              高度な Git コマンドを使用する
+                  Gitリベースについて
+                  コマンドラインで Git リベースを使う
+                  Git リベース後のマージコンフリクトを解決する
+                  Gitのサブツリーのマージについて
+                  サブフォルダを新規リポジトリに分割する
+          変更をプロジェクトにコミットする
+              コミットの作成と編集
+                  コミットについて
+                  複数の作者を持つコミットを作成する
+                  コミットメッセージの変更
+              コミットの表示と比較
+                  コミットのブランチおよびタグラベル
+                  コミットを比較する
+                  コミットビュー間の違い
+              コミットのトラブルシューティング
+                  コミットが GitHub にはありますが、ローカルにはありません
+                  コミットが間違ったユーザにリンクされているのはなぜですか？
+          Issue とプルリクエストでのコラボレーション
+              概要
+                  GitHub のフロー
+                  共同開発モデルについて
+                  GitHubでのディスカッションについて
+              フォークを使って作業する
+                  フォークについて
+                  フォークにリモートを設定する
+                  フォークを同期する
+                  上流リポジトリをフォークにマージする
+                  フォークから作成されたプルリクエストブランチへの変更を許可する
+                  リポジトリが削除されたり可視性が変更されたりするとフォークはどうなりますか？
+              コード品質保証機能を使ってリポジトリでコラボレーションする
+                  ステータスチェックについて
+                  Pre-receive フックを使って作業する
+              プルリクエストで、作業に対する変更を提案する
+                  ブランチについて
+                  リポジトリ内でブランチを作成および削除する
+                  プルリクエストについて
+                  プルリクエスト中でのブランチの比較について
+                  プルリクエストの作成方法
+                  フォークからプルリクエストを作成する
+                  プルリクエストのステージの変更
+                  Pull Request レビューをリクエストする
+                  プルリクエストのベースブランチを変更する
+                  フォークから作成されたプルリクエストのブランチへの変更をコミットする
+              マージコンフリクトへの対処
+                  マージコンフリクトについて
+                  GitHub でのマージ コンフリクトを解決する
+                  コマンド ラインを使用してマージ コンフリクトを解決する
+              Pull Request での変更をレビューする
+                  プルリクエストのレビューについて
+                  プルリクエストで提案された変更をレビューする
+                  プルリクエスト内のファイルをフィルタリングする
+                  プルリクエストで変更されたメソッドや機能を見つける
+                  プルリクエストへコメントする
+                  Pull Request レビューを表示する
+                  プルリクエストでのフィードバックを取り込む
+                  必須レビューでのプルリクエストの承認
+                  プルリクエストレビューの却下
+                  プルリクエストをローカルでチェック アウトする
+              プルリクエストから変更を取り込む
+                  プルリクエストのマージについて
+                  プルリクエストをマージする
+                  プルリクエストをクローズする
+                  Pull Request を打ち消す
+          GitHub での作業を管理する
+              Issue で作業を管理する
+                  Issueについて
+                  Issue の作成
+                  Issue の削除
+                  コメントからIssueを開く
+                  コードから Issue を開く
+                  他のリポジトリへ Issue を移譲する
+                  Issue をリポジトリにピン止めする
+                  コードスニペットへのパーマリンクを作成する
+                  タスクリストについて
+                  クエリパラメータ付きのIssule及びプルリクエストの自動化について
+                  Issue およびプルリクエストのファイル添付
+                  GitHub の他のユーザに Issue およびプルリクエストをアサインする
+                  すべての Issue およびプルリクエストを見る
+                  Issues を無効化する
+                  プルリクエストをIssueにリンクする
+                  重複したIssueやプルリクエストについて
+              Issue とプルリクエストのラベル付け
+                  ラベルについて
+                  ラベルの作成
+                  Issue およびプルリクエストへのラベルの適用
+                  ラベルの編集
+                  ラベルの削除
+              プロジェクトボードを管理する
+                  プロジェクトボードについて
+                  プロジェクトボードの作成
+                  プロジェクトボードの編集
+                  リポジトリをプロジェクトボードにリンクする
+                  プロジェクトボードの自動化について
+                  プロジェクトボードの自動化を設定する
+                  プロジェクトボードをクローズする
+                  クローズされたプロジェクトボードを再びオープンする
+                  プロジェクトボードの削除
+                  リポジトリ内のプロジェクトボードを無効化する
+                  Organization のプロジェクトボードを無効化
+                  プロジェクトボードの表示設定の変更
+              プロジェクトボードで進捗を追跡する
+                  プロジェクトボードへの Issue およびプルリクエストの追加
+                  プロジェクトボードへのノートの追加
+                  プロジェクトボードで進捗を追跡する
+                  プロジェクトボードでカードをフィルタリングする
+                  プロジェクトボード上のカードのアーカイブ
+              作業の進捗をマイルストーンで追跡する
+                  マイルストーンについて
+                  Issue とプルリクエストのマイルストーンの作成と削除
+                  Issue およびプルリクエストにマイルストーンを関連付ける
+                  Issue とプルリクエストをマイルストーンでフィルタリングする
+                  マイルストーンの進捗状況を表示する
+              リポジトリ内の情報を検索する
+                  Issue およびプルリクエストをフィルタリングする
+                  Issue およびプルリクエストをアサインされた人でフィルタリングする
+                  Issue およびプルリクエストをラベルでフィルタリングする
+                  プルリクエストをレビューステータスでフィルタリングする
+                  Issue およびプルリクエストをソートする
+                  検索を使用して Issue およびプルリクエストをフィルタリングする
+                  フィルターを共有する
+          強いコミュニティを作る
+              健全なコントリビューションを促すプロジェクトをセットアップする
+                  リポジトリコントリビューターのためのガイドラインを定める
+                  リポジトリへのライセンスの追加
+                  プロジェクトへのサポートリソースの追加
+                  デフォルトのコミュニティ健全性ファイルを作成する
+              テンプレートを使用して便利な Issue やプルリクエストを推進する
+                  Issueとプルリクエストのテンプレートについて
+                  リポジトリ用に Issue テンプレートを設定する
+                  リポジトリ用のプルリクエストテンプレートの作成
+                  リポジトリ用の単一 Issue テンプレートを手動で作成する
+              コメントおよび会話をモデレートする
+                  混乱を生むコメントを管理する
+                  会話をロックする
+                  コメントの変更を追跡する
+              ウィキでプロジェクトを文書化する
+                  ウィキについて
+                  ウィキページを追加または編集する
+                  ウィキにフッタやサイドバーを作成する
+                  ウィキのコンテンツを編集する
+                  ウィキの変更履歴を表示する
+                  Wiki へのアクセス権限の変更
+                  ウィキを無効化する
+              Team とコラボレーションする
+                  Team ディスカッションについて
+                  Team ディスカッションの作成
+                  Team ディスカッションの編集または削除
+                  Team ディスカッションをピン止めする
+          GitHub で情報を検索する
+              GitHub の検索を使ってみる
+                  GitHub での検索について
+                  検索構文を理解する
+                  クエリ検索のトラブルシューティング
+                  検索結果をソートする
+                  GitHub Enterprise Server で GitHub.com リポジトリの検索を有効化する
+              GitHub 上で検索する
+                  GitHub でファイルを検索する
+                  リポジトリを検索する
+                  トピックを検索する
+                  コードの検索
+                  コミットを検索する
+                  Issue およびプルリクエストを検索する
+                  ユーザを検索する
+                  パッケージを検索する
+                  ウィキを検索する
+                  フォーク内を検索する
+          プロジェクトのインポート
+              GitHub にソースコードをインポートする
+                  コマンドラインを使った Git リポジトリのインポート
+                  コマンドラインを使った GitHub への既存のプロジェクトの追加
+                  ソースコード移行ツール
+              GitHub で Subversion を使う
+                  Subversion と Git の違い
+                  Subversion クライアントのサポート
+                  GitHub がサポートする Subversion プロパティ
+          リポジトリを管理する
+              リポジトリ設定を管理する
+                  リポジトリの可視性を設定する
+                  トピックでリポジトリを分類する
+                  変更したファイルの GitHub での表示方法をカスタマイズする
+                  リポジトリへのプッシュに対するメール通知について
+                  リポジトリのソーシャルメディア向けプレビューをカスタマイズする
+                  リポジトリのデプロイメントアクティビティを表示する
+                  リポジトリのフォークポリシーを管理する
+                  リポジトリの GitHub アクションの無効化や制限
+                  リポジトリに対する匿名 Git 読み取りアクセスを有効化する
+                  外部リソースを参照する自動リンクの構成
+                  リポジトリの名前を変更する
+                  リポジトリを移譲する
+                  リポジトリの削除
+              リポジトリ内のブランチを管理する
+                  Changing the default branch
+                  リポジトリ内のブランチを表示する
+                  プルリクエスト中のブランチの削除と復元
+              プルリクエストマージを設定する
+                  GitHub上のマージ方法について
+                  プルリクエストにコミットの squash を設定する
+                  プルリクエストにコミットのリベースを設定する
+                  ブランチの自動的削除を管理する
+              プルリクエストのマージ可能性を定義
+                  保護されたブランチについて
+                  保護されたブランチを設定する
+                  必須ステータスチェックについて
+                  必須ステータスチェックのタイプ
+                  ステータスチェック必須の有効化
+                  ブランチ制限について
+                  ブランチ制限の有効化
+                  プルリクエストの必須レビューについて
+                  プルリクエストの必須レビューを有効にする
+                  必須コミット署名について
+                  必須コミット署名を有効にする
+                  直線状のコミット履歴をリクエストする
+                  保護されたブランチへのフォースプッシュを有効化する
+                  保護されたブランチの削除を有効にする
+              GitHub でプロジェクトをリリースする
+                  リリースについて
+                  リポジトリのリリースを管理する
+                  リポジトリのリリースとタグを表示する
+                  リリースにリンクする
+                  リリースの比較
+                  クエリパラメータ付きのリリースフォームのための自動化
+          リポジトリデータをグラフで可視化する
+              基本的なリポジトリデータへのアクセス
+                  リポジトリグラフについて
+                  リポジトリアクティビティの概要を表示する
+                  プロジェクトのコントリビューターを表示する
+              リポジトリの内容への変更の分析
+                  リポジトリ内のコミットを可視化する
+                  リポジトリ内のコンテンツに対する追加と削除を可視化する
+              リポジトリ間の接続を理解する
+                  リポジトリのネットワークを表示する
+                  リポジトリのフォークをリストする
+                  About the dependency graph
+                  Exploring the dependencies of a repository
+          セキュリティ脆弱性を管理する
+              プロジェクトの依存関係にある脆弱性を管理する
+                  About alerts for vulnerable dependencies
+          コード内のセキュリティの脆弱性とエラーを検出する
+              コードの脆弱性とエラーを自動的にスキャンする
+                  About code scanning
+                  Enabling code scanning
+                  Managing alerts
+                  コードスキャンを設定する
+                  Configuring for compiled languages
+                  Troubleshooting CodeQL
+              Integrating with code scanning
+                  About integration
+                  Running in your CI
+                  Configuring in your CI
+                  SARIF ファイルをアップロードする
+                  SARIF サポート
+          リポジトリのファイルを管理する
+              GitHub でファイルを管理する
+                  新しいファイルの作成
+                  ファイルをリポジトリに追加する
+                  ファイルを新しい場所に移動する
+                  リポジトリのファイルを編集する
+                  他のユーザーのリポジトリ内のファイルを編集する
+                  ファイルの変更を追跡する
+                  ファイルの削除
+                  ファイルの名前を変更する
+                  ファイルへのパーマリンクを取得する
+              コマンドラインを使用してファイルを管理する
+                  コマンドラインを使用してファイルをリポジトリに追加する
+                  コマンドラインを使用してファイルの名前を変更する
+                  コマンドラインを使用してファイルを新しい場所へ移動する
+              非コードファイルでの作業
+                  画像をレンダリングして違いを見極める
+                  3Dファイルビューア
+                  CSV および TSV データをレンダリングする
+                  PDF ドキュメントをレンダリングする
+                  文章ドキュメントの差分をレンダリングする
+                  GitHub に geoJSON ファイルをマッピングする
+                  GitHub で Jupyter notebook ファイルを使って作業する
+          大きなファイルを管理する
+              大きなファイルを使って作業する
+                  大容量ファイルの制限
+                  ファイルをリポジトリの履歴から削除する
+                  大きなバイナリを配布する
+              大きなファイルのバージョン付け
+                  Git Large File Storageについて
+                  Git Large File Storage をインストールする
+                  Git Large File Storage を設定する
+                  Git Large File Storage でのコラボレーション
+                  リポジトリのファイルを Git Large File Storage に移動する
+                  ファイルを Git Large File Storage から削除する
+                  Git Large File Storage のアップロード エラーを解決する
+          GitHub を拡張する
+          API を使ってみる
+          OAuth トークンを使用した Git の自動化
+          webhook について
+          GitHub Pages
+              GitHub Pages を使ってみる
+                  GitHub Pages について
+                  GitHub Pages サイトを作成する
+                  GitHub Pages サイトの公開元を設定する
+                  GitHub Pages サイトのカスタム 404 ページを作成する
+                  GitHub Pages サイトを取り下げる
+              Jekyll を使用して GitHub Pages サイトを設定する
+                  GitHub PagesとJekyllについて
+                  Jekyll を使用して GitHub Pages サイトを作成する
+                  Jekyll を使用して GitHub Pages サイトをローカルでテストする
+                  Jekyll を使用して GitHub Pages サイトにコンテンツを追加する
+                  Jekyll を使用して、GitHub Pages サイトの Markdown プロセッサを設定する
+                  Jekyll を使用して GitHub Pages サイトにテーマを追加する
+                  GitHub PagesサイトのJekyllビルドエラーについて
+                  GitHub Pages サイトの Jekyll ビルドエラーに関するトラブルシューティング
+  ドキュメントには頻繁に更新が加えられ、その都度公開されています。本ページの翻訳はまだ未完成な部分があることをご了承ください。最新の情報については、英語のドキュメンテーションをご参照ください。本ページの翻訳に問題がある場合はこちらまでご連絡ください。
+        GitHub Docs
+                製品で調べる
+                      GitHub.com
+                       GitHub.com
+                       Enterprise Administrators
+                       GitHub Actions
+                       GitHub Packages
+                       Developers
+                       REST API
+                       GraphQL API
+                       GitHub Insights
+                       GitHub Desktop
+                       Atom
+                       Electron
+                            日本語 (Japanese)
+                              English
+                              简体中文 (Simplified Chinese)
+                              日本語 (Japanese)
+                              Español (Spanish)
+                              Português do Brasil (Portuguese)
+      記事のバージョン： Enterprise Server 2.22
+      Free, Pro, and Team
+      Enterprise Server 2.22
+      Enterprise Server 2.21
+      Enterprise Server 2.20
+      Enterprise Server 2.19
+    GitHub.com
+    Git を使用する
+    リモートリポジトリを管理する
+    リモートの名前を変更する
+      記事のバージョン： Enterprise Server 2.22
+      Free, Pro, and Team
+      Enterprise Server 2.22
+      Enterprise Server 2.21
+      Enterprise Server 2.20
+      Enterprise Server 2.19
+        リモートの名前を変更する
+        「git remote rename」コマンドを使用して、既存のリモートの名前を変更します。
+        ここには以下の内容があります:
+          サンプル
+          トラブルシューティング
+          参考リンク
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        必須
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        任意
+      Can we contact you if we have more questions?
+        任意
+      送信
+    ありがとうございます。フィードバックが送信されました。
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  OR, learn how to contribute.
+      git remote rename コマンドは、次の 2 つの引数を取ります:
+既存のリモート名（origin など）
+リモートの新しい名前 (destination など)
+サンプル
+These examples assume you're cloning using HTTPS, which is recommended.
+$ git remote -v
+# 既存のリモートを表示
+&gt; origin https://hostname/オーナー/リポジトリ.git (fetch)
+&gt; origin https://hostname/オーナー/リポジトリ.git (push)
+$ git remote rename origin destination
+# リモート名を「origin」から「destination」に変更
+$ git remote -v
+# リモートの新しい名前を確認
+&gt; destination https://hostname/オーナー/リポジトリ.git (fetch)
+&gt; destination https://hostname/オーナー/リポジトリ.git (push)
+トラブルシューティング
+リモートの名前を変更しようとすると、次のエラーが発生することがあります。
+Could not rename config section 'remote.[古い名前]' to 'remote.[新しい名前]'
+このエラーは、名前を変更しようとして入力した古いリモート名のリモートが存在しない、という意味です。
+現在どのリモートが存在するかは、次のように git remote -v コマンドでチェックできます:
+$ git remote -v
+# 既存のリモートを表示
+&gt; origin  https://hostname/コードオーナー/リポジトリ.git (fetch)
+&gt; origin  https://hostname/コードオーナー/リポジトリ.git (push)
+Remote [新しい名前] already exists.
+このエラーは、使用しようとしたリモート名がすでに存在する、という意味です。 これを解決するのは、別のリモート名の使用、または元のリモートの名前の変更のいずれかです。
+参考リンク
+Pro Git ブックの「リモートでの作業」
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        必須
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        任意
+      Can we contact you if we have more questions?
+        任意
+      送信
+    ありがとうございます。フィードバックが送信されました。
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  OR, learn how to contribute.
+      Still need help?
+      Ask the GitHub community
+      サポートへの連絡
+        製品
+          機能
+          セキュリティ
+          Enterprise
+          ケーススタディ
+          価格
+          リソース
+        プラットフォーム
+          開発者 API
+          パートナー
+          Atom
+          Electron
+          GitHub Desktop
+        サポート
+          ヘルプ
+          コミュニティフォーラム
+          トレーニング
+          状況
+          GitHubに連絡
+        会社
+          GitHubについて
+          ブログ
+          キャリア
+          プレス
+          ショップ
+        © 2020 GitHub, Inc.
+        規約 
+        プライバシー 

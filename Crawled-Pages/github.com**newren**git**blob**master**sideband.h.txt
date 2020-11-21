@@ -1,0 +1,163 @@
+      Skip to content
+                Sign up
+                    Why GitHub?
+                    Features →
+                      Code review
+                      Project management
+                      Integrations
+                      Actions
+                      Packages
+                      Security
+                      Team management
+                      Hosting
+                      Mobile
+                      Customer stories →
+                      Security →
+                Team
+                Enterprise
+                    Explore
+                      Explore GitHub →
+                    Learn &amp; contribute
+                      Topics
+                        Collections
+                      Trending
+                      Learning Lab
+                      Open source guides
+                    Connect with others
+                      Events
+                      Community forum
+                      GitHub Education
+                      GitHub Stars program
+                Marketplace
+                    Pricing
+                    Plans →
+                      Compare plans
+                      Contact Sales
+                      Nonprofit →
+                      Education →
+     -->
+        In this repository
+        All GitHub
+      ↵
+      Jump to
+      ↵
+    No suggested jump to results
+        In this repository
+        All GitHub
+      ↵
+      Jump to
+      ↵
+        In this repository
+        All GitHub
+      ↵
+      Jump to
+      ↵
+          Sign in
+              Sign up
+      {{ message }}
+      newren
+    /
+    git
+    forked from git/git
+    Watch
+      1
+      Star
+      1
+          Fork
+        20k
+            Code
+            Pull requests
+              0
+            Actions
+            Projects
+              0
+            Security
+            Insights
+            More
+                    Code
+                    Pull requests
+                    Actions
+                    Projects
+                    Security
+                    Insights
+    Permalink
+          Dismiss
+        Join GitHub today
+        GitHub is home to over 50 million developers working together to host and review code, manage projects, and build software together.
+        Sign up
+      master
+        git/sideband.h
+        Go to file
+                Go to file
+                T
+                  Go to line
+                  L
+                Copy path
+          Cannot retrieve contributors at this time
+      29 lines (25 sloc)
+    903 Bytes
+      Raw
+        Blame
+        #ifndef SIDEBAND_H
+        #define SIDEBAND_H
+        enum sideband_type {
+        	SIDEBAND_PROTOCOL_ERROR = -2,
+        	SIDEBAND_REMOTE_ERROR = -1,
+        	SIDEBAND_FLUSH = 0,
+        	SIDEBAND_PRIMARY = 1
+        };
+        /*
+         * Inspects a multiplexed packet read from the remote. If this packet is a
+         * progress packet and thus should not be processed by the caller, returns 0.
+         * Otherwise, returns 1, releases scratch, and sets sideband_type.
+         *
+         * If this packet is SIDEBAND_PROTOCOL_ERROR, SIDEBAND_REMOTE_ERROR, or a
+         * progress packet, also prints a message to stderr.
+         *
+         * scratch must be a struct strbuf allocated by the caller. It is used to store
+         * progress messages split across multiple packets.
+         */
+        int demultiplex_sideband(const char *me, char *buf, int len,
+        			 int die_on_error,
+        			 struct strbuf *scratch,
+        			 enum sideband_type *sideband_type);
+        void send_sideband(int fd, int band, const char *data, ssize_t sz, int packet_max);
+        #endif
+            Copy lines
+            Copy permalink
+        View git blame
+       -->
+        Go
+        © 2020 GitHub, Inc.
+          Terms
+          Privacy
+  Cookie Preferences
+          Security
+          Status
+          Help
+          Contact GitHub
+          Pricing
+        API
+        Training
+          Blog
+          About
+    You can’t perform that action at this time.
+    You signed in with another tab or window. Reload to refresh your session.
+    You signed out in another tab or window. Reload to refresh your session.
+  We use optional third-party analytics cookies to understand how you use GitHub.com so we can build better products.
+              Learn more.
+              Accept
+              Reject
+  We use optional third-party analytics cookies to understand how you use GitHub.com so we can build better products.
+              You can always update your selection by clicking Cookie Preferences at the bottom of the page.
+              For more information, see our Privacy Statement.
+              Essential cookies
+              We use essential cookies to perform essential website functions, e.g. they're used to log you in. 
+                Learn more
+              Always active
+              Analytics cookies
+              We use analytics cookies to understand how you use our websites so we can make them better, e.g. they're used to gather information about the pages you visit and how many clicks you need to accomplish a task. 
+                Learn more
+                Accept
+                Reject
+            Save preferences

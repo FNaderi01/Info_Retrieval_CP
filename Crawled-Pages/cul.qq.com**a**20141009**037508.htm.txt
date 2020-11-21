@@ -1,0 +1,426 @@
+无障碍说明
+ .nav-Article-QQ { outline: none; }
+ #moreNav { position: relative; }
+ #moreNav .moreLink:hover { background:none; }
+ .moreNav1 { display:block; padding-right:10px; background:url( http://mat1.gtimg.com/news/dc/images/icon_down.gif) no-repeat right center; }
+ .moreNav2 { display:block; padding-right:10px; position: relative; background:url( http://mat1.gtimg.com/news/dc/images/icon_up.gif) no-repeat right center; }
+ .navmenu { display:none; position: absolute;  top:35px; background:#379BE9; text-align:left; width:74px; }
+ .navmenu a:hover { background:#1669AB; }
+ .nav-Article-QQ { z-index:21; }
+.nav-color { color:#FFCC00; }
+.nav-Article-QQ ul .nav-color a,.nav-Article-QQ ul .nav-color a:visited,.nav-Article-QQ ul .nav-color a:link,.nav-Article-QQ ul .nav-color a:hover { color:#FFCC00; }
+.nav-Article-QQ ul li a{padding:5px 7px;}
+.nav-Article-QQ ul li.navKuaibaoStyle a{color:#fcff00;}
+         首页
+         新闻
+         体育
+         娱乐
+         视频
+         财经
+         证券
+         汽车
+         房产
+         科技
+         数码
+         游戏
+         教育
+         时尚
+         文化
+				  更多
+					  动漫
+						读书
+儿童 
+						星座
+精品课 
+						全部频道
+|xGv00|0f18b2fd64f434f25142f668a25fd93a
+body, h1, h2, p, dl, dt, dd, ul, ol, li {margin:0;padding:0}
+.loginWrap {float:right;height:35px}
+.login {text-align:center;font:12px/35px Tahoma,"宋体";margin-right:5px}
+.login a {text-decoration:none;outline:0}
+.login a:hover {text-decoration:none}
+.login .active {color:#3a9bea}
+.login em {font-style:normal}
+.login img {border:none}
+.quickArea {position:relative;float:left}
+.quickLink {float:left;height:35px;display:block;padding:0 8px 0 27px;overflow:hidden;background-repeat:no-repeat}
+.clearfix {*zoom:1}.clearfix:after{content:'';display:table;clear:both}
+.quickLink em{display:none}
+.loginBtn {width:27px;height:24px;margin:7px 5px 0 10px}
+.logined .hover .quickLink{}
+.loginBtn:hover {background-position:0 -42px}
+.infoNum{text-decoration:none;display:block}
+.quickArea dl{width:102px;padding:6px 14px;background:#fff;position:absolute;top:35px;font:12px/23px Tahoma,"宋体";border:1px solid #e2e2e2;border-width:0 1px 1px;text-align:left;display:none;box-shadow:1px 2px 2px #e2e2e2;z-index:9999}
+.quickArea dl a span{margin-left:10px}
+.loginNav {float:left;border-left:1px solid #d6d6d6;height:26px;line-height:18px;margin:6px 0 0 20px;padding-left:9px}
+#login_layer_bg{width:100%;position:absolute;top:0;left:0;z-index:9999;background:url(http://mat1.gtimg.com/www/login/images/alphabg.png);_background:#000;_opacity:0.3;_filter:alpha(opacity=30);height:100%}
+#login_layer_main {position:fixed;_position:absolute;width:490px;height:382px;top:50%;left:50%;margin:-165px 0 0 -276px;z-index:10000}
+/* user */
+.user {font-family:tohama;padding:5px 0 4px 10px}
+.user .menu-hd {width:28px;line-height:0;margin-top:0;margin-right:5px;display:block;position:relative;text-decoration:none}
+.user img {vertical-align:top}
+.user .menu-hd img {width:22px;height:22px;overflow:hidden;background:#d6edff;padding:2px}
+.user .menu-hd:hover .userVip{visibility:visible}
+.user .menu-bd {position:absolute;top:39px;width:185px;display:none;z-index:9999}
+.user .menu-bd-in {border:1px solid #e2e2e2;border-top:none;background:#fff;padding:5px 10px 10px;border-radius:4px;box-shadow:1px 2px 2px #e2e2e2}
+.user .menu-hd .userVip .icon_member {position:absolute;width:13px;height:13px;right:-3px;bottom:0px;padding:0;border:none;background:none}
+.user .menu-bd .userVip  {margin-right:10px}
+.picT-p {width:38px;height:38px;overflow:hidden;background:#fff;border:1px solid #d9d9d9;padding:2px;float:left;margin-right:7px;margin-top:5px}
+.picT-t p {line-height:24px;color:#666;text-align:left}
+.picT-t a {color:#333}
+.user .menu-bd .picT-p {width:38px;height:38px;overflow:hidden;background:#fff;border:1px solid #d9d9d9;padding:2px}
+.quickLink {background-image:url(http://mat1.gtimg.com/www/login/images/loginall_24_1x_v1.png);_background-image:url(http://mat1.gtimg.com/www/login/images/loginall_8_1x_v1.png)}
+@media only screen and (-webkit-min-device-pixel-ratio:2) {.quickLink{background-size:62px auto;background-image:url(http://mat1.gtimg.com/www/login/images/loginall_24_2x_v2.png)}}
+@media only screen and (min--moz-device-pixel-ratio:2) {.quickLink{background-size:62px auto;background-image:url(http://mat1.gtimg.com/www/login/images/loginall_24_2x_v2.png)}}
+@media only screen and (-o-min-device-pixel-ratio:2/1) {.quickLink{background-size:62px auto;background-image:url(http://mat1.gtimg.com/www/login/images/loginall_24_2x_v2.png)}}
+@media only screen and (min-device-pixel-ratio:2) {.quickLink{background-size:62px auto;background-image:url(http://mat1.gtimg.com/www/login/images/loginall_24_2x_v2.png)}}
+/* sprite图 */
+.loginBtn {background-position:0 0}
+.weiboLink {background-position:2px -87px}
+.qzoneLink {background-position:2px -130px}
+.qmailLink {background-position:2px -171px}
+.dyLink {background-position:2px -256px}
+.dyLike {background-position:2px -297px}
+/* color */
+.login a {color:#fff} /* 登录数字颜色 */
+.login .menu-bd a {color:#5c5c5c} /* 隐藏框内链接颜色 */
+.login .menu-bd a:hover {color:#000} /* 隐藏框内链接颜色 */
+.logined .hover .quickLink {color:#fff} /* 鼠标滑过背景色和字体颜色 */
+.quickArea dl a span {color:#5c5c5c}
+.loginBg_def {background:#379be9} /*默认背景色*/
+.loginBg_def .logined .hover .quickLink{background-color:#1669ab}
+.loginBg_def .quickArea dl{border-top:1px solid #1669ab}
+.loginBg_green{background:#539325}/*可配置的绿色*/
+.loginBg_green .logined .hover .quickLink{background-color:#3b7710}
+.loginBg_green .quickArea dl{border-top:1px solid #3b7710}
+.loginBg_darkgreen{background:#329B97}/*可配置的深绿色*/
+.loginBg_darkgreen .logined .hover .quickLink{background-color:#00847D}
+.loginBg_darkgreen .quickArea dl{border-top:1px solid #00847D}
+.loginBg_red{background:#c32728}/*可配置的红色*/
+.loginBg_red .logined .hover .quickLink{background-color:#a20202}
+.loginBg_red .quickArea dl{border-top:1px solid #a20202}
+.loginBg_black{background:#000}/*可配置的黑色*/
+.loginBg_black .logined .hover .quickLink{background-color:#333}
+.loginBg_black .quickArea dl{border-top:1px solid #666}
+.loginBg_white{background:#fff;color:#5c5c5c}/*可配置的白色*/
+.loginBg_white .logined .hover .quickLink{background-color:#cc1c1c;color:#fff}
+.loginBg_white #oneKey{width:73px;height:35px;text-align:center;border:1px solid #e6e6e6;border-width:0 1px;color:#5c5c5c;background:none;margin:0;padding:0}
+.loginBg_white #oneKey:hover{color:#fff;background:#cc1c1c}
+.loginBg_white #oneKey em{display:block}
+.loginBg_white .quickLink{color:#5c5c5c}
+.loginBg_white .weiboLink {background-position:0 -335px}
+.loginBg_white .qzoneLink {background-position:0 -375px}
+.loginBg_white .qmailLink {background-position:0 -412px}
+.loginBg_white .dyLink {background-position:0 -452px}
+.loginBg_white .dyLike {background-position:0 -495px}
+.loginBg_white .weiboLink:hover,.loginBg_white .logined .weiboLink {background-position:0 -535px}
+.loginBg_white .qzoneLink:hover,.loginBg_white .logined .qzoneLink {background-position:0 -575px}
+.loginBg_white .qmailLink:hover,.loginBg_white .logined .qmailLink {background-position:0 -612px}
+.loginBg_white .dyLink:hover,.loginBg_white .logined .dyLink {background-position:0 -652px}
+.loginBg_white .dyLike:hover,.loginBg_white .logined .dyLike {background-position:0 -695px}
+.loginBg_white .logined .weiboLink:hover {background-position:0 -87px}
+.loginBg_white .logined .qzoneLink:hover {background-position:0 -129px}
+.loginBg_white .logined .qmailLink:hover {background-position:0 -170px}
+.loginBg_white .logined .dyLink:hover {background-position:0 -254px}
+.loginBg_white .logined .dyLike:hover {background-position:0 -296px;background-color:#cc1c1c}
+.loginBg_white .logined .hover .quickLink {background-color:#cc1c1c;color:#fff}
+|xGv00|9aae4a193e6b73422a8737b51c18f385
+		一键登录
+		微博
+-->
+		Qzone
+		QQ邮箱
+		订阅
+-->
+		收藏
+|xGv00|6920d219794f01fdc7cb44dbf24ebbdb
+.dyLink{display:none!important；}#dyLink,#weiboLink{display:none;}|xGv00|9be1f2debe8aed197ce145329eb39baf
+|xGv00|a94b66bb449bae9cdaeb20ab1367db85|xGv00|3f2d655fa0dfc51444c3b8b67282e516
+|xGv00|1eddbdf3e485ae2b801a576bc8adb083 
+|xGv00|913b4e7707b4ef914d783c47e04e2730
+|xGv00|c1f7304f38d62c7ae0cddc9124bd107e	
+|xGv00|97999e52b22d9f745a6ac6ca1d9a422b|xGv00|b8c37c20175e4e5622978a792ee4a080
+|xGv00|32ca6ef15d1b65e28b11b40b5d8221df|xGv00|64e697e0f3fb16634af310ed5dd7e555  
+ 资讯
+ 图片
+ 文观
+ 书院
+ 思享会 
+|xGv00|dcba4e5116dca5e6e8d531c6ba29ebe6
+.Form-Crumbs-Article-QQ { float:right; padding-top:4px}
+.Form-Crumbs-Article-QQ .submit {float:right;float:right;width:50px;height:26px;background:url(http://mat1.gtimg.com/www/images/qq2012/sogouNewUi_v1.png) left -25px no-repeat; border:0px;line-height:21px;*padding-top:1px;font-size:12px;cursor:pointer}
+.Form-Crumbs-Article-QQ .inputWarp{float:right;width:210px;height:24px;margin:0;padding:0;line-height:22px;background:none;border:#c9c9c9 1px solid;border-right:none;}
+.Form-Crumbs-Article-QQ .txtArea { float:left;width:170px;border:0px;height:20px;margin:2px 0 0 5px; font-size:14px;line-height:20px;border:none;color:#424242;outline:none;inline:none; display:inline;}
+.Form-Crumbs-Article-QQ .SosonLogo{float:right;width:18px;height:18px;margin:3px 3px 0 0;background:url(http://mat1.gtimg.com/www/images/qq2012/sogouNewUi_v1.png) left top no-repeat;}
+.Form-Crumbs-Article-QQ .SosonLogo span {display:none}
+.Form-Crumbs-Article-QQ .SosonLogo span{display:none;}
+		搜狗
+|xGv00|d75e1e80125545639254a14a30864005|xGv00|680827a9d6131aede98e55bdffe53898
+伊斯梅尔-卡达莱：修复了名誉的机会主义者
+南方都市报
+						[微博]
+					康慨2014-10-09 15:40
+	我要分享
+QQ空间
+QQ好友
+新浪微博
+														微信好友
+|xGv00|86b284206c8bec74d9b4e61673723850|xGv00|c58b58178d5000d0e198ef6ecd736c290
+[摘要]1990年，眼见大势已去并逃往法国寻求政治避难时，卡达莱已经担任了15年以上的人民议会代表，官至中央委员。剧变之后，毫发无伤的卡达莱得以寓居巴黎，从容修复自己的名誉。1936年生，阿尔巴尼亚当代著名诗人、小说家。是成就最高、也是名气最大的阿尔巴尼亚作家，自从2005年获得首届布克国际奖以来，关于他进一步问鼎诺贝尔奖的呼声连绵不断。从艺术上看，他完全有资格获奖，唯一不利的因素是他过去的政治问题—他是独裁政权的合作者与得利者。1936年1月28日，卡达莱生于山城吉诺卡斯特，先就读于地拉那大学历史与哲学系，后赴苏联的高尔基世界文学院留学，1960年阿苏关系紧张时回国。留苏期间，他与苏联知识分子交往密切。罗伯特·埃尔西在所著《阿尔巴尼亚文学简史》(2005)一书中注意到，卡达莱这一阶段的诗作有“叶甫图申科的信心和沃兹涅先斯基的敏感”。1963年，他写出了为反修防修服务的长诗《群山为何而深思默想》，以整版篇幅发表于党中央机关报《人民之声报》，当天便接到了总书记霍查的表扬电话。1966年，作为建党25周年的献礼之作，他发表了抒情长诗《山鹰在高高飞翔》，从此长期保持了党的桂冠诗人的荣耀。在1961年10月召开的苏共二十二大上，赫鲁晓夫激烈抨击没有派出代表的阿尔巴尼亚劳动党仍在执行斯大林路线。此举导致两党关系公开破裂，阿尔巴尼亚成了一座孤岛。在阿尔巴尼亚国内，如埃尔西所说，由于公开的反对派已不复存在，党有了足够的信心，在1966年追随中国发动“文化大革命”之前这短短的几年时间内，容忍了少许文化自由的存在。卡达莱则胆大心细，充分利用这段政治上的稳定期，写出了小说处女作《亡军的将领》。此书一反社会主义现实主义的教条，描写一位意大利将军在战后回到阿尔巴尼亚，收集当年战死的部下遗骨。书中没有“生产文学”千篇一律的明媚阳光与昂扬激情，而代之以雨雪、雾霾、泥泞和坟墓。《亡军的将领》几年后在法国出版，大为轰动，亦使卡达莱和阿尔巴尼亚文学登上了世界文坛。1971年出版的《石头城纪事》以二战后期被意大利、希腊和德国军队反复占领的吉诺卡斯特为背景，用魔幻笔法描写奇人异事。1978年的《破碎的四月》主题是几百年来统治阿尔巴尼亚北部山区的卡努法典。《梦幻宫殿》(1981)的故事发生在奥斯曼时代一个虚构的国家，小说压抑的气氛与霍查晚年阿尔巴尼亚的现实有着惊人的相似。尽管阳奉阴违，尽管有作品被禁，但卡达莱凭敏锐的政治嗅觉，性命和地位终究不曾受到触动。他屡次秉承上意，创作批判苏修、攻击中国改革开放、维护霍查孤立政策的作品，其中包括肯定苏阿决裂的《伟大的冬天》(1978)和小说《冬末音乐会》(1988)。1990年，眼见大势已去并逃往法国寻求政治避难时，卡达莱已经担任了15年以上的人民议会代表，官至中央委员，与掌管文艺的霍查夫人涅日米耶过从甚密。剧变之后，霍查夫人一度因挥霍国家财产和欺诈被定罪入狱，而毫发无伤的卡达莱得以寓居巴黎，从容修复自己的名誉。1998年，他告诉《巴黎评论》，写出那些称颂霍查的作品，是出于想从内部破坏独裁统治的天真愿望。他说霍查逼他当人民议会代表，如果拒绝只有死路一条。还说剧变发生后才流亡的原因是他认为这样“有助于民主”。不过，他拒绝接受异议者头衔，强调“写作本身就是一种抵抗行为”。谁也不会指责这句话是虚伪的。卡达莱的确用自己的大部分作品做出了证明。如果有一天他获得诺贝尔奖，人们会像往常一样就文学与政治的关系展开争论。如果他没有获奖，群众也只会惋惜他不够幸运而已。康慨(媒体人，北京)
+正文已结束，您可以按alt+4进行评论
+相关阅读：
+				 卡达莱阿尔巴尼亚诺贝尔文学奖诺奖
+                                                ·女儿当自立——门罗的《阿尔巴尼亚处女》 2013.11.21          ·石头城纪事与阿尔巴尼亚记忆 2013.10.18          ·诺贝尔文学奖9日揭晓村上春树作品被指少深度                                                               
+.SogouKeywords { margin-top:10px; margin-bottom:15px; font-size:14px; display:none; }
+.SogouKeywords h2 { font-weight:bold; font-size:14px; margin-bottom:8px }
+.SogouKeywordsList {    }
+.SogouKeywordsList li { float:left; width:210px; line-height:28px; }
+.SogouKeywordsList a { }
+.SogouKeywordsList a:hover { color:#333; text-decoration:underline; }
+	相关搜索：
+|xGv00|ea423e1b3a9aa199174d414dfd21d49a|xGv00|a9258e18ad6f57f4be7ea2f9f5c79bb8
+    .wemcn {  position:absolute; left:165px; top:-100px; z-index: 4; }
+    .shareBtn24 .s_ewm { background:url(http://mat1.gtimg.com/news/dc/images/icon_wx_24.png) no-repeat; }
+    .ewmDiv { width:255px; height:89px; border:2px solid #dcdcdc; padding:10px;  background:#fff; border-radius: 5px;-moz-border-radius: 5px; z-index:7 }
+    #ewmimg { float:left; width:85px; height:85px }
+    .ewmsj { margin-left:12px; margin-top:-2px; width:18px; height:13px; position:absolute; background:url(http://mat1.gtimg.com/news/dc/icon_erwm_sj.png) no-repeat 0 0;  }
+    #ewmkg { width:13px; height:13px; display:block; position:absolute; right:12px; top:11px;  background:url(http://mat1.gtimg.com/news/dc/icon_wem_k_k.png) no-repeat 0 0;  }
+    #ewmkg:hover { background:url(http://mat1.gtimg.com/news/dc/icon_wem_k_g.png) no-repeat 0 0; }
+    .rwmtext { float:left; padding-top:7px; width:145px; text-indent: 8px; }
+    .rwmtext p { line-height:25px; width: 145px; text-indent: 12px; color:#636363; }
+    .Tool-Article-QQ { z-index:2; position:relative }
+                扫一扫，用手机看新闻！
+                用微信扫描还可以
+                分享至好友和朋友圈
+        分享到:
+                QQ空间
+                QQ好友
+                新浪微博
+                二维码
+|xGv00|c20c08d57a6676f603d32bb644c83e1a 
+	 |xGv00|0465a81e1ed4117e717b8bd08107345a						|xGv00|fbe148cba98afb599c2ec94c0e76d531|xGv00|c650b4b9fad8b09bcf03c59fe91f808c
+热门推荐
+看过本文的人还看了
+|xGv00|e259b01738b7da6953e2050b3cc0dad5 |xGv00|6e05fbd54d4a5c6f1485182e63876354 |xGv00|843e1cdb85d3e98fb12d102814f21467
+               		  热门推荐
+/* 热门阅读，相关微博，百度相关搜索下线 */
+.about-other-read-mod,
+.baidu_rmss_mod,
+.hot-read,
+.followall_mod{display:none!important;}
+|xGv00|5f83e8a9f46a3a185b643d237f6a7ef9 |xGv00|bf0ac2cb64448fdbea53c2754a570011 
+.txent { padding:15px 0; border-top:1px dotted #DBDBDB; font-size:14px; }
+.txent dl dt { display:inline; float:left; margin-right:10px; }
+	 	每日微信 | 如果爱打牌的胡适也有朋友圈
+     新文化运动领袖胡适一度痴迷打牌你信么？不信就一起围观胡适的“朋友圈”吧。[详细]
+     ←扫我订阅腾讯文化，每天至少一篇品味文章，让你的生活更充实
+|xGv00|1dd1d113daa6a4e06a81e9de80aec0c4 
+|xGv00|9ad7031189db2d1c5079107f78ee9ffc
+推荐微博：
+雷颐
+社科院研究员
+莫言
+诺贝尔文学奖得主
+葛剑雄
+复旦图书馆馆长
+苏童
+著名作家
+余华
+当代著名作家
+丁东
+著名学者
+叶兆言
+著名作家
+土家野夫
+中国自由作家
+王斌
+作家编剧文学策划
+苏小和
+知名财经作家
+虹影
+国际著名作家
+李洱
+著名作家
+何顿
+湖南省著名作家
+马原
+当代著名作家
+池莉
+当代著名女作家
+阿来
+当代著名作家
+麦家
+茅盾文学奖得主
+毕淑敏
+当代著名女作家
+全部收听全部收听全部收听
+|xGv00|0c45c6e294f5cf551dacdff37c579609
+#apps_svy_mood{width:609px;text-align:center;}
+#apps_svy_mood .apps_svy_mood{width:509px;margin:10px auto;padding:0px}
+#apps_svy_mood ul{margin:0px;padding:0px}#apps_svy_mood .mood{width:50px;height:50px;margin:0 auto}
+#apps_svy_mood li{width:63px;float:left;text-align:center;list-style:none;position:relative}
+#apps_svy_mood .mood_result{width:50px;height:auto;margin:0 auto;padding:0px}
+#apps_svy_mood .mood_result .ft{padding:0px;position:relative;margin-bottom:0px;left:1px;*left:0px;_left:0px;color:#000000; font-size:12px}
+#apps_svy_mood .mood_result .ft_b{padding:0px;position:relative;margin-bottom:0px;left:1px;*left:0px;_left:0pxcolor:#EE0000; font-size:12px;font-weight: bold}
+#apps_svy_mood .mood_result .bar{width:10px;height:52px;border:1px solid #DADADA;padding:0px;background:#fff;position:relative;margin-bottom:5px;left:20px;*left:0px;_left:0px}
+#apps_svy_mood .mood_result .bar .bg{margin:0px;padding:1px;height:0;background:url(http://mat1.gtimg.com/www/apps/images/bg.gif) repeat;width:8px;position:absolute;left:0px;bottom:0px;line-height:0px;font-size:0px}
+#apps_svy_mood .mood_nopd{width:50px;height:50px;margin:0 auto;background:url(http://mat1.gtimg.com/www/apps/images/show1.gif) no-repeat}
+#apps_svy_mood .mood1_nop{background-position:-6px -202px}#apps_svy_mood .mood2_nop{background-position:-68px -202px}
+#apps_svy_mood .mood3_nop{background-position:-130px -202px}#apps_svy_mood .mood4_nop{background-position:-194px -202px}
+#apps_svy_mood .mood5_nop{background-position:-257px -202px}#apps_svy_mood .mood6_nop{background-position:-321px -202px}
+#apps_svy_mood .mood7_nop{background-position:-382px -202px}#apps_svy_mood .mood8_nop{background-position:-444px -202px}
+#apps_svy_mood .mood_opd{width:50px;height:50px;margin:0 auto;background:url(http://mat1.gtimg.com/www/apps/images/show1.gif) no-repeat;cursor:default}
+#apps_svy_mood .mood1_op{background-position:-6px -146px}#apps_svy_mood .mood2_op{background-position:-68px -146px}
+#apps_svy_mood .mood3_op{background-position:-130px -146px}#apps_svy_mood .mood4_op{background-position:-194px -146px}
+#apps_svy_mood .mood5_op{background-position:-257px -146px}#apps_svy_mood .mood6_op{background-position:-321px -146px}
+#apps_svy_mood .mood7_op{background-position:-382px -146px}#apps_svy_mood .mood8_op{background-position:-444px -146px}
+#apps_svy_mood a{width:50px;height:50px;display:block;margin:0 auto}#apps_svy_mood a.moodd{background:url(http://mat1.gtimg.com/www/apps/images/show1.gif) no-repeat}
+#apps_svy_mood a.mood1{background-position:-6px -202px}#apps_svy_mood a:hover.mood1{background-position:-6px -146px}
+#apps_svy_mood a.mood2{background-position:-68px -202px}#apps_svy_mood a:hover.mood2{background-position:-68px -146px}
+#apps_svy_mood a.mood3{background-position:-130px -202px}#apps_svy_mood a:hover.mood3{background-position:-130px -146px}
+#apps_svy_mood a.mood4{background-position:-194px -202px}#apps_svy_mood a:hover.mood4{background-position:-194px -146px}
+#apps_svy_mood a.mood5{background-position:-257px -202px}#apps_svy_mood a:hover.mood5{background-position:-257px -146px}
+#apps_svy_mood a.mood6{background-position:-321px -202px}#apps_svy_mood a:hover.mood6{background-position:-321px -146px}
+#apps_svy_mood a.mood7{background-position:-382px -202px}#apps_svy_mood a:hover.mood7{background-position:-382px -146px}
+#apps_svy_mood a.mood8{background-position:-444px -202px}#apps_svy_mood a:hover.mood8{background-position:-444px -146px}
+	读完这篇文章后，您心情如何？
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+|xGv00|91fa684ea5443f0bb4d2afb84690aff7[责任编辑：gregli]
+|xGv00|428ace88b79a4033ad57bc4c54804ba5
+    	热门搜索：
+|xGv00|c57da70c9793336a06d217952832f8ed
+|xGv00|e2e85f7f087c982611bd242288082fbf 
+|xGv00|fada0672879d9b2e8f40a727ca20dd3f
+		|xGv00|2cc55a0ab77acd6550f69717ec0a3044|xGv00|43ad5b845dd592e2b84e70629b57ac2c
+	|xGv00|54b6f19f30591bd186ac9850e3a7a01a 
+						  企业服务
+|xGv00|541b67c15792ed4a77d6d4548c1ffcd2
+|xGv00|d1702b1f7b25f320975bb4c74c1f92fd
+|xGv00|9578395c81d6bf78a87af1a78225df0b
+|xGv00|89f945ab41ea69e79561cad8dabe5a30|xGv00|eae3fa095d2556e0dbedf6a9abe929f2
+					|xGv00|701897924d3df0071e9e2ebb19fe3a03
+|xGv00|ea1c00d1cd410f0acb503657ecd7921a
+|xGv00|a1d505b81f0731c97405c05986e06bb8
+|xGv00|e495268dae03726664c77551e8df25e2|xGv00|d9b659574fdddcc561d144559cab7281
+.absolute{position:absolute;}
+|xGv00|e6cebcc81201f7486f99b3c25eebd153 |xGv00|45cca09dde205cdfb5746fe3ef10c266|xGv00|06f07ac7c18c2af726f2554e032c0737
+.essence-mod { margin-top:23px }
+.side .jhtjTg { float: right;padding-top: 4px; }
+.side .jhtjTg a,.side .jhtjTg a:link,.side .jhtjTg a:visited,.side .jhtjTg a:hover { color:#FA7702; }
+|xGv00|545a5746504055099fba946d9398cb96
+精华推荐
+余华：莫言是怎么当守门员的？
+《天空之城》里的“废核”隐喻：空中都市为什么毁灭？
+“偏见”许知远：正是这些缺点，让他如此真实
+爱因斯坦是种族主义者？他的亚洲旅行日记充满对中国人的偏见
+	 郎才女貌这些道道，在爱情里其实没什么用
+ |xGv00|f7216205a1512fc30807d63b225c3848 
+|xGv00|51a8c1f5f3fbb81033c6df68e811495c 
+|xGv00|06c8fe2898bcb36e5bd668b9d4843466	
+|xGv00|c48037564e9c9240f1cd28d314f4b278
+视觉焦点
+年轻一代的焦虑
+捕捉信念和灵感
+塞内加尔视觉日记
+ 美国西部自由的沙漠梦
+|xGv00|04bfba0ae895897d17e0aa6dbdbbdafe
+|xGv00|b887d646637f5e4a7e40af4f4b4a640f 
+|xGv00|0bba6ee03bdc7ec1629f3cb08d9b9270
+.right-kb-mod{width:300px;margin:0 auto;padding:15px 0 20px;display:none}
+#kbContB{display:none;}
+.right-kb-mod .hd{margin:0 auto 18px;}
+.right-kb-mod .hd h2{font:16px/18px '\5FAE\8F6F\96C5\9ED1';color:#a6a6a6;position:relative;}
+.right-kb-mod .hd h2 strong{margin-right:8px}
+.right-kb-mod .hd h2 strong a{font:16px/18px '\5FAE\8F6F\96C5\9ED1';color:#399deb;}
+.right-kb-mod .hd h2 #kbBtn{width:12px;height:12px;background:url(http://mat1.gtimg.com/www/images/dc/kbSxBtn.png) no-repeat 0 0;_background:none;
+_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=scale,src="http://mat1.gtimg.com/www/images/dc/kbSxBtn.png");position:absolute;top:4px;right:0;font:12px/500px 'arial';overflow:hidden;cursor:pointer;}
+.right-kb-mod .bd .pt{height:72px;overflow:hidden;margin-bottom:8px;}
+.right-kb-mod .bd .pic{float:left;margin-right:15px;width:108px;}
+.right-kb-mod .bd .txt{width:176px;float:left;}
+.right-kb-mod .bd .txt p a{font:600 14px/24px '\5B8B\4F53';color:#3b639f;}
+.right-kb-mod .bd .txt p a:hover{color:#cd0000;}
+.right-kb-mod .bd .list li{float;left;height:28px;overflow:hidden;}
+.right-kb-mod .bd .list li a{font:14px/28px '\5B8B\4F53';color:#555;}
+.right-kb-mod .bd .list li a:hover{color:#cd0000;}
+.right-kb-mod .hd h2 .kbxzBtn{position:absolute;top:0;right:0;}
+.right-kb-mod .hd h2 .kbxzBtn a{color:#399de9;font:600 14px/18px 'arial','\5B8B\4F53';padding-left:17px;background:url(http://mat1.gtimg.com/www/images/dc/kbxzIcon.png) no-repeat 0 2px;}
+    	快报下载快报APP
+				彭德怀有没有打过金日成耳光？
+																			看了这些通信人工资单，你还熬得下去吗？
+																红军长征：中共能突围因国民党“放水
+																华为Mate 8成功的内外因素是什么？
+																【微资讯】新鲜 | 全球首个大型科幻主题公园落户贵阳！带你看看到底有多炫？
+																5.30非农来袭白银何故暴跌，多单被套何解？
+																手机九大反人类设计，不仅仅是脑残可以解释的
+																你们语音控制算神马，谷歌让你还可以手势控制！
+																宋美龄美丽聪明气质雍容华贵，但有个不良嗜好却让蒋介石深恶痛绝
+																突破盘局: 大盘将迎真正的机遇！
+|xGv00|21ef25924f816ed45abe82b5a6da7dec
+|xGv00|18343840b22a73cfb670078ae17bf71a
+|xGv00|e2d39a2150a37a7ca121e65d9a10fce1 
+|xGv00|b6cc3d4d8a40432a9cc277f9c00bbed4						|xGv00|445315045dab7c9edfd4017578ff1403 
+|xGv00|ebb9be2b55a3dc9d2dbd502f571d29c9  
+|xGv00|b826257e93f46845ec4da274ac8d6953
+|xGv00|c5668531d36ed7899852180841ca2aa2	
+|xGv00|4d3fc8408e6802f62101cf9079687da7
+ |xGv00|ea88f83b71b49e091a4e00200d8440f6
+						  时尚资讯
+|xGv00|e22169eb4cbfae121674cf94e8d653f4
+|xGv00|d8bb538ec02280f6ebba1b05b4c276a6
+					|xGv00|dc5a50b5e626dfda32d98f9863cf1a1f
+|xGv00|172887f7222e04fb1fc8a897afc7d61c
+|xGv00|120016d63f8d0e0d68a7b8fd50214c2a|xGv00|f7dc51d3293430632a30ba35dff103e2|xGv00|428ace88b79a4033ad57bc4c54804ba5|xGv00|428ace88b79a4033ad57bc4c54804ba5
+		 视频推荐 
+  《九州天空城》独播
+  《青云志》李易峰
+  《小别离》黄磊海清
+  《长歌行》林心如
+  《麻辣变形计》热巴
+  |xGv00|f19b6398d50b111172122de0b65c29b8 
+|xGv00|eded8eb1ca1e76d5e657a1d335d69103	
+|xGv00|aa6d4f8aca299c517bb2801b4307d648
+|xGv00|160405494288ecc3516e240c185c4fd7
+.tcopyright {width:960px;margin:0 auto;padding:8px 0;font-size:12px;line-height:28px;color:#333; text-align:center; overflow:hidden;clear:both;}
+.tcopyright .en{font-family:Arial;}
+.tcopyright a{color:#333;text-decoration: none;}
+.tcopyright a:hover{color:#bd0a01;text-decoration: underline;}
+		关于腾讯 | About Tencent | 服务协议 | 隐私政策 | 开放平台 | 广告服务 | 腾讯招聘 | 腾讯公益 | 客服中心 | 举报中心 | 网站导航
+  	Copyright © 1998 - 2020 Tencent. All Rights Reserved
+		腾讯公司 版权所有
+|xGv00|b6614ae390f3ba6a8cbcc269055b42da
+	|xGv00|83aa8ccf316b7f2de01ca5e0656a2711
+|xGv00|c81bdcee5f56c57964595444d71dd6fe
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2){
+.scrollBtn a{background:url(http://mat1.gtimg.com/www/retina/dp/siderbar_tool_2x.png) no-repeat;background-size:172px 54px;}
+.sB-comment a{background-position:0 0;}
+.sB-share a{background-position:-59px 0;}
+.sB-goTop a{background-position:-118px 0;} 
+}
+.sB-home a { background:url(http://mat1.gtimg.com/news/dc/images/backtohome.png) no-repeat 0 0; }
+#goHome{background-image: none;background-color: #2d96e9;}
+#goHome b{display: block;font:14px/20px "微软雅黑";width: 2.5em; text-align:center;margin: 8px auto;cursor:pointer}
+/*用户反馈*/
+.sB-feedback a{background:url(http://mat1.gtimg.com/www/images/dc/yhfkBg.png) no-repeat 0 -176px;}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2){
+.sB-feedback a{background-size:54px 166px;background-position:0 -113px;}
+}
+        返回首页
+        用户反馈
+        评论
+        相关链接
+        返回顶部
+|xGv00|c604d42472cd840646e89199b464caa6 |xGv00|d4ed896d856282dfa7c4572b1b0e2281 
+|xGv00|665c60a18d8eff25cd76e729b918d74d
+|xGv00|1ea7861da7250ec2f549648026dae620
+|xGv00|2631f92c456e7b3260a900c39299e3a8 
+|xGv00|5fda91c0c1c50b3bccc6167b4442f2e0
+|xGv00|c9387f37fd006b1ee1f5cdcf895568e9
+|xGv00|a0eb28f8b81dfef093c9db7569ae37f1
+|xGv00|f4729f374d5ea99cf330ba0ab2d531a4

@@ -1,0 +1,327 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+State Agency Faces Elimination After First Black Woman Takes Charge             
+				By Tanu Henry , California Black Media                 
+	                	                Published March 14, 2019
+		Malia Cohen (courtesy photo)
+ In January, members of the California Board of Equalization (BOE) selected Malia M. Cohen, former president of the San Francisco Board of Supervisors, to chair the 140-year-old state agency. 
+Cohen became the first Black woman elected to the board last May and the first to lead the agency responsible for representing taxpayer interests and “equalizing” county-by-county tax assessments across the state. 
+Now, less than eight weeks into her 4-year term and under two months as chair, Cohen has been thrust into a difficult fight, perhaps the most crucial of her eight-year political career. As lawmakers grapple with whether or not to dismantle the agency, she finds herself justifying her job, her $151,260 salary, and the very existence of the agency she leads. 
+        ADVERTISEMENT        
+“Here we are, members of the new board, just shy of eight weeks in – of coming into this position – we now have to defend keeping the board elected,” Cohen said in a hearing before the committee held at the State Capitol last Wednesday. “Now, we are just turning the corner. Now, we are moving into the direction where we are stepping into a new frontier.” 
+In addition, Cohen said the board represents the interests of many disadvantaged Californians such as small business owners who may not be able to afford an attorney or families who speak english as a second language and people impacted by wildfires. 
+For African American civil and political leaders – as well as many Black property owners – having an elected taxpayer advocate like the BOE in California is absolutely necessary.  For them, the BOE is a champion against unfair practices like the widespread undervaluation of homes in predominantly Black neighborhoods. 
+According to a Brookings Institute report released last year, homes in neighborhoods that are 50 percent or more African American are valued at roughly half the cost of those in areas with no Black homeowners. The study also found that homes of similar sizes and with near-the-same amenities are, on average, worth 23 percent less in predominantly Black neighborhoods. That is about $48,000 less per home, amounting to a cumulative loss of $156 million for African Americans. That loss can result in less private and public investment in those areas, lower quality of public services and less money in the bank accounts of those Black families. 
+Lawmakers held the hearing to check in on the operations of the board since its functions were reduced by Gov. Jerry Brown two years ago. A state audit before that decision revealed a series of shocking incidents of mismanagement and corruption involving members of the previous board, including the misappropriation of $350 million. 
+“Today’s hearing should provide us with the information we need about the board, its strengths and weaknesses and what progress has been made internally since the transition of the staff and budget,” said Sen. Mike McGuire, chair of the Governance and Finance Committee. 
+Former Gov. Brown signed Assembly Bill 102 or the Taxpayer Transparency and Fairness Act into law in 2017 following the audit that uncovered the scandals at the BOE. The legislation stripped the state agency and its elected board of much of its tax administration and adjudication powers. The law also relieved the agency of its tax collection responsibility. 
+New state agencies like the California Department of Tax and Fee Administration and the Office of Tax Appeals were created to take over some of those functions while others were absorbed by existing state offices. AB 102 also triggered a dramatic reduction of the agency’s staff – from more than 4,000 employees two years ago to about 200 now. 
+During the hearing, Cohen asked lawmakers to give the new board, under her leadership, time to fix “the sins of the previous class.” 
+Along with Brenda Fleming, who is also African American and the Executive Director of the BOE, Cohen made the case for the continued existence of an elected board and the ongoing relevance of the state agency. 
+“Property values reached 5.7 trillion dollars. I love that number,” said Fleming, sharing with lawmakers the total amount BOE assessments calculated across California’s counties during the 2017 – 2018 fiscal year. That number, she said, was responsible for some $60 million generated in tax revenue for the state. 
+Sen. McGuire raised the question of compensation during the hearing, asking Cohen and other panelists directly if the board officials’ salaries should be reduced now that about 90 percent of their duties have been handed over to other state agencies. 
+In response to the Senator’s question, Cohen said its about the quality of the work she does, not the quantity. She added that she would defer to the California Citizens Compensation Commission to determine the fairness of her pay. 
+The BOE is the only elected government board of its kind in the United States that is specifically set up to represent taxpayer interests. 
+California State Controller Betty T. Yee, who was once an elected officer of the four-member board, believes the board is no longer relevant. 
+“For me the answer is no,” said Yee. “The BOE does not need to continue to have an elected board. The name on the door of who administers these programs is less important than how they are administered.” 
+Since the board’s mandate is constitutional, the process to determine its fate will take a few years. Legislators would have to vote to place a constitutional amendment regarding the Board’s fate before California voters on the 2020 ballot. 
+Meanwhile, Cohen remains upbeat. 
+“What you need are dedicated elected officials who are connected to and remember who they serve and are committed to a lifetime of service,” she said. 
+		Categories: National | News | Political Tags: Assembly Bill 102 | California Board of Equalization | California Citizens Compensation Commission | California State Controller Betty T. Yee | Gov. Jerry Brown | Governance and Finance Committee | Malia Cohen | Malia M. Cohen | San Francisco Board of Supervisors | Sen. Mike McGuire | Taxpayer Transparency and Fairness Act		
+						Kinecta Federal Credit Union Announces its 2019 ‘Youth Scholarships a...
+						L.A. City Council President Calls for Expungement of Pot Convictions
+						UNCF Celebrates 75 Years of Investing in Better Futures at National DC Gala
+						LAX Soars in World Airport Rankings, Moves to Fourth Busiest in the World, ...
+						Chairwoman Roybal-Allard Statement at DHS Appropriations Hearing on Disaste...
+						PACIFIC FISHERY MANAGEMENT COUNCIL RELEASES ALTERNATIVES FOR 2019 WEST COAS...
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

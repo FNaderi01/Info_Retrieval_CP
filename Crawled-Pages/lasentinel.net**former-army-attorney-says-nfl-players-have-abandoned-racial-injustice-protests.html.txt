@@ -1,0 +1,315 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Former Army Attorney Says NFL Players Have Abandoned Racial Injustice Protests            
+				By Kaia Wright                
+	                	                Published November 22, 2018
+		FILE – In this Oct. 2, 2016, file photo, San Francisco 49ers quarterback Colin Kaepernick, left, and safety Eric Reid kneel during the national anthem before an NFL football game against the Dallas Cowboys in Santa Clara, Calif. The NFL players’ union has filed a non-injury grievance on behalf of free agent safety Eric Reid. The NFLPA cites one team appearing “to have based its decision not to sign a player based on the player’s statement that he would challenge the implementation of a club’s policy prohibiting demonstration” during the national anthem. (AP Photo/Marcio Jose Sanchez, File)
+NFL players have largely abandoned both challenging the harsh reality of racial injustice in this country via protest and supporting Colin Kaepernick as the number of demonstrations during the anthem continues to dwindle, according to Kaia Wright, a highly decorated former Army attorney.
+Wright, who has served on tours around the world, says that the increasing number of “living while black” incidents – where white calling the police on blacks who go about their daily routines – are yet another reflection of the pervasiveness of racism in America.
+Over the past weeks, the silent protests, initiated by former San Francisco 49er quarterback Colin Kaepernick, become fodder for discussion when pop superstar Rihanna said she would not perform at the Super Bowl. This was followed by an astonishingly callous plea from Maroon Five for Rihanna to reconsider and join them for this year’s Super Bowl performance.  Comedienne Amy Schumer also announced she will not do any Super Bowl ads. Add to this the refusal by Jay-Z to perform at the Super Bowl, and it’s clear that celebrities continue to show their support for Kaepernick’s obvious blackball from the NFL.
+        ADVERTISEMENT        
+Wright created a website, Courage-Under-Fire.com, which is the only site that offers an impressive, comprehensive curation of articles and images that chronicle coverage of protests during the anthem, including all reports of protests during the anthem throughout the nation.  As the season enters the second half, Wright offers the following insights:
+With more than half the 2018 NFL season completed, I’m concerned about the significant reduction in players demonstrating during the anthem.  There are two core issues to consider here.  First, the proliferation of racism and white supremacy continues to permeate the lives of Black Americans.  Look, we’ve just recognized the 50th anniversary of Tommie Smith’s and John Carlos’s bold protest of raising their fist during the national anthem; yet Kaepernick and the other NFL players are protesting several of same issues that Smith and Carlos protested in the 1960s. It’s truly unsettling to know that despite the persistence of systemic racism in this country, to include the recent proliferation of “living while black” incidents, we see fewer and fewer players demonstrating during the anthem.
+Second, Colin Kaepernick does not have a job in the NFL despite the fact that he is far better than several quarterbacks in the league, starting and backup, a point made recently by Eagles safety Malcolm Jenkins.  Nike made a bold statement by using Kaepernick in its 30th anniversary of the “Just Do It” campaign. While critics were quick to call out Nike’s demise, the company’s stock price – and sales – rose dramatically, generating more than $6 billion since the ad campaign ran.
+Nike just introduced a Kaepernick shirt retailing at $50, which sold out in hours. What this tells me is that Kaepernick has more supporters than the NFL and his haters want to believe. Why? Because social injustice is everywhere – from the suites to the streets and to the stadiums around this country. Kaepernick’s continued exclusion from the league remains a major point of contention. Just ask Panthers’ safety Eric Reid who criticized Jenkins, a member of the NFL Players Coalition, for both agreeing to a monetary deal with the NFL that was seen as a move to stop players from protesting during the national anthem, and for not including Kaepernick’s bar from the league in the negotiations. As such, Kaepernick’s shameful, racist exclusion is yet another appropriate basis of player protest.
+It’s time for players – and America – to embrace the power of protest during the anthem as a powerful, patriotic action challenging the centuries-long failure of America to properly extend the rights and freedoms symbolized by the national anthem to its Black citizens. It’s time for the critics to realize that this is not North Korea or some other totalitarian country where protest during the anthem is punishable by imprisonment or other government sanction.  Further, Black Americans are autonomous citizens (courtesy of the 14th amendment ironically) whose decisions about what to do during the anthem are not the purview of random, paternalistic white citizens.
+We need to stand with Kaepernick and the other protest heroes.  On behalf of Kaepernick and the systemic racism that continues in this country unabated, I ask the NFL and its players, do you have the courage to make your objections to racism/white supremacy known in this powerful way?
+Kaia Wright, based in Tampa, Fla., has degrees from Hampton University, the University of South Carolina, the University of London and The Judge Advocate General’s Legal Center &amp; School.
+		Categories: Football | News (Sports) | Op-Ed | Opinion Tags: Colin Kaepernick | Colin Kaepernick and Nike | Eric Reid | John Carlos | Kaia Wright | Malcolm Jenkins | National Anthem protest | NFL | Nike | police brutality | systemic racism | Tommie Smith		
+						Brad Pye’s National Sports Beat (11/22-11/28/18)
+						Chargers Rookie Derwin James Partners with ROKiT
+						Can a Woman’s Coalition Survive Petulant White Women?
+						Ask Dr. Jeanette! Success On “The Way”: “Celebrate Your Personal Gift...
+						Student Athlete of the Week: Markell White
+						Wendy’s Window: “Showing Leadership Through Forgiveness”
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

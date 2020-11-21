@@ -1,0 +1,147 @@
+Git Mailing List Archive on lore.kernel.org
+ help / color / Atom feedFrom: Phillip Wood &lt;phillip.wood123@gmail.com&gt;
+To: Thomas Braun &lt;thomas.braun@virtuell-zuhause.de&gt;,
+	Elijah Newren &lt;newren@gmail.com&gt;, Md Naeim &lt;naeim249@gmail.com&gt;
+Cc: "Git Mailing List" &lt;git@vger.kernel.org&gt;,
+	"SZEDER Gábor" &lt;szeder.dev@gmail.com&gt;
+Subject: Re: [BUG?] 'git rebase --abort' couldn't abort aborted rebase
+Date: Thu, 4 Jun 2020 11:19:56 +0100
+Message-ID: &lt;b83568b8-e465-243e-cd84-eba88c4e95d9@gmail.com&gt; (raw)
+In-Reply-To: &lt;63139842-8548-6c64-1214-5469eedb8d4f@virtuell-zuhause.de&gt;
+Hi Thomas
+On 03/06/2020 17:09, Thomas Braun wrote:
+&gt; On 30.05.2020 18:24, Elijah Newren wrote:
+&gt;&gt; On Sat, May 30, 2020 at 3:52 AM Md Naeim &lt;naeim249@gmail.com&gt; wrote:
+&gt; 
+&gt; [...]
+&gt; 
+&gt;&gt; Could you provide any details beyond the subject, such as the output
+&gt;&gt; from 'git rebase --abort', your git version, the output of `git
+&gt;&gt; status`, whether there are any untracked files with special status
+&gt;&gt; (e.g. ignored but a submodule in the way of something?), any special
+&gt;&gt; file permissions (does root own some files and prevent git from
+&gt;&gt; updating things?), operating system you are on, link to a repository
+&gt;&gt; people can use to reproduce?  Without more details, this report is
+&gt;&gt; unactionable.
+&gt;&gt;
+&gt; 
+&gt; I don't know the OPs details but I can reproduce with the following
+&gt; clumsy snippet:
+Thanks for the script, I've annotated the error messages in an attempt
+to understand what's happening
+&gt; #!/bin/sh
+&gt; 
+&gt; git init
+&gt; git config --global user.email "you@example.com"
+&gt; git config --global user.name "Your Name"
+&gt; git config rebase.autostash true
+&gt; git config core.autocrlf false
+&gt; echo "*.abcd !eol" &gt; .gitattributes
+&gt; git add .gitattributes
+&gt; git commit -m "Add attributes"
+&gt; echo -e "1\r\n" &gt; test.abcd
+&gt; git add test.abcd
+&gt; git commit --no-verify -m "Added test.abcd" test.abcd
+&gt; echo "*.abcd eol=lf" &gt; .gitattributes
+&gt; git add .gitattributes
+&gt; git commit -m "Add attributes (LF)"
+&gt; git rebase --root --interactive
+&gt; git rebase --abort
+&gt; which gives
+&gt; 
+&gt;  ./run.sh
+&gt; Initialized empty Git repository in E:/projekte/test-init/.git/
+&gt; [master (root-commit) 7169943] Add attributes
+&gt;  1 file changed, 1 insertion(+)
+&gt;  create mode 100644 .gitattributes
+&gt; [master 61f0599] Added test.abcd
+&gt;  1 file changed, 2 insertions(+)
+&gt;  create mode 100644 test.abcd
+&gt; [master 0acd46a] Add attributes (LF)
+&gt;  1 file changed, 1 insertion(+), 1 deletion(-)
+&gt; warning: CRLF will be replaced by LF in test.abcd.
+&gt; The file will have its original line endings in your working directory
+&gt; Created autostash: 310f745
+&gt; error: cannot rebase: You have unstaged changes.
+The stash fails to stash all the changes because of some line ending
+issue I've yet to understand but the stash command exit code is zero as
+if it had succeeded in stashing everything so the rebase creates
+.git/rebase-merge/autostash and continues
+&gt; error: Please commit or stash them.
+only for the clean worktree check to fail. The cleanup path from that
+point assumes we have not yet created .git/rebase-merge which is not
+true if an autostash has been created. This means we do not pop the stash.
+&gt; error: could not read '.git/rebase-merge/head-name': No such file or
+&gt; directory
+When we try to abort we try to read some state that does not exist
+because the rebase never really started
+&gt; and
+&gt; 
+&gt; $ ls -la .git/rebase-merge/
+&gt; total 5
+&gt; drwxr-xr-x 1 thomas 197121  0 Jun  3 17:57 ./
+&gt; drwxr-xr-x 1 thomas 197121  0 Jun  3 17:57 ../
+&gt; -rw-r--r-- 1 thomas 197121 41 Jun  3 17:57 autostash
+&gt; 
+&gt; I'm running on Windows, both 2.27.0.windows.1 and 2.26.2.windows.1 show
+&gt; the problem. And I'm pretty sure it is not Windows specific.
+You're right I can reproduce it on linux
+&gt; Although my test case uses EOL normalization, I think the real issue is
+&gt; that autostashing for the rebase fails (in the sense that the working
+&gt; tree is clean afterwards) and that is unexpected.
+Yes. I'm not sure what to do for the best. A simple fix to the stash
+failure is to check for a clean worktree after we've stashed and apply
+the stash and exit if the worktree is not clean. Ideally `git stash`
+would be able to tell us that it didn't stash everything, but that
+warning comes from `void check_global_conv_flags_eol()` in convert.c so
+it does not pass along that information to the caller.
+We should also improve the cleanup code path so that it applies the
+autostash (and removes the state dir) if it exists as after a quick
+glance through the code it seems we might not be applying the autostash
+if `git checkout`.
+Best Wishes
+Phillip
+next prev parent reply index
+Thread overview: 8+ messages / expand[flat|nested]  mbox.gz  Atom feed  top
+     [not found] &lt;CADhmr77EbC+3f=Oa+bm18Z_SSEMK8vCjNHQniuvkdfaZdRT_5A@mail.gmail.com&gt;
+2020-05-30 16:24 ` Elijah Newren
+2020-06-03 16:09   ` Thomas Braun
+2020-06-04 10:19     ` Phillip Wood [this message]
+2020-06-05 15:29       ` Junio C Hamano
+2020-02-07 11:10 SZEDER Gábor
+2020-02-07 11:49 ` SZEDER Gábor
+2020-02-07 13:21   ` SZEDER Gábor
+2020-02-07 17:52     ` Elijah Newren
+Reply instructions:
+You may reply publicly to this message via plain-text email
+using any one of the following methods:
+* Save the following mbox file, import it into your mail client,
+  and reply-to-all from there: mbox
+  Avoid top-posting and favor interleaved quoting:
+  https://en.wikipedia.org/wiki/Posting_style#Interleaved_style
+* Reply using the --to, --cc, and --in-reply-to
+  switches of git-send-email(1):
+  git send-email \
+    --in-reply-to=b83568b8-e465-243e-cd84-eba88c4e95d9@gmail.com \
+    --to=phillip.wood123@gmail.com \
+    --cc=git@vger.kernel.org \
+    --cc=naeim249@gmail.com \
+    --cc=newren@gmail.com \
+    --cc=szeder.dev@gmail.com \
+    --cc=thomas.braun@virtuell-zuhause.de \
+    /path/to/YOUR_REPLY
+  https://kernel.org/pub/software/scm/git/docs/git-send-email.html
+* If your mail client supports setting the In-Reply-To header
+  via mailto: links, try the mailto: link
+Git Mailing List Archive on lore.kernel.org
+Archives are clonable:
+	git clone --mirror https://lore.kernel.org/git/0 git/git/0.git
+	# If you have public-inbox 1.1+ installed, you may
+	# initialize and index your mirror using the following commands:
+	public-inbox-init -V2 git git/ https://lore.kernel.org/git \
+		git@vger.kernel.org
+	public-inbox-index git
+Example config snippet for mirrors
+Newsgroup available over NNTP:
+	nntp://nntp.lore.kernel.org/org.kernel.vger.git
+AGPL code for this site: git clone https://public-inbox.org/public-inbox.git

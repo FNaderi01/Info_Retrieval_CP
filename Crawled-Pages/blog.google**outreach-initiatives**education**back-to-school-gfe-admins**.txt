@@ -1,0 +1,272 @@
+    Skip to Main Content
+        The Keyword
+               Latest stories
+              Product updates
+    Product updates
+            Android, Chrome &amp; Play
+                  Android
+                  Chrome
+                  Chromebooks
+                  Google Play
+                  Wear OS by Google
+            Connected home
+                  Chromecast
+                  Google Nest
+                  Google Wifi
+            In the cloud
+                  Docs, Sheets and Slides
+                  Gmail
+                  Google Cloud
+                  Meet
+                  More on the Cloud blog
+            Hardware
+                  Pixel
+                  Pixelbook
+                  Stadia
+            Explore &amp; get answers
+                  Earth
+                  Google Assistant
+                  Maps
+                  Search
+                  Photos
+                  Translate
+      See all product updates
+            Android, Chrome &amp; Play
+                    Android
+                    Chrome
+                    Chromebooks
+                    Google Play
+                    Wear OS by Google
+            Connected home
+                    Chromecast
+                    Google Nest
+                    Google Wifi
+            In the cloud
+                    Docs, Sheets and Slides
+                    Gmail
+                    Google Cloud
+                    Meet
+                    More on the Cloud blog
+            Hardware
+                    Pixel
+                    Pixelbook
+                    Stadia
+            Explore &amp; get answers
+                    Earth
+                    Google Assistant
+                    Maps
+                    Search
+                    Photos
+                    Translate
+        See all product updates
+              Company news
+    Company news
+            Outreach &amp; initiatives
+                  Diversity and inclusion
+                  Education
+                  Google.org
+                  Grow with Google
+                  Sustainability
+                  See all
+            Technology
+                  AI
+                  Developers
+                  Families
+                  Next billion users
+                  Safety and security
+                  See all
+            Inside Google
+                  Data centers and infrastructure
+                  Doodles
+                  Googlers
+                  Life at Google
+                  See all
+            Around the globe
+                  Google in Africa
+                  Google in Asia
+                  Google in Europe
+                  Google in Latin America
+                  See all
+            Perspectives
+                  Sundar Pichai, CEO
+                  Ruth Porat, SVP and CFO
+                  Kent Walker, SVP
+                  See all
+            Outreach &amp; initiatives
+                    Diversity and inclusion
+                    Education
+                    Google.org
+                    Grow with Google
+                    Sustainability
+            See all
+            Technology
+                    AI
+                    Developers
+                    Families
+                    Next billion users
+                    Safety and security
+            See all
+            Inside Google
+                    Data centers and infrastructure
+                    Doodles
+                    Googlers
+                    Life at Google
+            See all
+            Around the globe
+                    Google in Africa
+                    Google in Asia
+                    Google in Europe
+                    Google in Latin America
+            See all
+            Perspectives
+                    Sundar Pichai, CEO
+                    Ruth Porat, SVP and CFO
+                    Kent Walker, SVP
+            See all
+    Subscribe
+        Press corner
+        RSS feed
+    Subscribe
+            The Keyword
+               Latest stories
+              Product updates
+    Product updates
+            Android, Chrome &amp; Play
+                  Android
+                  Chrome
+                  Chromebooks
+                  Google Play
+                  Wear OS by Google
+            Connected home
+                  Chromecast
+                  Google Nest
+                  Google Wifi
+            In the cloud
+                  Docs, Sheets and Slides
+                  Gmail
+                  Google Cloud
+                  Meet
+                  More on the Cloud blog
+            Hardware
+                  Pixel
+                  Pixelbook
+                  Stadia
+            Explore &amp; get answers
+                  Earth
+                  Google Assistant
+                  Maps
+                  Search
+                  Photos
+                  Translate
+      See all product updates
+              Company news
+    Company news
+            Outreach &amp; initiatives
+                  Diversity and inclusion
+                  Education
+                  Google.org
+                  Grow with Google
+                  Sustainability
+                  See all
+            Technology
+                  AI
+                  Developers
+                  Families
+                  Next billion users
+                  Safety and security
+                  See all
+            Inside Google
+                  Data centers and infrastructure
+                  Doodles
+                  Googlers
+                  Life at Google
+                  See all
+            Around the globe
+                  Google in Africa
+                  Google in Asia
+                  Google in Europe
+                  Google in Latin America
+                  See all
+            Perspectives
+                  Sundar Pichai, CEO
+                  Ruth Porat, SVP and CFO
+                  Kent Walker, SVP
+                  See all
+            Press corner
+            RSS feed
+    Subscribe
+        Education
+      What’s new for admins in Google for Education this fall
+    Copy link
+          046 - B2S - Back to School Blog - Admins - BLOG - Rd2-01.png
+    Akshat Sharma
+        Product Manager, Google for Education
+      Published Aug 11, 2020
+            Google for Education
+         50 new features in Meet, Classroom, G Suite and other products for students, parents and teachers.
+            Read more
+    Copy link
+          Editor’s note: On August 11, 2020 Google for Education kicked off a global back-to-school event, The Anywhere School. Check out the full recap of product launches and our collection of announcements.Educators, students and families have quickly adjusted to distance learning, and administrators have played a critical role in this success. Over the past few months, they’ve equipped teachers and learners with the tools they need. We’ve listened to what admins need to save time and meet new demands, and have made improvements so they are better equipped to keep supporting educators and students this school year.Powerful insights in ClassroomComing soon, admins who want to troubleshoot Classroom issues will be able to access Classroom audit logs directly from the Admin console. With audit logs, they’ll be able to pinpoint events such as who removed a student from a class or who archived a specific class on a specific date. Especially now, we’ve heard that admins want dashboards that give them detailed visibility into usage and adoption of Classroom so they can provide targeted training to teachers, or help intervene with students who aren’t engaged. At schools with G Suite Enterprise for Education, admins will soon be able to automatically import Classroom logs into BigQuery, where they can get much deeper insights into who is using Classroom and how they’re using it. With just a few clicks, they can also create a customizable dashboard on Data Studio, giving them a slate of engagement metrics, including metrics like how many assignments were created, submitted, or graded, and will be able to pivot by date, organizational unit, specific instructors, or specific students. Moderation tools for MeetMeet has become a common tool for teachers and students to connect with each other. As more people rely on Meet, the need for improved moderation tools has grown.Admins can already get insights into how students and teachers interact with Google Meet using the Meet Quality Tool within the Admin console. Admins can see an overview of meeting metrics, find and debug meetings, view network statistics (like jitter, packet loss and congestion), or view system (CPU) statistics. They can now delegate access to the tool to other people in their organization using a custom privilege in the Admin roles section. Plus, just like in Classroom, admins can access Meet audit logs in the Admin console.Admins also have the ability to enable or disable Meet independently of Chat. And now, Meet blocks anonymous attendees by default for Edu domains; admins have the option to change this setting as needed.Better workflows for G SuiteAs schools increasingly use G Suite to support distance learning, they’re looking for easier ways to communicate and share knowledge. To improve school-wide or small group communication, admins can use the improved Google Groups experience to create and manage groups. Also, a new beta will allow teams to share specific folders within a Shared Drive to help admins make sure that the right information can be shared with the right people. SmartCompose, which automatically suggests words and phrases, and Auto Correct, which corrects misspellings or grammar issues, are both now available in Docs for education customers. By the end of this month, admins will be able to disable both SmartCompose and Auto Correct if they choose. A simpler way to trial G Suite Enterprise for EducationLastly, admins who are interested in starting a trial with G Suite Enterprise for Education will soon be able to do so directly without support from a reseller. In order to activate the one-time 30-day trial, admins can enroll from the Billing section of the G Suite Admin console and provision up to 10 team members. Admins make Google for Education tools work smoothly behind the scenes, so educators and students can get down to work. We hope the new features smooth out the rough spots in the admin workday. If you’d like to learn more about all the new products and features, watch our keynote session from The Anywhere School event.
+            Google for Education
+         50 new features in Meet, Classroom, G Suite and other products for students, parents and teachers.
+            Read more
+        Posted in:
+Education
+Google Workspace
+Chromebooks
+Accessibility
+    Related stories
+                Android
+                Important household sounds become more accessible
+                  Receive notifications of important household sounds around you by enabling Sound Notifications, a new Android accessibility feature.
+                  By
+                    Sagar Savla
+                    Sharlene Yuan
+                 Oct 8, 2020
+                Android
+                6 ways your Android is getting more helpful this fall
+                  By
+                    Baris Gultekin
+                 Oct 8, 2020
+                Meet
+                New safety and collaboration features in Google Meet
+                  By
+                    Samir Pradhan
+                 Oct 8, 2020
+                Google Assistant
+                New updates make Google Assistant even more accessible
+                  By
+                    Praveen Chandran
+                 Oct 6, 2020
+                Accessibility
+                Doing more to design for and with people with disabilities
+                  By
+                    Eve Andersson
+                 Oct 6, 2020
+                Google Workspace
+                Introducing Google Workspace to help you get more done
+                  By
+                    Kelly Waldher
+                 Oct 6, 2020
+        .
+        Let’s stay in touch. Get the latest news from Google in your inbox.
+        Subscribe
+        No thanks
+      Please check your network connection and
+        try again.
+        The latest news from Google, in your inbox.
+    First name
+    Email address
+          Sign up to receive news and other stories from Google.
+          Your information will be used in accordance with
+          Google's privacy policy. You may opt out at any time.
+          Subscribe
+        Done! Check your inbox toconfirm your subscription.
+       OK, got it 
+              Follow Us
+            Privacy
+            Terms
+            About Google
+            Google Products
+              About the Keyword
+              Help

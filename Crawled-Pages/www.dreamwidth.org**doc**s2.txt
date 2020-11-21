@@ -1,0 +1,50 @@
+     Skip to Main Content
+CSS Documentation
+CSS (Cascading Style Sheets) are used to provide visual styling to web content. Dreamwidth styles are designed to be mostly customizable via CSS, with many classes built into the core of the style system. Please note that this CSS documentation centers around documenting the core system; the plain version of which is called Tabula Rasa. However, many classes will be available in all core2 styles; other layouts will mainly have only a different page structure.
+    Overview
+    Syntax Tutorial
+    Style Structure Overview
+    Detailed Style Structure
+S2 Documentation
+S2 (Style System 2) is a programming language designed to be a generic style system for web applications, which can give users a lot of control over their own style. It has properties in common with Perl, Python, and Java. These guides are meant to give current and potential Dreamwidth style makers the tools they need to understand and work with S2.
+    Guide Index
+    Style System Overview
+    Language Tutorial
+    Cookbook
+    Properties
+    Troubleshooting
+    Log in
+            Account name:
+            Password:
+             Remember me
+            Other options:
+              Forget your password?
+              Log in with OpenID?
+      ×
+                    menu
+  Log in
+Create
+                Create Account
+                Display Preferences
+Explore
+                Interests
+                Directory Search
+                Site and Journal Search
+                Latest Things
+                Random Journal
+                Random Community
+                FAQ
+Shop
+                Buy Dreamwidth Services
+                Gift a Random User
+                DW Merchandise
+InterestRegionSite and AccountFAQEmailIM Info
+    Privacy Policy • 
+    Terms of Service • 
+    Diversity Statement • 
+    Guiding Principles • 
+    Site Map • 
+    Make a Suggestion • 
+    Open Source • 
+    Help/Support
+Copyright © 2009-2020 Dreamwidth Studios, LLC. Some rights reserved.

@@ -1,0 +1,325 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Women’s History Month: District Attorney Jackie Lacey tells the truth and nothing but the truth            
+				By Brandon I. Brooks, Managing Editor                
+	                	                Published March 15, 2017
+		Los Angeles County District Attorney Jackie Lacey (Photo by Bishop Moore for Sentinel)
+Los Angeles County District Attorney Jackie Lacey is in a powerful and controversial position to say the least. As the first woman and the first African American person to hold the position, Lacey is faced with daily challenges and tough decision making that can be polarizing to the masses she serves.
+A constitutionally created office, the district attorney is responsible for prosecuting cases involving violations of state law. The L.A. County District Attorney’s office is the largest in the nation, there is no larger office. Lacey leads a team of about 1,000 lawyers and about 300 sworn investigators. Being that L.A. is one of the most populated counties in the nation with an estimated population of 10 million, Lacey’s team of prosecutors has difficult challenges dealing with crime.
+“For instance, people know that we deal with human trafficking, a lot of cybercrime, fraud but also, we have more than our share of homicides, rapes, child molestations, home and auto burglaries,” said Lacey. “We probably lead the nation in some of those statistics. So, it is the busiest office in the nation and the most innovative, a lot of people look to us to kind of set the trend for the nation.”
+        ADVERTISEMENT        
+Lacey was elected to lead the DA’s office in 2012 and was more than ready to serve having grown up in the office. “I came here to the office 30 years ago and I have done everything from low level drug cases to homicide cases,” said Lacey. “So, I felt like I really knew the business and what we do and I knew the mission. I felt I was ready mentally, I was ready knowledge wise. You know from the minute you come in although as the first woman and the first African American, I want to be the best.”
+Her in-house agenda was creating an environment that inspires and frees her staff but then gives them guidance. In terms of serving the community, there were a lot of criminal justice reform efforts that were happening and Lacey wanted to make sure citizens remain safe. “I wanted to do something about alternative sentencing, mental health turned out to be a big issue here,” said Lacey. “We were incarcerating way too many people because they were mentally ill and I thought we needed to change. It is no secret that I wanted to address fraud and fraudulent schemes that are perpetuated on our elderly, I wanted to warn them about them and I wanted to protect our environment. I wanted environmental justice to occur, I think that no matter where you live, you ought to be entitled to clean water, clean air and free from any pollutants and anything of that sort.”
+As Lacey headed into her second term, though she wanted to still focus on mental health, fraud and cybercrime, this time around she really wanted to focus on children. “The abuse of children, you know most child homicides occur with children who are five years or less,” said Lacey. “So, we got to do something for those little ones, right? We got to figure out how to protect them better.”
+In the national discussion about prosecutors and police, there is a perception in communities of color that the prosecutor’s office does not work in their favor as much as it does for other communities and there is a discussion about unconscious bias. Lacey wants to be the first DA’s office in the nation to require all of her lawyers to go through training to eliminate that bias. She wants to ensure that the DA’s policies are fair and not slanted against people because of their economic status or their physical characteristics. She also wants to ensure that when her prosecutors are prosecuting a case, that defendants are getting a fair trial and that they are not putting anyone away for the wrong reasons and that they treat victims from all communities with respect.
+“We are the most diverse prosecutor’s office in the nation,” said Lacey. “People may not realize, although we have 1,000 lawyers, about 53 percent of them are women, nine percent of our prosecutors are African American, 12 percent are Latino and a little bit more of that 14 percent are Asian. So, we pride ourselves in reflecting the community and reflecting jurors and I think that is important when we are discussing in our policymaking room certain issues, we need that diverse opinion.
+“One big thing that we have done and I am so proud of is create the conviction of review unit. Only about 11 offices that I know of have had the conviction review unit and that’s to provide relief for those who have been wrongfully convicted…It is my position that you should never as a person or prosecutor say I’m done, I sought justice in a case. If there is one person in prison who has been wrongfully convicted and new evidence comes that shakes your confidence in the evidence that was used to convict that person, you have an absolute duty to look at that.
+“I think as a prosecutor, the best service that you can do to ensure that every community is safe is to question, ‘what’s this assumption that we are making and why’ and make sure that we maintain our independence. Some of the decisions are tough. In pretty much every decision that I make, someone is going to be upset, someone is going to disagree with it but we are bound by the law and the constitution and so we really do make an effort to be fair and just and challenge each other on decisions.”
+Lacey leans on the loving support of her husband David and their two children, Kareem and April to get through the vigorous days as DA. She also shared how vital her parents were for providing a solid upbringing. Her parents Addie and Louis came from the South: her dad is from Henderson, Texas and her mom is from a small town called Evans, Georgia which is just outside of Augusta. Her parents grew up very poor in the ‘50s where there was a lot of segregation and discrimination. “The word back then was come to L.A. where you can get a job and where there are opportunities,” said Lacey. “I grew up in a home where my father was very strict. I couldn’t just go out anywhere. There were two things we had to do, we had to go to church and we had to go to school.”
+Lacey’s parents believed that the way to a better life was getting a college education. They lived for that and they worked hard to instill that in Jackie and her sister. “I never knew I had a choice,” said Lacey. “I was going to college. What I didn’t know was that I was going to become a lawyer. I became a lawyer because I met an African American lawyer and she inspired me to pursue this profession. I am proud of what I do, I feel and I am not just talking about the elected part of it, you know one day this will be over with and I want to look back at this and say these positive changes happened because I was a part of it, or I inspired it or I participated in it. There’s nothing like the feeling of making a difference in history.”
+Growing up in the Lacey household, Jackie recalls there was a photograph of Martin Luther King, Jr., John F. Kennedy and Robert F. Kennedy. Her dad loved talking about history and she is sad that he didn’t live long enough to see her being sworn-in but knows he was there in spirit.
+Los Angeles County District Attorney Jackie Lacey (Photo by Bishop Moore for Sentinel)
+“We never talked about this, we never talked about could I be the district attorney,” said Lacey. “I loved to read but he would always say, I want you to read this book, ‘Tough Times Don’t Last Always, Tough People Do.’ He had leadership books from Martin Luther King to Abraham Lincoln and I wasn’t having any of it at 13 and 14-years-old. Recently this year, I went to spend some time with my mom and she is cleaning out some of his things and she says, ‘you know I have a box of books here that your dad had, would you like to have them?’ I almost cried because I got these books and I am going to read them this year. He has book marks and notes in the margins. It is like he was preparing me and I want to do the same thing for my children. I want to prepare them for the tough times and prepare them to do well and I want them to care about this country and the community and I want them to get involved and be engaged.”
+The Sentinel asked Lacey about her legacy and how she hopes to be remembered. She shared that she wants people to know she may be quiet but she is competitive. “I want them to look at the wall of District Attorneys, I’m number 42, Jackie Robinson’s number,” Lacey said.
+“I want them to say, ‘she was the best district attorney we had. We may have not realized it at the time, but she made changes. She went after human traffickers, made seniors safer, protected our kids, made the justice system fairer in terms of people who had mental illnesses, inspired prosecutors to be the best that they could be and to recognize that she was good for the L.A. county.’”
+As for up-and-coming attorneys and potential prosecutors who want to follow in her path… “go for it,” she said.
+“If you are willing to work hard, make sacrifices, I think your dreams of becoming a lawyer, prosecutor, defense attorney is absolutely attainable. I came from a family where we didn’t have very much. Our house was modestly priced. I went to schools on scholarships, grants and loans. I’m just a kid from Dorsey High School, I still feel that way somedays and if I can make it and our parents can make it and we can have an African American President, what excuse do we have, what are we waiting for?
+“When we are insecure, we are our own worst enemies because we have that little voice in our head saying we can’t, we won’t, we’re not smart enough. I know a lot of people in this world, I don’t know how they made it but they did. We just have to get that message out there. I’m thinking of going to community colleges, start reaching out at that level, asking have they thought of being a lawyer? In this country, 80 % of the lawyers are White. The law profession is even less diverse than the medical profession. Think about what lawyers do. They go on to be presidents, legislators and CEOs. That’s a darn influential job, you don’t have to be a prosecutor per say, but you should because if you want to make a difference in a criminal justice system, come in this office and do that and create polices and make decisions that will make a difference. So, I do encourage people to pursue, this is a wonderful profession, it’s very satisfying.”
+		Categories: Exclusive | Local | News | Political Tags: Black History Month | Brandon I. Brooks | D.A. Jackie Lacey | DA Jackie Lacey | District Attorney of Los Angeles | Jackie Lacey | Los Angeles County District Attorney | Women’s History Month		
+						(Part 1) Jackie Lacey speaks on being first female and first African Americ...
+						St. Louis mayoral race holds lessons for Black Candidates
+						The City of Inglewood to Unveil New Website
+						More than 100 crime survivors gather in Los Angeles, call for new safety pr...
+						Free Community Clean Up
+						Still Pleading Our Own Cause: The Black Press Celebrates 190 Years
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

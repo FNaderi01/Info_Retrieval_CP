@@ -1,0 +1,327 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+New Bill Temporarily Protects Ethnic Newspapers as State Cracks Down on Gig Economy            
+				By Tanu Henry, California Black Media                
+	                	                Published September 26, 2019
+		Governor Gavin Newsom ( Courtesy photo)
+Last week, Gov. Newsom signed AB 5, the “Employee Misclassification Bill,” into law. The legislation changes the classification of more than one million jobs in California from “contractor” to “employee.”
+The week before, the California Senate voted 29-11 to pass the bill. For the last 10 months, various industries across the state have been pressing legislators, begging for an exemption to AB 5.
+On Friday, before AB 5 made its way to Gov. Newsom’s desk for his signature, a bi-partisan group of lawmakers stood up to defend the newspaper industry in California, which includes more than 20 African American-owned publications.
+        ADVERTISEMENT        
+“It has to do with the hundreds in my district – and other Senators’ as well –  weeklies and small papers, the ethnic press,” said Sen. Holly Mitchell (D-Los Angeles), explaining why she supported AB 170 in a Senate Labor committee hearing last week. “The various weeklies that many mono-lingual constituents of mine rely on for information. The information we rely on, too, as public servants.”
+Senate Republicans pushed 12 amendments to AB 5 last week, including the one that provides temporary exemption for newspaper carriers and distributors. After bitter fights, passionate speeches – and even a few tears – a majority of Democratic and Republican lawmakers in the Senate and Assembly pressured Assemblymember Lorena Gonzalez (D-San Diego), who authored AB 5, to introduce AB 170 as a condition for their votes.
+Finally, the Senate approved AB 170 with a 38-1vote count. The Assembly voted 66-6 in favor of it.
+Newspapers across California now have until January 2021, a year after the law takes effect, to hire the drivers who deliver their papers as W-2 employees. Or else, they would have to create a new model for distributing papers that complies with the restrictions in AB 5.
+“Thanks to the lawmakers who understand the crushing impact the internet has had on our bottom lines. Those legislators who value the role the press plays, particularly the ethnic media, in strengthening our democracy here in California,” said Regina Wilson, executive director of California Black Media. “AB 170 now buys us time to figure out a solution for delivering our papers that, hopefully, the couriers can embrace, Labor Unions can accept and that the newspapers can implement without going bankrupt.”
+CA Sen. Holly J. Mitchell. Courtesy photo.
+At a Senate committee hearing for AB 5 last week, Gonzalez expressed her disappointment.
+“This is the first time I’ve carried a bill that I’m vehemently opposed to,” said Gonzalez. “But in the spirit of good faith I will bring it forward.”
+Although Gonzalez introduced AB 170, she voted against it during the Assembly floor vote.
+“This is going to give some breathing space to newspapers to find a way, within their means, to provide systems that comport with the values of the author and proponents of AB 5,” said Jim Ewert, general counsel of the California Newspaper Publishers Association.
+Republicans in the Senate and Assembly opposed AB 5 since it was introduced in December last year.
+“Over two million Californians choose to work as independent contractors and AB 5 only protects certain industries,” said Sen. Shannon Grove (R-Bakersfield).
+Exempted categories include architects, engineers, veterinarians, private investigators, psychologists, commercial fisherman, dentists, podiatrists, travel agents, editors, marketing professionals photographers, cartoonists and more.
+“I am proud to have stood with my Republican colleagues in offering better solutions to protect workers in industries such as healthcare, transportation, and newspapers carriers and distributors,” Grove continued. “If the governor truly believes in supporting a California for all, then he needs to do the right thing and veto AB 5.”
+In her closing statement, Gonzales took a shot at newspapers.
+“The entire news service in California weaponized their editorial pages against this bill based only on newspaper carriers. Its hypocritical,” she said.
+After the bill passed, Grove issued a statement on behalf of Republicans in the legislature.
+“Democrats rejected Senate Republicans’ amendments to AB 5 which would have leveled the playing field for all independent contractors and helped industries that were excluded,” she said. “Democrats, labor unions, and Governor Newsom, picked winners and losers with AB 5.”
+AB 170 is still awaiting the governor’s signature as of press time.
+		Categories: Business | Economy | News | Political Tags: Assemblymember Lorena Gonzalez (D-San Diego) | California Black Media | California Newspaper Publishers Association | California Senate | Employee Misclassification bill | Gov. Newsom | Jim Ewert | labor unions | Regina Wilson | Sen. Holly Mitchell (D-Los Angeles) | Sen. Shannon Grove (R-Bakersfield)		
+						Gov. Sets Up Advisory Team on Aging as Golden State Population Grows Grayer
+						California Charter Stories Bring Hard Data, First-Hand Experience to Nation...
+						Stephon Clark’s Brother, Sacramento Police Chief Sit Side-By-Side on Pane...
+						California Leaders, Activists Praise Kamala Harris’ “Reform First” Cr...
+						Former US College Football Player Home from Prison in China
+						Trump’s Changes to Title X Program Would Hurt the Black Community’s Acc...
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

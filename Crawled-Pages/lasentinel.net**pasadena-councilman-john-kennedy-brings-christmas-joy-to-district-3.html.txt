@@ -1,0 +1,196 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+		Pasadena Councilman John Kennedy brings Christmas Joy to District 3
+		Next »
+	Christmas came a little early in Pasadena.  A community holiday celebration hosted by Pasadena Councilman John J Kennedy was an overwhelming success bringing holiday cheer to children and needy families throughout Pasadena.
+Kennedy’s Annual Christmas event featured a visit from Santa Clause who provided each and every boy or girl a gift.  Food was also plentiful with food brought in from a variety of local restaurants including El Portal Restaurant &amp; La Sasssier Catering from Los Angeles.
+The event also features visits from Pasadena Mayor Terry Tornek, Congresswoman Judy Chu, Pasadena Police Chief John Perez &amp; Fire Captain Bertral Washington.  One of the biggest highlights of the day was when local residents got to meet and interact with this year’s Tournament of Roses Royal Court.
+        ADVERTISEMENT        
+“We are truly Blessed and have so much to be Thankful for, living in this wonderful city (Pasadena).  This is just a way for me and many of the local businesses who support this event every year to give back to the city and community we all care so deeply about” states Councilman John J Kennedy- District 3.
+		Next »
+			Thumbnails
+			showing above 
+		Categories: Family | Lifestyle | Local | News (Family) | Political Tags: Christmas | Congresswoman Judy Chu | El Portal Restaurant &amp; La Sasssier Catering | Fire Captain Bertral Washington | Los Angeles | Pasadena | Pasadena Councilman John J Kennedy | Pasadena Mayor Terry Tornek | Police Chief John Perez | Santa Clause | Tournament of Roses | Tournament of Roses Royal Court		
+						Issa Rae Collaborates with Ajay Relan and Yonnie Hagos to Open Hilltop Coff...
+						Best of Crenshaw and Around 2019
+						South LA Cafe Brings Out Community Leaders at Grand Opening of Community-Fo...
+						Kendrick Lamar, Chris Brown &amp; More Spread Holiday Cheer at TDE’s Annu...
+						Two Local Entrepreneurs Gifted New Bicycles to 50 Students in Watts and Ing...
+						Congressional Black Caucus Leads Passage of the Future Act
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->

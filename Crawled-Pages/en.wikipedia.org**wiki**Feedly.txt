@@ -1,0 +1,340 @@
+	Feedly
+		From Wikipedia, the free encyclopedia
+		Jump to navigation
+		Jump to search
+		News aggregator
+FeedlyDeveloper(s)DevHDInitial release2008 (2008)Written inJava (back-end), JavaScript, HTML, CSS (UI)Operating systemAndroid 5.1 or later[1]  iOS 10.0 or later (iPhone, iPad, and iPod touch)[2]PlatformWeb Browser, mobileTypeNews aggregatorLicenseFreemiumWebsitefeedly.com
+Feedly (stylized as feedly) is a news aggregator application for various web browsers and mobile devices running iOS and Android. It is also available as a cloud-based service. It compiles news feeds from a variety of online sources for the user to customize and share with others. Feedly was first released by DevHD in 2008.
+Contents
+1 History
+2 Android and iOS app
+3 Reception
+4 Denial of service attacks
+5 See also
+6 References
+7 External links
+History[edit]
+In November, 2006, Edwin Khodabakchian co-founded DevHD.[3] The company sought to create a platform that uses RSS feeds, online storage, and social media integration to connect users with the information they find interesting.[3] DevHD’s first project, Streets, which aggregates updates from a variety of online sources is the basis of Feedly. Feedly, which was optimized for RSS feeds, was first released on June 15, 2008.[3] Originally called Feeddo, Feedly was first released as a web extension before moving onto mobile platforms.[4]
+On March 15, 2013, Feedly announced 500,000 new users in 48 hours due to the closure announcement of Google Reader.[5] By April 2, 2013, the total number of new users was up to 3 million.[6] At the end of May 2013, the total user number was up to 12 million.[7]
+Android and iOS app[edit]
+The Feedly mobile application is available for iOS (iPhone, iPad), and Android devices.[8] All versions of the app run on Streets (DevHD's other project), which allows for the application to run on the same code for all devices.[8] Running the same code across multiple platforms lets the developers release updates faster because they are only working with one version. Like its web counterpart, the mobile application employs a minimalistic interface that imitates a magazine spread. However, unlike the browser extension, the Feedly app cannot load an entire article. Instead, it will present a summary, and a link to the actual article.[9] The mobile application acts as a browser on its own, so any redirects happen inside the app itself, as opposed to opening a separate Internet browser.[10] Additionally, the application adapts to the user, and will recommend posts based on what the user has read or shared in the past.[8] The Feedly app does not support offline mode but third party apps offer the service.
+Reception[edit]
+Feedly has received mostly positive reviews. Many have praised its minimalist design and personalized interface.[9][10][11] However, some have found the service relies too heavily on its minimalist approach, while others have stated that the degree of customization can be overwhelming for first-time users.[12][13] Following the termination date for Google Reader, transitioning users began to express frustration at the number of seemingly basic features that were broken or missing from the latest version of Feedly.[14] Moreover, on 8 November 2013 Feedly disabled login via OAuth, forcing users to use Google+ authentication. This change was announced less than 24 hours before taking place. As a result, many users reliant to this social network are unable to export their feeds.[15] This change was rolled back on the same day. So far the users can choose either Google+ or OAuth login.
+Denial of service attacks[edit]
+On June 11–13, 2014, Feedly suffered crippling denial-of-service attacks that prevented users from accessing their information. The attackers demanded ransom from Feedly, which Feedly refused to pay.[16][17][18]
+See also[edit]
+Comparison of feed aggregators
+References[edit]
+^ "Google Play:Feedly". Google play. Retrieved February 21, 2015..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}
+^ "iTunes Preview Feedly". iTunes. Retrieved February 21, 2015.
+^ a b c "DevHD". Retrieved 6 February 2012.
+^ Khodabakchian, Edwin. "Feedly it is". Retrieved 6 February 2012.
+^ Khodabakchian, Edwin. "Priorities: Keeping the site up, listening and adding new features". Retrieved 2 April 2013.
+^ Khodabakchian, Edwin. "Announcing the New Feedly Mobile". Retrieved 2 April 2013.
+^ Protalinski, Emil. "Passing 12M users, Feedly launches cloud platform and Web version with one-click migration from Google Reader". Retrieved 19 June 2013.
+^ a b c Etherington, Darrell. "Feedly Update Makes Cross-Platform Feed Reading Awesome". Retrieved 7 February 2012.
+^ a b Persephone. "Feedly: Magazine-Style News-Reader". Retrieved 6 February 2012.
+^ a b Moylan, Cormac. "Review: Feedly For iPad". Retrieved 7 February 2012.
+^ Matt. "Feedly". Retrieved 7 February 2012.
+^ "Firefox Add-On Feedly Corrals Your RSS and Twitter Feeds".
+^ Shanklin, Will. "Another New RSS App? Feedly Is One That May Be Worth Checking Out". Retrieved 7 February 2012.
+^ Buckingham, Alan. "Feedly is a mess! New updates subtract features, erase data". Retrieved 7 July 2013.
+^ "Google+ Authentication and Identity". Archived from the original on 11 November 2013. Retrieved 8 November 2013.
+^ McGregor, Jay (June 11, 2014). "Feedly And Evernote Go Down As Attackers Demand Ransom". Retrieved June 11, 2014.
+^ Page, Carly (June 13, 2014). "Feedly hits third day of downtime as DDoS attacks continue". Retrieved June 13, 2014.
+^ "Feedly availability graph".
+External links[edit]
+Official website 
+vteWeb syndication
+History
+Blogging
+Podcasting
+Vlogging
+Web syndication technology
+Types
+Art
+Bloggernacle
+Classical music
+Corporate
+Dream diary
+Edublog
+Electronic journal
+Fake
+Family
+Fashion
+Food
+Health
+Law
+Lifelog
+Litblog
+MP3
+News
+Photoblog
+Police
+Political
+Prayer
+Project
+Reverse
+Travel
+Warblog
+TechnologyGeneral
+BitTorrent
+Feed URI scheme
+Features
+Linkback
+Permalink
+Ping
+Pingback
+Reblogging
+Refback
+Rollback
+Trackback
+Mechanism
+Conversation threading
+Geotagging
+RSS enclosure
+Synchronization
+Memetics
+Atom feed
+Data feed
+Photofeed
+Product feed
+RDF feed
+Web feed
+RSS
+GeoRSS
+MRSS
+RSS TV
+Social
+Inter-process communication
+Livemark
+Mashup
+Referencing
+RSS editor
+RSS tracking
+Streaming media
+Standard
+OML
+OPML
+RSS Advisory Board
+Usenet
+World Wide Web
+XBEL
+XOXO
+Form
+Audio podcast
+Enhanced podcast
+Mobilecast
+Narrowcasting
+Peercasting
+Screencast
+Slidecasting
+Videocast
+Webcomic
+Webtoon
+Web series
+Anonymous blogging
+Collaborative blog
+Columnist
+Instant messaging
+Liveblogging
+Microblog
+Mobile blogging
+Roblog
+Spam blog
+Video blogging
+Motovlogging
+MediaAlternative media
+Carnivals
+Fiction
+Journalism
+Citizen
+Database
+Online diary
+Search engines
+Sideblog
+Software
+Web directory
+Micromedia
+Aggregation
+News
+Poll
+Review
+Search
+Video
+Atom
+AtomPub
+Broadcatching
+Hashtag
+NewsML
+1
+G2
+Social communication
+Social software
+Web Slice
+Related
+Blogosphere
+Escribitionist
+Glossary of blogging
+Pay per click
+Posting style
+Slashdot effect
+Spam in blogs
+Uses of podcasting
+vteNews aggregatorsClient softwareStandalone
+Akregator
+BlogBridge
+FeedDemon
+Feedreader
+Flipboard
+Genieo
+Google Currents
+Google News
+Liferea
+NetNewsWire
+NewsAccess
+Newsbeuter
+NewsFire
+QuiteRSS
+RSS Bandit
+RSSOwl
+Seesmic
+WebFetch
+Web browsers
+AOL Explorer
+Avant Browser
+Basilisk
+Camino
+iCab
+Firefox
+Flock
+GNOME Web
+Internet Explorer
+K-Meleon
+Kazehakase
+Maxthon
+Microsoft Edge
+Netscape Browser
+Netscape  Navigator 9
+OmniWeb
+Opera
+Pale Moon
+Safari
+SeaMonkey
+Shiira
+Sleipnir
+Tencent Traveler
+Vivaldi
+Waterfox
+Email clients
+Apple Mail
+Claws Mail
+Gnus
+IBM Notes
+Microsoft  Outlook
+Mozilla Thunderbird
+Netscape  Messenger 9
+Opera Mail
+Pegasus Mail
+The Bat!
+Windows Live  Mail
+Zimbra
+Web browser plugins
+Cooliris
+Sage
+Web apps ormobile apps
+Bloglines
+CommaFeed
+Cheetah News
+Daylife
+Digg Reader
+Drupal
+Feedbin
+Feedly
+FriendFeed
+Google News
+Google Reader
+iGoogle
+dotCMS
+Imooty.eu
+Inoreader
+Magnolia
+My Yahoo!
+News360
+NewsBlur
+Newsknowledge
+Netvibes
+Pageflakes
+Planet
+Pulse
+Rojo.com
+Prismatic
+Spokeo
+The Old Reader
+Tiny Tiny RSS
+TweetDeck
+WebGUI
+Windows Live Personalized Experience
+winnowTag
+Media aggregatorsPodcatcher
+Adobe Media Player
+Akregator
+Amarok
+Flock
+iTunes
+Juice
+MediaMonkey
+Miro
+Rhythmbox
+Songbird
+Winamp
+Zune
+RSS+BitTorrent
+BitLord
+BitTorrent 6
+Deluge
+Miro
+Opera Mail
+qBittorrent
+Tribler
+μTorrent
+Vuze
+Related articles
+Comparison of feed aggregators
+History of Media aggregation
+RSS enclosure
+Italics indicate discontinued software.
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Feedly&amp;oldid=981426250"
+		Categories: News aggregatorsIOS softwareAndroid (operating system) softwareWeb softwareHidden categories: Articles with short descriptionShort description is different from Wikidata
+	Navigation menu
+		Personal tools
+		Not logged inTalkContributionsCreate accountLog in
+		Namespaces
+		ArticleTalk
+		Variants
+		Views
+		ReadEditView history
+		More
+		Search
+		Navigation
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		Contribute
+		HelpLearn to editCommunity portalRecent changesUpload file
+		Tools
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		Print/export
+		Download as PDFPrintable version
+		Languages
+		CatalàEspañolFrançaisItalianoLatviešuNederlands日本語РусскийTürkçe中文
+		Edit links
+		 This page was last edited on 2 October 2020, at 07:26 (UTC).
+		Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+		Privacy policy
+		About Wikipedia
+		Disclaimers
+		Contact Wikipedia
+		Mobile view
+		Developers
+		Statistics
+		Cookie statement

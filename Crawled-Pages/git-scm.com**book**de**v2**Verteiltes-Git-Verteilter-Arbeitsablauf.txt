@@ -1,0 +1,341 @@
+        About
+            Branching and Merging
+            Small and Fast
+            Distributed
+            Data Assurance
+            Staging Area
+            Free and Open Source
+            Trademark
+        Documentation
+            Reference
+            Book
+            Videos
+            External Links
+        Downloads
+            GUI Clients
+            Logos
+        Community
+This book is available in
+  English.
+  Full translation available in
+    български език,
+    Deutsch,
+    Español,
+    Français,
+    Ελληνικά,
+    日本語,
+    한국어,
+    Nederlands,
+    Русский,
+    Slovenščina,
+    Tagalog,
+    Українська
+    简体中文,
+  Partial translations available in
+    Čeština,
+    Македонски,
+    Polski,
+    Српски,
+    Ўзбекча,
+    繁體中文,
+  Translations started for
+    azərbaycan dili,
+    Беларуская,
+    فارسی,
+    Indonesian,
+    Italiano,
+    Bahasa Melayu,
+    Português (Brasil),
+    Português (Portugal),
+    Svenska,
+    Türkçe.
+The source of this book is  hosted on GitHub.
+Patches, suggestions and comments are welcome.
+  Chapters ▾
+  1. Erste Schritte
+          1.1
+          Was ist Versionsverwaltung? 
+          1.2
+          Kurzer Überblick über die Historie von Git 
+          1.3
+          Was ist Git? 
+          1.4
+          Die Kommandozeile 
+          1.5
+          Git installieren 
+          1.6
+          Git Basis-Konfiguration 
+          1.7
+          Hilfe finden 
+          1.8
+          Zusammenfassung 
+  2. Git Grundlagen
+          2.1
+          Ein Git-Repository anlegen 
+          2.2
+          Änderungen nachverfolgen und im Repository speichern 
+          2.3
+          Anzeigen der Commit-Historie 
+          2.4
+          Ungewollte Änderungen rückgängig machen 
+          2.5
+          Mit Remotes arbeiten 
+          2.6
+          Taggen 
+          2.7
+          Git Aliases 
+          2.8
+          Zusammenfassung 
+  3. Git Branching
+          3.1
+          Branches auf einen Blick 
+          3.2
+          Einfaches Branching und Merging 
+          3.3
+          Branch-Management 
+          3.4
+          Branching-Workflows 
+          3.5
+          Remote-Branches 
+          3.6
+          Rebasing 
+          3.7
+          Zusammenfassung 
+  4. Git auf dem Server
+          4.1
+          Die Protokolle 
+          4.2
+          Git auf einem Server einrichten 
+          4.3
+          Erstellung eines SSH-Public-Keys 
+          4.4
+          Einrichten des Servers 
+          4.5
+          Git-Daemon 
+          4.6
+          Smart HTTP 
+          4.7
+          GitWeb 
+          4.8
+          GitLab 
+          4.9
+          Von Drittanbietern gehostete Optionen 
+          4.10
+          Zusammenfassung 
+  5. Verteiltes Git
+          5.1
+          Verteilter Arbeitsablauf 
+          5.2
+          An einem Projekt mitwirken 
+          5.3
+          Ein Projekt verwalten 
+          5.4
+          Zusammenfassung 
+  6. GitHub
+          6.1
+          Einrichten und Konfigurieren eines Kontos 
+          6.2
+          Mitwirken an einem Projekt 
+          6.3
+          Ein Projekt betreuen 
+          6.4
+          Verwalten einer Organisation 
+          6.5
+          Skripte mit GitHub 
+          6.6
+          Zusammenfassung 
+  7. Git Tools
+          7.1
+          Revisions-Auswahl 
+          7.2
+          Interaktives Stagen 
+          7.3
+          Stashen und Bereinigen 
+          7.4
+          Ihre Arbeit signieren 
+          7.5
+          Suchen 
+          7.6
+          Den Verlauf umschreiben 
+          7.7
+          Reset entzaubert 
+          7.8
+          Fortgeschrittenes Merging 
+          7.9
+          Rerere 
+          7.10
+          Debuggen mit Git 
+          7.11
+          Submodule 
+          7.12
+          Bundling 
+          7.13
+          Replace (Ersetzen) 
+          7.14
+          Anmeldeinformationen speichern 
+          7.15
+          Zusammenfassung 
+  8. Git einrichten
+          8.1
+          Git Konfiguration 
+          8.2
+          Git-Attribute 
+          8.3
+          Git Hooks 
+          8.4
+          Beispiel für Git-forcierte Regeln 
+          8.5
+          Zusammenfassung 
+  9. Git und andere Systeme
+          9.1
+          Git als Client 
+          9.2
+          Migration zu Git 
+          9.3
+          Zusammenfassung 
+  10. Git Interna
+          10.1
+          Basisbefehle und Standardbefehle (Plumbing and Porcelain) 
+          10.2
+          Git Objekte 
+          10.3
+          Git Referenzen 
+          10.4
+          Packdateien (engl. Packfiles) 
+          10.5
+          Die Referenzspezifikation (engl. Refspec) 
+          10.6
+          Transfer Protokolle 
+          10.7
+          Wartung und Datenwiederherstellung 
+          10.8
+          Zusammenfassung 
+  A1. Appendix A: Git in anderen Umgebungen
+          A1.1
+          Grafische Schnittstellen 
+          A1.2
+          Git in Visual Studio 
+          A1.3
+          Git in Visual Studio Code 
+          A1.4
+          Git in Eclipse 
+          A1.5
+          Git in IntelliJ / PyCharm / WebStorm / PhpStorm / RubyMine 
+          A1.6
+          Git in Sublime Text 
+          A1.7
+          Git in Bash 
+          A1.8
+          Git in Zsh 
+          A1.9
+          Git in PowerShell 
+          A1.10
+          Zusammenfassung 
+  A2. Appendix B: Git in Ihre Anwendungen einbetten
+          A2.1
+          Die Git-Kommandozeile 
+          A2.2
+          Libgit2 
+          A2.3
+          JGit 
+          A2.4
+          go-git 
+          A2.5
+          Dulwich 
+  A3. Appendix C: Git Kommandos
+          A3.1
+          Setup und Konfiguration 
+          A3.2
+          Projekte importieren und erstellen 
+          A3.3
+          Einfache Snapshot-Funktionen 
+          A3.4
+          Branching und Merging 
+          A3.5
+          Projekte gemeinsam nutzen und aktualisieren 
+          A3.6
+          Kontrollieren und Vergleichen 
+          A3.7
+          Debugging 
+          A3.8
+          Patchen bzw. Fehlerkorrektur 
+          A3.9
+          E-mails 
+          A3.10
+          Externe Systeme 
+          A3.11
+          Administration 
+          A3.12
+          Basisbefehle 
+      2nd Edition
+    5.1 Verteiltes Git - Verteilter Arbeitsablauf
+Nachdem Sie ein entferntes Git-Repository eingerichtet haben, in dem alle Entwickler ihren Code teilen können, und Sie mit den grundlegenden Git-Befehlen in einem lokalen Arbeitsablauf vertraut sind, werden Sie einige der verteilten Arbeitsabläufe verwenden, die Git Ihnen ermöglicht.In diesem Kapitel erfahren Sie, wie Sie mit Git in einer verteilten Umgebung als Mitwirkender und Integrator arbeiten. Das heißt, Sie lernen, wie Sie Quelltext erfolgreich zu einem Projekt beisteuern und es Ihnen und dem Projektbetreuer so einfach wie möglich machen. Außerdem lernen Sie, wie Sie ein Projekt erfolgreich verwalten, in dem mehrere Entwicklern Inhalte beisteuern.
+Verteilter Arbeitsablauf
+Im Gegensatz zu CVCSs (Centralized Version Control Systems – Zentrale Versionsverwaltungs Systeme) können Sie dank der verteilten Struktur von Git die Zusammenarbeit von Entwicklern in Projekten wesentlich flexibler gestalten.
+In zentralisierten Systemen ist jeder Entwickler ein gleichwertiger Netzknoten, der mehr oder weniger gleichermaßen mit einem zentralen System arbeitet.
+In Git ist jedoch jeder Entwickler potentiell beides – sowohl Netzknoten als auch zentrales System. Das heißt, jeder Entwickler kann sowohl Code für andere Repositorys bereitstellen als auch ein öffentliches Repository verwalten, auf dem andere ihre Arbeit aufbauen und zu dem sie beitragen können.
+Dies bietet eine Fülle von möglichen Arbeitsabläufen (engl. Workflows) für Ihr Projekt und/oder Ihrem Team, sodass wir einige gängige Paradigmen behandeln, welche die Vorteile dieser Flexibilität nutzen.
+Wir werden auf die Stärken und möglichen Schwächen der einzelnen Entwürfe eingehen. Sie können einen einzelnen davon auswählen, um ihn zu nutzen, oder Sie können die Funktionalitäten von allen miteinander kombinieren.
+Zentralisierter Arbeitsablauf
+In zentralisierten Systemen gibt es im Allgemeinen ein einziges Modell für die Zusammenarbeit – den zentralisierten Arbeitsablauf.
+Ein zentraler Hub oder Repository kann Quelltext akzeptieren und alle Beteiligten synchronisieren ihre Arbeit damit.
+Eine Reihe von Entwicklern sind Netzknoten – Nutzer dieses Hubs – und synchronisieren ihre Arbeit mit diesem einen, zentralen Punkt.
+Figure 54. Zentralisierter Arbeitsablauf.
+Dies bedeutet, wenn zwei Entwickler ein Repository vom Hub klonen und beide Änderungen vornehmen, kann der erste Entwickler seine Änderungen problemlos zurückspielen (pushen).
+Der zweite Entwickler muss jedoch die Arbeit des ersten Entwicklers bei sich einfließen lassen (mergen), bevor seine Änderungen aufgenommen werden können, damit die Änderungen des ersten Entwicklers nicht überschrieben werden.
+Dieses Konzept ist in Git genauso wahr wie in Subversion (oder ein anderes beliebiges CVCS), und dieses Konzept funktioniert in Git wunderbar.
+Wenn Sie bereits mit einem zentralisierten Arbeitsablauf in Ihrem Unternehmen oder Team vertraut sind, können Sie diesen Ablauf problemlos mit Git weiterverwenden.
+Richten Sie einfach ein einziges Repository ein und gewähren Sie allen Mitgliedern Ihres Teams Schreib-Zugriff (push). Git lässt nicht zu, dass Benutzer ihre Änderungen gegenseitig überschreiben.
+Sagen wir, John und Jessica fangen beide zur gleichen Zeit mit ihrer Arbeit an.
+John beendet seine Änderung und lädt diese zum Server hoch.
+Dann versucht Jessica, ihre Änderungen hochzuladen, aber der Server lehnt sie ab.
+Ihr wird gesagt, dass sie versucht, Änderungen „non-fast-forward“ zu pushen, und dass sie dies erst tun kann, wenn sie die bestehenden Änderungen abgeholt und mit ihrer lokalen Kopie zusammengeführt hat.
+Dieser Workflow ist für viele Menschen sehr ansprechend, weil er ein bewährtes Modell ist, mit dem viele bereits bekannt und vertraut sind.
+Diese Vorgehensweise ist nicht auf kleine Teams beschränkt.
+Mit dem Verzweigungs-Modell (Branching-Modell) von Git ist es Hunderten von Entwicklern möglich, ein einzelnes Projekt über Dutzende von Branches gleichzeitig erfolgreich zu bearbeiten.
+Arbeitsablauf mit Integrationsmanager
+Da Sie in Git über mehrere Remote-Repositorys verfügen können, ist ein Workflow möglich, bei dem jeder Entwickler Schreibzugriff auf sein eigenes, öffentliches Repository und Lesezugriff auf die Repositorys aller anderen Entwickler hat.
+Dieses Szenario enthält häufig ein zentrales Repository, das das „offizielle“ Projekt darstellt.
+Um zu diesem Projekt beizutragen, erstellen Sie Ihren eigenen öffentlichen Klon des Projekts und laden Ihre Änderungen dort hoch.
+Anschließend können Sie eine Anfrage an den Betreuer des Hauptprojekts senden, um Ihre Änderungen zu übernehmen (Pull Request).
+Der Betreuer kann dann Ihr Repository als Remote hinzufügen, Ihre Änderungen lokal testen, diese in seinem Branch einfließen und in sein öffentliches Repository hochladen.
+Der Prozess funktioniert wie folgt (siehe Arbeitsablauf mit Integrationsmanager.):
+Die Projekt Betreuer laden Arbeit ihr eigenes, öffentlichen Repository hoch.
+Ein Mitwirkender klont dieses Repository und nimmt Änderungen vor.
+Der Mitwirkende lädt diese in sein eigenes öffentliches Repository hoch.
+Der Mitwirkende sendet dem Betreuer eine E-Mail mit der Aufforderung, die Änderungen zu übernehmen (Pull Request).
+Der Betreuer fügt das Repository des Mitwirkenden als Remote hinzu und führt die Änderungen lokal zusammen.
+Der Betreuer lädt die zusammengeführten Änderungen in das Haupt-Repository hoch.
+Figure 55. Arbeitsablauf mit Integrationsmanager.
+Dies ist ein sehr häufiger Workflow mit Hub-basierten Tools wie GitHub oder GitLab, bei dem es einfach ist, ein Projekt zu „forken“ und Ihre Änderungen in Ihren Fork hochzuladen, damit jeder sie sehen kann.
+Einer der Hauptvorteile dieses Ansatzes besteht darin, dass Sie weiterarbeiten können und der Verwalter des Haupt-Repositorys Ihre Änderungen jederzeit übernehmen kann.
+Die Mitwirkenden müssen nicht warten, bis das Projekt ihre Änderungen übernommen hat – jede Partei kann in ihrem eigenen Tempo arbeiten.
+Arbeitsablauf mit Diktator und Leutnants
+Dies ist eine Variante eines Workflows mit vielen Repositorys.
+Sie wird im Allgemeinen von großen Projekten mit Hunderten von Mitarbeitern verwendet. Ein berühmtes Beispiel ist der Linux-Kernel.
+Verschiedene Integrationsmanager sind für bestimmte Teile des Repositorys verantwortlich. Sie heißen Leutnants.
+Alle Leutnants haben einen Integrationsmanager, der als der wohlwollende Diktator (benevolent dictator) bezeichnet wird.
+Der wohlwollende Diktator pusht von seinem Verzeichnis in ein Referenz-Repository, aus dem alle Beteiligten ihre eigenen Repositorys aktualisieren müssen.
+Dieser Prozess funktioniert wie folgt (siehe Arbeitsablauf mit wohlwollendem Diktator.):
+Entwickler arbeiten regelmäßig an ihrem Themen Branch und reorganisieren (rebasen) ihre Arbeit auf master.
+Der master Branch ist der des Referenz-Repositorys, in das der Diktator pusht.
+Die Leutnants fassen die Themen Branches der Entwickler mit ihrem master Branch zusammen.
+Der Diktator führt die master Branches der Leutnants in den Branch master des Diktators zusammen.
+Schließlich pusht der Diktator diesen master Branch in das Referenz-Repository, damit die anderen Entwickler darauf einen Rebase durchführen können.
+Figure 56. Arbeitsablauf mit wohlwollendem Diktator.
+Diese Art von Arbeitsablauf ist nicht weit verbreitet, kann jedoch in sehr großen Projekten oder in sehr hierarchischen Umgebungen hilfreich sein.
+Dies ermöglicht dem Projektleiter (dem Diktator), einen Großteil der Arbeit zu delegieren und große Teilbereiche von Quelltext an mehreren Stellen zu sammeln, bevor diese integriert werden.
+Methoden zur Verwaltung von Quellcode-Branches
+Note
+Martin Fowler hat den Leitfaden „Patterns for Managing Source Code Branches“ (Methoden zur Verwaltung von Quellcode-Branches) erstellt.
+Dieser Leitfaden deckt alle gängigen Git-Workflows ab und erklärt, wie und wann sie eingesetzt werden sollten.
+Es gibt auch einen Abschnitt, in dem hohe und niedrige Integrationsfrequenzen verglichen werden.
+https://martinfowler.com/articles/branching-patterns.html
+Zusammenfassung
+Dies sind einige häufig verwendete Workflows, die mit einem verteilten System wie Git möglich sind. Allerdings sind auch viele Variationen möglich, um Ihren eigenen Arbeitsabläufen gerecht zu werden.
+Jetzt, da Sie (hoffentlich) bestimmen können, welche Kombination von Arbeitsabläufen bei Ihnen funktionieren würde, werden wir einige spezifischere Beispiele davon betrachten, wie man die Hauptaufgaben durchführen kann, welche die unterschiedliche Abläufe ausmachen.
+Im nächsten Abschnitt erfahren Sie etwas über gängige Formen der Mitarbeit an einem Projekt.
+prev | next
+    About this site
+    Patches, suggestions, and comments are welcome.
+    Git is a member of Software Freedom Conservancy

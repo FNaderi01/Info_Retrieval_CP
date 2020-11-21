@@ -1,0 +1,69 @@
+https://ideas.repec.org/getdata.html
+Browse Econ Literature
+More features
+RePEc: getting the metadata
+Note that the archives participating in RePEc as well as the people volunteering with RePEc do so with the understanding that the collected data will be put to good use. This does not include commercial use. If you want to use RePEc data for commercial use, please first contact RePEc. Typically, we would require substantial contributions of data to RePEc for a commercial use to have a chance of being tolerated.
+Principles
+Anybody interested in handling RePEc metadata should familiarize oneself with the Guilford Protocol, which defines how the datafiles can be found and are structures, and the ReDIF format, which defines the metadata fields and conventions.
+Publisher data
+One can also access the all the data in one place. There is, however, no guarantee that this is accurate or up-to-date. Only the publisher archives can guarantee that:
+Person data
+Any additional person data is subject to privacy requirements.
+Citation data
+Ranking data
+Other data
+The data output from the CollEc project is here.
+We link different versions of the same work to each other. The database with those links is found here.
+Handles are supposed to be permanent, but sometimes series or journals move to a different archives. To translate the handles, you want to use this.
+The EconPapers syntax checker reports on syntax errors and warnings for ReDIF templates. It does also URL checks for all links in the templates, look for results by archive in the files starting with "url_" in this directory.
+There is more compiled data, but it may not be available because it has never been requested.
+API
+More services and features
+MyIDEAS
+Follow serials, authors, keywords & more
+New papers by email
+Subscribe to new additions to RePEc
+Author registration
+Public profiles for Economics researchers
+Rankings
+Various rankings of research in Economics & related fields
+RePEc Genealogy
+Who was a student of whom, using RePEc
+RePEc Biblio
+Curated articles & papers on various economics topics
+MPRA
+Upload your paper to be listed on RePEc and IDEAS
+EconAcademics
+Blog aggregator for economics research
+Plagiarism
+Cases of plagiarism in Economics
+Job market papers
+RePEc working paper series dedicated to the job market
+Fantasy league
+Pretend you are at the helm of an economics department
+Services from the StL Fed
+Data, research, apps & more from the St. Louis Fed
+About RePEc
+RePEc home
+Initiative for open bibliographies in Economics
+Blog
+News about RePEc
+Help/FAQ
+Questions about IDEAS and RePEc
+RePEc team
+RePEc volunteers
+Participating archives
+Publishers indexing in RePEc
+Privacy statement
+Legal statement
+Help us
+Corrections
+Found an error or omission?
+Volunteers
+Opportunities to help RePEc
+Get papers listed
+Have your research listed on RePEc
+Open a RePEc archive
+Have your institution's/publisher's output listed on RePEc
+Get RePEc data
+Use data assembled by RePEc

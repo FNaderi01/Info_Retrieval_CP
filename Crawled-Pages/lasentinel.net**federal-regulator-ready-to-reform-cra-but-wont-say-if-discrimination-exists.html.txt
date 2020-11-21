@@ -1,0 +1,324 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Federal Regulator Ready to Reform CRA But Won’t Say If Discrimination Exists            
+				By By Charlene Crowell                
+	                	                Published June 28, 2018
+		Charlene Crowell 
+When the Community Reinvestment Act (CRA) was enacted in 1977, urban disinvestment, redlining and blockbusting were widespread across the country. Credit was also tight in rural communities where the mortgage needs of rural residents were mostly served by smaller banks. In both types of communities, little oversight paid attention to fair lending.
+For communities of color, CRA was welcomed with hopes that banking and credit needs would be as fair as they were accessible. Clearly CRA was intended to address lending discrimination aimed at individuals and businesses in low-to-moderate income communities.
+Years later when the law was amended in 1992, meeting the credit needs of all communities was added to the criteria covered in bank examinations. Investments with minority-owned financial institutions was also added and included Blacks, Latinos, Native Americans, Asian-Americans and multi-racially-owned banks.
+        ADVERTISEMENT        
+Yet when the Trump-appointed Comptroller of the Currency, Joseph Otting testified in a House Financial Services Committee hearing on June 13, he dodged questions about whether he believed discrimination exists in America. Instead, Otting responded by saying he had never personally observed discrimination but had heard about it from others.
+Rapid reactions followed Otting’s comments.
+“While you may be fortunate enough to have never personally witnessed discrimination, it is alarming that an individual entrusted with regulating institutions that provide critical financial services to a broad range of constituencies appears shockingly unfamiliar with the rationale behind the promulgation of specific regulations aimed to address the problem,” wrote U.S. Rep. Cedric Richmond, chair of the Congressional Black Caucus to Otting later that week.
+“The CRA has done important work to drive financial equity and ensure banks serve all communities where they have a financial footprint,” noted Scott Astrada, Federal Advocacy Director with the Center for Responsible Lending. “Comptroller Otting’s proposal to radically restructure the law should be closely scrutinized because, given his remarks, he is apparently oblivious to the historic and systemic discrimination that the CRA was enacted to eliminate.”
+As an independent bureau of the U.S. Treasury Department, OCC regulates, and supervises all 1,300 national banks, federal savings associations and federal branches of foreign banks. An agency staff of 4,000 employees works with the Comptroller who also and concurrently serves as a director of the Federal Deposit Insurance Corporation, member of the Financial Stability Oversight Council, and the Federal Financial Institutions Examination Council.
+On June 21, OCC released a report on banking revenues. In just the first quarter of 2018, banks and federal savings associations reported $8.2 billion, a 62.8 percent increase – $3.2 billion larger than the last quarterly report.
+Before Otting’s appointment as Comptroller, he had a lengthy career as a banker, with a series of positions with major institutions like Bank of America, Union Bank of California, and OneWest Bank, N.A.
+So how could financial discrimination be so elusive to Otting? In his senior executive roles, how did he and his staff report CRA compliance?
+And if he somehow missed the history of discrimination, perhaps it would be helpful for him to glean insights from an important annual report. On June 19 Harvard University’s Joint Center for Housing Studies released its annual report, The State of the Nation’s Housing 2018.
+According to the report, Black consumers are the only racial/ethnic group that has made no appreciable progress in homeownership over the past 30 years. In 1987, 43.1 percent of Blacks owned homes. In 2017, Black homeownership dropped even lower to 40.4 percent.
+Latino and Asian-American homeownership levels are slightly better respectively at 46.2 and 55.8 percent. And among White households, homeownership is greatest – 72.3 percent.
+In other words, despite 50 years of the Fair Housing Act or 40 years since enactment of the CRA, Black people are still waiting for access to safe and affordable loans. And as we wait for our own American Dreams, racial wealth disparities will continue to worsen. Having a home remains a solid building block to family wealth.
+Without homeownership and its potential for equity appreciation, every generation of Black Americans begins anew the quest to climb the economic ladder to financial security. At the same time, White families have the ability to transfer wealth from one generation to another because our nation’s federal homeownership policies gave them a head start in wealth building.
+Reportedly, Comptroller Otting has agreed to meet with the Congressional Black Caucus. That meeting should be the beginning of several others to better attune Otting to the realities of being Black in America.
+“I hope he will work collaboratively with civil rights, housing, and consumer groups on any changes to the law to ensure he accounts for the harsh realities of discrimination that still plague the financial marketplace,” concluded Astrada.
+Charlene Crowell is the Communications Deputy Director with the Center for Responsible Lending. She can be reached at Charlene.crowell@responsiblelending.org.
+		Categories: Charlene Crowell | National | Opinion Tags: #lasentinel | Asian-Americans | banks | blacks | Charlene Crowell | Community Reinvestment Act | CRA | discrimination | Joseph Otting | Latinos | lending | Native Americans | opinion		
+						Maxine Waters’ Call for Resistance Attracts Criticism
+						Racial Divides Found in Student Loan Defaults
+						Family of Man Killed by Police File Civil Rights Lawsuit
+						Former NAACP president Jealous wins Dem gov nom in Maryland 
+						BCCLA Statement In Support of Congresswoman Maxine Waters
+						Our Children Are at Risk
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

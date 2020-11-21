@@ -1,0 +1,57 @@
+							body {overflow:auto;}
+							body #s4-workspace {overflow: visible;}			
+							html {overflow:auto;}
+	It looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.
+		HomeCurrently selectedAudits / EvaluationsInvestigationsCorrespondenceAudits InitiatedTestimonyAbout OIG
+			Inspector GeneralDeputy Inspector GeneralOrganizationOrganization ChartMission, Vision, and Core ValuesFAQs About OIG AuditsFAQs About OIG InvestigationsCareersContact Us
+										/* hide the left nav and titles for pages that don't override the left nav bar */			
+										#s4-leftpanel {
+											display: none;
+										}
+										.s4-ca {
+											margin-left:0px;
+										}
+										.oig_Body {
+											padding:20px 10px 10px 10px;
+											width: 1000px;
+										}
+		ListsLibraries
+			PagesOIG PublicationsSite PagesDocumentsImagesNewEmployees
+		Recent
+			SubmissionsStandardComplaintAnonymous ComplaintStateListConfidential Complaint
+		Home &gt; Other Links
+				 Other Links
+			Page ContentNote: The links in this section are not part of the Office of Inspector General website. About the Department of Commerce​ 
+Department of Commerce Strategic Plan
+Mission and Organization of the Department of Commerce 
+Department of Commerce No Fear Act 
+Other Links 
+Inspector General Act of 1978, as amended 
+U.S. Chief Information Officer and Federal CIO Council 
+U.S. Chief Financial Officers Council 
+				Oversight Areas
+					Office of the Secretary
+					Bureau of Economic Analysis
+					Bureau of Industry and Security
+					U.S. Census Bureau
+					Economic Development Administration
+					Economics and Statistics Administration
+					International Trade Administration
+					Minority Business Development Agency
+					National Oceanic and Atmospheric Administration
+					National Telecommunications and Information Administration
+					National Institute of Standards and Technology
+					National Technical Information Service
+					U.S. Patent and Trademark Office
+					home
+					U.S. Dept of Commerce
+					usa.gov
+					foia
+					info quality
+					privacy policy
+					disclaimer
+					plain language
+					FAR				
+					CIGIE
+					Other Links
+					Contact Webmaster

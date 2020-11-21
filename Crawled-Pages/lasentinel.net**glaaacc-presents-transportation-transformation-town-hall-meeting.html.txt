@@ -1,0 +1,319 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+GLAAACC Presents Transportation Transformation Town Hall Meeting            
+				By Sentinel News Service                
+	                	                Published October 25, 2018
+The multibillion-dollar transportation boom currently underway in Los Angeles will be the main economic driver for the local economy for next two decades. “Transportation Transformation: Delivering Business Opportunities and Community Value Town” was hosted by the Greater Los Angeles African American Chamber of Commerce and sponsored by Southern California Edison. The town hall-style meeting outlined the major transportation projects and how minority and small business owners can participate in this economic tsunami.
+“There is $80 billion worth of projects out there. We need to find out how to get involved with that,” said GLAAACC Chairman Gene Hale. “You don’t have to be a carpenter or an electrician. There’s consulting, architecture, engineering, just name it. But you do have to be in the right place at the right time.”
+        ADVERTISEMENT        
+Chamberlain Duru, Business Affairs Manager responsible for business, jobs and social responsibility at Los Angeles World Airports (LAWA), which includes Los Angeles International Airport (LAX), reviewed the agency’s $14 billion, 10-year capital improvement program. A major part of the program is the Landside Access Modernization Program (LAMP). LAMP is essentially a traffic mitigation project, taking congestion outside of the airport’s Central Terminal Area and providing another access point to enter the airport.
+Chaimberlain Duru (Courtesy photo)
+In-bound airport traffic will be shifted to an Automated People Mover (APM), a 2.25 mile-long elevated dual highway approximately 70 feet above ground along Century Boulevard. APM will have four trains running simultaneously. There will be six combined stops – three stations on the inside of the airport and three stations outside the airport.
+The $4.9-billion APM program is the largest contract in the history of the City of Los Angeles. APM is just one project for LAX. There are a total of six (6) LAMP projects, including the Consolidated Rent-a-Car Facility, Intermodal Transportation Facility West, roadway improvements, LAX Northside Plan and the Airport Metro Connector. The Airport Metro Connector will link the LAX/Crenshaw Line and the Green Line to the APM via Metro’s new 96th Street /Aviation Boulevard transit station.
+Duru emphasized LAWA’s commitment to inclusivity for minority and women-owned businesses.
+“Our approach to inclusivity starts with leadership and policy,” said Duru. “LAWA has a very aggressive inclusivity goal, roughly about 20%.” For the $4.9-billion APM project that translates into about $600 million in small business set aside packages.
+Metro Diversity and Economic Opportunity Department Executive Officer Miguel Cabral’s department administers Metro’s small business initiatives, the Disadvantaged Business Enterprise Program (DBE) and the Disadvantaged Veteran’s Business Enterprise. His department also administers a small business program that doesn’t take race and gender into account on non-federally funded projects (race neutral).
+Cabral spoke about Metro’s major projects and Metro’s many business enterprise programs.
+Miguel Cabral (Courtesy photo)
+Major opportunities for minority and women-owned businesses will become available as a result of Metro’s four design build projects and the Twenty-eight by ‘28 is, an initiative created by Mayor Eric Garcetti, a Metro board member, Metro Board Chairman Sheila Kuehl and Metro CEO Phil Washington. This initiative approved by the Metro Board of Directors in January mandates that Metro complete 28 major road, transit and bicycle projects before the 2028 Summer Olympics and Paralympics. Prior to this initiative, Metro had originally planned to spend $120 million on projects over the next 40 years and of those projects, only 17 projects were scheduled to be completed by 2028.
+Cabral explained that Metro is governed by the U.S. Department of Transportation, and any project funded with federal dollars must be race neutral, with no mandatory goals imposed on prime contractors to include work for disadvantaged business enterprises (DBE). However, contractors are required to make a “good faith effort” to include DBEs. Projects where federal dollars are not used can include mandatory DBE goals in the contract.
+Metro’s other small business programs include a new set aside pilot program for medium sized DBEs (MSC) which will be in effect in 2019, the Contracting Outreach and Mentoring Program (COMP), a mentor/protégé program imposed on some of Metro’s larger contracts and a new bond guarantee program.
+For information on how to become a certified DBE through Metro and for details on Metro’s small business programs, visit Metro.net/connect.
+		Categories: Local | Metro | News Tags: #lasentinel | Airport Metro Connector | APM | Automated People Mover | Chamberlain Duru | GLAAACC | Greater Los Angeles African American Chamber of Commerce | inclusivity | LAMP | Landside Access Modernization Program | LAWA | LAX | LAX/Crenshaw Line | Los Angeles International Airport | Los Angeles World Airports | Metro | Miguel Cabral		
+						Councilwoman Martinez Recognizes Three-Year Anniversary of the LAPD Operati...
+						Pimp Found Guilty of Human Trafficking of Minors
+						Congresswoman Waters Statement on Suspicious Package
+						Aging Autocrat Whips Opposition and Claims Victory in A Disputed Poll
+						Over 200,000 Congolese Driven Out of Angola in Anti-Smuggling Row
+						Namibia Agrees to ‘Land Deal’ with Russian Billionaire
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

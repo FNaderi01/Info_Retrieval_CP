@@ -1,0 +1,313 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Congressmember Bobby Scott and other Members Reintroduce Bipartisan Pregnant Workers Fairness Act to Protect Pregnant Workers From Workplace Discrimination            
+				By Sentinel News Wire                
+	                	                Published May 15, 2019
+		Congressman Bobby Scott
+WASHINGTON, DC – Representatives Jerrold Nadler (D-NY), John Katko (R-NY), Lucy McBath (D-GA), Jaime Herrera Beutler (R-WA), and Bobby Scott (D-VA) reintroduced the Pregnant Workers Fairness Act, legislation that would protect pregnant workers from workplace discrimination.
+The Pregnant Workers Fairness Act would address legal ambiguities and help ensure that pregnant women are treated fairly on the job. The legislation, which is closely modeled after the Americans with Disabilities Act (ADA), would require employers to make reasonable accommodations—such as a minor job modification—that would allow pregnant workers to continue working and prevent them from being forced out on leave or out of their jobs. The bill also prohibits employers from denying employment opportunities to women based on their need for reasonable accommodations related to pregnancy, childbirth, or related medical conditions.
+“As we celebrated Mother’s Day last weekend, it is imperative that we give all moms and moms-to-be the certainty that they can stay on the job no matter what,” said Congressman Nadler (NY-10). “No woman should have to choose between a healthy pregnancy and a paycheck, especially when often a simple fix – a bottle of water during a shift, an extra bathroom break, a chair – will allow women to stay on the job and support their families throughout their pregnancy. The PWFA creates an affirmative duty for employers to provide pregnant workers a reasonable accommodation, unless the accommodation imposes an undue hardship on the employer. We know exactly what this language means, employers know just what to expect, and, most importantly, pregnant workers know they will be protected.”
+        ADVERTISEMENT        
+“Under current law, women are not guaranteed reasonable accommodations to remain healthy and in the workforce during pregnancy,” said Congressman John Katko (NY-24). “This bipartisan effort puts in place a uniform, fair and familiar framework for employers and will enable women to keep working safely and provide for their families throughout pregnancy.”
+“No woman should be forced out of a job or denied employment opportunities simply because she is pregnant. As a working mom, I learned just how important it is to be protected from workplace discrimination, and to be given the ability to prioritize my health and the health of my child,” said Congresswoman Lucy McBath (GA-06). “My pregnancy with Jordan was high risk – I had to make difficult decisions to ensure my own health and safety, as well as the health and safety of my child. I am proud to support the Pregnant Workers Fairness Act – a bipartisan bill to protect pregnant workers and to ensure that employers provide necessary and reasonable accommodations to keep moms-to-be safe at work.”
+“Women make up almost half the workforce, yet continue to face unjust and unnecessary obstacles in the workplace, whether it is lack of paid family or sick leave, paycheck disparities, or pregnancy discrimination.  The Pregnant Workers Fairness Act would remove one of those hurdles by ensuring that pregnant women are treated fairly on the job. This legislation would require employers to make reasonable accommodations – such as minor job modifications – that would allow pregnant workers to continue working and prevent them from being forced to take leave or forced out of their job,” said Chairman Robert C. “Bobby” Scott (VA-03), Committee on Education and Labor.
+Sixty-two percent of pregnant women and new moms are in the labor force, yet under current law, pregnant workers can be placed on unpaid leave or forced out when they need a simple accommodation to stay on the job. Currently 25 states – most recently Kentucky and South Carolina – and five cities have adopted pregnancy accommodation laws with bipartisan support. But federal laws are leaving many women behind. A recent report by A Better Balance found that over in two-thirds of cases, courts allowed employers to deny pregnant workers a necessary accommodation. Passing PWFA would eliminate this confusion and ensure women can keep their jobs throughout their pregnancy.
+The legislation is supported by: 1,000 Days, A Better Balance, American Association of University Women (AAUW), American Civil Liberties Union (ACLU), American College of Obstetricians and Gynecologists, Equal Rights Advocates, The Leadership Conference on Civil and Human Rights, Legal Aid at Work, Legal Momentum, March of Dimes, MomsRising, National Asian Pacific American Women’s Forum, National Partnership for Women &amp; Families, National Women’s Law Center, Oxfam, Physicians for Reproductive Health, Religious Action Center of Reform Judaism
+		Categories: Daily Briefs | Health | National | News | Political Tags: 85 Years of LA Sentinel | Black News | Black Press | Bobby Scott | Congressional Black Caucus | Jaime Herrera Beutler (R-WA) | John Katko (R-NY) | Lucy McBath (D-GA) | Representatives Jerrold Nadler (D-NY)		
+						Get Fit with Thrive Fitness Lab
+						From Homeless to Manhattan School of Music, Pianist Elijah Stevens Shares I...
+						Rep. Maxine Waters Receives an Honorary Doctorate of Laws Degree from the U...
+						Members of Congress Introduce Bipartisan Legislation to Assist with Transit...
+						Gov. Says No More Tax on Diapers and Tampons, Period
+						YWCA Los Angeles Honors Phenomenal Women
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

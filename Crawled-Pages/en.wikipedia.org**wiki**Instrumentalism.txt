@@ -1,0 +1,411 @@
+	Instrumentalism
+		From Wikipedia, the free encyclopedia
+		Jump to navigation
+		Jump to search
+		Position in the philosophy of science
+In philosophy of science and in epistemology, instrumentalism is a methodological view that ideas are useful instruments, and that the worth of an idea is based on how effective it is in explaining and predicting phenomena.[1] 
+According to instrumentalists, a successful scientific theory reveals nothing known either true or false about nature's unobservable objects, properties or processes.[2] Scientific theory is merely a tool whereby humans predict observations in a particular domain of nature by formulating laws, which state or summarize regularities, while theories themselves do not reveal supposedly hidden aspects of nature that somehow explain these laws.[3]  Instrumentalism is a perspective originally introduced by Pierre Duhem in 1906.[3]
+Rejecting scientific realism's ambitions to uncover metaphysical truth about nature,[3] instrumentalism is usually categorized as an antirealism, although its mere lack of commitment to scientific theory's realism can be termed nonrealism.  Instrumentalism merely bypasses debate concerning whether, for example, a particle spoken about in particle physics is a discrete entity enjoying individual existence, or is an excitation mode of a region of a field, or is something else altogether.[4][5][6]  Instrumentalism holds that theoretical terms need only be useful to predict the phenomena, the observed outcomes.[4]
+There are multiple versions of instrumentalism. Instrumentalism is a variety of scientific anti-realism.
+Contents
+1 History
+1.1 British empiricism
+1.2 German idealism
+1.3 Logical empiricism
+1.4 Historical turn
+1.5 Karl Popper's scientific realism
+1.6 Constructive empiricism as a form of instrumentalism
+2 In the philosophy of mind
+3 Relation to pragmatism
+4 See also
+4.1 Notable proponents
+5 Notes
+6 Sources
+History[edit]
+British empiricism[edit]
+Main article: British empiricism
+Newton's theory of motion, whereby any object instantly interacts with all other objects across the universe, motivated the founder of British empiricism, John Locke, to speculate that matter is capable of thought.[7]  The next leading British empiricist, George Berkeley, argued that an object's putative primary qualities as recognized by scientists, such as shape, extension, and impenetrability, are inconceivable without the putative secondary qualities of color, hardness, warmth, and so on. He also posed the question how or why an object could be properly conceived to exist independently of any perception of it.[8]  Berkeley did not object to everyday talk about the reality of objects, but instead took issue with philosophers' talk, who spoke as if they knew something beyond sensory impressions that ordinary folk did not.[9]
+For Berkeley, a scientific theory does not state causes or explanations, but simply identifies perceived types of objects and traces their typical regularities.[9]  Berkeley thus anticipated the basis of what Auguste Comte in the 1830s called positivism,[9] although Comtean positivism added other principles concerning the scope, method, and uses of science that Berkeley would have disavowed.  Berkeley also noted the usefulness of a scientific theory having terms that merely serve to aid calculations without their having to refer to anything in particular, so long as they proved useful in practice.[9]  Berkeley thus predated the insight that logical positivists—who originated in the late 1920s, but who, by the 1950s, had softened into logical empiricists—would be compelled to accept: theoretical terms in science do not always translate into observational terms.[10]
+The last great British empiricist, David Hume, posed a number of challenges to Francis Bacon's inductivism, which had been the prevailing, or at least the professed view concerning the attainment of scientific knowledge.  Regarding himself as having placed his own theory of knowledge on par with Newton's theory of motion, Hume supposed that he had championed inductivism over scientific realism.  Upon reading Hume's work, Immanuel Kant was "awakened from dogmatic slumber", and thus sought to neutralise any threat to science posed by Humean empiricism.  Kant would develop the first stark philosophy of physics.[11]
+German idealism[edit]
+Main article: German idealism
+To save Newton's law of universal gravitation, Immanuel Kant reasoned that the mind is the precondition of experience and so, as the bridge from the noumena, which are how the world's things exist in themselves, to the phenomena, which are humans' recognized experiences.  And so mind itself contains the structure that determines space, time, and substance, how mind's own categorization of noumena renders space Euclidean, time constant, and objects' motions exhibiting the very determinism predicted by Newtonian physics.  Kant apparently presumed that the human mind, rather than a phenomenon itself that had evolved, had been predetermined and set forth upon the formation of humankind. In any event, the mind also was the veil of appearance that scientific methods could never lift.  And yet the mind could ponder itself and discover such truths, although not on a theoretical level, but only by means of ethics. Kant's metaphysics, then, transcendental idealism, secured science from doubt—in that it was a case of "synthetic a priori" knowledge ("universal, necessary and informative")—and yet discarded hope of scientific realism.  Meanwhile, it was a watershed for idealist metaphysics, and launched German idealism, most influentially Hegel's absolute idealism or objective idealism, or at least interpretations, often misinterpretations, and political misuses, of it.
+Logical empiricism[edit]
+Main article: Logical empiricism
+Since the mind has virtually no power to know anything beyond direct sensory experience, Ernst Mach's early version of logical positivism (empirio-criticism) verged on idealism.  It was alleged to even be a surreptitious solipsism, whereby all that exists is one's own mind.  Mach's positivism also strongly asserted the ultimate unity of the empirical sciences.  Mach's positivism asserted phenomenalism as to new basis of scientific theory, all scientific terms to refer to either actual or potential sensations, thus eliminating hypotheses while permitting such seemingly disparate scientific theories as physical and psychological to share terms and forms.  Phenomenalism was insuperably difficult to implement, yet heavily influenced a new generation of philosophers of science, who emerged in the 1920s while terming themselves logical positivists while pursuing a program termed verificationism.  Logical positivists aimed not to instruct or restrict scientists, but to enlighten and structure philosophical discourse to render scientific philosophy that would verify philosophical statements as well as scientific theories, and align all human knowledge into a scientific worldview, freeing humankind from so many of its problems due to confused or unclear language.
+The verificationists expected a strict gap between theory versus observation, mirrored by a theory's theoretical terms versus observable terms.  Believing a theory's posited unobservables to always correspond to observations, the verificationists viewed a scientific theory's theoretical terms, such as electron, as metaphorical or elliptical at observations, such as white streak in cloud chamber.  They believed that scientific terms lacked meanings unto themselves, but acquired meanings from the logical structure that was the entire theory that in turn matched patterns of experience.  So by translating theoretical terms into observational terms and then decoding the theory's mathematical/logical structure, one could check whether the statement indeed matched patterns of experience, and thereby verify the scientific theory false or true.  Such verification would be possible, as never before in science, since translation of theoretical terms into observational terms would make the scientific theory purely empirical, none metaphysical.  Yet the logical positivists ran into insuperable difficulties. Moritz Schlick debated with Otto Neurath over foundationalism—the traditional view traced to Descartes as founder of modern Western philosophy—whereupon only nonfoundationalism was found tenable.  Science, then, could not find a secure foundation of indubitable truth.
+And since science aims to reveal not private but public truths, verificationists switched from phenomenalism to physicalism, whereby scientific theory refers to objects observable in space and at least in principle already recognizable by physicists.  Finding strict empiricism untenable, verificationism underwent "liberalization of empiricism". Rudolf Carnap even suggested that empiricism's basis was pragmatic.  Recognizing that verification—proving a theory false or true—was unattainable, they discarded that demand and focused on confirmation theory.  Carnap sought simply to quantify a universal law's degree of confirmation—its probable truth—but, despite his great mathematical and logical skill, discovered equations never operable to yield over zero degree of confirmation. Carl Hempel found the paradox of confirmation.  By the 1950s, the verificationists had established philosophy of science as subdiscipline within academia's philosophy departments.  By 1962, verificationists had asked and endeavored to answer seemingly all the great questions about scientific theory.  Their discoveries showed that the idealized scientific worldview was naively mistaken.  By then the leader of the legendary venture, Hempel raised the white flag that signaled verificationism's demise.  Suddenly striking Western society, then, was Kuhn's landmark thesis, introduced by none other than Carnap, verificationism's greatest firebrand.  Instrumentalism exhibited by scientists often does not even discern unobservable from observable entities.[4]
+Historical turn[edit]
+Main article: Historical turn
+From the 1930s until Thomas Kuhn's 1962 The Structure of Scientific Revolutions, there were roughly two prevailing views about the nature of science.  The popular view was scientific realism, which usually involved a belief that science was progressively unveiling a truer view, and building a better understanding, of nature.  The professional approach was logical empiricism, wherein a scientific theory was held to be a logical structure whose terms all ultimately refer to some form of observation, while an objective process neutrally arbiters theory choice, compelling scientists to decide which scientific theory was superior.  Physicists knew better, but, busy developing the Standard Model, were so steeped in developing quantum field theory, that their talk, largely metaphorical, perhaps even metaphysical, was unintelligible to the public, while the steep mathematics warded off philosophers of physics.[5]  By the 1980s, physicists regarded not particles, but fields as the more fundamental, and no longer even hoped to discover what entities and processes might be truly fundamental to nature, perhaps not even the field.[5][6]  Kuhn had not claimed to have developed a novel thesis, but instead hoped to synthesize more usefully recent developments in the philosophy of science.
+In 1906, Duhem had introduced the problem of the underdetermination of theory by data, since any dataset could be consistent with several different explanations, how the success of any prediction does not, by affirming the consequent, a deductive fallacy, logically confirm the truth of the theory in question.  In the 1930s, Ludwik Fleck had explained the role of perspectivism (logology) in science whereby scientists are trained in thought collectives to adopt particular thought styles setting expectations for a proper scientific question, scientific experiment, and scientific data.  Scientists manipulate experimental conditions to obtain results that cohere with their own expectations—what the scientists presuppose is realistic—and as a result might be tempted to invoke the experimenter's regress in order to reject unexpected results. They would then redo these experiments under what were supposedly better and more conducive conditions.  By the 1960s, physicists recognized two, differing roles of physical theory, formalism and interpretation. Formalism involved mathematical equations and axioms that, upon input of physical data, yielded certain predictions.  Interpretation sought to explain why they succeeded. 
+Widely read, Kuhn's 1962 thesis seemed to shatter logical empiricism, whose paradigmatic science was physics and which championed instrumentalism.  Yet scientific realists, who were far more tenacious, responded by attacking Kuhn's thesis, perennially depicted thereafter as either illuminated or infamous.  Kuhn later indicated that his thesis had been so widely misunderstood that he himself was not a Kuhnian.  With logical empiricism's demise, Karl Popper's falsificationism was in the ascendancy, and Popper was knighted in 1965. Yet in 1961, the molecular biology research program had made its first major empirical breakthrough in cracking the genetic code. By the 1970s, molecular genetics' research tools could also be used for genetic engineering.  In 1975, philosopher of science Hilary Putnam famously resurrected scientific realism with his no miracles argument, whereby the best scientific theories' predictive successes would appear miraculous if those theories were not at least approximately true about reality as it exists in and of itself beyond human perception.  Antirealist arguments were formulated in response.
+Karl Popper's scientific realism[edit]
+Main article: Scientific realism
+By rejecting all variants of positivism via its focus on sensations rather than realism, Karl Popper asserted his commitment to scientific realism, merely via the necessary uncertainty of his own falsificationism. Popper alleged that instrumentalism reduces basic science to what is merely applied science.[12] In his book "The fabric of reality", the British physicist David Deutsch followed Popper's critique of instrumentalism and argued that a scientific theory stripped of its explanatory content would be of strictly limited utility.[13]
+Constructive empiricism as a form of instrumentalism[edit]
+Main article: Constructive empiricism
+Bas van Fraassen's (1980)[14] project of constructive empiricism focuses on belief in the domain of the observable, so for this reason it is described as a form of instrumentalism.[15]
+In the philosophy of mind[edit]
+In the philosophy of mind, Instrumentalism is the view that propositional attitudes like beliefs are not actually concepts on which we can base scientific investigations of mind and brain, but that acting as if other beings have beliefs is a successful strategy.[1]
+Relation to pragmatism[edit]
+Instrumentalism is closely related to pragmatism, the position that practical consequences is an essential basis for determining meaning, truth or value.[1]
+See also[edit]
+Instrumental and value rationality
+Instrumental and intrinsic value
+Natural kind
+Fact–value distinction
+Inductive reasoning
+Notable proponents[edit]
+John Dewey[16] (American pragmatist)
+Richard Rorty[16]
+Notes[edit]
+^ a b c "Instrumentalism - By Branch / Doctrine - The Basics of Philosophy". www.philosophybasics.com. Retrieved August 13, 2019..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}
+^ *Anjan Chakravartty, Chakravartty, Anjan (April 27, 2011). "Scientific Realism". Retrieved August 13, 2019 – via plato.stanford.edu. Cite journal requires |journal= (help), §4 "Antirealism: Foils for scientific realism: §4.1: "Empiricism", in Edward N. Zalta, ed, The Stanford Encyclopedia of Philosophy, Summer 2013 edn: "Traditionally, instrumentalists maintain that terms for unobservables, by themselves, have no meaning; construed literally, statements involving them are not even candidates for truth or falsity.  The most influential advocates of instrumentalism were the logical empiricists (or logical positivists), including Carnap and Hempel, famously associated with the Vienna Circle group of philosophers and scientists as well as important contributors elsewhere.  In order to rationalize the ubiquitous use of terms which might otherwise be taken to refer to unobservables in scientific discourse, they adopted a non-literal semantics according to which these terms acquire meaning by being associated with terms for observables (for example, 'electron' might mean 'white streak in a cloud chamber'), or with demonstrable laboratory procedures (a view called 'operationalism').  Insuperable difficulties with this semantics led ultimately (in large measure) to the demise of logical empiricism and the growth of realism.  The contrast here is not merely in semantics and epistemology: a number of logical empiricists also held the neo-Kantian view that ontological questions 'external' to the frameworks for knowledge represented by theories are also meaningless (the choice of a framework is made solely on pragmatic grounds), thereby rejecting the metaphysical dimension of realism (as in Carnap 1950)".
+Samir Okasha, Philosophy of Science: A Very Short Introduction (New York: Oxford University Press, 2002), p. 62: "Strictly we should distinguish two sorts of anti-realism.  According to the first sort, talk of unobservable entities is not to be understood literally at all.  So when a scientist pus forward a theory about electrons, for example, we should not take him to be asserting the existence of entities called 'electrons'.  Rather, his talk of electrons is metaphorical.  This form of anti-realism was popular in the first half of the 20th century, but few people advocate it today.  It was motivated largely by a doctrine in the philosophy of language, according to which it is not possible to make meaningful assertions about things that cannot in principle be observed, a doctrine that few contemporary philosophers accept.  The second sort of anti-realism accepts that talk of unobservable entities should be taken at face value: if a theory says that electrons are negatively charged, it is true if electrons do exist and are negatively charged, but false otherwise.  But we will never know which, says the anti-realist.  So the correct attitude towards the claims that scientists make about unobservable reality is one of total agnosticism.  They are either true or false, but we are incapable of finding out which.  Most modern anti-realism is of this second sort".
+^ a b c Roberto Torretti, The Philosophy of Physics (Cambridge: Cambridge University Press, 1999), pp. 242–43: "Like Whewell and Mach, Duhem was a practicing scientist who devoted an important part of his adult life to the history and philosophy of physics.  ...  His philosophy is contained in La théorie physique: son objet, sa structure [The Aim and Structure of Physical Theory] (1906), which may well be, to this day, the best overall book on the subject.  Its main theses, although quite novel when first put forward, have in the meantime become commonplace, so I shall review them summarily without detailed argument, just to associate them with his name.  But first I ought to say that neither in the first nor in the second (1914) edition of his book did Duhem take into account—or even so much as mention—the deep changes that were then taking place in physics.  Still, the subsequent success and current entrenchment of Duhem's ideas are due above all to their remarkable agreement with—and the light they throw on—the practice of mathematical physics in the twentieth century.  In the first part of La théorie physique, Duhem contrasts two opinions concerning the aim of physical theory.  For some authors, it ought to furnish 'the explanation of a set of experimentally established laws', while for others it is 'an abstract system whose aim is to summarize and logically classify a set of experimental laws, without pretending to explain these laws' (Duhem 1914, p. 3).  Duhem resolutely sides with the latter.  His rejection of the former rests on his understanding of 'explanation' ('explication' in French), which he expresses as follows: 'To explain, explicare, is to divest reality from the appearances which enfold it like veils, in order to see the reality face to face' (pp 3–4).  Authors in the first group expect from physics the true vision of things-in-themselves that religious myth and philosophical speculation have hitherto been unable to supply.  Their explanation makes no sense unless (i) there is, 'beneath the sense appearances revealed to us by our perceptions, [...] a reality different from these appearances' and (ii) we know 'the nature of the elements which constitute' that reality (p 7).  Thus, physical theory cannot explain—in the stated sense—the laws established by experiment unless it depends on metaphysics and thus remains subject to the interminable disputes of metaphysicians.  Worse still, the teachings of no metaphysical school are sufficiently detailed and precise to account for all of the elements of physical theory (p 18).  Duhem instead assigns to physical theories a more modest but autonomous and readily attainable aim: 'A physical theory is not an explanation.  It is a system of mathematical propositions, derived from a small number of principles, whose purpose is to represent a set of experimental laws as simply, as completely, and as exactly as possible (Duhem 1914, p. 24)".
+^ a b c P Kyle Stanford, Exceeding Our Grasp: Science, History, and the Problem of Unconceived Alternatives (New York: Oxford University Press, 2006), p. 198.
+^ a b c Roberto Torretti, The Philosophy of Physics (Cambridge: Cambridge University Press, 1999), pp. 396–97, including quote: "First, quantum field theories have been the working theories at the frontline of physics for over 30 years.  Second, these theories appear to do away with the familiar conception of physical systems as aggregates of substantive individual particles.  This conception was already undermined by Bose–Einstein and Fermi–Dirac statistics (§6.1.4), according to which the so-called particles cannot be assigned a definite trajectory in ordinary space.  But quantum field theories go a long step further and—or so it would seem—conceive 'particles' as excitation modes of the field.  This, I presume, motivated Howard Stein's saying that 'the quantum theory of fields is the contemporary locus of metaphysical research' (1970, p. 285).  Finally, the very fact that physicists conspicuously and fruitfully resort to unperspicacious theories can teach us something about the aim and reach of science.  Here is how physicists work, dirty-handed, in their everyday practice, a far cry from what is taught at the Sunday school of the 'scientific worldview' ".
+^ a b Meinard Kuhlmann, "Physicists debate whether the world is made of particles or fields—or something else entirely, Scientific American, 2013 Aug;309(2).
+^ Torretti 1999 p. 75.
+^ Torretti 1999 p. 101–02.
+^ a b c d Torretti 1999 p. 102.
+^ Torretti 1999 p. 103.
+^ Torretti 1999 p. 98: "I shall dwell at some length on Kant's conception of the sources and scope of Newton's conceptual frame, for it was the first full-blown philosophy of physics and remains to this day the most significant".
+^ Karl R Popper, Conjectures and Refutations: The Growth of Scientific Knowledge (London: Routledge, 2003 [1963]), ISBN 0-415-28594-1, quote: "Instrumentalism can be formulated as the thesis that scientific theories—the theories of the so-called 'pure' sciences—are nothing but computational rules (or inference rules); of the same character, fundamentally, as the computation rules of the so-called 'applied' sciences. (One might even formulate it as the thesis that "pure" science is a misnomer, and that all science is 'applied'.)  Now my reply to instrumentalism consists in showing that there are profound differences between "pure" theories and technological computation rules, and that instrumentalism can give a perfect description of these rules but is quite unable to account for the difference between them and the theories".
+^ Deutsch, David, 1953- (1997). The fabric of reality : the science of parallel universes-- and its implications (First American ed.). New York, New York. ISBN 0-7139-9061-9. OCLC 36393434.CS1 maint: multiple names: authors list (link)
+^ van Fraassen, Bas C., 1980, The Scientific Image, Oxford: Oxford University Press.
+^ Chakravartty, Anjan (August 13, 2017).  Zalta, Edward N. (ed.). The Stanford Encyclopedia of Philosophy. Metaphysics Research Lab, Stanford University. Retrieved August 13, 2019 – via Stanford Encyclopedia of Philosophy.
+^ a b Gouinlock, James, "What is the Legacy of Instrumentalism? Rorty's Interpretation of Dewey." In Herman J. Saatkamp, ed., Rorty and Pragmatism. Nashville, TN: Vanderbilt University Press, 1995.
+Sources[edit]
+Torretti, Roberto, The Philosophy of Physics (Cambridge: Cambridge University Press, 1999), Berkeley, pp. 98, 101–4.
+vtePhilosophy of scienceConcepts
+Analysis
+Analytic–synthetic distinction
+A priori and a posteriori
+Causality
+Commensurability
+Consilience
+Construct
+Creative synthesis
+Demarcation problem
+Empirical evidence
+Explanatory power
+Fact
+Falsifiability
+Feminist method
+Functional contextualism
+Ignoramus et ignorabimus
+Inductive reasoning
+Intertheoretic reduction
+Inquiry
+Nature
+Objectivity
+Observation
+Paradigm
+Problem of induction
+Scientific law
+Scientific method
+Scientific revolution
+Scientific theory
+Testability
+Theory choice
+Theory-ladenness
+Underdetermination
+Unity of science
+Metatheoryof science
+Coherentism
+Confirmation holism
+Constructive empiricism
+Constructive realism
+Constructivist epistemology
+Contextualism
+Conventionalism
+Deductive-nomological model
+Hypothetico-deductive model
+Inductionism
+Epistemological anarchism
+Evolutionism
+Fallibilism
+Foundationalism
+Instrumentalism
+Pragmatism
+Model-dependent realism
+Naturalism
+Physicalism
+Positivism / Reductionism / Determinism
+Rationalism / Empiricism
+Received view / Semantic view of theories
+Scientific realism / Anti-realism
+Scientific essentialism
+Scientific formalism
+Scientific skepticism
+Scientism
+Structuralism
+Uniformitarianism
+Vitalism
+Philosophy of
+Physics
+thermal and statistical
+Motion
+Chemistry
+Biology
+Geography
+Social science
+Technology
+Engineering
+Artificial intelligence
+Computer science
+Information
+Mind
+Psychiatry
+Psychology
+Perception
+Space and time
+Related topics
+Alchemy
+Criticism of science
+Descriptive science
+Epistemology
+Faith and rationality
+Hard and soft science
+History and philosophy of science
+History of science
+History of evolutionary thought
+Logic
+Metaphysics
+Normative science
+Pseudoscience
+Relationship between religion and science
+Rhetoric of science
+Science studies
+Sociology of scientific knowledge
+Sociology of scientific ignorance
+Philosophers of science by eraAncient
+Plato
+Aristotle
+Stoicism
+Epicureans
+Medieval
+Averroes
+Avicenna
+Roger Bacon
+William of Ockham
+Hugh of Saint Victor
+Dominicus Gundissalinus
+Robert Kilwardby
+Early modern
+Francis Bacon
+Thomas Hobbes
+René Descartes
+Galileo Galilei
+Pierre Gassendi
+Isaac Newton
+David Hume
+Late modern
+Immanuel Kant
+Friedrich Schelling
+William Whewell
+Auguste Comte
+John Stuart Mill
+Herbert Spencer
+Wilhelm Wundt
+Charles Sanders Peirce
+Wilhelm Windelband
+Henri Poincaré
+Pierre Duhem
+Rudolf Steiner
+Karl Pearson
+Contemporary
+Alfred North Whitehead
+Bertrand Russell
+Albert Einstein
+Otto Neurath
+C. D. Broad
+Michael Polanyi
+Hans Reichenbach
+Rudolf Carnap
+Karl Popper
+Carl Gustav Hempel
+W. V. O. Quine
+Thomas Kuhn
+Imre Lakatos
+Paul Feyerabend
+Jürgen Habermas
+Ian Hacking
+Bas van Fraassen
+Larry Laudan
+Daniel Dennett
+Category
+ Philosophy portal
+ Science portal
+vtePositivismPerspectives
+Antihumanism
+Empiricism
+Rationalism
+Scientism
+Declinations
+Legal positivism
+Logical positivism / analytic philosophy
+Positivist school
+Postpositivism
+Sociological positivism
+Machian positivism (empirio-criticism)
+Rankean historical positivism
+Polish positivism
+Russian Machism
+Principal concepts
+Consilience
+Demarcation
+Evidence
+Induction
+Justification
+Pseudoscience
+Critique of metaphysics
+Unity of science
+Verificationism
+Antitheses
+Antipositivism
+Confirmation holism
+Critical theory
+Falsifiability
+Geisteswissenschaft
+Hermeneutics
+Historicism
+Historism
+Human science
+Humanities
+Methodological dualism
+Problem of induction
+Reflectivism
+Related paradigm shiftsin the history of science
+Non-Euclidean geometry (1830s)
+Uncertainty principle (1927)
+Related topics
+Behavioralism
+Post-behavioralism
+Critical rationalism
+Criticism of science
+Epistemology
+anarchism
+idealism
+nihilism
+pluralism
+realism
+Holism
+Instrumentalism
+Modernism
+Naturalism in literature
+Nomothetic–idiographic distinction
+Objectivity in science
+Operationalism
+Phenomenalism
+Philosophy of science
+Deductive-nomological model
+Ramsey sentence
+Sense-data theory
+Qualitative research
+Relationship between religion and science
+Sociology
+Social science
+Philosophy
+Structural functionalism
+Structuralism
+Structuration theory
+Positivist-related debateMethod
+Methodenstreit (1890s)
+Werturteilsstreit (1909–1959)
+Positivismusstreit (1960s)
+Fourth Great Debate in international relations (1980s)
+Science wars (1990s)
+Contributions
+The Course in Positive Philosophy (1830)
+A General View of Positivism (1848)
+Critical History of Philosophy (1869)
+Idealism and Positivism (1879–1884)
+The Analysis of Sensations (1886)
+The Logic of Modern Physics (1927)
+Language, Truth, and Logic (1936)
+The Two Cultures (1959)
+The Universe in a Nutshell (2001)
+Proponents
+Richard Avenarius
+A. J. Ayer
+Alexander Bogdanov
+Auguste Comte
+Eugen Dühring
+Émile Durkheim
+Ernst Laas
+Ernst Mach
+Berlin Circle
+Vienna Circle
+Criticism
+Materialism and Empirio-criticism (1909)
+History and Class Consciousness (1923)
+The Logic of Scientific Discovery (1934)
+The Poverty of Historicism (1936)
+World Hypotheses (1942)
+Two Dogmas of Empiricism (1951)
+Truth and Method (1960)
+The Structure of Scientific Revolutions (1962)
+Conjectures and Refutations (1963)
+One-Dimensional Man (1964)
+Knowledge and Human Interests (1968)
+The Poverty of Theory (1978)
+The Scientific Image (1980)
+The Rhetoric of Economics (1986)
+Critics
+Theodor W. Adorno
+Gaston Bachelard
+Mario Bunge
+Wilhelm Dilthey
+Paul Feyerabend
+Hans-Georg Gadamer
+Thomas Kuhn
+György Lukács
+Karl Popper
+Willard Van Orman Quine
+Max Weber
+Concepts in contention
+Knowledge
+Objectivity
+Phronesis
+Truth
+Verstehen
+Category
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Instrumentalism&amp;oldid=978419903"
+		Categories: Concepts in epistemologyConcepts in metaphysicsConcepts in the philosophy of mindConcepts in the philosophy of scienceEmpiricismEpistemological theoriesEpistemology of scienceHistory of ideasHistory of philosophyHistory of scienceJohn DeweyMetaphysical theoriesMetaphysicsMetaphysics of mindMetatheory of scienceMindPhilosophical analogiesPhilosophical problemsPhilosophical theoriesPhilosophy of mindPhilosophy of sciencePositivismPragmatismQualiaRationalismReasoningTheory of mindHidden categories: CS1 errors: missing periodicalCS1 maint: multiple names: authors listArticles with short descriptionShort description matches WikidataArticles containing German-language text
+	Navigation menu
+		Personal tools
+		Not logged inTalkContributionsCreate accountLog in
+		Namespaces
+		ArticleTalk
+		Variants
+		Views
+		ReadEditView history
+		More
+		Search
+		Navigation
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		Contribute
+		HelpLearn to editCommunity portalRecent changesUpload file
+		Tools
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		Print/export
+		Download as PDFPrintable version
+		In other projects
+		Wikiquote
+		Languages
+		العربيةCatalàЧӑвашлаDanskDeutschEestiΕλληνικάEspañolEuskaraفارسیFrançais한국어Հայերենहिन्दीIdoעבריתҚазақшаNederlands日本語Norsk bokmålNorsk nynorskPolskiPortuguêsРусскийSlovenčinaСрпски / srpskiSuomiSvenskaTürkçeУкраїнська中文
+		Edit links
+		 This page was last edited on 14 September 2020, at 20:18 (UTC).
+		Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+		Privacy policy
+		About Wikipedia
+		Disclaimers
+		Contact Wikipedia
+		Mobile view
+		Developers
+		Statistics
+		Cookie statement

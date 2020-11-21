@@ -1,0 +1,150 @@
+×
+Log inSign up
+ProjectsProjectsNewsContestsEventsVideosWorkshopsLaunch
+×Embed the widget on your own siteAdd the following snippet to your HTML:Making the Google Assistant more accessible by using buttons and RFID tags to trigger commands.Read up about this project on DIVA - DIVersely Assisted3 members8 3,238 OverviewThingsStoryOverviewSolution1. Prerequisites2. Hardware Components3. Script4. Run the scriptConclusionCodeCreditsComments(8)Lorenzo Caggioni, Paolo Pigozzo, Davide FerraroPublished May  8, 2019 © Apache-2.0DIVA - DIVersely AssistedMaking the Google Assistant more accessible by using buttons and RFID tags to trigger commands.IntermediateFull instructions provided1.5 hours3,238Things used in this project Hardware componentsGoogle AIY Voice×1RFID reader (generic)×1Story OverviewThe Google Assistant is powerful and can help users in many ways. The most common ways to interact with the Google Assistant are through speech and text; however, not all users are able to interact with the Google Assistant using their voice or typing. Voice and text are also not the best ways to communicate with the Google Assistant in all scenarios.To help in those situations, we created a device that lets users trigger commands to the Google Assistant pressing a button or using RFID/NFC tags that can be attached to physical objects. To create the device, we leveraged a Google AIY Voice Kit and had some fun hacking the solution. Learn more about the idea behind the DIVA project in our publication. At the moment this approach is letting Giovanni, brother of one of us, affected by Down Syndrome, almost blind and not able to speak, gain autonomy on starting entertainment content on his TV and speakers. We hope it can also be used to help other people with disabilities to gain autonomy on their daily tasks.SolutionThe idea is to create a device that:Waits for the button to be pressed or an  RFID tag to be tappedRetrieves the command associated with the button or with the specific RFID tagSend the command to the Google Assistant Reproduces the answer provided by the Assistant1. PrerequisitesHave a working Google AIY Voice kit connected to the Internet. Follow the Google AIY Voice kit instructions till the end, when you run the Demo.Please double check your Google AIY Voice kit is able to run the following script: ~/AIY-projects-python/src/examples/voice/assistant_grpc_demo.py
+This is the script that will create the following configuration files that we will use in the script:~/.cache/voice-recognizer/assistant_credentials.json
+~/.cache/voice-recognizer/device_id.json
+If you can’t run the assistant_grpc_demo.py script or you can’t see the 2 files listed above, please check you completed all steps in the instructions.  2. Hardware ComponentsThe project requires  few hardware elements:Google AIY Voice KitUSB RFID readerRFID tagsand it is easy to assemble. Just connect the RFID reader reader to the Google AIY Voice Kit via the Raspberry Pi 3’s USB port. When it detects an RFID tag, the RFID reader will send the TAG ID to the kit as a string of text, just like a keyboard. DIVA device hardware setup
+3. ScriptNext, we’ll create a script that:Initializes and starts the AssistantAccepts text input as a command for the Assistant (the USB RFID reader sends TAG IDs to the Pi as if they were typed by a USB keyboard)Checks if the text is associated with a command configured in the scriptSends the command to the Google Assistant SDK instanceReproduces the answer provided by the Google Assistant SDK instance on the speaker of the device. Start by opening a new script called 'diva.py’ using your preferred text editor, for example nano: pi@raspberrypi:~ $ nano diva.py
+Copy and paste the script attached 'diva.py' into your file. Then configure the COMMANDS object as a mapping between the ID of the RFID TAG(s) you are planning to use and the corresponding text command you want to send to the Assistant. To test the script you may try commands like :What is the weather like?Tell me a joke, pleasePlay YouTube video on my TV4. Run the scriptFrom the terminal, we can make the script executable:pi@raspberrypi:~ $ chmod +x diva.py 
+And execute the script:pi@raspberrypi:~ $ ./diva.py
+device_model_id: DEVICE_MODEL_ID
+device_id: DEVICE_ID
+Say "OK, Google" then speak, write a command, press the button or tap a card.
+Press Ctrl+C to quit...
+Feel free to create RFID tags to play your favorite music, control your light, or check your room temperature:DIVA device working with RFID cards
+Once you have your tags configured, you can attach them to plushes to start your favorite cartoons, or to your CDs cases to create your own music jukebox.ConclusionThis project was a fun experience and we created something useful for at least one person with disability. We hope you will enjoy this project and that it may help other people with disabilities.We’d like to continue to iterate on this, and we see several options to improve this project.Some ideas are:Use Actions on Google to configure mapping between TAG IDs and commandRelay on Firebase DB to store configuration informationWe would appreciate any feedback or suggestions on what to prioritize, please leave a comment below.Read moreCode diva.pydiva.pyPython#!/usr/bin/env python3
+# Copyright 2017 Google Inc.
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+import argparse
+import json
+import logging
+import os
+import pathlib2 as pathlib
+import platform
+import sys
+import subprocess
+import threading
+import google.oauth2.credentials
+from aiy.board import Board, Led
+from google.assistant.library import Assistant
+from google.assistant.library.event import EventType
+from google.assistant.library.file_helpers import existing_file
+from google.assistant.library.device_helpers import register_device
+logging.basicConfig(
+   level=logging.INFO,
+   format="[%(asctime)s] %(levelname)s:%(name)s:%(message)s"
+)
+COMMANDS = {}
+# Configure here the command you want to associate to the button
+COMMANDS['BUTTON'] = "Tell me a joke"
+# Configure here the RFID TAG ID with the associated command
+COMMANDS['TAG_ID_1'] = "Play YouTube videos on my Chromecast"
+COMMANDS['TAG_ID_2'] = "Play Pop Music from Google Play Music on my Chromecast"
+class DivaAssistant(object):
+ def __init__(self, credentials_file, device_config):
+   self._assistant = None
+   self._board = Board()
+   self._device_config = device_config
+   self._can_start_conversation = False
+   self._credentials_file = credentials_file
+   self._task = threading.Thread(target=self._run_task)
+ def start(self):
+   """Starts the Assistant event loop and begin processing events."""
+   self._board.button.when_pressed = self._on_button_pressed
+   self._task.daemon = True
+   self._task.start()
+ def _on_button_pressed(self):
+   query = COMMANDS.get('BUTTON', 'Repeat after me, Not configured')
+   self.send_text(query)
+ def _run_task(self):
+   """Starts the Assistant.
+   Retrieve Credentials, Device Configuration and start the assistant.
+   """
+   with open(self._credentials_file, 'r') as f:
+     self._credentials = google.oauth2.credentials.Credentials(token=None,
+                                                               **json.load(f))
+   with open(self._device_config, 'r') as f:
+     id_data = json.load(f)
+     self._device_id = id_data["device_id"]
+     self._device_model_id = id_data["model_id"]
+   with Assistant(self._credentials, self._device_model_id) as assistant:
+     self._assistant = assistant
+     print('device_model_id:', self._device_model_id + '\n' +
+           'device_id:', self._device_id + '\n')
+     for event in assistant.start():
+       self._process_event(event)
+ def _process_event(self, event):
+   """Process the event from the Assistant."""
+   if event.type == EventType.ON_START_FINISHED:
+     self._can_start_conversation = True
+     self._board.led.status = Led.BEACON_DARK  # Ready.
+     if sys.stdout.isatty():
+       print('Say "OK, Google" then speak, write a command, press the button or tap a card. '
+             'Press Ctrl+C to quit...')
+   elif event.type == EventType.ON_CONVERSATION_TURN_STARTED:
+     self._can_start_conversation = False
+     self._board.led.state = Led.ON  # Listening.
+   elif event.type == EventType.ON_END_OF_UTTERANCE:
+     self._board.led.state = Led.PULSE_QUICK  # Thinking.
+   elif (event.type == EventType.ON_CONVERSATION_TURN_FINISHED
+         or event.type == EventType.ON_CONVERSATION_TURN_TIMEOUT
+         or event.type == EventType.ON_NO_RESPONSE):
+     self._board.led.state = Led.BEACON_DARK  # Ready.
+     self._can_start_conversation = True
+   elif event.type == EventType.ON_ASSISTANT_ERROR and event.args and event.args['is_fatal']:
+     sys.exit(1)
+ def send_text(self, message):
+   """Send text massage to the Assistant."""
+   if self._can_start_conversation:
+     print('Sending to the Assistant message: %s' % message)
+     self._assistant.send_text_query(message)
+def main():
+ parser = argparse.ArgumentParser(
+     formatter_class=argparse.RawTextHelpFormatter)
+ parser.add_argument('--credentials', type=existing_file,
+                     metavar='OAUTH2_CREDENTIALS_FILE',
+                     default=os.path.join(
+                         os.path.expanduser('~/.cache'),
+                         'voice-recognizer',
+                         'assistant_credentials.json'
+                     ),
+                     help='Path to store and read OAuth2 credentials')
+ parser.add_argument('--device_config', type=existing_file,
+                     metavar='DEVICE_CONFIG',
+                     default=os.path.join(
+                         os.path.expanduser('~/.cache'),
+                         'voice-recognizer',
+                         'device_id.json'),
+                     help='The file containing device model ID registered')
+ args = parser.parse_args()
+ # initialize and start the Assistant
+ assistant = DivaAssistant(args.credentials, args.device_config)
+ assistant.start()
+ # accept keyboard inputs
+ while True:
+   # wait for keyboard input
+   message = input()
+   # check if the message is registered as command in
+   # the COMMAND variable
+   message = COMMANDS.get(message, message)
+   # send message to the Assistant
+   assistant.send_text(message)
+if __name__ == '__main__':
+ main()
+CreditsLorenzo Caggioni 1 project • 3 followersFollow
+ContactContactPaolo Pigozzo 1 project • 2 followersFollow
+ContactContactDavide Ferraro 0 projects • 1 followerFollow
+ContactContactThanks to Egil Hogholt, Teresa Pato, and Thomas Riga.Comments 
+Related channels and tagsgoogle assistantgoogle assistant sdkMore cool stuffCommunity membersOther community hubsVisit our Avnet familyAvnetElement14NewarkLegal thingiesTerms of ServiceCode of ConductPrivacy PolicyPrivacy Policy for California ResidentsCookie PolicyAbout usHackster's storyHackster for BusinessSupport CenterBrand ResourcesSitemapWe're fairly social peopleFacebookInstagramLinkedInTwitterYouTubeHackster.io, an Avnet Community © 2020

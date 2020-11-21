@@ -1,0 +1,326 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Purple Reign: Kobe’s Career with the Lakers            
+				By Amanda Scurlock, Contributing Writer                
+	                	                Published December 2, 2015
+		Kobe Bryant. (courtesy photo)
+After 20 years, 17 All-Star nominations, 5 Championships, and 2 Olympic gold medals, the 2007-08 NBA season MVP Kobe Bryant announced his retirement on Sunday via a poem published in The Players Tribune.
+“You gave a six-year-old boy his Laker dream/And I’ll always love you for it,” Bryant stated in a poem titled “Dear Basketball.”
+Several NBA players voiced their reaction to the news on social media. Oklahoma City Thunder small forward Kevin Durant expressed his distaste of how the media has criticized the Lakers small forward during his 20th season, according to SB Nation.
+        ADVERTISEMENT        
+“I did idolize Kobe Bryant. I studied him, wanted to be like him,” Durant said to reporters after a team practice on Monday. “He’s a legend and all I hear is about how bad he’s playing.”
+Former teammate Pau Gasol posted a collage of him and Bryant on Instagram with the hashtag #ThankYouKobe.
+“One of the greatest,” Gasol said Monday prior to the Chicago Bulls game against the San Antonio Spurs. “Where would he rank? That’s very subjective. But he’s definitely at the top, for what he’s accomplished with the teams and how long he’s played.”
+Gasol was a key factor in the Lakers most recent back-to-back championships. The Spanish center is one of four teammates that Bryant considers a friend, according to Bleacher Report.
+NBA’s Los Angeles Lakers Kobe Bryant embraces South Korean students in his basketball clinic for youth in Seoul, South Korea, Thursday, July 14, 2011. Bryant is in Seoul during his five-Asian cities tour. (AP Photo/Lee Jin-man)
+At the age of 17, Bryant was the 13th overall Draft Pick in 1996. The Charlotte Hornets selected the Philadelphia native, but the Los Angeles Lakers acquired Bryant in a trade. He was the first player in Los Angeles Franchise history to be elected into the NBA right out of high school.
+Bryant would win the Slam Dunk Contest and play each of the nine playoffs games the Lakers competed in during his rookie year, according to the NBA. By his sophomore season, Bryant became a Western Conference all-star.
+The Lakers made 15 playoffs appearances during Kobe’s tenure, going to the playoffs eight consecutive times from 1996-2004.
+Bryant assisted in maintaining the Lakers winning legacy by clinching three consecutive NBA championships in the early 2000’s with former teammates Shaquille O’Neal, Derek Fisher, and Brian Shaw.
+In 2000, they met the Indiana Pacers in the finals and beat them in six games. Bryant averaged 21.1 points during his first Championship postseason, according to ESPN.
+In the 2001 playoffs, the Lakers only lost once, sweeping the Portland Trailblazers, Sacramento Kings and the San Antonio Spurs. Bryant earned 48 points and 16 rebounds in a Western Conference Semi-Finals game against the Kings. They beat the Philadelphia 76ers in five games.
+The Lakers would meet the same Western teams in the 2002 Playoffs, but fought against the then New Jersey Nets for the NBA title. After a four-game sweep, the Lakers earned another Championship. Bryant averaged 26.6 points, 5.8 rebounds and 4.6 assists during the postseason.
+In 2008, Top seeded Boston Celtics faced the LA Lakers in the NBA Finals. This was the first time the Lakers were Western Conference Champions since 2004. Los Angeles would manage two wins, but lost to the Celtics in 6 games. The Lakers were 57-25 in overall games and Bryant averaged 28.3 points per game that season.
+The next season, the Lakers would go on a 65-17 overall in-season run and returned to the Finals against the Orlando Magic. Bryant scored his NBA Finals career high of 40 points during that series. In five games, the team brought Los Angeles another championship for the first time in six years. Bryant earned NBA Finals MVP honors.
+The 2009-10 campaign, the Lakers were 57-25 overall and entered the playoffs again. Bryant scored over 40 points in a game eight times during the season. The team came in first in the Pacific Division for the third year in a row. They swept the Utah Jazz in the second round and met the Boston Celtics again in the Finals. The Lakers won the seven-game series, Bryant earning Finals MVP honors again.
+A noteworthy moment in Bryant’s career was in January 2006 when he scored 81 points in a 122-104 victory over the Toronto Raptors. That was the second highest individual score in NBA history, according to ESPN.
+Bryant was 28 of 46 in field goals, 7 of 13 in 3-point shots and 18 of 20 in free throws during that game.
+Last December, Bryant passed Michael Jordan to become third in the NBA’s all-time scoring list, according to Forbes. Despite being out for the season to recover from a torn rotator cuff, Bryant earned the fourth most votes for the NBA All-Star team in 2015, according to Lakersnation.
+		Categories: Local | News | Sports Tags: Amanda Scurlock | Kobe Bryant | Los Angeles Lakers | Los Angeles Sentinel Newspaper | NBA		
+						Floats Announced for the 2016 Rose Parade
+						Students return to Washington campus after racial threats
+						Colleges grapple with best ways to address race incidents
+						Lawndale Elementary School District Wins State Grant, Will Collaborate With...
+						Waters Urges Colleagues to Support Bill in Honor of National Diabetes Month
+						Michael B. Jordan: The Tale of the Tape
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

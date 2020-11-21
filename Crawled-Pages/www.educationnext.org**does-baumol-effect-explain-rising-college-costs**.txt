@@ -1,0 +1,122 @@
+            News
+Research
+Podcasts
+The Journal
+Blog
+Book Reviews
+	                Sign in
+	                Welcome!Log into your account
+	                your username
+	                your password
+	                Forgot your password?
+	                Privacy Policy
+	                Password recovery
+	                Recover your password
+	                your email
+				Search
+                            Sign in
+                            Welcome! Log into your account
+                            your username
+	                        your password
+                            Forgot your password? Get help
+                            Privacy Policy
+                            Password recovery
+                            Recover your password
+                            your email
+                            A password will be e-mailed to you.
+			Education Next
+    News
+Research
+Podcasts
+The Journal
+Blog
+Book Reviews
+		Subscribe
+                                                        NewsResearchPodcastsThe JournalBlogBook Reviews                                                                
+Latest Issue
+Fall 2020
+Vol. 20, No. 4
+                        BlogHigher EducationOpinionState Policy
+                            Does the Baumol Effect Explain Rising College Costs?
+                                By Andrew Gillen                                                                                                                            
+		Andrew Gillen
+Eric Helland and Alex Tabarrok’s new book, Why Are the Prices So D*mn High?, has reignited a debate about why the costs of higher education to students and taxpayers have grown so quickly. Their answer traces back to an idea put forth a half-century ago by economists William Baumol and William G. Bowen. Traditionally referred to as Baumol’s Cost Disease, the theory seeks to explain why costs rise steadily in some sectors of the economy while falling in others. The key is different rates of productivity growth. As gains in technology or knowledge boost productivity in some sectors of the economy, wages in those sectors rise. To keep workers from fleeing sectors where productivity is comparatively stagnant, wages in those sectors need to increase as well. Helland and Tabarrok provide an excellent illustration of this dynamic in action:
+In 1826, when Beethoven’s String Quartet No. 14 was first played, it took four people 40 minutes to produce a performance. In 2010, it still took four people 40 minutes to produce a performance. Stated differently, in the nearly 200 years between 1826 and 2010, there was no growth in string quartet labor productivity. In 1826 it took 2.66 labor hours to produce one unit of output, and it took 2.66 labor hours to produce one unit of output in 2010…
+Fortunately, most other sectors of the economy have experienced substantial growth in labor productivity since 1826… In 1826 the average hourly wage for a production worker was $1.14. In 2010 the average hourly wage for a production worker was $26.44… In 1826, the average wage of $1.14 meant that the 2.66 hours needed to produce a performance of Beethoven’s String Quartet No. 14 had an opportunity cost of just $3.02. At a wage of $26.44, the 2.66 hours of labor in music production had an opportunity cost of $70.33. Thus, in 2010 it was 23 times (70.33/3.02) more expensive to produce a performance of Beethoven’s String Quartet No. 14 than in 1826… because in 2010, society was better at producing other goods and services than in 1826.
+This is a convincing argument, and if an industry is subject to Baumol’s cost disease, then as Baumol himself notes, “costs will rise relentlessly, and will do so for reasons that are for all practical purposes beyond the control of those involved.”
+While Baumol’s theory can explain why costs rise in some sectors, there is considerable debate about whether it can explain rising costs in higher education. Helland and Tabarrok claim that it does while skeptics include Scott Alexander (and here), Arnold Kling, and Bryan Caplan (and here).
+A quick examination of the data indicates that Baumol’s cost theory is not very important in higher education. If Baumol’s effect is the dominant driver of increasing costs in higher education, then we should see:
+1. Stagnant productivity (in terms of students per professor).
+2. Rising faculty wages (ideally this would be the portion of faculty salaries for teaching since that is the job task alleged to have stagnant productivity, but no data sets separate faculty salaries by function, so the best we can do is just use the whole faculty salary).
+3. A higher faculty wage bill explaining most of the increase in higher education expenditures.
+Baumol’s theory is on solid ground regarding the first requirement—stagnant productivity. In 1999, there were 14.8 students per faculty member. In 2017, there were 14 students per faculty. At least by this metric, faculty productivity has decreased.
+But things go downhill for the theory from there. Faculty salaries have risen over time, but not very much. From 1970 to 2016, faculty salaries increased by just 9% after adjusting for inflation, from $77,635 to $84,630. Note that this is not 9% per year, but 9% over the entire 46-year period.
+The next question is whether the increase in the faculty wage bill from falling productivity and rising wages explains most of the increase in expenditures. In 1999, the faculty salary cost per student (faculty salary/number of students per faculty) was $5,413. In 2015, it was $5,981 (using the student to faculty ratio from 2017 as a proxy for the value in 2015). Thus, Baumol’s theory could explain an increase in costs of $568 between 1999 and 2015. But expenditures per student (total expenditures/enrollment) increased from $22,946 in 1999 to $28,502 in 2015, a difference of $5,556. In other words, almost 90% of the increase in costs between 1999 and 2015 would appear to be due to something other than Baumol cost increases.
+But perhaps these back-of-the-envelope calculations don’t convince you. After all, they ignore benefits and possible increases in non-monetary compensation, use aggregate averages that could be affected by composition effects, and could be skewed by changes over time in expenditure reporting.
+Fortunately, we can consult the academic literature. It, too, tends to find that Baumol’s cost theory is a minor factor in rising higher education costs.
+Martin and Hill (2013) is probably the most relevant study because they look at changes in staffing and salaries at top-tier research universities and find that “involuntary” cost increases, which includes Baumol effects, can only explain about 10% of the increase in costs. Clotfelter (1996) similarly concludes that “[faculty/Baumol] cost pressures do not explain the bulk of the spending increases” at four elite colleges that he studied in some detail. These studies only examine top-tier institutions, however, which may not be representative of colleges in general.
+Two other studies look at a closely related question—whether Baumol’s cost theory can explain tuition increases—across a broader range of institutions. Hoxby (1997) uses average faculty salaries to deflate tuition. For private four-year colleges, she finds that the “Baumol hypothesis does not help explain any of the recent [1965–mid-1990s] increase in tuition” and for public colleges that “most of the rise in tuition still remains to be explained when we have accounted for the Baumol” theory. Similarly, my own work (Gillen 2015) using college-level data finds that
+Baumol’s cost disease, while theoretically sound, has been empirically marginal for years… changes in faculty compensation can explain 6% [of the change in tuition in the typical year at public four-year colleges] … Over five year periods… faculty compensation can explain 12%.
+Studies that claim to find support for the Baumol cost theory tend to be unconvincing.
+Archibald and Feldman (2011) document the rising wages of those working in higher education, but then ignore these data and create a custom price index for other industries they think face cost pressures similar to higher education. If you adjust higher education costs by this index, costs haven’t increased much (see figure 6.2). This is an unusual choice. While the available faculty salary data would provide a direct test, the index-based approach hinges on selecting appropriate “similar” industries. Since their results are so different from my calculations above and Hoxby’s results using faculty salaries, it appears their results reflect the choice of (apparently non-similar) industries rather than real Baumol effects.
+Helland and Tabarrok don’t use faculty salary data either. Their main evidence (figure 14 in their book) shows that “instructional costs in higher education have increased faster than expenditures per student,” leading them to conclude that the “rising cost of labor inputs is the best explanation for the rising cost of education.” But instructional costs are not a good proxy for faculty salaries related to teaching. This reporting category includes spending on departmental research and public service that is “not separately budgeted” and even includes IT, depreciation, interest, and operations and maintenance costs attributed to instructional units. A rise in instructional costs is therefore insufficient to confirm Baumol’s theory, as those costs could have been driven higher by components other than higher faculty salaries.
+So where does all this leave us?
+None of the empirical studies are perfect, but the most convincing analyses consistently find little evidence in support of Baumol’s cost theory as a dominant explanation for rising costs in higher education. The most reasonable conclusion is that Baumol’s cost theory 1) is on sound theoretical footing, 2) may well be an important driver of costs in higher education in the future, and 3) has been only a minor factor in explaining increasing college costs in the past several decades.
+Andrew Gillen is a Senior Policy Analyst at the Texas Public Policy Foundation. 
+					Last updated July 18, 2019
+					License this Content
+			Andrew GillenAuthor Bio				
+            Previous Article
+            Perhaps Progress Against Poverty Helped Test Scores Rise
+            July 17, 2019
+            Next Article
+            The Education Policy Angle on “Fleishman Is In Trouble”
+            July 19, 2019
+We Recommend You Read
+		Straight Up Conversation: A Kelley Blue Book for College Costs
+		by Frederick Hess
+		Consolidation, Collaboration or Closure? How Colleges Stay Alive in 2018
+		by Michael B. Horn
+		Democrats Just Voted AGAINST Free College
+		by Steve Klinsky
+                                    Andrew Gillen	                
+The Journal
+Fall 2020
+Vol. 20, No. 4
+Education Next is a journal of opinion and research about education policy.
+Subscribe Today
+NOT CONVINCED?
+Get a Sample copy of The Journal
+Sign Up Today
+			Newsletter
+			Notify Me When Education Next Posts a Big Story
+					Subscribe
+Business + Editorial Office
+Program on Education Policy and Governance
+Harvard Kennedy School
+79 JFK Street, Cambridge, MA 02138
+Phone (617) 496-5488
+Fax (617) 496-4428
+EmailEducation_Next@hks.harvard.edu
+University of Chicago Press(for subscription service to the printed journal)
+1427 E. 60th Street, Chicago, IL 60637-2902
+Phone (773) 753-3347, or toll-free in U.S. and Canada (877) 705-1878
+Email subscriptions@educationnext.org
+                DiscoverAbout Us
+The Journal
+EdFacts
+EdNext Poll
+Opinion
+Press
+Interactive Graphics
+Our Authors
+Contact Us
+                More InformationAdvertise
+User Agreement
+Privacy Policy
+Reporting Copyright Infringement
+Guidelines For Submissions
+Permissions
+FAQ
+                Web-only content Copyright © 2020 President &amp; Fellows of Harvard College
+Journal content Copyright © 2020 Education Next Institute, Inc.Site Credits            

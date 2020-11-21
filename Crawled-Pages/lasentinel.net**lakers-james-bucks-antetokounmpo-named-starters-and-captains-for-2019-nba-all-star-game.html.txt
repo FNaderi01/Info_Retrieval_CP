@@ -1,0 +1,330 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Lakers’ James, Bucks’ Antetokounmpo Named Starters And Captains For 2019 NBA All-Star Game            
+				By Amanda Scurlock                
+	                	                Published January 26, 2019
+		– Captains to Draft Rosters for Team LeBron vs. Team Giannis; TNT to Air NBA All-Star Draft on Feb. 7 – 
+– West Starter Pool: James, Warriors’ Curry and Durant, Thunder’s George and Rockets’ Harden –
+– East Starter Pool: Antetokounmpo, 76ers’ Embiid, Celtics’ Irving, Raptors’ Leonard and Hornets’ Walker –
+Los Angeles Lakers’ LeBron James goes up for a dunk against the Cleveland Cavaliers during the second half of an NBA basketball game Wednesday, Nov. 21, 2018, in Cleveland. The Lakers won 109-105. (AP Photo/Tony Dejak)
+The Los Angeles Lakers’ LeBron James and the Milwaukee Bucks’ Giannis Antetokounmpo lead the list of 10 players – two guards and three frontcourt players from each conference – selected by fans, current NBA players and a media panel to start in the 2019 NBA All-Star Game.
+As the All-Star starters who led their respective conferences in fan votes during NBA All-Star Voting 2019 presented by Google, James and Antetokounmpo will serve as team captains and draft the All-Star Game rosters from the pool of players voted as starters and reserves in each conference.
+ The captains will draft the eight remaining players from the starter pool in the First Round and then all 14 players from the reserve pool in the Second Round, making selections without regard to a player’s conference affiliation or position.  The team rosters for the 68th NBA All-Star Game will be revealed on TNT in a special NBA All-Star Draft Show on Thursday, Feb. 7 at 7 p.m. ET.
+        ADVERTISEMENT        
+The 2019 NBA All-Star Game, featuring Team LeBron vs. Team Giannis, will take place on Sunday, Feb. 17 at 8 p.m. ET at Spectrum Center in Charlotte, N.C.  TNT and ESPN Radio will air the game live in the United States.  NBA All-Star 2019 will reach fans in more than 200 countries and territories in more than 40 languages.
+James has been named an NBA All-Star for the 15th time, tied for the third-most selections in league history behind Kareem Abdul-Jabbar (19) and Kobe Bryant (18).  Along with James, the Western Conference starter pool includes the Golden State Warriors’ Stephen Curry (guard) and Kevin Durant (frontcourt), the Oklahoma City Thunder’s Paul George (frontcourt) and the Houston Rockets’ James Harden (guard).
+In the Eastern Conference, Antetokounmpo (frontcourt) is joined in the starter pool by the Philadelphia 76ers’ Joel Embiid (frontcourt), the Boston Celtics’ Kyrie Irving (guard), the Toronto Raptors’ Kawhi Leonard (frontcourt) and the Charlotte Hornets’ Kemba Walker (guard).  This marks the first NBA All-Star Game starting nod for Walker, who will be playing at his home arena.
+Milwaukee Bucks’ Giannis Antetokounmpo (Twitter)
+The starters were announced tonight by TNT during the TNT NBA Tip-Off presented by Autotraderpregame show.  TNT will unveil the reserves (seven players from each conference), as selected by NBA head coaches, on Thursday, Jan. 31 during TNT NBA Tip-Off at 7 p.m. ET.
+By virtue of being the top overall finisher in fan voting, James will make the first pick in the First Round (Starters) during the NBA All-Star Draft.  Antetokounmpo will have the first pick in the Second Round (Reserves).  After the first pick in a round, picks will alternate until all players in that round have been selected.
+2019 NBA ALL-STAR GAME STARTER POOL 
+Western Conference
+Stephen Curry, Warriors (6th All-Star selection): Curry has extended his team record for consecutive All-Star Game starting honors to six.
+Kevin Durant, Warriors (10th All-Star selection): The 2012 Kia NBA All-Star MVP is an All-Star for the 10th season in a row and a starter for the eighth time.
+Paul George, Thunder (6th All-Star selection): The last time George started the All-Star Game, he made a record nine three-pointers and scored 41 points in 2016.
+James Harden, Rockets (7th All-Star selection): The Kia NBA MVP for the 2017-18 season has been an All-Star in each of his seven seasons with Houston, putting him third behind Hakeem Olajuwon (12) and Yao Ming (eight) for the most selections in franchise history.
+LeBron James, Lakers (15th All-Star selection): With three NBA All-Star MVP awards, the career All-Star scoring leader (343 points) is one shy of the record shared by Bryant and Bob Pettit.
+Eastern Conference
+Giannis Antetokounmpo, Bucks (3rd All-Star selection): Antetokounmpo, who finished second in fan voting among all NBA players for the second year in a row, has been named a starter for the third consecutive season.
+Joel Embiid, 76ers (2nd All-Star selection): A starter for the second straight year, Embiid scored 19 points for Team Curry in his All-Star Game debut last season.
+Kyrie Irving, Celtics (6th All-Star selection): An All-Star for the sixth time in eight seasons, the 2014 NBA All-Star MVP received the most fan votes among Eastern Conference guards for the third year in a row.
+Kawhi Leonard, Raptors (3rd All-Star selection): Voted to start for the third time, Leonard gives Toronto an All-Star Game starter for the fifth consecutive year.
+Kemba Walker, Hornets (3rd All-Star selection): With his third straight All-Star nod, Walker joins Glen Rice (1996-98) as the only players in Charlotte team history to make at least three All-Star teams.
+		Categories: Basketball | Sports Tags: Giannis Antetokounmpo | James Harden | Kevin Durant | LeBron James | NBA All Star | Stephen Curry		
+						Rams and Patriots Arrive in Atlanta for Super Bowl Week
+						Randy’s Donuts In Inglewood Transforms Into ‘Rams Donuts’
+						Timberwolves’ Taj Gibson Fined
+						New Orleans’ Davis Fined
+						Super Bowl 2019 Media Availability: Rams’ Robert Woods and Nickell Ro...
+						NFL playoff ‘do-over’ lawsuit moved to federal court
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

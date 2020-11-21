@@ -1,0 +1,271 @@
+How is remote learning working out?
+We need your insights! In a state as vast and diverse as California, we depend on parents, educators, students, administrators,  policymakers and community members like you to help us understand what's working at your schools, colleges and early child care centers — and what must be improved.
+Please join our community network and help inform our coverage of California education.
+.tingle-modal--overflow {
+    overflow-y: scroll;
+    padding-top: 2.5vh;
+}
+.tingle-modal-box {
+    max-width: 664px;
+}
+.tingle-modal {
+  font-family: "proxima-nova-condensed", sans-serif;
+}
+.tingle-modal p {
+  font-family: "proxima-nova-condensed", sans-serif;  
+  margin: 1em 0;
+  font-size: 1.15em;
+  line-height: 1.5em;
+}
+.content-block {
+  margin: 40px auto;
+  padding: 0px;
+  background-color: white;
+  color: #1f3d00;
+  max-width: 600px;
+  border: 7.5px solid white;
+}
+.content-inner {
+  background-color: #d7eb68;
+  padding: 28px 38px;
+}
+.content-block h1 {
+  text-align: center;
+  font-size: 242%;
+  line-height: 124%;
+}
+.content-block a {
+  color: inherit;
+  text-decoration: underline;
+}
+.tingle-modal .embed-sub.embed-minimal {
+  padding: 0px;
+}
+.tingle-modal .embed-sub.embed-minimal h3 {
+  display: none;
+}
+.tingle-modal .embed-sub.embed-minimal form {
+  margin-bottom: 32px;
+}
+.tingle-modal .embed-sub.embed-minimal form input {
+  border-radius: 0px;
+  background-color: rgba(255,255,255,.8);
+  color: #1f3d00;
+  border: 0px solid white;
+} 
+.tingle-modal .embed-sub.embed-minimal form input,
+.tingle-modal .embed-sub.embed-minimal form button {
+  font-size: 22px;
+  padding: 12px 8px 10px;
+} 
+.tingle-modal .embed-sub.embed-minimal form button {
+  background-color: #9ac43c;
+  color: #1f3d00;
+  font-weight: 600; 
+  text-transform: uppercase;
+  border-radius: 0px; 
+  border:0px solid green;
+}
+.tingle-modal .embed-sub.embed-minimal p {
+  margin: 0px 0px 6px;
+}
+.tingle-modal p:last-of-type {
+  margin-bottom: 0px;
+}
+.tingle-modal img {
+    max-width: 82%;
+    margin: 0 auto;
+}
+@media screen and (max-width:768px) {
+.tingle-modal--overflow {
+    overflow-y: scroll;
+    padding-top: 0vh;
+}
+  .tingle-modal {
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  .content-block {
+  }
+  .content-inner {
+    padding: 22px;
+  }
+  .content-block h1 {
+    text-align: center;
+    font-size: 162%;
+  }
+}
+@media screen and (max-width:480px) {
+  .content-block {
+  }
+}
+.tingle-modal-box {
+background: transparent;
+}
+}
+#custom-close {
+    top: 0px;
+    right: 0px;
+    top: 0px !important;
+    right: 0px !important;
+}
+				EXPLORE: How Prop. 15 would increase K-12 districts' fundingCoronavirus updatesQuick Guides			
+					Highlighting Strategies for Student Success
+							Donate
+							Subscribe
+					Quick search above or Advanced Search
+				☰Topics
+	Charter Schools
+	Chronic Absenteeism
+	College &amp; Careers
+	Common Core
+	Coronavirus
+	Distance Learning
+	Early Learning
+	Elections and Education
+	Getting Down to Facts
+	High-needs students
+	Legislation &amp; Budget
+	Local Control Funding
+	Math &amp; Science
+	Teachers’ Pensions: Who Pays?
+	Policy &amp; Finance
+	Race and Equity
+	Research &amp; Reports in Brief
+	School Discipline
+	Social and Emotional Learning
+	Student Wellbeing
+	Teachers
+	Teacher Shortage
+Audio &amp; Video
+	Podcasts
+	Webcasts and Webinars
+	Video
+	2017 Symposium Video Archive
+Projects
+	Rural California: An Education Divide
+	Saving Stege
+	California’s Teacher Housing Crunch
+	Tainted Taps: Lead puts California Students at Risk
+	Full Circle: California Schools Work To Transform Discipline
+	California’s Homeless Students: Undercounted, Underfunded And Growing
+	Common Core Explained
+	Local Control Funding Formula Explained
+	Special Series: Restraint in the Shadows
+Commentaries
+	Share your commentary
+Data
+	California School Dashboard Data
+	Smarter Balanced Results Database
+	States in Motion
+	Vaccination Database
+	Grad and Dropout Rates
+	LCFF Database
+	Ed-Data Partnership
+Publications
+	Newsletters
+	Publications Archive
+	Quick Guides
+	Glossary of Terms
+	Eyes on the Early Years Newsletter Archive
+About EdSource
+	Donate
+	EdSource Staff
+	Board of Directors
+	Major Donors
+	EdSource Advisory Council
+	Jobs at EdSource
+	Contact Us
+				Kindly Log In
+				Username
+				Password
+												Charter-backed candidates win majority on L.A. Unified school board
+						Charter SchoolsMay 17, 2017Mikhail Zinshteyn					
+					Credit:  FlickrCredit:  FlickrMikhail ZinshteynMay 17, 2017In a major victory for charter school advocates, the two candidates backed with millions of dollars in outside contributions have won their bids for seats on the Los Angeles Unified School District Board of Education.
+According to unofficial results reported by the Los Angeles City Clerk, 31-year-old Nick Melvoin easily defeated incumbent board President Steve Zimmer by a 57 percent to 42 percent majority in District 4 in the low-turnout runoff election. In the other race, Kelly Gonez, who has claimed victory, appears to have narrowly defeated Imelda Padilla by a 51 percent to 48 percent margin. As of 8 a.m. Wednesday morning, not all ballots had been counted, according to the city clerk.
+In March, incumbent Monica Garcia, long viewed as strongly pro-charter, won her District 2 race outright. With her win and the victories of Gonez and Melvoin, the board of the state’s largest school district will have a majority of its members who were supported financially by the California Charter Schools Association – another indication of the association’s growing clout at the ballot box.
+The race for the three board seats generated nearly $17 million in campaign spending, a massive sum that signaled the importance these races represented for both charter school advocates and teachers unions as they battle over the direction of charter school growth in the state. While $2 million of that spending came from small donations made to the candidates directly, the remaining $14.7 million came from outside groups paying for canvassing and advertisement on behalf of the candidates – much of it from the labor group United Teachers Los Angeles and the California Charter Schools Association.
+Zimmer’s campaign was backed by $2.4 million in independent expenditures from teachers unions and their allies, but Melvoin benefited from $5.8 million spent by charter school advocates. Gonez’s election efforts were bolstered by $3.3 million in charter advocacy contributions, outspending the outside support for Padilla, whose campaign was aided by more than $2.3 million in independent expenditures, mostly from teachers unions.
+Around midnight at his election-watch party at an artist’s loft space in Venice, Melvoin thanked his supporters and endorsers.
+“We have to fight locally to ensure the promise of American democracy and ensure that you can still succeed in this country in spite of where you started because of excellent public schools, all types of public schools,” he said. “Let’s get past these adult partisan, special-interest fights and start focusing on kids.”
+Among those in attendance was former Los Angeles mayor and now gubernatorial candidate Antonio Villaraigosa, a strong Melvoin backer. “The fight to improve our schools and the fight for education equity is the civil rights issue of our time, and L.A. has been the epicenter for that fight,” Villaraigosa told EdSource.
+Asked about the record-breaking campaign spending in this year’s L.A. school board races, Villaraigosa said, “I think we all believe that campaign finance laws in this country are broken. They are what they are. But I think what’s important is that we have an opportunity to have a candidate who will actually stand up for the interests of kids.”
+Villaraigosa praised Melvoin’s role in the Reed v. California lawsuit, which challenged the L.A. district’s system of laying off teachers based on seniority. Melvoin was a teacher for two years at Edwin Markham Middle School in Watts. He was laid off during the recession, based on his lack of seniority, a fact he has cited as part of his motivation to run for the school board seat.
+Earlier in the evening, at an event at the Grand View Market in Mar Vista, Zimmer conceded to Melvoin after an intensely negative campaign. He described his defeat as “devastating.” “I may have lost the election … but my soul is intact,” he said.
+A small minority of eligible voters decided the outcome of yesterday’s elections. The 2017 March primaries ultimately drew 898,233 voters – just 17 percent of all registered voters in Los Angeles County. And that election at least had the next mayor of Los Angeles on the line. No such big-ticket race was on yesterday’s citywide ballot, and the turnout was much smaller.
+So far 175,683 ballots have been counted in the city election, but another roughly 40,000 need to be processed, an official at the city clerk’s office said. Because those outstanding votes are from the entire city, it’s unclear how many are from areas that had a school board race on the ballot.
+Those that did vote chose between candidates who had much more in common than the image highly polarized campaign ads painted. Though backed by labor, Zimmer has voted many times to approve the creation of charter schools in the district. Both Gonez and Padilla have stated publicly they support charter schools. Melvoin, characterized as a conservative by union-financed advertisements, worked as a legal clerk in the White House during President Barack Obama’s administration. Melvoin was also endorsed by recently retired Sen. Barbara Boxer, who earned a 97-percent lifetime rating from the nation’s largest union, the AFL-CIO.
+Boxer’s support “sent an important signal to Democratic voters that Nick and Kelly were both true progressives in this race,” said Melvoin’s campaign consultant Bill Burton, himself a former aide to U.S. Senate Democrats. “There was definitely very helpful momentum.”
+Melvoin, who views himself leaning toward the political left, thinks progressives haven’t grappled enough with the charter school issue. “People who align on 99 percent of issues – immigration, women’s right to choose, the environment, taxes, Prop. 13 reform – are split on education,” he said. He predicts these tensions will play out in the upcoming California gubernatorial campaign and the race for state superintendent of public instruction.
+Marshall Tuck, a former charter school operator who unsuccessfully ran for state superintendent in 2014 and is running for the position again, thinks the outcome of the Los Angeles school board race does signal a public shift in attitudes about charter schools, but only up to a point. “I think sometimes the charter, non-charter divide gets overblown in the media,” Tuck said, noting that students in charter schools represent only about a 10th of the state’s public school enrollment.
+On whether he thinks charter schools hurt district finances – a point made by both union leaders during the campaign and some district board members – Tuck said the key was for districts to improve their schools.
+“When that is happening, you don’t see as much of the impact on the financials,” he said. “You also don’t see as much charter growth. … You’re seeing charters more in communities where the district public schools have a lot of work to do to get better.”
+To get more reports like this one,  click here to sign up for EdSource’s no-cost daily email on latest developments in education.Republish this articleShare Article Mikhail Zinshteyn reports on college and career preparation in CaliforniaEXPLORE:Charter SchoolsElections and EducationReformsboard electionsCalifornia Charter Schools AssociationFeaturedLos Angeles Unified School District (LAUSD) 			
+				Comments 
+				Leave a Comment				
+				Your email address will not be published.
+				 Required fields are marked * *				
+					Click here to cancel reply.
+						Name *
+						Mail *
+						Website
+					Comment
+					XHTML: You can use these tags: &lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;s&gt; &lt;strike&gt; &lt;strong&gt; -->
+					Comments Policy We welcome your comments. All comments are moderated for civility, relevance and other considerations. Click here for EdSource's Comments Policy.
+Latest updates on education and the coronavirus crisis
+What California parents and students should know about the coronavirus: a quick guide
+California colleges and universities respond to the coronavirus: a quick guide
+Quick Guide: What California's color-coded county tracking system means for schools
+How to protect students' privacy during distance learning
+How the pandemic has transformed school accountability in California
+Quick Guide: Who are California's teachers?
+				Template last modified: 
+				Topics
+	College &amp; Careers
+	Commentary
+	Curriculum
+	Early Learning
+	Getting Down to Facts
+	Policy &amp; Finance
+	Reforms
+	Student Wellbeing
+Projects
+	Podcasts
+	Webcasts and Webinars
+	Rural California: An Education Divide
+	California’s Teacher Housing Crunch
+	Tainted Taps
+	Full Circle
+	California’s Homeless Students
+	Common Core Explained
+	Smarter Balanced Database
+	States in Motion
+	LCFF Guide
+	Glossary
+About EdSource
+	About Us
+	Subscribe
+	Donate
+	2017 Symposium
+	EdSource Staff
+	Board of Directors
+	Jobs at EdSource
+	Major Donors
+	Contact Us
+					436 14th St.Suite 1005Oakland, CA 94612
+					PHONE 510-433-0421 | FAX 510-433-0422
+					edsource@edsource.org
+					-->
+				Privacy Policy
+				2020 EdSource. All Rights Reserved.
+			.ssp-wave wave wave {
+				background: #28c0e1 !important;
+			}
+			           Thanks for signing up!
+			       Stay informed with our daily newsletter
+			           Sign Up
+			              I'm a human
+			  #dot { width:15px;height:15px;border-radius:15px;border:2px solid black;display:inline-block;position:relative;top:2px; }
+			  #dot:hover { cursor: pointer; }
+			  #dot.alive { background-color: red }
+			  #dot.dead { background-color:white }

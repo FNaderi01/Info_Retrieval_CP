@@ -1,0 +1,360 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Notable Deaths  2016            
+	                	                Published December 28, 2016
+Billy Paul (file photo)
+Jazz and soul singer Billy Paul known for his No. 1 hit ballad “Philadelphia Soul” and “Me and Mrs. Jones,” died after battling with cancer. He was 80.
+Muhammad Ali (file photo)
+Legendary box Muhammad Ali known as the greatest of all time, died in early June at the age of 74. Ali is an Olympic gold medalist and a World Heavyweight Champion but, he was also known for his activism.
+Thomas Ford (file photo)
+Actor Thomas Ford, known for his role as Martin Lawrence’s best friend Tommy Strawn on the hit ‘90s sitcom “Martin,” passed away. He was 52.
+Dr. Frances Cress Welsing (file photo)
+Famed psychiatrist Dr. Frances Cress Welsing noted for her “Cress Theory of Color Confrontation,” and her book “The Isis Papers: The Keys to the Color,” passed away. She was 80.
+Maurice White (file photo)
+Prolific songwriter, composer, producer, arranger, leader and co-founder of one of the greatest funk and disco groups of all time “Earth, Wind and Fire,”  passed away in early February. He was 74.
+Marva Smith Battle-Bey (file photo)
+Marva Smith Battle-Bey known for nurturing South L.A.’s Vermont-Slauson Economic Development Corporation died in early April. In 1981, Battle-Bey lead her first major project, the Vermont Slauson Shopping Center. The project was the first major retail investment for the Black community since the 1965 Watts riots.
+Robert H. McNeill, Jr. (file photo)
+Legal legend and Attorney Robert H. McNeil Jr. “Bob” passed away in mid-April. McNeil was the co-founder of California’s largest African American owned law firm Ivie, McNeill &amp; Wyatt. He was sought after legal commentating during the O.J. Simpson trial. He also served as a legal consultant for the National Cable Television News.
+Prince Rogers Nelson (file photo)
+Iconic and Grammy Award winner Prince Rogers Nelson “Prince” is widely known for hits like “Little Red Corvette,” “Purple Rain,” and “When Doves Cry,” passed away in mid-April from an overdose in his home. He was 57.
+Bill Jones (file photo)
+Legendary photographer Dr. William Benjamin “Bill” Jones known for capturing Hollywood’s iconic African American celebrities and breaking barriers for Black photographers in Hollywood, passed away late June while in hospice care. He was 83.
+Fidel Castro (file photo)
+Cuba’s former president and one the world’s longest serving iconic leaders died at the age of 90
+Dwan Hurt  (file photo)
+Legendary Serra High School Cavaliers basketball coach and dean of students Dwan Hurt passed away in his sleep in late November. He was 53.
+Verna B. Dauterive (file photo)
+Philanthropist, USC trustee, and longtime educator Verna B. Dauterive passed away in early June from natural causes. She was 93. Dauterive was known for being an inspirational and influential educator and helping minority students.
+Dr. Sebi (file photo)
+Renowned herbalist, alternative medicine practitioner and healer Dr. Sebi passed away early August in the custody of Honduran jailers. He was arrested in June by the Ministerio Público and charged with money laundering. Dr. Sebi remained in custody until August 6, when he passed away in route to the hospital after suffering from pneumonia. He was 82.
+George Curry (file photo)
+Veteran journalist and former Editor-in-Chief of the NNPA News Wire, died from an apparent heart attack in mid-August at the age of 69.
+Kashif (file photo)
+Six-time Grammy nominated musician, songwriter and artist Kashif passed away in his Playa Del Rey home on September 25. The artist produced hits for legendary artist like Whitney Houston, George Benson, Evelyn “Champagne” King, Kenny G, Melba Moore and more. He was 59 years of age.
+Walter Crenshaw, Jr.  (file photo)
+Walter Crenshaw Jr. is the oldest documented Tuskegee airman. Crenshaw worked as an Administrative Assistant to the Provost Marshall at Tuskegee Army Air Field. He passed away at the age of 106. Walter’s original documents from his Tuskegee days are displayed at the National Museum of African American History and Culture (NMAAHC) in Washington, D.C.
+Bill Nunn (file photo)
+Actor Bill Nunn known for his roles in the Spike Lee Films, “Do the Right Thing” and “He Got Game and many other well-known films passed away from leukemia at the age of 63.
+E.J. Jackson (file photo)
+On November 14, celebrities, elected officials, community leaders and residents came to Crenshaw Christian Center to honor and celebrate South L.A. business owner E.J. Jackson who passed away from a heart attack in early November. Jackson was known for his humanitarian work and his famous Thanksgiving turkey giveaways.
+Bill Shearer (file photo)
+Successful radio executive and pioneer William (Bill) Shearer, passed away in early November after battling a lengthy illness. For nearly four decades, Shearer held sales, executive, and ownership positions at several radio stations, including: KLOS, KAGB, KACE, KGFJ/KUTE, and KGFJ. Shearer also worked with the National Association of Market Developers (NAMD), Southern California Broadcasters, and American Urban Radio Networks, until his retirement.
+Gwen Ifill (file photo)
+Moderator and managing editor of “Washington Week” and co-anchor and managing editor of “PBS NewsHour” passed away after battling with cancer. The news anchor is known as one of the most successful journalist to make the transition from print to television. Ifill died at the age of 61.
+Willie Joe Ligon (file photo)
+Gospel legend, and founder and lead singer of the three-time Grammy Award winning group The Mighty Clouds of Joy Willie Joe Ligon passed away in early December.
+Ricky Harris (file photo)
+Well known actor and comedian Ricky Harris who played on the hit sit-com “Everybody Hates Chris,” passed away in late December. He was 54. The cause of death was unknown as of Sentinel press time.
+Howard Bingham  (file photo)
+Legendary photographer Howard Bingham has passed away on December 15. Although he shot photos for several news outlets, he was mostly known for chronicling the life events and work of his good friend iconic boxer, Muhammad Ali. Bingham and Ali met while Bingham was an aspiring photographer at the L.A. Sentinel in 1962. Bingham was 77 when he passed.
+Sharon Jones  (file photo)
+Sharon Jones, dynamic front woman of the Grammy-nominated funk and soul band Sharon Jones &amp; The Dap-Kings passed away November 18 after a heroic battle with pancreatic cancer. She was 60.
+Dennis Green  (file photo)
+Dennis Green, the former great Minnesota Vikings and Arizona Cardinals coach, passed away July 21 from complications of cardiac arrest. He was 67.
+John Saunders (file photo)
+Sports broadcasting legend John Saunders was not breathing when he was discovered in early August (8/10) at his New York home by his wife Wanda, who called 911. Saunders, 61, a voice at ESPN for nearly 30 years, died after emergency responders couldn’t resuscitate him.
+Phife Dawg  (file photo)
+Phife Dawg, a founding member of the rap group A Tribe Called Quest, passed away in March (3/22). Phife, whose real name is Malik Taylor, suffered a series of medical complications in recent years.
+Vanity  (file photo)
+Vanity, a Prince protégé who renounced her sexy stage persona to become a Christian minister, died in February at age 57. The singer and actress, born Denise Matthews, died at a hospital in Fremont, California. Matthews’ sister Renay said the death was from complications over longstanding kidney issues.
+Nicholas Caldwell  (file photo)
+Nicholas Caldwell, co-founder and singer with the California R&amp;B group The Whispers, has died. He was 71. Caldwell died of January (1/5) of congestive heart failure at his San Francisco home.
+		Categories: Celebration of Life | National Tags: #kashif | 2016 | Bill Jones | Bill Nunn | Bill Shearer | Billy Paul | Dennis Green | Dr. Frances Cress Welsing | Dwan Hurt | E.J. Jackson | Fidel Castro | George Curry | Gwen Ifill | Howard Bingham | John Saunders | Jr. | Marva Smith Battle-Bey | Maurice White | Muhammad Ali | Nicholas Caldwell | notable deaths | Phife Dawg | Prince | ricky harris | Robert H. McNeill | Sharon Jones | Thomas Ford | vanity | Verna B. Dauterive | Walter Crenshaw | Willie Joe Ligon		
+						KJLH Front Page Family Mourns Loss of Comedian Ricky Harris
+						The CBC Places Blacks in Power on Capitol Hill
+						Obama retaliates against Russia for election hacking 
+						Fox Host and St. Louis Police Group Want Teen’s Artwork Removed From U.S....
+						Michael Brown’s family fights Ferguson push for his records
+						Museum on African-American run TV station to open in Detroit
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

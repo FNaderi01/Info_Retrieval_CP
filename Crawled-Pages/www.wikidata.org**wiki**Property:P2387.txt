@@ -1,0 +1,140 @@
+Elonet person ID
+(P2387)
+		From Wikidata
+		Jump to navigation
+		Jump to search
+identifier for a person, in the Elonet databaseElonet actor IDElonet artist ID
+edit
+Language
+Label
+Description
+Also known as
+English
+Elonet person ID
+identifier for a person, in the Elonet database
+Elonet actor IDElonet artist ID
+Data type
+External identifier
+Statements
+instance of
+Wikidata property for authority control for people
+0 references
+Wikidata property for identification in the film industry
+0 references
+country
+Finland
+0 references
+subject item of this property
+Elonet
+0 references
+Wikidata property example
+Steven Spielberg
+Elonet person ID
+100374
+0 references
+Marilyn Monroe
+Elonet person ID
+225798
+0 references
+Marlene Dietrich
+Elonet person ID
+225784
+0 references
+formatter URL
+https://www.elonet.fi/fi/henkilo/$1
+0 references
+format as a regular expression
+\d{5,7}
+0 references
+corresponding template
+Template:Elonet name
+0 references
+property usage tracking category
+Category:Pages using Wikidata property P2387
+0 references
+see also
+Elonet movie ID
+0 references
+property proposal discussion
+https://www.wikidata.org/wiki/Wikidata:Property_proposal/Archive/42#P2387
+0 references
+Constraints
+property constraint
+distinct values constraint
+exception to constraint
+Q228429
+0 references
+single value constraint
+exception to constraint
+Rainer Werner Fassbinder
+0 references
+format constraint
+format as a regular expression
+(\d{5,7})|
+constraint status
+mandatory constraint
+0 references
+conflicts-with constraint
+property
+instance of
+item of property constraint
+film
+short film
+television film
+group by
+instance of
+constraint status
+mandatory constraint
+0 references
+type constraint
+class
+human
+relation
+instance of
+exception to constraint
+Madredeus
+0 references
+item requires statement constraint
+property
+occupation
+0 references
+property scope constraint
+constraint status
+mandatory constraint
+property scope
+as main value
+as references
+0 references
+allowed entity types constraint
+item of property constraint
+Wikibase item
+0 references
+Retrieved from "https://www.wikidata.org/w/index.php?title=Property:P2387&amp;oldid=1284662954"
+	Navigation menu
+		Personal tools
+		EnglishNot logged inTalkContributionsCreate accountLog in
+		Namespaces
+		PropertyDiscussion
+		Variants
+		Views
+		ReadView history
+		More
+		Search
+		Navigation
+		Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+		Lexicographical data
+		Create a new LexemeRecent changes
+		Tools
+		What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URI
+		Print/export
+		Download as PDFPrintable version
+		 This page was last edited on 30 September 2020, at 17:11.
+		All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy.
+		Privacy policy
+		About Wikidata
+		Disclaimers
+		Mobile view
+		Data access
+		Developers
+		Statistics
+		Cookie statement

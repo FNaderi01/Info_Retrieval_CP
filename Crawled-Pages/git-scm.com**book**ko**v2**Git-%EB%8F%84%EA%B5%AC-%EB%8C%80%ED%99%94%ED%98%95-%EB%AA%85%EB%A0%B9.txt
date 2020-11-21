@@ -1,0 +1,405 @@
+        About
+            Branching and Merging
+            Small and Fast
+            Distributed
+            Data Assurance
+            Staging Area
+            Free and Open Source
+            Trademark
+        Documentation
+            Reference
+            Book
+            Videos
+            External Links
+        Downloads
+            GUI Clients
+            Logos
+        Community
+This book is available in
+  English.
+  Full translation available in
+    български език,
+    Deutsch,
+    Español,
+    Français,
+    Ελληνικά,
+    日本語,
+    한국어,
+    Nederlands,
+    Русский,
+    Slovenščina,
+    Tagalog,
+    Українська
+    简体中文,
+  Partial translations available in
+    Čeština,
+    Македонски,
+    Polski,
+    Српски,
+    Ўзбекча,
+    繁體中文,
+  Translations started for
+    azərbaycan dili,
+    Беларуская,
+    فارسی,
+    Indonesian,
+    Italiano,
+    Bahasa Melayu,
+    Português (Brasil),
+    Português (Portugal),
+    Svenska,
+    Türkçe.
+The source of this book is  hosted on GitHub.
+Patches, suggestions and comments are welcome.
+  Chapters ▾
+  1. 시작하기
+          1.1
+          버전 관리란? 
+          1.2
+          짧게 보는 Git의 역사 
+          1.3
+          Git 기초 
+          1.4
+          CLI 
+          1.5
+          Git 설치 
+          1.6
+          Git 최초 설정 
+          1.7
+          도움말 보기 
+          1.8
+          요약 
+  2. Git의 기초
+          2.1
+          Git 저장소 만들기 
+          2.2
+          수정하고 저장소에 저장하기 
+          2.3
+          커밋 히스토리 조회하기 
+          2.4
+          되돌리기 
+          2.5
+          리모트 저장소 
+          2.6
+          태그 
+          2.7
+          Git Alias 
+          2.8
+          요약 
+  3. Git 브랜치
+          3.1
+          브랜치란 무엇인가 
+          3.2
+          브랜치와 Merge 의 기초 
+          3.3
+          브랜치 관리 
+          3.4
+          브랜치 워크플로 
+          3.5
+          리모트 브랜치 
+          3.6
+          Rebase 하기 
+          3.7
+          요약 
+  4. Git 서버
+          4.1
+          프로토콜 
+          4.2
+          서버에 Git 설치하기 
+          4.3
+          SSH 공개키 만들기 
+          4.4
+          서버 설정하기 
+          4.5
+          Git 데몬 
+          4.6
+          스마트 HTTP 
+          4.7
+          GitWeb 
+          4.8
+          GitLab 
+          4.9
+          또 다른 선택지, 호스팅 
+          4.10
+          요약 
+  5. 분산 환경에서의 Git
+          5.1
+          분산 환경에서의 워크플로 
+          5.2
+          프로젝트에 기여하기 
+          5.3
+          프로젝트 관리하기 
+          5.4
+          요약 
+  6. GitHub
+          6.1
+          계정 만들고 설정하기 
+          6.2
+          GitHub 프로젝트에 기여하기 
+          6.3
+          GitHub 프로젝트 관리하기 
+          6.4
+          Organization 관리하기 
+          6.5
+          GitHub 스크립팅 
+          6.6
+          요약 
+  7. Git 도구
+          7.1
+          리비전 조회하기 
+          7.2
+          대화형 명령 
+          7.3
+          Stashing과 Cleaning 
+          7.4
+          내 작업에 서명하기 
+          7.5
+          검색 
+          7.6
+          히스토리 단장하기 
+          7.7
+          Reset 명확히 알고 가기 
+          7.8
+          고급 Merge 
+          7.9
+          Rerere 
+          7.10
+          Git으로 버그 찾기 
+          7.11
+          서브모듈 
+          7.12
+          Bundle 
+          7.13
+          Replace 
+          7.14
+          Credential 저장소 
+          7.15
+          요약 
+  8. Git맞춤
+          8.1
+          Git 설정하기 
+          8.2
+          Git Attributes 
+          8.3
+          Git Hooks 
+          8.4
+          정책 구현하기 
+          8.5
+          요약 
+  9. Git과 여타 버전 관리 시스템
+          9.1
+          Git: 범용 Client 
+          9.2
+          Git으로 옮기기 
+          9.3
+          요약 
+  10. Git의 내부
+          10.1
+          Plumbing 명령과 Porcelain 명령 
+          10.2
+          Git 개체 
+          10.3
+          Git Refs 
+          10.4
+          Packfile 
+          10.5
+          Refspec 
+          10.6
+          데이터 전송 프로토콜 
+          10.7
+          운영 및 데이터 복구 
+          10.8
+          환경변수 
+          10.9
+          요약 
+  A1. Appendix A: 다양한 환경에서 Git 사용하기
+          A1.1
+          GUI 
+          A1.2
+          Visual Studio 
+          A1.3
+          Eclipse 
+          A1.4
+          Bash 
+          A1.5
+          Zsh 
+          A1.6
+          Git in Powershell 
+          A1.7
+          요약 
+  A2. Appendix B: 애플리케이션에 Git 넣기
+          A2.1
+          Git 명령어 
+          A2.2
+          Libgit2 
+          A2.3
+          JGit 
+          A2.4
+          go-git 
+  A3. Appendix C: Git 명령어
+          A3.1
+          설치와 설정 
+          A3.2
+          프로젝트 가져오기와 생성하기 
+          A3.3
+          스냅샷 다루기 
+          A3.4
+          Branch와 Merge 
+          A3.5
+          공유하고 업데이트하기 
+          A3.6
+          보기와 비교 
+          A3.7
+          Debugging 
+          A3.8
+          Patch 하기 
+          A3.9
+          Email 
+          A3.10
+          다른 버전 관리 시스템 
+          A3.11
+          관리 
+          A3.12
+          Plumbing 명령어 
+      2nd Edition
+    7.2 Git 도구 - 대화형 명령
+대화형 명령
+여기서 소개하는 몇 가지 대화형 명령을 이용하면 바로 전문가처럼 능숙하게 커밋할 수 있다. 스크립트를 통해 커밋할 파일을 고르고 수정된 파일의 일부분만 커밋할 수도 있다.
+스크립트는 수정하는 파일이 매우 많아서 통째로 커밋하기 어려울 때 이슈별로 나눠서 커밋하기에 좋다.
+이슈별로 나눠서 커밋하면 함께 일하는 동료가 검토하기 쉬워진다.
+git add 명령에 -i 나 --interactive 옵션을 주고 실행하면 Git은 아래와 같은 대화형 모드로 들어간다.
+$ git add -i
+           staged     unstaged path
+  1:    unchanged        +0/-1 TODO
+  2:    unchanged        +1/-1 index.html
+  3:    unchanged        +5/-1 lib/simplegit.rb
+*** Commands ***
+  1: status     2: update      3: revert     4: add untracked
+  5: patch      6: diff        7: quit       8: help
+What now&gt;
+이 명령은 Staging Area의 현재 상태가 어떻고 할 수 있는 일이 무엇인지 보여준다. 기본적으로 git status 명령이 보여주는 것과 같지만 좀 더 간결하고 정돈돼 있다.
+왼쪽에는 Staged 상태인 파일들을 보여주고 오른쪽에는 Unstaged 상태인 파일들을 보여준다.
+그리고 마지막 “Commands” 부분에서는 할 수 일이 무엇인지 보여준다. 파일들을 Stage하고 Unstage하는 것, Untracked 상태의 파일들을 추가하는 것, Stage한 파일을 Diff할 수 있다. 게다가 수정한 파일의 일부분만 Staging Area에 추가할 수도 있다.
+Staging Area에 파일 추가하고 추가 취소하기
+What now&gt; 프롬프트에서 2 나 u 를(update) 입력하면 Staging Area에 추가할 수 있는 파일을 전부 보여준다.
+What now&gt; 2
+           staged     unstaged path
+  1:    unchanged        +0/-1 TODO
+  2:    unchanged        +1/-1 index.html
+  3:    unchanged        +5/-1 lib/simplegit.rb
+Update&gt;&gt;
+TODO`와 `index.html 파일을 Stage 하려면 아래와 같이 입력한다.
+Update&gt;&gt; 1,2
+           staged     unstaged path
+* 1:    unchanged        +0/-1 TODO
+* 2:    unchanged        +1/-1 index.html
+  3:    unchanged        +5/-1 lib/simplegit.rb
+Update&gt;&gt;
+* 표시가 붙은 파일은 Stage 하도록 선택한 것이다.
+선택하고 Update&gt;&gt; 프롬프트에 아무것도 입력하지 않고 엔터를 치면 Git은 선택한 파일을 Staging Area로 추가한다.
+Update&gt;&gt;
+updated 2 paths
+*** Commands ***
+  1: status     2: update      3: revert     4: add untracked
+  5: patch      6: diff        7: quit       8: help
+What now&gt; 1
+           staged     unstaged path
+  1:        +0/-1      nothing TODO
+  2:        +1/-1      nothing index.html
+  3:    unchanged        +5/-1 lib/simplegit.rb
+이제 TODO`와 `index.html 파일은 Stage했고 simplegit.rb 파일만 아직 Unstaged 상태로 남아 있다.
+이제 TODO 파일을 다시 Unstage 하고 싶으면 3 이나 r 을(revert) 입력한다.
+*** Commands ***
+  1: status     2: update      3: revert     4: add untracked
+  5: patch      6: diff        7: quit       8: help
+What now&gt; 3
+           staged     unstaged path
+  1:        +0/-1      nothing TODO
+  2:        +1/-1      nothing index.html
+  3:    unchanged        +5/-1 lib/simplegit.rb
+Revert&gt;&gt; 1
+           staged     unstaged path
+* 1:        +0/-1      nothing TODO
+  2:        +1/-1      nothing index.html
+  3:    unchanged        +5/-1 lib/simplegit.rb
+Revert&gt;&gt; [enter]
+reverted one path
+다시 status를 선택하면 TODO 파일이 Unstaged 상태인 것을 알 수 있다.
+*** Commands ***
+  1: status     2: update      3: revert     4: add untracked
+  5: patch      6: diff        7: quit       8: help
+What now&gt; 1
+           staged     unstaged path
+  1:    unchanged        +0/-1 TODO
+  2:        +1/-1      nothing index.html
+  3:    unchanged        +5/-1 lib/simplegit.rb
+Staged 파일들의 변경내용을 보려면 6 이나 d 를(diff) 입력한다.
+그러면 먼저 Staged 상태인 파일들을 보여준다. 그리고 그중에서 파일 하나를 선택한다.
+그 결과는 커맨드라인에서 git diff --cached 라고 실행한 결과와 같다.
+*** Commands ***
+  1: status     2: update      3: revert     4: add untracked
+  5: patch      6: diff        7: quit       8: help
+What now&gt; 6
+           staged     unstaged path
+  1:        +1/-1      nothing index.html
+Review diff&gt;&gt; 1
+diff --git a/index.html b/index.html
+index 4d07108..4335f49 100644
+--- a/index.html
++++ b/index.html
+@@ -16,7 +16,7 @@ Date Finder
+ &lt;p id="out"&gt;...&lt;/p&gt;
+-&lt;div id="footer"&gt;contact : support@github.com&lt;/div&gt;
++&lt;div id="footer"&gt;contact : email.support@github.com&lt;/div&gt;
+ &lt;script type="text/javascript"&gt;
+위와 같이 대화형 추가 모드를 사용하면 Staging Area에 파일들을 좀 더 쉽게 추가할 수 있다.
+파일의 일부분만 Staging Area에 추가하기
+파일의 일부분만 Staging Area에 추가하는 것도 가능하다.
+예를 들어 simplegit.rb 파일은 고친 부분이 두 군데이다. 그 중 하나를 추가하고 나머지는 그대로 두고 싶다. Git에서는 이런 작업도 매우 쉽게 할 수 있다.
+대화형 프롬프트에서 5, p 를(patch) 입력한다.
+그러면 Git은 부분적으로 Staging Area에 추가할 파일이 있는지 묻는다. 파일을 선택하면 파일의 특정 부분을 Staging Area에 추가할 것인지 부분별로 구분하여 묻는다.
+diff --git a/lib/simplegit.rb b/lib/simplegit.rb
+index dd5ecc4..57399e0 100644
+--- a/lib/simplegit.rb
++++ b/lib/simplegit.rb
+@@ -22,7 +22,7 @@ class SimpleGit
+   end
+   def log(treeish = 'master')
+-    command("git log -n 25 #{treeish}")
++    command("git log -n 30 #{treeish}")
+   end
+   def blame(path)
+Stage this hunk [y,n,a,d,/,j,J,g,e,?]?
+여기에서 ? 를 입력하면 선택할 수 있는 명령을 설명해준다.
+Stage this hunk [y,n,a,d,/,j,J,g,e,?]? ?
+y - stage this hunk
+n - do not stage this hunk
+a - stage this and all the remaining hunks in the file
+d - do not stage this hunk nor any of the remaining hunks in the file
+g - select a hunk to go to
+/ - search for a hunk matching the given regex
+j - leave this hunk undecided, see next undecided hunk
+J - leave this hunk undecided, see next hunk
+k - leave this hunk undecided, see previous undecided hunk
+K - leave this hunk undecided, see previous hunk
+s - split the current hunk into smaller hunks
+e - manually edit the current hunk
+? - print help
+y 나 n 을 입력하면 각 부분을 Stage 할지 말지 결정할 수 있다. 하지만, 파일을 통째로 Stage 하거나 필요할 때까지 아예 그대로 남겨 두는 것이 다음부터 더 유용할지도 모른다.
+어쨌든 파일의 어떤 부분은 Stage 하고 다른 부분은 Unstaged 상태로 남겨놓고 status 명령으로 확인해보면 결과는 아래와 같다.
+What now&gt; 1
+           staged     unstaged path
+  1:    unchanged        +0/-1 TODO
+  2:        +1/-1      nothing index.html
+  3:        +1/-1        +4/-0 lib/simplegit.rb
+simplegit.rb 파일의 상태를 보자.
+어떤 라인은 Staged 상태이고 어떤 라인은 Unstaged라고 알려줄 것이다.
+이 파일의 일부를 Stage 했다.
+이제 대화형 모드를 종료하고 일부분만 Stage 한 파일을 커밋할 수 있다.
+대화형 스크립트로만 파일 일부분을 Stage 할 수 있는 것은 아니다. git add -p 나 git add --patch 로도 같은 일을 할 수 있다.
+git reset --patch 명령을 사용해서 파일 일부만 Stage Area에서 내릴 수 있다. 또, git checkout --patch 를 사용해서 파일 일부를 다시 Checkout 받을 수 있다. git stash save --patch 명령으로는 파일 일부만 Stash 할 수 있다.
+각 명령에 대해서 더 자세히 알아보자
+prev | next
+    About this site
+    Patches, suggestions, and comments are welcome.
+    Git is a member of Software Freedom Conservancy

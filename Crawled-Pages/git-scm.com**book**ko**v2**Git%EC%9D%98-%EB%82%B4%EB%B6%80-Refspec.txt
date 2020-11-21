@@ -1,0 +1,333 @@
+        About
+            Branching and Merging
+            Small and Fast
+            Distributed
+            Data Assurance
+            Staging Area
+            Free and Open Source
+            Trademark
+        Documentation
+            Reference
+            Book
+            Videos
+            External Links
+        Downloads
+            GUI Clients
+            Logos
+        Community
+This book is available in
+  English.
+  Full translation available in
+    български език,
+    Deutsch,
+    Español,
+    Français,
+    Ελληνικά,
+    日本語,
+    한국어,
+    Nederlands,
+    Русский,
+    Slovenščina,
+    Tagalog,
+    Українська
+    简体中文,
+  Partial translations available in
+    Čeština,
+    Македонски,
+    Polski,
+    Српски,
+    Ўзбекча,
+    繁體中文,
+  Translations started for
+    azərbaycan dili,
+    Беларуская,
+    فارسی,
+    Indonesian,
+    Italiano,
+    Bahasa Melayu,
+    Português (Brasil),
+    Português (Portugal),
+    Svenska,
+    Türkçe.
+The source of this book is  hosted on GitHub.
+Patches, suggestions and comments are welcome.
+  Chapters ▾
+  1. 시작하기
+          1.1
+          버전 관리란? 
+          1.2
+          짧게 보는 Git의 역사 
+          1.3
+          Git 기초 
+          1.4
+          CLI 
+          1.5
+          Git 설치 
+          1.6
+          Git 최초 설정 
+          1.7
+          도움말 보기 
+          1.8
+          요약 
+  2. Git의 기초
+          2.1
+          Git 저장소 만들기 
+          2.2
+          수정하고 저장소에 저장하기 
+          2.3
+          커밋 히스토리 조회하기 
+          2.4
+          되돌리기 
+          2.5
+          리모트 저장소 
+          2.6
+          태그 
+          2.7
+          Git Alias 
+          2.8
+          요약 
+  3. Git 브랜치
+          3.1
+          브랜치란 무엇인가 
+          3.2
+          브랜치와 Merge 의 기초 
+          3.3
+          브랜치 관리 
+          3.4
+          브랜치 워크플로 
+          3.5
+          리모트 브랜치 
+          3.6
+          Rebase 하기 
+          3.7
+          요약 
+  4. Git 서버
+          4.1
+          프로토콜 
+          4.2
+          서버에 Git 설치하기 
+          4.3
+          SSH 공개키 만들기 
+          4.4
+          서버 설정하기 
+          4.5
+          Git 데몬 
+          4.6
+          스마트 HTTP 
+          4.7
+          GitWeb 
+          4.8
+          GitLab 
+          4.9
+          또 다른 선택지, 호스팅 
+          4.10
+          요약 
+  5. 분산 환경에서의 Git
+          5.1
+          분산 환경에서의 워크플로 
+          5.2
+          프로젝트에 기여하기 
+          5.3
+          프로젝트 관리하기 
+          5.4
+          요약 
+  6. GitHub
+          6.1
+          계정 만들고 설정하기 
+          6.2
+          GitHub 프로젝트에 기여하기 
+          6.3
+          GitHub 프로젝트 관리하기 
+          6.4
+          Organization 관리하기 
+          6.5
+          GitHub 스크립팅 
+          6.6
+          요약 
+  7. Git 도구
+          7.1
+          리비전 조회하기 
+          7.2
+          대화형 명령 
+          7.3
+          Stashing과 Cleaning 
+          7.4
+          내 작업에 서명하기 
+          7.5
+          검색 
+          7.6
+          히스토리 단장하기 
+          7.7
+          Reset 명확히 알고 가기 
+          7.8
+          고급 Merge 
+          7.9
+          Rerere 
+          7.10
+          Git으로 버그 찾기 
+          7.11
+          서브모듈 
+          7.12
+          Bundle 
+          7.13
+          Replace 
+          7.14
+          Credential 저장소 
+          7.15
+          요약 
+  8. Git맞춤
+          8.1
+          Git 설정하기 
+          8.2
+          Git Attributes 
+          8.3
+          Git Hooks 
+          8.4
+          정책 구현하기 
+          8.5
+          요약 
+  9. Git과 여타 버전 관리 시스템
+          9.1
+          Git: 범용 Client 
+          9.2
+          Git으로 옮기기 
+          9.3
+          요약 
+  10. Git의 내부
+          10.1
+          Plumbing 명령과 Porcelain 명령 
+          10.2
+          Git 개체 
+          10.3
+          Git Refs 
+          10.4
+          Packfile 
+          10.5
+          Refspec 
+          10.6
+          데이터 전송 프로토콜 
+          10.7
+          운영 및 데이터 복구 
+          10.8
+          환경변수 
+          10.9
+          요약 
+  A1. Appendix A: 다양한 환경에서 Git 사용하기
+          A1.1
+          GUI 
+          A1.2
+          Visual Studio 
+          A1.3
+          Eclipse 
+          A1.4
+          Bash 
+          A1.5
+          Zsh 
+          A1.6
+          Git in Powershell 
+          A1.7
+          요약 
+  A2. Appendix B: 애플리케이션에 Git 넣기
+          A2.1
+          Git 명령어 
+          A2.2
+          Libgit2 
+          A2.3
+          JGit 
+          A2.4
+          go-git 
+  A3. Appendix C: Git 명령어
+          A3.1
+          설치와 설정 
+          A3.2
+          프로젝트 가져오기와 생성하기 
+          A3.3
+          스냅샷 다루기 
+          A3.4
+          Branch와 Merge 
+          A3.5
+          공유하고 업데이트하기 
+          A3.6
+          보기와 비교 
+          A3.7
+          Debugging 
+          A3.8
+          Patch 하기 
+          A3.9
+          Email 
+          A3.10
+          다른 버전 관리 시스템 
+          A3.11
+          관리 
+          A3.12
+          Plumbing 명령어 
+      2nd Edition
+    10.5 Git의 내부 - Refspec
+Refspec
+원격의 브랜치와 로컬 Refs를 간단히 매핑하는 것은 많이 봤다. 이 매핑은 실은 좀 더 복잡하다.
+앞서 자주 해왔듯 로컬 Git 저장소를 새로 생성하고 사용을 하다가 origin 이라는 리모트 저장소를 새로 추가 혹은 지정하려면 아래처럼 실행한다.
+$ git remote add origin https://github.com/schacon/simplegit-progit
+이 명령은 origin 이라는 저장소 이름, URL, Fetch 할 Refspec를 .git/config 파일에 추가한다.
+[remote "origin"]
+    url = https://github.com/schacon/simplegit-progit
+    fetch = +refs/heads/*:refs/remotes/origin/*
+Refspec 형식은 + 와 &lt;src&gt;:&lt;dest&gt; 로 돼 있다. + 는 생략 가능하고, &lt;src&gt; 는 리모트 저장소의 Refs 패턴이고 &lt;dst&gt; 는 매핑되는 로컬 저장소의 Refs 패턴이다.
++ 는 Fast-forward가 아닌 업데이트를 허용하는 것이다.
+기본적으로 Git은 git remote add 명령으로 생성한 설정을 참고하여 리모트 서버에서 refs/heads/ 에 있는 Refs를 가져다 로컬의 refs/remotes/origin/ 에 기록한다.
+로컬에서 서버에 있는 master 브랜치에 접근할 때는 아래와 같이 한다.
+$ git log origin/master
+$ git log remotes/origin/master
+$ git log refs/remotes/origin/master
+이 세 명령의 결과가 모두 같다.
+Git은 모두 refs/remotes/origin/master 라고 해석한다.
+master 브랜치만 가져올 수 있게 하려면 fetch 부분을 아래와 같이 바꿔준다. 그러면 다른 브랜치는 가져올 수 없다.
+fetch = +refs/heads/master:refs/remotes/origin/master
+이는 해당 리모트 저장소에서 git fetch 명령을 실행할 때 자동으로 사용되는 Refspec이다.
+다른 Refspec을 가져오려면 명령의 아규먼트로 넘긴다.
+리모트 브랜치 master 를 로컬 브랜치 origin/mymaster 로 가져오려면 아래와 같이 실행한다.
+$ git fetch origin master:refs/remotes/origin/mymaster
+Refspec을 여러 개 넘겨도 된다.
+한꺼번에 브랜치를 여러 개 가져온다.
+$ git fetch origin master:refs/remotes/origin/mymaster \
+     topic:refs/remotes/origin/topic
+From git@github.com:schacon/simplegit
+ ! [rejected]        master     -&gt; origin/mymaster  (non fast forward)
+ * [new branch]      topic      -&gt; origin/topic
+여기서 master 브랜치는 Fast-forward가 아니라서 거절된다.
+하지만, Refspec 앞에 + 를 추가하면 강제로 덮어쓴다.
+설정 파일에도 Refspec을 여러 개 적을 수 있다.
+master 와 experiment 브랜치를 둘 다 적으면 origin 리모트에서 항상 함께 가져온다.
+[remote "origin"]
+    url = https://github.com/schacon/simplegit-progit
+    fetch = +refs/heads/master:refs/remotes/origin/master
+    fetch = +refs/heads/experiment:refs/remotes/origin/experiment
+하지만, Glob 패턴은 사용할 수 없다.
+fetch = +refs/heads/qa*:refs/remotes/origin/qa*
+그 대신 네임스페이스 형식(디렉토리 형식)으로는 사용할 수 있다.
+만약 QA 팀이 Push 하는 브랜치가 있고 이 브랜치를 가져오고 싶으면 아래와 같이 설정한다. 다음은 master 브랜치와 QA 팀의 브랜치만 가져오는 설정이다.
+[remote "origin"]
+    url = https://github.com/schacon/simplegit-progit
+    fetch = +refs/heads/master:refs/remotes/origin/master
+    fetch = +refs/heads/qa/*:refs/remotes/origin/qa/*
+좀 더 복잡한 것도 가능하다. QA 팀뿐만 아니라, 일반 개발자, 통합 팀 등이 사용하는 브랜치를 네임스페이스 별로 구분해 놓으면 좀 더 Git을 편리하게 사용할 수 있다.
+Refspec Push 하기
+위와 같은 방식으로 네임스페이스를 사용하여 리모트 브랜치를 구별하여 사용하는 것은 꽤 괜찮은 방법이다. 만약 QA팀이 네임스페이스를 사용하지 않는 브랜치를 리모트에 네임스페이스를 써서 Push 하려면 어떻게 해야 할까?
+이럴 땐 Refspec으로 가능하다.
+QA 팀이 master 브랜치를 리모트 저장소에 qa/master 로 Push 하려면 아래와 같이 한다.
+$ git push origin master:refs/heads/qa/master
+git push origin 을 실행할 때마다 Git이 자동으로 Push 하게 하려면 아래와 같이 설정 파일에 push 항목을 추가한다.
+[remote "origin"]
+    url = https://github.com/schacon/simplegit-progit
+    fetch = +refs/heads/*:refs/remotes/origin/*
+    push = refs/heads/master:refs/heads/qa/master
+다시 말하자면 위와 같이 설정은 git push origin 을 실행할 때 로컬 브랜치 master 를 리모트 브랜치 qa/master 로 Push 하도록 하는 설정이다.
+Refs 삭제하기
+Refspec으로 서버에 있는 Refs를 삭제할 수 있다.
+$ git push origin :topic
+Refspec의 형식은 &lt;src&gt;:&lt;dst&gt; 이니까 &lt;src&gt; 를 비우고 실행하면 &lt;dst&gt; 를 비우라는 명령이 된다. 따라서 위 명령은 리모트의 topic 브랜치를 삭제한다.
+다음과 같은 명령으로도 브랜치를 삭제할 수 있다. Git 버전 v1.7 이상에서 가능하다.
+$ git push origin --delete topic
+prev | next
+    About this site
+    Patches, suggestions, and comments are welcome.
+    Git is a member of Software Freedom Conservancy

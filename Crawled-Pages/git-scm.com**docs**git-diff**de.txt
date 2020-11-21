@@ -1,0 +1,348 @@
+        About
+            Branching and Merging
+            Small and Fast
+            Distributed
+            Data Assurance
+            Staging Area
+            Free and Open Source
+            Trademark
+        Documentation
+            Reference
+            Book
+            Videos
+            External Links
+        Downloads
+            GUI Clients
+            Logos
+        Community
+  Deutsch ▾
+  Localized versions of git-diff manual
+        Deutsch
+        English
+        Français
+        Português (Brasil)
+    Want to read in your language or fix typos? You can help translate this page.
+    Topics ▾
+      Setup and Config
+  git
+  config
+  help
+  bugreport
+      Getting and Creating Projects
+  init
+  clone
+      Basic Snapshotting
+  add
+  status
+  diff
+  commit
+  notes
+  restore
+  reset
+  rm
+  mv
+      Branching and Merging
+  branch
+  checkout
+  switch
+  merge
+  mergetool
+  log
+  stash
+  tag
+  worktree
+      Sharing and Updating Projects
+  fetch
+  pull
+  push
+  remote
+  submodule
+      Inspection and Comparison
+  show
+  log
+  diff
+  difftool
+  range-diff
+  shortlog
+  describe
+      Patching
+  apply
+  cherry-pick
+  diff
+  rebase
+  revert
+      Debugging
+  bisect
+  blame
+  grep
+      Email
+  am
+  apply
+  format-patch
+  send-email
+  request-pull
+      External Systems
+  svn
+  fast-import
+      Server Admin
+  daemon
+  update-server-info
+      Guides
+  gitattributes
+  Command-line interface conventions
+  Everyday Git
+  Frequently Asked Questions (FAQ)
+  Glossary
+  githooks
+  gitignore
+  gitmodules
+  Revisions
+  Submodules
+  Tutorial
+  Workflows
+      Administration
+  clean
+  gc
+  fsck
+  reflog
+  filter-branch
+  instaweb
+  archive
+  bundle
+      Plumbing Commands
+  cat-file
+  check-ignore
+  checkout-index
+  commit-tree
+  count-objects
+  diff-index
+  for-each-ref
+  hash-object
+  ls-files
+  ls-tree
+  merge-base
+  read-tree
+  rev-list
+  rev-parse
+  show-ref
+  symbolic-ref
+  update-index
+  update-ref
+  verify-pack
+  write-tree
+      Latest version
+       ▾ 
+git-diff last updated in 2.28.0
+  Changes in the git-diff manual
+        2.28.0
+          07/27/20
+        2.25.2 → 2.27.0 no changes
+        2.25.1
+          02/17/20
+        2.25.0
+          01/13/20
+        2.24.1 → 2.24.3 no changes
+        2.24.0
+          11/04/19
+        2.22.1 → 2.23.3 no changes
+        2.22.0
+          06/07/19
+        2.21.1 → 2.21.3 no changes
+        2.21.0
+          02/24/19
+        2.20.1 → 2.20.4 no changes
+        2.20.0
+          12/09/18
+        2.19.3 → 2.19.5 no changes
+        2.19.2
+          11/21/18
+        2.19.1 no changes
+        2.19.0
+          09/10/18
+        2.18.1 → 2.18.4 no changes
+        2.18.0
+          06/21/18
+        2.17.1 → 2.17.5 no changes
+        2.17.0
+          04/02/18
+        2.16.6
+          12/06/19
+        2.15.4
+          12/06/19
+        2.14.6
+          12/06/19
+        2.13.7
+          05/22/18
+        2.12.5
+          09/22/17
+        2.11.4
+          09/22/17
+        2.10.5 no changes
+        2.9.5
+          07/30/17
+        2.8.6
+          07/30/17
+        2.7.6 no changes
+        2.6.7
+          05/05/17
+        2.5.6
+          05/05/17
+        2.4.12
+          05/05/17
+        2.3.10
+          09/28/15
+    See more previous releases → -->
+    Check your version of git by running
+    $
+NAME
+git-diff – Zeigt die Unterschiede zwischen Commits, Commit und
+Arbeitsbereich usw.
+ÜBERSICHT
+git diff [&lt;Optionen&gt;] [&lt;Commit&gt;] [--] [&lt;Pfad&gt;…​]
+git diff [&lt;Optionen&gt;] --cached [&lt;Commit&gt;] [--] [&lt;Pfad&gt;…​]
+git diff [&lt;Optionen&gt;] &lt;Commit&gt; [&lt;Commit&gt;…​] &lt;Commit&gt; [--] [&lt;Pfad&gt;…​]
+git diff [&lt;Optionen&gt;] &lt;Commit&gt;…​&lt;Commit&gt; [--] [&lt;Pfad&gt;…​]
+git diff [&lt;Optionen&gt;] &lt;Blob&gt; &lt;Blob&gt;
+git diff [&lt;Optionen&gt;] --no-index [--] &lt;Pfad&gt; &lt;Pfad&gt;
+BESCHREIBUNG
+Zeigt Änderungen zwischen dem Arbeitsbereich und dem Index oder einem
+Verzeichnisbaum, Änderungen zwischen dem Index und einem Verzeichnisbaum,
+Änderungen zwischen zwei Verzeichnisbäumen, Änderungen, die sich aus einem
+Merge ergeben, Änderungen zwischen zwei Blob-Objekten oder Änderungen
+zwischen zwei Dateien auf der Festplatte.
+ git diff [&lt;Optionen&gt;] [--] [&lt;Pfad&gt;…​] 
+Mit dieser Befehlssyntax können die Änderungen angezeigt werden, die Sie
+relativ zum Index vorgenommen haben (Staging-Area für den nächsten Commit).
+Mit anderen Worten, die Unterschiede sind das, was Sie Git mitteilen
+könnten, um es später zum Index hinzuzufügen, aber Sie haben es immer noch
+nicht getan.  Sie können diese Änderungen mit git-add[1]
+bereitstellen (stagen).
+ git diff [&lt;Optionen&gt;] --no-index [--] &lt;Pfad&gt; &lt;Pfad&gt; 
+Diese Form dient dem Vergleich der beiden angegebenen Pfade auf dem
+Dateisystem.  Sie können die Option --no-index weglassen, wenn Sie den
+Befehl in einem von Git kontrollierten Arbeitsbereich ausführen und
+mindestens einer der Pfade außerhalb des Arbeitsbereichs liegt oder wenn Sie
+den Befehl außerhalb eines von Git kontrollierten Arbeitsbereichs
+ausführen. Diese Form impliziert die Option --exit-code.
+ git diff [&lt;Optionen&gt;] --cached [&lt;Commit&gt;] [--] [&lt;Pfad&gt;…​] 
+Auf diese Art können Sie sich die Änderungen ansehen, die Sie für den
+nächsten Commit, relativ zu dem angegebenen &lt;Commit&gt;, vorgenommen haben.
+Normalerweise werden Sie einen Vergleich mit dem letzten Commit sehen
+wollen. Wenn Sie also den &lt;Commit&gt; nicht angeben, wird standardmäßig HEAD
+verwendet.  Wenn HEAD nicht existiert (z.B. wegen noch nicht erstelltem
+Branch) und &lt;Commit&gt; nicht angegeben wird, zeigt dies alle Änderungen in der
+Staging-Area an.  --staged ist ein Synonym für --cached.
+ git diff [&lt;Optionen&gt;] &lt;Commit&gt; [--] [&lt;Pfad&gt;…​] 
+Zeigt die Unterschiede zwischen dem Arbeitsbereich und dem angegebenen
+&lt;Commit&gt; an.  Sie können HEAD verwenden, um ihn mit dem letzten Commit zu
+vergleichen oder den Namen eines Branchs, um ihn mit der Spitze eines
+anderen Branchs zu vergleichen.
+ git diff [&lt;Optionen&gt;] &lt;Commit&gt; &lt;Commit&gt; [--] [&lt;Pfad&gt;…​] 
+Zeigt die Änderungen zwischen zwei beliebigen &lt;Commit&gt;s an.
+ git diff [&lt;Optionen&gt;] &lt;Commit&gt;..&lt;Commit&gt; [--] [&lt;Pfad&gt;…​] 
+Dieser Aufruf bewirkt das Gleiche wie der vorherige. Wird &lt;Commit&gt; auf einer
+Seite weggelassen, so wird HEAD genommen.
+ git diff [&lt;Optionen&gt;] &lt;Commit&gt; [&lt;Commit&gt;…​] &lt;Commit&gt; [--] [&lt;Pfad&gt;…​] 
+In dieser Form können Sie die Ergebnisse eines Merge Commits betrachten.
+Der erste aufgelistete &lt;Commit&gt; muss der Merge selbst sein; die restlichen
+zwei oder mehr Commits sollten seine Eltern sein.  Ein praktischer Weg, den
+gewünschten Satz von Revisionen zu erzeugen, ist die Verwendung des Suffixs
+^@.  Wenn z.B. master einen Merge-Commit benennt, ergibt git diff
+master master^@ das gleiche kombinierte Diff wie git show master.
+ git diff [&lt;Optionen&gt;] &lt;Commit&gt;...&lt;Commit&gt; [--] [&lt;Pfad&gt;…​] 
+Dieser Befehl zeigt die Änderungen auf dem Branch an, der den zweiten
+&lt;Commit&gt; enthält, beginnend mit einem gemeinsamen Vorfahren beider
+&lt;Commit&gt;s, bis zum zweiten &lt;Commit&gt;.  "git diff A...B" ist äquivalent zu
+"git diff $(git merge-base A B) B".  Sie können einen der beiden &lt;Commit&gt;s
+weglassen, wodurch stattdessen HEAD eingesetzt wird.
+Für alle exotischen Anwendungsfälle, weisen wir darauf hin, dass alle
+&lt;Commit&gt;s in den vorstehenden Beschreibungen, mit Ausnahme der letzten
+beiden Varianten, die die "…​"-Notationen verwenden, beliebige
+&lt;„Verzeichnis-Bäume“&gt; sein können.
+Eine ausführlichere Liste, wie &lt;commit&gt; spezifiziert werden kann, findet
+sich in gitrevisions[7] im Abschnitt „REVISIONEN SPEZIFIZIEREN“.
+Allerdings vergleicht "diff" immer zwei Versionen (Endpunkte) miteinander
+und keine Bereiche. Die Bereichsnotationen ("&lt;commit&gt;…​&lt;commit&gt;" und
+"&lt;commit&gt;...&lt;commit&gt;") bezeichnen hier also keinen Bereich (Range) wie es
+im Abschnitt "BEREICHE FESTLEGEN" in gitrevisions[7] beschrieben
+ist.
+ git diff [&lt;options&gt;] &lt;blob&gt; &lt;blob&gt; 
+Auf diese Art lassen sich die Unterschiede zwischen den Rohinhalten zweier
+Blob-Objekte anzeigen.
+OPTIONEN
+Warning
+Missing de/diff-options.txt
+See original version for this content.
+ -1 --base 
+ -2 --ours 
+ -3 --theirs 
+Vergleicht den Arbeitsbereich mit der "Basis"-Version (base, Stufe #1),
+„unserer Branch“ (ours, Stufe #2) oder „deren Branch“ (theirs, Stufe
+#3).  Der Index enthält diese Stufen nur für nicht gemergte Einträge,
+d.h. bei der Auflösung von Konflikten.  Siehe dazu git-read-tree[1]
+Abschnitt „3-Wege-Merge“ für weitere Informationen.
+ -0 
+Lässt die Diff-Ausgabe für nicht gemergte Beiträge weg und zeigt nur
+"Unmerged" an.  Kann nur verwendet werden, wenn der Arbeitsbereich mit dem
+Index verglichen wird.
+ &lt;Pfad&gt;…​ 
+Die &lt;Pfad&gt;-Parameter, sofern angegeben, werden verwendet, um das diff auf
+die benannten Pfade zu beschränken (auch Verzeichnisnamen können angegeben
+werden, um ein diff für alle Dateien darin zu erhalten).
+Warning
+Missing de/diff-format.txt
+See original version for this content.
+BEISPIELE
+ Diverse Methoden zum Überprüfen ihres Arbeitsbereichs 
+$ git diff            (1)
+$ git diff --cached   (2)
+$ git diff HEAD       (3)
+Änderungen im Arbeitsbereich, die noch nicht im Index für den nächsten
+Commit vorbereitet wurden.
+Änderungen zwischen dem Index und dem letzten Commit. Die Daten, die Sie
+committen würden, wenn Sie git commit ohne die Option -a ausführen.
+Änderungen zwischen dem Index und dem letzten Commit. Das würden Sie
+committen, wenn Sie "git commit -a" ausführen
+ Vergleichen beliebiger Commits 
+$ git diff test            (1)
+$ git diff HEAD -- ./test  (2)
+$ git diff HEAD^ HEAD      (3)
+Statt die neuesten Version des aktuellen Branchs zu verwenden, wird die
+neueste Version der Branch „test“ verglichen.
+Anstatt mit der neuesten Version der Branch „test“ zu vergleichen, wird mit
+der neuesten Version (HEAD) der aktuellen Branch verglichen, allerdings
+ist der Vergleich auf die bezeichnete Datei (./test) beschränkt.
+Vergleicht die Version vor dem letzten Commit mit dem letzten Commit.
+ Branches vergleichen 
+$ git diff topic master    (1)
+$ git diff topic..master   (2)
+$ git diff topic...master  (3)
+Vergleich zwischen den neuesten Versionen der topic und der master
+Branch.
+Wie oben.
+Änderungen, die am Branch master seit Start des Branch topic vorgenommen
+wurden.
+ Die diff Ausgabe einschränken 
+$ git diff --diff-filter=MRC            (1)
+$ git diff --name-status                (2)
+$ git diff arch/i386 include/asm-i386   (3)
+Zeigt nur die Änderung, Umbenennung und Kopie, aber keine Löschung oder
+Hinzufügung.
+Zeigt nur Namen und die Art der Änderung, nicht aber die tatsächliche
+Ausgabe von diff.
+Schränkt den Vergleich auf das benannte Unterverzeichnis ein.
+ Manipulation (munging) der diff-Ausgabe 
+$ git diff --find-copies-harder -B -C  (1)
+$ git diff -R                          (2)
+Führt weitere Iterationen durch um Umbenennungen, Kopien und komplett
+neugeschriebene Teile zu finden (sehr zeitaufwendig!).
+Ausgabe in umgekehrter Reihenfolge.
+SIEHE AUCH
+diff(1), git-difftool[1], git-log[1],
+gitdiffcore[7], git-format-patch[1], git-apply[1],
+git-show[1]
+GIT
+Teil der git[1] Suite
+    About this site
+    Patches, suggestions, and comments are welcome.
+    Git is a member of Software Freedom Conservancy

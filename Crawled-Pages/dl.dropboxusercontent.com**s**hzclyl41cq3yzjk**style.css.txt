@@ -1,0 +1,161 @@
+/* =============================================================================
+   PXU Photoset Extended Styles
+   ========================================================================== */
+.clearit:before, .clearit:after { content: ""; display: table; }
+.clearit:after { clear: both; }
+.clearit { *zoom: 1; }
+/* Photoset */
+.photo-slideshow {
+  visibility: hidden;
+}
+.photo-slideshow.processed {
+  visibility: visible;
+}
+.photo-slideshow .row {
+  clear: both;
+  width: 100%;
+}
+.photo-slideshow .row:last-of-type {
+  margin-bottom:0 !important;
+}
+.photo-slideshow .pxu-photo {
+  display: block;
+  float: left;
+  margin-bottom: 0;
+  width: 100%;
+  overflow: hidden;
+}
+.photo-slideshow .pxu-photo img {
+  display: block;
+}
+.photo-slideshow.processed .pxu-photo img {
+  width: 100%;
+  height: auto;
+}
+.photo-slideshow .pxu-photo:first-child img {
+  margin-left: 0;
+}
+.photo-slideshow .count-1 {
+  width: 100%;
+}
+.photo-slideshow .count-2 {
+  width: 50%;
+}
+.photo-slideshow .count-3 {
+  width: 33.33%;
+}
+.photo-slideshow .count-4 {
+  width: 25%;
+}
+.photo-slideshow .count-5 {
+  width: 20%;
+}
+.photo-slideshow .info {
+  display: none;
+}
+.tumblr-box {
+  display:block;
+  position:absolute;
+  top:0;
+  right:0;
+  bottom:0;
+  left:0;
+  z-index:1;
+}
+/* EXIF &amp; CAPTION Data Tooltip */
+.photo-data {
+    position: relative;
+    float: left;
+}
+.pxu-caption {
+  margin-top: 0;
+  word-wrap: break-word;
+}
+.pxu-caption:before {
+  content: url('http://static.tumblr.com/hugxd2w/SSBm6wxmm/caption-icon.png');
+  opacity: 0.5;
+  filter: alpha(opacity = 50);
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+  float: left;
+  margin-right: 5px;
+}
+.pxu-data.caption-only .pxu-caption {
+  margin-bottom: 0;
+}
+.pxu-data table {
+  font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: bold;
+  width: 100%;
+}
+.pxu-data table tr {
+  width: 100%;
+}
+.pxu-data table tr td {
+  width: 50%;
+  font-weight: bold;
+  padding-bottom: 15px;
+}
+.pxu-data table tr:last-child td {
+  padding-bottom: 0;
+}
+.pxu-data .label {
+  color: #cccccc;
+  text-transform: uppercase;
+  font-size: 10px;
+  text-align: right;
+  padding-right: 12px;
+  font-weight: normal;
+}
+.arrow-down {
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-bottom: 10px solid rgba(0,0,0,0.85);
+  position: absolute;
+  top: -10px;
+  left: 110px;
+}
+@import url('https://fonts.googleapis.com/css?family=Anonymous+Pro');
+#reblogged {
+    position: fixed!important;
+    bottom: 20px!important;
+    right: 30px!important;
+    text-align: center!important;
+    width: 40px!important;
+    z-index: 99999999999999999999999!important;
+    color: #999!important;
+    overflow: hidden!important;
+    height: 25px!important;
+    font-size:10px!important;
+    opacity:1!important;
+    display:block!important;
+    visibility:visible!important;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+    font-size:9px!important;
+}
+#reblogged:hover {
+    height: 55px!important;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
+#reblogged svg {
+    height: 21px!important;
+    fill: #999!important;
+    margin-bottom: 5px!important;
+}
+#reblogged span {
+    display: block!important;
+    font-family: 'anonymous pro',monospace!important;
+}
+#reblogged a {
+    color:#999!important;
+    border-bottom:none!important;
+}

@@ -1,0 +1,340 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+SoCal NOMA Prepares Young Students of Color to Break Barriers in the Architecture Industry            
+				By Imani Sumbi, Contributing Writer                
+	                	                Published August 1, 2019
+		Eletrice Harris (Courtesy photo)
+“What is the most important thing if you are an architect, or an engineer, or designing anything for anybody?”
+Architecture Professor Nina Briggs posed this question to a room of middle school and high school students who were gathered in the student center of East L.A. College for the first day of a summer engineering and architecture camp.
+One student guessed passion. Another said a pencil while another said safety. After several more students gave their answers (imagination, a blueprint, money, etc.) one child called out the answer Briggs was searching for – people.
+        ADVERTISEMENT        
+“Before you start designing, while you are designing, after you have designed, who are you designing for?” she asked.
+“People!” the students replied in unison.
+Briggs was the final guest speaker on the opening day of the 2019 SoCal NOMA Project Pipeline Architecture &amp; Engineering Summer Camp. NOMA, or the National Organization for Minority Architects, was founded in 1971 when a group of 12 African American architects attended the American Institute of Architects National Convention and realized that minority design professionals urgently needed to self-advocate for greater inclusion in architecture and construction programs.  They made it their mission not only to combat discriminatory policies in the architecture industry, but also to foster positive relationships among minority architects and provide pathways to advance their careers. Today, NOMA has over 100 professional and student chapters in cities and universities across the country.
+Unfortunately, minority representation continues to lag in the industry. Out of around 113,000 total licensed architects in the United States, fewer than 2,300 (about 2 percent) are Black. People of color combined make up about 10 percent of architects in America.
+(Courtesy photo)
+According to Reuben E. Jacobs, former events coordinator for NOMA’s southern California chapter (SoCal NOMA), it was about 12 years ago that the organization’s leaders decided that “they really needed to do something to bring the next generation into architecture and urban planning.” Thus was born Project Pipeline, a national initiative to introduce young people of color to the field. NOMA tasked its chapters across the country to organize camps with the purpose of educating youth on the basics of architecture.
+This year, SoCal NOMA ran its annual summer camp, which welcomes students between the ages of 10 and 16, for its 10thyear. The camp took place on three consecutive Saturdays from July 13 to July 27.
+Camp Director Eletrice Harris says it is important for these children to see themselves in an industry where they are massively underrepresented. Therefore, the camp’s projects are always staged in predominantly minority communities.
+“Every year, we try to choose an exciting project that’s going on in the community at a place in the community that’s highly visible, that is accessible to our campers and that is in a community that they all live in,” Harris says.
+This year, students created designs for the upcoming streetscape project, Destination Crenshaw, a 1.3-mile open-air museum that will celebrate and revitalize the art, culture, and spirit of Black Los Angeles. The project, which was led in part by the late rapper and entrepreneur Nipsey Hussle, is an effort to reclaim the neighborhood in response to the implementation of the Metro and to gentrification.
+(Courtesy photo)
+When Nina Briggs told the campers to “never forget for whom you are designing,” she was telling them to consider the impact their designs could have on the Black community of Crenshaw. For her, Destination Crenshaw is personal – hers was one of the first Black families to integrate the neighborhood during the late 1950s.
+“Destination Crenshaw got together with all of the community [and] community leaders, and they decided to make lemonade out of lemons,” Briggs said. “Their motto is, ‘We’re here, we always were here, we’re here to say.’ And Destination Crenshaw will be about unapologetically Black.”
+On the second Saturday, the camp took a field trip to Crenshaw so students could familiarize themselves with the actual sites for which they are designing. They visited historic locations such as the newly-renamed Ermias Nipsey Hussle Square, the classic soul food restaurant Dulan’s on Crenshaw, the Crenshaw Wall and the Leimert Park Village Plaza.
+These places hold a special importance for Hakeem Parke-Davis, a Crenshaw native who works as a planning assistant for the City of Los Angeles and has been a mentor in the summer camp for the past six years.
+“Bringing them here is really giving them the connection, the nexus to the environment that they are ultimately in charge of,” he said. “We want to show them that they own this. This is their community, and if they grow up to be planners, architects or engineers, they too can contribute to the urban scene.”
+During the field trip, Parke-Davis took care to point out the artistic details – the pot-shaped garbage cans, the West African symbols lining the ground before the Vision Theater, etc. – that give this neighborhood a uniquely African identity.
+The campers made their final stop at Art + Practice, which occupies a nearly 20,000-square-foot campus in the heart of the village. It functions as both a contemporary art gallery and a support space for foster youth. There, they listened to a presentation on the L.A. Rebellion, a group of Black student filmmakers who studied at UCLA during the late 1960s and reshaped the cinematic representation Black families, communities and individuals.
+(Courtesy photo)
+Larry Huley, the executive director of the camp, was excited to bring the students to Leimert Park because he believed it would act as a great source of inspiration for their designs.
+“We’re really excited about today, because we’re giving the kids an opportunity to now tap into their creative side,” Huley said. “And we like to say that their creative side is just as unique as their DNA.”
+Drake Dillard, the former president of SoCal NOMA, was also present during the field trip. He is a project manager for Perkins and Will, the architectural firm behind Destination Crenshaw. As a resident of the area, he has an especially strong connection to the project.
+“It’s a great opportunity for me, being an architect, to be involved and manage a project right in my own backyard,” Dillard said. “So, I’m very proud about it and very happy to be involved.”
+To complete their take on Destination Crenshaw, the SoCal NOMA campers were split into groups called “zones,” with each zone representing a different lot on the Crenshaw Corridor. They will present their finished models to their parents and loved ones in a closing ceremony this Saturday, August 3.
+Harris hopes that this will only be the beginning of their journey in architecture, as Project Pipeline is designed to nurture the next generation of design professionals from middle school all the way through higher education and beyond. Dillard says the ultimate goal of the initiative is to create a network of minority professionals across the country who will support one another and lift up the next generation in turn.
+(Courtesy photo)
+Stephen Curtiss, a former SoCal NOMA camper, is a perfect example of this vision. Curtiss first began attending the camp when he was 13 and is now entering his second year as an architecture major at East LA College. When one of his professors informed him that SoCal NOMA would be running their 2019 summer camp on the campus, Curtiss saw an opportunity to give back to the organization by becoming a camp volunteer.
+“Eletrice [Harris] showed me a picture of me back in 2012, and it was just very inspiring today, after I put my camp shirt on, and my lanyard, to see me as a mentor all these years later,” Curtiss said. “And that was just a surreal moment.”
+Richey Madison is a principal at Stantec, a sponsor of the summer camp. He serves on the company’s U.S. Education Leadership Council as well as the U.S. Diversity and Inclusion Council. It is his second year volunteering as a mentor for the SoCal NOMA camp, where he has come to appreciate the untapped potential of the youngest aspiring architects. He fondly remembers a student from last year who proved that talent knows no age.
+“It was the first time I was engaged with a student that young – she was 10 – that was very talented,” Madison recalls. “Her assigned building was a restaurant, and without any guidance, right there on the spot this 10-year-old child laid out a restaurant floor plan and all of the rooms were in the right locations. There were no functional deficiencies in her plan. It was that kind of mind that inspires me to enjoy this, because I typically spend more time with young professionals who have graduated from college.”
+Ultimately, NOMA leaders like Madison, Harris, Parke-Davis, Dillard, Huley and others want nothing more than to provide these youth with the things many of them did not have when they dreamed of being architects – an early introduction to the topic, a clear path to success in the field, and the opportunity to see themselves and their communities reflected in a profession that quite literally builds the world around us.
+To learn more about the SoCal NOMA chapter and to access information about the summer camp, visit socalnoma.org.
+		Categories: Education | Local | News (Family) Tags: Architecture Professor Nina Briggs | Crenshaw | Crenshaw Corridor | Destination Crenshaw | Drake Dillard | Dulan's | East L.A. College | Electrice Harris | Ermias Nipsey Hussle Square | Hakeem Parke-Davis | Leimert Park | National Organization for Minority Architects | Nipsey Hussle | Perkins and Will | SoCal NOMA Project Pipeline Architecture &amp; Engineering Summer Camp | Stephen Curtiss | UCLA | was founded in 1971 when a group of 12 African American architects attended the American Institute of Architects National Convention		
+						Black Fact of the Day: August 1, 2019 – Brought to you by Black365
+						FLAIR 2019 Charity Fashion Celebrates African Americans in the Industry
+						Black Fact of the Day: August 2, 2019 – Brought to you by Black365
+						Man Shot, Killed in Compton
+						Appellate Court Sides with Opponents of Hollywood Skyscraper Project
+						Authorities Seeking Fugitives in a Dozen Unrelated Violent Crimes in LA Are...
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

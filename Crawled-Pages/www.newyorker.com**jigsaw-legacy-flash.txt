@@ -1,0 +1,112 @@
+    	Search
+      Sign In  
+       Link your subscription
+	The New Yorker
+		Sign in
+		View your profile
+		|
+		Sign out
+		|
+		Link your subscription
+		|
+		Shop
+      Home
+    News
+Culture
+Books
+Business &amp; Tech
+Humor
+Cartoons
+Magazine
+Video
+Podcasts
+Archive
+Goings On
+            Search
+				Jigsaw Puzzle
+											    @media (min-width: 53.125em) {    #page-header {margin-bottom: 0;}    #main div.header-ad div.advertisement.loaded {min-height: 92px;}    .landing #page-header {border-bottom: 0;}    .generic-page #main div.module-container-rail {padding-top: 0;}    div.content-wrapper {padding-top: 50px;}    #most-popular .button-container,#newsletter-signup,#AMS_NYR_ARTICLE_BLOG_RIGHTRAIL_A,#hd section.logo-container {display: none;}    nav.primary-nav > ul {padding-top: 15px;}  }  #promotions { display: none; }      If you experience problems, you can use the non-Flash version    									
+	The Daily
+				Enter e-mail address
+				Go
+		Please enter a valid e-mail address
+	Submitting...
+	Thank you for subscribing. You’ll receive your first newsletter soon. View all newsletters »
+				Most Popular
+							Sasha Bezzubov and Jessica Sucher
+							Sasha Bezzubov and Jessica Sucher
+							The “Butter-Chicken Lady” Who Made Indian Cooks Love the Instant Pot
+							Sasha Bezzubov and Jessica Sucher
+							Tilton
+						Our Thirty Most Popular
+		About
+	    Careers
+		Cartoon Bank
+		Contact
+		Customer Care
+		FAQ
+		Media Kit
+		On The Town
+ 		Press
+ 		Reprints
+		RSS
+ 		Site Map
+		Store
+		SecureDrop
+			About
+			About
+			Careers
+			Cartoon Bank
+			Contact
+			Customer Care
+			FAQ
+			Media Kit
+			On The Town
+			Press
+			Reprints
+			RSS
+			Site Map
+			Store
+			Strongbox
+	Condé Nast Digital
+	© 2020 Condé Nast. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement (updated 5/25/18) and Privacy Policy and Cookie Statement (updated 5/25/18). Your California Privacy Rights. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. The New Yorker may earn a portion of sales from products and services that are purchased through links on our site as part of our affiliate partnerships with retailers. Ad Choices   
+			Our sites
+			Allure
+			Architectural Digest
+			Ars Technica
+			Backchannel
+			Bon Appétit
+			Brides.com
+			Condé Nast Traveler
+			Epicurious
+			Glamour
+			Golf Digest
+			Golf World
+			GQ
+			GQ Style
+			Pitchfork
+			Self
+			Teen Vogue
+			Vanity Fair
+			Vogue
+			W
+			Wired
+	© 2020 Condé Nast. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement (updated 5/25/18) and Privacy Policy and Cookie Statement (updated 5/25/18). Your California Privacy Rights. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. The New Yorker may earn a portion of sales from products and services that are purchased through links on our site as part of our affiliate partnerships with retailers. Ad Choices   
+#link-subscription-modal{
+  display:none;
+}
+#modal-overlay-full,.modal-frame{
+  position:fixed;
+  top:0;
+  right:0;
+  bottom:0;
+  left:0;
+  width:0;
+  height:0;
+  display:none;
+}
+.nyr-flex-modal{
+  display:block;
+}
+#the-modal-overlay{
+  z-index:9999999999!important;
+}

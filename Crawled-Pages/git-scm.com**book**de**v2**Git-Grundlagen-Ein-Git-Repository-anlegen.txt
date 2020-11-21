@@ -1,0 +1,322 @@
+        About
+            Branching and Merging
+            Small and Fast
+            Distributed
+            Data Assurance
+            Staging Area
+            Free and Open Source
+            Trademark
+        Documentation
+            Reference
+            Book
+            Videos
+            External Links
+        Downloads
+            GUI Clients
+            Logos
+        Community
+This book is available in
+  English.
+  Full translation available in
+    български език,
+    Deutsch,
+    Español,
+    Français,
+    Ελληνικά,
+    日本語,
+    한국어,
+    Nederlands,
+    Русский,
+    Slovenščina,
+    Tagalog,
+    Українська
+    简体中文,
+  Partial translations available in
+    Čeština,
+    Македонски,
+    Polski,
+    Српски,
+    Ўзбекча,
+    繁體中文,
+  Translations started for
+    azərbaycan dili,
+    Беларуская,
+    فارسی,
+    Indonesian,
+    Italiano,
+    Bahasa Melayu,
+    Português (Brasil),
+    Português (Portugal),
+    Svenska,
+    Türkçe.
+The source of this book is  hosted on GitHub.
+Patches, suggestions and comments are welcome.
+  Chapters ▾
+  1. Erste Schritte
+          1.1
+          Was ist Versionsverwaltung? 
+          1.2
+          Kurzer Überblick über die Historie von Git 
+          1.3
+          Was ist Git? 
+          1.4
+          Die Kommandozeile 
+          1.5
+          Git installieren 
+          1.6
+          Git Basis-Konfiguration 
+          1.7
+          Hilfe finden 
+          1.8
+          Zusammenfassung 
+  2. Git Grundlagen
+          2.1
+          Ein Git-Repository anlegen 
+          2.2
+          Änderungen nachverfolgen und im Repository speichern 
+          2.3
+          Anzeigen der Commit-Historie 
+          2.4
+          Ungewollte Änderungen rückgängig machen 
+          2.5
+          Mit Remotes arbeiten 
+          2.6
+          Taggen 
+          2.7
+          Git Aliases 
+          2.8
+          Zusammenfassung 
+  3. Git Branching
+          3.1
+          Branches auf einen Blick 
+          3.2
+          Einfaches Branching und Merging 
+          3.3
+          Branch-Management 
+          3.4
+          Branching-Workflows 
+          3.5
+          Remote-Branches 
+          3.6
+          Rebasing 
+          3.7
+          Zusammenfassung 
+  4. Git auf dem Server
+          4.1
+          Die Protokolle 
+          4.2
+          Git auf einem Server einrichten 
+          4.3
+          Erstellung eines SSH-Public-Keys 
+          4.4
+          Einrichten des Servers 
+          4.5
+          Git-Daemon 
+          4.6
+          Smart HTTP 
+          4.7
+          GitWeb 
+          4.8
+          GitLab 
+          4.9
+          Von Drittanbietern gehostete Optionen 
+          4.10
+          Zusammenfassung 
+  5. Verteiltes Git
+          5.1
+          Verteilter Arbeitsablauf 
+          5.2
+          An einem Projekt mitwirken 
+          5.3
+          Ein Projekt verwalten 
+          5.4
+          Zusammenfassung 
+  6. GitHub
+          6.1
+          Einrichten und Konfigurieren eines Kontos 
+          6.2
+          Mitwirken an einem Projekt 
+          6.3
+          Ein Projekt betreuen 
+          6.4
+          Verwalten einer Organisation 
+          6.5
+          Skripte mit GitHub 
+          6.6
+          Zusammenfassung 
+  7. Git Tools
+          7.1
+          Revisions-Auswahl 
+          7.2
+          Interaktives Stagen 
+          7.3
+          Stashen und Bereinigen 
+          7.4
+          Ihre Arbeit signieren 
+          7.5
+          Suchen 
+          7.6
+          Den Verlauf umschreiben 
+          7.7
+          Reset entzaubert 
+          7.8
+          Fortgeschrittenes Merging 
+          7.9
+          Rerere 
+          7.10
+          Debuggen mit Git 
+          7.11
+          Submodule 
+          7.12
+          Bundling 
+          7.13
+          Replace (Ersetzen) 
+          7.14
+          Anmeldeinformationen speichern 
+          7.15
+          Zusammenfassung 
+  8. Git einrichten
+          8.1
+          Git Konfiguration 
+          8.2
+          Git-Attribute 
+          8.3
+          Git Hooks 
+          8.4
+          Beispiel für Git-forcierte Regeln 
+          8.5
+          Zusammenfassung 
+  9. Git und andere Systeme
+          9.1
+          Git als Client 
+          9.2
+          Migration zu Git 
+          9.3
+          Zusammenfassung 
+  10. Git Interna
+          10.1
+          Basisbefehle und Standardbefehle (Plumbing and Porcelain) 
+          10.2
+          Git Objekte 
+          10.3
+          Git Referenzen 
+          10.4
+          Packdateien (engl. Packfiles) 
+          10.5
+          Die Referenzspezifikation (engl. Refspec) 
+          10.6
+          Transfer Protokolle 
+          10.7
+          Wartung und Datenwiederherstellung 
+          10.8
+          Zusammenfassung 
+  A1. Appendix A: Git in anderen Umgebungen
+          A1.1
+          Grafische Schnittstellen 
+          A1.2
+          Git in Visual Studio 
+          A1.3
+          Git in Visual Studio Code 
+          A1.4
+          Git in Eclipse 
+          A1.5
+          Git in IntelliJ / PyCharm / WebStorm / PhpStorm / RubyMine 
+          A1.6
+          Git in Sublime Text 
+          A1.7
+          Git in Bash 
+          A1.8
+          Git in Zsh 
+          A1.9
+          Git in PowerShell 
+          A1.10
+          Zusammenfassung 
+  A2. Appendix B: Git in Ihre Anwendungen einbetten
+          A2.1
+          Die Git-Kommandozeile 
+          A2.2
+          Libgit2 
+          A2.3
+          JGit 
+          A2.4
+          go-git 
+          A2.5
+          Dulwich 
+  A3. Appendix C: Git Kommandos
+          A3.1
+          Setup und Konfiguration 
+          A3.2
+          Projekte importieren und erstellen 
+          A3.3
+          Einfache Snapshot-Funktionen 
+          A3.4
+          Branching und Merging 
+          A3.5
+          Projekte gemeinsam nutzen und aktualisieren 
+          A3.6
+          Kontrollieren und Vergleichen 
+          A3.7
+          Debugging 
+          A3.8
+          Patchen bzw. Fehlerkorrektur 
+          A3.9
+          E-mails 
+          A3.10
+          Externe Systeme 
+          A3.11
+          Administration 
+          A3.12
+          Basisbefehle 
+      2nd Edition
+    2.1 Git Grundlagen - Ein Git-Repository anlegen
+  Wenn Sie nur ein Kapitel durcharbeiten können/wollen, um mit Git zu beginnen, dann ist dieses hier das richtige.
+Dieses Kapitel behandelt alle grundlegenden Befehle, die Sie benötigen, um die überwiegende Anzahl der Aufgaben zu erledigen, die Sie irgendwann einmal mit Git erledigen werden.
+Am Ende des Kapitels sollten Sie in der Lage sein, ein neues Repository anzulegen und zu konfigurieren, Dateien zu versionieren bzw. aus der Versionsverwaltung zu entfernen, Dateien in die Staging-Area hinzuzufügen und schließlich einen Commit durchzuführen.
+Außerdem wird gezeigt, wie Sie Git so konfigurieren können, dass es bestimmte Dateien und Dateimuster ignoriert, wie Sie Fehler schnell und einfach rückgängig machen, wie Sie die Historie eines Projekts durchsuchen und Änderungen zwischen Commits nachschlagen, und wie Sie von einem Remote-Repository Daten herunter- bzw. dort hochladen können.
+Ein Git-Repository anlegen
+Sie haben zwei Möglichkeiten, ein Git-Repository auf Ihrem Rechner anzulegen.
+Sie können ein lokales Verzeichnis, das sich derzeit nicht unter Versionskontrolle befindet, in ein Git-Repository verwandeln, oder
+Sie können ein bestehendes Git-Repository von einem anderen Ort aus klonen.
+In beiden Fällen erhalten Sie ein einsatzbereites Git-Repository auf Ihrem lokalen Rechner.
+Ein Repository in einem bestehenden Verzeichnis einrichten
+Wenn Sie ein Projektverzeichnis haben, das sich derzeit nicht unter Versionskontrolle befindet, und Sie mit der Kontrolle über Git beginnen möchten, müssen Sie zunächst in das Verzeichnis dieses Projekts wechseln.
+Wenn Sie dies noch nie getan haben, sieht es je nachdem, welches System Sie verwenden, etwas anders aus:
+für Linux:
+$ cd /home/user/my_project
+für macOS:
+$ cd /Users/user/my_project
+für Windows:
+$ cd C:/Users/user/my_project
+und tragen Sie dort folgenden Befehl ein:
+$ git init
+Der Befehl erzeugt ein Unterverzeichnis .git, in dem alle relevanten Git-Repository-Daten enthalten sind, also ein Git-Repository Grundgerüst.
+Zu diesem Zeitpunkt werden noch keine Dateien in Git versioniert.
+In Kapitel 10, Git Interna, finden Sie weitere Informationen, welche Dateien im .git Verzeichnis enthalten sind und was ihre Aufgabe ist.
+Wenn Sie bereits existierende Dateien versionieren möchten (und es sich nicht nur um ein leeres Verzeichnis handelt), dann sollten Sie den aktuellen Stand in einem initialen Commit starten.
+Mit dem Befehl git add legen Sie fest, welche Dateien versioniert werden sollen und mit dem Befehl git commit erzeugen Sie einen neuen Commit:
+$ git add *.c
+$ git add LICENSE
+$ git commit -m 'Initial project version'
+Wir werden gleich noch einmal genauer auf diese Befehle eingehen.
+Im Moment ist nur wichtig, dass Sie verstehen, dass Sie jetzt ein Git-Repository erzeugt und einen ersten Commit angelegt haben.
+Ein existierendes Repository klonen
+Wenn Sie eine Kopie eines existierenden Git-Repositorys anlegen wollen – um beispielsweise an einem Projekt mitzuarbeiten – können Sie den Befehl git clone verwenden.
+Wenn Sie bereits Erfahrung mit einem anderen VCS-System, wie Subversion, gesammelt haben, fällt Ihnen bestimmt sofort auf, dass der Befehl „clone“ und nicht etwa „checkout“ lautet.
+Das ist ein wichtiger Unterschied, den Sie unbedingt verstehen sollten. Anstatt nur eine einfache Arbeitskopie vom Projekt zu erzeugen, lädt Git nahezu alle Daten, die der Server bereithält, auf den lokalen Rechner.
+Jede Version von jeder Datei der Projekt-Historie wird automatisch heruntergeladen, wenn Sie git clone ausführen.
+Wenn Ihre Serverfestplatte beschädigt wird, können Sie oft nahezu jeden der Klone auf irgendeinem Client verwenden, um den Server wieder in den Zustand zurückzusetzen, in dem er sich zum Zeitpunkt des Klonens befand. (Sie werden vielleicht einige serverseitige Hooks und dergleichen verlieren, aber alle versionierten Daten wären vorhanden – siehe Kapitel 4, Git auf dem Server, für weitere Details.)
+Sie können ein Repository mit dem Befehl git clone [url] klonen.
+Um beispielsweise das Repository der verlinkbaren Git-Bibliothek libgit2 zu klonen, führen Sie den folgenden Befehl aus:
+$ git clone https://github.com/libgit2/libgit2
+Git legt dann ein Verzeichnis libgit2 an, initialisiert in diesem ein .git Verzeichnis, lädt alle Daten des Repositorys herunter und checkt eine Arbeitskopie der aktuellsten Version aus.
+Wenn Sie in das neue libgit2 Verzeichnis wechseln, finden Sie dort die Projektdateien und können gleich damit arbeiten.
+Wenn Sie das Repository in ein Verzeichnis mit einem anderen Namen als libgit2 klonen möchten, können Sie das wie folgt durchführen:
+$ git clone https://github.com/libgit2/libgit2 mylibgit
+Dieser Befehl tut das Gleiche wie der vorhergehende, aber das Zielverzeichnis lautet diesmal mylibgit.
+Git unterstützt eine Reihe unterschiedlicher Übertragungsprotokolle.
+Das vorhergehende Beispiel verwendet das https:// Protokoll, aber Ihnen können auch die Angaben git:// oder user@server:path/to/repo.git begegnen, welches das SSH-Transfer-Protokoll verwendet.
+Kapitel 4, Git auf dem Server, stellt alle verfügbaren Optionen vor, die der Server für den Zugriff auf Ihr Git-Repository hat und die Vor- und Nachteile der einzelnen Optionen, die man einrichten kann.
+prev | next
+    About this site
+    Patches, suggestions, and comments are welcome.
+    Git is a member of Software Freedom Conservancy

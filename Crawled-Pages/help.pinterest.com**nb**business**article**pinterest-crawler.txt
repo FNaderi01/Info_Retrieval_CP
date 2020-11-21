@@ -1,0 +1,179 @@
+      Hopp til hovedinnhold
+        Brukerstøtte
+  Header navigation
+                  Generelt
+                  Bedrift
+  Header navigation - actions
+        Søk
+  Header navigation - anonymous
+        Logg på
+        Pinterest – Hjem
+  Open menu
+          Generelt
+          Kontotilgang og -sikkerhet
+          Problemer med Pinterest
+          Juridisk og personvern
+          Administrer kontoen din
+          Pins og tavler
+          Bedrift
+          Administrer bedriftsprofilen
+          Ads measurement
+          Ads reporting
+          Build your organic presence on Pinterest
+          Shopping on Pinterest
+          Fakturering og betaling – annonser
+          Annonsér på Pinterest
+            Kontotilgang og -sikkerhet
+            Problemer med Pinterest
+            Juridisk og personvern
+            Administrer kontoen din
+            Pins og tavler
+            Administrer bedriftsprofilen
+            Ads measurement
+            Ads reporting
+            Build your organic presence on Pinterest
+            Shopping on Pinterest
+            Fakturering og betaling – annonser
+            Annonsér på Pinterest
+              Søkeroboten til Pinterest
+            Vi ønsker å hjelpe folk med å finne og gjøre ting de liker, og derfor har vi laget en database med milliarder av Pins på Pinterest. For å beskytte brukerne og levere innhold med høyest mulig kvalitet bruker vi søkeroboter som hjelper oss med å identifisere dataene på sidene Pinsene kommer fra.
+Disse sidene inneholder nyttige signaler som gjør oss i stand til å gi bedre anbefalinger, bekjempe nettsøppel og vise verdifull informasjon. For å dra full nytte av disse signalene henter, lagrer og behandler vi regelmessig sideinnhold som er knyttet til Pins.
+Hvordan Pinterest får tilgang til nettstedet ditt
+Når Pinterests søkerobot besøker nettstedet ditt, sender den en gyldig Pinterest-brukeragent. Den kobler seg også til fra et nettverk som drives av Pinterest.
+Pinterests søkerobot overholder Robots Exclusion Standard (robots.txt) og er konfigurert til å begrense hvor mange forespørsler som sendes til nettstedet ditt samtidig. Du bør ikke hardkode disse IP-adressene i nettstedskonfigurasjonen. Dette er fordi adressene søkeroboten bruker, kan endres i fremtiden uten forvarsel.
+Brukeragenten til Pinterest er
+Pinterest/0.2 (+https://www.pinterest.com/bot.html)
+Mozilla/5.0 (compatible; Pinterestbot/1.0; +https://www.pinterest.com/bot.html)
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Pinterestbot/1.0; +https://www.pinterest.com/bot.html)Pinterests IP-adresse er dynamisk, noe som betyr at den ofte endrer seg. Den er likevel alltid i området 54.236.1.XXX.
+Verifiser Pinterests søkerobot
+Bruk vertskommandoen til å utføre et omvendt DNS-oppslag med IP-adressen fra loggene dine
+Bekreft at domenenavnet i responsen slutter på pinterest.com
+Bruk vertskommandoen til å utføre et fremoverrettet DNS-oppslag med responsen du mottok i trinn 1
+Bekreft at resultatet blir IP-adressen fra trinn 1
+Hvis du mottar et konsistent trafikkvolum fra en klient som sender en gyldig Pinterest-brukeragent, men som ikke består DNS-testen ovenfor, bør du kontakte oss.
+Begrens Pinterests tilgang til nettstedet ditt
+Du kan endre funksjonaliteten til Pinterests søkerobot ved å oppdatere robotx.txt-filen for nettstedet ditt. Sørg for å plassere robots.txt-filen på hoveddomenet ditt, fordi vi støtter ikke robots.txt-filer på underdomener.
+Store forsinkelser i gjennomsøking påvirker distribusjonen og anbefalingene av innholdet ditt på Pinterest. Derfor respekterer vi forsinkelser opptil 1, og vi behandler alle høyere verdier som 1.  Hvis du godtar dette og fortsatt trenger en større gjennomsøkingsforsinkelse, kan du kontakte oss .
+            Angi gjennomsøkingsforsinkelse
+user-agent: Pinterestbot
+Crawl-delay: 0.2Store forsinkelser i gjennomsøking kan negativt påvirke distribusjonen eller anbefalingene av innholdet ditt på Pinterest. Vi respekterer forsinkelser på opptil 1. Vi behandler eventuelle høyere verdier som 1.
+            Begrens Pinterests mulighet for å gjennomsøke hele nettstedet ditt
+user-agent: Pinterestbot
+disallow: / 
+            Begrens Pinterests mulighet for å gjennomsøke baner
+user-agent: Pinterestbot
+disallow: /directory1/
+            La Pinterest gjennomsøke underbaner innenfor blokkerte baner
+user-agent: Pinterestbot
+disallow: /directory1/
+allow: /directory1/subdirectory1/
+            Angi flere robots.txt-parametere
+user-agent: Pinterestbot
+disallow: /directory1/
+allow: /directory1/subdirectory1/
+crawl-delay: 0.2
+  Andre artikler
+  Skip Andre artikler Links
+      Organiske Pins
+                        Artikkel-pins
+                                Detaljerte Pins
+                                Gå gjennom Pin-statistikken din
+            Se mer
+                                Lag en Pin 
+                                Last opp flere video-Pins samtidig
+                                Opprett en samlings-Pin
+                                Opprett en tavle
+                                Opprett Story Pins
+                                Opprett video-Pins
+                                Oppskrift-Pins
+                                Planlegg Pins
+                                Produkt-pins
+                                Prøv produkt-Pins
+                                Publiser innholdet ditt
+                                Samhandlingsfanen
+                                Slette kommentarer eller bilder på din Pin
+      Nettanalyse
+                        Analyse for kontoer som er gjort krav på
+                                Konverteringsinnsikt
+                                Pinterest Analytics
+            Se mer
+                                Pinterest Trends
+                                Problemer med Pinterest Analytics
+                                Publikumsinnsikt
+      Pinterest og nettstedet ditt
+                        Hindre lagringer til Pinterest fra nettstedet ditt
+                                Lag en widget
+                                Lagre-knappen
+            Se mer
+                                Publiser Pins automatisk fra en RSS-feed
+                                Søkeroboten til Pinterest
+  End of Andre artikler Links
+            Trenger du fortsatt hjelp?
+                Kontakt oss
+    User feedback
+              Var denne artikkelen nyttig?
+        glad
+        trist
+        collection_fields
+        Hvordan kan vi gjøre denne artikkelen bedre?
+      Additional Response
+      Leave this field blank
+        Pinterest bruker informasjonskapsler for å gi deg en best mulig opplevelse.
+        Skjønner.
+    Skip Footer Menu
+    Velg språk
+                      English (US)
+                              Bahasa Indonesia
+                              Čeština
+                              Dansk
+                              Deutsch
+                              English (UK)
+                              Español
+                              Français
+                              Italiano
+                              Magyar
+                              Nederlands
+                              Norsk bokmål
+                              Polski
+                              Português (Brasil)
+                              Português (Europeu)
+                              Română
+                              Slovenčina
+                              Suomi
+                              Svenska
+                              Filipino
+                              Tiếng Việt
+                              Türkçe
+                              Ελληνικά
+                              Русский
+                              Ukrainian
+                              ภาษาไทย
+                              简体中文
+                              繁體中文
+                              한국어
+                              日本語
+            Om oss
+                    Impressum
+                    Hva er Pinterest
+                    Vår Pinterest-side
+                    Utviklerbloggen
+                    Retningslinjene for merkevaren
+                    Karrierer
+                    Brukerstøtte
+                    Pinterest Labs
+            Våre retningslinjer
+                    Opphavsrett
+                                          og
+                            varemerke
+                    Personlig tilpassede annonser
+                    Vilkårene for bruk
+                    Personvern
+                                          og
+                            informasjonskapsler
+            Mer info
+                    For bedrifter
+                    For utviklere
+                    For pressen
+                    For investorer
+                    End of Footer
+    © Pinterest 2020

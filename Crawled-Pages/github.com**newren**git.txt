@@ -1,0 +1,656 @@
+      Skip to content
+                Sign up
+                    Why GitHub?
+                    Features →
+                      Code review
+                      Project management
+                      Integrations
+                      Actions
+                      Packages
+                      Security
+                      Team management
+                      Hosting
+                      Mobile
+                      Customer stories →
+                      Security →
+                Team
+                Enterprise
+                    Explore
+                      Explore GitHub →
+                    Learn &amp; contribute
+                      Topics
+                        Collections
+                      Trending
+                      Learning Lab
+                      Open source guides
+                    Connect with others
+                      Events
+                      Community forum
+                      GitHub Education
+                      GitHub Stars program
+                Marketplace
+                    Pricing
+                    Plans →
+                      Compare plans
+                      Contact Sales
+                      Nonprofit →
+                      Education →
+     -->
+        In this repository
+        All GitHub
+      ↵
+      Jump to
+      ↵
+    No suggested jump to results
+        In this repository
+        All GitHub
+      ↵
+      Jump to
+      ↵
+        In this repository
+        All GitHub
+      ↵
+      Jump to
+      ↵
+          Sign in
+              Sign up
+      {{ message }}
+      newren
+    /
+    git
+    forked from git/git
+    Watch
+      1
+      Star
+      1
+          Fork
+        20k
+        Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+            View license
+        1
+        star
+        20k
+        forks
+      Star
+    Watch
+            Code
+            Pull requests
+              0
+            Actions
+            Projects
+              0
+            Security
+            Insights
+            More
+                    Code
+                    Pull requests
+                    Actions
+                    Projects
+                    Security
+                    Insights
+          Dismiss
+        Join GitHub today
+        GitHub is home to over 50 million developers working together to host and review code, manage projects, and build software together.
+        Sign up
+      master
+      16
+      branches
+      6
+      tags
+    Go to file
+      Code
+  Clone
+       -->
+            HTTPS
+            GitHub CLI
+        Use Git or checkout with SVN using the web URL.
+      Work fast with our official CLI.
+      Learn more.
+                Open with GitHub Desktop
+                Download ZIP
+          Launching GitHub Desktop
+          If nothing happens, download GitHub Desktop and try again.
+          Go back
+          Launching GitHub Desktop
+          If nothing happens, download GitHub Desktop and try again.
+          Go back
+          Launching Xcode
+          If nothing happens, download Xcode and try again.
+          Go back
+          Launching Visual Studio
+          If nothing happens, download the GitHub extension for Visual Studio and try again.
+          Go back
+        This branch is 23 commits ahead, 4181 commits behind git:master.
+          Pull request
+        Compare
+    Latest commit
+        Git stats
+                    56,590
+                  commits
+  Files
+      Permalink
+    Failed to load latest commit information.
+        Type
+        Name
+        Latest commit message
+        Commit time
+            .github
+            Documentation
+            block-sha1
+            builtin
+            ci
+            compat
+            contrib
+            ewah
+            git-gui
+            gitk-git
+            gitweb
+            mergetools
+            negotiator
+            perl
+            personal-docs
+            po
+            ppc
+            refs
+            sha1collisiondetection @ 855827c
+            sha1dc
+            sha256
+            t
+            templates
+            trace2
+            vcs-svn
+            xdiff
+            .clang-format
+            .editorconfig
+            .gitattributes
+            .gitignore
+            .gitmodules
+            .mailmap
+            .travis.yml
+            .tsan-suppressions
+            COPYING
+            GIT-VERSION-GEN
+            INSTALL
+            LGPL-2.1
+            Makefile
+            README.md
+            RelNotes
+            abspath.c
+            aclocal.m4
+            advice.c
+            advice.h
+            alias.c
+            alias.h
+            alloc.c
+            alloc.h
+            apply.c
+            apply.h
+            archive-tar.c
+            archive-zip.c
+            archive.c
+            archive.h
+            argv-array.c
+            argv-array.h
+            attr.c
+            attr.h
+            azure-pipelines.yml
+            banned.h
+            base85.c
+            bisect.c
+            bisect.h
+            blame.c
+            blame.h
+            blob.c
+            blob.h
+            branch.c
+            branch.h
+            builtin.h
+            bulk-checkin.c
+            bulk-checkin.h
+            bundle.c
+            bundle.h
+            cache-tree.c
+            cache-tree.h
+            cache.h
+            chdir-notify.c
+            chdir-notify.h
+            check-builtins.sh
+            check_bindir
+            checkout.c
+            checkout.h
+            color.c
+            color.h
+            column.c
+            column.h
+            combine-diff.c
+            command-list.txt
+            commit-graph.c
+            commit-graph.h
+            commit-reach.c
+            commit-reach.h
+            commit-slab-decl.h
+            commit-slab-impl.h
+            commit-slab.h
+            commit.c
+            commit.h
+            common-main.c
+            config.c
+            config.h
+            config.mak.dev
+            config.mak.in
+            config.mak.uname
+            configure.ac
+            connect.c
+            connect.h
+            connected.c
+            connected.h
+            convert.c
+            convert.h
+            copy.c
+            credential-cache--daemon.c
+            credential-cache.c
+            credential-store.c
+            credential.c
+            credential.h
+            csum-file.c
+            csum-file.h
+            ctype.c
+            daemon.c
+            date.c
+            decorate.c
+            decorate.h
+            delta-islands.c
+            delta-islands.h
+            delta.h
+            detect-compiler
+            diff-delta.c
+            diff-lib.c
+            diff-no-index.c
+            diff.c
+            diff.h
+            diffcore-break.c
+            diffcore-delta.c
+            diffcore-order.c
+            diffcore-pickaxe.c
+            diffcore-rename.c
+            diffcore.h
+            dir-iterator.c
+            dir-iterator.h
+            dir.c
+            dir.h
+            editor.c
+            entry.c
+            environment.c
+            exec-cmd.c
+            exec-cmd.h
+            fast-import.c
+            fetch-negotiator.c
+            fetch-negotiator.h
+            fetch-object.c
+            fetch-object.h
+            fetch-pack.c
+            fetch-pack.h
+            fmt-merge-msg.h
+            fsck.c
+            fsck.h
+            fsmonitor.c
+            fsmonitor.h
+            fuzz-commit-graph.c
+            fuzz-pack-headers.c
+            fuzz-pack-idx.c
+            generate-cmdlist.sh
+            gettext.c
+            gettext.h
+            git-add--interactive.perl
+            git-archimport.perl
+            git-bisect.sh
+            git-compat-util.h
+            git-cvsexportcommit.perl
+            git-cvsimport.perl
+            git-cvsserver.perl
+            git-difftool--helper.sh
+            git-filter-branch.sh
+            git-instaweb.sh
+            git-legacy-stash.sh
+            git-merge-octopus.sh
+            git-merge-one-file.sh
+            git-merge-resolve.sh
+            git-mergetool--lib.sh
+            git-mergetool.sh
+            git-p4.py
+            git-parse-remote.sh
+            git-quiltimport.sh
+            git-rebase--preserve-merges.sh
+            git-request-pull.sh
+            git-send-email.perl
+            git-sh-i18n.sh
+            git-sh-setup.sh
+            git-submodule.sh
+            git-svn.perl
+            git-web--browse.sh
+            git.c
+            git.rc
+            gpg-interface.c
+            gpg-interface.h
+            graph.c
+            graph.h
+            grep.c
+            grep.h
+            hash.h
+            hashmap.c
+            hashmap.h
+            help.c
+            help.h
+            hex.c
+            http-backend.c
+            http-fetch.c
+            http-push.c
+            http-walker.c
+            http.c
+            http.h
+            ident.c
+            imap-send.c
+            interdiff.c
+            interdiff.h
+            iterator.h
+            json-writer.c
+            json-writer.h
+            khash.h
+            kwset.c
+            kwset.h
+            levenshtein.c
+            levenshtein.h
+            line-log.c
+            line-log.h
+            line-range.c
+            line-range.h
+            linear-assignment.c
+            linear-assignment.h
+            list-objects-filter-options.c
+            list-objects-filter-options.h
+            list-objects-filter.c
+            list-objects-filter.h
+            list-objects.c
+            list-objects.h
+            list.h
+            ll-merge.c
+            ll-merge.h
+            lockfile.c
+            lockfile.h
+            log-tree.c
+            log-tree.h
+            ls-refs.c
+            ls-refs.h
+            mailinfo.c
+            mailinfo.h
+            mailmap.c
+            mailmap.h
+            match-trees.c
+            mem-pool.c
+            mem-pool.h
+            merge-blobs.c
+            merge-blobs.h
+            merge-recursive.c
+            merge-recursive.h
+            merge.c
+            mergesort.c
+            mergesort.h
+            midx.c
+            midx.h
+            name-hash.c
+            notes-cache.c
+            notes-cache.h
+            notes-merge.c
+            notes-merge.h
+            notes-utils.c
+            notes-utils.h
+            notes.c
+            notes.h
+            object-store.h
+            object.c
+            object.h
+            oidmap.c
+            oidmap.h
+            oidset.c
+            oidset.h
+            pack-bitmap-write.c
+            pack-bitmap.c
+            pack-bitmap.h
+            pack-check.c
+            pack-objects.c
+            pack-objects.h
+            pack-revindex.c
+            pack-revindex.h
+            pack-write.c
+            pack.h
+            packfile.c
+            packfile.h
+            pager.c
+            parse-options-cb.c
+            parse-options.c
+            parse-options.h
+            patch-delta.c
+            patch-ids.c
+            patch-ids.h
+            path.c
+            path.h
+            pathspec.c
+            pathspec.h
+            pkt-line.c
+            pkt-line.h
+            preload-index.c
+            pretty.c
+            pretty.h
+            prio-queue.c
+            prio-queue.h
+            progress.c
+            progress.h
+            prompt.c
+            prompt.h
+            protocol.c
+            protocol.h
+            quote.c
+            quote.h
+            range-diff.c
+            range-diff.h
+            reachable.c
+            reachable.h
+            read-cache.c
+            rebase-interactive.c
+            rebase-interactive.h
+            ref-filter.c
+            ref-filter.h
+            reflog-walk.c
+            reflog-walk.h
+            refs.c
+            refs.h
+            refspec.c
+            refspec.h
+            remote-curl.c
+            remote-testsvn.c
+            remote.c
+            remote.h
+            replace-object.c
+            replace-object.h
+            repository.c
+            repository.h
+            rerere.c
+            rerere.h
+            resolve-undo.c
+            resolve-undo.h
+            revision.c
+            revision.h
+            run-command.c
+            run-command.h
+            scale_test.sh
+            send-pack.c
+            send-pack.h
+            sequencer.c
+            sequencer.h
+            serve.c
+            serve.h
+            server-info.c
+            setup.c
+            sh-i18n--envsubst.c
+            sha1-array.c
+            sha1-array.h
+            sha1-file.c
+            sha1-lookup.c
+            sha1-lookup.h
+            sha1-name.c
+            sha1dc_git.c
+            sha1dc_git.h
+            shallow.c
+            shell.c
+            shortlog.h
+            sideband.c
+            sideband.h
+            sigchain.c
+            sigchain.h
+            split-index.c
+            split-index.h
+            strbuf.c
+            strbuf.h
+            streaming.c
+            streaming.h
+            string-list.c
+            string-list.h
+            sub-process.c
+            sub-process.h
+            submodule-config.c
+            submodule-config.h
+            submodule.c
+            submodule.h
+            symlinks.c
+            tag.c
+            tag.h
+            tar.h
+            tempfile.c
+            tempfile.h
+            thread-utils.c
+            thread-utils.h
+            tmp-objdir.c
+            tmp-objdir.h
+            trace.c
+            trace.h
+            trace2.c
+            trace2.h
+            trailer.c
+            trailer.h
+            transport-helper.c
+            transport-internal.h
+            transport.c
+            transport.h
+            tree-diff.c
+            tree-walk.c
+            tree-walk.h
+            tree.c
+            tree.h
+            unicode-width.h
+            unimplemented.sh
+            unix-socket.c
+            unix-socket.h
+            unpack-trees.c
+            unpack-trees.h
+            upload-pack.c
+            upload-pack.h
+            url.c
+            url.h
+            urlmatch.c
+            urlmatch.h
+            usage.c
+            userdiff.c
+            userdiff.h
+            utf8.c
+            utf8.h
+            varint.c
+            varint.h
+            version.c
+            version.h
+            versioncmp.c
+            walker.c
+            walker.h
+            wildmatch.c
+            wildmatch.h
+            worktree.c
+            worktree.h
+            wrap-for-bin.sh
+            wrapper.c
+            write-or-die.c
+            write_export_file.py
+            ws.c
+            wt-status.c
+            wt-status.h
+            xdiff-interface.c
+            xdiff-interface.h
+            zlib.c
+        View code
+        README.md
+        This is my own personal fork of git, containing random work-in-progress.
+None of it is meant to make sense to anyone but me, unless and until I clean
+it up and submit it upstream to the git community.
+Some notes for myself:
+Project Ideas
+Bugs to report and fix
+Tools
+Submission Notes
+Scripts
+            About
+      Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+  Resources
+      Readme
+  License
+        View license
+    Releases
+      6
+      tags
+    Packages 0
+        No packages published 
+              Languages
+        C
+        48.2%
+        Shell
+        35.7%
+        Perl
+        6.9%
+        Tcl
+        4.6%
+        Python
+        2.1%
+        Makefile
+        0.9%
+        Other
+        1.6%
+        © 2020 GitHub, Inc.
+          Terms
+          Privacy
+  Cookie Preferences
+          Security
+          Status
+          Help
+          Contact GitHub
+          Pricing
+        API
+        Training
+          Blog
+          About
+    You can’t perform that action at this time.
+    You signed in with another tab or window. Reload to refresh your session.
+    You signed out in another tab or window. Reload to refresh your session.
+  We use optional third-party analytics cookies to understand how you use GitHub.com so we can build better products.
+              Learn more.
+              Accept
+              Reject
+  We use optional third-party analytics cookies to understand how you use GitHub.com so we can build better products.
+              You can always update your selection by clicking Cookie Preferences at the bottom of the page.
+              For more information, see our Privacy Statement.
+              Essential cookies
+              We use essential cookies to perform essential website functions, e.g. they're used to log you in. 
+                Learn more
+              Always active
+              Analytics cookies
+              We use analytics cookies to understand how you use our websites so we can make them better, e.g. they're used to gather information about the pages you visit and how many clicks you need to accomplish a task. 
+                Learn more
+                Accept
+                Reject
+            Save preferences

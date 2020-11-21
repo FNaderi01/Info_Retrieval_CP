@@ -1,0 +1,318 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+California Legislative Black Caucus Celebrates 50th Anniversary with ‘The Legacy Continues’ Black Tie Gala             
+				By Sentinel News Service                  
+	                	                Published September 7, 2017
+		The California Legislative Black Caucus began with the belief that by speaking with a single voice, we could be a force on issues affecting education, justice, and civil rights.” (courtesy photo)
+The California Legislative Black Caucus (CLBC) celebrated its 50th Anniversary with “The Legacy Continues” Black Tie Gala at Universal Studios Hollywood’s Globe Theatre. Nearly 500 people gathered at the Gala to honor 50 years of advocacy by former CLBC leaders, including the Founder’s Award recipients, Hon. Willie L. Brown, Jr. and the Hon. Yvonne Brathwaite-Burke; the Chairman’s Award recipient, Hon. Nate Holden; and the Vanguard Award recipient, Hon. Mark Ridley-Thomas.
+“The California Legislative Black Caucus began with the belief that by speaking with a single voice, we could be a force on issues affecting education, justice, and civil rights.” said CLBC Chair, Assemblymember Chris Holden. “The Gala’s honorees are visionaries who successfully passed policies on these issues and are responsible for making California the leader it is today.”
+“[The California] Legislative Black Caucus became a reality because [Mervyn Dymally] came to us and said let’s do something together,” said former Assembly Speaker Willie L. Brown during his acceptance speech. “And the votes that we put together from that moment on became part of the public policy consideration for the state of California.”
+        ADVERTISEMENT        
+The Gala, attended by members of the California Legislature, Congress, state government and community leaders, was emceed by Margaret Shug Avery who was nominated for an Academy Award for Best Actress in a Supporting Role in the film “The Color Purple.” The event concluded with a musical performance by Aloe Blacc.
+“With each new generation comes a renewed commitment to the future, and as valuable as it is that we look back and honor these milestones, we always have to keep looking forward, keep moving forward. We will continue to fight for equality, for criminal justice reform, for environmental justice, and for ensuring greater access to education and enterprise for African Americans,” said Holden.
+Political leaders join for the California Legislative Black Caucus 50th anniversary Gala. (courtesy photo)
+The CLBC Gala Honorees are as follows:
+Congresswoman Karen Bass presented the second CLBC Founder’s Award to Willie Lewis Brown, Jr. Willie Lewis Brown, Jr. was born March 20, 1934 in Mineola, Texas. He was the fourth African American to serve in the 80-member Assembly when he was elected in 1964.  He was the first African American and longest serving Speaker of the Assembly, a top legislative leadership post he held for 16-years. In the early 1980s, he led efforts to divest state university holdings in South Africa during that nation’s apartheid era and was a strong advocate for increased funds for AIDS research. Additionally, he authored landmark legislation that legalized sex between consenting adults in California.  He retired from the Assembly in 1995 and was elected Mayor of San Francisco in 1995. He served as Mayor until his retirement in 2004.  In 2013, legislation was passed to rename the western span of the Bay Bridge to the Willie L. Brown, Jr., Bridge.  The signs went up in 2014, and Brown said that he hoped having the bridge named after him would be, “inspirational for kids.”
+Assemblymember Autumn Burke presented the CLBC Founder’s Award to her mother, Yvonne Brathwaite-Burke. Yvonne Brathwaite-Burke was born October 5, 1932 in Los Angeles, California.  She was the first African American woman elected to the California State Assembly in 1966. During her legislative tenure, she focused on civil rights and juvenile issues. She was the first African American woman from the Golden State in the U.S. House of Representatives in 1973, and continued to break new ground as the first woman to have a child and secure maternity leave while serving in the U.S. Congress.  She became the first African American member of the Los Angeles Board of Supervisors, a position she has held on and off since 1978.  Assemblywoman Burke retired from the Los Angeles County Board of Supervisors in 2008.
+Center: CLBC Chair, Assemblymember Chris Holden. (courtesy photo)
+Assemblymember Chris Holden presented the CLBC Chairman’s Award to his father, Nate Holden. Nathaniel N. ‘Nate’ Holden was born June 19, 1929 in Macon, Georgia and was elected to the California State Senate in 1974. In 1975, Nate Holden passed legislation to require public schools and educational institutions to commemorate the birthday of Dr. Martin Luther King, Jr. for his contributions to the U.S. civil rights movement. He also passed legislation to provide health care for sickle cell anemia patients. In 1987, he was elected to Los Angeles City Council and stayed in office until 2002.
+L.A. County Supervisor Mark Ridley-Thomas. (courtesy photo)
+Assemblymember Sebastian Ridley-Thomas presented the CLBC Vanguard Award to his father, Mark Ridley-Thomas. Mark Ridley-Thomas was born in November 6, 1954 in Los Angeles, California.  He was elected to the Assembly in 2002 and to the Senate in 2006. His legislative agenda focused on job development, public safety, education, economic development, healthcare access and community empowerment. He also served as Chair of the California Legislative Black Caucus and is currently Supervisor for the Second District in Los Angeles County.
+		Categories: Local | News | Political Tags: “The Legacy Continues” Black Tie Gala | 50th anniversary | Assemblymember Autumn Burke | Assemblymember Chris Holden | Assemblymember Sebastian Ridley-Thomas | California Legislative Black Caucus | CLBC | Congresswoman Karen Bass | Jr. | Mark Ridley-Thomas | Nate Holden | Universal Studios Hollywood’s Globe Theatre | Willie Lewis Brown | Yvonne Brathwaite Burke		
+						City Council Addresses RecycleLA Program Difficulties
+						Pilot Program May Reduce Street Sweeping Tickets
+						Reflecting on America’s Safety 16 Years after 9/11
+						The 5th Annual Justice on Trial Film Festival will Showcase ‘When Lov...
+						Influential longtime ex-Disney executive Robert Billingslea dies 
+						Could Alzheimer’s disease be prevented one day with a vaccine? 
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

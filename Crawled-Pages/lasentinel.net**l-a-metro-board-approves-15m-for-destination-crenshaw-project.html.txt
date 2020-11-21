@@ -1,0 +1,321 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+L.A. Metro Board Approves $15M for Destination Crenshaw Project            
+				By Saybin Roberson, Contributing Writer                
+	                	                Published August 1, 2019
+		L.A. City Council member Marqueece Harris-Dawson and supporters rejoice as the L.A. Metro Board voted unanimously to fund Destination Crenshaw
+City Council member Marqueece Harris-Dawson edges closer to his vision of celebrating Black culture through art as a landmark for Crenshaw Blvd. Photo by Leroy Hamilton.
+Thursday, July 25, 2019, Los Angeles County Metropolitan Transportation Agency (Metro) Board came to a unanimous vote granting $15 million to Destination Crenshaw to begin the construction of Sankofa Park, a 49,000 square foot outdoor space and cultural experience.
+Destination Crenshaw will begin the construction of Sankofa Park, a 49,000 square foot outdoor space and cultural experience.
+At 1.3 miles long, Destination Crenshaw will celebrate Black Los Angeles, enhancing each Metro-owned property along the Crenshaw corridor. The outdoor museum intends to combat gentrification and the removal of cultural history while promoting economic development and pride for the community. Destination Crenshaw aims to ensure economic vitality for present and future residents of the community.
+The main attraction will be Sankofa Park, which will be the largest platform of all included in the project. Located just south of Leimert Park on 46th and Crenshaw, the platform will serve as an amphitheater for performances, festivals, and community gatherings and events.
+“Sankofa Park, we think is a fitting investment for this board to make to augment and enhance the train, and make it an asset that increases the vitality of the existing community and doesn’t require a new community to come in to create economic vitality,” Council member Marqueece Harris-Dawson says directing his comments to the board.
+        ADVERTISEMENT        
+Along with Council member Marqueece Harris-Dawson, community stakeholders Berlinda Fontenot Jamerson, president of the Museum of African American Art, Quinton Primo, co-Founder, Chairman and CEO of Capri Capital Partners and Addam Ayala, Founding Director of Smile South Central also advocated for the project. Los Angeles Mayor Eric Garcetti and L.A. County Supervisor Mark Ridley Thomas also shared comments backing Destination Crenshaw and the future installments. Supporters in the audience wore shirts that read Destination Crenshaw stood in solidarity to show their support of the initiative.
+Councilmember Marqueece Harris Dawson and Supervisor Mark Ridley-Thomas (center) with supporters as everyone poses for a picture after the Metro Board votes to grant $15 million to fund Destination Crenshaw. Photo by Leroy Hamilton.
+As part of Metro’s Crenshaw/LAX Transit Project (C/LAX), an 8.5-mile light rail is currently under construction and expected to open in 2020. Rather than receiving minor changes, the train will bring about, Destination Crenshaw will partner with Metro to create an experience and preserve the true essence of the area.
+Councilman Marqueece Harris-Dawson (left) with L.A. County Supervisor Mark Ridley-Thomas. Photo by Leroy Hamilton.
+The C/LAX has been allocated $2.058 billion in funds to build the rail, aligning the goals of both Destination Crenshaw and Metro’s transit-supportive campaign to make trains safer and more accessible to residents of Los Angeles, also encouraging healthier options such as biking and walking. With the vote from the board, Destination Crenshaw has now opened the door to 240 years of history and Black excellence.
+“Together we have the opportunity to create a regional and national model for large scale transportation, and for economic revitalization efforts,” Berlinda Fontenot Jamerson says of the partnership with Metro and Destination Crenshaw.
+Aerial view of Sankofa Park  project which will be located just south of Leimert Park on 46th and Crenshaw. The platform will serve as an amphitheater for performances, festivals, and community gatherings and events.
+Architectural firm Perkins+Will, best known for their work with the Smithsonian National Museum of African American History and Culture in Washington, D.C., will produce a design set to honor the past, present and future of Crenshaw Boulevard without compromising its true essence and unique history. Over 100 art installations will be displayed created by local artists and community members, as well as commissions from world-renowned artists.
+Setting the standard for community pride, this project aims to raise awareness and restore Crenshaw Boulevard to an optimal economic state. As many stated, Destination Crenshaw, is a project not only for South Los Angeles but the entire region.
+To learn more about Destination Crenshaw visit http://destinationcrenshaw.rasheedsulaiman.com/index/.
+		Categories: Business | Crenshaw &amp; Around | Family | Local | News | News (Business) | News (Family) | Political Tags: Berlinda Fontenot-Jamerson | C/LAX | Capri Capital Partners | Crenshaw | Destination Crenshaw | District Supervisor Mark Ridley Thomas | L.A. City Councilmember Marqueece Harris-Dawson | LAX | Los Angeles Mayor Eric Garcetti | Metro | Museum of African American Art | Perkins+Will | Quinton Primo | Sankofa park		
+						FLAIR 2019 Charity Fashion Celebrates African Americans in the Industry
+						Former NNPA Chairman Dorothy Leavell Reflects on the Black Press
+						All 12 Federal Appropriations Committees Adopt Norton’s Minority Ad Spend...
+						Attorney Crump, Shaquille Dukes: ‘Money Won’t Make Racial Incident Go A...
+						REPORT: Black Men Are Biggest Beneficiaries of the First Step Act
+						Ebony and Jet Images to be Donated After Photo Archive Sale
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

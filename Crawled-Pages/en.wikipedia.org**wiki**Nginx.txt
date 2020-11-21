@@ -1,0 +1,244 @@
+	Nginx
+		From Wikipedia, the free encyclopedia
+		Jump to navigation
+		Jump to search
+		Open source web server and a reverse proxy server
+This article relies too much on references to primary sources. Please improve this  by adding secondary or tertiary sources.  (June 2015) (Learn how and when to remove this template message)
+NginxOriginal author(s)Igor SysoevDeveloper(s)Nginx, Inc.Initial release4 October 2004; 16 years ago (2004-10-04)[1]Stable release1.18.0[2] (21 April 2020; 5 months ago (2020-04-21)) [±]Preview release1.19.3[3] (29 September 2020; 11 days ago (2020-09-29)) [±]
+Repositoryhg.nginx.org/nginx
+ Written inC[4]Operating systemBSD variants, HP-UX, IBM AIX, Linux, macOS, Solaris, Windows,[5] and other *nix flavors[6]TypeWeb server, reverse/mail proxy serverLicense2-clause BSD[7]Websitenginx.org 
+Nginx (pronounced "engine X",[8]  /ˌɛndʒɪnˈɛks/ EN-jin-EKS), stylized as NGINX or nginx or NginX, is a web server that can also be used as a reverse proxy, load balancer, mail proxy and HTTP cache.  The software was created by Igor Sysoev and publicly released in 2004.[9] Nginx is free and open-source software, released under the terms of the 2-clause BSD license. A large fraction of web servers use NGINX,[10] often as a load balancer.[11]
+A company of the same name was founded in 2011 to provide support and Nginx Plus paid software.[12] In March 2019, the company was acquired by F5 Networks for $670 million.[13]
+As of February 2020[update], Netcraft estimated Nginx served 36.48 percent of all active websites ranked, ranking it first, above Apache at 24.51 percent,[14] while according to W3Techs, Apache is ranked first at 40.1 percent and Nginx second at 31.8 percent.[15]
+Contents
+1 Popularity
+2 Features
+2.1 HTTP proxy and Web server features
+2.2 Mail proxy features
+3 Nginx vs Nginx Plus
+4 Nginx vs Apache
+5 Nginx Unit
+6 History
+7 See also
+8 References
+9 External links
+Popularity[edit]
+According to Netcraft's November 2016 Web Server Survey,[16] Nginx was the second-most widely used web server across all "active" sites (18 percent of surveyed sites) and for the top million busiest sites (28 percent of surveyed sites). According to W3Techs, it was used by 38 percent of the top 1 million websites, 50 percent of the top 100,000 websites, and by 57 percent of the top 10,000 websites.[17] According to BuiltWith, it is used on 38 percent of the top 10,000 websites, and its growth within the top 10k, 100k and 1 million segments increased.[18] A 2018 survey of Docker usage found that Nginx was the most commonly deployed technology in Docker containers.[19] In OpenBSD version 5.2 (November 2012), Nginx became part of the OpenBSD base system, providing an alternative to the system's fork of Apache 1.3, which it was intended to replace,[20] but later in version 5.6 (November 2014) it was removed in favor of Apache with OpenBSD's own httpd(8).[21]
+Features[edit]
+Nginx can be deployed to serve dynamic HTTP content on the network using FastCGI, SCGI handlers for scripts, WSGI application servers or Phusion Passenger modules, and it can serve as a software load balancer.[22]
+Nginx uses an asynchronous event-driven approach, rather than threads, to handle requests.[23] Nginx's modular event-driven architecture can provide more predictable performance under high loads.[24][25]
+Nginx default configuration file is nginx.conf.[26]
+HTTP proxy and Web server features[edit]
+Ability to handle more than 10,000 simultaneous connections with a low memory footprint (~2.5 MB per 10k inactive HTTP keep-alive connections)
+Handling of static files, index files and auto-indexing
+Reverse proxy with caching[27]
+Load balancing[28] with in-band health checks[29]
+TLS/SSL with SNI and OCSP stapling support, via OpenSSL
+FastCGI, SCGI, uWSGI support with caching
+gRPC support since March 2018, version 1.13.10.[30]
+Name- and IP address-based virtual servers
+IPv6-compatible
+WebSockets since 1.3.13,[31][32] including acting as a reverse proxy and do load balancing of WebSocket applications.[33]
+HTTP/1.1 Upgrade (101 Switching Protocols),[34] HTTP/2 protocol support
+URL rewriting and redirection[35][36]
+Mail proxy features[edit]
+TLS/SSL support
+STARTTLS support
+SMTP,[37] POP3, and IMAP proxy
+Requires authentication using an external HTTP server or by an authentication script[38][37]
+Other features include upgrading executable and configuration without client connections loss,[39] and a module-based architecture with both core[40] and third-party module support.[41]
+The paid Plus product includes additional features such as advanced load balancing and access to an expanded suite of metrics for performance monitoring.[42][43]
+Nginx vs Nginx Plus[edit]
+There are two versions of Nginx: OSS Nginx and Nginx Plus. Nginx Plus offers additional features not included in OSS Nginx, such as active health checks, session persistence based on cookies, DNS-service-discovery integration, Cache Purging API, AppDynamic, Datalog, Dynatrace New Relic plug-ins, Active-Active HA with config sync, Key-Value Store, on-the-fly with zero downtime updates upstream configurations, and key‑value stores using Nginx Plus API[44] and web application firewall (WAF) dynamic module.[45]
+Nginx vs Apache[edit]
+Nginx was written with an explicit goal of outperforming the Apache web server.[46] Out of the box, serving static files, Nginx uses much less memory than Apache, and can handle roughly four times as many requests per second.[47] However, this performance boost comes at a cost of decreased flexibility, such as the ability to override systemwide access settings on a per-file basis (Apache accomplishes this with an .htaccess file, while Nginx has no such feature built in).[48][49]
+Nginx also has a reputation of being harder to install and configure than Apache.[50] Formerly, adding third-party modules to Nginx required recompiling the application from source with the modules statically linked. This was partially overcome in version 1.9.11 in February 2016, with the addition of dynamic module loading.[51] However, the modules still must be compiled at the same time as Nginx, and not all modules are compatible with this system; some require the older static linking process.[52]
+Nginx is generally considered to be less stable on Windows Server than it is on Linux, while Apache has equal support for both.[50]
+Nginx Unit[edit]
+Nginx Unit is an open-source web application server, released in 2017 by NGINX, Inc. to target multi-language microservices-based applications. The initial release supported applications written in Go, PHP, and Python.[53] By version 1.11.0, the support was extended to Java, Node.js, Perl, and Ruby applications; other features include dynamic configuration, request routing, and load balancing.[54][55]
+History[edit]
+Nginx, Inc.TypePrivateIndustryTechnologyFounded2011HeadquartersSan Francisco, California, U.S.[12]Key peopleGus Robertson (CEO), Igor Sysoev (CTO)ProductsNginx web server, nginx amplify saas, nginx controller, nginx unix and nginx web application firewallWebsitenginx.com
+Igor Sysoev began development of Nginx in 2002.[9] Originally, Nginx was developed to solve the C10k problem, and to fill the needs of multiple websites including the Rambler search engine and portal, for which it was serving 500 million requests per day by September 2008.[56]
+Nginx Inc. was founded in July 2011 by Sysoev and Maxim Konovalov[12][57] to provide commercial products and support for the software.[58]
+The company's principal place of business is San Francisco, California, while legally incorporated in British Virgin Islands.[12]
+In October 2011, Nginx, Inc. raised $3 million from BV Capital, Runa Capital, and MSD Capital, Michael Dell's venture fund.[59]
+The company announced commercial support options for companies using Nginx in production. Nginx offered commercial support in February 2012,[60][61] and paid Nginx Plus subscription in August 2013.[62]Support packages focus on installation, configuration, performance improvement, etc.[63] Support includes proactive notifications about major changes, security patches, updates and patches. Nginx, Inc. also offers consulting services to assist customers in custom configuration or adding additional features.[64]
+In October 2013, Nginx, Inc. raised a $10 million series B investment round led by New Enterprise Associates.[65] That round included previous investors, as well as Aaron Levie, CEO and founder of Box.com.[66][67] In December 2014, Nginx raised a $20 million series B1 round led by New Enterprise Associates, with participation from e.ventures (formerly BV Capital), Runa Capital, Index Ventures and Nginx's own CEO Gus Robertson.[68][69]
+In September 2017, Nginx announced an API management tool, NGINX Controller, which would build off of their API Gateway, NGINX Plus.[70][71] In October 2017, Nginx, Inc. announced general available Nginx Amplify SaaS providing monitoring and analytics capabilities for Nginx.[72]
+In June 2018, Nginx, Inc. raised $43 million in Series C Funding in a round led by Goldman Sachs "to Accelerate Application Modernization and Digital Transformation for Enterprises".[73]
+On 11 March 2019, F5 Networks acquired Nginx, Inc. for US$670 million.[74]
+On 12 December 2019, it was reported that the Moscow offices of Nginx Inc. had been raided by police, and that Sysoev and Konovalov had been detained. The raid was conducted under a search warrant connected to a copyright claim over Nginx by Rambler—which asserts that it owns all rights to the code because it was written while he was an employee of the company.[75] On 16 December 2019, Russian state lender Sberbank, which owns 46.5 percent of Rambler, called an extraordinary meeting of Rambler's board of directors asking Rambler's management team to request Russian law enforcement agencies cease pursuit of the criminal case, and begin talks with Nginx and with F5.[76]
+See also[edit]
+.mw-parser-output .portal{border:solid #aaa 1px;padding:0}.mw-parser-output .portal.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portal.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portal>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portal>ul>li{display:table-row}.mw-parser-output .portal>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portal>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}
+Free and open-source software portal
+Comparison of web server software
+Web accelerator
+URL redirection § nginx rewrite
+List of Nginx–MySQL–PHP packages
+References[edit]
+^ "CHANGES". Retrieved 16 May 2017..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}
+^ "CHANGES-1.18". nginx.org.
+^ "CHANGES". nginx.org. Retrieved 29 September 2020.
+^ "The NGINX Open Source Project on Ohloh". ohloh.net. Retrieved 7 March 2013.
+^ "nginx for Windows". Retrieved 28 May 2014.
+^ "Tested OS and platforms". Retrieved 15 October 2011.
+^ "Licensing". Retrieved 18 January 2013.
+^ "Igor Sysoev". sysoev.ru. Retrieved 1 June 2018.
+^ a b Tony Mobily (5 January 2012). "Interview with Igor Sysoev, author of Apache's competitor NGINX". Free Software Magazine. Archived from the original on 19 October 2013. Retrieved 18 October 2013.
+^ "January 2017 Web Server Survey - Netcraft". news.netcraft.com. Retrieved 1 June 2018.
+^ "Use NGINX as a Front-end Proxy and Software Load Balancer". Retrieved 1 June 2018.
+^ a b c d "Notice of Exempt Offering of Securities". Form D. US Securities and Exchange Commission 17 October 2013. Retrieved 15 September 2016.
+^ "F5 acquires NGINX for $670M to move into open-source, multi-cloud services". TechCrunch. Retrieved 12 March 2019.
+^ "Netcraft February 2020 Web Server Survey". Netcraft. Netcraft. Retrieved 16 August 2019.
+^ "Usage Statistics and Market Share of Web Servers, March 2020". w3techs.com. Retrieved 4 March 2020.
+^ "November 2016 Web Server Survey". 22 November 2016. Retrieved 19 December 2016.
+^ "Usage of web servers broken down by ranking". 19 December 2016. Retrieved 19 December 2016.
+^ "Builtwith: nginx Usage Statistics". 19 December 2016. Retrieved 19 December 2016.
+^ "8 surprising facts about real Docker adoption". 13 June 2018. Retrieved 21 June 2018.
+^ "OpenBSD Upgrade Guide: 5.1 to 5.2". openbsd.org. 6 November 2012.
+^ "Heads Up: Nginx Removed From Base".
+^ "Use NGINX as a Front-end Proxy and Software Load Balancer". Linode Guides &amp; Tutorials. Retrieved 1 June 2018.
+^ "Welcome to NGINX Wiki! - NGINX". nginx.com.
+^ "The Architecture of Open Source Applications (Volume 2): nginx". aosabook.org. Retrieved 10 June 2015.
+^ "How to Configure NGINX". Linode Guides &amp; Tutorials. 8 March 2018.
+^ "Beginner's Guide". nginx.org. Retrieved 1 June 2018.
+^ "NGINX Docs | NGINX Reverse Proxy". NGINX Documentation.
+^ "NGINX Docs | HTTP Load Balancing". NGINX Documentation.
+^ "Module ngx_http_upstream_module". nginx.org. Retrieved 14 August 2012.
+^ "Introducing gRPC Support with NGINX 1.13.10". NGINX. 17 March 2018.
+^ "WebSocket proxying". nginx.org.
+^ "WebSocket proxying". nginx.org.
+^ "Using NGINX as a WebSocket Proxy". NGINX. 17 May 2014.
+^ "Proxy: support for connection upgrade (101 Switching Protocols)". trac.nginx.org. 19 February 2013. Retrieved 21 February 2013.
+^ Murenin, Constantine A. (18 February 2013). "A dynamic web-site written wholly in nginx.conf? Introducing mdoc.su!". nginx@nginx.org (Mailing list). Retrieved 24 December 2014.
+^ Murenin, Constantine A. (24 February 2013). "mdoc.su – Short manual page URLs for FreeBSD, OpenBSD, NetBSD and DragonFly BSD". Retrieved 24 December 2014.
+^ a b "NGINX Docs | Configuring NGINX as a Mail Proxy Server". NGINX Documentation.
+^ "Module ngx_mail_auth_http_module". nginx.org. Retrieved 13 September 2012.
+^ "Official documentation: Controlling nginx". nginx.org. Retrieved 3 December 2011.
+^ "nginx documentation". nginx.org. Retrieved 9 June 2015.
+^ "3rdPartyModules – Nginx Community". wiki.nginx.org. Retrieved 9 June 2015.
+^ "How to monitor NGINX". Datadog. 9 July 2015. Retrieved 9 July 2015.
+^ "Application Load Balancing with NGINX Plus". NGINX. Retrieved 9 July 2015.
+^ "Load balancing with NGINX Plus". Retrieved 1 June 2018.
+^ "NGINX Plus is a software load balancer, web server, and content cache system". Retrieved 1 June 2018.
+^ "NGINX vs. Apache: Our View of a Decade-Old Question". NGINX. 9 October 2015. Retrieved 28 December 2016.
+^ "Web server performance comparison". DreamHost. Retrieved 28 December 2016.
+^ Jankov, Tonino (13 June 2018). "Apache vs Nginx Performance: Optimization Techniques — SitePoint". SitePoint. Retrieved 22 October 2018.
+^ "Which web server should you use — Apache or NGINX?". TechRepublic.
+^ a b "Choosing Between Apache and NGINX for Your Web Hosting Needs". Hosting Canada.
+^ "CHANGES-1.10". nginx.org. 31 January 2017.
+^ "Introducing Dynamic Modules in NGINX 1.9.11 - NGINX". NGINX. 9 February 2016. Retrieved 13 January 2017.
+^ "Nginx goes beyond its server roots and launches its application platform". techcrunch.com. 6 September 2017. Retrieved 15 April 2020.
+^ "CHANGES". unit.nginx.org. Retrieved 15 April 2020.
+^ "March 2020 Web Server Survey". news.netcraft.com. 20 March 2020. Retrieved 15 April 2020.
+^ "Nginx: the High-Performance Web Server and Reverse Proxy". Linux Journal. 1 September 2008. Retrieved 16 August 2009.
+^ "Maxim Konovalov". NGINX. Retrieved 13 October 2019.
+^ "Company". nginx.com. 3 January 2012. Retrieved 24 February 2012.
+^ Natasha Starkell (11 October 2011). "Russian Nginx Raises $3 Million From International Investors". Techcrunch. Retrieved 20 November 2014.
+^ Darryl K. Taft (8 February 2012). "NGINX Launches Commercial Support for Open-Source Web Server". e Week. Retrieved 18 October 2013.
+^ Steven J. Vaughan-Nichols (8 February 2012). "Commercial Support now available for the open-source NGINX Web server". ZDNet Open Source blog. Retrieved 18 October 2013.
+^ "Nginx Inc. Launches NGINX Plus". 22 August 2013.
+^ Taft, Darryl K. (8 February 2012). "NGINX Launches Commercial Support for Open-Source Web Server". eweek.com. Retrieved 24 February 2012.
+^ "Commercial Support now available for the open-source NGINX Web server". ZDNet. 8 February 2012. Retrieved 28 February 2012.
+^ Sean Michael Kerner (16 October 2013). "Nginx Raises $10 Million in New Funding for Server Development". e Week. Retrieved 18 October 2013.
+^ Frederic Lardinois (15 October 2013). "Nginx Raises $10M Series B Round Led By NEA". Techcrunch. Retrieved 20 November 2014.
+^ Jolie O'Dell (15 October 2013). "Nginx ties up a sweet $10M funding deal and hundreds of millions of users". Venture Beat. Retrieved 18 October 2013.
+^ Frederic Lardinois (9 December 2014). "Nginx Raises $20M Series B1 Round To Drive International Expansion". Techcrunch. Retrieved 9 December 2014.
+^ Jordan Novet (9 December 2014). "Nginx gets $20M, because an open-source web server is just the beginning". VentureBeat. Retrieved 9 December 2014.
+^ "NGINX releases its new NGINX Application Platform". SD Times. 6 September 2017. Retrieved 7 November 2018.
+^ "Introducing NGINX API Management: Manage NGINX Plus API Gateways with NGINX Controller - NGINX". NGINX. 9 October 2018. Retrieved 7 November 2018.
+^ "NGINX Amplify is Generally Available - NGINX". 1 October 2017. Retrieved 4 June 2018.
+^ "NGINX Raises $43 Million in Series C Funding to Accelerate Application Modernization and Digital Transformation for Enterprises". Retrieved 11 October 2018.
+^ Vaughan-Nichols, Steven J. "F5 acquires NGINX: What to expect from the deal". ZDNet. Retrieved 12 December 2019.
+^ Cimpanu, Catalin. "Russian police raid NGINX Moscow office". ZDNet. Retrieved 12 December 2019.
+^ Tsydenova, Nadezhda. "Russia's Rambler drops effort for criminal case against Nginx web server". Reuters. Retrieved 4 May 2020.
+External links[edit]
+Official website 
+vteWeb server softwareComparisonsMost popular
+Apache
+Nginx
+IIS
+IIS Express
+LiteSpeed Web Server
+Other
+AOLserver
+Caddy
+Caudium
+Cherokee
+GlassFish
+Gunicorn
+H2O
+Hiawatha
+iPlanet
+Jetty
+JEUS
+Jexus
+JOnAS
+Lighttpd
+Mongoose
+Mongrel2
+Monkey
+NaviServer
+NetWeaver
+OpenResty
+Passenger
+Paste
+POCO
+Puma
+PyGopherd
+Resin
+Roxen
+thttpd
+Tomcat
+Tornado
+Traffic Server
+Twisted
+WebLogic
+WEBrick
+WebSphere
+WildFly
+Yaws
+Zope
+Retired
+Boa
+CERN httpd
+Mongrel
+NCSA HTTPd
+Xitami
+Zeus
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Nginx&amp;oldid=978719745"
+		Categories: 2002 softwareCompanies established in 2011Cross-platform free softwareFree proxy serversFree software programmed in CFree web server softwareProxy server software for LinuxReverse proxySoftware companies of RussiaSoftware using the BSD licenseUnix network-related softwareWeb server softwareWeb server software for LinuxHidden categories: Articles with short descriptionShort description matches WikidataArticles lacking reliable references from June 2015All articles lacking reliable referencesUse dmy dates from October 2019Articles containing potentially dated statements from February 2020All articles containing potentially dated statements
+	Navigation menu
+		Personal tools
+		Not logged inTalkContributionsCreate accountLog in
+		Namespaces
+		ArticleTalk
+		Variants
+		Views
+		ReadEditView history
+		More
+		Search
+		Navigation
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		Contribute
+		HelpLearn to editCommunity portalRecent changesUpload file
+		Tools
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		Print/export
+		Download as PDFPrintable version
+		In other projects
+		Wikimedia CommonsWikiversity
+		Languages
+		العربيةБългарскиCatalàČeštinaDanskDeutschEestiEspañolEsperantoفارسیFrançaisGalego한국어Bahasa IndonesiaItalianoעבריתКыргызчаLatviešuBahasa MelayuNederlands日本語PolskiPortuguêsРусскийSlovenščinaСрпски / srpskiSuomiSvenskaతెలుగుTürkçeУкраїнська吴语中文
+		Edit links
+		 This page was last edited on 16 September 2020, at 15:26 (UTC).
+		Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+		Privacy policy
+		About Wikipedia
+		Disclaimers
+		Contact Wikipedia
+		Mobile view
+		Developers
+		Statistics
+		Cookie statement

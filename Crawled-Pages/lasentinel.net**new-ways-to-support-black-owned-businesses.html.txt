@@ -1,0 +1,319 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+New ways to support Black-owned businesses            
+				By Jewel Burks, Head of Google for Startups U.S.                
+	                	                Published August 12, 2020
+Google Blog Photo
+While working as an Entrepreneur-in-residence at Google from 2014 to 2016, I traveled across the country to help enhance the online presence of hundreds of Black-owned businesses. As a Black woman, entrepreneur and Googler, supporting Black-owned businesses and Black founders is my passion.
+Over the past few months, we’ve seen a surge in online searches for Black-owned businesses. It’s been inspiring to witness so many people look for ways to invest in the Black community. Now, we’re announcing three new ways to help support Black business owners.
+Starting today, merchants in the U.S. with a verified Business Profile on Google can add a Black-owned business attribute to their profile, making it easier for customers to find and support them. As part of our $300 million commitment to support underrepresented entrepreneurs, we’re also integrating the attribute into the digital skills training programs we offer Black business owners through Grow with Google Digital Coaches. And through Google for Startups Accelerator for Black Founders, we’re starting our work with the first cohort of 12 startups.
+Making Search and Maps more inclusive
+With this attribute, our goal is to make Search and Maps more inclusive and help support Black-owned businesses when they need it most.
+        ADVERTISEMENT        
+“Everyone who comes into this store is welcome,” says Janet Jones, founder and co-owner of the Detroit-based Source Booksellers. “For us, being Black-owned means serving the community we’re in.”
+By adding the attribute, people using Google Search and Maps can see Source Booksellers is Black-owned, and easily extend their support by purchasing one of their products, leaving a great review and sharing their Business Profile with others looking for their next book.
+To help get the word out about the new Black-owned attribute, we’ve partnered with the U.S. Black Chambers, Inc. (USBC). With 145 Black Chambers of Commerce and 326,000 members across the country, USBC provides leadership and advocacy to empower Black business owners through resources and initiatives. Together, Google and USBC will provide training for Black-owned businesses to enhance their presence on Google through the use of digital tools like Google My Business and Google Analytics. Our hope is that by partnering with USBC, we can help more businesses connect with their community and customers.
+Reaching more businesses with digital skills training
+We’re also adding the Black-owned business attribute to the training curriculum offered through the Grow with Google Digital Coaches program. Since 2017, Digital Coaches have offered free mentorship, networking, and workshop opportunities to Black and Latinx businesses in 11 cities across the U.S., including Atlanta, Chicago and Detroit. And the program is growing: Last month, we announced an expansion to Birmingham, Alabama, Memphis, Tennessee and Cleveland, Ohio, as well as a commitment to train more than 50,000 Black owned small businesses.
+Introducing the first class of Google for Startups Accelerator for Black Founders
+Through Google for Startups, we’re also expanding ways to support Black entrepreneurs who are using technology to address so many of today’s biggest challenges. Today, we’re announcing the inaugural class of the Google for Startups Accelerator for Black Founders with 12 high potential Seed to Series A tech startups based in the U.S.
+The class includes entrepreneurs like Guy Assad, founder of Clerkie, a business designed to help Americans get out of debt. It also includes Melvin Hine, founder of Upswing, which is dedicated to improving the online education system, and Ashley Edwards, founder of MindRight Health which provides digital mental health services for young people. Starting next month, these 12 founders will receive training and support from Google and industry experts on technical challenges, business growth, and outside investment opportunities to help them reach the next level.
+In my current role as the Head of Google for Startups in the U.S., I have the privilege of continuing to work with Black entrepreneurs. Today’s updates are a part of our company-wide effort to support Black-owned businesses through products and meaningful partnerships. It’s my hope that this attribute and Google’s tools and training can serve as additional resources for Black-owned businesses and the people who support them.
+		Categories: Business | National Tags: Ashley Edwards | Black Entrepreneurs | Clerkie | Google | Google Digital Coahces | Google for Startups Accelerator for Black Founders | Google for Startups in the U.S. | Guy Assad | Jewel Burks | MindRight | U.S. Black Chambers Inc. | USBC		
+						Court Rules in Favor of California: Uber and Lyft Drivers are Employees
+						Joe Biden 2020 for President Campaign Commits Major Ad Dollars to Black-Own...
+						California Senator Kamala Harris makes history as the first Black woman to ...
+						California’s Political Leaders Praise Biden’s Selection of U.S. Sen. Ka...
+						Kamala Harris Officially Introduced as Joe Biden’s Running Mate
+						New York’s Attorney General Alleges Widespread Corruption at the NRA
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

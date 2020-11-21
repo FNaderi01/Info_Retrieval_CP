@@ -1,0 +1,315 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Denzel Washington Talks His Life, Career and Announces Future Project as Executive Director for HBO            
+				By Brittany K. Jackson, Contributing Writer                
+	                	                Published September 23, 2015
+		(photo Brittany Jackson)
+To describe Denzel Washington’s introspective cool and au natural swagger as riveting would be an understatement. Recently, Dr. Todd Boyd sat down with Mr. Washington in an exclusive interview at The Wallis Annenberg Center for Performing Arts in Beverly Hills September 17 to discuss Washington’s life, career and future projects in creative detail.
+Raised in a home where his father was a minister, and playing sports was the focal point for entertainment, Denzel had never imagined being an actor. He only met his passion after navigating through life as a pre-med student, political science novice, and journalism major, which eventually led to his career in theatre and film.
+As Dr. Boyd began to pose a series of questions about Denzel’s career, Washington exuded with humility, wisdom and a keen understanding of the acting world. When asked about his favorite movie role, Washington responded by saying, “I always say my next one because I like the process. I don’t sit back and reminisce.” And Washington’s creative genius doesn’t stop with his ability to move from character to character, Dr. Boyd also asked Washington about his cool demeanor, style and approach. “I work from the inside out. I don’t look at myself. I don’t have a style, he stated.” “I just do what I do. If I’m a bottle maker, I just make the best bottle I can make.”
+        ADVERTISEMENT        
+Denzel also reflected on his profound roles as Malcolm X and Frank Lucas, describing the process behind characterizing these men and the varying eras in time. Denzel described knowing little about the Muslim culture before originally depicting Malcolm X in the play When the Chickens Come Home to Roost. It wasn’t until then that Washington read the Malcolm X biography, eventually improvising Malcolm X speeches with ease following the intense study of the noble figure. Frank Lucas, on the other hand, was a country guy with a city demeanor and the eyes of a killer, according to Denzel, who spoke of his experience spending time with Lucas to prepare for his role in the film American Gangster. “Frank Lucas. He was urban. He was city. He was laser. Let’s put it this way, he’s got a body of work,” Denzel stated noting Lucas’ corrupt lifestyle.
+As a man of faith, Denzel also spoke about defending roles such as playing the bad guy in Training Day. “If you are a man of faith, you shouldn’t have any boundaries. We’re not absolute, we’re complex individuals,” he stated. “It wasn’t arbitrary that I ended up crawling like a snake. The wages of sin is death, and in order to justify living that way, he had to die that way,” Washington stated.
+Washington then made a huge announcement about the opportunity of a lifetime granted by the August Wilson estate. Washington signed a deal with HBO to bring adaptations of all 10 of August Wilson’s plays about African American life to the big screen. “I am directing, producing and acting in one, and I am executive producing the other nine in a deal with HBO, one a year for the next none years,” Washington stated. “The universal stems from the specific. His [August Wilson] stories are universal but his themes are specific,” Washington continued citing his intrinsic interest in reproducing the plays.
+Calling to attention Matt Damon’s recent comment about diversity in film and where it starts, Washington stated, “It starts with the writer. Some black people know what hot-combed hair in the morning smells like. Once you smell it, you never forget it. Some things are cultural differences. Write about what you know,” he continued, encouraging black media professionals and other predominantly stereotyped cultures to write their own truth, and tell their own stories.
+Washington also gave a host of advice to young professionals who posed questions to the famed actor from the audience. When asked about whether to start an acting career on stage or on film, Washington stated that learning to act on stage serves as better training for a budding artist. “In film, it’s a 14-hour day, but a play is 2-3 hours of intensity. It’s a different energy,” Denzel shared noting the impromptu experience involved in theatre.
+As depicted by the diversity in the audience, Denzel and his body of work inspire people from all walks of life. During the interview, a few audience members thanked Washington for inspiring them to pursue their passion in the field. After hugging one tearful fan, Denzel said, “You never know who you touch or influence. You gotta use what you have. It’s not how much you have. It’s what you do with what you have,” Washington uttered to the gazing audience.
+Finally, when asked about the difference between an actor and a movie star, Denzel replied, “I don’t know because I’m an actor. It’s about the work. I’m an ordinary guy with an extraordinary job,” he stated. Extraordinary indeed.
+		Categories: Entertainment | Movies Tags: Brittany K. Jackson | Denzel Washington | executive director | HBO | Los Angeles Sentinel Newspaper | UCLA | Wallis Annenberg		
+						UCLA Alum Hits Honest Tone With Millennials
+						Morris Chestnut talks about his new television series “Rosewood”...
+						The Spiritual and Lyrical Instrument that is Rachelle Ferrell
+						‘Thina Sobabili’ selected as South Africa’s Oscars entry
+						Get a taste of soul at the KJLH Stage featuring Monica, Angie Stone, Joe an...
+						Santa Monica College to Host Free Screening or Bill Duke’s ‘Light Girls...
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

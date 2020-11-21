@@ -1,0 +1,215 @@
+      menu
+          Google Workspace Technical Support Services Guidelines
+              The following technical support services guidelines ("Guidelines")
+              apply to support services for your use of "Google Workspace
+              Services", except for the services and editions noted below that are
+              excluded from coverage. Capitalized terms not defined herein have the meaning set
+              forth in the agreement that governs your use of Google Workspace Services
+              ("Agreement"). For clarity, Google does not offer TSS for Chrome
+              Sync Services in G Suite for Education or for any of the services set forth at the
+              following URL: https://www.google.com/support/a/bin/answer.py?hl=en&amp;answer=181865.
+                  Support Request Submission
+                    Customer Efforts to Fix Errors. Prior to making a Request to
+                    Google, Customer will use reasonable efforts to resolve issues, to fix any
+                    error, bug, malfunction or network connectivity defect without escalation to
+                    Google. Thereafter, Customer Contact may submit a Request for technical support
+                    as specified at https://support.google.com/a/answer/1047213?hl=en or as such URL
+                    may be updated by Google.
+                    Characterization of Requests. Customer will designate priority
+                    upon submission of Requests. Upon receiving a Request from a Customer Contact,
+                    Google will determine whether the Request is a "Service Unusable," "Standard
+                    Request" or a "Feature Request" (as defined in Section 6 (Definitions)). Any
+                    such determination made by Google is final and binding on Customer. Google
+                    reserves the right to change Customer's Priority designation if Google believes
+                    that Customer's designation is incorrect and will inform Customer of any such
+                    change in its response to the support Request. Customer may appeal any such
+                    reclassification to Google's Support management for review through any
+                    available support channel.
+                    Procedures for Acknowledgement and Resolution of Requests.
+                    When making a Request, Customer will provide requested diagnostic information
+                    including but not limited to: (i) describing the problem, the configuration,
+                    and Customer's network; (ii) providing relevant data; and (iii) answering
+                    questions and assisting Google Support Personnel as appropriate.
+                    Request Acknowledgement. Google may respond to a Request by
+                    acknowledging receipt of the Request. Customer acknowledges and understands
+                    that Google may be unable to provide answers to, or resolve all, Requests.
+                    Feature Requests. If Google deems a Request as a Feature
+                    Request, Google will log such Request for consideration to add to a future
+                    update or release of the Services and will consider the matter closed. Google
+                    is under no obligation to respond to or resolve any Feature Request or to
+                    include any such Feature Request in any future update or release.
+                  Accessing Support
+                    Google Help Center. Customer's End Users of the Services may
+                    access the Google Help Center at https://support.google.com/a/ or such URL as
+                    Google may provide. Customer is responsible for responding to any questions and
+                    complaints by End Users or other third parties relating to Customer's or its
+                    End Users' use of the Services, with such support services to be provided at
+                    Customer's own expense.
+                    Customer PIN. Customer is required to provide a current
+                    Customer PIN when making a Request. Customer will obtain such Customer PIN in
+                    the Admin Console in order to access and receive support for the Services from
+                    Google. If Customer is unable to provide the current Customer PIN when
+                    prompted, Customer will only be able to access the Google Help Center and post
+                    a question to its online help forum, until such time as the Customer PIN is
+                    restored. The Customer PIN may be updated periodically and is only available in
+                    the Admin Console.
+                  Chrome Support
+                    Availability of Support. In addition to Requests related to
+                    the Services, Google will also respond to Requests related to Chrome as set
+                    forth in these Guidelines. Responses will be in English language only.
+                    Supported Issue Types. Google Support Personnel will respond
+                    to Requests related to Chrome installation, Chrome Core Functionality, Chrome’s
+                    security, administrative policies, and Chrome’s interoperability with Services
+                    on Supported Platforms as set forth in these Guidelines. Google may choose not
+                    to respond to Requests for other Chrome related technical issues, such as but
+                    not limited to, rendering problems for specific web pages, technical issues
+                    related to the underlying operating system, device driver or printer problems.
+                    If Google makes a code change to resolve a technical issue, the code change is
+                    released in an upcoming release and will not be ported back to an earlier
+                    version of Chrome.
+                  Support Levels
+                    Generally. As part of Customer's order of Google Workspace
+                    Services, Google will provide Basic TSS to Customer. Customer may order
+                    additional TSS for an additional fee.
+                    Basic Support. Customer will receive the following:
+                      Automatic product upgrades of the Services
+                      Maintenance updates of the Services
+                      Online self help and training for End Users and Administrators designed
+                      to assist Customer with implementation and use of the Services
+                      Ability to submit a support Request
+                      Status Dashboard and support portal providing real-time publicly
+                      available status information for the Services
+                    Fee Commitments. Some TSS require a 1-year fee commitment.
+                    When Customer enrolls in such TSS, any applicable Fees will be pro-rated for
+                    that month and then continue to apply for each month in the 1-year commitment
+                    period.
+                    Support Hours and Target Initial Response Times.
+                      Google will provide acess to Google Help Center support for Customer on a
+                      24 x 7 basis.
+                      Target Initial Response Times.
+                                Target Initial Response Times during the Hours of Operation
+                                Priority
+                                Google WorkSpace Standard Support
+                                Enhanced Support
+                                Premium Support
+                                P1
+                                4 hours 24x7
+                                1 hour 24x7
+                                15 minutes 24x7
+                                P2
+                                8 hours
+                                4 hours 24x7
+                                2 Hours 24x7
+                                P3
+                                24 hours
+                                8 hours
+                                4 hours 24x7
+                                P4
+                                24 hours
+                                8 hours
+                                8 hours
+                        Enhanced Support. Enhanced Support will be provided in
+                        English language (24x7) and, notwithstanding Section 5.2 (Language), in
+                        Japanese language (8x5) during Business Hours.
+                        Premium Support.
+                        Premium Support will be provided in English language (24x7) and,
+                        notwithstanding Section 5.2 (Language), in Japanese language during
+                        Business Hours.
+                        As part of the Premium Support offering, Customer will receive access
+                        to a named Technical Account Manager for 1 day per week to (a) assist with
+                        Customer in developing a strategy with respect to the Services, (b) provide
+                        best practice advice regarding implementation and use of the Services, and
+                        (c) manage technical support escalations and coordinate with Google subject
+                        matter experts to address technical inquiries related to the Services.
+                        Additional access to Technical Account Management may be purchased, subject
+                        to additional fees and terms. Please contact your account team for pricing
+                        details.
+                        Legacy Standard Support. Notwithstanding any other term of
+                        Section 4 (Support Levels), the following terms will apply to customers
+                        enrolled in Standard Support prior to October 6, 2020: P1 Priority support
+                        Requests are responded to with a target initial response time of one hour
+                        and are responded to 24 x 7; and P2, P3, and P4 Priority support Requests
+                        are responded to with an initial target response time of 1 business day or
+                        less.
+                  General Provisions
+                    Maintenance. To ensure optimal performance of the Services,
+                    Google performs periodic Maintenance. In most cases, Maintenance will have
+                    limited or no negative impact on the availability and functionality of the
+                    Services. If Google expects planned Maintenance to negatively affect the
+                    availability or functionality of the Services, Google will use commercially
+                    reasonable efforts to provide at least seven days advance notice of the
+                    Maintenance. In addition, Google may perform emergency unscheduled Maintenance
+                    at any time. If Google expects such emergency unscheduled Maintenance to
+                    negatively affect the availability or functionality of the Services, Google
+                    will use commercially reasonable efforts to provide advance notice of such
+                    Maintenance. Maintenance notices will be provided via the Google Workspace
+                    Dashboard, Admin Console and/or support portal. In addition, Customers who
+                    subscribe to Maintenance notices may also be able to receive email and/or RSS
+                    Feed notifications of Maintenance.
+                    Language. All support provided by Google Support Personnel
+                    pursuant to these Guidelines will be provided in English language, or during
+                    listed hours in one of the additional languages documented in these Guidelines
+                    or at https://support.google.com/a/table/3247295 or such other
+                    URL as Google may provide. Support outside of these hours can be obtained via
+                    English language support channels.
+                    Term of Support. Google will only provide the support services
+                    described in these Guidelines during the term of the Agreement and will have no
+                    obligation to provide any support services to Customer after the expiration or
+                    termination of such Agreement.
+                    Support Data Processing Activities. Google collects and
+                    processes Support Data for the purpose of providing the support services
+                    described in these Guidelines and maintaining the Services.
+                    On-site Support. Google may, at its discretion and upon
+                    approval from Customer, send Google Support Personnel on-site in response to an
+                    issue that cannot be resolved remotely. Google Support Personnel performing
+                    support at Customer's facilities will comply with Customer's reasonable onsite
+                    policies and procedures made known to Google in writing in advance.
+                  Definitions
+                  For the purpose of these Guidelines, the capitalized terms below will have the
+                  following meanings:
+                    "Business Hours" means business hours in Japan, namely, 09:00
+                    to 17:00 on Monday to Friday Japan Standard Time.
+                    "Chrome" means the Chrome web browser as released by Google
+                    for Supported Platforms and available for download at the URL http://www.google.com/chrome/ or the MSI installer provided at the
+                    URL https://www.google.com/chrome/business/ or at another URL that
+                    Google may provide.
+                    "Chrome Core Functionality" means the features and
+                    functionality in the latest released Chrome browser version, excluding Google
+                    Chrome extensions, Google Play, and Google Cloud Print.
+                    "Customer Contacts" means Administrators designated in the
+                    Admin Console.
+                    "Feature Request" means a Request by a Customer Contact to
+                    incorporate a new feature or enhance an existing feature of the Services that
+                    is currently not available as part of the existing Services.
+                    "Google Support Personnel" means the Google representatives
+                    responsible for handling technical support requests.
+                    "Hours of Operation" means the hours listed at https://support.google.com/a/table/3247295 for each country except
+                    for holidays in local time for each region as documented in the Admin Console.
+                    "Maintenance" means maintenance work that is performed on
+                    hardware or software delivering the Services.
+                    "Priority" means the level of impact a Request is having on
+                    Customer's operations and is used to establish target response times.
+                    Definitions of available priority levels can be found on our help center:
+                    https://support.google.com/a/answer/1047213
+                    "Request" means a request from Customer to Google Support
+                    Personnel for technical support to resolve a question or problem report
+                    regarding the Services.
+                    "Service Unusable" means a production issue that prevents more than one
+                    of the Customer’s End Users from access to, or use of, the Services,
+                    or where Customer's network is not receiving any inbound email (and/or sending
+                    outbound email) from the Services. Customer must identify a Request as Service
+                    Unusable by designating it as a P1 Priority support Request.
+                    "Standard Request" means a Request made by Customer to Google
+                    that is not a Service Unusable Request or Feature Request.
+                    "Support Data" means account details and the information that
+                    Customer provides to Google for the purpose of obtaining the support services
+                    described in these Guidelines, including requests for support and the details
+                    provided to Google about the specific support issue.
+                    "Supported Platform" as listed at https://support.google.com/a/bin/answer.py?answer=2763059
+                    means an operating system and version for which i) Chrome is released by Google
+                    and ii) support under these Guidelines is provided. Google may choose not to
+                    respond to issues with preview versions of Chrome (also known as beta, dev, and
+                    canary) or preview features. Chrome OS is not a Supported Platform under these
+                    Guidelines; dedicated Google technical support and hardware service for Chrome
+                    OS is available under a separate agreement. For clarity, Chrome Frame is a
+                    separate product not covered under these Guidelines.

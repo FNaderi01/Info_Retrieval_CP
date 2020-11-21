@@ -1,0 +1,190 @@
+	Feedreader (Windows Application)
+		From Wikipedia, the free encyclopedia
+		Jump to navigation
+		Jump to search
+		This article includes a list of general references, but it remains largely unverified because it lacks sufficient corresponding inline citations. Please help to improve this article by introducing more precise citations.  (May 2016) (Learn how and when to remove this template message)
+FeedreaderFeedreader Feed WindowDeveloper(s)i-Systems Inc.Stable release3.14
+   /    April 20, 2009; 11 years ago (2009-04-20)[1]
+Operating systemMicrosoft WindowsTypeFeed readerLicenseProprietaryWebsitewww.feedreader.com
+Feedreader is a free RSS and Atom aggregator for Windows. It has a stripped down, though configurable, three-pane interface similar to NetNewsWire on Mac OS X. Recent beta versions use MySQL as database back-end.
+Feedreader was one of the first desktop feed readers; version 1.54 of Feedreader of the application were distributed on April 24, 2001.[2][3] The company behind Feedreader says that it was the first personal desktop RSS reader.[4]
+Feedreader has an auto-discovery feature, whose purpose is to find RSS feeds on any web page and subscribe to them in an automated fashion. Moreover, the program can use keyboard shortcuts, search through one's RSS feeds, and can be run from a USB flash drive. The installation file is 4.44 MB, which is notably small for a feed reader with such features.
+Contents
+1 Ownership
+2 See also
+3 References
+4 Notes
+5 External links
+Ownership[edit]
+In an un-dated announcement published on the Feedreader website it was stated that '...after years of successful development by i-Systems Inc. Feedreader has been acquired by a new professional and reliable developer.' However ownership of Feedreader is not disclosed on the organisation's website and it is unclear whether the service is owned by a private individual, a partnership, a corporation, or some other type of entity. Websearches carried out on 8 January 2014 did not disclose whether the owner and/or controller of Feedreader is domiciled or resident in the United States or elsewhere. The "Contact Us" page of the company's website gives a postal address and telephone number which are shared by the operators of another website surdotly.com but this site is also silent as to its ownership. Users of feedreaders need to be aware that the operator of the reader software may have access to records of the websites from which feeds are derived and in the absence of knowledge as to who those operators might be users should be cautious about the personal profile information which the use of a feedreader may disclose to unknown parties.
+See also[edit]
+Comparison of feed aggregators
+References[edit]
+^ "Feedreader 3.14 released". Feedreader. April 20, 2009. Archived from the original on July 30, 2012. Retrieved September 24, 2016..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}
+^ "What is Feedreader?". Web Archive. April 24, 2001. Archived from the original on July 29, 2015. Retrieved September 24, 2016.
+^ Hölzle, Urs. "A second spring of cleaning". googleblog.blogspot.com. Retrieved 2013-03-14.
+^ "About us". Feedreader. Archived from the original on July 30, 2012. Retrieved September 24, 2016.
+Notes[edit]
+Fileforums.betanews.com
+Feedreader Homepage at the Wayback Machine (archive index)
+i-Systems Inc.  "About us", Feedreader Homepage, March 25, 2008. Accessed March 25, 2008
+External links[edit]
+Official website
+vteNews aggregatorsClient softwareStandalone
+Akregator
+BlogBridge
+FeedDemon
+Feedreader
+Flipboard
+Genieo
+Google Currents
+Google News
+Liferea
+NetNewsWire
+NewsAccess
+Newsbeuter
+NewsFire
+QuiteRSS
+RSS Bandit
+RSSOwl
+Seesmic
+WebFetch
+Web browsers
+AOL Explorer
+Avant Browser
+Basilisk
+Camino
+iCab
+Firefox
+Flock
+GNOME Web
+Internet Explorer
+K-Meleon
+Kazehakase
+Maxthon
+Microsoft Edge
+Netscape Browser
+Netscape  Navigator 9
+OmniWeb
+Opera
+Pale Moon
+Safari
+SeaMonkey
+Shiira
+Sleipnir
+Tencent Traveler
+Vivaldi
+Waterfox
+Email clients
+Apple Mail
+Claws Mail
+Gnus
+IBM Notes
+Microsoft  Outlook
+Mozilla Thunderbird
+Netscape  Messenger 9
+Opera Mail
+Pegasus Mail
+The Bat!
+Windows Live  Mail
+Zimbra
+Web browser plugins
+Cooliris
+Sage
+Web apps ormobile apps
+Bloglines
+CommaFeed
+Cheetah News
+Daylife
+Digg Reader
+Drupal
+Feedbin
+Feedly
+FriendFeed
+Google News
+Google Reader
+iGoogle
+dotCMS
+Imooty.eu
+Inoreader
+Magnolia
+My Yahoo!
+News360
+NewsBlur
+Newsknowledge
+Netvibes
+Pageflakes
+Planet
+Pulse
+Rojo.com
+Prismatic
+Spokeo
+The Old Reader
+Tiny Tiny RSS
+TweetDeck
+WebGUI
+Windows Live Personalized Experience
+winnowTag
+Media aggregatorsPodcatcher
+Adobe Media Player
+Akregator
+Amarok
+Flock
+iTunes
+Juice
+MediaMonkey
+Miro
+Rhythmbox
+Songbird
+Winamp
+Zune
+RSS+BitTorrent
+BitLord
+BitTorrent 6
+Deluge
+Miro
+Opera Mail
+qBittorrent
+Tribler
+μTorrent
+Vuze
+Related articles
+Comparison of feed aggregators
+History of Media aggregation
+RSS enclosure
+Italics indicate discontinued software.
+This network-related software article is a stub. You can help Wikipedia by expanding it.vte
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Feedreader_(Windows_Application)&amp;oldid=916653897"
+		Categories: News aggregator softwareNetwork software stubsHidden categories: Articles lacking in-text citations from May 2016All articles lacking in-text citationsWebarchive template wayback linksOfficial website different in Wikidata and WikipediaAll stub articles
+	Navigation menu
+		Personal tools
+		Not logged inTalkContributionsCreate accountLog in
+		Namespaces
+		ArticleTalk
+		Variants
+		Views
+		ReadEditView history
+		More
+		Search
+		Navigation
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		Contribute
+		HelpLearn to editCommunity portalRecent changesUpload file
+		Tools
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		Print/export
+		Download as PDFPrintable version
+		Languages
+		CatalàDanskРусский
+		Edit links
+		 This page was last edited on 19 September 2019, at 23:46 (UTC).
+		Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+		Privacy policy
+		About Wikipedia
+		Disclaimers
+		Contact Wikipedia
+		Mobile view
+		Developers
+		Statistics
+		Cookie statement

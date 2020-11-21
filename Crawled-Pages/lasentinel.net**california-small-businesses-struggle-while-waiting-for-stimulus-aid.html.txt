@@ -1,0 +1,250 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+California Small Businesses Struggle While Waiting for Stimulus Aid            
+				By Ebone Monet, California Black Media                
+	                	                Published April 23, 2020
+		(Courtesy photo)
+M’Dears Bakery &amp; Bistro fills the air in its South Los Angeles neighborhood with smells of fried chicken, French toast, and homemade desserts. “It was very serendipitous,” said 66-year-old restaurant owner Carrie Reese about how she transitioned from a vendor at jazz festivals to opening a dine-in restaurant at 77th and Western Avenue.
+“You could see through the window, piles of chicken. And people started saying, ‘can I just buy a plate,’” said Reese.
+Eighteen years later, M’dears recently renovated dining room is empty during what would normally be its busy lunchtime rush, and Reese is struggling to come up with the money to pay her staff.
+        ADVERTISEMENT        
+“I was a little bit slow to do the furloughs and the layoffs. I was hoping against hope that I wouldn’t have to do that. I kept people on longer than I should have. Everybody has kids to support. It’s a really big burden for me to have to make those decisions,” said Reese.
+Since mid-March, Reese estimates that her business has slowed by 65% – 70%. She’s had to furlough most of her staff. This comes during nationwide efforts to slow the spread of the novel coronavirus. LA Mayor Eric Garcetti closed the city’s restaurants and bars; only takeout, and delivery are allowed. This is happening as authorities issue daily reminders for people to follow the state’s stay-at-home order.
+Reese said she’s paying her remaining employees order-by-order and when that’s not enough she pulls money from her retirement savings. At the same time, she notices more customers are paying with credit cards. That means it takes days before sales of smothered pork chops or plates of wings and waffles make them money. “It’s embarrassing. It breaks my heart when people say ‘hey the check didn’t go through,’” said Reese.
+(Courtesy photo)
+M’dears Bakery &amp; Bistro is one of nearly 4 million small businesses in California. About 1.6 million of them are minority-owned. The restaurant industry as a whole has been hit hard by the COVID-19 social distancing policies. By April 9, the National Restaurant Association estimated more than 3 million restaurant employees across the country have lost their jobs; 560,000 here in California.
+Reese employs about 40 people at M’dears LA and M’Dears Lakewood near Long Beach. She wants to bring all her employees back when restaurants can return to full operation. But Reese says it is nearly impossible for a business such as hers with “razor thin profit margins” to survive this prolonged slowdown. Reese has decided to focus on meeting payroll while everything else falls behind. She described earning “just enough to get through the day.”
+Reese applied for the Paycheck Protection Program (PPP) intended to help small business owners stay afloat. But on Thursday April16, The US Small Business Administration (SBA) announced it is “unable to accept new applications” due to a lack of funding. The $349 billion program was nearly out of money.  “Without that money how am I going to pay off debt,” she said.
+As of April 13, SBA said it had approved more than 1.3 million PPP loans totaling more than $296 billion. Reese has not heard from her bank JPMorgan Chase about her application.  “ I feel so helpless and disheartened,” said Reese. Chase was one of the banks that received criticism for delays in launching its online PPP application platform.
+The President requested another $250 billion to replenish the COVID-19 small business relief funds, but members of Congress have not reached an agreement. This deadlock comes about two weeks after lawmakers passed the Coronavirus Aid, Relief, and Economic Security (CARES) Act. The $2 trillion stimulus package included $377 trillion to help small businesses survive and to keep people employed. The bulk of the funding was divided into two types of loans. The PPP loan and the Economic Injury Disaster Loan (EIDL). Reese applied for both stalled programs.
+The Paycheck Protection Program (PPP)
+This is a forgivable loan of up to $10 million with a 1% interest rate. “The max amount a business can apply for is 2.5x the business’s average monthly payroll costs, not exceeding $10 million. Under specific circumstances, PPP Loans can be forgiven. The amount a business spent on payroll, rent, utilities and other eligible costs within the 8-week period upon receiving the loan is forgiven. The remaining amount turns into a fixed-rate loan with the SBA,” adds Lieberman.
+Economic Injury Disaster Loan (EIDL)
+Businesses can receive as much as $2 million in assistance from the federal government. This is a fixed-rate loan with a 3.75% interest rate for small businesses and a 2.75% interest rate for private non-profits. “However, applicants are also eligible for a $10,000 forgivable advance on the loan immediately after applying, even if the business does not ultimately receive the loan,” said Rebecca Lieberman, Policy Advisor and Research Manager with the San Diego Regional Chamber of Commerce. The SBA has also stopped processing new EIDL loans, citing a lack of funding.
+As California small business owners left out of the first wave of loan approvals wait to find out if these federal programs will resume, there is small business aid at the state and city levels.
+California COVID-19 Small Business IBank Loan Program
+Earlier this month, Gov. Gavin Newsom announced $50 million in loan guarantees for small businesses that may not be eligible for federal relief. The State is also allowing small businesses to defer payment of sales and use taxes of up to $50,000, for up to 12 months. In a move said to help workers and small businesses, people receiving unemployment benefits are temporarily being paid an extra $600 on top of their weekly amount.
+(Courtesy photo)
+California City level COVID-19 Small Business Aid
+Small business owners in San Francisco are being encouraged to apply for the San Francisco Hardship Emergency Loan Program (SF HELP). The loans have a 0 percent interest rate and are administered by Main Street Launch in partnership with the city of San Francisco. Small businesses can make loans of up to $50,000 for terms of up to six years.
+Additionally, through the City of Los Angeles Small Business Emergency Microloan Program, businesses and microenterprises in Los Angeles that are responsible for providing low-income jobs can apply for emergency microloans in an amount between $5,000 and $20,000. Reese hopes Congress reaches an agreement to fund the loan programs soon and that more applications in the queue are approved. In the meantime, three days a week she and her scaled-down team cook M’dears signature soul food for about 50 seniors who are shut-in during this pandemic.
+The emergency meal delivery program was launched by LA City Councilmember Marqueece Harris-Dawson. Reese says compensation for the heartwarming cause has been slow. In fact, on the Friday leading into the Easter holiday weekend, Reese couldn’t afford to pay some of her staff. “Up to today, we have provided 300 meals and haven’t gotten a penny for it,” she said, “You wanted me to keep them on staff to do this, but you’re not giving me the money to pay them, so I can’t pay them.”
+Reese does not have a financial parachute. M’dears Bakery &amp; Bistro is her retirement plan. A plan she sees being threatened every day that potential customers are told to stay inside, “All I see is my retirement flashing before my eyes. I am going to be so far in debt trying to dig my way out of this. I’ll be 75 years old before I can think about retiring. ”
+The National Restaurant Association has launched RestaurantsAct.com to share the latest COVID-19 relief information.
+		Categories: Business | COVID-19 | News Tags: and Economic Security (CARES) Act | Carrie Reese | City of Los Angeles Small Business Emergency Microloan Program | Coronavirus Aid | COVID-19 | Gov. Gavin Newsom | JPMorgan Chase | LA City Councilmember Marqueece Harris-Dawson | LA Mayor Eric Garcetti | M’Dears Bakery &amp; Bistro | National Restaurant Association | Paycheck Protection Program (PPP) | Rebecca Lieberman | relief | San Diego Regional Chamber of Commerce | South Los Angeles | The US Small Business Administration (SBA) | US Small Business Administration (SBA)		
+						Activist Group Sues LA County and Sheriff Over Jail Conditions Due to COVID...
+						Coronavirus related death-rate has doubled every eight days: Los Angeles Ci...
+						L.A. Public Officials List four “Prerequisites” needed to relax Safer a...
+						Facing deep impacts from COVID-19, Los Angeles County unveils recommended b...
+						Harris, Colleagues Urge Administration to Take Action to Ensure Paycheck Pr...
+						NBA TARGETING NO EARLIER THAN MAY 8 TO ALLOW LIMITED, INDIVIDUAL WORKOUTS I...
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->

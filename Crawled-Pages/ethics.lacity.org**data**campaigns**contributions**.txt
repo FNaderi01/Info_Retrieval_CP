@@ -1,0 +1,4456 @@
+										Primary Menu										
+About CloseMission/HistoryCommissionersStaffMeetingsJobsContact UsPrograms CloseCampaignsContractsEthicsLobbyingWork CloseAdviceAuditsDisclosureEducationEnforcementPolicyCommunities CloseBiddersCandidatesCity EmployeesCity OfficialsCommissionersCommitteesContractorsContributorsDepartmentsDepartment HeadsIndependent SpendersLobbyistsLobbying FirmsLobbyist EmployersMajor FilersOfficeholdersResources CloseFormsPublicationsLawsNewsCOI CodesElection TotalsExternal Links Close	
+				Search
+				Search
+ ClosePublic Data PortalCampaignsContractsEthicsLobbyingAll ReportsFormal AdviceAuditsEnforcement Orders CloseFileDisclosureComplaint CloseFormer Website
+	/* moved to footer.php for global use (trg 8/8/18)
+	.iziModal {
+		box-shadow : none !important;
+	}
+	#ajax-loader {
+	    background-color: transparent;
+	    display: none;
+	    text-align: center;
+	}*/
+	td.mobileheader {
+		paddling-left: 30px;
+	}
+	th {
+		text-align: left !important;
+	}
+	input {
+		background-color: #FFFFFF !important;
+	}
+	.alert-warning {
+		background-color: #ededed;
+		border-color: #ededed;
+		color: #333333
+	}
+	.dataTables_wrapper .dataTables_filter {
+		float: left !important;
+		text-align: left !important;
+		padding-right: 10px !important;
+		vertical-align: middle !important;
+	}
+	.dataTables_wrapper .dataTables_filter input {
+		font-size: 14px !important;
+	}
+	.dataTables_wrapper .dataTables_info {
+		float: right !important;
+		padding-right: 5px !important;
+		vertical-align: middle !important;
+	}
+	.dataTables_wrapper .dataTables_length {
+		padding-top: 4px !important;
+		float: right !important;
+		vertical-align: middle !important;
+	}
+	.dataTables_wrapper .dataTables_paginate {
+		float: right !important;
+		vertical-align: middle !important;
+	}
+	/* Fix the indenting issue when radio button moves to second line. */
+	.radio-inline+.radio-inline {
+		margin-left: 0 !important;
+	}
+	.radio-inline {
+		margin-right: 10px !important;
+	}
+	@media (min-width: 768px) .wpb_row>* {
+		/* Remove default bottom padding from bootstrap on desktop */
+		.form-group {
+			margin-bottom: 0px !important;
+		}
+	}
+	@media (max-width: 1199px) .wpb_row>* {
+		margin-top: 0em !important;
+	}
+							Public Data Portal 
+							Public Data Portal 
+						CampaignsContractsEthicsLobbyingMoreReports, Audits, Formal Advice, and Enforcement OrdersCampaignsContractsEthicsCampaignsMoreSearch
+      Campaign Contributions 
+      Campaign Expenditures 
+      Campaign Statements (Form 460) 
+      24-Hour Contribution Reports (Form 497) 
+      Campaign Communications 
+      Independent Expenditure Communications (Forms 57, 57-L, and 496) 
+			*Required.
+Candidate/Officeholder
+	.checkmark{margin:0 5px 0 10px!important} 
+	.checkmark{background-color:#f3f3f3!important;height:14px;width:14px}
+	.chkboxcontainer input:checked~.checkmark{background-color:#f3f3f3!important}
+	.chkboxcontainer .checkmark:after{border:solid #0fa7cd!important;left:4px!important;top:2px!important;border-width:0 3px 3px 0!important}
+     All
+     Candidate/Officeholder
+     Ballot Measure
+             Unknown measure to recall Rocky Delgadillo:
+					Pending - The Committee to Recall Rocky Delgadillo 
+             Unknown Ballot Measure:
+					990551 - Los Angeles Taxpayers for Good Government 
+					981356 - Coalition for Kids 
+             Measure RR - School Upgrades and Safety Measure:
+					1430358 - Yes on RR - Committee for Safe, Updated, Modernized Schools 
+             Recall Mayor Eric Garcetti:
+					1419545 - Committee to Recall Mayor Eric Garcetti 
+             Measure EE - Quality Teacher, Class Size Reduction, and Local School Safety Measure:
+					1418520 - Million Voter Project Action Fund - Yes on EE, Sponsored by Social Justice Organizations 
+					1417468 - Howard Jarvis Taxpayers Association Committee to Reform LAUSD, No on EE 
+					1417198 - No on Measure EE: Reform LA Unified First - Not New Taxes, a committee sponsored by taxpayers, homeowners, renters, and small businesses 
+					1416627 - Yes on EE - Yes on Quality Schools, sponsored by labor organizations 
+             Measure B - Municipal Financial Institution:
+					1412690 - YES ON B - A Coalition of Labor, Renters, and Environmentalists for Responsible Public Banking 
+             Unknown Ballot Measure to Recall Mike Bonin:
+					1398113 - Committee to Support the Recall of Mike Bonin 
+             Measure HHH - Homelessness Reduction and Prevention Housing, and Facilities Bond Issue:
+					1391496 - California Community Foundation - Yes on HHH Nonprofit 501c3 
+					1391423 - United Way of Greater Los Angeles - Yes on HHH 
+             Measure RRR - Department of Water and Power Governance Charter Amendment:
+					1388878 - No on RRR, Neighborhoods Against the DWP Power Grab, a coalition of Environmental Groups, Consumer Advocacy Organizations, and Employee Organizations 
+             Measure HHH - Homelessness Reduction and Prevention Housing, and Facilities Bond Issue:
+					1388198 - Yes on HHH - End Homelessness in L.A., a Coalition of Civic Nonprofits, Housing Proviers, Supervisor Mark Ridley-Thomas, Councilmember Mike Bonin, Philanthropists and Working Families 
+             Measure JJJ - Affordable Housing and Labor Standards Initiative:
+					1388173 - No on Measure JJJ 
+					13835671 - Build Better L.A. Sponsored by Los Angeles County Federation of Labor, AFL-CIO 
+             Measure S - Building Moratorium; Restrictions on General Plan Amendments; Required Review of General Plan:
+					1383567 - No on S, Build Better L.A. sponsored by Los Angeles County Federation of Labor, AFL-CIO, Coalition of Organizations Representing Working Men and Women, and Businesses 
+             unknown Ballot Measure to Recall Paul Krekorian:
+					1383510 - Valley Neighbors for Paul Krekorian/No on Costly Recall 
+             Measure S - Building Moratorium; Restrictions on General Plan Amendments; Required Review of General Plan:
+					1381841 - Coalition to Preserve LA, Sponsored by AIDS Healthcare Foundation 
+					1381551 - Coalition to Protect L.A. Neighborhoods and Jobs, No on S, a team of businesses, labor organizations, homeless advocates, renters, and homeowners 
+             Unknown Measure for Public Health Protection Act:
+					1356566 - Healthy Los Angeles, Sponsored by the AIDS Healthcare Foundation 
+             Measure C - Citizens United:
+					1355966 - Committee for Common Cause - Yes on Proposition C 
+             Measure A - Neighborhood Public Safety and Vital City Services Funding and Accountability Measure:
+					1355881 - Mexican American Political Association-PAC to Oppose Measure A Los Angeles 2013 
+             Measure D - Medical Marijuana Regulation and Taxation:
+					1355691 - Yes on D/No On F, Citizens' Coalition to Protect Patients &amp; Neighborhoods, Major Funding by UFCW Local 770 &amp; Sponsored by Patients, Greater Los Angeles Collective Alliance &amp; Americans For Safe Access 
+             Measure A - Neighborhood Public Safety and Vital City Services Funding and Accountability Measure:
+					1354016 - Committee to Protect Public Safety, Yes on Proposition A 
+             Measure F - Marijuana Dispensaries:
+					1352117 - Angelenos for Safe Access Committee, Yes on F, No on D 
+             Unknown Ballot Measure to Recall Monica Garcia:
+					1347024 - Support the Recall of Monica Garcia 
+             Measure C - CIVILIAN REVIEW OF POLICE DISCIPLINARY MATTERS. CHARTER AMENDMENT C:
+					1336580 - Yes on Charter Amendment C. Independent Civilian Oversight to Improve Police &amp; Community Relations sponsored by Los Angeles Police Protective League 
+             Measure B - Solar Power Measure:
+					1314543 - A Committee Against Measure B, No on Measure B 
+             Unknown measure to pass Jamiel's Law:
+					1312766 - The Committee to Pass Jamiel's Law 
+             Measure B - Solar Power Measure:
+					1308947 - Green Energy and Good Jobs Los Angeles - Yes on Proposition B, A Coalition of working men and women, environmentalists, taxpayers, and the Coalition to Protect California's Future with major funding.. 
+             Measure H - Affordable Housing General Obligation Bonds -- Cit:
+					1285685 - Homes for L.A. Families/Yes on Prop. H 
+             Unknown Ballot Measure:
+					1272835 - Committee To Recall Antonio Villaraigosa 
+             Measure R - Funding to build and repair schools in LAUSD [2004:
+					1258136 - Committee for Quality Neighborhood Schools-Yes on Measure R with Major Funding by CA Teachers Association and United Teachers Los Angeles PACE Issues 
+             Measure F&amp;H - Valley and Hollywood Secession:
+					1245993 - San Fernando Valley Independence Committee, Yes on F, Major Funding by Business Owners, Attorneys and Philanthropists 
+             Unknown Ballot Measure:
+					1242952 - Kids First! 
+					Yes on LAX Hotel Living Wage 
+             Unknown Ballot Measure to Recall Nury Martinez:
+					Support the Recall of Nury Martinez 
+             Measure C - Citizens United:
+					Committee to Pass Prop C: Sponsored by California Public Interest Research Group 
+             Measure P - Maximum Term of Harbor Department Leases:
+					1393472 - Yes on P, Promoting America's Port, a Joe Buscaino Ballot Measure 
+             Measure Q - Safe, Healthy Neighborhood Schools Measure:
+					1310364 - Coalition for Safe and Healthy Neighborhood Schools/Yes on Measure Q 
+             Measure E - LAUSD Bond Measure:
+					1310364 - Coalition for Safe and Healthy Neighborhood Schools - Yes on E 
+             Unknown Ballot Measure to Recall Greig Smith:
+					The Committee Supporting the Recall of L.A. City Councilman Greig Smith 
+             Aarons, Brad:
+					Brad Aarons for City Council 2017 
+             Abboud, Megan :
+					Abboud for City Council District 10 2020 
+             Abegglen, Randall:
+					1353617 - Randall Abegglen 4 Mayor 2013 
+             Abrams, Scott:
+					1414946 - Scott Abrams for City Council 2019 
+             Alaniz, Elaine:
+					Elaine Alaniz for City Council 2022 
+             Alarcon, Richard:
+					1317912 - Alarcon for Assembly 2012 
+					1292758 - Richard Alarcon Officeholder Account 
+					1292758 - Legal Defense Fund - Residency 
+             Alatorre, Richard:
+					890877 - FPPC Matter 
+					890877 - L.A. City Ethics Matter 
+					890877 - Pending Investigation 
+					890877 - Alatorre City Council Fund 
+             Alcaraz, Monica:
+					Alcaraz for City Council 2020 
+             Aldana, Manuel:
+					No Committee Name/ID
+					Aldana For School Board 2017 
+             Alexander, Stanley:
+					Committee to Elect Alexander for Mayor 2013 
+             Alexander, Stanley:
+					1414459 - Committee to Elect Deacon Alexander for City Council 2020 
+             Alfaro, Nelson:
+					Alfaro for City Council District 13th 2017 
+             Allen, James:
+					Allen for Council District 15-2017 
+             Alnajjar , Asaad:
+					1422101 - Asaad Alnajjar for City Council 2020 
+             Alva, Lisa:
+					1392799 - Committee to Elect Lisa Alva to School Board 2017 
+             Alvarez, Carlos:
+					No Committee Name/ID
+             Alvarez, Erika:
+					1414108 - Erika Alvarez for Los Angeles Unified School District 2019 
+             Amador, Carlos:
+					1414964 - Carlos Amador for City Council 2019 
+					1414441 - Carlos Amador for City Council 2020 
+             Amaya, Miguel:
+					Miguel Amaya for District 1 
+             Amori, Paul:
+					1392164 - Amori 4 Mayor 2017 
+             Anderson, Bobbie :
+					1361721 - Bobbie Jean Anderson for City Council 2015 
+             Anderson, Euna:
+					1373736 - Anderson for LAUSD 7 2015 
+             Aniolek, Gregg:
+					No Committee Name/ID
+             Antonino, Edward:
+					Ed Antonino for Council 2020 
+             Arceo, Crystal:
+					1279514 - Arceo 2005 
+             Arevalo, Juanita:
+					No Committee Name/ID
+					Arevalo School Board District 6 2017 
+             Arnold, Caney:
+					1393423 - Caney Arnold for City Council 2017 
+             Ashe, Chris:
+					Chris Ashe for LA Council District 13 
+             Aubrey, Martin:
+					No Committee Name/ID
+             Aula, Jason:
+					Aula for City Council 2019 
+             Austin, Ben:
+					1313441 - Ben Austin for School Board 
+             Avalos , Maria del Pilar :
+					1423149 - Avalos for LAUSD School Board 2020 
+             Ayala, Olga:
+					1388584 - Friends of Olga Ayala for City Council 2017 
+             Badger, Elizabeth:
+					1415327  - Elizabeth Badger for LAUSD School Board - 2020 
+					1366372 - Elizabeth Badger for LAUSD School Board 2015 
+             Bailey, Glenn:
+					1245819 - Friends of Glenn Bailey 
+					No Committee Name/ID
+             Bajracharya, Allison:
+					1412699 - Allison Bajracharya for School Board 2019 
+             Baker, Jerry:
+					1353703 - Jerry Baker for School Board 2013 
+             Balen, David:
+					Elect David F. Balen for City Council 2015 
+					David Balen for City Council 2019 
+             Balin, Melissa:
+					No Committee Name/ID
+             Baltierrez-Fernandez, Joanne:
+					Joanne Baltierrez-Fernandez for LAUSD 2017 
+             Bannister, Tara:
+					1360477 - Tara Bannister for LA City Council 2015 
+             Bannister, Walter:
+					Bannister 2005 
+					Bannister 2013 
+             Bannister, Walter:
+					Bannister 2017 
+					Bannister 4 School Board 2017 
+             Barnett, Daniel:
+					1327361 - Daniel Klinton Barnett for Los Angeles City Council 2011 
+             Barr, Steve :
+					1386872 - Steve Barr for Mayor 2017 
+             Barron, David:
+					1389906 - Barron for City Council 2017 
+					1351703 - Barron for City Council 2013 
+					1325951 - Barron for City Council 2011 
+             Barton, Luca :
+					1387052 - US and Luca Barton for Council 2017 
+             Basler, Molly :
+					Molly Basler for City Council 2022 
+             Bastian, Hal :
+					1421873 - Hal Bastian for City Council 2020 
+             Batie , Michael :
+					Michael Batie for School Board District 1 2020 
+             Beatty, Shakana :
+					Beatty for City Council 2017 District 13 
+             Becerra, Franki:
+					Franki Becerra for City Council 2017 
+             Beeber, Jay :
+					1416048 - Jay Beeber for City Council 2019 
+             Bell, Dajuan :
+					Dajuan Bell for City Council 2020 
+             Benedetto, Michael :
+					Benedetto City Council District 12 2019 
+             Benitez, Ricardo:
+					1392431 - Ricardo Benitez for City Council District 7 2017 
+             Benson, Mary:
+					Benson for City Council 2009 
+             Beres, Judy:
+					1278670 - Committee Supporting Judy Beres for City Council 
+             Bernal, Benito:
+					1421141 - Committee to Elect Benito Benny Bernal for City Council 2020 
+             Bernal, Benny :
+					1392660 - Benny Bernal for City Council 2017 
+             Bigelow, Lynette:
+					No Committee Name/ID
+             Bleich, Adeena:
+					1306902 - Adeena Bleich for City Council 2009 
+             Bloom, David:
+					David Bloom for City Council 2020 
+             Blumenfield, Bob:
+					1379872 - Bob Blumenfield For City Council 2017 
+					1358999 - Bob Blumenfield for City Council 2013 - Officeholder Account 
+             Boen, Barry :
+					1415897 - Boen Villa for Council 2020 
+					1392170 - Boen Villa for Council 2017 
+             Bolin, Pamela:
+					Bolin for City Council 2019 
+             Bonin, Mike:
+					1379818 - Mike Bonin for City Council 2017 
+					1352608 - Mike Bonin for City Council 2013 
+					1352608 - Mike Bonin for City Council 2013 Officeholder Account 
+					Mike Bonin for City Council 2022 
+             Bornstein, Jeff:
+					1313871 - Jeff Bornstein for City Council 2009 
+             Bostick, Odysseus:
+					1349917 - Bostick for Los Angeles City Council 2013 
+             Bradford, Silke :
+					1416564 - Silke Bradford for School Board 2020 
+             Brasfield, John :
+					1420962 - John Brasfield for School Board 2020 
+             Bray-Ali, Josef:
+					1395281 - Bray-Ali for City Council 2017-General 
+					1385549 - Josef Bray-Ali for City Council 2017 
+             Brimmer, Justin:
+					1339967 - Brimmer for Council 2011 
+             Brothers , Lee:
+					Brothers for City Council 2020 
+             Brown, Chris:
+					1333406 - Chris Brown for City Council 2011 
+             Brown, Najmah:
+					Brown for Mayor 2022 
+             Brown, Stephen:
+					Committee To Elect Down Town Stephen Brown 
+             Bryant, Cheyenne:
+					1393222 - Cheyenne Bryant for Los Angeles City Council District 15 2017 
+             Buelna, Gabriel:
+					1332755 - Buelna 4 Kids, LAUSD School Board 2011 
+             Buelna, Pilar:
+					1333834 - Pilar Buelna 4 School Board 2011 
+             Buffington, Sean:
+					Buffington For City Council 2017 
+             Burrell, Mario:
+					Burrell for School Board 2015 
+             Buscaino, Joe:
+					1379820 - Joe Buscaino for City Council 2017 
+					1342959 - Joe Buscaino for City Council, General, 2011 
+					1342959 - Joe Buscaino for City Council, 2011, Officeholder 
+					1340009 - Joe Buscaino for City Council 2011 
+					Joe Buscaino for City Council 2022 
+             Busch, Gerald:
+					No Committee Name/ID
+             Cabrera, Adriana:
+					1397631 - Adriana Cabrera for LA City Council District 9 2017 
+             Cage-Barile, Lady:
+					Lady Cage-Barile for LAUSD 2014 
+             Cahan-Davis , Lisa:
+					Lisa Cahan-Davis for City Council 2020 
+             Cain, David:
+					1301945 - David Cain 
+             Campbell, John Sandy:
+					1422851 - John Sandy Campbell for LAUSD Board 2020 
+             Campos , Edgar :
+					1418323 - Edgar Campos For School Board 2020 
+             Canchola, Cris:
+					1341454 - Canchola for City Council 2013 
+             Cano, Maria:
+					1351710 - Maria Cano for School Board 2013 
+             Cardenas, Tony:
+					C00498873 - Tony Cardenas for Congress 
+					1243910 - Committee to Elect Tony Cardenas 
+             Carranza, Margie:
+					1397108 - Margie Margarita Carranza for City Council #7 2017 
+					No Committee Name/ID
+             Carrillo, Randy:
+					No Committee Name/ID
+					No Committee Name/ID
+             Castellanos , Patricia :
+					1425972 - Castellanos for School Board 2020 - General 
+					1420623 - Castellanos for School Board 2020 
+             Castillo, Jose:
+					Families for Jose G Castillo for LA City Council 2017 
+             Cedillo, Gilbert:
+					1423634 - Councilmember Gil Cedillo Legal Defense Fund 
+					1395362 - Cedillo for City Council General 2017 
+					1380250 - Cedillo for City Council 2017 
+					1360884 - Councilmember Cedillo Officeholder Account 2013 
+					1356121 - Cedillo for City Council General 2013 
+					1342270 - Cedillo for City Council 2013 
+					Cedillo for City Council 2022 
+             Chase, Nicole:
+					1390270 - Chase for Los Angeles City Council 2017 
+					1350036 - Chase for Los Angeles City Council 2013 
+             Chatman, Kelley:
+					No Committee Name/ID
+             Chavarria, Carlos :
+					Chavarria for City Council District 7 2017 
+             Chavez, Julian:
+					1346599 - Julian J Chavez for City Council 2013 
+             Chavez, Mario:
+					1368128 - Mario Chavez for L.A. City Council 2015 
+             Chavez Zbur, Rick :
+					1426334 - Rick Chavez Zbur for City Attorney 2022 
+             Chi-Young , Ian :
+					Ian Chi-Young for L.A City Council 2020 
+             Chick, Laura:
+					931164 - Controller Laura Chick Officeholder Committee 
+             Cho, Annie:
+					1414909 - Annie Cho for City Council 2019 Special 
+             Cho, Chuck :
+					Chuck for Mayor 
+             Choi, John:
+					1356058 - John Choi for City Council 2013 - General 
+					1348095 - John Choi for City Council 2013 
+             Christie , Eric :
+					Christie for City Council 2020 
+             Cisneros , Eduardo:
+					1413741 - Eduardo Cisneros for LAUSD 2019 
+             Clark, Krystee:
+					1353615 - Krystee Clark for City Council 2013 
+					Krystee Clark for City Council 2017 
+             Cody, Scott:
+					Cody 4 LAUSD 
+             Cole, Robert:
+					1364250 - Robert Cole for City Council 2015 
+					1238827 - Cole for City Council 
+             Collins, Kevin:
+					1334162 - Friends of Kevin M. Collins for LAUSD 2011 
+             Collins, Susan :
+					1419960 - Collins for City Council 2020 
+             Connell, Kathleen:
+					1281737 - Kathleen Connell for Mayor 
+             Constantino, Rebecca:
+					Pending - Pending 
+             Contreras, Mark:
+					No Committee Name/ID
+					Vote Mark Contreras for L.A. City Council 2011 
+             Corado , Albert:
+					Albert Corado for City Council 2022 
+             Cortez Le, Madeline:
+					Madeline Cortez Le for City Controller 2022 
+             Corwin, Bonnie:
+					1392136 - Committee to Elect Bonnie Corwin City Council District 7, 2017 
+             Crawford, Scott:
+					1343097 - Scott Crawford for City Council 2013 
+             Creed, Jesse:
+					1385588 - Creed for Council 2017 
+             Crisell, Theodore:
+					1343813 - Ted Crisell for L.A. Mayor 2013 
+					Crisell For Mayor 
+             Croswhite, Terri:
+					Committee to Elect Terri Croswhite for Council District 7 
+             Cubas, Ana:
+					1414038 - Ana Cubas for School Board District 5 - 2019 
+					1356125 - Ana Cubas for City Council 2013 - General 
+					1347814 - Ana Cubas for Los Angeles City Council District 9 2013 
+             Cuevas, Ricardo:
+					Cuevas for Kids 
+             Cunningham, David:
+					Cunningham for LA City Council 2022 
+             Daar, Jeffery:
+					1415045 - Jeff Daar For City Council 2019 
+             Darian, Bruce:
+					1296555 - Bruce Darian for Mayor 2009 
+					1273448 - Bruce Harry Darian for Mayor Committee 
+             David , Jackie :
+					Jackie David Council District 7 Campaign Committee 2017 
+             Davis, Michael "Mike":
+					1342584 - Mike Davis for City Council 2013 
+             Davis, Teddy:
+					1361392 - Teddy Davis for LA City Council 2015 
+             Dawson, Jace:
+					Jace Dawson for City Council 2020 
+             de Buonaparte, Caesar:
+					The Get Even With the State, Federal and Local Level Committee 
+             De la Torre, David:
+					1393229 - David De la Torre for Council District 13 2017 
+             de Leon, Kevin:
+					1415916 - Kevin de Leon for City Council 2020 
+					1415916 - Kevin de Leon for City Council 2020 - Officeholder Committee 
+             De Ocampo, Alexander:
+					1347880 - Alex De Ocampo for LA City Council 2013 
+             De Vera, Ruby:
+					1281290 - De Vera for City Council 
+             Delgadillo, Rockard:
+					1237585 - Rockard J Delgadillo Officeholder Account 
+					1237585 - Rockard J. Delgadillo Legal Defense Fund 
+					1237585 - Rockard J. Delgadillo Legal Defense Fund CEC Case No. 06-08 
+					1237585 - Rockard J Delgadillo Legal Defense Fund - Potential CEC Inquiry (2007) 
+             Delgado, John:
+					No Committee Name/ID
+             Dimov, Jim:
+					Pending - Jim Dimov for Mayor 
+             Dinse, Charles:
+					1416153 - Sean Dinse for LA City Council 2019 
+             Dole, Carlton:
+					Dole for Mayor 2013 
+             Dragon, Austin:
+					1326160 - Austin Dragon for City Council 2011 
+             Draiman, YJ:
+					1392197 - YJ Draiman for Mayor 2017 
+					1337783 - YJ Draiman for Mayor 2013 
+					1333253 - YJ Draiman for City Council 2011 
+             Dryden, Maria:
+					Maria Dryden for City Council 2017 
+             Dunnigan, Vivianna:
+					Dunnigan for City Council 2020 
+             Duran , Christina :
+					1422206 - Duran for School Board 2020 
+             Eastman, Richard:
+					1353492 - Richard Eastman for L.A. City Council District 13 2013 
+             Ebenstein , Jeff:
+					Jeff Ebenstein for City Council 2022 
+             Ehsani, Arash "Asher":
+					Ehsani for City Council 2012 
+             Ena , Hidemi :
+					Ena for City Council 2020 
+             Englander, Mitchell:
+					1377028 - Mitchell Englander for Supervisor 2016 
+					1321061 - Mitchell Englander for City Council 2011 
+					1321061 - Mitch Englander Officeholder 
+             Enright , Sean :
+					Enright for Mayor LA 2022 
+             Escandon, Jesus:
+					1334568 - Amigos of Jesus Escandon for School Board 7 - 2011 
+					1290583 - Friends of Jesus Escandon for School Board 
+             Escobar, Walter:
+					1356590 - Walter Escobar for LA City Council 2013 
+             Espinoza, Adolfo:
+					Elect Adolfo Espinoza for Controller 2017 
+             Essel, Christine:
+					1318649 - Chris Essel for City Council 2009 
+             Evans, Kathleen:
+					1313014 - Evans for Controller 
+             Evans, Mervin:
+					1328114 - Evans 2011 - Mervin Evans for City Council 2011 
+					1313010 - Evans for City Controller 
+					1307513 - Evans 2009 Community People 
+					MervPac-Evans for Council 2015 
+             Ewing, David:
+					Ewing for Council District 11, 2017 
+             Fer, John:
+					1265507 - John Fer For City Council 
+             Ferry, Frank:
+					1414921 - Frank Ferry for City Council 2019 
+             Feuer, Michael:
+					1425766 - Mike Feuer for Mayor 2022 
+					1376383 - Re-Elect Mike Feuer City Attorney 2017 
+					1358890 - Mike Feuer City Attorney Officeholder Account 2013 
+					1356553 - Mike Feuer Legal Defense Fund for Case #BC504238 and any related actions 
+					1356028 - Mike Feuer for City Attorney 2013 - General 
+             Flanagan, Timothy:
+					No Committee Name/ID
+             Flores, Fred :
+					1393251 - Fred Flores for City Council 2017 
+             Flowers, Michael:
+					Flowers for L.A. City Council District #5, 2017 
+             Folsom, Scott:
+					No Committee Name/ID
+					No Committee Name/ID
+             Fonseca, Roberto:
+					Fonseca for LAUSD School Board 2011 
+             Formica, Stefano:
+					1347533 - Formica for City Council District 13 in 2013 
+             Foulks, Deborah:
+					Pending - Friends for Foulks 
+             Fowler, Dallas:
+					1418312 - FOWLER FOR CITY COUNCIL 2020 
+             Fowlkes , Dentis :
+					1419645 - Dentis Fowlkes for LA City Council 2020 
+             Franklin, Tanya:
+					1426064 - Tanya Ortiz Franklin for School Board 2020-General 
+					1420353 - Tanya Ortiz Franklin for School Board 2020 
+             Frierson, Ron:
+					Frierson for City Council 11 2017 
+             Fuchs, Derek:
+					Fuchs for City Council 2017 
+					Fuchs for City Councilman 2013 
+             Fuentes, Felipe:
+					1341544 - Felipe Fuentes for City Council 2013 
+					1341544 - Felipe Fuentes for City Council 2013 Officeholder Account 
+					1313818 - Fuentes for Assembly 2010 
+             Galatzan, Tamar:
+					1376054 - Tamar Galatzan for School Board 2015 - General 
+					1366735 - Tamar Galatzan for School Board 2015 
+             Galaz, Donald:
+					Galaz for CD15 2017 
+             Gallardo, Fidencio:
+					1413143 - Gallardo for School Board 2019 
+             Gallo, Antonio:
+					1278657 - Antonio Gallo for CD 14 
+             Galperin, Ron:
+					1378763 - Ron Galperin For City Controller 2017 
+					1359761 - Controller Ron Galperin Officeholder Account 2013 
+					1356060 - Ron Galperin for L.A. City Controller 2013 General 
+					1342754 - Ron Galperin for L.A. City Controller 2013 
+					1302417 - Ron Galperin for City Council 
+             Garcetti, Eric:
+					1376009 - Garcetti for Mayor 2017 
+					1356062 - Garcetti for Mayor 2013 - General 
+					1341339 - Garcetti for Mayor 2013 
+					1304681 - Garcetti for Council 2009 
+					1234351 - Friends of Eric Garcetti Officeholder 
+             Garcia, Daniel :
+					Daniel Garcia for City Council 2015 
+					Daniel W. Garcia for City Council 2019 
+             Garcia, Eleanor:
+					Garcia for School Board 2013 
+             Garcia, Eleanor:
+					Garcia for Mayor 2017 
+             Garcia, Jose Roy:
+					1355547 - J. Roy Garcia for City Council #6 2013 
+             Garcia, Monica:
+					1421982 - Monica Garcia for School Board 2017 Officeholder Account 
+					1416393 - Monica Garcia for City Council 2020 
+					1382927 - Monica Garcia for School Board 2017 
+					1346436 - Monica Garcia for School Board 2013 
+					1302170 - Friends of Monica Garcia 2009 
+             Garcia, Nathaniel:
+					No Committee Name/ID
+             Gardea, Jose:
+					1356064 - Jose Gardea for Council 2013 - General 
+					1341411 - Jose Gardea for Council 2013 
+             Gardner, Joseph:
+					Friends to Elect Joseph Gardner for Mayor 2013 
+             Garza-Halstead, Laura :
+					Garza for School Board 2019 
+             Genovese, Sal:
+					850209 - Committee to Elect Sal Genovese 
+             Gerrish , Roger:
+					1392535 - Gerrish for City Council 2017 
+             Giaba, Matthew:
+					1385786 - Giaba for Mayor 2017 
+             Gibson, Robert:
+					1391288 - Friends of Gibson for Council District 7 in 2017 
+             Gloria, Jason:
+					1390925 - Jason Gloria for City Council 2017 
+             Glynn, Gavin:
+					City Council District 10 Glynn 2011 
+             Gochez, Ronald:
+					1351654 - Gochez for City Council 2013 
+             Goldberg, Jackie:
+					1417975 - Jackie Goldberg for School Board 2020 
+					1416913 - Jackie Goldberg for School Board 2019-Runoff 
+					1413097 - Jackie Goldberg for School Board 2019-Special 
+             Gomes, Terrence:
+					1386811 - Gomes for City Council 2017 
+             Gomez, Alexander:
+					1222565 - Election Committee for Alexander J Gomez 
+					1222565 - Election Committee for Alexander Gomez 
+             Gonez, Kelly:
+					1395147 - Kelly Gonez for School Board 2017 - General 
+					1395147 - Kelly Gonez for School Board 2017 Officeholder 
+					1391809 - Kelly Gonez for School Board 2017 
+					Kelly Gonez for School Board 2022 
+             Gonzales, Paul:
+					1277567 - Friends of Paul Gonzales 
+             Gonzalez, Cynthia:
+					1412351 - Dr. Cynthia Gonzalez for School Board 2019 
+					Dr. Gonzalez for Los Angeles College Board 2020 
+             Gonzalez, David:
+					David Manuel Gonzalez for City Council 
+             Gonzalez, Filiberto :
+					1372323 - Gonzalez for School Board 2015 
+             Gonzalez , Jose Luis :
+					Jose Luis Gonzalez For City Council District 12 2019 
+					Jose Luis Gonzalez For City Council 2020 
+             Gonzalez, Justine:
+					1414729 - Justine Gonzalez for LAUSD 2019 
+             Goodman, Rich:
+					1333973 - Friends to Elect Goodman for LA City Council 2011 
+             Gould, Noel:
+					1393652 - Noel Gould for City Council 2017 
+             Grace, Brandii:
+					Grace for City Council 2020 
+					Grace for City Council 2019 Special 
+             Graham, Candice:
+					Candice Graham for City Council 2011 
+             Grand, Tracy:
+					Grand for School Board 2017 
+             Grande, Ana:
+					1349181 - Ana Grande for City Council 2013 
+             Grande, Frank:
+					People for the Election of Frank Grande LA City City Council District 5 2013 
+             Greene, David:
+					1340303 - Go Greene Los Angeles City Council 15 2011 
+             Greuel, Wendy:
+					1356050 - Wendy Greuel for Mayor 2013 - General 
+					1337185 - Wendy Greuel for Mayor 2013 
+					1298088 - Wendy Greuel for Controller 
+					1237261 - Wendy Greuel for City Council 
+					1237261 - City Controller Wendy Greuel's Officeholder Committee 
+					Wendy Greuel for City Council 2003 
+             Grochoske, Jana:
+					Grochoske for Council 202 
+             Gutierrez, Eduardo:
+					Gutierrez for City Council 6 2011 
+             Gutierrez, Lydia:
+					1422967 - Lydia Gutierrez for School Board 2020 
+					1376400 - Lydia Gutierrez for LAUSD School Board 2015-General 
+					1373583 - Lydia Gutierrez for School Board 2015 
+             Hahn, Janice:
+					991865 - Hahn for City Council 
+					Janice Hahn for Congress 
+					Janice Hahn Lieutenant Governor Committee 
+             Haines, Douglas:
+					Committee to Elect Doug Haines for Council District 13 in 2017 
+             Hale, O'Dell:
+					1387434 - O'Dell Hale III for City Council 2017 
+             Hall, Milton :
+					Hall for City Council District 10 2020 
+             Haller, William :
+					Haller for City Council 2020 
+             Hancock, Holly :
+					Hancock for City Council 2020 
+             Hara, Terry:
+					1345570 - Terry Hara for City Council 2013 
+             Hardine, Keith:
+					1312380 - Committee to Elect Keith Hardine 
+             Harman, Diane:
+					1391429 - Harman for Mayor of Los Angeles 2017 
+             Harris, James:
+					No Committee Name/ID
+             Harris-Dawson, Marqueece:
+					1410980 - Harris-Dawson for City Council 2020 
+					1360402 - Harris-Dawson for City Council 2015 
+					1360402 - Harris-Dawson for City Council 2015 Officeholder 
+             Hayes, Genethia:
+					1363009 - Genethia Hudley-Hayes for School Board 2014 
+             Haynes, William:
+					Haynes for Mayor with Love 2017 
+             Healey, Laurette:
+					Pending 
+             Heckmann, Brian:
+					1278637 - Brian Heckmann for City Council 
+             Henderson, Nichelle:
+					1416375 - HENDERSON FOR LAUSD BOARD 2020 
+             Henderson, Toni:
+					Toni Herderson for School Board 2020 
+             Herd, Mark:
+					Herd for City Council 2017 
+					Herd for City Council 2013 
+             Hernandez, David:
+					1386845 - David Hernandez for Mayor 2017 
+					1360435 - David HERNANDEZ FOR LA CITY COUNCIL 2015 
+             Hernandez, Giovany:
+					1390935 - Giovany Hernandez for City Council 2017 
+             Herrarte, Melissa:
+					Herrarte for LAUSD Board of Education District 6 2017 
+             Herrera, Jaime :
+					1391225 - Jaime Herrera for City Council 2017 
+             Higginson , John :
+					1384070 - Johnny Higginson for City Council 2017 
+             Hill, Joey :
+					1363553 - Joey Hill for City Council 2015 
+             Hill, Katrina:
+					No Committee Name/ID
+             Hillman, Kenneth:
+					1220651 - Ken Hillman for City Council 
+             Hirt, Michael:
+					No Committee Name/ID
+             Hogan-Rowles, Forescee:
+					1365753 - Hogan-Rowles L.A. City Council 2015 
+             Holden, Nate:
+					744182 - Nate Holden Campaign Committee 
+             Hopper, Michael:
+					No Committee Name/ID
+             Horst, Jennifer:
+					No Committee Name/ID
+					No Committee Name/ID
+             Huguez, Freddie :
+					Huguez for City Council 2020 
+             Huizar, Jose:
+					1360239 - Huizar for LA City Council 2015 
+					1277167 - Huizar Officeholder Account 
+					1277167 - Huizar LDF - CEC Matter 08-06 
+					1277167 - Huizar LDF - CEC Matter 08-08 
+					1277167 - Huizar LDF - 2009 (USAO Inquiry regarding VIP) 
+					1277167 - Huizar LDF (CEC Case No. 2012-01) 
+					1231785 - Jose Huizar for School Board 
+             Huizar, Richelle:
+					1411484 - Richelle Huizar for City Council 2020 
+             Iaccino, Cary:
+					1342781 - Cary Iaccino for Council 2013 
+             Irani, Sheila:
+					1362985 - Sheila Irani For LA City Council 2015 
+             Jackson, Charles:
+					Jackson for CD-4 2015 
+					No Committee Name/ID
+             Jackson, Matt:
+					1310539 - Matt Jackson for City Council 2013 
+             Jackson, Mitchell:
+					No Committee Name/ID
+             James, Kevin:
+					1337250 - Kevin James for Mayor 2013 
+             Janossy, Maria:
+					Maria Janossy CD 14 2020 
+             Jasek , Evan :
+					Jasek for Mayor 2022 
+             Jennerjahn, Phil:
+					131447 - Phil Jennerjahn for City Council - 2013 
+					Jennerjahn for City Council 
+             Jimenez, Benjamin Luis:
+					Committee to Elect Benjamin L Jimenez to LAUSD District #5 
+             Jimenez , John :
+					1424887 - Jimenez for City Council District 14 2020 
+             Jimenez, Juan:
+					1293253 - Committee Elect Jimenez Action 
+             Johansson, Wayne:
+					Johansson for City Council 2011 
+             Johnson, Alex:
+					1367317 - Alex Johnson for L.A. School Board 2014-General 
+					1363557 - Alex Johnson for LA School Board 2014 
+             Johnson, Daymond:
+					1363384 - Daymond Johnson 4 Board of Education 
+             Johnson, G Juan:
+					1413039 - 2020 Committee to Elect Johnson for Council District 10 
+					G. JUAN JOHNSON FOR MAYOR 2022 
+             Johnson, Rachel :
+					1364978 - Rachel Johnson for School Board 2014 
+             Johnston, Clarendon :
+					JOHNSTON FOR CITY COUNCIL 2022 
+             Jones, Ayinde:
+					Jones for City Council 2011 
+					Jones for City Council 2020 
+             Jones, Step :
+					Step Jones for L.A. City Council 
+             Jones-Muhammad Clark, Khansa:
+					1419336 - Khansa Jones-Muhammad Clark for City Council 2020 
+             Joseph, Richard:
+					1419730 - Rick Joseph for City Council 2020 
+             Joya, Analilia:
+					1352019 - Joya for City Controller 2013 
+					Joya for City Controller 2017 
+             Jumaane, Jabari:
+					1333054 - Jabari S. Jumaane for City Council 2011 
+             Kapur , Teddy:
+					Teddy Kapur for City Attorney 2022 
+             Kayajian, Jack :
+					1415359 - Jack Kayajian For City Council 2019 
+             Kayser, Bennett:
+					1412368 - Bennett Kayser for School Board 2019 Special 
+					1375891 - Re-Elect Bennett Kayser for School Board 2015 - General 
+					1361502 - Re-Elect Bennett Kayser for School Board 2015 
+             Kbushyan, Sam:
+					1373853 - Sam Kbushyan for L.A Community College 2015 
+					1345483 - Sam Kbushyan for City Council 2013 
+             Keller, Nellie:
+					No Committee Name/ID
+             Kim, Andrew:
+					1334157 - Kim for City Council 2011 
+             Kim , Anne :
+					Kim for City Council 2020 
+             Kim , Shirley :
+					Shirley Kim for LA City Council 2022 
+             Kirk, Chelsea:
+					Chelsea Kirk for City Council 2017 
+             Kirkland, Jonathan:
+					Kirkland for Mayor 2017 
+             Klain, Erich:
+					Erich Klain for L.A. City Council District 2, 2009 
+             Knox, Wally:
+					1363011 - Wally Knox for City Council 2015 
+             Kolodny, Heather:
+					No Committee Name/ID
+             Korenstein, Julie:
+					1266935 - Friends of Julie Korenstein 
+             Koretz, Paul:
+					1425861 - Paul Koretz for Controller 2022 
+					1425386 - Koretz for Los Angeles Democratic Central Committee 2020 
+					1383457 - Koretz for City Council 2017 
+					1346448 - Re-Elect Councilman Koretz 2013 
+					1300860 - Paul Koretz Officeholder 
+             Koziatek, Marilyn :
+					1425913 - Marilyn Koziatek for School Board 2020 General 
+					1421095 - Marilyn Koziatek for School Board 2020 
+             Krekorian, Paul:
+					991477 - Friends of Paul Krekorian 
+					1412738 - Paul Krekorian for City Council 2020 
+					1372814 - Krekorian For City Council 2015 
+					1324553 - Krekorian for City Council 2011 
+					1321819 - Krekorian for City Council 2009 - General 
+					1318897 - Krekorian for City Council 2009 
+					1318897 - Krekorian for City Council 2009 - Officeholder 
+					1313958 - Californians for Paul Krekorian 2010 
+             Kremer, Yuval:
+					1392455 - Yuval Kremer for LA Mayor 2017 
+					No Committee Name/ID
+             Kritzer, David:
+					No Committee Name/ID
+             LaBonge, Tom:
+					1328433 - Councilman Tom LaBonge for City Council 2011 
+					1288503 - Re-Elect Councilman LaBonge 2007 
+					1235209 - LaBonge for City Council 
+					1235209 - Tom LaBonge Officeholder Account 
+             LaMotte, Marguerite:
+					1333183 - LaMotte for School Board 2011 
+             Lansing, Mike:
+					990027 - Mike Lansing Re-Election Committee 
+					1419494 - Mike Lansing for School Board 2020 
+             Lara, Carlos :
+					Carlos Lara for City Council 2017 
+             Larsen, Lily:
+					1418487 - Lily Larsen for Los Angeles City Council 2020 
+             Law, James:
+					1352032 - James T. Law for City Council 2013 
+					Law for LA Mayor 2017 
+					Committee to Elect James T. Law for City Council 2011 
+             Lazo, Jaime :
+					Committee to Elect Jaime Lazo to Dist 7 
+             LeBlanc, Roy :
+					Roy LeBlanc for Mayor 2017 
+             Lee, John:
+					1420547 - John Lee for City Council 2020-Primary 
+					1420547 - John Lee for City Council 2020 Officeholder Account 
+					1419085 - John Lee for City Council 2019-Runoff 
+					1415064 - John Lee for City Council 2019 
+             Levy, Sarah:
+					1410810 - Sarah Kate Levy for City Council 2020 
+             Lewis, Norvell:
+					1344652 - Lewis for City Council District 9 2013 
+             Lewis, Rosemary:
+					No Committee Name/ID
+             Leyner, Richard:
+					1244879 - Richard Leyner for Council District 13 
+             Liew, Sarah :
+					Liew for City Council 2020 
+             Lindblad, Jack:
+					Lindblad for City Council 2015 
+					Lindblad for Council 2011 
+             Lopez, Carlos:
+					Committee to Elect Carlos Lopez For City Council Dist. 6 2011 
+             Lopez, Patty :
+					Lopez for School Board 6, 2017 
+             Lord, Kelly:
+					1332490 - Lord for City Council District 12 2011 
+             Love, Roye:
+					1334694 - Roye Love for LAUSD School Board 
+             Lovingood , Marcus:
+					1419269 - Lovingood for City Council 2020 
+             Lucey, Joseph:
+					1253324 - Elect Joseph Lucey to Los Angeles City Council District #1 
+             Luna Nerio, Sylvia:
+					No Committee Name/ID
+             Lundquist, Loraine:
+					1419061 - Loraine Lundquist for City Council 2019-Runoff 
+					1414927 - Loraine Lundquist for City Council 2019-Special 
+					1413326 - Loraine Lundquist for City Council 2020 
+             Luza, Radomir:
+					No Committee Name/ID 
+					Luza for City Council 2020 
+             Mack, Emile:
+					1346350 - Emile Mack for City Council 2013 
+             Magee, Trudy:
+					Magee for City Council 8 2015 
+             Maggiore, Eileen:
+					No Committee Name/ID
+             Maghsoudi, Jasmine:
+					No Committee Name/ID
+             Mahmood, Helan:
+					Mahmood for Mayor 2022 
+             Maier, John:
+					Maier for Mayor 2017 
+             Maloyan, Stella :
+					1416102 - Stella T. Maloyan for LA City Council 2019 
+             Manigault, Omarosa :
+					1365656 - Omarosa Manigault Board of Education 2014 
+             Manley, Mike:
+					1296913 - Manley 4 Mayor 
+					1292748 - Manley 4 Councilman Campaign 
+					Manley 4 City Council 2011 
+             Manns, Keith:
+					No Committee Name/ID
+             Mariscal, Fred:
+					1366178 - Fred Mariscal for LA City Council 2015 
+             Markham, Gordon:
+					Markham District 13 2017 
+             Markland, Montgomery :
+					Monty Markland for Mayor 2017 
+             Markos, Juan:
+					Juan Markos for Council 2017 
+             Martayan, Gregory :
+					1391482 - Martayan for Los Angeles Unified School Board 2017 
+             Martinez, Alma:
+					No Committee Name/ID
+             Martinez, Channing :
+					1420649 - Channing Martinez for City Council 2020 
+             Martinez, Nury:
+					1413292 - Nury Martinez for City Council 2020 
+					1360441 - Nury Martinez for City Council 2015 
+					1357985 - Nury Martinez for City Council 2013-General 
+					1354456 - Nury Martinez for City Council 2013 
+					1354456 - Nury Martinez for City Council 2013 Officeholder Account 
+             Martinez, Reuben:
+					1348375 - Martinez for City Council 2013 
+             Martinez, Rosa:
+					1248662 - Rosa Martinez for City Council 
+             Martinez, Venessa :
+					1385846 - Venessa Martinez for City Council 2017 
+             Mavar, John:
+					1340357 - John Mavar for City Council 2011 
+             Mays, Malcolm:
+					Mays for Mayor 2013 
+             McAlpine, Ken:
+					1244180 - McAlpine for City Council 
+             McClain, Annette:
+					McClain for School Board 2020 
+             McCowan, Ronnie:
+					No Committee Name/ID
+             McCowen, Keith:
+					MCCowen for L.A. City Council 2015 
+             McCue, Michael:
+					1320273 - Michael McCue for CD 2, 2009 
+             McDowell, Amberly:
+					Amberly McDowell for City Council 2011 
+             McFrazier, Hattie :
+					1363345 - Hattie McFrazier for School Board 2014 
+             McKenna, George :
+					1414568 - George McKenna for School Board 2020 Primary 
+					1414568 - GEORGE MCKENNA FOR SCHOOL BOARD 2020 OFFICEHOLDER ACCOUNT 
+					1369936 - George McKenna for School Board 2015 
+					1369936 - George McKenna for School Board 2015 Officeholder Account 
+					1367415 - George McKenna for School Board 2014 General 
+					1363078 - George McKenna for School Board 2014 
+             McMahon, William:
+					No Committee Name/ID
+					McMahon for School Board 2017 
+					No Committee Name/ID
+					No Committee Name/ID
+             Melendez, Kenneth:
+					No Committee Name/ID
+             Melendez, Rudy:
+					Melendez for Mayor 2017 
+					Rudy Melendez for LA City Council 2020 
+             Melton, Kevin:
+					1289668 - Melton for L.A. City Council 8th District 
+					1243735 - Melton for City Council 8th District 
+             Melvoin, Nicholas :
+					1395130 - Nick Melvoin for School Board 2017 - General 
+					1395130 - Nick Melvoin for School Board 2017 Officeholder Account 
+					1382816 - Nick Melvoin for School Board 2017 
+             Mendoza, Louie :
+					Louie Mendoza -4- City Council Dist. 7 
+             Mendoza, Marco:
+					Marco Mendoza for LAUSD BD 1 
+             Meredith , Christopher :
+					Meredith for School Board 2020 
+             Mico-Quinn, Brian :
+					1417441 - Mico for L.A. City Council 2020 
+             Miele, Kenneth:
+					1231788 - Miele for City Council 
+             Miller, Addie:
+					No Committee Name/ID
+             Miner, Arthur:
+					1393234 - Art Miner for City Council 2017 
+             Moch, David:
+					David E Moch School Board Election Committee 2014 
+             Montanez, Annamarie:
+					1353539 - Montanez for School Board 2013 
+             Montanez, Cindy:
+					1373949 - Families for Cindy Montanez for LA City Council 2015 
+					1358024 - Cindy Montanez for LA City Council 2013 - General 
+					1354210 - Cindy Montanez for LA City Council 2013 
+					1272431 - Families for Cindy Montanez 2006 
+             Montes, Carlos:
+					Carlos Montes for City Council CD14 2015 
+             Montoya, Luis:
+					Montoya for City Council 2011 
+             Moore, Macklin:
+					No Committee Name/ID
+             Moore, Murphy:
+					Murphy Moore for School Board 2011 
+             Moore, Walter:
+					1297003 - Committee to Elect Walter Moore 
+             Morales, Erick:
+					Friends of Erick Morales for LAUSD Board of Education 2015 
+             More, Alfonso :
+					Alfonso More for City Council 2015 
+             Morrison, William:
+					1388574 - William 'Rodriguez' Morrison for Los Angeles Mayor 2017 
+					1343694 - Morrison for City Council 2013 
+					Morrison for City Council District 14 2020 
+					Morrison 4 Mayor 2022 
+             Mosby, Michael:
+					Mosby for City Council 2017 
+             Motto , Berny:
+					1389587 - Berny Motto for LA School Board District 2, 2017 
+             Moulden, Isis:
+					Moulden for City Council 2017 
+             Moylen, Christopher:
+					No Committee Name/ID
+             Muller, Brian:
+					No Committee Name/ID
+             Murai, Miho:
+					Miho Murai for LAUSD School Board 2017 
+             Netkin, Hal:
+					1275692 - Citizens Against Villaraigosa for Mayor 
+             Newbill, Sherlett:
+					1364989 - Sherlett Hendy Newbill for School Board District 1 2014 
+					Sherlett Hendy Newbill for SChool Board District #1 2015 
+             Noel, Alison :
+					2014 Committee to Elect Alison (Alis) LAUSD Board District 1 
+             North, Reed:
+					Reed North Write-in Candidate for Los Angeles City Mayor 2017 
+             Nuno , Jorge :
+					1385755 - Jorge Nuno for City Council 2017 
+             O'Farrell, Mitch:
+					1379888 - Mitch O'Farrell for City Council 2017 
+					1376340 - Councilmember Mitch O'Farrell Legal Defense Fund Account 
+					1360328 - Councilmember O'Farrell Officeholder Account 2013 
+					1356066 - Mitch O'Farrell for LA City Council 2013 - General 
+					1344170 - Mitch O'Farrell for LA City Council 2013 
+					Mitch O'Farrell for City Council 2022 
+             O'Gabhann, James:
+					Elect O'Gabhann for 2015 School Board 
+             O'Gabhann, James:
+					Elect O'Gabhann LAUSD School Board 2019 
+             O'Grady, Tomas:
+					1373570 - Tomas O'Grady for LA City Council 2015 
+             O'Neill, John:
+					1373378 - O'Neill for City Council 2015 
+             Olivas, Joshua:
+					No Committee Name/ID
+             Orellana, Angel :
+					Angel Orellana for City Council District 3 2017 
+             Ortiz, Graciela:
+					1420462 - Graciela Ortiz for Huntington Park City Council 2020 
+					1412509 - Graciela Ortiz for School Board 2019 
+             Otteson, Cyndi:
+					1419024 - Cyndi Otteson for City Council 2020 
+             Padilla, Alex:
+					1373719 - Padilla for Secretary of State 2018 
+					1340348 - Padilla for Secretary of State 2014 
+					1292700 - Padilla for Senate 
+					1278241 - Padilla for Senate 2006 
+             Padilla, Imelda:
+					1395132 - Imelda Padilla for School Board 2017-General 
+					1389749 - Imelda Padilla for School Board 2017 
+             Parker, Petra Ann:
+					No Committee Name/ID
+             Parks, Bernard:
+					1300289 - Parks for Supervisor 
+					1300289 - Bernard Parks for Supervisor 
+					1244698 - Bernard Parks for City Council - Officeholder Account 
+					1244698 - Bernard Parks Legal Defense Fund CEC Case No. 2008-53 
+             Parrish, Frances:
+					No Committee Name/ID
+             Parseghian, Araz:
+					1387989 - Araz Parseghian for School Board 2017 
+             Patel, Ankur:
+					1370605 - A Patel for School Board in 2015 
+					No Committee Name/ID
+             Patsaouras, Nick:
+					1313452 - Nick Patsaouras '09 
+             Paul, Brian:
+					Brian Paul CD11 2017 
+             Pearson, Joyce:
+					1341932 - Pearson for Council District 3 - 2013 
+             Pelico, Joan:
+					1360837 - Pelico for City Council 2015 
+             Penick, Thomas:
+					Penick for City Council 2013 
+             Pereyda, Frank:
+					1340616 - Frank Pereyda Campaign Fund for City Council 2011 
+             Perron, John :
+					1363597 - John Perron for LA City Council District 4 2015 
+             Perry, Jan:
+					1337352 - Jan Perry for Mayor 2013 
+					1300973 - Re-Elect Jan Perry for City Council 2009 
+					1223341 - Jan Perry for Council District 9 
+             Perry, Richard:
+					No Committee Name/ID
+             Perry , Tara:
+					1423143 - Perry for City Council 2020 
+             Pescador, Octavio:
+					1348941 - Dr. Octavio Pescador for City Council 2013 
+             Petersen, Carl:
+					1384794 - Carl J. Petersen for LAUSD School Board 2017 
+             Pierre, Frantz:
+					1382823 - Frantz Pierre for Mayor 2017 
+             Pleitez, Emanuel:
+					1348462 - Emanuel Pleitez for LA Mayor 2013 
+             Polhill, Allison:
+					1392111 - Allison Holdorff Polhill for LAUSD School Board 2017 
+             Portillo, Oscar:
+					Portillo For Los Angeles City Council District 6 2020 
+             Posey, Gwendolyn:
+					1392070 - Gwendolyn Posey for LAUSD School Board 2017 
+             Powell , Tunette:
+					1422678 - Powell for Los Angeles Unified School Board District 1 2020 
+             Presberg, Steven:
+					1347987 - Presberg for City Council 2013 
+             Preven, Eric:
+					1421709 - Eric Preven for Council 2020 
+					1392439 - Eric Preven for Mayor 2017 
+					1374066 - Preven for LA City Council 2015 
+             Price, Curren:
+					1379822 - Curren Price, Jr. for City Council 2017 
+					1359453 - Councilmember Curren Price Officeholder Account 
+					1356051 - Curren Price for City Council 2013 - General 
+					1351983 - Curren Price for City Council 2013 
+					Curren Price, Jr. for City Council 2022 
+             Pugliese, Louis:
+					1302898 - Pugliese for School Board 
+					Pugliese for City Council 2009 
+             Quinn, Joseph:
+					Garcia "Quinn" for City Council 2017 
+             Rab, Raji:
+					1416572 - Raji Rab for City Council 2019 
+             Ragsdale, Kenneth:
+					1421038 - Kenchy Ragsdale for School Board 2020 
+             Raman , Nithya :
+					1425985 - Nithya Raman for City Council 2020-General 
+					1420143 - Nithya Raman for City Council 2020 
+             Ramsay, Carolyn:
+					1375944 - Carolyn Ramsay for City Council 2015-General 
+					1360248 - Carolyn Ramsay for City Council 2015 
+             Ratliff, Monica:
+					1383772 - Monica Ratliff for City Council 2017 
+					1356208 - Monica Ratliff for Board of Educaton 2013 General Election 
+					1353625 - Monica Ratliff for Board of Education 2013 
+             Reed, Mark:
+					Reed for City Council 2017 
+             Reed, Priscilla:
+					Reed for Board of Education 2014 
+             Repenning, Heather :
+					1416822 - Heather Repenning for LAUSD Board 2019-General 
+					1412734 - Heather Repenning for LAUSD Board 2019 
+             Reyes, Eduardo:
+					1301995 - Committee to Re-Elect Ed P. Reyes 2009 
+					1225425 - Friends of Ed Reyes 
+					1225425 - Ed Reyes Officeholder Account 
+             Richter, Dennis:
+					Richter for Mayor 2017 
+             Ridley-Thomas, Mark:
+					971222 - Friends of Mark Ridley-Thomas 
+					1426182 - Mark Ridley-Thomas for City Council 2020-General 
+					1415234 - Mark Ridley-Thomas for City Council 2020 
+             Ritter Simon, Robyn:
+					1303984 - Friends of Robyn Ritter Simon 
+             Rivas, Rocio:
+					1414621 - Dr. Rocio Rivas for LAUSD Board District 5 Special 2019 
+             Rivera, Edward:
+					1271138 - Rivera for Council  2005 
+             Rivera-Guzman , Ingrid :
+					Rivera-Guzman for LA City Council 2020 
+             Roberts, David:
+					1348434 - David Roberts for LA City Council 2013 
+             Robertson, Jeremiah:
+					Robertson for Mayor 2017 
+             Robinson, Jeneen:
+					1352444 - Robinson for School Board 2013 
+             Robinson, Rodney:
+					Rodney D. Robinson for LAUSD Board District 1 2015 
+             Rodgers, Franklyn:
+					1246285 - Committee to Elect Franklyn Rodgers 
+             Rodgers, T.:
+					T. Rodgers for City Council Dist. 10 2011 
+             Rodriguez, Anthony :
+					Rodriguez for CD#7 2017 
+             Rodriguez, Monica:
+					1395159 - Monica Rodriguez for City Council 2017 - General 
+					1388424 - Monica Rodriguez for City Council 2017 
+					1388424 - Councilmember Monica Rodriguez 2017 - Officeholder Account 
+             Rodriguez, Ref :
+					1399188 - LAUSD Boardmember Ref Rodriguez Legal Defense Fund 
+					1375989 - Dr. Ref Rodriguez for LAUSD Board 2015 General 
+					1373930 - Dr. Ref Rodriguez for LAUSD Board 2015 
+             Romain, Marc:
+					Marc Romain CD11 2017 
+             Ronka, Bob:
+					761483 - Friends of Bob Ronka 
+             Rooney, Ronald:
+					Let it be written, Let it be done RJ Rooney 
+					No Committee Name/ID
+             Rosas, Jesus:
+					1385926 - Jesus 'Jesse' Rosas for Los Angeles City Council District 1, March 2017 
+					1345320 - Jesse Rosas for Council District 1 2013 
+             Rosendahl, William:
+					1301272 - Bill Rosendahl for City Council 
+					1260502 - Bill Rosendahl for City Council 
+					1260502 - Bill Rosendahl Officeholder Account 
+             Ruano , Estuardo:
+					Ruano for LA School Board 2020 
+             Rudisill, Robin :
+					1393736 - Robin Rudisill for Council District 11--2017 
+             Ruppert, Ronald:
+					Ruppert for Change in Council District 1 2017 
+             Rustad, Kendrick :
+					1418158 - Rustad for City Council 2020 
+             Ryan, Edward:
+					Committee to Elect Ed Ryan Mayor of L.A. 2017 
+             Ryavec, Mark:
+					1392437 - Mark Ryavec for City Council 2017 
+             Ryu, David:
+					1425762 - David Ryu for City Council 2020-General 
+					1410917 - David Ryu for City Council 2020 
+					1375994 - David Ryu for City Council 2015-General 
+					1363674 - David Ryu for City Council 2015 
+					1363674 - David Ryu for City Council 2015 Officeholder 
+             Saario, Brandon:
+					1415190 - Saario for City Council 2019 
+             Saavedra, Ignacio:
+					No Committee Name/ID
+             Salabaj, Christopher:
+					No Committee Name/ID
+             Salans, Jessica:
+					1387946 - Salans for Los Angeles City Council District 13 2017 
+             Salas, Juan :
+					1386404 - Salas for Council 2017 
+             Saltsburg, David :
+					Zuma Dogg Saltsburg for Mayor 2017 
+					No Committee Name/ID
+					No Committee Name/ID
+					No Committee Name/ID
+             San Martin, Alex:
+					1361875 - Friends of Alex San Martin for City Council 2015 
+             Sanchez, Antonio:
+					1356388 - Antonio Sanchez for LA School Board 2013 - General 
+					1353507 - Antonio Sanchez for LAUSD School Board 2013 - District 6 
+             Sanchez, Ernest:
+					No Committee Name/ID
+             Sanchez, Salvador "Chamba":
+					1413881 - Sanchez for LAUSD 2019 
+             Sandler, Norton:
+					No Committee Name/ID
+             Sandoval, Jose :
+					1392118 - Jose Sandoval for School Board 2017 
+             Santich , Anthony :
+					Santich for CD15 
+             Sarkissian, Rostom :
+					1373788 - Friends of Rostom Sarkissian for LA City Council 2015 
+             Saunders, Constance:
+					1392328 - Saunders4District7 2017 LA City Council 
+             Schaefer, Mike:
+					1392582 - Schaefer for Council 2017 
+             Schmerelson, Scott:
+					1425925 - Schmerelson for School Board 2020-General 
+					1414471 - Schmerelson for School Board 2020 
+					1375889 - Schmerelson for School Board 2015 - General 
+					1374081 - Schmerelson School Board Seat #3 
+					Scott Schmerelson Legal Defense Fund 
+             Schurtz , Hugh :
+					Hugh Schurtz for City Council 2019 
+             Schwartz, Mitchell:
+					1382596 - Schwartz for Mayor 2017 
+             Scott, Paul:
+					1366342 - Paul Scott for Los Angeles City Council 2015 
+             Selem, Brian:
+					No Committee Name/ID
+             Seward, Amanda:
+					Seward for Council District 11-2017 
+             Shain, Sylvie:
+					1392992 - Sylvie Shain for City Council 2017 
+             Sharp, Jeffery:
+					1386452 - Sharp for Mayor 2017 
+             Shaw, Althea:
+					1333931 - Shaw for City Council 2011 
+					Elect Althea Shaw for CD 10 
+					Shaw for City Council 2020 
+             Sheftel, Frank:
+					1318574 - Committee to Elect Frank Sheftel for CD 2 2009 
+					Committee to Elect Frank Sheftel for CD 4 2011 
+             Shin-Ae, Ahn:
+					Ahn Shin-Ae for LA Mayor 
+             Shivers, Coyote:
+					Shivers for City Councilman 2017 
+             Silverstein, Scott:
+					1348687 - Scott Silverstein for City Council 2013 
+             Singh, Navraj :
+					1416995 - Navraj Singh for City Council 2019 
+					1334948 - Singh for City Council 2011 
+             Skeels, Robert:
+					1344105 - Robert D Skeels for Los Angeles Unified School District, District 2, Trustee Committee 2013 
+             Slichta, Stacey:
+					Slichta for City Council 2020 
+             Smart, Jeff:
+					Pending - Jeff Smart for Mayor 
+             Smith, Cliff:
+					1420796 - Cliff Smith Committee to Elect For Los Angeles Council District 8 2020 
+             Smith, Delaney:
+					Committee to Elect Delaney Smith MD for LA City Council District 8 2015 
+					Committee to Elect Delaney Smith Jr. MD for LA City Council District 10 2015 
+             Smith, Faalaniga:
+					Faalaniga Smith for City Council 2020 
+             Smith, Gregory:
+					1361143 - Greg Smith for City Council 2015 
+					1342913 - Greg Smith for City Attorney 2013 
+					No Committee Name/ID
+             Smith, Greig:
+					1253864 - Smith for City Council 
+             Snell, Melvin:
+					1424511 - Melvin R. Snell for City Council 2020 
+					Snell CD10 2015 
+             Sodaify , Artin :
+					Artin Sodaify for City Council 2020 District 4 
+             Soos, Emery:
+					1341166 - Soos for City Council 2011 
+             Soriano , Roberto:
+					Roberto Soriano City Council L.A. 2017 
+             Sozahdah, Jamila :
+					Jamila Sozahdah for Mayor 2022 
+             Stark, DeWayne:
+					Stark for City Counci 2011 
+             Strassman, Marc:
+					Mark Strassman 
+             Stroncak, Dan:
+					1354181 - Dan Stroncak for City Council 2013 
+					Dan Stroncak for City Council 2015 
+             Stryer, Michael:
+					1309118 - Friends of Mike Stryer 
+             Summer, Adam:
+					1421748 - Adam Summer for City Council 2020 
+             Summers, James:
+					1249483 - Jim Summers for Valley Mayor 
+             Sutton, Frederick:
+					1353001 - Committee to Elect Frederick Sutton to City Council 2013 
+             Svorinich Jr., Rudy:
+					970654 - Svornich Officeholder Account II 
+					970654 - General LDF II 
+             Szabo, Matt:
+					1348750 - Matt Szabo for City Council 2013 
+             Tayes, Walter:
+					No Committee Name/ID
+             Thomas, Andrew :
+					1372237 - Andrew Thomas for LAUSD Board of Education 2015 
+             Tijerina, Jamie:
+					1416512 - Jamie Tijerina for City Council 2020 
+             Tinson, Nicole:
+					Tinson for Mayor 2017 
+             Tirado, Mark:
+					Tirado for City Council 2015 
+             Tobias, Sheldon:
+					No Committee Name/ID
+             Tokofsky, David:
+					950207 - Tokofsky for School Board 
+             Torossian , Karo:
+					1395145 - Karo Torossian for Council 2017-General 
+					1384486 - Karo Torossian for Council 2017 
+             Torrero, Jesse:
+					1385716 - Jesse Torrero for Council 2017 
+             Torres, Barbara:
+					Barbara Torres for LAUSD School Board 2015 
+             Torres, Kathryn :
+					Kathryn Torress for LAUSD 
+             Torres, Marina:
+					1425772 - Marina Torres for LA City Attorney 2022 
+             Torres, Steven "Stevan":
+					No Committee Name/ID
+             Trinidad, Elson:
+					1351078 - Elson Trinidad for City Council 2013 
+             Trutanich, Carmen:
+					1350069 - Trutanich for City Attorney 2013 
+					1338122 - Carmen Trutanich for District Attorney 2012 
+					1316351 - Trutanich for City Attorney General 2009 
+					1301975 - Trutanich Officeholder Committee 
+             Tsurif, Daniel:
+					Daniel Tsurif for City Council 2019 
+             Turner, Gordon:
+					1313965 - Citizens to Elect Gordon Turner 
+             Underhill , Jason :
+					Underhill for City Council 2020 
+             User, Test:
+					1111111 - Candidate for Mayor 
+             Vahedi, David:
+					1425864 - Vahedi for Controller 2022 
+             Valdez, David:
+					1413974 - David Valdez for LAUSD Board District 5 2019 
+             Valdez, Richard:
+					1355801 - Richard Valdez for Council 2013 
+             Valencia, Nestor:
+					1413837 - Valencia for LAUSD Board 2019 
+             Van Mater, Jacob (Alestar):
+					Van Mater for Mayor 
+             Vasquez, Aura :
+					1417450 - Aura for the People of L.A. Council District 10 
+             Vasquez, Dulce :
+					Dulce Vasquez for City Council 2022 
+             Veincentotzs, Marilyn:
+					Veincentotzs for Board of Education 2014 
+             Velazquez, Felipe:
+					Felipe Velazquez for City Council 2017 
+             Veres, Steve :
+					1360387 - Steve Veres for City Council 2015 
+					1329702 - Steve Veres for L.A. Community College Trustee 2017 
+             Villaraigosa, Antonio:
+					1250526 - Mayor Antonio Villaraigosa Officeholder Account 
+					1250526 - Villaraigosa for Council 
+					1250526 - Villaraigosa LDF - FPPC No. 10/579 (LDF 1) 
+					1250526 - Villaraigosa LDF - CEC No. 2011-02 (LDF 2) 
+					1250526 - Villaraigosa LDF - DA Gift Inquiry (LDF 3) 
+					State Committee 
+             Vladovic, Richard:
+					1376051 - Dr. Richard Vladovic For School Board 2015 General 
+					1363754 - Re-Elect Dr. Richard Vladovic for School Board 2015 
+					1292716 - Dr. Richard Vladovic for School Board 
+             Volotzky, Lucie:
+					Lucie Volotzky for the People, District 12 
+             Waleko, Derek:
+					1354500 - Derek Waleko for LA City Council 2013 
+             Walker, John M.:
+					1249579 - Johnny Walker for Council 
+             Walker, Michelle:
+					1350625 - Vote for Michelle 
+             Watkins, Bill:
+					No Committee Name/ID
+             Weaver, Timothy:
+					Write-In: "Dream" Weaver; City Council 2011 
+             Webb, Steven:
+					1333710 - Webb 4 LAUSD Board Member 2011 
+					1309855 - Friends of Steven Webb 
+             Weiss, Jack:
+					1316235 - Jack Weiss for Los Angeles City Attorney 2009 General 
+					1296355 - Jack Weiss for Los Angeles City Attorney 
+					1259382 - Committee to Re-Elect Jack Weiss 
+					1234332 - 2001 LDF 
+					1234332 - Jack Weiss City Council General Election Committee 
+             Weiss, Noel:
+					1354528 - Committee to Elect Noel Weiss City Attorney - 2013 
+					1314603 - Committee to Elect Noel Weiss City Attorney 
+             Wesson, Herb:
+					1414475 - Wesson for Supervisor 2020 
+					1360622 - Wesson for City Council 2015 
+					1327492 - Wesson for Board of Equalization 2014 
+					1286273 - Wesson for Board of Equalization 2010 
+					1283861 - Wesson For City Council 2007 
+					1277458 - Wesson for City Council 
+					1277458 - Wesson Officeholder Account 
+					1277458 - Wesson Legal Defense Fund - 2/23/11 Stipulation 
+             Weston, James:
+					No Committee Name/ID
+             Weyenberg, Eric:
+					Weyenberg for City Council 2015 
+             White, Lehi:
+					White for City Council 13 2017 
+             Whitehead, Samuel Paul:
+					No Committee Name/ID
+             Williams, Ethel:
+					No Committee Name/ID
+             Wilson, Harry:
+					No Committee Name/ID
+             Winslow, Oscar:
+					1392636 - Winslow for City Attorney 2017 
+             Woodruff, Nancy:
+					1380670 - Nancy Woodruff For Council 7, 2017 
+             Woods, Denise:
+					1415912 - Woods for City Council 2020 
+             Wyatt, Bill:
+					1267425 - Bill Wyatt for Mayor 
+             Yanez, Arnulfo:
+					1325088 - Arnulfo Yanez for City Council 2011 
+             Yeager, Joshua:
+					1414858 - Joshua Yeager for City Council Special 2019 
+             Yebri, Sam:
+					Sam Yebri for City Council 2022 
+             Yoo, Grace:
+					1426052 - Grace Yoo for City Council 2020-General 
+					1410462 - Grace Yoo for City Council 2020 
+					1374269 - Grace Yoo for LA City Council District 10 (2015) 
+             Young Yaroslavsky, Katy :
+					Katy Young Yaroslavsky for City Council 2022 
+             Zamora, Raquel :
+					1419525 - Raquel Zamora for Los Angeles City Council District 14-2020 
+             Zeise-Oberstein, Serena:
+					1414634 - Serena Oberstein for LA City Council 2019 
+             Zide, Bill:
+					Bill Zide for CD13 2017 
+             Zimmer, Steve:
+					1395349 - Zimmer for School Board General 2017 
+					1384608 - Zimmer for School Board 2017 
+					1346463 - Zimmer for School Board 2013 
+             Zine, Dennis:
+					1356068 - Zine for Controller 2013 - General 
+					1339692 - Zine for Controller 2013 
+					1229566 - Zine for City Council 
+					1229566 - Zine for City Council-Officeholder Account 
+             Zinone, Gregory:
+					1273944 - Zinone for City Council 
+					C00670208 - Change California Now 
+					990698 - Mothers for Nick - La Colectiva 
+					990680 - LA Jobs PAC: Sponsored by Los Angeles Area Chamber of Commerce 
+					971350 - International Alliance Theatrical Stage Employees Local No. 33 Pro-Labor Candidates PAC 
+					962946 - Los Angeles Department of Water and Power Management Employee Association-PAC 
+					951992 - Los Angeles City Attorneys Association PAC 
+					950225 - Los Angeles School Police Association PAC 
+					931704 - United Teachers Los Angeles - Political Action Council of Educators (PACE) Issues 
+					930646 - Associated Administrators of Los Angeles 
+					922454 - Building Owners &amp; Managers of Greater L.A. PAC 
+					891044 - Service Employees International Union Local 721 
+					890198 - Central City Association PAC 
+					871690 - Los Angeles Council of School Nurses 
+					801508 - West Los Angeles Health PAC 
+					781984 - California Laborers for Equality and Progress 
+					746194 - United Firefighters of Los Angeles City Local #112 
+					744844 - Engineers and Architects Civic Betterment Association 
+					744817 - Local 18 Water &amp; Power Defense League (IBEW) 
+					743959 - Steamfitters &amp; Refrigeration U.A. Local 250 PAC Small Contributor Committee 
+					743686 - Political Action Council of Educators, Sponsored by Teachers Unions, including United Teachers Los Angeles 
+					742204 - Los Angeles County Federation of Labor AFL-CIO Council on Political Education 
+					1425041 - Streets for All 
+					1421130 - Kids First 
+					1419676 - Coalition of Working Families 
+					1417834 - Food and Water Action Fund CAL PAC 
+					1416307 - California Gold Sponsored by Thomas Partners Strategies 
+					1415174 - Imagine Justice PAC sponsored by Service Employees International Union Local 99 
+					1414137 - Councilmember David Ryu's Citizens for Trust in Local Government 
+					1412690 - People for Public Banking 
+					1412227 - Kevin de Leon for Lieutenant Governor 2026 
+					1410452 - Californians for Financially Responsible Government, Sponosred by the California Bankers Association 
+					1405171 - UNITE HERE Local (Nonprofit 501(c)5)) 
+					1401642 - CMA PAC Sponsored by California Miniority Alliance 
+					1400771 - Mothers For A Safe LA: A Committee In Support of Bob Lindsey For LA County Sheriff 
+					1400250 - I LOVE LA 
+					1398270 - Council President Herb Wesson's LA Voter Information Project 
+					1395285 - Los Angeles Hispanic Republican Club 
+					1392321 - Los Angeles County Federation of Labor AFL-CIO (Nonprofit 501(c)(5)) 
+					1391743 - American Federation Of Musicians Local 47 Politcal Action Fund 
+					1379936 - Animal PAC 
+					1378232 - Bombardier Corporation Political Action Committee 
+					1377277 - Partnership For All Children 
+					1376007 - Mark Ridley-Thomas for Supervisor 2016 
+					1374492 - Firefighters for a Better Los Angeles Sponsored by United Firefighters of Los Angeles City Local 112 
+					1369708 - Community Support PAC 
+					1368259 - Students for Education Reform (SFER) Action Network, sponsored by SFER Action Network, Inc. 
+					1367190 - Courage California State PAC 
+					1367043 - Families and Teachers United, sponsored by California Charter Schools Association Advocates 
+					1366184 - Responible Leadership for A Better Community 
+					1355826 - American Federation of Teachers, AFL-CIO Committee on Political Education (Fed PAC ID# C00028860) 
+					1352679 - Valley-Westside Committee for a Greater Los Angeles 
+					1347844 - AFSCME 2626 - Librarians Guild PAC Fund 
+					1344739 - Alston &amp; Bird California PAC 
+					1343221 - VICA PAC, Sponsored by Valley Industry and Commerce Association 
+					1343155 - Service Employees International Union Local 99 (Non Profit 501(c)(5)) 
+					1340101 - Angelenos for Safe Transportation PAC Sponsored by L.A. Taxi Cooperative Inc. and South Bay Cooperative, Inc. 
+					1340085 - Los Angeles Airport Police Officers Association 
+					1336580 - Los Angeles Police Protective League Issues PAC 
+					1336176 - Los Angeles School Police Management Association PAC 
+					1336176 - Los Angeles School Police Sergeants &amp; Lieutenants Association Political Action Committee (LASPSLA PAC) 
+					1335124 - Service Employees International Union Local 99 Independent Expenditure PAC 
+					1334838 - Stop the L.A. Oil Tax, No on Prop. O, sponsored by California Independent Petroleum Association - State 
+					1334520 - Committee for Accountability and Good Government in Los Angeles 
+					1327731 - L.A. Clean Sweep Committee 
+					1327642 - Southern California Pipe Trades District Council 16 
+					1326981 - Hollywood Chamber of Commerce Political Action Committee 
+					1323122 - International Union of Painters and Allied Trades 
+					1319104 - Los Angeles Police Protective League Independent Expenditure Committee 
+					1318235 - Los Angeles Airport Peace Officers Association PAC 
+					1315883 - International Alliance of Theatrical Stage Employees California Committee 
+					1315271 - San Fernando Valley Leadership PAC, Sponsored by the Valley Industry &amp; Commerce Association 
+					1314252 - Ridley-Thomas Officeholder 
+					1313960 - Municipal Construction Inspectors Association PAC (MCIA) 
+					1311891 - Committee for a Better San Pedro 
+					1310364 - Coalition For Safe &amp; Healthy Neighborhood Schools 
+					1308418 - LA Jobs Issues PAC: Sponsored by the Los Angeles Area Chamber of Commerce 
+					1306828 - Asian American Action Fund Of California 
+					1305594 - BizFed PAC, A Project of Los Angeles County Business Federation 
+					1302429 - Los Angeles County Federation of Labor, AFL-CIO Issues and Initiatives Committee 
+					1297793 - Kevin de Leon Believing in a Better California Ballot Measure 
+					1297199 - Los Angeles Food &amp; Beverage PAC, Sponsored by the California Restaurant Association 
+					1296889 - Service Employees International Union Local 721, CTW, CLC Workers' Strength Committee 
+					1290164 - Save Our Paramedic, Fire and Police Services 
+					1289844 - Working Californians Issues Committee 
+					1288733 - Working Californians, Sponsored by International Brotherhood of Electrical Workers Local Union 18 
+					1284834 - Rocky Delgadillo For Our Children's Future Ballot Measure Committee 
+					1283709 - Citizens for Integrity in Government 
+					1279970 - AON Corporation Political Action Committee 
+					1278808 - Service Employees International Union United Service Workers West (SEIU USWW) Candidate PAC 
+					1276900 - Concerned Neighbors of El Sereno 
+					1274758 - Sn Fernando Valley Young Democrats 
+					1256350 - California ACE PAC (Association of Club Executives) 
+					1248986 - United Firefighters of Los Angeles City Local 112 - Issues Committee 
+					1237135 - Los Angeles County Democratic Party-State Candidate Committee 
+					1234676 - Motion Picture Association Local PAC 
+					National Education Association Fund for Children and Public Educ. 
+					Brand New City LA 
+					Los Angeles Police Protective League Issues Committee 
+					Council of Stakeholders for a Better School District 
+					Committee for a New South LA 
+					Southwest Regional Council of Carpenters - Carpenters Legislative Improvement Committee 
+					Golden State PAC 2020 
+					1388082 - Los Angeles Forward - Councilman Mike Bonin's Ballot Measure Committee 
+					1413554 - Joe Buscaino for a Better LA 
+					1373926 - Mayor Eric Garcetti's Ballot Measure Committee 
+					1392769 - Marqueece Harris-Dawson L.A Freedom Fund 
+					1399210 - Citizens for a Stronger Economy - Curren Price Ballot Measure Committee 
+					1372330 - Mark Ridley-Thomas Committee for a Better L.A 
+					1283003 - Mayor's Committee for Government Excellence and Accountability 
+					482638 - Frank McCourt &amp; Affiliated Entities 
+					1417073 - William Funderburk 
+					1412352 - Janet Crown 
+					1393631 - Aaron Sosnick 
+					1367205 - Megan Chernin 
+					1336688 - Lamar Advertising Company 
+					1336508  - Steven Ballmer 
+					1335016 - Nicolas Berggruen Institute Trust 
+					1315146 - Monica Rosenthal 
+					1286579 - Andrew Hauptman 
+					1246090 - Eric Smidt 
+					1238662 - Bruce Karsh 
+					1220000 - Eli Broad 
+					Andrew Garsten 
+					Lawrence Cimmarusti 
+					James and Blanche Blatt 
+					John Stricklin 
+					Sharon Evenhaim 
+					David Rubin 
+					Hershy Ten 
+					Rick (and Affiliated Entities) Caruso 
+					Jeffrey Neu 
+					Bill Bloomfield 
+					Sixth and Alameda LLC 
+					John Shallman 
+					Climate Hawks Vote Political Action 
+					Hamlet Chraghchian 
+					Carol Biondi 
+					California IATSE Council 
+					Gonzalez Goodale Architects 
+					Deborah Trainer 
+					Ground Game LA 
+					John Allan Greenstein 
+					Dale Okuno 
+					Douglas Moreland 
+					Douglas Ring 
+					James Thomas 
+					Jerry Epstein 
+					Joseph Kouba 
+					Mark Attanasio 
+					Mark Caplow 
+					Mark Jacoby 
+					Marshall and Marlene Grossman 
+					Pete Zackery 
+					Randy Johnson 
+					Richard Riordan 
+					Richard Meruelo 
+					Robert Maguire 
+					Sheldon Sloan 
+					Steve Soboroff 
+					Thomas Safran 
+					Neal Baer 
+					Tim Grant 
+					990680 - LA Jobs PAC: Sponsored by the Los Angeles Chamber of Commerce 
+					1427288 - Communities Allied for the Election of Mark Ridley-Thomas to Los Angeles City Council in 2020 
+					1426639 - Los Angeles for Mark Ridley-Thomas for City Council 2020 
+					1426315 - LEAD &amp; REFORM LA: RESIDENTS FOR DAVID RYU FOR CITY COUNCIL 2020 
+					1425698 - Communities for Mark Ridley-Thomas for City Council 2020 
+					1425101 - Working Californians to Support Wesson for Supervisor and Ridley-Thomas for Council 2020, Sponsored by International Brotherhood of Electrical Workers Local Union 18 
+					1425096 - Working Families for Mark Ridley-Thomas for City Council 2020, Sponsored by Los Angeles County Federation of Labor, AFL-CIO 
+					1425041 - Streets for All (A Committee in Support of Sarah Kate Levy &amp; Loraine Lundquist for Los Angeles City Council 2020) 
+					1425028 - Neighbors for John Lee for Council 2020, a project of Los Angeles County Business Federation 
+					1424224 - FRIENDS OF GRACE YOO FOR CITY COUNCIL 2020 
+					1423866 - Tax Payers Support Grace Yoo for City Council 2020 
+					1422901 - People for Kevin de Leon for City Council 2020, Sponsored by the Los Angeles County Federation of Labor, AFL-CIO 
+					1419957 - San Fernando Valley Alliance for Safe Neighborhoods Supporting John Lee for City Council 2019, sponsored by police officers and business associations 
+					1419593 - Neighbors for John Lee for Council 2019, A project of the Los Angeles County Business Federation 
+					1418672 - CD 12 Residents for a Brighter Future in Support of Stella Maloyan for City Council 2019 
+					1418646 - Working Families for Stella Maloyan for City Council 2019, Sponsored by UNITE HERE Local 11 
+					1416015 - SFER Action Network Inc. (nonprofit 501(c)4) 
+					1415178 - Familias y Democratas por Heather Repenning para la Junta Escolar 2019, sponsored by Service Employees International Union Local 99 
+					1415174 - Parents and Families for High Performing Schools, Committee to Elect Heather Repenning to School Board 2019 
+					1414648 - Building Community Through Education in Support of Graciela Ortiz For School Board 2019 
+					1396137 - Residents for Better Public Service Supporting Torossian for City Council 2017sponosred by Labor Organizations 
+					1395676 - Committee Supporting Gil Cedillo for City Council 
+					1395636 - Speak UP - Supporting Nick Melvoin for School Board 2017 (nonprofit 501(c) (4)) 
+					1395636 - Speak UP-Yes on Measure EE (Nonprofit 501(c)4)) 
+					1395636 - Speak UP-Yes on 15 and 16 (Nonprofit 501(c)4)) 
+					1394492 - Communities in Support of Jorge Nuno for City Council 2017 
+					1394118 - Valley Voters United for Imelda Padilla for School Board and Monica Rodriguez for City Council 2017 
+					1394036 - Committee Opposing Mitch O'Farrell and Supporting Doug Haines for City Council 2017 
+					1393815 - Neighbors United to Re-Elect Mitch O' Farrell for City Council 2017 
+					1393580 - LA Students for Change, Opposing Steve Zimmer for School Board 2017 
+					1393513 - Neighborhoods First, A committee Supporting Monica Rodriguez for LA City Council 2017 
+					1393480 - Students, Parents and Educators in Support of Jackie Goldberg for School Board 2019, Sponsored by Teachers Unions, Including UTLA 
+					1393480 - Students, Parents and Educators in Support of Castellanos, Goldberg, McKenna, and Schmerelson for School Board 2020, Sponsored by Teachers Unions, Including UTLA 
+					1393480 - Students, Parents and Educators in Support of Castellanos and Schmerelson for School Board 2020, Sponsored Teacher Unions, Including United Teachers Los Angeles 
+					1393384 - The Committee to Protect Our Neighborhoods, Opposing Paul Koretz for City Council 2017 
+					1393034 - Valley Voters Supporting Monica Rodriguez for City Council 2017 
+					1392870 - Citizens for Responsible Los Angeles Marijuana Laws, Yes on M, No on N 
+					1392545 - Progressive Growth PAC, Sponsored by Small Businesses, Supporting Price and Koretz for City Council 2017 
+					1392486 - Committee Supporting Mark Ryavec for Council District 11 - 2017 
+					1391706 - Think Long Committee, Inc. Sponsored by Nicolas Bergguen Institute Trust, Supporting Los Angeles Measure EE (Non-profit 501(C)(4)) 
+					1376677 - Latinos Supporting David Ryu for City Council 2015 
+					1374651 - Valley Families for Nury Martinez for City Council 2015 
+					1374593 - Safe Neighborhoods &amp; Better Schools for Steve Veres for City Council 2015 
+					1374540 - Citizens for Increased Voter Participation 
+					1374012 - The Business, Labor &amp; Community Coalition Supporting Jose Huizar for Council 2015 
+					1368821 - Voters For a Better District 1 to Support George McKenna for LA Unified School District 1 2014 
+					1368406 - COMMITTEE TO ELECT ALEX JOHNSON TO LAUSD BOARD OF EDUCATION 2014, SPONSORED BY SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 99 
+					1368234 - Protect Local Jobs PAC Supporting Heather Repenning &amp; Opposing Graciela Ortiz for School Board 2019 Sponsored by Service Employees International Union Local 99 Independent Expenditure PAC 
+					1367043 - L.A. Parents, Teachers &amp; Students for Great Public Schools, sponsored by CA Charter Schools Association Advocates IE Cmtee, supporting Alex Johnson for LA School Board 2014 
+					1367043 - Families and Teachers United, Supporting Marilyn Koziatek for LAUSD Board District 3 2020, sponsored by California Charter Schools Association Advocates 
+					1359086 - Women for Cindy Montanez for LA City Council District 6 2013 
+					1358428 - Ratepayers for a Better Los Angeles Supporting Nury Martinez for City Council 2013 
+					1356888 - Committee to Elect Wendy Greuel for Mayor 2013, Sponsored by Service Employees International Union United Long Term Care Workers 
+					1356519 - Parents in Action for Better Schools Supporting Wendy Greuel for Mayor 
+					1356423 - Committee for a Safer Los Angeles, Supporting Eric Garcetti for Los Angeles mayor 2013 
+					1355934 - LA Citizens for Fiscal Reform to Support Dennis Zine for LA City Controller 2013 
+					1355879 - Mexican American Political Association-PAC to Support Ron Gochez for L.A. Council 2013 
+					1355877 - Mexican American Political Association-PAC to Support Gil Cedillo for L.A. Council 2013 
+					1355544 - Coalition for Better Schools and Communities to Support Cedillo, Price, and Choi for Council and Greuel for Mayor 2013, Sponsored by the Los Angeles County Federation of Labor, AFL-CIO 
+					1355440 - Coalition for Jose Gardea for City Council 2013 
+					1355129 - Better Schools and Safer Neighborhoods for Los Angeles Committee to Support Curren Price for City Council 2013 
+					1353828 - Better Way LA PAC to Support Kevin James for Mayor 2013 
+					1351590 - Women for Wendy Greuel for Mayor 2013 
+					1347325 - Friends of Eric Garcetti Supporting for Mayor 2013 
+					1335124 - Citizens for Better Schools in Support of Sanchez for Los Angeles Unifited School District Board of Education 2011, sponsored by SEIU Local 99 
+					1334291 - Coalition for School Reform to Support Sanchez for Board of Education 2013 
+					1319104 - California Law and Order Independent Expenditure Committee Sponsored by the Los Angeles Police Protective League (Support Greuel Mayor 2013) 
+					1317746 - The Campaign for LA - To Support Paul Koretz for Council 2009 
+					1308583 - Local 18 Water and Power Defense League Issues (IBEW) 
+					1299724 - Committee to Preserve Public Safety in Los Angeles - No Delgadillo Recall 
+					1288733 - Working Californians to Support McOsker for City Council 2011 
+					1284556 - Citizens For Reform 
+					1278876 - Safe Neighborhood Schools Coalition, Yes on Measure Y 
+					Los Angeles Citizens' Compensation Committee for YES on [unknown charter amendment] 
+					Coalition for School Reform to Support Galatzan, Sanchez, and Vladovic for Board of Education 2011 
+					AIDS Healthcare Foundation FAIR Committee 
+					Latinos for Choi 2013 
+					LA Residents for Accountability to Support Carmen Trutanich for LA City Attorney 2013 
+					Firefighters for a Better Los Angeles Support Jose Huizar for City Council 2015, sponsored by United Firefighters of Los Angeles City Local 112 
+					Students, Parents, and Educators in Support of Padilla and Zimmer for School Board 2017, Sponsored by Teachers Unions, Including United Teachers Los Angeles 
+					Working Californians to Support Ridley-Thomas for City Council 2020, Sponsored by International Brotherhood of Electrical Workers Local Union 18 
+					Kids First, Supporting Tanya Ortiz Franklin for LAUSD School Board 2020 
+					Committee for an Equitable Los Angeles, Yes on 16 &amp; 19, Councilwoman Monica Rodriguez: Ballot Measure Committee 
+    Aarons, Brad
+    Abboud, Megan 
+    Abegglen, Randall
+    Abrams, Scott
+    Ackerman, Michael
+    Aguilar, Yolie
+    Agustin, Cesar
+    Akili, Gregg
+    Alaniz, Elaine
+    Alarcon, Corina
+    Alarcon, Richard
+    Alatorre, Richard
+    Alcaraz, Monica
+    Aldana, Manuel
+    Alexander, Stanley
+    Alexander, Stanley
+    Alfaro, Nelson
+    Allen, James
+    Alnajjar , Asaad
+    Alva, Lisa
+    Alvarez, Carlos
+    Alvarez, Erika
+    Alvord, Harold
+    Amador, Carlos
+    Amaya, Miguel
+    Amerian, Michael
+    Amori, Paul
+    Anderson, Bobbie 
+    Anderson, Euna
+    Anderson, Kate
+    Anderson, Sky
+    Angeles, Eduardo
+    Aniolek, Gregg
+    Anthony, Kathy
+    Antonino, Edward
+    Arceo, Crystal
+    Archie-Hudson, Margarite
+    Arevalo, Juanita
+    Arnold, Caney
+    Arrellano, Christopher
+    Ashe, Chris
+    Aslan, Ken
+    Aubrey, Martin
+    Aula, Jason
+    Austin, Ben
+    Avalos , Maria del Pilar 
+    Ayala, Olga
+    Badger, Elizabeth
+    Bailey, Glenn
+    Bajracharya, Allison
+    Baker, Jerry
+    Balen, David
+    Balin, Melissa
+    Baltierrez-Fernandez, Joanne
+    Bannister, Tara
+    Bannister, Walter
+    Bannister, Walter
+    Barad, Jill
+    Barak, Igaal
+    Barnett, Daniel
+    Barr, Steve 
+    Barreno, Sergio
+    Barron, David
+    Barsky, Marvin
+    Barton, Luca 
+    Basler, Molly 
+    Bass, Karen
+    Bastian, Hal 
+    Batie , Michael 
+    Beatty, Shakana 
+    Becerra, Franki
+    Becerra, Xavier
+    Beckham, James
+    Beeber, Jay 
+    Bell, Dajuan 
+    Bell, Robert
+    Beltran, Hector
+    Benedetto, Michael 
+    Benitez, Ricardo
+    Bennett, Wilma
+    Benson, Mary
+    Beres, Judy
+    Berger, David
+    Bernal, Benito
+    Bernal, Benny 
+    Bernard, Sheila
+    Bernson, Hal
+    Bernstein, Nathan
+    Berriozabal, Gilbert
+    Beutner, Austin
+    Bigelow, Lynette
+    Biggs, Garrett
+    Bisani, Augusto
+    Bishop, John
+    Bleich, Adeena
+    Bloom, David
+    Blumenfield, Bob
+    Boateng, Kwame
+    Boen, Barry 
+    Boland, Paula
+    Bolin, Pamela
+    Bonilla, Jose
+    Bonin, Mike
+    Bornstein, Jeff
+    Bostick, Odysseus
+    Boudreaux, Barbara
+    Box, Stephen
+    Bradford, Silke 
+    Brasfield, John 
+    Bray-Ali, Josef
+    Brazeman, Cary
+    Brent, Eli
+    Brimmer, Justin
+    Brothers , Lee
+    Brown, Chris
+    Brown, Marsha
+    Brown, Najmah
+    Brown, Stephen
+    Brownridge, J. Paul
+    Bryant, Cheyenne
+    Buelna, Gabriel
+    Buelna, Pilar
+    Buffington, Sean
+    Bunte, John
+    Burman, Tsilah
+    Burrell, Mario
+    Buscaino, Joe
+    Busch, Gerald
+    Bush, Frank
+    Bush Noble, Sandra
+    Butka, Anthony
+    Butler, Eugene
+    Byrne, Therese
+    Cabrera, Adriana
+    Cage-Barile, Lady
+    Cahan-Davis , Lisa
+    Cain, David
+    Calanche, Maria
+    Caldwell, John
+    Calhoun, Moses
+    Campbell, John Sandy
+    Campos , Edgar 
+    Canchola, Cris
+    Cano, Maria
+    Canter, Marlene
+    Cardenas, Ernesto
+    Cardenas, Tony
+    Carranza, Margie
+    Carrillo, Gilbert
+    Carrillo, Randy
+    Cartwright, Shauun
+    Castellanos , Patricia 
+    Castillo, Jose
+    Castro, Victoria
+    Cathey, Michael
+    Cedillo, Gilbert
+    Cepeda, Hector II
+    Cetina, Carlos
+    Cetina, Luis
+    Chambliss, Rebecca
+    Charles-White, Breck
+    Chase, Nicole
+    Chatman, Kelley
+    Chavarria, Carlos 
+    Chavez, Julian
+    Chavez, Mario
+    Chavez Zbur, Rick 
+    Chelebian, Armineh
+    Chi-Young , Ian 
+    Chick, Laura
+    Chin, Darian
+    Cho, Annie
+    Cho, Chuck 
+    Choi, John
+    Christie , Eric 
+    Chutuk, Debbie
+    Cipolla, William
+    Cisneros , Eduardo
+    Clancy, James
+    Clark, Krystee
+    Clary, Ronald
+    Clay, Pauline
+    Clayton, Justin
+    Cody, Scott
+    Cohen, Michael
+    Cole, Robert
+    Collins, Kevin
+    Collins, Susan 
+    Compton, Donald
+    Connell, Kathleen
+    Connolly, Joseph
+    Constantino, Rebecca
+    Contreras, Diane
+    Contreras, Mark
+    Cooper, Earl
+    Corado , Albert
+    Cordaro, James
+    Cordon, Frank
+    Corey, Adam
+    Cortez Le, Madeline
+    Corwin, Bonnie
+    Covit, Raymond
+    Crawford, Scott
+    Creed, Jesse
+    Crisell, Theodore
+    Crochet, Wayne
+    Croswhite, Terri
+    Cruz, Fernando
+    Cubas, Ana
+    Cuevas, Ricardo
+    Cunningham, David
+    Cunningham, David
+    Curry, Ken
+    D'Agostino, Lea Purwin
+    Daar, Jeffery
+    Darian, Bruce
+    David , Jackie 
+    Davis, Michael "Mike"
+    Davis, Tad
+    Davis, Teddy
+    Davis, William
+    Dawson, Jace
+    de Buonaparte, Caesar
+    De la Torre, David
+    de Leon, Kevin
+    De Ocampo, Alexander
+    De Valencia, Laura
+    De Vera, Ruby
+    Deas, Susan
+    DeGaetano, Noel
+    Delgadillo, Rockard
+    Delgado, John
+    DellaVecchia, Francis
+    Delpit, Leonard 
+    Depew, Virginia
+    DeSoto, Bella
+    DeYoung, Eric
+    Di Raimondo, Jose
+    Diamond, Morton
+    Diaz, Abelardo
+    Diaz, Nadine 
+    Dib, Albert
+    Dilkes, Edward
+    Dimov, Jim
+    Dinse, Charles
+    Divina, Henry
+    Dole, Carlton
+    Dominguez, Jason
+    Dragon, Austin
+    Draiman, YJ
+    Dryden, Maria
+    Dunnigan, Vivianna
+    Dupont-Walker, Jackie
+    Duran , Christina 
+    Durand, Jean Marie
+    Eades, Linnea
+    Eastman, Richard
+    Ebenstein , Jeff
+    Edwards, Robert
+    Ehsani, Arash "Asher"
+    Eichwald-Romero, Agustin
+    Ena , Hidemi 
+    England, Jerry
+    Englander, Mitchell
+    Enright , Sean 
+    Escandon, Jesus
+    Escandon, Martha
+    Escobar, Walter
+    Espinoza, Adolfo
+    Essavi, Jozef "Joe"
+    Essel, Christine
+    Evans, Kathleen
+    Evans, Mervin
+    Ewing, David
+    Fairchild, Denise
+    Farrell, Robert
+    Farrington-Domingue, Sandra
+    Fer, John
+    Fernandez, Ana
+    Fernandez, John
+    Ferraro, John
+    Ferrero III, John
+    Ferreyra, Carlos
+    Ferry, Frank
+    Feuer, Michael
+    Field, Mona
+    Fields, Valerie
+    Flanagan, Timothy
+    Fleming, Woodrow
+    Flores, Fred 
+    Flowers, Michael
+    Fluker-Campbell, Maggie
+    Folsom, Scott
+    Fong, Susan
+    Fonseca, Roberto
+    Formica, Stefano
+    Foulks, Deborah
+    Fowler, Dallas
+    Fowlkes , Dentis 
+    Frank, Mark
+    Frankel, Rex
+    Franklin, Sherri
+    Franklin, Tanya
+    Freedner, James
+    Frierson, Ron
+    Fuchs, Derek
+    Fuchs, Derek
+    Fuentes, Felipe
+    Furutani, Warren
+    Galanter, Ruth
+    Galatzan, Tamar
+    Galaz, Donald
+    Gallardo, Fidencio
+    Gallo, Antonio
+    Galperin, Ron
+    Galvan, Frank
+    Galvan, Rebecca
+    Garcetti, Eric
+    Garcia, Daniel 
+    Garcia, Eleanor
+    Garcia, Eleanor
+    Garcia, Jose Roy
+    Garcia, Monica
+    Garcia, Nathaniel
+    Gardea, Jose
+    Gardner, Joseph
+    Garfield, Beth
+    Garza-Halstead, Laura 
+    Gasca, Enrique
+    Gaspard, Elaine
+    Gay, Bob
+    Gazzaruso, Dion
+    Genovese, Sal
+    Gerrish , Roger
+    Gerston, Ken
+    Giaba, Matthew
+    Gibson, Robert
+    Gloria, Jason
+    Glynn, Gavin
+    Gochez, Ronald
+    Godinez, Raul
+    Gold, Sidney
+    Goldberg, Arthur
+    Goldberg, Jackie
+    Goldman-Ruiz Guerena, Georgina
+    Goldsobel, Robert
+    Gomes, Terrence
+    Gomez, Alexander
+    Gonez, Kelly
+    Gonzales, Paul
+    Gonzales, Yolanda
+    Gonzalez, Cynthia
+    Gonzalez, David
+    Gonzalez, Filiberto 
+    Gonzalez , Jose Luis 
+    Gonzalez, Justine
+    Goodman, Rich
+    Gould, Noel
+    Grace, Brandii
+    Graham, Candice
+    Grammatico, Sal
+    Grammatico, Salvatore
+    Grand, Tracy
+    Grande, Ana
+    Grande, Frank
+    Green, "Melrose"
+    Green, Larry
+    Greene, David
+    Greuel, Wendy
+    Griego, Victor
+    Grochoske, Jana
+    Grunwald, Marilyn
+    Guess, Marlon
+    Gutierrez, Eduardo
+    Gutierrez, Juan
+    Gutierrez, Lydia
+    Guzman, David
+    Hahn, James
+    Hahn, Janice
+    Haines, Douglas
+    Hale, O'Dell
+    Hall, Milton 
+    Haller, William 
+    Hamilton, Ernest
+    Hancock, Holly 
+    Hara, Terry
+    Haraldson, Roberto
+    Harden, Gina
+    Hardine, Keith
+    Hardister III, Harold
+    Harman, Diane
+    Harris, Charyn
+    Harris, James
+    Harris-Dawson, Marqueece
+    Hawkins, Sylvia Lynne
+    Hayden, Tom
+    Hayes, Genethia
+    Hayes Jr., Theodore
+    Haynes, William
+    Hays, Jerry
+    Healey, Laurette
+    Heckmann, Brian
+    Hegler, Jesse
+    Henderson, LaRonce Maurice
+    Henderson, Nichelle
+    Henderson, Toni
+    Henry, C. David
+    Herd, Mark
+    Herget, John
+    Hernandez, Armando
+    Hernandez, David
+    Hernandez, Giovany
+    Hernandez, Mike
+    Herrarte, Melissa
+    Herrera, Jaime 
+    Herring, Sherita
+    Hertzberg, Bob
+    Hess, Tina
+    Higginson , John 
+    Hill, Joey 
+    Hill, Katrina
+    Hillman, Kenneth
+    Hirshberg, Judith
+    Hirt, Michael
+    Hogan-Rowles, Forescee
+    Holden, Nate
+    Hopper, Michael
+    Horn, Daniel
+    Horst, Jennifer
+    Horton, Jeff
+    Howard, Earl
+    Huberman, Norman
+    Huesca, Guillermo
+    Huffman, Dan
+    Huguez, Freddie 
+    Huizar, Jose
+    Huizar, Richelle
+    Iaccino, Cary
+    Irani, Sheila
+    Jackson, Charles
+    Jackson, Matt
+    Jackson, Mitchell
+    James, Kevin
+    Janossy, Maria
+    Jasek , Evan 
+    Jeffries, Annette
+    Jennerjahn, Phil
+    Jimenez, Benjamin Luis
+    Jimenez , John 
+    Jimenez, Juan
+    Johansson, Wayne
+    Johnson, Alex
+    Johnson, Daymond
+    Johnson, G Juan
+    Johnson, Mary
+    Johnson, Rachel 
+    Johnston, Clarendon 
+    Jones, Ayinde
+    Jones, Osagyefo
+    Jones, Step 
+    Jones-Muhammad Clark, Khansa
+    Jones-Sawyer, Reggie
+    Joseph, Richard
+    Joya, Analilia
+    Jumaane, Jabari
+    Kapur , Teddy
+    Kayajian, Jack 
+    Kayser, Bennett
+    Kbushyan, Sam
+    Keller, Nellie
+    Kelly, Geraldan
+    Kendall-Bell, Richard
+    Kennamer, Allen
+    Khalil, Khalil
+    Kim, Andrew
+    Kim , Anne 
+    Kim, BongHwan
+    Kim , Shirley 
+    Kiriyama, George
+    Kirk, Chelsea
+    Kirkland, Jonathan
+    Klain, Erich
+    Kleiner, Neal
+    Knox, Wally
+    Kolodny, Heather
+    Korenstein, Julie
+    Koretz, Paul
+    Koziatek, Marilyn 
+    Krekorian, Paul
+    Kremer, Yuval
+    Krisiloff, Flora
+    Kritzer, David
+    LaBonge, Tom
+    Lake, Laura
+    Lakhanpal, Dinesh
+    Lam, Vanessa
+    Lamishaw, Robert
+    LaMotte, Marguerite
+    Lansing, Mike
+    LaPietra, Eugene
+    Lara, Carlos 
+    Larsen, Lily
+    Larson, Don
+    Lauritzen, Jon
+    Law, James
+    Lazo, Jaime 
+    LeBlanc, Roy 
+    Lee, Eric
+    Lee, John
+    Lenox, Duane
+    Lesko, Benjamin
+    Levine, Barry
+    Levy, Sarah
+    Lewis, Norvell
+    Lewis, Rosemary
+    Leyner, Richard
+    Liew, Sarah 
+    Lindblad, Jack
+    Lockwood, Linda
+    Lohr, Charles
+    Lopez, Carlos
+    Lopez, Patty 
+    Lopez, Sigifredo
+    Lopez, Tony
+    Lorant, Etan
+    Lord, Kelly
+    Love, Roye
+    Lovingood , Marcus
+    Lucas, Benjamin
+    Lucey, Joseph
+    Ludlow, Martin
+    Luna Nerio, Sylvia
+    Lundquist, Loraine
+    Luza, Radomir
+    Lyons, Wendy
+    Mack, Emile
+    MacMinn, Richard
+    Maddalo, John
+    Maddox, Kerman
+    Magee, Trudy
+    Maggiore, Eileen
+    Maghsoudi, Jasmine
+    Mahmood, Helan
+    Maier, John
+    Malekniazi, Ali
+    Maloyan, Stella 
+    Mancillas, Jorge
+    Manigault, Omarosa 
+    Manley, Mike
+    Manns, Keith
+    Marez, Candido
+    Mariscal, Fred
+    Markham, Gordon
+    Markland, Montgomery 
+    Markos, Juan
+    Martayan, Gregory 
+    Martayan, Gregory
+    Martellaro-Palmer, Lisa
+    Martin, Joseph
+    Martinez, Alex
+    Martinez, Alma
+    Martinez, Channing 
+    Martinez, Nury
+    Martinez, Reuben
+    Martinez, Rosa
+    Martinez, Rudy
+    Martinez, Venessa 
+    Mauro, Joseph
+    Mavar, John
+    Mays, Malcolm
+    Mc Caulley, Ollie
+    McAlpine, Ken
+    McCaulley, Ollie
+    McClain, Annette
+    McCowan, Ronnie
+    McCowen, Keith
+    McCue, Michael
+    McDowell, Amberly
+    McFrazier, Hattie 
+    McGovern, William
+    McKenna, George 
+    McMahon, William
+    McOsker, Pat
+    McPherson, Wendy
+    Meinel, James
+    Melcombe, John
+    Melendez, Kenneth
+    Melendez, Rudy
+    Melero, Paul
+    Melton, Kevin
+    Melvoin, Nicholas 
+    Mendoza, Louie 
+    Mendoza, Marco
+    Mendoza, Oscar
+    Mercer, Georgia
+    Meredith , Christopher 
+    Merritt, Paul
+    Mico-Quinn, Brian 
+    Miele, Kenneth
+    Miller, Addie
+    Miller, Erich
+    Milonopoulos, Constantina
+    Milosavljevic, Derek
+    Miner, Arthur
+    Miropol, Leonard
+    Miscikowski, Cynthia
+    Mitchell, Mathew
+    Moch, David
+    Molina, Catherine
+    Molina, Gloria
+    Molina, Gonzalo
+    Molony, David
+    Montanez, Annamarie
+    Montanez, Cindy
+    Montes, Carlos
+    Montoya, Luis
+    Moore, Macklin
+    Moore, Murphy
+    Moore, Walter
+    Morales, Erick
+    More, Alfonso 
+    Moriarity, William
+    Morris, Scott
+    Morrison, William
+    Mortell, Arthur
+    Mosby, Michael
+    Moseley, Clifford
+    Moseley, Ramiro
+    Mostofi, Kambiz
+    Motto , Berny
+    Moulden, Isis
+    Moylen, Christopher
+    Mozena, Steven
+    Muhammad, Kareem
+    Muller, Brian
+    Munro Robb, Denise
+    Murai, Miho
+    Nakahiro, F.
+    Nakahiro, Robert
+    Negrete, Robert
+    Netkin, Hal
+    Newberry, Diana
+    Newbill, Sherlett
+    Nizich, Robert
+    Noble, Sandra
+    Noel, Alison 
+    Norris, Robert
+    North, Reed
+    Nuno , Jorge 
+    Nussbaum, Howard
+    O'Brien, Frank
+    O'Farrell, Mitch
+    O'Gabhann, James
+    O'Gabhann, James
+    O'Grady, Tomas
+    O'Neill, John
+    O'Neill, John 
+    Olivas, Joshua
+    Omega, Noel
+    Orellana, Angel 
+    Ortiz, Graciela
+    Oschin, Francine
+    Otteson, Cyndi
+    Pacheco, Nick
+    Pacheco, Nick
+    Padilla, Alex
+    Padilla, Imelda
+    Page, Curtis
+    Panazza, Robert
+    Parker, Petra Ann
+    Parks, Bernard
+    Parra, Alvin
+    Parrish, Frances
+    Parseghian, Araz
+    Patel, Ankur
+    Patsaouras, Nick
+    Paul, Brian
+    Pearson, Joyce
+    Pelico, Joan
+    Penick, Thomas
+    Pereyda, Frank
+    Perez, John
+    Perkins, Barbara
+    Perron, John 
+    Perron, Jr., John
+    Perry, Jan
+    Perry, Richard
+    Perry, Richard
+    Perry , Tara
+    Pescador, Octavio
+    Petersen, Carl
+    Pierre, Frantz
+    Pleitez, Emanuel
+    Polanco, Richard
+    Polhill, Allison
+    Portillo, Oscar
+    Posey, Gwendolyn
+    Post, Josh
+    Powell , Tunette
+    Presberg, Steven
+    Preven, Eric
+    Price, Curren
+    Prince, Walter
+    Prucher, Jonathan
+    Pruett, Daryl
+    Pugliese, Louis
+    Quezada, Ezequiel
+    Quinn, John
+    Quinn, Joseph
+    Rab, Raji
+    Ragsdale, Kenneth
+    Raman , Nithya 
+    Ramsay, Carolyn
+    Ramsey, Michael
+    Ratliff, Monica
+    Read, Randall
+    Reddock, Angela
+    Reed, Mark
+    Reed, Priscilla
+    Repenning, Heather 
+    Reyes, Eduardo
+    Reyes, Edward
+    Richman, Keith
+    Richter, Dennis
+    Ridley-Thomas, Mark
+    Riley, Thomas
+    Riley, Tom
+    Riordan, Richard
+    Rios-Parra, Nellie
+    Ritter Simon, Robyn
+    Rivas, Rocio
+    Rivera, Edward
+    Rivera, Edward
+    Rivera-Guzman , Ingrid 
+    Robbe, Michael
+    Roberti, David
+    Roberts, David
+    Roberts, Gregory
+    Robertson, Jeremiah
+    Robinson, Jeneen
+    Robinson, Rodney
+    Robledo, Sylvia
+    Rodgers, Franklyn
+    Rodgers, T.
+    Rodman, Matthew
+    Rodriguez, Anthony 
+    Rodriguez, Connie
+    Rodriguez, Monica
+    Rodriguez, Monica
+    Rodriguez, Ref 
+    Romain, Marc
+    Ronka, Bob
+    Rooney, Ronald
+    Rosas, Jesus
+    Rosendahl, William
+    Rosenzweig, Jay
+    Rothenay, Eric
+    Rowen, Marvin
+    Roye, Stephen
+    Ruano , Estuardo
+    Rubel, Charles
+    Rubin, Craig
+    Rudisill, Robin 
+    Ruppert, Ronald
+    Rustad, Kendrick 
+    Ryan, Edward
+    Ryavec, Mark
+    Ryu, David
+    Saario, Brandon
+    Saavedra, Ignacio
+    Saifi, Sam
+    Salabaj, Christopher
+    Salans, Jessica
+    Salas, Juan 
+    Saldivar, Geoffrey
+    Saltsburg, David 
+    Saltzman, Stephen
+    Samaniego, Fernando
+    San Martin, Alex
+    San Miguel, Jose
+    Sanchez, Antonio
+    Sanchez, Corinne
+    Sanchez, Daryl
+    Sanchez, David
+    Sanchez, David
+    Sanchez, Ernest
+    Sanchez, Luis
+    Sanchez, Peter
+    Sanchez, Salvador "Chamba"
+    Sanders, Stanley
+    Sandler, Norton
+    Sandoval, Jose 
+    Santich , Anthony 
+    Saperstein, Sherree
+    Sarinana-Lampson, Stephen
+    Sarkissian, Rostom 
+    Saunders, Constance
+    Scalir, Kenneth
+    Schaefer, Mike
+    Schapiro, Lawrence
+    Schmerelson, Scott
+    Schreiber, Scott
+    Schurtz , Hugh 
+    Schwartz, Mitchell
+    Schwartz, Robert
+    Scott, Paul
+    Scott-Stafford, Jessye
+    Selem, Brian
+    Serrano, Robert
+    Sevilla Haru, Sumi
+    Seward, Amanda
+    Seybert, Barry
+    Shain, Sylvie
+    Shapiro, Leonard
+    Sharp, Jeffery
+    Shaw, Althea
+    Shaw, Lyn
+    Sheftel, Frank
+    Sherrills, Daude
+    Shifren, Rabbi Norman
+    Shin-Ae, Ahn
+    Shivers, Coyote
+    Shockley, Madison
+    Shroyer, Ralph
+    Sigala, Jose
+    Silon, Irwin
+    Silver, Carol
+    Silverstein, Scott
+    Simon, Robyn Ritter
+    Sinanian, Garry
+    Singer, Merle
+    Singh, Navraj 
+    Skeels, Robert
+    Slavett, Gary
+    Slichta, Stacey
+    Slossberg, Gary
+    Smart, Jeff
+    Smith, Brad
+    Smith, Cliff
+    Smith, Delaney
+    Smith, Faalaniga
+    Smith, Gregory
+    Smith, Greig
+    Smith III, Theodore
+    Smith Jr, Delaney 
+    Snell, Melvin
+    Soboroff, Steven
+    Sodaify , Artin 
+    Solakyan, Sam
+    Somborger, Gary
+    Song, Gary
+    Soos, Emery
+    Soriano , Roberto
+    Sornborger, Gary
+    Sozahdah, Jamila 
+    Spikell, Stephanie
+    Spishak, John
+    Spry, Omar
+    Sripipat, Pashree
+    Stachowiak, Robert
+    Stark, DeWayne
+    Stein, Ted
+    Stephens, Keith
+    Stewart, James
+    Stone, Terry
+    Stotzer, Bea
+    Stout, Marilyn
+    Strassman, Marc
+    Stroncak, Dan
+    Stryer, Michael
+    Sugarman, James
+    Suh, Scott
+    Summer, Adam
+    Summers, James
+    Sutton, Frederick
+    Svonkin, Scott
+    Svorinich Jr., Rudy
+    Szabo, Matt
+    Tavelman, Frank
+    Tayes, Walter
+    Terrazas, Conrado
+    Terrell, Leo
+    Teuber, Gordon
+    Thomas, Andrew 
+    Thompson, James
+    Thompson, Kim
+    Tijerina, Jamie
+    Tinson, Nicole
+    Tirado, Juan
+    Tirado, Mark
+    Tobias, Sheldon
+    Toeque, Sieh-Nimley
+    Tokofsky, David
+    Toney, Jeffrey
+    Topaloff, Jim
+    Torossian , Karo
+    Torrero, Jesse
+    Torres, Barbara
+    Torres, Kathryn 
+    Torres, Marina
+    Torres, Pedro
+    Torres, Ricardo
+    Torres, Steven "Stevan"
+    Trank, Tamara
+    Trinidad, Elson
+    Tristan, Richard
+    Trujillo, Christopher
+    Trutanich, Carmen
+    Tsangares, William
+    Tsurif, Daniel
+    Tur, Robert
+    Turner, Gordon
+    Tuttle, Rick
+    Tweet, David
+    Underhill , Jason 
+    Urrutia, Alfredo
+    User, Test
+    Vafakhah, Mohammad
+    Vahedi, David
+    Valdez, David
+    Valdez, Richard
+    Valencia, Nestor
+    Valenzuela, Israel
+    Van Mater, Jacob (Alestar)
+    Vanderford, Gene
+    Vasquez, Aura 
+    Vasquez, Dulce 
+    Vazquez, Isabel
+    Veal, Ben
+    Veincentotzs, Marilyn
+    Velazquez, Felipe
+    Veres, Steve 
+    Viereck, Victor
+    Villaraigosa, Antonio
+    Vinson, Robert
+    Vladovic, Richard
+    Volotzky, Lucie
+    Wachs, Joel
+    Wade-Catena, Andrea 
+    Waleko, Derek
+    Walker, John M.
+    Walker, John T.
+    Walker, Michelle
+    Walters, Rita
+    Wang, Jerry
+    Washington, Carl
+    Watkins, Bill
+    Weaver, Timothy
+    Webb, Steven
+    Wehbe, Ferris
+    Weiss, Jack
+    Weiss, Noel
+    Wesson, Herb
+    Weston, James
+    Weyenberg, Eric
+    White, Joey
+    White, Lehi
+    Whitehead, Paul
+    Whitehead, Samuel Paul
+    Whitfield-Azboy, Christine
+    Wickland, Eric
+    Wildman, Scott
+    Williams, Deron
+    Williams, Ethel
+    Williams, Johnathan
+    Williams, Warren
+    Wilson, Harry
+    Wilson, Jayme
+    Wilson, Mel
+    Winslow, Oscar
+    Winters, Sylvia
+    Wolf, Brian
+    Woo, Michael
+    Wood, Curtis
+    Woodruff, Nancy
+    Woods, Denise
+    Wright, Roderick
+    Wyatt, Bill
+    Yamauchi, Richard
+    Yanez, Arnulfo
+    Yeager, Joshua
+    Yebri, Sam
+    Yoo, Grace
+    Young, Caprice
+    Young, Rick
+    Young Yaroslavsky, Katy 
+    Zamora, Raquel 
+    Zarrinam, Jeff
+    Zeise-Oberstein, Serena
+    Zide, Bill
+    Zimmer, Steve
+    Zine, Dennis
+    Zinone, Gregory
+    Zuniga, Iris
+    Zuurveen, Gloria
+	16-Repeal Proposition 209 Affirmative Action Amendment  
+	19-Property Tax Transfers, Exemptions, and Revenue for Wildfire Agencies and Counties Amendment 
+	RR-School Upgrades and Safety Measure 
+	EE-Quality Teacher, Class Size Reduction, and Local School Safety Measure 
+	B-Municipal Financial Institution 
+	E-Realign City and State Election Dates 
+	EE-Realign Los Angeles Unified School District (LAUSD) and State Election Dates. Charter Amendment EE 
+	C-CIVILIAN REVIEW OF POLICE DISCIPLINARY MATTERS. CHARTER AMENDMENT C 
+	M-Cannabis Regulation After Citizen Input, Taxation and Enforcement 
+	N-Cannabis Activity Permits, Regulation and Taxation 
+	P-Maximum Term of Harbor Department Leases 
+	S-Building Moratorium; Restrictions on General Plan Amendments; Required Review of General Plan 
+	HHH-Homelessness Reduction and Prevention Housing, and Facilities Bond Issue 
+	JJJ-Affordable Housing and Labor Standards Initiative 
+	RRR-Department of Water and Power Governance Charter Amendment 
+	1-New City Election Dates and Schedules; One-Time Adjustment to Align Terms with New Election Dates by 2020 
+	2-New Election Dates and Schedules for the Los Angeles Unified School District (LAUSD); One-Time Adjustment to Align Terms with New Election Dates by 2020  
+	A-Neighborhood Public Safety and Vital City Services Funding and Accountability Measure 
+	C-Citizens United 
+	D-Medical Marijuana Regulation and Taxation 
+	E-Marijuana Dispensaries 
+	F-Marijuana Dispensaries 
+	H-Contract Bidder Campaign Contribution and Fundraising Restrictions; Campaign Trust Fund 
+	I-DWP Office of Accountability; Ratepayer Advocate 
+	J-DWP Submission of Preliminary Budget to City Council; Procedures for Surplus Transfers to City Reserve Fund 
+	L-Los Angeles Public Library Funding 
+	M-Taxation of Medical Marijuana Collectives 
+	O-Los Angeles Oil Production Tax 
+	P-Los Angeles Emergency Reserve Fund 
+	E-LAUSD Bond Measure 
+	A-Fire Department Independent Assessor 
+	B-Solar Power Measure 
+	C-Dependent Children of Fire &amp; Police Survivor Benefit 
+	D-Survivor Benefit Purchase Program 
+	E-Economic Incentives for Business Development 
+	A-City of Los Angeles Special Gang and Youth Violence Prevention, After-School and Job Training Program Tax 
+	Q-Safe, Healthy Neighborhood Schools Measure 
+	S-Reduction of Tax Rate and Modernization of Communication Users Tax 
+	L-LAUSD Ethics &amp; Campaign Reform 
+	74 &amp; 75-Props for Pub Schools Teachers &amp; Pub Emp Union 
+	H-Affordable Housing General Obligation Bonds -- Cit 
+	R-Councilmember Term Limits of Three Terms; City Lob 
+	1-Charter Amendment 1, City of L.A. - Police/Fire Pe 
+	A-City Airports Security &amp; Law Enforcement Charter A 
+	A-Citizens for More Police in Our Communities 
+	O-Clean Beaches &amp; Water 
+	R-Funding to build and repair schools in LAUSD [2004 
+	F&amp;H-Valley and Hollywood Secession 
+	K-School Bond Measure 
+	EE-Exposition Park Improvements 
+	1-Charter Amendment 
+	4-Charter Amendment 
+	BB-School Modernization 
+ Contributor 	
+		/* When stacked responsive, change padding back to boostrap default */
+        @media (max-width: 767px) {
+			.lastnamediv {
+				padding-right:15px !important;
+			}
+			.firstnamediv {
+				padding-left:15px !important;
+			}
+        }
+			.checkmark {margin:0px 5px 0px 10px !important;}
+			#C5f820f57f2371 .checkmark { 
+				background-color:#f3f3f3 !important;
+				height:14px;
+				width:14px;
+				}
+					#C5f820f57f2371 .chkboxcontainer input:checked ~ .checkmark {
+				background-color: #f3f3f3 !important;
+				}
+					#C5f820f57f2371 .chkboxcontainer .checkmark:after {
+				border: solid #0fa7cd !important; 
+				left: 4px !important; 
+				top: 2px !important; 
+  				border-width: 0 3px 3px 0 !important;
+				}
+		Also Search Employers and Intermediaries        
+        More Options 
+        Less Options  
+     Election 
+    Date Range
+Select Election Cycle 
+    2022 City and LAUSD Elections
+    2020 City and LAUSD Elections
+    2019 LAUSD Ballot Measure
+    2019 CD 12 Special Election
+    2019 LAUSD District 5 Special Election
+    2018 City Ballot Measures
+    2017 City and LAUSD Elections
+    2015 City and LAUSD Elections
+    2014 LAUSD District 1 Special Election
+    2013 CD 6 Special Election
+    2013 City and LAUSD Elections
+    2011 CD 15 Special Election
+    2011 City and LAUSD Elections
+    2009 CD 2 Special Election
+    2009 City and LAUSD Elections
+    2007 LAUSD Election
+    2007 City Election
+    2006 SBD2 Special LAUSD Election
+    2005 CD10/14 Special Election
+    2005 LAUSD Election
+    2005 City Election
+    2003 City Election
+    2003 LAUSD Election
+    2001/2 CD2 Special Election
+    2001 CD4 Special Election
+    2001 City Election
+             Aarons, Brad:
+					Brad Aarons for City Council 2017 
+             Abboud, Megan :
+					Abboud for City Council District 10 2020 
+             Abegglen, Randall:
+					1353617 - Randall Abegglen 4 Mayor 2013 
+             Abrams, Scott:
+					1414946 - Scott Abrams for City Council 2019 
+             Alaniz, Elaine:
+					Elaine Alaniz for City Council 2022 
+             Alarcon, Richard:
+					1317912 - Alarcon for Assembly 2012 
+					1292758 - Richard Alarcon Officeholder Account 
+					1292758 - Legal Defense Fund - Residency 
+             Alatorre, Richard:
+					890877 - FPPC Matter 
+					890877 - L.A. City Ethics Matter 
+					890877 - Pending Investigation 
+					890877 - Alatorre City Council Fund 
+             Alcaraz, Monica:
+					Alcaraz for City Council 2020 
+             Aldana, Manuel:
+					No Committee Name/ID
+					Aldana For School Board 2017 
+             Alexander, Stanley:
+					Committee to Elect Alexander for Mayor 2013 
+             Alexander, Stanley:
+					1414459 - Committee to Elect Deacon Alexander for City Council 2020 
+             Alfaro, Nelson:
+					Alfaro for City Council District 13th 2017 
+             Allen, James:
+					Allen for Council District 15-2017 
+             Alnajjar , Asaad:
+					1422101 - Asaad Alnajjar for City Council 2020 
+             Alva, Lisa:
+					1392799 - Committee to Elect Lisa Alva to School Board 2017 
+             Alvarez, Carlos:
+					No Committee Name/ID
+             Alvarez, Erika:
+					1414108 - Erika Alvarez for Los Angeles Unified School District 2019 
+             Amador, Carlos:
+					1414964 - Carlos Amador for City Council 2019 
+					1414441 - Carlos Amador for City Council 2020 
+             Amaya, Miguel:
+					Miguel Amaya for District 1 
+             Amori, Paul:
+					1392164 - Amori 4 Mayor 2017 
+             Anderson, Bobbie :
+					1361721 - Bobbie Jean Anderson for City Council 2015 
+             Anderson, Euna:
+					1373736 - Anderson for LAUSD 7 2015 
+             Aniolek, Gregg:
+					No Committee Name/ID
+             Antonino, Edward:
+					Ed Antonino for Council 2020 
+             Arceo, Crystal:
+					1279514 - Arceo 2005 
+             Arevalo, Juanita:
+					No Committee Name/ID
+					Arevalo School Board District 6 2017 
+             Arnold, Caney:
+					1393423 - Caney Arnold for City Council 2017 
+             Ashe, Chris:
+					Chris Ashe for LA Council District 13 
+             Aubrey, Martin:
+					No Committee Name/ID
+             Aula, Jason:
+					Aula for City Council 2019 
+             Austin, Ben:
+					1313441 - Ben Austin for School Board 
+             Avalos , Maria del Pilar :
+					1423149 - Avalos for LAUSD School Board 2020 
+             Ayala, Olga:
+					1388584 - Friends of Olga Ayala for City Council 2017 
+             Badger, Elizabeth:
+					1415327  - Elizabeth Badger for LAUSD School Board - 2020 
+					1366372 - Elizabeth Badger for LAUSD School Board 2015 
+             Bailey, Glenn:
+					1245819 - Friends of Glenn Bailey 
+					No Committee Name/ID
+             Bajracharya, Allison:
+					1412699 - Allison Bajracharya for School Board 2019 
+             Baker, Jerry:
+					1353703 - Jerry Baker for School Board 2013 
+             Balen, David:
+					Elect David F. Balen for City Council 2015 
+					David Balen for City Council 2019 
+             Balin, Melissa:
+					No Committee Name/ID
+             Baltierrez-Fernandez, Joanne:
+					Joanne Baltierrez-Fernandez for LAUSD 2017 
+             Bannister, Tara:
+					1360477 - Tara Bannister for LA City Council 2015 
+             Bannister, Walter:
+					Bannister 2005 
+					Bannister 2013 
+             Bannister, Walter:
+					Bannister 2017 
+					Bannister 4 School Board 2017 
+             Barnett, Daniel:
+					1327361 - Daniel Klinton Barnett for Los Angeles City Council 2011 
+             Barr, Steve :
+					1386872 - Steve Barr for Mayor 2017 
+             Barron, David:
+					1389906 - Barron for City Council 2017 
+					1351703 - Barron for City Council 2013 
+					1325951 - Barron for City Council 2011 
+             Barton, Luca :
+					1387052 - US and Luca Barton for Council 2017 
+             Basler, Molly :
+					Molly Basler for City Council 2022 
+             Bastian, Hal :
+					1421873 - Hal Bastian for City Council 2020 
+             Batie , Michael :
+					Michael Batie for School Board District 1 2020 
+             Beatty, Shakana :
+					Beatty for City Council 2017 District 13 
+             Becerra, Franki:
+					Franki Becerra for City Council 2017 
+             Beeber, Jay :
+					1416048 - Jay Beeber for City Council 2019 
+             Bell, Dajuan :
+					Dajuan Bell for City Council 2020 
+             Benedetto, Michael :
+					Benedetto City Council District 12 2019 
+             Benitez, Ricardo:
+					1392431 - Ricardo Benitez for City Council District 7 2017 
+             Benson, Mary:
+					Benson for City Council 2009 
+             Beres, Judy:
+					1278670 - Committee Supporting Judy Beres for City Council 
+             Bernal, Benito:
+					1421141 - Committee to Elect Benito Benny Bernal for City Council 2020 
+             Bernal, Benny :
+					1392660 - Benny Bernal for City Council 2017 
+             Bigelow, Lynette:
+					No Committee Name/ID
+             Bleich, Adeena:
+					1306902 - Adeena Bleich for City Council 2009 
+             Bloom, David:
+					David Bloom for City Council 2020 
+             Blumenfield, Bob:
+					1379872 - Bob Blumenfield For City Council 2017 
+					1358999 - Bob Blumenfield for City Council 2013 - Officeholder Account 
+             Boen, Barry :
+					1415897 - Boen Villa for Council 2020 
+					1392170 - Boen Villa for Council 2017 
+             Bolin, Pamela:
+					Bolin for City Council 2019 
+             Bonin, Mike:
+					1379818 - Mike Bonin for City Council 2017 
+					1352608 - Mike Bonin for City Council 2013 
+					1352608 - Mike Bonin for City Council 2013 Officeholder Account 
+					Mike Bonin for City Council 2022 
+             Bornstein, Jeff:
+					1313871 - Jeff Bornstein for City Council 2009 
+             Bostick, Odysseus:
+					1349917 - Bostick for Los Angeles City Council 2013 
+             Bradford, Silke :
+					1416564 - Silke Bradford for School Board 2020 
+             Brasfield, John :
+					1420962 - John Brasfield for School Board 2020 
+             Bray-Ali, Josef:
+					1395281 - Bray-Ali for City Council 2017-General 
+					1385549 - Josef Bray-Ali for City Council 2017 
+             Brimmer, Justin:
+					1339967 - Brimmer for Council 2011 
+             Brothers , Lee:
+					Brothers for City Council 2020 
+             Brown, Chris:
+					1333406 - Chris Brown for City Council 2011 
+             Brown, Najmah:
+					Brown for Mayor 2022 
+             Brown, Stephen:
+					Committee To Elect Down Town Stephen Brown 
+             Bryant, Cheyenne:
+					1393222 - Cheyenne Bryant for Los Angeles City Council District 15 2017 
+             Buelna, Gabriel:
+					1332755 - Buelna 4 Kids, LAUSD School Board 2011 
+             Buelna, Pilar:
+					1333834 - Pilar Buelna 4 School Board 2011 
+             Buffington, Sean:
+					Buffington For City Council 2017 
+             Burrell, Mario:
+					Burrell for School Board 2015 
+             Buscaino, Joe:
+					1379820 - Joe Buscaino for City Council 2017 
+					1342959 - Joe Buscaino for City Council, General, 2011 
+					1342959 - Joe Buscaino for City Council, 2011, Officeholder 
+					1340009 - Joe Buscaino for City Council 2011 
+					Joe Buscaino for City Council 2022 
+             Busch, Gerald:
+					No Committee Name/ID
+             Cabrera, Adriana:
+					1397631 - Adriana Cabrera for LA City Council District 9 2017 
+             Cage-Barile, Lady:
+					Lady Cage-Barile for LAUSD 2014 
+             Cahan-Davis , Lisa:
+					Lisa Cahan-Davis for City Council 2020 
+             Cain, David:
+					1301945 - David Cain 
+             Campbell, John Sandy:
+					1422851 - John Sandy Campbell for LAUSD Board 2020 
+             Campos , Edgar :
+					1418323 - Edgar Campos For School Board 2020 
+             Canchola, Cris:
+					1341454 - Canchola for City Council 2013 
+             Cano, Maria:
+					1351710 - Maria Cano for School Board 2013 
+             Cardenas, Tony:
+					C00498873 - Tony Cardenas for Congress 
+					1243910 - Committee to Elect Tony Cardenas 
+             Carranza, Margie:
+					1397108 - Margie Margarita Carranza for City Council #7 2017 
+					No Committee Name/ID
+             Carrillo, Randy:
+					No Committee Name/ID
+					No Committee Name/ID
+             Castellanos , Patricia :
+					1425972 - Castellanos for School Board 2020 - General 
+					1420623 - Castellanos for School Board 2020 
+             Castillo, Jose:
+					Families for Jose G Castillo for LA City Council 2017 
+             Cedillo, Gilbert:
+					1423634 - Councilmember Gil Cedillo Legal Defense Fund 
+					1395362 - Cedillo for City Council General 2017 
+					1380250 - Cedillo for City Council 2017 
+					1360884 - Councilmember Cedillo Officeholder Account 2013 
+					1356121 - Cedillo for City Council General 2013 
+					1342270 - Cedillo for City Council 2013 
+					Cedillo for City Council 2022 
+             Chase, Nicole:
+					1390270 - Chase for Los Angeles City Council 2017 
+					1350036 - Chase for Los Angeles City Council 2013 
+             Chatman, Kelley:
+					No Committee Name/ID
+             Chavarria, Carlos :
+					Chavarria for City Council District 7 2017 
+             Chavez, Julian:
+					1346599 - Julian J Chavez for City Council 2013 
+             Chavez, Mario:
+					1368128 - Mario Chavez for L.A. City Council 2015 
+             Chavez Zbur, Rick :
+					1426334 - Rick Chavez Zbur for City Attorney 2022 
+             Chi-Young , Ian :
+					Ian Chi-Young for L.A City Council 2020 
+             Chick, Laura:
+					931164 - Controller Laura Chick Officeholder Committee 
+             Cho, Annie:
+					1414909 - Annie Cho for City Council 2019 Special 
+             Cho, Chuck :
+					Chuck for Mayor 
+             Choi, John:
+					1356058 - John Choi for City Council 2013 - General 
+					1348095 - John Choi for City Council 2013 
+             Christie , Eric :
+					Christie for City Council 2020 
+             Cisneros , Eduardo:
+					1413741 - Eduardo Cisneros for LAUSD 2019 
+             Clark, Krystee:
+					1353615 - Krystee Clark for City Council 2013 
+					Krystee Clark for City Council 2017 
+             Cody, Scott:
+					Cody 4 LAUSD 
+             Cole, Robert:
+					1364250 - Robert Cole for City Council 2015 
+					1238827 - Cole for City Council 
+             Collins, Kevin:
+					1334162 - Friends of Kevin M. Collins for LAUSD 2011 
+             Collins, Susan :
+					1419960 - Collins for City Council 2020 
+             Connell, Kathleen:
+					1281737 - Kathleen Connell for Mayor 
+             Constantino, Rebecca:
+					Pending - Pending 
+             Contreras, Mark:
+					No Committee Name/ID
+					Vote Mark Contreras for L.A. City Council 2011 
+             Corado , Albert:
+					Albert Corado for City Council 2022 
+             Cortez Le, Madeline:
+					Madeline Cortez Le for City Controller 2022 
+             Corwin, Bonnie:
+					1392136 - Committee to Elect Bonnie Corwin City Council District 7, 2017 
+             Crawford, Scott:
+					1343097 - Scott Crawford for City Council 2013 
+             Creed, Jesse:
+					1385588 - Creed for Council 2017 
+             Crisell, Theodore:
+					1343813 - Ted Crisell for L.A. Mayor 2013 
+					Crisell For Mayor 
+             Croswhite, Terri:
+					Committee to Elect Terri Croswhite for Council District 7 
+             Cubas, Ana:
+					1414038 - Ana Cubas for School Board District 5 - 2019 
+					1356125 - Ana Cubas for City Council 2013 - General 
+					1347814 - Ana Cubas for Los Angeles City Council District 9 2013 
+             Cuevas, Ricardo:
+					Cuevas for Kids 
+             Cunningham, David:
+					Cunningham for LA City Council 2022 
+             Daar, Jeffery:
+					1415045 - Jeff Daar For City Council 2019 
+             Darian, Bruce:
+					1296555 - Bruce Darian for Mayor 2009 
+					1273448 - Bruce Harry Darian for Mayor Committee 
+             David , Jackie :
+					Jackie David Council District 7 Campaign Committee 2017 
+             Davis, Michael "Mike":
+					1342584 - Mike Davis for City Council 2013 
+             Davis, Teddy:
+					1361392 - Teddy Davis for LA City Council 2015 
+             Dawson, Jace:
+					Jace Dawson for City Council 2020 
+             de Buonaparte, Caesar:
+					The Get Even With the State, Federal and Local Level Committee 
+             De la Torre, David:
+					1393229 - David De la Torre for Council District 13 2017 
+             de Leon, Kevin:
+					1415916 - Kevin de Leon for City Council 2020 
+					1415916 - Kevin de Leon for City Council 2020 - Officeholder Committee 
+             De Ocampo, Alexander:
+					1347880 - Alex De Ocampo for LA City Council 2013 
+             De Vera, Ruby:
+					1281290 - De Vera for City Council 
+             Delgadillo, Rockard:
+					1237585 - Rockard J Delgadillo Officeholder Account 
+					1237585 - Rockard J. Delgadillo Legal Defense Fund 
+					1237585 - Rockard J. Delgadillo Legal Defense Fund CEC Case No. 06-08 
+					1237585 - Rockard J Delgadillo Legal Defense Fund - Potential CEC Inquiry (2007) 
+             Delgado, John:
+					No Committee Name/ID
+             Dimov, Jim:
+					Pending - Jim Dimov for Mayor 
+             Dinse, Charles:
+					1416153 - Sean Dinse for LA City Council 2019 
+             Dole, Carlton:
+					Dole for Mayor 2013 
+             Dragon, Austin:
+					1326160 - Austin Dragon for City Council 2011 
+             Draiman, YJ:
+					1392197 - YJ Draiman for Mayor 2017 
+					1337783 - YJ Draiman for Mayor 2013 
+					1333253 - YJ Draiman for City Council 2011 
+             Dryden, Maria:
+					Maria Dryden for City Council 2017 
+             Dunnigan, Vivianna:
+					Dunnigan for City Council 2020 
+             Duran , Christina :
+					1422206 - Duran for School Board 2020 
+             Eastman, Richard:
+					1353492 - Richard Eastman for L.A. City Council District 13 2013 
+             Ebenstein , Jeff:
+					Jeff Ebenstein for City Council 2022 
+             Ehsani, Arash "Asher":
+					Ehsani for City Council 2012 
+             Ena , Hidemi :
+					Ena for City Council 2020 
+             Englander, Mitchell:
+					1377028 - Mitchell Englander for Supervisor 2016 
+					1321061 - Mitchell Englander for City Council 2011 
+					1321061 - Mitch Englander Officeholder 
+             Enright , Sean :
+					Enright for Mayor LA 2022 
+             Escandon, Jesus:
+					1334568 - Amigos of Jesus Escandon for School Board 7 - 2011 
+					1290583 - Friends of Jesus Escandon for School Board 
+             Escobar, Walter:
+					1356590 - Walter Escobar for LA City Council 2013 
+             Espinoza, Adolfo:
+					Elect Adolfo Espinoza for Controller 2017 
+             Essel, Christine:
+					1318649 - Chris Essel for City Council 2009 
+             Evans, Kathleen:
+					1313014 - Evans for Controller 
+             Evans, Mervin:
+					1328114 - Evans 2011 - Mervin Evans for City Council 2011 
+					1313010 - Evans for City Controller 
+					1307513 - Evans 2009 Community People 
+					MervPac-Evans for Council 2015 
+             Ewing, David:
+					Ewing for Council District 11, 2017 
+             Fer, John:
+					1265507 - John Fer For City Council 
+             Ferry, Frank:
+					1414921 - Frank Ferry for City Council 2019 
+             Feuer, Michael:
+					1425766 - Mike Feuer for Mayor 2022 
+					1376383 - Re-Elect Mike Feuer City Attorney 2017 
+					1358890 - Mike Feuer City Attorney Officeholder Account 2013 
+					1356553 - Mike Feuer Legal Defense Fund for Case #BC504238 and any related actions 
+					1356028 - Mike Feuer for City Attorney 2013 - General 
+             Flanagan, Timothy:
+					No Committee Name/ID
+             Flores, Fred :
+					1393251 - Fred Flores for City Council 2017 
+             Flowers, Michael:
+					Flowers for L.A. City Council District #5, 2017 
+             Folsom, Scott:
+					No Committee Name/ID
+					No Committee Name/ID
+             Fonseca, Roberto:
+					Fonseca for LAUSD School Board 2011 
+             Formica, Stefano:
+					1347533 - Formica for City Council District 13 in 2013 
+             Foulks, Deborah:
+					Pending - Friends for Foulks 
+             Fowler, Dallas:
+					1418312 - FOWLER FOR CITY COUNCIL 2020 
+             Fowlkes , Dentis :
+					1419645 - Dentis Fowlkes for LA City Council 2020 
+             Franklin, Tanya:
+					1426064 - Tanya Ortiz Franklin for School Board 2020-General 
+					1420353 - Tanya Ortiz Franklin for School Board 2020 
+             Frierson, Ron:
+					Frierson for City Council 11 2017 
+             Fuchs, Derek:
+					Fuchs for City Council 2017 
+					Fuchs for City Councilman 2013 
+             Fuentes, Felipe:
+					1341544 - Felipe Fuentes for City Council 2013 
+					1341544 - Felipe Fuentes for City Council 2013 Officeholder Account 
+					1313818 - Fuentes for Assembly 2010 
+             Galatzan, Tamar:
+					1376054 - Tamar Galatzan for School Board 2015 - General 
+					1366735 - Tamar Galatzan for School Board 2015 
+             Galaz, Donald:
+					Galaz for CD15 2017 
+             Gallardo, Fidencio:
+					1413143 - Gallardo for School Board 2019 
+             Gallo, Antonio:
+					1278657 - Antonio Gallo for CD 14 
+             Galperin, Ron:
+					1378763 - Ron Galperin For City Controller 2017 
+					1359761 - Controller Ron Galperin Officeholder Account 2013 
+					1356060 - Ron Galperin for L.A. City Controller 2013 General 
+					1342754 - Ron Galperin for L.A. City Controller 2013 
+					1302417 - Ron Galperin for City Council 
+             Garcetti, Eric:
+					1376009 - Garcetti for Mayor 2017 
+					1356062 - Garcetti for Mayor 2013 - General 
+					1341339 - Garcetti for Mayor 2013 
+					1304681 - Garcetti for Council 2009 
+					1234351 - Friends of Eric Garcetti Officeholder 
+             Garcia, Daniel :
+					Daniel Garcia for City Council 2015 
+					Daniel W. Garcia for City Council 2019 
+             Garcia, Eleanor:
+					Garcia for School Board 2013 
+             Garcia, Eleanor:
+					Garcia for Mayor 2017 
+             Garcia, Jose Roy:
+					1355547 - J. Roy Garcia for City Council #6 2013 
+             Garcia, Monica:
+					1421982 - Monica Garcia for School Board 2017 Officeholder Account 
+					1416393 - Monica Garcia for City Council 2020 
+					1382927 - Monica Garcia for School Board 2017 
+					1346436 - Monica Garcia for School Board 2013 
+					1302170 - Friends of Monica Garcia 2009 
+             Garcia, Nathaniel:
+					No Committee Name/ID
+             Gardea, Jose:
+					1356064 - Jose Gardea for Council 2013 - General 
+					1341411 - Jose Gardea for Council 2013 
+             Gardner, Joseph:
+					Friends to Elect Joseph Gardner for Mayor 2013 
+             Garza-Halstead, Laura :
+					Garza for School Board 2019 
+             Genovese, Sal:
+					850209 - Committee to Elect Sal Genovese 
+             Gerrish , Roger:
+					1392535 - Gerrish for City Council 2017 
+             Giaba, Matthew:
+					1385786 - Giaba for Mayor 2017 
+             Gibson, Robert:
+					1391288 - Friends of Gibson for Council District 7 in 2017 
+             Gloria, Jason:
+					1390925 - Jason Gloria for City Council 2017 
+             Glynn, Gavin:
+					City Council District 10 Glynn 2011 
+             Gochez, Ronald:
+					1351654 - Gochez for City Council 2013 
+             Goldberg, Jackie:
+					1417975 - Jackie Goldberg for School Board 2020 
+					1416913 - Jackie Goldberg for School Board 2019-Runoff 
+					1413097 - Jackie Goldberg for School Board 2019-Special 
+             Gomes, Terrence:
+					1386811 - Gomes for City Council 2017 
+             Gomez, Alexander:
+					1222565 - Election Committee for Alexander J Gomez 
+					1222565 - Election Committee for Alexander Gomez 
+             Gonez, Kelly:
+					1395147 - Kelly Gonez for School Board 2017 - General 
+					1395147 - Kelly Gonez for School Board 2017 Officeholder 
+					1391809 - Kelly Gonez for School Board 2017 
+					Kelly Gonez for School Board 2022 
+             Gonzales, Paul:
+					1277567 - Friends of Paul Gonzales 
+             Gonzalez, Cynthia:
+					1412351 - Dr. Cynthia Gonzalez for School Board 2019 
+					Dr. Gonzalez for Los Angeles College Board 2020 
+             Gonzalez, David:
+					David Manuel Gonzalez for City Council 
+             Gonzalez, Filiberto :
+					1372323 - Gonzalez for School Board 2015 
+             Gonzalez , Jose Luis :
+					Jose Luis Gonzalez For City Council District 12 2019 
+					Jose Luis Gonzalez For City Council 2020 
+             Gonzalez, Justine:
+					1414729 - Justine Gonzalez for LAUSD 2019 
+             Goodman, Rich:
+					1333973 - Friends to Elect Goodman for LA City Council 2011 
+             Gould, Noel:
+					1393652 - Noel Gould for City Council 2017 
+             Grace, Brandii:
+					Grace for City Council 2020 
+					Grace for City Council 2019 Special 
+             Graham, Candice:
+					Candice Graham for City Council 2011 
+             Grand, Tracy:
+					Grand for School Board 2017 
+             Grande, Ana:
+					1349181 - Ana Grande for City Council 2013 
+             Grande, Frank:
+					People for the Election of Frank Grande LA City City Council District 5 2013 
+             Greene, David:
+					1340303 - Go Greene Los Angeles City Council 15 2011 
+             Greuel, Wendy:
+					1356050 - Wendy Greuel for Mayor 2013 - General 
+					1337185 - Wendy Greuel for Mayor 2013 
+					1298088 - Wendy Greuel for Controller 
+					1237261 - Wendy Greuel for City Council 
+					1237261 - City Controller Wendy Greuel's Officeholder Committee 
+					Wendy Greuel for City Council 2003 
+             Grochoske, Jana:
+					Grochoske for Council 202 
+             Gutierrez, Eduardo:
+					Gutierrez for City Council 6 2011 
+             Gutierrez, Lydia:
+					1422967 - Lydia Gutierrez for School Board 2020 
+					1376400 - Lydia Gutierrez for LAUSD School Board 2015-General 
+					1373583 - Lydia Gutierrez for School Board 2015 
+             Hahn, Janice:
+					991865 - Hahn for City Council 
+					Janice Hahn for Congress 
+					Janice Hahn Lieutenant Governor Committee 
+             Haines, Douglas:
+					Committee to Elect Doug Haines for Council District 13 in 2017 
+             Hale, O'Dell:
+					1387434 - O'Dell Hale III for City Council 2017 
+             Hall, Milton :
+					Hall for City Council District 10 2020 
+             Haller, William :
+					Haller for City Council 2020 
+             Hancock, Holly :
+					Hancock for City Council 2020 
+             Hara, Terry:
+					1345570 - Terry Hara for City Council 2013 
+             Hardine, Keith:
+					1312380 - Committee to Elect Keith Hardine 
+             Harman, Diane:
+					1391429 - Harman for Mayor of Los Angeles 2017 
+             Harris, James:
+					No Committee Name/ID
+             Harris-Dawson, Marqueece:
+					1410980 - Harris-Dawson for City Council 2020 
+					1360402 - Harris-Dawson for City Council 2015 
+					1360402 - Harris-Dawson for City Council 2015 Officeholder 
+             Hayes, Genethia:
+					1363009 - Genethia Hudley-Hayes for School Board 2014 
+             Haynes, William:
+					Haynes for Mayor with Love 2017 
+             Healey, Laurette:
+					Pending 
+             Heckmann, Brian:
+					1278637 - Brian Heckmann for City Council 
+             Henderson, Nichelle:
+					1416375 - HENDERSON FOR LAUSD BOARD 2020 
+             Henderson, Toni:
+					Toni Herderson for School Board 2020 
+             Herd, Mark:
+					Herd for City Council 2017 
+					Herd for City Council 2013 
+             Hernandez, David:
+					1386845 - David Hernandez for Mayor 2017 
+					1360435 - David HERNANDEZ FOR LA CITY COUNCIL 2015 
+             Hernandez, Giovany:
+					1390935 - Giovany Hernandez for City Council 2017 
+             Herrarte, Melissa:
+					Herrarte for LAUSD Board of Education District 6 2017 
+             Herrera, Jaime :
+					1391225 - Jaime Herrera for City Council 2017 
+             Higginson , John :
+					1384070 - Johnny Higginson for City Council 2017 
+             Hill, Joey :
+					1363553 - Joey Hill for City Council 2015 
+             Hill, Katrina:
+					No Committee Name/ID
+             Hillman, Kenneth:
+					1220651 - Ken Hillman for City Council 
+             Hirt, Michael:
+					No Committee Name/ID
+             Hogan-Rowles, Forescee:
+					1365753 - Hogan-Rowles L.A. City Council 2015 
+             Holden, Nate:
+					744182 - Nate Holden Campaign Committee 
+             Hopper, Michael:
+					No Committee Name/ID
+             Horst, Jennifer:
+					No Committee Name/ID
+					No Committee Name/ID
+             Huguez, Freddie :
+					Huguez for City Council 2020 
+             Huizar, Jose:
+					1360239 - Huizar for LA City Council 2015 
+					1277167 - Huizar Officeholder Account 
+					1277167 - Huizar LDF - CEC Matter 08-06 
+					1277167 - Huizar LDF - CEC Matter 08-08 
+					1277167 - Huizar LDF - 2009 (USAO Inquiry regarding VIP) 
+					1277167 - Huizar LDF (CEC Case No. 2012-01) 
+					1231785 - Jose Huizar for School Board 
+             Huizar, Richelle:
+					1411484 - Richelle Huizar for City Council 2020 
+             Iaccino, Cary:
+					1342781 - Cary Iaccino for Council 2013 
+             Irani, Sheila:
+					1362985 - Sheila Irani For LA City Council 2015 
+             Jackson, Charles:
+					Jackson for CD-4 2015 
+					No Committee Name/ID
+             Jackson, Matt:
+					1310539 - Matt Jackson for City Council 2013 
+             Jackson, Mitchell:
+					No Committee Name/ID
+             James, Kevin:
+					1337250 - Kevin James for Mayor 2013 
+             Janossy, Maria:
+					Maria Janossy CD 14 2020 
+             Jasek , Evan :
+					Jasek for Mayor 2022 
+             Jennerjahn, Phil:
+					131447 - Phil Jennerjahn for City Council - 2013 
+					Jennerjahn for City Council 
+             Jimenez, Benjamin Luis:
+					Committee to Elect Benjamin L Jimenez to LAUSD District #5 
+             Jimenez , John :
+					1424887 - Jimenez for City Council District 14 2020 
+             Jimenez, Juan:
+					1293253 - Committee Elect Jimenez Action 
+             Johansson, Wayne:
+					Johansson for City Council 2011 
+             Johnson, Alex:
+					1367317 - Alex Johnson for L.A. School Board 2014-General 
+					1363557 - Alex Johnson for LA School Board 2014 
+             Johnson, Daymond:
+					1363384 - Daymond Johnson 4 Board of Education 
+             Johnson, G Juan:
+					1413039 - 2020 Committee to Elect Johnson for Council District 10 
+					G. JUAN JOHNSON FOR MAYOR 2022 
+             Johnson, Rachel :
+					1364978 - Rachel Johnson for School Board 2014 
+             Johnston, Clarendon :
+					JOHNSTON FOR CITY COUNCIL 2022 
+             Jones, Ayinde:
+					Jones for City Council 2011 
+					Jones for City Council 2020 
+             Jones, Step :
+					Step Jones for L.A. City Council 
+             Jones-Muhammad Clark, Khansa:
+					1419336 - Khansa Jones-Muhammad Clark for City Council 2020 
+             Joseph, Richard:
+					1419730 - Rick Joseph for City Council 2020 
+             Joya, Analilia:
+					1352019 - Joya for City Controller 2013 
+					Joya for City Controller 2017 
+             Jumaane, Jabari:
+					1333054 - Jabari S. Jumaane for City Council 2011 
+             Kapur , Teddy:
+					Teddy Kapur for City Attorney 2022 
+             Kayajian, Jack :
+					1415359 - Jack Kayajian For City Council 2019 
+             Kayser, Bennett:
+					1412368 - Bennett Kayser for School Board 2019 Special 
+					1375891 - Re-Elect Bennett Kayser for School Board 2015 - General 
+					1361502 - Re-Elect Bennett Kayser for School Board 2015 
+             Kbushyan, Sam:
+					1373853 - Sam Kbushyan for L.A Community College 2015 
+					1345483 - Sam Kbushyan for City Council 2013 
+             Keller, Nellie:
+					No Committee Name/ID
+             Kim, Andrew:
+					1334157 - Kim for City Council 2011 
+             Kim , Anne :
+					Kim for City Council 2020 
+             Kim , Shirley :
+					Shirley Kim for LA City Council 2022 
+             Kirk, Chelsea:
+					Chelsea Kirk for City Council 2017 
+             Kirkland, Jonathan:
+					Kirkland for Mayor 2017 
+             Klain, Erich:
+					Erich Klain for L.A. City Council District 2, 2009 
+             Knox, Wally:
+					1363011 - Wally Knox for City Council 2015 
+             Kolodny, Heather:
+					No Committee Name/ID
+             Korenstein, Julie:
+					1266935 - Friends of Julie Korenstein 
+             Koretz, Paul:
+					1425861 - Paul Koretz for Controller 2022 
+					1425386 - Koretz for Los Angeles Democratic Central Committee 2020 
+					1383457 - Koretz for City Council 2017 
+					1346448 - Re-Elect Councilman Koretz 2013 
+					1300860 - Paul Koretz Officeholder 
+             Koziatek, Marilyn :
+					1425913 - Marilyn Koziatek for School Board 2020 General 
+					1421095 - Marilyn Koziatek for School Board 2020 
+             Krekorian, Paul:
+					991477 - Friends of Paul Krekorian 
+					1412738 - Paul Krekorian for City Council 2020 
+					1372814 - Krekorian For City Council 2015 
+					1324553 - Krekorian for City Council 2011 
+					1321819 - Krekorian for City Council 2009 - General 
+					1318897 - Krekorian for City Council 2009 
+					1318897 - Krekorian for City Council 2009 - Officeholder 
+					1313958 - Californians for Paul Krekorian 2010 
+             Kremer, Yuval:
+					1392455 - Yuval Kremer for LA Mayor 2017 
+					No Committee Name/ID
+             Kritzer, David:
+					No Committee Name/ID
+             LaBonge, Tom:
+					1328433 - Councilman Tom LaBonge for City Council 2011 
+					1288503 - Re-Elect Councilman LaBonge 2007 
+					1235209 - LaBonge for City Council 
+					1235209 - Tom LaBonge Officeholder Account 
+             LaMotte, Marguerite:
+					1333183 - LaMotte for School Board 2011 
+             Lansing, Mike:
+					990027 - Mike Lansing Re-Election Committee 
+					1419494 - Mike Lansing for School Board 2020 
+             Lara, Carlos :
+					Carlos Lara for City Council 2017 
+             Larsen, Lily:
+					1418487 - Lily Larsen for Los Angeles City Council 2020 
+             Law, James:
+					1352032 - James T. Law for City Council 2013 
+					Law for LA Mayor 2017 
+					Committee to Elect James T. Law for City Council 2011 
+             Lazo, Jaime :
+					Committee to Elect Jaime Lazo to Dist 7 
+             LeBlanc, Roy :
+					Roy LeBlanc for Mayor 2017 
+             Lee, John:
+					1420547 - John Lee for City Council 2020-Primary 
+					1420547 - John Lee for City Council 2020 Officeholder Account 
+					1419085 - John Lee for City Council 2019-Runoff 
+					1415064 - John Lee for City Council 2019 
+             Levy, Sarah:
+					1410810 - Sarah Kate Levy for City Council 2020 
+             Lewis, Norvell:
+					1344652 - Lewis for City Council District 9 2013 
+             Lewis, Rosemary:
+					No Committee Name/ID
+             Leyner, Richard:
+					1244879 - Richard Leyner for Council District 13 
+             Liew, Sarah :
+					Liew for City Council 2020 
+             Lindblad, Jack:
+					Lindblad for City Council 2015 
+					Lindblad for Council 2011 
+             Lopez, Carlos:
+					Committee to Elect Carlos Lopez For City Council Dist. 6 2011 
+             Lopez, Patty :
+					Lopez for School Board 6, 2017 
+             Lord, Kelly:
+					1332490 - Lord for City Council District 12 2011 
+             Love, Roye:
+					1334694 - Roye Love for LAUSD School Board 
+             Lovingood , Marcus:
+					1419269 - Lovingood for City Council 2020 
+             Lucey, Joseph:
+					1253324 - Elect Joseph Lucey to Los Angeles City Council District #1 
+             Luna Nerio, Sylvia:
+					No Committee Name/ID
+             Lundquist, Loraine:
+					1419061 - Loraine Lundquist for City Council 2019-Runoff 
+					1414927 - Loraine Lundquist for City Council 2019-Special 
+					1413326 - Loraine Lundquist for City Council 2020 
+             Luza, Radomir:
+					No Committee Name/ID 
+					Luza for City Council 2020 
+             Mack, Emile:
+					1346350 - Emile Mack for City Council 2013 
+             Magee, Trudy:
+					Magee for City Council 8 2015 
+             Maggiore, Eileen:
+					No Committee Name/ID
+             Maghsoudi, Jasmine:
+					No Committee Name/ID
+             Mahmood, Helan:
+					Mahmood for Mayor 2022 
+             Maier, John:
+					Maier for Mayor 2017 
+             Maloyan, Stella :
+					1416102 - Stella T. Maloyan for LA City Council 2019 
+             Manigault, Omarosa :
+					1365656 - Omarosa Manigault Board of Education 2014 
+             Manley, Mike:
+					1296913 - Manley 4 Mayor 
+					1292748 - Manley 4 Councilman Campaign 
+					Manley 4 City Council 2011 
+             Manns, Keith:
+					No Committee Name/ID
+             Mariscal, Fred:
+					1366178 - Fred Mariscal for LA City Council 2015 
+             Markham, Gordon:
+					Markham District 13 2017 
+             Markland, Montgomery :
+					Monty Markland for Mayor 2017 
+             Markos, Juan:
+					Juan Markos for Council 2017 
+             Martayan, Gregory :
+					1391482 - Martayan for Los Angeles Unified School Board 2017 
+             Martinez, Alma:
+					No Committee Name/ID
+             Martinez, Channing :
+					1420649 - Channing Martinez for City Council 2020 
+             Martinez, Nury:
+					1413292 - Nury Martinez for City Council 2020 
+					1360441 - Nury Martinez for City Council 2015 
+					1357985 - Nury Martinez for City Council 2013-General 
+					1354456 - Nury Martinez for City Council 2013 
+					1354456 - Nury Martinez for City Council 2013 Officeholder Account 
+             Martinez, Reuben:
+					1348375 - Martinez for City Council 2013 
+             Martinez, Rosa:
+					1248662 - Rosa Martinez for City Council 
+             Martinez, Venessa :
+					1385846 - Venessa Martinez for City Council 2017 
+             Mavar, John:
+					1340357 - John Mavar for City Council 2011 
+             Mays, Malcolm:
+					Mays for Mayor 2013 
+             McAlpine, Ken:
+					1244180 - McAlpine for City Council 
+             McClain, Annette:
+					McClain for School Board 2020 
+             McCowan, Ronnie:
+					No Committee Name/ID
+             McCowen, Keith:
+					MCCowen for L.A. City Council 2015 
+             McCue, Michael:
+					1320273 - Michael McCue for CD 2, 2009 
+             McDowell, Amberly:
+					Amberly McDowell for City Council 2011 
+             McFrazier, Hattie :
+					1363345 - Hattie McFrazier for School Board 2014 
+             McKenna, George :
+					1414568 - George McKenna for School Board 2020 Primary 
+					1414568 - GEORGE MCKENNA FOR SCHOOL BOARD 2020 OFFICEHOLDER ACCOUNT 
+					1369936 - George McKenna for School Board 2015 
+					1369936 - George McKenna for School Board 2015 Officeholder Account 
+					1367415 - George McKenna for School Board 2014 General 
+					1363078 - George McKenna for School Board 2014 
+             McMahon, William:
+					No Committee Name/ID
+					No Committee Name/ID
+					No Committee Name/ID
+					McMahon for School Board 2017 
+             Melendez, Kenneth:
+					No Committee Name/ID
+             Melendez, Rudy:
+					Melendez for Mayor 2017 
+					Rudy Melendez for LA City Council 2020 
+             Melton, Kevin:
+					1289668 - Melton for L.A. City Council 8th District 
+					1243735 - Melton for City Council 8th District 
+             Melvoin, Nicholas :
+					1395130 - Nick Melvoin for School Board 2017 - General 
+					1395130 - Nick Melvoin for School Board 2017 Officeholder Account 
+					1382816 - Nick Melvoin for School Board 2017 
+             Mendoza, Louie :
+					Louie Mendoza -4- City Council Dist. 7 
+             Mendoza, Marco:
+					Marco Mendoza for LAUSD BD 1 
+             Meredith , Christopher :
+					Meredith for School Board 2020 
+             Mico-Quinn, Brian :
+					1417441 - Mico for L.A. City Council 2020 
+             Miele, Kenneth:
+					1231788 - Miele for City Council 
+             Miller, Addie:
+					No Committee Name/ID
+             Miner, Arthur:
+					1393234 - Art Miner for City Council 2017 
+             Moch, David:
+					David E Moch School Board Election Committee 2014 
+             Montanez, Annamarie:
+					1353539 - Montanez for School Board 2013 
+             Montanez, Cindy:
+					1373949 - Families for Cindy Montanez for LA City Council 2015 
+					1358024 - Cindy Montanez for LA City Council 2013 - General 
+					1354210 - Cindy Montanez for LA City Council 2013 
+					1272431 - Families for Cindy Montanez 2006 
+             Montes, Carlos:
+					Carlos Montes for City Council CD14 2015 
+             Montoya, Luis:
+					Montoya for City Council 2011 
+             Moore, Macklin:
+					No Committee Name/ID
+             Moore, Murphy:
+					Murphy Moore for School Board 2011 
+             Moore, Walter:
+					1297003 - Committee to Elect Walter Moore 
+             Morales, Erick:
+					Friends of Erick Morales for LAUSD Board of Education 2015 
+             More, Alfonso :
+					Alfonso More for City Council 2015 
+             Morrison, William:
+					1388574 - William 'Rodriguez' Morrison for Los Angeles Mayor 2017 
+					1343694 - Morrison for City Council 2013 
+					Morrison for City Council District 14 2020 
+					Morrison 4 Mayor 2022 
+             Mosby, Michael:
+					Mosby for City Council 2017 
+             Motto , Berny:
+					1389587 - Berny Motto for LA School Board District 2, 2017 
+             Moulden, Isis:
+					Moulden for City Council 2017 
+             Moylen, Christopher:
+					No Committee Name/ID
+             Muller, Brian:
+					No Committee Name/ID
+             Murai, Miho:
+					Miho Murai for LAUSD School Board 2017 
+             Netkin, Hal:
+					1275692 - Citizens Against Villaraigosa for Mayor 
+             Newbill, Sherlett:
+					1364989 - Sherlett Hendy Newbill for School Board District 1 2014 
+					Sherlett Hendy Newbill for SChool Board District #1 2015 
+             Noel, Alison :
+					2014 Committee to Elect Alison (Alis) LAUSD Board District 1 
+             North, Reed:
+					Reed North Write-in Candidate for Los Angeles City Mayor 2017 
+             Nuno , Jorge :
+					1385755 - Jorge Nuno for City Council 2017 
+             O'Farrell, Mitch:
+					1379888 - Mitch O'Farrell for City Council 2017 
+					1376340 - Councilmember Mitch O'Farrell Legal Defense Fund Account 
+					1360328 - Councilmember O'Farrell Officeholder Account 2013 
+					1356066 - Mitch O'Farrell for LA City Council 2013 - General 
+					1344170 - Mitch O'Farrell for LA City Council 2013 
+					Mitch O'Farrell for City Council 2022 
+             O'Gabhann, James:
+					Elect O'Gabhann for 2015 School Board 
+             O'Gabhann, James:
+					Elect O'Gabhann LAUSD School Board 2019 
+             O'Grady, Tomas:
+					1373570 - Tomas O'Grady for LA City Council 2015 
+             O'Neill, John:
+					1373378 - O'Neill for City Council 2015 
+             Olivas, Joshua:
+					No Committee Name/ID
+             Orellana, Angel :
+					Angel Orellana for City Council District 3 2017 
+             Ortiz, Graciela:
+					1420462 - Graciela Ortiz for Huntington Park City Council 2020 
+					1412509 - Graciela Ortiz for School Board 2019 
+             Otteson, Cyndi:
+					1419024 - Cyndi Otteson for City Council 2020 
+             Padilla, Alex:
+					1373719 - Padilla for Secretary of State 2018 
+					1340348 - Padilla for Secretary of State 2014 
+					1292700 - Padilla for Senate 
+					1278241 - Padilla for Senate 2006 
+             Padilla, Imelda:
+					1395132 - Imelda Padilla for School Board 2017-General 
+					1389749 - Imelda Padilla for School Board 2017 
+             Parker, Petra Ann:
+					No Committee Name/ID
+             Parks, Bernard:
+					1300289 - Parks for Supervisor 
+					1300289 - Bernard Parks for Supervisor 
+					1244698 - Bernard Parks for City Council - Officeholder Account 
+					1244698 - Bernard Parks Legal Defense Fund CEC Case No. 2008-53 
+             Parrish, Frances:
+					No Committee Name/ID
+             Parseghian, Araz:
+					1387989 - Araz Parseghian for School Board 2017 
+             Patel, Ankur:
+					1370605 - A Patel for School Board in 2015 
+					No Committee Name/ID
+             Patsaouras, Nick:
+					1313452 - Nick Patsaouras '09 
+             Paul, Brian:
+					Brian Paul CD11 2017 
+             Pearson, Joyce:
+					1341932 - Pearson for Council District 3 - 2013 
+             Pelico, Joan:
+					1360837 - Pelico for City Council 2015 
+             Penick, Thomas:
+					Penick for City Council 2013 
+             Pereyda, Frank:
+					1340616 - Frank Pereyda Campaign Fund for City Council 2011 
+             Perron, John :
+					1363597 - John Perron for LA City Council District 4 2015 
+             Perry, Jan:
+					1337352 - Jan Perry for Mayor 2013 
+					1300973 - Re-Elect Jan Perry for City Council 2009 
+					1223341 - Jan Perry for Council District 9 
+             Perry, Richard:
+					No Committee Name/ID
+             Perry , Tara:
+					1423143 - Perry for City Council 2020 
+             Pescador, Octavio:
+					1348941 - Dr. Octavio Pescador for City Council 2013 
+             Petersen, Carl:
+					1384794 - Carl J. Petersen for LAUSD School Board 2017 
+             Pierre, Frantz:
+					1382823 - Frantz Pierre for Mayor 2017 
+             Pleitez, Emanuel:
+					1348462 - Emanuel Pleitez for LA Mayor 2013 
+             Polhill, Allison:
+					1392111 - Allison Holdorff Polhill for LAUSD School Board 2017 
+             Portillo, Oscar:
+					Portillo For Los Angeles City Council District 6 2020 
+             Posey, Gwendolyn:
+					1392070 - Gwendolyn Posey for LAUSD School Board 2017 
+             Powell , Tunette:
+					1422678 - Powell for Los Angeles Unified School Board District 1 2020 
+             Presberg, Steven:
+					1347987 - Presberg for City Council 2013 
+             Preven, Eric:
+					1421709 - Eric Preven for Council 2020 
+					1392439 - Eric Preven for Mayor 2017 
+					1374066 - Preven for LA City Council 2015 
+             Price, Curren:
+					1379822 - Curren Price, Jr. for City Council 2017 
+					1359453 - Councilmember Curren Price Officeholder Account 
+					1356051 - Curren Price for City Council 2013 - General 
+					1351983 - Curren Price for City Council 2013 
+					Curren Price, Jr. for City Council 2022 
+             Pugliese, Louis:
+					1302898 - Pugliese for School Board 
+					Pugliese for City Council 2009 
+             Quinn, Joseph:
+					Garcia "Quinn" for City Council 2017 
+             Rab, Raji:
+					1416572 - Raji Rab for City Council 2019 
+             Ragsdale, Kenneth:
+					1421038 - Kenchy Ragsdale for School Board 2020 
+             Raman , Nithya :
+					1425985 - Nithya Raman for City Council 2020-General 
+					1420143 - Nithya Raman for City Council 2020 
+             Ramsay, Carolyn:
+					1375944 - Carolyn Ramsay for City Council 2015-General 
+					1360248 - Carolyn Ramsay for City Council 2015 
+             Ratliff, Monica:
+					1383772 - Monica Ratliff for City Council 2017 
+					1356208 - Monica Ratliff for Board of Educaton 2013 General Election 
+					1353625 - Monica Ratliff for Board of Education 2013 
+             Reed, Mark:
+					Reed for City Council 2017 
+             Reed, Priscilla:
+					Reed for Board of Education 2014 
+             Repenning, Heather :
+					1416822 - Heather Repenning for LAUSD Board 2019-General 
+					1412734 - Heather Repenning for LAUSD Board 2019 
+             Reyes, Eduardo:
+					1301995 - Committee to Re-Elect Ed P. Reyes 2009 
+					1225425 - Friends of Ed Reyes 
+					1225425 - Ed Reyes Officeholder Account 
+             Richter, Dennis:
+					Richter for Mayor 2017 
+             Ridley-Thomas, Mark:
+					971222 - Friends of Mark Ridley-Thomas 
+					1426182 - Mark Ridley-Thomas for City Council 2020-General 
+					1415234 - Mark Ridley-Thomas for City Council 2020 
+             Ritter Simon, Robyn:
+					1303984 - Friends of Robyn Ritter Simon 
+             Rivas, Rocio:
+					1414621 - Dr. Rocio Rivas for LAUSD Board District 5 Special 2019 
+             Rivera, Edward:
+					1271138 - Rivera for Council  2005 
+             Rivera-Guzman , Ingrid :
+					Rivera-Guzman for LA City Council 2020 
+             Roberts, David:
+					1348434 - David Roberts for LA City Council 2013 
+             Robertson, Jeremiah:
+					Robertson for Mayor 2017 
+             Robinson, Jeneen:
+					1352444 - Robinson for School Board 2013 
+             Robinson, Rodney:
+					Rodney D. Robinson for LAUSD Board District 1 2015 
+             Rodgers, Franklyn:
+					1246285 - Committee to Elect Franklyn Rodgers 
+             Rodgers, T.:
+					T. Rodgers for City Council Dist. 10 2011 
+             Rodriguez, Anthony :
+					Rodriguez for CD#7 2017 
+             Rodriguez, Monica:
+					1395159 - Monica Rodriguez for City Council 2017 - General 
+					1388424 - Monica Rodriguez for City Council 2017 
+					1388424 - Councilmember Monica Rodriguez 2017 - Officeholder Account 
+             Rodriguez, Ref :
+					1399188 - LAUSD Boardmember Ref Rodriguez Legal Defense Fund 
+					1375989 - Dr. Ref Rodriguez for LAUSD Board 2015 General 
+					1373930 - Dr. Ref Rodriguez for LAUSD Board 2015 
+             Romain, Marc:
+					Marc Romain CD11 2017 
+             Ronka, Bob:
+					761483 - Friends of Bob Ronka 
+             Rooney, Ronald:
+					Let it be written, Let it be done RJ Rooney 
+					No Committee Name/ID
+             Rosas, Jesus:
+					1385926 - Jesus 'Jesse' Rosas for Los Angeles City Council District 1, March 2017 
+					1345320 - Jesse Rosas for Council District 1 2013 
+             Rosendahl, William:
+					1301272 - Bill Rosendahl for City Council 
+					1260502 - Bill Rosendahl for City Council 
+					1260502 - Bill Rosendahl Officeholder Account 
+             Ruano , Estuardo:
+					Ruano for LA School Board 2020 
+             Rudisill, Robin :
+					1393736 - Robin Rudisill for Council District 11--2017 
+             Ruppert, Ronald:
+					Ruppert for Change in Council District 1 2017 
+             Rustad, Kendrick :
+					1418158 - Rustad for City Council 2020 
+             Ryan, Edward:
+					Committee to Elect Ed Ryan Mayor of L.A. 2017 
+             Ryavec, Mark:
+					1392437 - Mark Ryavec for City Council 2017 
+             Ryu, David:
+					1425762 - David Ryu for City Council 2020-General 
+					1410917 - David Ryu for City Council 2020 
+					1375994 - David Ryu for City Council 2015-General 
+					1363674 - David Ryu for City Council 2015 
+					1363674 - David Ryu for City Council 2015 Officeholder 
+             Saario, Brandon:
+					1415190 - Saario for City Council 2019 
+             Saavedra, Ignacio:
+					No Committee Name/ID
+             Salabaj, Christopher:
+					No Committee Name/ID
+             Salans, Jessica:
+					1387946 - Salans for Los Angeles City Council District 13 2017 
+             Salas, Juan :
+					1386404 - Salas for Council 2017 
+             Saltsburg, David :
+					Zuma Dogg Saltsburg for Mayor 2017 
+					No Committee Name/ID
+					No Committee Name/ID
+					No Committee Name/ID
+             San Martin, Alex:
+					1361875 - Friends of Alex San Martin for City Council 2015 
+             Sanchez, Antonio:
+					1356388 - Antonio Sanchez for LA School Board 2013 - General 
+					1353507 - Antonio Sanchez for LAUSD School Board 2013 - District 6 
+             Sanchez, Ernest:
+					No Committee Name/ID
+             Sanchez, Salvador "Chamba":
+					1413881 - Sanchez for LAUSD 2019 
+             Sandler, Norton:
+					No Committee Name/ID
+             Sandoval, Jose :
+					1392118 - Jose Sandoval for School Board 2017 
+             Santich , Anthony :
+					Santich for CD15 
+             Sarkissian, Rostom :
+					1373788 - Friends of Rostom Sarkissian for LA City Council 2015 
+             Saunders, Constance:
+					1392328 - Saunders4District7 2017 LA City Council 
+             Schaefer, Mike:
+					1392582 - Schaefer for Council 2017 
+             Schmerelson, Scott:
+					1425925 - Schmerelson for School Board 2020-General 
+					1414471 - Schmerelson for School Board 2020 
+					1375889 - Schmerelson for School Board 2015 - General 
+					1374081 - Schmerelson School Board Seat #3 
+					Scott Schmerelson Legal Defense Fund 
+             Schurtz , Hugh :
+					Hugh Schurtz for City Council 2019 
+             Schwartz, Mitchell:
+					1382596 - Schwartz for Mayor 2017 
+             Scott, Paul:
+					1366342 - Paul Scott for Los Angeles City Council 2015 
+             Selem, Brian:
+					No Committee Name/ID
+             Seward, Amanda:
+					Seward for Council District 11-2017 
+             Shain, Sylvie:
+					1392992 - Sylvie Shain for City Council 2017 
+             Sharp, Jeffery:
+					1386452 - Sharp for Mayor 2017 
+             Shaw, Althea:
+					1333931 - Shaw for City Council 2011 
+					Elect Althea Shaw for CD 10 
+					Shaw for City Council 2020 
+             Sheftel, Frank:
+					1318574 - Committee to Elect Frank Sheftel for CD 2 2009 
+					Committee to Elect Frank Sheftel for CD 4 2011 
+             Shin-Ae, Ahn:
+					Ahn Shin-Ae for LA Mayor 
+             Shivers, Coyote:
+					Shivers for City Councilman 2017 
+             Silverstein, Scott:
+					1348687 - Scott Silverstein for City Council 2013 
+             Singh, Navraj :
+					1416995 - Navraj Singh for City Council 2019 
+					1334948 - Singh for City Council 2011 
+             Skeels, Robert:
+					1344105 - Robert D Skeels for Los Angeles Unified School District, District 2, Trustee Committee 2013 
+             Slichta, Stacey:
+					Slichta for City Council 2020 
+             Smart, Jeff:
+					Pending - Jeff Smart for Mayor 
+             Smith, Cliff:
+					1420796 - Cliff Smith Committee to Elect For Los Angeles Council District 8 2020 
+             Smith, Delaney:
+					Committee to Elect Delaney Smith MD for LA City Council District 8 2015 
+					Committee to Elect Delaney Smith Jr. MD for LA City Council District 10 2015 
+             Smith, Faalaniga:
+					Faalaniga Smith for City Council 2020 
+             Smith, Gregory:
+					1361143 - Greg Smith for City Council 2015 
+					1342913 - Greg Smith for City Attorney 2013 
+					No Committee Name/ID
+             Smith, Greig:
+					1253864 - Smith for City Council 
+             Snell, Melvin:
+					1424511 - Melvin R. Snell for City Council 2020 
+					Snell CD10 2015 
+             Sodaify , Artin :
+					Artin Sodaify for City Council 2020 District 4 
+             Soos, Emery:
+					1341166 - Soos for City Council 2011 
+             Soriano , Roberto:
+					Roberto Soriano City Council L.A. 2017 
+             Sozahdah, Jamila :
+					Jamila Sozahdah for Mayor 2022 
+             Stark, DeWayne:
+					Stark for City Counci 2011 
+             Strassman, Marc:
+					Mark Strassman 
+             Stroncak, Dan:
+					1354181 - Dan Stroncak for City Council 2013 
+					Dan Stroncak for City Council 2015 
+             Stryer, Michael:
+					1309118 - Friends of Mike Stryer 
+             Summer, Adam:
+					1421748 - Adam Summer for City Council 2020 
+             Summers, James:
+					1249483 - Jim Summers for Valley Mayor 
+             Sutton, Frederick:
+					1353001 - Committee to Elect Frederick Sutton to City Council 2013 
+             Svorinich Jr., Rudy:
+					970654 - Svornich Officeholder Account II 
+					970654 - General LDF II 
+             Szabo, Matt:
+					1348750 - Matt Szabo for City Council 2013 
+             Tayes, Walter:
+					No Committee Name/ID
+             Thomas, Andrew :
+					1372237 - Andrew Thomas for LAUSD Board of Education 2015 
+             Tijerina, Jamie:
+					1416512 - Jamie Tijerina for City Council 2020 
+             Tinson, Nicole:
+					Tinson for Mayor 2017 
+             Tirado, Mark:
+					Tirado for City Council 2015 
+             Tobias, Sheldon:
+					No Committee Name/ID
+             Tokofsky, David:
+					950207 - Tokofsky for School Board 
+             Torossian , Karo:
+					1395145 - Karo Torossian for Council 2017-General 
+					1384486 - Karo Torossian for Council 2017 
+             Torrero, Jesse:
+					1385716 - Jesse Torrero for Council 2017 
+             Torres, Barbara:
+					Barbara Torres for LAUSD School Board 2015 
+             Torres, Kathryn :
+					Kathryn Torress for LAUSD 
+             Torres, Marina:
+					1425772 - Marina Torres for LA City Attorney 2022 
+             Torres, Steven "Stevan":
+					No Committee Name/ID
+             Trinidad, Elson:
+					1351078 - Elson Trinidad for City Council 2013 
+             Trutanich, Carmen:
+					1350069 - Trutanich for City Attorney 2013 
+					1338122 - Carmen Trutanich for District Attorney 2012 
+					1316351 - Trutanich for City Attorney General 2009 
+					1301975 - Trutanich Officeholder Committee 
+             Tsurif, Daniel:
+					Daniel Tsurif for City Council 2019 
+             Turner, Gordon:
+					1313965 - Citizens to Elect Gordon Turner 
+             Underhill , Jason :
+					Underhill for City Council 2020 
+             User, Test:
+					1111111 - Candidate for Mayor 
+             Vahedi, David:
+					1425864 - Vahedi for Controller 2022 
+             Valdez, David:
+					1413974 - David Valdez for LAUSD Board District 5 2019 
+             Valdez, Richard:
+					1355801 - Richard Valdez for Council 2013 
+             Valencia, Nestor:
+					1413837 - Valencia for LAUSD Board 2019 
+             Van Mater, Jacob (Alestar):
+					Van Mater for Mayor 
+             Vasquez, Aura :
+					1417450 - Aura for the People of L.A. Council District 10 
+             Vasquez, Dulce :
+					Dulce Vasquez for City Council 2022 
+             Veincentotzs, Marilyn:
+					Veincentotzs for Board of Education 2014 
+             Velazquez, Felipe:
+					Felipe Velazquez for City Council 2017 
+             Veres, Steve :
+					1360387 - Steve Veres for City Council 2015 
+					1329702 - Steve Veres for L.A. Community College Trustee 2017 
+             Villaraigosa, Antonio:
+					1250526 - Mayor Antonio Villaraigosa Officeholder Account 
+					1250526 - Villaraigosa for Council 
+					1250526 - Villaraigosa LDF - FPPC No. 10/579 (LDF 1) 
+					1250526 - Villaraigosa LDF - CEC No. 2011-02 (LDF 2) 
+					1250526 - Villaraigosa LDF - DA Gift Inquiry (LDF 3) 
+					State Committee 
+             Vladovic, Richard:
+					1376051 - Dr. Richard Vladovic For School Board 2015 General 
+					1363754 - Re-Elect Dr. Richard Vladovic for School Board 2015 
+					1292716 - Dr. Richard Vladovic for School Board 
+             Volotzky, Lucie:
+					Lucie Volotzky for the People, District 12 
+             Waleko, Derek:
+					1354500 - Derek Waleko for LA City Council 2013 
+             Walker, John M.:
+					1249579 - Johnny Walker for Council 
+             Walker, Michelle:
+					1350625 - Vote for Michelle 
+             Watkins, Bill:
+					No Committee Name/ID
+             Weaver, Timothy:
+					Write-In: "Dream" Weaver; City Council 2011 
+             Webb, Steven:
+					1333710 - Webb 4 LAUSD Board Member 2011 
+					1309855 - Friends of Steven Webb 
+             Weiss, Jack:
+					1316235 - Jack Weiss for Los Angeles City Attorney 2009 General 
+					1296355 - Jack Weiss for Los Angeles City Attorney 
+					1259382 - Committee to Re-Elect Jack Weiss 
+					1234332 - 2001 LDF 
+					1234332 - Jack Weiss City Council General Election Committee 
+             Weiss, Noel:
+					1354528 - Committee to Elect Noel Weiss City Attorney - 2013 
+					1314603 - Committee to Elect Noel Weiss City Attorney 
+             Wesson, Herb:
+					1414475 - Wesson for Supervisor 2020 
+					1360622 - Wesson for City Council 2015 
+					1327492 - Wesson for Board of Equalization 2014 
+					1286273 - Wesson for Board of Equalization 2010 
+					1283861 - Wesson For City Council 2007 
+					1277458 - Wesson for City Council 
+					1277458 - Wesson Officeholder Account 
+					1277458 - Wesson Legal Defense Fund - 2/23/11 Stipulation 
+             Weston, James:
+					No Committee Name/ID
+             Weyenberg, Eric:
+					Weyenberg for City Council 2015 
+             White, Lehi:
+					White for City Council 13 2017 
+             Whitehead, Samuel Paul:
+					No Committee Name/ID
+             Williams, Ethel:
+					No Committee Name/ID
+             Wilson, Harry:
+					No Committee Name/ID
+             Winslow, Oscar:
+					1392636 - Winslow for City Attorney 2017 
+             Woodruff, Nancy:
+					1380670 - Nancy Woodruff For Council 7, 2017 
+             Woods, Denise:
+					1415912 - Woods for City Council 2020 
+             Wyatt, Bill:
+					1267425 - Bill Wyatt for Mayor 
+             Yanez, Arnulfo:
+					1325088 - Arnulfo Yanez for City Council 2011 
+             Yeager, Joshua:
+					1414858 - Joshua Yeager for City Council Special 2019 
+             Yebri, Sam:
+					Sam Yebri for City Council 2022 
+             Yoo, Grace:
+					1426052 - Grace Yoo for City Council 2020-General 
+					1410462 - Grace Yoo for City Council 2020 
+					1374269 - Grace Yoo for LA City Council District 10 (2015) 
+             Young Yaroslavsky, Katy :
+					Katy Young Yaroslavsky for City Council 2022 
+             Zamora, Raquel :
+					1419525 - Raquel Zamora for Los Angeles City Council District 14-2020 
+             Zeise-Oberstein, Serena:
+					1414634 - Serena Oberstein for LA City Council 2019 
+             Zide, Bill:
+					Bill Zide for CD13 2017 
+             Zimmer, Steve:
+					1395349 - Zimmer for School Board General 2017 
+					1384608 - Zimmer for School Board 2017 
+					1346463 - Zimmer for School Board 2013 
+             Zine, Dennis:
+					1356068 - Zine for Controller 2013 - General 
+					1339692 - Zine for Controller 2013 
+					1229566 - Zine for City Council 
+					1229566 - Zine for City Council-Officeholder Account 
+             Zinone, Gregory:
+					1273944 - Zinone for City Council 
+			From Recipient Committee Campaign Statements:  (Form 460)
+			From Independent Expenditure Notifications:  (Form 57)
+			.checkmark {margin:0px 5px 0px 10px !important;}
+		Monetary Contributions (A)        
+			.checkmark {margin:0px 5px 0px 10px !important;}
+		Misc. Increases to Cash (I)        
+			.checkmark {margin:0px 5px 0px 10px !important;}
+		Loans Received (B)        
+			.checkmark {margin:0px 5px 0px 10px !important;}
+		Itemized ($100+)        
+			.checkmark {margin:0px 5px 0px 10px !important;}
+		Non-monetary Contributions (C)        
+			.checkmark {margin:0px 5px 0px 10px !important;}
+		Unitemized (Less than $100)        
+			.checkmark {margin:0px 5px 0px 10px !important;}
+		Contributions Received ($100 or more)        
+			Search		
+			Reset
+				/*.DTCaption {
+					text-align:center; background-color: #dae8ea; color: #5f727f; 
+					font-weight:800; font-size:24px; vertical-align:middle;
+				} Replaced per NJ 7/18/18*/
+				DTCaption {
+					text-align:center; background-color: #d6ebef; color: #555555; 
+					font-weight:600; font-size:18px; vertical-align:middle;
+					padding-top: 4px !important; padding-bottom: 4px !important;
+					}
+				.PTsearchresultsDT {
+					caption-side: top;
+					//margin-bottom: 20px !important;
+				}
+	ABOUT THIS SEARCHCampaign Contributions
+WHOThis search can be used to find data about campaign contributions reported by City and LAUSD candidates.
+WHATData about campaign contributions is gathered from Recipient Committee Campaign Statements (Form 460) filed by City and LAUSD candidates. 
+WHENUse this search to find data about campaign contributions reported since 1998.
+			Disclaimer
+			Privacy Policy
+			Site Map
+			Contact Us
+			© 2020. All rights reserved.
+    	#ajax-loader {
+			background-color: transparent;
+			display: none;
+			text-align: center;
+			box-shadow : none !important;
+		}
+    -->
+    Additional CSS/JS section of The Gem Theme Options (Tim, 7/26/18)
+		div.portalrow1 {
+			position:relative !important;
+			z-index:9999 !important;
+			overflow:visible !important;
+		}
+		div.portalrow2 {
+			position:relative !important;
+			z-index:9998 !important;
+			overflow:visible !important;
+		}
+		div.portalrow3 {
+			position:relative !important;
+			z-index:9997 !important;
+			overflow:visible !important;
+		}
+		div.overflowvisible {
+			position:relative !important;
+			overflow:visible !important;
+		}
+		div.notopbottompadding {
+			padding-top: 0 !important;
+			padding-bottom: 0 !important;
+		}
+		.chosen-container {
+			background-color:transparent !important;
+   			width: 100% !important;
+		}
+		.leftverticalline {
+			border-left: 2px solid #e2e2e2;
+		}
+		.leftverticallineltblue {
+			border-left: 2px solid #d5e9ed;
+		}
+		.leftverticallinegray {
+			border-left: 2px solid #d0d8d8
+		}
+	-->
+	.mpc-typography--mpc_preset_22{font-family:"Roboto" !important;font-size:24px;font-style:normal !important;font-weight:500 !important;line-height:1.3;}.mpc-typography--preset_1{font-family:"Roboto" !important;font-size:14px;font-style:normal !important;font-weight:400 !important;text-align:inherit;}.mpc-typography--mpc_preset_20{color:#333333;font-family:"Raleway" !important;font-size:16px;font-style:normal !important;font-weight:600 !important;line-height:1;text-transform:uppercase;}.mpc-typography--preset_0{font-family:"Roboto" !important;font-size:16px;font-style:normal !important;font-weight:300 !important;}.mpc-typography--mpc_preset_49{color:#777777;font-family:"Dosis" !important;font-size:16px;font-style:normal !important;font-weight:400 !important;line-height:1.5;text-align:left;}.mpc-typography--mpc_preset_51{color:#333333;font-family:"Dosis" !important;font-size:36px;font-style:normal !important;font-weight:400 !important;line-height:1;text-align:left;text-transform:uppercase;}.mpc-button[data-id="mpc_button-945f820f576932d"] {border-top:2px;border-right:1px;border-bottom:2px;border-left:1px;border-color:#0fa7cd;border-style:solid;margin-top:11px;background: #0fa7cd;color:#ffffff;font-size:24px;text-transform:capitalize;}.mpc-button[data-id="mpc_button-945f820f576932d"] .mpc-button__icon {padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;color:#333333;}.mpc-button[data-id="mpc_button-945f820f576932d"] .mpc-button__title {padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;}.mpc-button[data-id="mpc_button-945f820f576932d"] .mpc-button__background {background: #0fa7cd;}.mpc-button[data-id="mpc_button-945f820f576932d"]:hover,.mpc-parent-hover:hover .mpc-button[data-id="mpc_button-945f820f576932d"],.mpc-active .mpc-button[data-id="mpc_button-945f820f576932d"] {border-top:2px;border-right:1px;border-bottom:2px;border-left:1px;border-color:#0fa7cd;border-style:solid;}.mpc-button[data-id="mpc_button-945f820f576932d"]:hover .mpc-button__title,.mpc-parent-hover:hover .mpc-button[data-id="mpc_button-945f820f576932d"] .mpc-button__title,.mpc-active .mpc-button[data-id="mpc_button-945f820f576932d"] .mpc-button__title {color:#ffffff;}.mpc-button[data-id="mpc_button-945f820f576932d"]:hover .mpc-button__background,.mpc-parent-hover:hover .mpc-button[data-id="mpc_button-945f820f576932d"] .mpc-button__background,.mpc-active .mpc-button[data-id="mpc_button-945f820f576932d"] .mpc-button__background {left:0%  !important;right:0%  !important;}.mpc-button[data-id="mpc_button-215f820f57693e7"] {border-top:2px;border-right:1px;border-bottom:2px;border-left:1px;border-color:#0fa7cd;border-style:solid;margin-top:11px;background: #f3f3f3;color:#0fa7cd;font-size:24px;text-transform:capitalize;}.mpc-button[data-id="mpc_button-215f820f57693e7"] .mpc-button__icon {padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;color:#333333;}.mpc-button[data-id="mpc_button-215f820f57693e7"] .mpc-button__title {padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;}.mpc-button[data-id="mpc_button-215f820f57693e7"] .mpc-button__background {background: #0fa7cd;}.mpc-button[data-id="mpc_button-215f820f57693e7"]:hover .mpc-button__title,.mpc-parent-hover:hover .mpc-button[data-id="mpc_button-215f820f57693e7"] .mpc-button__title,.mpc-active .mpc-button[data-id="mpc_button-215f820f57693e7"] .mpc-button__title {color:#ffffff;}.mpc-button[data-id="mpc_button-215f820f57693e7"]:hover .mpc-button__background,.mpc-parent-hover:hover .mpc-button[data-id="mpc_button-215f820f57693e7"] .mpc-button__background,.mpc-active .mpc-button[data-id="mpc_button-215f820f57693e7"] .mpc-button__background {left:0%  !important;right:0%  !important;}.mpc-button[data-id="mpc_button-725f820f5769484"] {border-top:2px;border-right:1px;border-bottom:2px;border-left:1px;border-color:#0fa7cd;border-style:solid;margin-top:11px;background: #f3f3f3;color:#0fa7cd;font-size:24px;text-transform:capitalize;}.mpc-button[data-id="mpc_button-725f820f5769484"] .mpc-button__icon {padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;color:#333333;}.mpc-button[data-id="mpc_button-725f820f5769484"] .mpc-button__title {padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;}.mpc-button[data-id="mpc_button-725f820f5769484"] .mpc-button__background {background: #0fa7cd;}.mpc-button[data-id="mpc_button-725f820f5769484"]:hover .mpc-button__title,.mpc-parent-hover:hover .mpc-button[data-id="mpc_button-725f820f5769484"] .mpc-button__title,.mpc-active .mpc-button[data-id="mpc_button-725f820f5769484"] .mpc-button__title {color:#ffffff;}.mpc-button[data-id="mpc_button-725f820f5769484"]:hover .mpc-button__background,.mpc-parent-hover:hover .mpc-button[data-id="mpc_button-725f820f5769484"] .mpc-button__background,.mpc-active .mpc-button[data-id="mpc_button-725f820f5769484"] .mpc-button__background {left:0%  !important;right:0%  !important;}.mpc-button[data-id="mpc_button-675f820f576951e"] {border-top:2px;border-right:1px;border-bottom:2px;border-left:1px;border-color:#0fa7cd;border-style:solid;margin-top:11px;background: #f3f3f3;color:#0fa7cd;font-size:24px;text-transform:capitalize;}.mpc-button[data-id="mpc_button-675f820f576951e"] .mpc-button__icon {padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;color:#333333;}.mpc-button[data-id="mpc_button-675f820f576951e"] .mpc-button__title {padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;}.mpc-button[data-id="mpc_button-675f820f576951e"] .mpc-button__background {background: #0fa7cd;}.mpc-button[data-id="mpc_button-675f820f576951e"]:hover .mpc-button__title,.mpc-parent-hover:hover .mpc-button[data-id="mpc_button-675f820f576951e"] .mpc-button__title,.mpc-active .mpc-button[data-id="mpc_button-675f820f576951e"] .mpc-button__title {color:#ffffff;}.mpc-button[data-id="mpc_button-675f820f576951e"]:hover .mpc-button__background,.mpc-parent-hover:hover .mpc-button[data-id="mpc_button-675f820f576951e"] .mpc-button__background,.mpc-active .mpc-button[data-id="mpc_button-675f820f576951e"] .mpc-button__background {left:0%  !important;right:0%  !important;}.mpc-button[data-id="mpc_button-295f820f57695d6"] {border-top:2px;border-right:2px;border-bottom:2px;border-left:1px;border-color:#0fa7cd;border-style:solid;background: #f3f3f3;color:#0fa7cd;font-size:24px;text-transform:capitalize;}.mpc-tooltip-wrap[data-id="mpc_button-295f820f57695d6"] {margin-top:11px;}.mpc-button[data-id="mpc_button-295f820f57695d6"] .mpc-button__icon {padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;color:#333333;}.mpc-button[data-id="mpc_button-295f820f57695d6"] .mpc-button__title {padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;}.mpc-button[data-id="mpc_button-295f820f57695d6"] .mpc-button__background {background: #0fa7cd;}.mpc-button[data-id="mpc_button-295f820f57695d6"]:hover .mpc-button__title,.mpc-parent-hover:hover .mpc-button[data-id="mpc_button-295f820f57695d6"] .mpc-button__title,.mpc-active .mpc-button[data-id="mpc_button-295f820f57695d6"] .mpc-button__title {color:#ffffff;}.mpc-button[data-id="mpc_button-295f820f57695d6"]:hover .mpc-button__background,.mpc-parent-hover:hover .mpc-button[data-id="mpc_button-295f820f57695d6"] .mpc-button__background,.mpc-active .mpc-button[data-id="mpc_button-295f820f57695d6"] .mpc-button__background {left:0%  !important;right:0%  !important;}.mpc-tooltip[id="mpc_tooltip-305f820f5769623"] {padding:20px;color:#555555;font-size:12px;line-height:1.7;text-align:center;text-transform:capitalize;background-image: url();background-repeat: repeat;background-size: initial;background-color: #f7f7f7;background-position: center center;}.mpc-column[data-column-id="mpc_column-515f820f576a21e"] {text-align: center;}.mpc-button[data-id="mpc_button-405f820f576b29c"] {border-width:1px;border-color:#0fa7cd;border-style:solid;border-radius:3px;background: #0fa7cd;color:#ffffff;font-size:12px;text-transform:uppercase;}.mpc-tooltip-wrap[data-id="mpc_button-405f820f576b29c"] {margin-top:15px;}.mpc-button[data-id="mpc_button-405f820f576b29c"] .mpc-button__icon {padding-top:8px;padding-right:8px;padding-bottom:8px;padding-left:8px;}.mpc-button[data-id="mpc_button-405f820f576b29c"] .mpc-button__title {padding-top:8px;padding-right:8px;padding-bottom:8px;padding-left:8px;}.mpc-button[data-id="mpc_button-405f820f576b29c"] .mpc-button__background {background-image: url(https://ethics.lacity.org/wp-content/uploads/2017/12/campaigns_white-40x40.png);background-repeat: no-repeat;background-size: initial;background-color: #0fa7cd;background-position: center center;}.mpc-button[data-id="mpc_button-405f820f576b29c"]:hover,.mpc-parent-hover:hover .mpc-button[data-id="mpc_button-405f820f576b29c"],.mpc-active .mpc-button[data-id="mpc_button-405f820f576b29c"] {border-width:1px;border-color:#0fa7cd;border-style:solid;border-radius:3px;}.mpc-tooltip[id="mpc_tooltip-195f820f576b380"] {padding:15px;color:#555555;font-size:16px;line-height:1.75;text-align:center;text-transform:capitalize;background: #f7f7f7;}.mpc-tooltip[id="mpc_tooltip-195f820f576b380"] .mpc-arrow {border-color: #f7f7f7}.mpc-button[data-id="mpc_button-275f820f576bb8a"] {border-width:1px;border-color:#d6d6d6;border-style:solid;border-radius:3px;background: #f3f3f3;color:#ffffff;font-size:12px;text-transform:uppercase;}.mpc-tooltip-wrap[data-id="mpc_button-275f820f576bb8a"] {margin-top:15px;}.mpc-button[data-id="mpc_button-275f820f576bb8a"] .mpc-button__icon {padding-top:8px;padding-right:8px;padding-bottom:8px;padding-left:8px;}.mpc-button[data-id="mpc_button-275f820f576bb8a"] .mpc-button__title {padding-top:8px;padding-right:8px;padding-bottom:8px;padding-left:8px;}.mpc-button[data-id="mpc_button-275f820f576bb8a"] .mpc-button__background {background-image: url(https://ethics.lacity.org/wp-content/uploads/2017/12/contracts-small.png);background-repeat: no-repeat;background-size: initial;background-color: #f3f3f3;background-position: center center;}.mpc-button[data-id="mpc_button-275f820f576bb8a"]:hover,.mpc-parent-hover:hover .mpc-button[data-id="mpc_button-275f820f576bb8a"],.mpc-active .mpc-button[data-id="mpc_button-275f820f576bb8a"] {border-width:1px;border-color:#d6d6d6;border-style:solid;border-radius:3px;}.mpc-tooltip[id="mpc_tooltip-555f820f576bc43"] {padding:15px;color:#555555;font-size:16px;line-height:1.75;text-align:center;text-transform:capitalize;background: #f7f7f7;}.mpc-tooltip[id="mpc_tooltip-555f820f576bc43"] .mpc-arrow {border-color: #f7f7f7}.mpc-button[data-id="mpc_button-705f820f576c450"] {border-width:1px;border-color:#d6d6d6;border-style:solid;border-radius:3px;background: #f3f3f3;color:#ffffff;font-size:12px;text-transform:uppercase;}.mpc-tooltip-wrap[data-id="mpc_button-705f820f576c450"] {margin-top:15px;}.mpc-button[data-id="mpc_button-705f820f576c450"] .mpc-button__icon {padding-top:8px;padding-right:8px;padding-bottom:8px;padding-left:8px;}.mpc-button[data-id="mpc_button-705f820f576c450"] .mpc-button__title {padding-top:8px;padding-right:8px;padding-bottom:8px;padding-left:8px;}.mpc-button[data-id="mpc_button-705f820f576c450"] .mpc-button__background {background-image: url(https://ethics.lacity.org/wp-content/uploads/2017/12/ethics-small.png);background-repeat: no-repeat;background-size: initial;background-color: #f3f3f3;background-position: center center;}.mpc-button[data-id="mpc_button-705f820f576c450"]:hover,.mpc-parent-hover:hover .mpc-button[data-id="mpc_button-705f820f576c450"],.mpc-active .mpc-button[data-id="mpc_button-705f820f576c450"] {border-width:1px;border-color:#d6d6d6;border-style:solid;border-radius:3px;}.mpc-tooltip[id="mpc_tooltip-535f820f576c50f"] {padding:15px;color:#555555;font-size:16px;line-height:1.75;text-align:center;text-transform:capitalize;background: #f7f7f7;}.mpc-tooltip[id="mpc_tooltip-535f820f576c50f"] .mpc-arrow {border-color: #f7f7f7}.mpc-button[data-id="mpc_button-675f820f576cd13"] {border-width:1px;border-color:#d6d6d6;border-style:solid;border-radius:3px;background: #f3f3f3;color:#ffffff;font-size:12px;text-transform:uppercase;}.mpc-tooltip-wrap[data-id="mpc_button-675f820f576cd13"] {margin-top:15px;}.mpc-button[data-id="mpc_button-675f820f576cd13"] .mpc-button__icon {padding-top:8px;padding-right:8px;padding-bottom:8px;padding-left:8px;}.mpc-button[data-id="mpc_button-675f820f576cd13"] .mpc-button__title {padding-top:8px;padding-right:8px;padding-bottom:8px;padding-left:8px;}.mpc-button[data-id="mpc_button-675f820f576cd13"] .mpc-button__background {background-image: url(https://ethics.lacity.org/wp-content/uploads/2017/12/campaigns-small.png);background-repeat: no-repeat;background-size: initial;background-color: #f3f3f3;background-position: center center;}.mpc-button[data-id="mpc_button-675f820f576cd13"]:hover,.mpc-parent-hover:hover .mpc-button[data-id="mpc_button-675f820f576cd13"],.mpc-active .mpc-button[data-id="mpc_button-675f820f576cd13"] {border-width:1px;border-color:#d6d6d6;border-style:solid;border-radius:3px;}.mpc-tooltip[id="mpc_tooltip-245f820f576d443"] {padding:15px;color:#555555;font-size:16px;line-height:1.75;text-align:center;text-transform:capitalize;background: #f7f7f7;}.mpc-tooltip[id="mpc_tooltip-245f820f576d443"] .mpc-arrow {border-color: #f7f7f7}.mpc-button[data-id="mpc_button-75f820f576dc96"] {border-width:1px;border-color:#d6d6d6;border-style:solid;border-radius:3px;background: #f3f3f3;color:#ffffff;font-size:12px;text-transform:uppercase;}.mpc-tooltip-wrap[data-id="mpc_button-75f820f576dc96"] {margin-top:15px;}.mpc-button[data-id="mpc_button-75f820f576dc96"] .mpc-button__icon {padding-top:8px;padding-right:8px;padding-bottom:8px;padding-left:8px;}.mpc-button[data-id="mpc_button-75f820f576dc96"] .mpc-button__title {padding-top:8px;padding-right:8px;padding-bottom:8px;padding-left:8px;}.mpc-button[data-id="mpc_button-75f820f576dc96"] .mpc-button__background {background-image: url(https://ethics.lacity.org/wp-content/uploads/2018/06/other.png);background-repeat: no-repeat;background-size: initial;background-color: #f3f3f3;background-position: center center;}.mpc-button[data-id="mpc_button-75f820f576dc96"]:hover,.mpc-parent-hover:hover .mpc-button[data-id="mpc_button-75f820f576dc96"],.mpc-active .mpc-button[data-id="mpc_button-75f820f576dc96"] {border-width:1px;border-color:#d6d6d6;border-style:solid;border-radius:3px;}.mpc-tooltip[id="mpc_tooltip-615f820f576dd4c"] {padding:15px;color:#555555;font-size:16px;line-height:1.75;text-align:center;text-transform:capitalize;background: #f7f7f7;}.mpc-tooltip[id="mpc_tooltip-615f820f576dd4c"] .mpc-arrow {border-color: #f7f7f7}.mpc-column[data-column-id="mpc_column-185f820f576e104"] {text-align: center;}.mpc-column[data-column-id="mpc_column-635f820f58c6a12"] {text-align: center;}.mpc-column[data-column-id="mpc_column-665f820f58c8a50"] {text-align: left;}.mpc-column[data-column-id="mpc_column-85f820f58ca459"] {text-align: left;}.mpc-column[data-column-id="mpc_column-175f820f58cafda"] {text-align: left;}.mpc-column[data-column-id="mpc_column-95f820f58cb8af"] {text-align: left;}.mpc-column[data-column-id="mpc_column-985f820f58ccb21"] {text-align: center;}.mpc-circle-icons .mpc-icon-column[data-id="mpc_icon_column-75f820f58cde02"] .mpc-icon-column__content-wrap,.mpc-icon-column[data-id="mpc_icon_column-75f820f58cde02"] {border-radius:0px;}.mpc-icon-column[data-id="mpc_icon_column-75f820f58cde02"] .mpc-icon-column__heading {margin-top:30px;margin-bottom:10px;margin-left:15px;color:#ffffff;font-size:20px;text-align:left;text-transform:capitalize;}.mpc-icon-column[data-id="mpc_icon_column-75f820f58cde02"] .mpc-icon-column__description {margin-top:10px;margin-left:20px;color:#ffffff;text-align:left;}.mpc-divider-wrap[data-id="mpc_divider-755f820f58cde51"] .mpc-divider {width:20%;}.mpc-divider-wrap[data-id="mpc_divider-755f820f58cde51"] .mpc-divider__line > span {border-top-style:solid;border-top-color:#ffffff;border-top-width:2px;margin-top:1px;}.mpc-divider-wrap[data-id="mpc_divider-755f820f58cde51"] .mpc-divider__line.mpc-side--left {width:50%;}.mpc-divider-wrap[data-id="mpc_divider-755f820f58cde51"] .mpc-divider__line.mpc-side--right {width:50%;}.mpc-circle-icons .mpc-icon-column[data-id="mpc_icon_column-65f820f58ce58e"] .mpc-icon-column__content-wrap,.mpc-icon-column[data-id="mpc_icon_column-65f820f58ce58e"] {border-radius:0px;padding-top:0px;padding-right:10px;padding-bottom:0px;padding-left:10px;}.mpc-icon-column[data-id="mpc_icon_column-65f820f58ce58e"] .mpc-icon-column__heading {margin-bottom:8px;font-size:18px;text-align:center;}.mpc-icon-column[data-id="mpc_icon_column-65f820f58ce58e"] .mpc-icon-column__description {text-align:left;}.mpc-icon[data-id="mpc_icon-425f820f58ce5e1"] {border-radius:0px;padding-top:8px;padding-right:8px;padding-bottom:8px;padding-left:8px;margin-top:0px;margin-right:0px;margin-bottom:8px;margin-left:0px;}.mpc-icon[data-id="mpc_icon-425f820f58ce5e1"] i {font-size:35px;color:#81cfe0;}.mpc-icon.mpc-icon-hover[data-id="mpc_icon-425f820f58ce5e1"]:hover,.mpc-parent-hover:hover .mpc-icon.mpc-icon-hover[data-id="mpc_icon-425f820f58ce5e1"],.mpc-active .mpc-icon.mpc-icon-hover[data-id="mpc_icon-425f820f58ce5e1"] {border-radius:0px;}.mpc-circle-icons .mpc-icon-column[data-id="mpc_icon_column-375f820f58ced4d"] .mpc-icon-column__content-wrap,.mpc-icon-column[data-id="mpc_icon_column-375f820f58ced4d"] {border-radius:0px;padding-top:0px;padding-right:10px;padding-bottom:0px;padding-left:10px;}.mpc-icon-column[data-id="mpc_icon_column-375f820f58ced4d"] .mpc-icon-column__heading {margin-bottom:8px;font-size:18px;text-align:center;}.mpc-icon-column[data-id="mpc_icon_column-375f820f58ced4d"] .mpc-icon-column__description {text-align:left;}.mpc-icon[data-id="mpc_icon-655f820f58ced99"] {border-radius:0px;padding-top:8px;padding-right:8px;padding-bottom:8px;padding-left:8px;margin-top:0px;margin-right:0px;margin-bottom:8px;margin-left:0px;}.mpc-icon[data-id="mpc_icon-655f820f58ced99"] i {font-size:35px;color:#81cfe0;}.mpc-icon.mpc-icon-hover[data-id="mpc_icon-655f820f58ced99"]:hover,.mpc-parent-hover:hover .mpc-icon.mpc-icon-hover[data-id="mpc_icon-655f820f58ced99"],.mpc-active .mpc-icon.mpc-icon-hover[data-id="mpc_icon-655f820f58ced99"] {border-radius:0px;}.mpc-circle-icons .mpc-icon-column[data-id="mpc_icon_column-205f820f58cf513"] .mpc-icon-column__content-wrap,.mpc-icon-column[data-id="mpc_icon_column-205f820f58cf513"] {border-radius:0px;padding-top:0px;padding-right:10px;padding-bottom:0px;padding-left:10px;}.mpc-icon-column[data-id="mpc_icon_column-205f820f58cf513"] .mpc-icon-column__heading {margin-bottom:8px;font-size:18px;text-align:center;}.mpc-icon-column[data-id="mpc_icon_column-205f820f58cf513"] .mpc-icon-column__description {text-align:left;}.mpc-icon[data-id="mpc_icon-485f820f58cf55c"] {border-radius:0px;padding-top:8px;padding-right:8px;padding-bottom:8px;padding-left:8px;margin-top:0px;margin-right:0px;margin-bottom:8px;margin-left:0px;}.mpc-icon[data-id="mpc_icon-485f820f58cf55c"] i {font-size:35px;color:#81cfe0;}.mpc-icon.mpc-icon-hover[data-id="mpc_icon-485f820f58cf55c"]:hover,.mpc-parent-hover:hover .mpc-icon.mpc-icon-hover[data-id="mpc_icon-485f820f58cf55c"],.mpc-active .mpc-icon.mpc-icon-hover[data-id="mpc_icon-485f820f58cf55c"] {border-radius:0px;}	
+			Ethics Commission
+	About
+Mission/HistoryCommissionersStaffMeetingsJobsContact Us BACK TO MAIN MENU
+Programs
+CampaignsContractsEthicsLobbying BACK TO MAIN MENU
+Work
+AdviceAuditsDisclosureEducationEnforcementPolicy BACK TO MAIN MENU
+Communities
+BiddersCandidatesCity EmployeesCity OfficialsCommissionersCommitteesContractorsContributorsDepartmentsDepartment HeadsIndependent SpendersLobbyistsLobbying FirmsLobbyist EmployersMajor FilersOfficeholders BACK TO MAIN MENU
+Resources
+FormsPublicationsLawsNewsCOI CodesElection TotalsExternal Links BACK TO MAIN MENU
+Public Data Portal
+Public Data PortalCampaignsContractsEthicsLobbying BACK TO MAIN MENU
+File
+FileDisclosureComplaint BACK TO MAIN MENU
+Former Website
+ BACK TO MAIN MENU

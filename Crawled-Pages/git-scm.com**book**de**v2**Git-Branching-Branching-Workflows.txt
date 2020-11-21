@@ -1,0 +1,312 @@
+        About
+            Branching and Merging
+            Small and Fast
+            Distributed
+            Data Assurance
+            Staging Area
+            Free and Open Source
+            Trademark
+        Documentation
+            Reference
+            Book
+            Videos
+            External Links
+        Downloads
+            GUI Clients
+            Logos
+        Community
+This book is available in
+  English.
+  Full translation available in
+    български език,
+    Deutsch,
+    Español,
+    Français,
+    Ελληνικά,
+    日本語,
+    한국어,
+    Nederlands,
+    Русский,
+    Slovenščina,
+    Tagalog,
+    Українська
+    简体中文,
+  Partial translations available in
+    Čeština,
+    Македонски,
+    Polski,
+    Српски,
+    Ўзбекча,
+    繁體中文,
+  Translations started for
+    azərbaycan dili,
+    Беларуская,
+    فارسی,
+    Indonesian,
+    Italiano,
+    Bahasa Melayu,
+    Português (Brasil),
+    Português (Portugal),
+    Svenska,
+    Türkçe.
+The source of this book is  hosted on GitHub.
+Patches, suggestions and comments are welcome.
+  Chapters ▾
+  1. Erste Schritte
+          1.1
+          Was ist Versionsverwaltung? 
+          1.2
+          Kurzer Überblick über die Historie von Git 
+          1.3
+          Was ist Git? 
+          1.4
+          Die Kommandozeile 
+          1.5
+          Git installieren 
+          1.6
+          Git Basis-Konfiguration 
+          1.7
+          Hilfe finden 
+          1.8
+          Zusammenfassung 
+  2. Git Grundlagen
+          2.1
+          Ein Git-Repository anlegen 
+          2.2
+          Änderungen nachverfolgen und im Repository speichern 
+          2.3
+          Anzeigen der Commit-Historie 
+          2.4
+          Ungewollte Änderungen rückgängig machen 
+          2.5
+          Mit Remotes arbeiten 
+          2.6
+          Taggen 
+          2.7
+          Git Aliases 
+          2.8
+          Zusammenfassung 
+  3. Git Branching
+          3.1
+          Branches auf einen Blick 
+          3.2
+          Einfaches Branching und Merging 
+          3.3
+          Branch-Management 
+          3.4
+          Branching-Workflows 
+          3.5
+          Remote-Branches 
+          3.6
+          Rebasing 
+          3.7
+          Zusammenfassung 
+  4. Git auf dem Server
+          4.1
+          Die Protokolle 
+          4.2
+          Git auf einem Server einrichten 
+          4.3
+          Erstellung eines SSH-Public-Keys 
+          4.4
+          Einrichten des Servers 
+          4.5
+          Git-Daemon 
+          4.6
+          Smart HTTP 
+          4.7
+          GitWeb 
+          4.8
+          GitLab 
+          4.9
+          Von Drittanbietern gehostete Optionen 
+          4.10
+          Zusammenfassung 
+  5. Verteiltes Git
+          5.1
+          Verteilter Arbeitsablauf 
+          5.2
+          An einem Projekt mitwirken 
+          5.3
+          Ein Projekt verwalten 
+          5.4
+          Zusammenfassung 
+  6. GitHub
+          6.1
+          Einrichten und Konfigurieren eines Kontos 
+          6.2
+          Mitwirken an einem Projekt 
+          6.3
+          Ein Projekt betreuen 
+          6.4
+          Verwalten einer Organisation 
+          6.5
+          Skripte mit GitHub 
+          6.6
+          Zusammenfassung 
+  7. Git Tools
+          7.1
+          Revisions-Auswahl 
+          7.2
+          Interaktives Stagen 
+          7.3
+          Stashen und Bereinigen 
+          7.4
+          Ihre Arbeit signieren 
+          7.5
+          Suchen 
+          7.6
+          Den Verlauf umschreiben 
+          7.7
+          Reset entzaubert 
+          7.8
+          Fortgeschrittenes Merging 
+          7.9
+          Rerere 
+          7.10
+          Debuggen mit Git 
+          7.11
+          Submodule 
+          7.12
+          Bundling 
+          7.13
+          Replace (Ersetzen) 
+          7.14
+          Anmeldeinformationen speichern 
+          7.15
+          Zusammenfassung 
+  8. Git einrichten
+          8.1
+          Git Konfiguration 
+          8.2
+          Git-Attribute 
+          8.3
+          Git Hooks 
+          8.4
+          Beispiel für Git-forcierte Regeln 
+          8.5
+          Zusammenfassung 
+  9. Git und andere Systeme
+          9.1
+          Git als Client 
+          9.2
+          Migration zu Git 
+          9.3
+          Zusammenfassung 
+  10. Git Interna
+          10.1
+          Basisbefehle und Standardbefehle (Plumbing and Porcelain) 
+          10.2
+          Git Objekte 
+          10.3
+          Git Referenzen 
+          10.4
+          Packdateien (engl. Packfiles) 
+          10.5
+          Die Referenzspezifikation (engl. Refspec) 
+          10.6
+          Transfer Protokolle 
+          10.7
+          Wartung und Datenwiederherstellung 
+          10.8
+          Zusammenfassung 
+  A1. Appendix A: Git in anderen Umgebungen
+          A1.1
+          Grafische Schnittstellen 
+          A1.2
+          Git in Visual Studio 
+          A1.3
+          Git in Visual Studio Code 
+          A1.4
+          Git in Eclipse 
+          A1.5
+          Git in IntelliJ / PyCharm / WebStorm / PhpStorm / RubyMine 
+          A1.6
+          Git in Sublime Text 
+          A1.7
+          Git in Bash 
+          A1.8
+          Git in Zsh 
+          A1.9
+          Git in PowerShell 
+          A1.10
+          Zusammenfassung 
+  A2. Appendix B: Git in Ihre Anwendungen einbetten
+          A2.1
+          Die Git-Kommandozeile 
+          A2.2
+          Libgit2 
+          A2.3
+          JGit 
+          A2.4
+          go-git 
+          A2.5
+          Dulwich 
+  A3. Appendix C: Git Kommandos
+          A3.1
+          Setup und Konfiguration 
+          A3.2
+          Projekte importieren und erstellen 
+          A3.3
+          Einfache Snapshot-Funktionen 
+          A3.4
+          Branching und Merging 
+          A3.5
+          Projekte gemeinsam nutzen und aktualisieren 
+          A3.6
+          Kontrollieren und Vergleichen 
+          A3.7
+          Debugging 
+          A3.8
+          Patchen bzw. Fehlerkorrektur 
+          A3.9
+          E-mails 
+          A3.10
+          Externe Systeme 
+          A3.11
+          Administration 
+          A3.12
+          Basisbefehle 
+      2nd Edition
+    3.4 Git Branching - Branching-Workflows
+Branching-Workflows
+Jetzt haben Sie die Grundlagen des Verzweigens (Branching) und Zusammenführens (Merging) kennengelernt. Was können oder sollten Sie damit anfangen?
+In diesem Abschnitt werden wir einige gängige Arbeitsabläufe vorstellen, welche das vereinfachte Branching ermöglichen, so dass Sie entscheiden können, ob Sie es in Ihren eigenen Entwicklungszyklus integrieren möchten.
+Langfristige Branches
+Da Git ein einfaches 3-Wege-Merge verwendet, ist mehrmaliges Zusammenführen von einem Branch in einen anderen über einen langen Zeitraum generell einfach zu bewerkstelligen.
+Das bedeutet, Sie können mehrere Branches haben, die immer offen sind und die Sie für unterschiedliche Stadien Ihres Entwicklungszyklus verwenden; Sie können sie regelmäßig mit anderen zusammenführen.
+Viele Git-Entwickler haben einen Arbeitsablauf, welcher den Ansatz verfolgt, nur vollkommen stabilen Code im master Branch zu haben – möglicherweise auch nur Code, der released wurde oder werden soll.
+Sie haben einen weiteren parallelen Branch namens develop oder next, auf dem Sie arbeiten oder ihn für Stabilitätstests nutzen – dieser ist nicht zwangsläufig stabil, aber wann immer er einen stabilen Zustand erreicht, kann er mit dem master Branch zusammengeführt werden.
+Er wird benutzt, um Themen-Branches (kurzfristige Branches, wie Ihr früherer iss53 Branch) einfließen zu lassen, wenn diese fertiggestellt sind, um sicherzustellen, dass diese alle Tests bestehen und keine Fehler einschleppen.
+Eigentlich reden wir gerade über Pointer, die sich in der Reihe der Commits, die Sie durchführen, aufwärts bewegen.
+Die stabilen Branches sind weiter hinten und die allerneuesten Branches sind weiter vorn im Verlauf.
+Figure 26. Lineares Modell eines Branchings mit zunehmender Stabilität
+Es ist gewöhnlich einfacher, sich die verschiedenen Branches als Silos vorzustellen, in denen Sätze von Commits in stabilere Silos aufsteigen, sobald sie vollständig getestet wurden.
+Figure 27. „Silo“-Modell eines Branchings mit zunehmender Stabilität
+Sie können das für mehrere Stabilitätsgrade einrichten.
+Einige größere Projekte haben auch einen Branch proposed (vorgeschlagen) oder pu (proposed updates – vorgeschlagene Updates), in welchem Branches integriert sind, die vielleicht noch nicht bereit sind, in den Branch next oder master einzufließen.
+Die Idee dahinter ist, dass Ihre Branches verschiedene Stabilitäts-Level repräsentieren; sobald sie einen Grad höherer Stabilität erreichen, werden sie mit dem nächsthöheren Branch zusammengeführt.
+Nochmal, langfristig verschiedene Branches parallel laufen zu lassen, ist nicht notwendig, aber oft hilfreich, insbesondere wenn man es mit sehr großen oder komplexen Projekten zu tun hat.
+Themen-Branches
+Themen-Branches (Topic-Branches) sind in Projekten jeder Größe nützlich.
+Ein Themen-Branch ist ein kurzlebiger Branch, welchen Sie für eine ganz bestimmte Funktion oder zusammengehörende Arbeiten erstellen und benutzten.
+Das ist etwas, was Sie wahrscheinlich noch nie zuvor mit einem Versionsverwaltungssystem gemacht haben, weil es normalerweise zu aufwändig und mühsam ist, Branches zu erstellen und zusammenzuführen.
+Aber bei Git ist es vollkommen üblich, mehrmals am Tag Branches zu erstellen, an ihnen zu arbeiten, sie zusammenzuführen und sie anschließend wieder zu löschen.
+Sie haben das im letzten Abschnitt an den Branches iss53 und hotfix gesehen, die Sie erstellt haben.
+Sie führten mehrere Commits auf diesen Branches durch und löschten sie sofort, nachdem Sie sie mit Ihrem Hauptbranch zusammengeführt haben.
+Diese Technik erlaubt es Ihnen, schnell und vollständig den Kontext zu wechseln – da Ihre Arbeit auf verschiedene Silos aufgeteilt ist, wo alle Änderungen auf diesem Branch unter diese Thematik fallen, ist es leichter nachzuvollziehen, was bei Code-Überprüfungen und Ähnlichem geschehen ist.
+Sie können die Änderungen darin für Minuten, Tage oder Monate aufbewahren und sie einfließen lassen (mergen), wenn diese fertig sind, ungeachtet der Reihenfolge, in welcher diese erstellt oder bearbeitet wurden.
+Betrachten wir folgendes Beispiel: Sie erledigen gerade einige Arbeiten (auf master), zweigen davon ab wegen eines Problems (iss91), arbeiten daran eine Weile, zweigen davon den zweiten Branch ab, um eine andere Möglichkeit zur Handhabung desselben Problems auszuprobieren (iss91v2), wechseln zurück zu Ihrem master Branch und arbeiten dort eine Zeit lang, und zweigen dann dort nochmal ab, um etwas zu versuchen, bei dem Sie sich nicht sicher sind, ob es eine gute Idee ist (dumbidea Branch).
+Ihr Commit-Verlauf wird in etwa so aussehen:
+Figure 28. Mehrere Themen-Branches
+Angenommen, Sie haben sich jetzt entschieden, dass Ihnen die zweite Lösung für Ihr Problem (iss91v2) am besten gefällt; und Sie haben den dumbidea Branch Ihren Mitarbeitern gezeigt und es hat sich herausgestellt, dass er genial ist.
+Sie können also den ursprünglichen iss91 Branch (unter Verlust der Commits C5 und C6) wegwerfen und die anderen beiden einfließen lassen.
+Ihr Verlauf sieht dann so aus:
+Figure 29. Verlauf nach dem Mergen von dumbidea und iss91v2
+In Kapitel 5 Verteiltes Git werden wir die verschiedenen möglichen Arbeitsabläufe für Ihr Git-Projekt noch detaillierter betrachten. Bevor Sie sich also entscheiden, welches Branching-Modell Sie für Ihr nächstes Projekt nutzen wollen, sollten Sie unbedingt dieses Kapitel gelesen haben.
+Es ist wichtig, sich bei all dem daran zu erinnern, dass diese Branches nur lokal existieren.
+Wenn Sie Branches anlegen und zusammenführen, geschieht das alles nur in Ihrem lokalen Git-Repository – es findet keine Server-Kommunikation statt.
+prev | next
+    About this site
+    Patches, suggestions, and comments are welcome.
+    Git is a member of Software Freedom Conservancy

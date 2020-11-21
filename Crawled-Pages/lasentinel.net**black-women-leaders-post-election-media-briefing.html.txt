@@ -1,0 +1,330 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Black Women leaders’ post-election media briefing            
+				By Charlene Muhammad, Contributing Writer                
+	                	                Published November 30, 2016
+		Black women leaders analyzed the role race and gender played in the 2016 Presidential Election during a post-election media briefing.
+They also analyzed age factors during the Nov. 16 phone conference to highlight how Americans elected Donald Trump, rather than Hillary Clinton, as their 45th president.
+The Black Women’s Roundtable Intergenerational Public Policy Network and National Coalition on Black Civic Participation (NCBCP) hosted the call. The NCBCP creates and enlightens communities by building institutional capacity that provides and develops leadership. The BWR promotes health and wellness, economic security and sustainability, education and global empowerment.
+        ADVERTISEMENT        
+“What actually happened? What were the victories for women from a national perspective, as well as a state-based perspective,” said Melanie Campbell, convener, Black Women’s Roundtable (BWR), President &amp; CEO, NCBCP.
+The women discussed how the election will impact women’s rights and social justice on national, state, and local levels.
+They utilized CNN exit polls to get a sense of who voted, how they voted, and how the election really broke.
+“Any analysis of that data shows without any sort of equivocation whatsoever that this was a race that was decided on the basis of race,” said Dr. Avis Jones-DeWeever, president, Incite Unlimited, Senior Policy Advisor, BWR.
+Donald Trump was able to energize the White electorate, and he won based on the White electorate, alone, she stated.
+Whites she continued voted for Donald Trump in every stratification across the board imaginable: gender, education, age, income levels.
+“He carried Whites and nobody else. Every other racial group voted against this candidate,” stated Dr. Jones-DeWeever.
+Briefing speakers highlighted how race trumped gender and everything else.
+Clinton lost, even with the historical opportunity to elect the first woman as president of the United States. While she carried women, generally, that was completely based on the voting power of women color, briefing speakers emphasized.
+The briefing further highlighted, Trump carried White women, and lost all other women of color, specifically White women by 53 percent.
+Ninety-four percent of Black women voted for Clinton, 68 percent of Latinas, and she also carried Asian women voters, briefing speakers said.
+“It really was women of color vs. White women in this election,” analyzed Dr. Jones-DeWeever.
+Panelists also included Salandra Benton (Convener, Florida BWR, FCBCP, Community Organizer, FL AFL-CIO), Helen Butler (Executive Director, Georgia Coalition for the Peoples Agenda, GA BWR), Alyssa Canty (State Coordinator, North Carolina Black Youth Vote, HBCU Coordinator, Common Cause), Holli Holliday, Esq. (Unity ’16 National Campaign Manager, NCBCP), Carol Joyner, Director (Labor Project for Working Families, Family Values @ Work), Carmen Perez (Executive Director, The Gathering for Justice), Jessica Pierce (National Chair, BYP100), Kristin Rowe-Finkbeiner (Executive Director/CEO &amp; Co-Founder, Moms Rising), Elsie Scott, PhD (Founding Director, Ronald W. Walters Leadership &amp; Public Policy Center @ Howard University), and Petee Talley (Convener, Ohio Unity Coalition, Secretary-Treasurer, Ohio AFL-CIO).
+They said they’ll continue to compile information, including on the loss of minority representation, man or woman.
+Before their Q&amp;A with reporters, panelists gave their perspective on national, state and local issues facing women’s rights, economic and social justice, and their further views on the impact of the elections.
+“Everybody in the African American faith community knew that there was a 50/50 chance that either candidate had a chance of winning, but I think that the surprise for the faith community was the majority of the faith community that chose race over equality, over justice, over other issues that were basic and core beliefs of the faith,” said Dr. Barbara Williams Skinner, co-chair, National African American Clergy Network.
+For instance, 81 percent of the White evangelical community, 55 percent of those non-evangelical but listed as Christians, 61 percent of Mormons, 52 percent of Catholics, voted generally along racial lines, Dr. Skinner pointed out.
+They basically joined other White Americans in voting along those lines, even when their core beliefs were being violated, she said. The lone exceptions were the Jewish community, people of Jewish faith, and the Black church, she said.
+“I think the troubling issue for the Black church that played a major role in Black voter turnout was the impact of voter suppression that had started after the 2012 race, where for the first time, the Black turnout was higher than the White,” Dr. Skinner stated.
+“While many are devastated, particularly when looking at younger people in this country, who already felt disenfranchised going into the election and then coming out of it knowing that we now have someone who we cannot believe in any way, shape or form has our best interest at heart, is further devastating,” Tamika Mallory, Board Member, Justice League NY.
+She said a good aspect of the outcome is more young people are understanding what the voting process looks like, what their engagement needs to be.
+More people, particularly youth, are interested in local elections, where their heavy focus will be, she said.
+“I think if there’s one thing that has come out of this it’s the ability to get more people interested in the process and working together in tighter networks, so we are able to make the necessary moves in the future so that our numbers are not indicative of people who believe that not voting is the way to show your frustration, but rather, voting in large turnout is more of what is necessary in order for us to make sure our voices are heard and get our issues to the table,” Mallory said.
+		Categories: National | News | Political Tags: Black Women’s Roundtable | Black Women’s Roundtable Intergenerational Public Policy Network | BWR | Charlene Muhammad | National Coalition on Black Civic Participation | NCBCP		
+						Bernard LaFayette Jr. Wins Gandhi Award
+						Baton Rouge council approves settlement with protesters
+						Education Secretary King calls for end to paddling students
+						SCAQMD Issues Dust and Ash Advisory Due to Strong Winds in the Southland
+						Council renames street section to honor civil rights leader
+						Historical marker commemorates ‘Buffalo soldiers’ in Vermont
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

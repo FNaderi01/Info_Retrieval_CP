@@ -1,0 +1,320 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Santa Monica College Students Honored With  2016 Education Awards            
+				By Sentinel News Service                
+	                	                Published January 27, 2016
+		Courtesy Photo
+Five Santa Monica College students and a senior from Point Loma High School were presented the Rev. Dr. Martin Luther King, Jr. Westside Coalition 2016 Education Awards at a ceremony held Jan. 18 to commemorate Dr. King’s birthday.
+This year’s awards recipients are:
+• SMC sophomore Aljzana Hobdy-Clayton, who received the 2016 Clyde Smith Award for her poem “Don’t Let Those 6 Principles Go.” The award for ‘artistic effort and service to making our world a better place’ is given to celebrate the life of MLK Westside Coalition co-founder, director of the former Neighborhood Development Corporation (NRDC), and revered community leader Clyde Smith.
+        ADVERTISEMENT        
+• SMC sophomore Terrance Chavez Ware, Jr., received the 2016 Saul Morrison Award for his essay “Peace Requires Defeating Injustice.” The award for an essay that ‘demonstrates a passion for bridge-building, community, and leadership’ is presented to honor the memory and efforts of social activist Saul Morrison to secure equal opportunities for everyone.
+• SMC freshman Brenda De Angel received the 2016 Lillie Bell Blakley Award for her essay “Peace requires Justice.” The award for an essay that ‘demonstrates an awareness of tradition, legacy, and history’ is given in honor of Lillie Bell Blakley, whose passion to “keep moving forward” is apparent in her family’s multigenerational commitment to education and service, which includes son and former Mayor of Santa Monica Nathaniel Trives, as well as granddaughter Dr. Toni Trives, chair of the SMC Modern Languages and Cultures Department.
+• SMC sophomore Damian Tarelle Butts received the MLK Westside Coalition’s 2016 First Place Award for his poem “The Non-Violent Way” and his original illustration of Dr. King.
+• SMC sophomore Chrisauna Chery received a 2016 Honorable Mention Award from the MLK Westside Coalition for her poem “A Plea to Cry over Spilt Milk.”
+Also, Point Loma High School senior Brooklynn Jade White received a 2016 Honorable Mention Award from the MLK Westside Coalition for her essay on Dr. King’s “Six Principles of Nonviolence.”
+Each year, schools, churches, and youth groups invite college and high school students to submit an essay, poem, or other creative work that exemplifies the “Six Principles of Nonviolence” in Dr. King’s Stride Toward Freedom. The awards are supported by endowments established in memory of local community activists and managed by the Santa College Foundation.
+SMC student Hobdy-Clayton – who was homeschooled until 11th grade – said, “My dad taught me how to read, and I have embraced literature and expression of such ever since.” Despite being told it was not possible, she graduated with honors and poetry awards. “My situations only caused me to strive harder for things that matter most to me.”
+SMC student Ware – who contributes heavily to his household’s food income – states quite firmly that he has “a natural hatred for ignorant situations and people.” The first -generation college student plans to earn a Master’s degree in accounting and become a Certified Public Accountant (CPA).
+SMC student De Angel – who migrated to the US from Mexico at age 2 – said she believed “nothing is impossible despite my citizenship status.” She is a full-time SMC student and a part-time cashier at a nearby amusement park, but is “still able to give back to my community by volunteering for two years at two hospitals.”
+SMC student Butts – who is involved in SMC’s Black Collegians and STEM programs and volunteers as a homework helper at the Boys and Girls Club – is pursuing a career as a software developer. “I’m interested in researching human-computer interactions,” he said, “and the challenges of making computers useful, usable, and universally accessible to humans.”
+SMC student Chery is studying to become a history teacher, and enjoys writing “when the inspiration is present” and creating new experiences with her friends.
+To find out more about the Education Awards or to help support the awards, please call the SMC Foundation at (310) 434-4215.
+		Categories: Education | Local | News Tags: Aljzana Hobdy-Clayton | Brenda De Angel | Brooklynn Jade White | Chrisauna Chery | Damian Tarelle Butts | Hobdy-Clayton | Jr. Westside Coalition 2016 Education Awards | Rev. Dr. Martin Luther King | Santa Monica College | Terrance Chavez Ware Jr.		
+						10th District Women’s Committee Honors Community Leaders
+						Edward James Olmos and Rick Najera Join L.A. University Leaders to Discuss ...
+						Olmos, Najera Join Los Angeles University Leaders for Panel on Diversity in...
+						CSUN University Student Union Director Receives CSU’s Highest Honor
+						Girls Fly! Day at the Races for Charity, ‘A Big Success’
+						The Fight To End Child Sex Trafficking In Los Angeles Continues
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

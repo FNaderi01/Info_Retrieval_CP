@@ -1,0 +1,319 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Black Violence: Beyond Statistics and Hype            
+				By Larry Aubry                
+	                	                Published August 2, 2018
+		Larry Aubry (File Photo)
+America was built on violence and a propensity for violence is evidenced throughout its history. Many feel that this likely stems from a euro-centric propensity for dominance and   greed that contaminates others, but none more than Blacks who singularly bore the horrific burden of chattel slavery.
+That said, aided by a troubling collective silence, violence among inner-city Blacks remains high. Of course, like everyone else, Black people denounce violence, but in some inner-city neighborhoods, do physically harm each other with disturbing frequency. However, it is well known that adequate public resources are not being brought to bear to help remedy this extremely serious problem. And ironically, violence is both condemned and perpetuated by those most victimized. However, violence-reduction among Blacks has never been a high priority for state, local, or federal government-in fact, systemic neglect aggravates violence, especially in the inner-city. Without sustainable Black community outrage, strong leadership and political will, the situation will probably not change appreciably.
+The Los Angeles Police Department statistics on homicides and violent crime can be highly misleading. There here are pockets throughout Los Angeles, many in Black neighborhoods, where these crimes continue unabated although police data show otherwise. As mentioned, these areas generally do not receive the attention or resources needed to actually reduce violent crimes, and left unattended, conditions worsen. For example, for years, studies show LAPD has consistently understated serious crime, especially in South Central Los Angeles. Thus, in 2015 alone, murders were up 11% city wide.
+        ADVERTISEMENT        
+The term “Black-on-Black violence,” although common among Whites and Blacks themselves, is misleading and should not be used at all. It implies Blacks have a unique, if not genetic, propensity for violent behavior, which is nonsense.  Who talks about “White-on-White violence,” so why Black-on-Black violence?  The term also feeds the notion that violence among Blacks somehow differs fundamentally from violence among and between other groups.
+The underlying factors are complex but clear enough:  Violence among Blacks in inner-cities in   particular, is a manifestation of racism, poverty, frustration and an absence of hope, nurtured by systemic neglect and aggravated by prolonged silence on the part of Blacks themselves.  A poignant and disturbing example of the harmful impact of violence is the apparent steely nonchalance of Black inner-city children towards the pain and suffering of others.  They often appear impervious to the constant violence surrounding their lives.  Without caring, strategic intervention, a large number of these children’s lives will remain devoid of vision and hope. We all have a responsibility to prevent this from happening.
+Violence among Blacks both mimics this nation’s endemic violence and reflects slavery’s crippling legacy.  Slavery and psycho-social conditioning go hand-in-hand as antecedents of self-hate that is most evident in inner city young Black males. Denial of the significance of these factors- particularly by middle-class Blacks- tends to deflect a critically needed focus on the problem.
+America’s endemic violence, and entrenched materialism and individualism have been internalized by Blacks even though doing so is not in their best interest. In short, they have internalized the White majority’s values without full access to its benefits.
+The following factors contribute to Black violence.
+Having internalized America’s values, many Blacks are reluctant to challenge White privilege; for them, to do so (without alternative values)-is tantamount to challenging themselves. Hence the ambivalence and difficulty in shedding second-class status, an affliction that renders many Blacks complicit in their own oppression.  Other race-based factors contributing to the “less than White” affliction include: self-hate and low self-esteem; Black youth’s dysfunctional behavior; public policy and practice that actually foster injustice; inequity, and inequality in public schools’ failure to educate Black children, with impunity. A growing chasm between middle-class and poorer Blacks is also a major obstacle in Black’s   struggle for freedom and justice.
+Yes, Blacks know race matters, but many are in denial: Fearing loss of material gains, and/or status, they opt out of the fight for civil and human rights. Nonetheless, our storied resilience throughout history can never be overstated and we must see the reduction of violence as not only possible, but essential.
+New alternative strategies for reducing violence among Blacks should first include long term   partnerships among and between local Black leaders, communities, parents and schools, then, with other community groups and law enforcement
+Common ground cannot be assumed, it must be explicit with bottom-to-top accountability as an integral component in any community empowerment effort. Reducing Black violence also requires that parents and concerned others be part of planning and implementing solutions.  Remember, when it comes to schools, jobs, etc., poor people in the inner city still see little, if any change in their daily lives.
+Ultimately, existing conditions reflect what any community allows or does not allow. Race-based systemic barriers must be constantly challenged, never be overlooked or minimized.  Also, Black leadership must be held accountable for representing the interests of all constituents; in multi-ethnic communities, Blacks’ concerns are often overlooked or minimized.
+Statistically, violence in Los Angeles and other large urban cities may ebb and flow, but for many Blacks, especially those in the poor neighborhoods, things have not changed.  In the final analysis, contingent on effective leadership and a broad spectrum of community engagement, i.e., a Black united front(s)- Black people must lead and sustain the struggle to reduce violence and reclaim safe neighborhoods to which they are entitled.
+		Categories: Larry Aubry | Opinion Tags: America | black neighborhoods | Black-on-Black violence | chattel slavery | Los Angeles | Los Angeles Police Department | middle class | South Central Los Angeles | white privilege | White-on-White violence		
+						Ask Dr. Jeanette, Success On “The Way”: “The Helmsman: The Tongue: Im...
+						A CALL FOR BOLDNESS:  Biddy Mason Unsung Shero Legacy Celebration
+						Institute of the Black World 21st Century Conference
+						Congressman Ron Dellums: A ‘Fierce’ Focused Fighter
+						New National Poll Finds Consumers Still Want Financial Regulation
+						Enough with the Racism in the Rooftop Solar Industry
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

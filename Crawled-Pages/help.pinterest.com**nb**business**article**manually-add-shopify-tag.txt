@@ -1,0 +1,199 @@
+      Hopp til hovedinnhold
+        Brukerstøtte
+  Header navigation
+                  Generelt
+                  Bedrift
+  Header navigation - actions
+        Søk
+  Header navigation - anonymous
+        Logg på
+        Pinterest – Hjem
+  Open menu
+          Generelt
+          Kontotilgang og -sikkerhet
+          Problemer med Pinterest
+          Juridisk og personvern
+          Administrer kontoen din
+          Pins og tavler
+          Bedrift
+          Administrer bedriftsprofilen
+          Ads measurement
+          Ads reporting
+          Build your organic presence on Pinterest
+          Shopping on Pinterest
+          Fakturering og betaling – annonser
+          Annonsér på Pinterest
+            Kontotilgang og -sikkerhet
+            Problemer med Pinterest
+            Juridisk og personvern
+            Administrer kontoen din
+            Pins og tavler
+            Administrer bedriftsprofilen
+            Ads measurement
+            Ads reporting
+            Build your organic presence on Pinterest
+            Shopping on Pinterest
+            Fakturering og betaling – annonser
+            Annonsér på Pinterest
+              Legg til Pinterest-taggen i Shopify manuelt
+            Hvis du ikke har Pinterest for Shopify-appen, kan du bruke denne veiledningen for å installere taggen manuelt.
+Trinn 1: Basiskode
+I administratordelen av Shopify klikker du på Online Store (Nettbutikk) og deretter på Themes (Temaer)​
+Gå til temaet du vil redigere, og klikk på Actions. Klikk deretter på Edit Code
+Klikk på  theme.liquid.
+Rull ned til du ser &lt;/head&gt; og lim inn denne koden ovenfor den:
+&lt;script type="text/javascript"&gt;
+!function(e){if(!window.pintrk){window.pintrk=function()
+{window.pintrk.queue.push(Array.prototype.slice.call(arguments))};var
+n=window.pintrk;n.queue=[],n.version="3.0";var
+t=document.createElement("script");t.async=!0,t.src=e;var
+r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(t,r)}}
+("https://s.pinimg.com/ct/core.js"); 
+pintrk('load','YOUR_TAG_ID', { em: '{{ customer.email }}', });
+pintrk('page');
+&lt;/script&gt; 
+&lt;noscript&gt; 
+&lt;img height="1" width="1" style="display:none;" alt=""
+src="https://ct.pinterest.com/v3/?tid=YOUR_TAG_ID&amp;noscript=1" /&gt; 
+&lt;/noscript&gt;
+Erstatt YOUR_TAG_ID med din egen unike tagg-ID
+Du kan finne den ved å gå til annonseverktøyet og klikke på Annonser. Gå deretter til Konverteringer og trykk på Opprett Pinterest-tagg (hvis du allerede har opprettet en Pinterest-tagg, kan du klikke på navnet for å se den unike tagg-ID-en)
+Gå til oversikten for konverteringssporing og finn detaljer-delen
+Kopier det 13-sifrede nummeret under Unik tagg-ID og lim det inn i stedet for YOUR_TAG_ID  i koden
+Trinn 2: Kassekode
+I administratordelen av Shopify klikker du på Innstillinger og deretter på Checkout
+Under Order processing (Ordrebehandling), finn tekstboksen Additional scripts (Flere skript) 
+Lim inn følgende sporingskode i tekstboksen: Hvis det allerede finnes en kode i denne boksen, kan du lime inn sporingskoden etter denne
+{% if first_time_accessed %}
+&lt;script type="text/javascript"&gt;
+!function(e){if(!window.pintrk){window.pintrk=function()
+{window.pintrk.queue.push(Array.prototype.slice.call(arguments))};var
+n=window.pintrk;n.queue=[],n.version="3.0";var
+t=document.createElement("script");t.async=!0,t.src=e;var
+r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(t,r)}}
+("https://s.pinimg.com/ct/core.js");
+pintrk('load','YOUR_TAG_ID', { em: '{{ customer.email }}', }); 
+pintrk('page'); 
+&lt;/script&gt; 
+&lt;noscript&gt; 
+&lt;img height="1" width="1" style="display:none;" alt=""
+src="https://ct.pinterest.com/v3/?tid=YOUR_TAG_ID&amp;noscript=1" /&gt; 
+&lt;/noscript&gt;
+&lt;script&gt;
+pintrk('track', 'checkout',{
+value: {{ total_price }} / 100,
+currency: '{{ currency }}',
+order_quantity: 1,
+order_id: {{ checkout.id }}
+});
+&lt;/script&gt;
+&lt;noscript&gt;
+&lt;img height="1" width="1" style="display:none;" alt=""
+src="https://ct.pinterest.com/v3/?tid=YOUR_TAG_ID&amp;event=checkout&amp;noscript=1"/&gt;
+&lt;/noscript&gt;
+{% endif %}
+Husk å erstatte YOUR_TAG_ID med den unike tagg-ID-en som ble generert av annonseverktøyet.
+Trinn 3: Addtocart-kode
+I administratordelen av Shopify trykker du på Online Store og deretter på Themes.
+Trykk på Actions og Edit code i temaet du bruker nå.
+Under Templates (Maler) må du se etter kodefiler som heter product.liquid, eller product-template.liquid, eller product-form.liquid og åpne den. Vær oppmerksom på at dette kan variere avhengig av temaet du har installert, men det mest vanlige er at koden til funksjonen «legg-til-i-handlekurv» ligger under «product.liquid»-filen eller en tilsvarende fil.
+Søk etter addtocart i filen ved å trykke på command+f på Mac eller control+f på PC.
+Plasser denne koden før den avsluttende vinkelparentesen i &lt;button&gt;- eller &lt;input&gt;-elementet
+onclick="pintrk('track', 'addtocart');" 
+Klikk på Lagre øverst til høyre.
+  Andre artikler
+  Skip Andre artikler Links
+      Pinterest-kode
+                        Basiskode
+                                Eksempler på hendelseskoder
+                                Eksempler på kombinerte basis- og hendelseskoder
+            Se mer
+                                Forbedret samsvar
+                                Hendelseskoder
+                                IMG-tag
+                                Implementering av Pinterest-taggen
+                                Installer basiskoden
+                                Installer, fjern eller gjenopprett Pinterest-taggen
+                                Legg til hendelseskoder
+                                Pinterest Tag Helper-utvidelsen for Chrome
+                                Spor konverteringer med Pinterest-taggen
+                                Test hendelser for Pinterest-taggen
+      Integrasjon av Pinterest-tagger
+                        Legg til Pinterest-taggen i Shopify manuelt
+      Sporing via tredjeparter
+                        Dynamisk sporing og tredjepartssporing
+                                Spor en samlingsannonse
+      Conversions
+                        Last opp konverteringer for måling
+                                Last opp konverteringer med annonseverktøyet
+                                Last opp konverteringer med LiveRamp
+  End of Andre artikler Links
+            Trenger du fortsatt hjelp?
+                Kontakt oss
+    User feedback
+              Var denne artikkelen nyttig?
+        glad
+        trist
+        collection_fields
+        Hvordan kan vi gjøre denne artikkelen bedre?
+      Additional Response
+      Leave this field blank
+        Pinterest bruker informasjonskapsler for å gi deg en best mulig opplevelse.
+        Skjønner.
+    Skip Footer Menu
+    Velg språk
+                      English (US)
+                              Bahasa Indonesia
+                              Čeština
+                              Dansk
+                              Deutsch
+                              English (UK)
+                              Español
+                              Français
+                              Italiano
+                              Magyar
+                              Nederlands
+                              Norsk bokmål
+                              Polski
+                              Português (Brasil)
+                              Português (Europeu)
+                              Română
+                              Slovenčina
+                              Suomi
+                              Svenska
+                              Filipino
+                              Tiếng Việt
+                              Türkçe
+                              Ελληνικά
+                              Русский
+                              Ukrainian
+                              ภาษาไทย
+                              简体中文
+                              繁體中文
+                              한국어
+                              日本語
+            Om oss
+                    Impressum
+                    Hva er Pinterest
+                    Vår Pinterest-side
+                    Utviklerbloggen
+                    Retningslinjene for merkevaren
+                    Karrierer
+                    Brukerstøtte
+                    Pinterest Labs
+            Våre retningslinjer
+                    Opphavsrett
+                                          og
+                            varemerke
+                    Personlig tilpassede annonser
+                    Vilkårene for bruk
+                    Personvern
+                                          og
+                            informasjonskapsler
+            Mer info
+                    For bedrifter
+                    For utviklere
+                    For pressen
+                    For investorer
+                    End of Footer
+    © Pinterest 2020

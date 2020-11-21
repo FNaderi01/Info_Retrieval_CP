@@ -1,0 +1,245 @@
+        About
+            Branching and Merging
+            Small and Fast
+            Distributed
+            Data Assurance
+            Staging Area
+            Free and Open Source
+            Trademark
+        Documentation
+            Reference
+            Book
+            Videos
+            External Links
+        Downloads
+            GUI Clients
+            Logos
+        Community
+  Português (Brasil) ▾
+  Localized versions of git-fetch-pack manual
+        English
+        Português (Brasil)
+    Want to read in your language or fix typos? You can help translate this page.
+    Topics ▾
+      Setup and Config
+  git
+  config
+  help
+  bugreport
+      Getting and Creating Projects
+  init
+  clone
+      Basic Snapshotting
+  add
+  status
+  diff
+  commit
+  notes
+  restore
+  reset
+  rm
+  mv
+      Branching and Merging
+  branch
+  checkout
+  switch
+  merge
+  mergetool
+  log
+  stash
+  tag
+  worktree
+      Sharing and Updating Projects
+  fetch
+  pull
+  push
+  remote
+  submodule
+      Inspection and Comparison
+  show
+  log
+  diff
+  difftool
+  range-diff
+  shortlog
+  describe
+      Patching
+  apply
+  cherry-pick
+  diff
+  rebase
+  revert
+      Debugging
+  bisect
+  blame
+  grep
+      Email
+  am
+  apply
+  format-patch
+  send-email
+  request-pull
+      External Systems
+  svn
+  fast-import
+      Server Admin
+  daemon
+  update-server-info
+      Guides
+  gitattributes
+  Command-line interface conventions
+  Everyday Git
+  Frequently Asked Questions (FAQ)
+  Glossary
+  githooks
+  gitignore
+  gitmodules
+  Revisions
+  Submodules
+  Tutorial
+  Workflows
+      Administration
+  clean
+  gc
+  fsck
+  reflog
+  filter-branch
+  instaweb
+  archive
+  bundle
+      Plumbing Commands
+  cat-file
+  check-ignore
+  checkout-index
+  commit-tree
+  count-objects
+  diff-index
+  for-each-ref
+  hash-object
+  ls-files
+  ls-tree
+  merge-base
+  read-tree
+  rev-list
+  rev-parse
+  show-ref
+  symbolic-ref
+  update-index
+  update-ref
+  verify-pack
+  write-tree
+      Latest version
+       ▾ 
+git-fetch-pack last updated in 2.28.0
+  Changes in the git-fetch-pack manual
+        2.18.1 → 2.28.0 no changes
+        2.18.0
+          06/21/18
+        2.12.5 → 2.17.5 no changes
+        2.11.4
+          09/22/17
+        2.10.5 no changes
+        2.9.5
+          07/30/17
+        2.8.6
+          07/30/17
+        2.5.6 → 2.7.6 no changes
+        2.4.12
+          05/05/17
+    See more previous releases → -->
+    Check your version of git by running
+    $
+NOME
+git-fetch-pack - Recebe os objetos ausentes vindos de um outro repositório
+RESUMO
+git fetch-pack [--all] [--quiet|-q] [--keep|-k] [--thin] [--include-tag]
+	[--upload-pack=&lt;pacote-de-upload-do-git&gt;]
+	[--depth=&lt;n&gt;] [--no-progress]
+	[-v] &lt;repositório&gt; [&lt;refs&gt;…​]
+DESCRIÇÃO
+No lugar utilize git fetch que é um wrapper de maior hierarquia deste
+comando.
+Invoca o git-upload-pack em um repositório possivelmente remoto e solicita
+que ele envie os objetos autilizentes deste repositório, para atualizar
+determinados heads.  A lista dos commits disponíveis localmente é
+descoberta examinando os refs/ da hierarquia local e enviada para o
+git-upload-pack durante a execução na outra extremidade.
+Este comando deteriora durante o download de tudo para concluir os refs
+solicitados do lado remoto quando o lado local não possui um commit com um
+ancestral comum.
+OPÇÕES
+ --all 
+Busque todas os refs remotos.
+ --stdin 
+Pegue a lista dos refs do stdin, um por linha. Caso haja refs utilizados
+na linha de comando, além desta opção, os refs do stdin serão processados
+após as da linha de comando.
+Caso --stateless-rpc seja utilizado junto com esta opção, a lista de
+referências deverá estar no formato do pacote (linha-pkt). Cada ref deve
+estar em um pacote separado e a lista deve terminar com um pacote liberado.
+ -q 
+ --quiet 
+Passe o flag -q para o git unpack-objects; isso torna o processo de
+clonagem menos detalhado.
+ -k 
+ --keep 
+Não invoque o git unpack-objects nos dados recebidos, porém crie um único
+arquivo do pacote a partir dele e armazene-o no banco de dados do
+objeto. Caso seja utilizado duas vezes, o pacote será bloqueado contra a
+reembalagem.
+ --thin 
+Busque um pacote "thin", que registra os objetos em um formato "deltificado"
+com base nos objetos não inclusos no pacote para reduzir o tráfego de rede.
+ --include-tag 
+Caso haja compatibilidade com o lado remoto, os objetos das tags anotadas
+serão baixados na mesma conexão que os outros objetos, caso o objeto ao qual
+a tag faça referência seja baixado.  Caso contrário, aquele que chama deve
+determinar as tags que esta opção deixou disponível.
+ --upload-pack=&lt;pacote-de-upload-do-git&gt; 
+Utilize para informar o caminho para git-upload-pack no lado remoto, caso
+não seja encontrado no seu $PATH.  As instalações do sshd ignoram os scripts
+de configuração do ambiente do usuário para logins nas shells (.bash_profile
+por exemplo) e o a instalação do seu git pode não ser encontrado no $PATH
+predefinido do sistema.  A outra solução sugerida é configurar o seu $PATH
+em ".bashrc", mas este flag são para pessoas que não desejam pagar o preço
+da sobrecarga em shells não interativos com um arquivo ".bashrc" enxuto
+(eles definem a maioria das coisas em .bash_profile).
+ --exec=&lt;pacote-de-upload-do-git&gt; 
+O mesmo que --upload-pack=&lt;pacote-de-upload-do-git&gt;.
+ --depth=&lt;n&gt; 
+Limite a captura para as cadeias de ancestrais não maiores que n.  O
+git-upload-pack trata a profundidade especial "2147483647" como infinita,
+mesmo que exista uma cadeia de ancestrais tão antiga.
+ --shallow-since=&lt;data&gt; 
+Aprofunde ou encurte o histórico de um repositório raso para incluir todas
+os commits acessíveis após a &lt;data&gt;.
+ --shallow-exclude=&lt;revisão&gt; 
+Aprofunde ou diminua o histórico de um repositório raso para excluir os
+commits acessíveis vindos de uma determinada tag ou ramificação remota.
+Esta opção pode ser utilizada várias vezes.
+ --deepen-relative 
+O argumento --depth determina a quantidade limite dos commits atual da
+superfície em vez do cume de cada histórico do ramo remoto.
+ --no-progress 
+Não exiba o progresso.
+ --check-self-contained-and-connected 
+Exiba "connectivity-ok" caso o pacote recebido seja independente e
+conectado.
+ -v 
+Rode de forma loquaz.
+ &lt;repositório&gt; 
+A URL para o repositório remoto.
+ &lt;refs&gt;…​ 
+Os cabeçalhos remotos que serão atualizados. Isso é relativo ao $GIT_DIR
+("HEAD", "refs/heads/master" por exemplo).  Quando não especificado, receba
+a atualização de todos os cabeçalhos que o lado tiver.
+Caso o lado remoto tenha as opções uploadpack.allowTipSHA1InWant,
+uploadpack.allowReachableSHA1InWant, ou uploadpack.allowAnySHA1InWant
+ativadas, eles poderão alternativamente ser sha1 com 40-hex.
+VEJA TAMBÉM
+git-fetch[1]
+GIT
+Parte do conjunto git[1]
+    About this site
+    Patches, suggestions, and comments are welcome.
+    Git is a member of Software Freedom Conservancy

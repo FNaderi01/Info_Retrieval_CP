@@ -1,0 +1,161 @@
+     category > maptopic > article -->
+    GitHub Docs
+    All products
+  REST API
+          Overview
+          Resources in the REST API
+          Media types
+          Other authentication methods
+          Troubleshooting
+          API previews
+          Libraries
+          Endpoints available for GitHub Apps
+          Reference
+          Activity
+          Apps
+          Checks
+          Codes of conduct
+          Emojis
+          GitHub Enterprise administration
+          Gists
+          Git database
+          Gitignore
+          Issues
+          Licenses
+          Markdown
+          Meta
+          OAuth Authorizations
+          Organizations
+          Projects
+          Pulls
+          Rate limit
+          Reactions
+          Repositories
+          Search
+          Teams
+          Users
+          Permissions required for GitHub Apps
+          Guides
+          Getting started with the REST API
+          Basics of authentication
+          Discovering resources for a user
+          Delivering deployments
+          Rendering data as graphs
+          Working with comments
+          Traversing with pagination
+          Building a CI server
+          Best practices for integrators
+          Getting started with the Git Database API
+          Getting started with the Checks API
+        GitHub Docs
+                Explore by product
+                      REST API
+                       GitHub.com
+                       Enterprise Administrators
+                       GitHub Actions
+                       GitHub Packages
+                       Developers
+                       REST API
+                       GraphQL API
+                       GitHub Insights
+                       GitHub Desktop
+                       Atom
+                       Electron
+                            English
+                              English
+                              简体中文 (Simplified Chinese)
+                              日本語 (Japanese)
+                              Español (Spanish)
+                              Português do Brasil (Portuguese)
+      Article version: Enterprise Server 2.21
+      Free, Pro, and Team
+      Enterprise Server 2.22
+      Enterprise Server 2.21
+      Enterprise Server 2.20
+      Enterprise Server 2.19
+    REST API
+      Article version: Enterprise Server 2.21
+      Free, Pro, and Team
+      Enterprise Server 2.22
+      Enterprise Server 2.21
+      Enterprise Server 2.20
+      Enterprise Server 2.19
+        GitHub REST API
+        You can use the GitHub REST API to create calls to get the data you need to integrate with GitHub.
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        Required
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        Optional
+      Can we contact you if we have more questions?
+        Optional
+      Send
+    Thank you! Your feedback has been submitted.
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  Or, learn how to contribute.
+  REST API overview→
+Learn about resources, libraries, previews and troubleshooting for GitHub's REST API.
+  Reference→
+View reference documentation to learn about the resources available in the GitHub REST API.
+  Guides→
+Learn about getting started with the REST API, authentication, and how to use the REST API for a variety of tasks.
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        Required
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        Optional
+      Can we contact you if we have more questions?
+        Optional
+      Send
+    Thank you! Your feedback has been submitted.
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  Or, learn how to contribute.
+      Still need help?
+      Ask the GitHub community
+      Contact support
+        Product
+          Features
+          Security
+          Enterprise
+          Case Studies
+          Pricing
+          Resources
+        Platform
+          Developer API
+          Partners
+          Atom
+          Electron
+          GitHub Desktop
+        Support
+          Help
+          Community Forum
+          Training
+          Status
+          Contact GitHub
+        Company
+          About
+          Blog
+          Careers
+          Press
+          Shop
+        © 2020 GitHub, Inc.
+        Terms 
+        Privacy 

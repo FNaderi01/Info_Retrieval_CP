@@ -1,0 +1,320 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Dr. William J. Barber II, McArthur Genius Grant Recipient            
+				By Stacy M. Brown, NNPA Newswire                
+	                	                Published October 25, 2018
+		Reverend William Barber II, president of the North Carolina state chapter of the NAACP, delivered an electrifying speech during the 2017 NNPA Mid-Winter Conference in Fort Lauderdale, Fla. (Freddie Allen/AMG/NNPA)
+Rev. Dr. William J. Barber II has earned his status as one of the nation’s leading civil rights advocates. Having launched initiatives like “Moral Mondays” to resist extremist retrogressive agendas and the re-launching of the 1960’s “Poor People’s Campaign,” Barber has remained front and center at movements that not only call out racism and inequality, but also seek to better the lives of the poor and downtrodden.
+This month, Barber was among 25 other distinguished individuals selected to receive the prestigious 2018 McArthur Foundation “Genius Grant.”
+African-American writer John Keene, who explores the impact of historical narratives on contemporary lives and re-imaging the history of the Americas from the perspective of suppressed voices, was also among the recipients.
+        ADVERTISEMENT        
+“It is a deep and profound honor and overwhelming surprise to receive this award. It inspires me to keep working, keep standing, keep loving and to continue working for the cause of justice,” Rev. Barber told Ebony Magazine.
+“The moral crises of our time are the interlocking evils of systemic racism, poverty, ecological devastation, the war economy, and the false, distorted moral narrative of so-called ‘religious nationalism.’”
+“I, along with others, believe that only a moral fusion movement can work to change these realities,” Barber said.
+A pastor and social justice advocate, building a broad-based grassroots movement grounded in the moral tenets of faith-based communities and the United States Constitution to confront racial and economic inequalities in America today, Barber’s reach extends far beyond his duties at Greenleaf Christian Church in Goldsboro, North Carolina.
+For more than a dozen years, Barber served as president of the North Carolina conference of the NAACP.
+“He is effective at building unusually inclusive fusion coalitions that are multiracial and interfaith, reach across gender, age and class lines, and are dedicated to addressing poverty, inequality and systemic racism,” MacArthur officials said in a news release.
+“When his work to expand voting rights, health care, living wages, immigrant rights, public education and LGBTQ rights was thwarted by state lawmakers in North Carolina, Barber began a series of ‘Moral Monday’ rallies outside of the statehouse in Raleigh to protest laws that suppressed voter turnout, cut funding for public education and health care, and further disenfranchised poor white, black, First Nations, and LGBTQ communities,” the release stated.
+The Moral Monday marches and associated nonviolent acts of civil disobedience grew to involve tens of thousands of participants across North Carolina and have spread to other states. The movement waged successful legal challenges to voter suppression and racial gerrymandering and engaged in massive voter registration and education efforts.
+“They called me. I told them to stop playing. I thought it was a prank,” Barber told NPR about first hearing he was the recipient of the $625,000 grant.
+“Then they said, no, this is for real. Then the next thing for me was tears. I thought about all the things that my parents have done and sacrificed and all of the years of just working and trying to serve. It was kind of overwhelming,” he said.
+“And, you know, especially when – in the work I do, a lot of times, people are very, very nasty in their criticisms. They say you’re doing it for money. You’re doing it for attention. They question your motives when the reality is, you know, you just want to love people and see justice. You want to see people have voting rights and people have health care and people treated right regardless of their race, their color, their creed, their sexuality. So, a gift like this says somebody else sees what you’re trying to do, and they want to be a part of you continuing to do that work.
+“So, when they told me that the announcement had come out, I was actually in custody from standing with low-wage workers and nurses and people working at McDonald’s. And that’s what I was doing.”
+		Categories: National | News | News (Business) | Religion Tags: ‘Moral Monday’ rallies | 2018 McArthur Foundation Genius Grant | Dr. William J. Barber II | Greenleaf Christian Church | health care | immigrant rights | LGBTQ rights | living wages | low-wage workers | north carolina | North Carolina conference of the NAACP | nurses | public education | voting rights		
+						Councilwoman Martinez Recognizes Three-Year Anniversary of the LAPD Operati...
+						Pimp Found Guilty of Human Trafficking of Minors
+						Congresswoman Waters Statement on Suspicious Package
+						Aging Autocrat Whips Opposition and Claims Victory in A Disputed Poll
+						Over 200,000 Congolese Driven Out of Angola in Anti-Smuggling Row
+						Namibia Agrees to ‘Land Deal’ with Russian Billionaire
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

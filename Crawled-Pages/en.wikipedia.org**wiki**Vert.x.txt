@@ -1,0 +1,107 @@
+	Vert.x
+		From Wikipedia, the free encyclopedia
+		Jump to navigation
+		Jump to search
+		Vert.xOriginal author(s)Tim FoxDeveloper(s)Tim Fox, VMWare, Red Hat, Eclipse FoundationStable release3.9.2
+   / July 22, 2020; 2 months ago (2020-07-22)[1]Preview release4.0.0.Beta1
+   / July 28, 2020; 2 months ago (2020-07-28)[2]
+Repositorygithub.com/eclipse/vert.x
+ Written inJava, JavaScript, Apache Groovy, Ruby, Scala, KotlinOperating systemCross-platformPlatformJava Virtual MachineTypeEvent-driven networkingLicenseApache License ver. 2.0, Eclipse Public License ver. 2.0Websitevertx.io
+.mw-parser-output .portal{border:solid #aaa 1px;padding:0}.mw-parser-output .portal.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portal.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portal>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portal>ul>li{display:table-row}.mw-parser-output .portal>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portal>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}
+Free and open-source software portal
+Eclipse Vert.x is a polyglot event-driven application framework that runs on the Java Virtual Machine.[3][4]
+Similar environments written in other programming languages include Node.js for JavaScript, Twisted for Python, Perl Object Environment for Perl, libevent for C, reactPHP and amphp for PHP and EventMachine for Ruby.
+As of version 2.1.4, Vert.x exposes its API in Java, JavaScript, Groovy, Ruby, Python, Scala, Clojure and Ceylon.
+As of version 3.7.0, Vert.x exposes its API in Java, JavaScript, Groovy, Ruby, Scala, Kotlin and Ceylon.
+As of version 3.9.1, Vert.x exposes its API in Java, JavaScript, Groovy, Ruby, Scala and Kotlin.
+Contents
+1 History
+2 Architecture
+3 Examples
+4 References
+5 External links
+History[edit]
+Vert.x was started by Tim Fox in 2011 while he was employed by VMware.
+Fox initially named the project "Node.x", a play on the naming of Node.js, with the "x" representing the fact that the new project was polyglot in nature, and didn't simply support JavaScript. The project was later renamed to "Vert.x" to avoid any potential legal issues as "Node" was a trademark owned by Joyent Inc.[5] The new name was also a play on the name node, as a vertex is a synonym for a node in mathematics.
+In December 2012, after he left their employment, VMware served legal papers on Tim Fox to take control of the Vert.x trademark, domain name, blog, Github account, and Google Group from the Vert.x community[6][7]
+After much discussion with other parties, in January 2013, VMware was persuaded that it would be in the best interests of the Vert.x community to move the project and associated IP to the Eclipse Foundation, a neutral legal entity.[8]
+In August 2013, the core Vert.x project completed its move to the Eclipse Foundation. The other projects that make up the Vert.x stack did not migrate to Eclipse but continued to use the "Vert.x" trademark with tacit approval of the Eclipse Foundation.
+In May 2014, Vert.x won the award for "Most Innovative Java Technology" at the JAX Innovation awards.[9]
+On January 12, 2016, Tim Fox stepped down as the lead of the Vert.x project.[10] and Julien Viet, a long-time contributor, took his place.
+Architecture[edit]
+This section relies largely or entirely on a single source. Relevant discussion may be found on the talk page. Please help improve this article by introducing citations to additional sources.Find sources: "Vert.x" – news · newspapers · books · scholar · JSTOR  (May 2015)
+Vert.x uses low level IO library Netty.[11]
+The application framework includes these features:
+Polyglot. Application components can be written in Java, JavaScript, Groovy, Ruby, Scala, Kotlin and Ceylon.
+Simple concurrency model. All code is single threaded, freeing from the hassle of multi-threaded programming.
+Simple, asynchronous programming model for writing truly scalable non-blocking applications.
+Distributed event bus that spans the client and server side. The event bus even penetrates into in-browser JavaScript allowing to create so-called real-time web applications.
+Actor model and public repository, to re-use and share components.
+Examples[edit]
+A web server serving "Hello from Vert.x!" could be written in Java:
+import io.vertx.core.AbstractVerticle;
+public class Server extends AbstractVerticle {
+  public void start() {
+    vertx.createHttpServer().requestHandler(req -&gt; {
+      req.response()
+        .putHeader("content-type", "text/plain")
+        .end("Hello from Vert.x!");
+    }).listen(8080);
+  }
+}
+And in JavaScript:
+vertx.createHttpServer()
+  .requestHandler(function (req) {
+    req.response()
+      .putHeader("content-type", "text/plain")
+      .end("Hello from Vert.x!");
+}).listen(8080);
+Both cases will result in a web server serving content in a highly scalable manner.
+References[edit]
+^ "Eclipse Vert.x 3.9.2". Retrieved 21 Jul 2020..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}
+^ "Eclipse Vert.x 4 beta 1". Retrieved 28 Jul 2020.
+^ Wait, vert.x – JVM Polyglot Alternative to Node.js, By Dio Synodinos, May 04, 2012, infoq
+^ Vert.x – an asynchronous, event-driven Java web framework, By Eberhard Wolff, June 20, 2012, hDeveloper
+^ https://groups.google.com/d/msg/vertx/lxZGADtT6dQ/a0qzaQpzfroJ
+^ "VMware's dealings with Vert.x founder should serve as a warning."
+^ "Who controls Vert.x: Red Hat, VMware, or neither?"
+^ "Vert.x Joining Eclipse Foundation"
+^ "Vert.x wins JAX innovation award"
+^ https://groups.google.com/forum/?fromgroups#!topic/vertx/yluLHXa5CRU
+^ vert.x – JVM Polyglot Alternative to Node.js, By Dio Synodinos, May 04, 2012, InfoQ
+External links[edit]
+Official website 
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Vert.x&amp;oldid=982511523"
+		Categories: Concurrent programming librariesCross-platform softwareEvents (computing)Free computer librariesJava virtual machineHidden categories: Pages using deprecated image syntaxPages using Infobox software with unknown parametersArticles needing additional references from May 2015All articles needing additional references
+	Navigation menu
+		Personal tools
+		Not logged inTalkContributionsCreate accountLog in
+		Namespaces
+		ArticleTalk
+		Variants
+		Views
+		ReadEditView history
+		More
+		Search
+		Navigation
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		Contribute
+		HelpLearn to editCommunity portalRecent changesUpload file
+		Tools
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		Print/export
+		Download as PDFPrintable version
+		Languages
+		DeutschFrançais한국어中文
+		Edit links
+		 This page was last edited on 8 October 2020, at 16:22 (UTC).
+		Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+		Privacy policy
+		About Wikipedia
+		Disclaimers
+		Contact Wikipedia
+		Mobile view
+		Developers
+		Statistics
+		Cookie statement

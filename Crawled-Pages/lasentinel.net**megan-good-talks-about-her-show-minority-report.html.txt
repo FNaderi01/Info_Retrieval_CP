@@ -1,0 +1,324 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Megan Good talks about her show “Minority Report”            
+				By Kam Williams, Contributing Writer                
+	                	                Published September 23, 2015
+		(courtesy photo)
+Enjoying an enviable career that began at an early age, Meagan Good has blossomed into one of Hollywood’s most in-demand actresses for both big screen and television projects. The accomplished thespian was recently seen in the coming-of-age film that she co-produced, A Girl Like Grace and last year, Megan reprised the role of Mya in Think Like a Man Too, the sequel to Think Like a Man. She also was featured in Anchorman: The Legend Continues, the sequel to the blockbuster starring Will Ferrell.
+Megan, who began starring in commercials at the age of 4, has appeared in more than 60 national television ads. Her first major television role was the character of “Nina” on the TV-series “Cousin Skeeter.” And in 2001, she landed a recurring role on “Raising Dad.” Her other television shows include “Deception,” “Californication,” “Moesha,” “The Steve Harvey Show,” “The Division,” “The Parent ’Hood,” “My Wife &amp; Kids” and “All of Us.”
+Here, she talks about playing Detective Lara Vega on the new TV-series “Minority Report.”
+        ADVERTISEMENT        
+Kam Williams (KW): What interested you in Minority Report?
+Megan Good (MG): Oh, man! What didn’t? [Chuckles]
+KW: Is this your first sci-fi?
+MG: Yeah, this is like my first real sci-fi. It’s funny because my prayer last year was that I really wanted to do some comedy and some sci-fi. I was trying to be patient and wait for the right project. The pilot season was ending, and I had some other opportunities I passed on which weren’t quite right. And then, just at the last minute, Minority Report came through. Of course, I was already a fan of the film. As soon as I read the script and saw what the take was, and how they chose to maintain the continuity with the movie, except that they changed the point of view. Now, the story’s being told from the perspective of the twin brothers [played by Stark Sands and Nick Zano]. So, it’s new and fresh, yet staying true to the original for the fan base already familiar with the film. Also, I just fell in love with my character. Vega is the type of woman who just lives for her business like the air that she breathes. She really cares, but she’s also strong and knows that she can take care of herself and make a difference, and that’s what drives her.
+KW: What is the most challenging aspect of doing a sci-fi series?
+MG: The biggest challenge, in the very beginning, was the choreography. There’s a lot of virtual reality shots where I see something in front of me or in my line of sight that’s not really there. So, I have to picture it, imagine it, and interact with it. A lot of times, Vega will lay the crime scene out in front of her, and then re-enact the crime from either the victim or the murderer’s perspective. She has to live in it while interacting with it, and I have to visualize it, since it’s not actually there. And all my choreography has to match with what’s going on. That was hard the first time I did it, but after I watched it, I was super-impressed.
+KW: Is there anyone that you’re basing Detective Vega on?
+MG: My stepmother, actually. My father was in the LAPD for 26 years, and his wife is also in law enforcement. She started very young, when she was about 23. So, I called her up and asked, “What was your motivation to get into such a hardcore profession where you know your life is potentially in danger on a daily basis? And what would make someone want to enter the department so young?” For her, it was a matter of wanting to make the world a better place and playing her role, and having passion and compassion and empathy. You have to find ways to be invested, while remaining emotionally disconnected and thinking of the bigger picture. So, there are all these layers to what motivated her, and I based Vega on a lot of that.
+KW: Steven Spielberg directed the film version of Minority Report. To what extent is he involved in this TV project?
+MG: He’s the producer. Once he saw the finished product, he came aboard as executive producer. He’s been hands-on with the scripts. He literally handpicked every actor. Before I was signed, they said, “Steven Spielberg’s watching your tape. We’ll let you know what he thinks.” When I got the job, I went, “What? Steven Spielberg thinks I’m a good actress?”
+KW: How has it been working with the other members of the cast?
+MG: It’s been amazing. We’re all very fortunate. Wilmer [Valderrama], I’ve probably known for 15 years… Li Li’s incredible! She so sweet… Meeting Laura [Regan]… Me and Stark -Sands] hit it off immediately…The chemistry’s great. Everyone just gets along… Nick [Zano] is hilarious. He’s like the jokester. Daniel’s [London] incredible. It’s just a really great group of people who really connect. And we actually spend time with each other off set. Whoever’s not working, it’s like, “What’re you doing? Let’s eat. Do you want to grab something at a restaurant? Let’s get together online.” We’re really a family, and it’s very exciting to connect with everyone like that.
+KW: In what direction is the series going to go?
+MG: I don’t know exactly everything the producers have planned. We’re exploring each of these character’s lives and finding out how they got to the point where they are now.. There’s a richness to the writing and the characters. Their lives are very deep-rooted in where they came from and how they got here. That’s what I’ve seen so far, but I don’t know what’s coming next.
+KW: How can your fans help you?
+MG: By supporting the show, by tuning in and telling their family and friends to tune in, too. By tweeting about it, re-tweeting about it, reposting about it. That would make a massive difference.
+		Categories: Entertainment | TV Tags: actress | Black Hollywood | DeVon Franklin | Kam Williams | Los Angeles Sentinel Newspaper | Megan Good | Minority Report | my wife and kids | NBC | network television | sequel | Think Like A Man | Think like a man too | will ferrell		
+						UCLA Alum Hits Honest Tone With Millennials
+						Morris Chestnut talks about his new television series “Rosewood”...
+						The Spiritual and Lyrical Instrument that is Rachelle Ferrell
+						‘Thina Sobabili’ selected as South Africa’s Oscars entry
+						Get a taste of soul at the KJLH Stage featuring Monica, Angie Stone, Joe an...
+						Santa Monica College to Host Free Screening or Bill Duke’s ‘Light Girls...
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

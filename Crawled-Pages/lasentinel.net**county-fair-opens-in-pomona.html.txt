@@ -1,0 +1,324 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+County Fair Opens in Pomona             
+				By City News Service                 
+	                	                Published September 12, 2017
+The 90th Los Angeles County Fair opened Friday September 1 at Fairplex in Pomona with the theme “Dare to Fair Old School Style.” 
+“We are bringing back traditions like winning a blue ribbon at on the spot contests and encouraging guests to return to the simpler things in life — eating a corn dog, making friends with a barn animal, learn to knit in our DIY studio,” said Miguel A. Santana, who was appointed as president and CEO of the Los Angeles County Fair Association Nov. 30 after seven years as Los Angeles’ city administrative officer. 
+        ADVERTISEMENT        
+“We discovered that guests, including millennials, love tradition and nostalgia. The fair has worked hard to include the new with the traditional.” 
+When asked why should people come to the fair, Santana responded, “Guests can learn so much at the fair. Our five-acre urban garden grows 150 California specialty crops. The Big Red Barn teaches children about agriculture and where their food and clothing come from. America’s Kids celebrates reading and books, with costumed characters and contests that revolve around children’s literature. 
+Plus it’s fun. We have 70 rides and 40 games, incredible food and more than 500 animals.” 
+New attractions include “The Magical World of Dragons, Wizards and Beasts” which Santana describes as a look at pop culture’s fascination with those themes and includes interactive activities; the Little Red Barn with miniature animals; and The Taylor Swift Experience, an in-depth look at the 10- time Grammy-winning singer. 
+The fair’s Flower &amp; Garden Pavilion will pay homage to Lewis Carrol’s novel “Alice in Wonderland” with giant displays full of tiger lillies, dandelions, daisies and pansies recreating the Mad Hatter’s Tea Party and more. 
+Returning attractions include “Jurassic Planet,” which combines more than 40 animatronic dinosaurs with paleontologists teaching about the Mesozoic Era; ice skating and sled runs in The Igloo; Esmeralda’s Travelling Circus; and Mojo’s Wild and Crazy Lagoon with such exotic animals as lemurs, monkeys, peacocks and kangaroos. 
+Additions to the fair’s food offerings include a cotton candy ice cream sandwich; vegan jack-fruit nachos; and a Krispy Kreme, ice cream, fried chicken sandwich. 
+The fair’s End of Summer Concert Series began last Friday evening with the “I Love The 90s” featuring Salt N Pepa. 
+Other artists scheduled to perform are Patti LaBelle &amp; Queen Latifah (Friday); Trace Adkins (Sept. 9); La Arrolladora Banda Limon (Sept. 10); The Whispers &amp; The Stylistics with Lenny Williams (Sept. 14); Fifth Harmony (Sept. 15); Styx &amp; Kansas (Sept. 16); Gerardo Ortiz (Sept. 17); Ramon Ayala Y Sus Bravos Del Norte (Sept. 21); WAR &amp; Tower of Power (Sept. 22); and Chicago (Sept. 23). 
+Fair organizers are asking guests to donate $1 at admission gates during the opening weekend that will be given to the American Red Cross for relief efforts related to Hurricane Harvey. 
+Guests bringing five new school school supply items on Wednesdays will receive free admission. The supplies are donated to Inland United Way. 
+Guests bringing five canned goods on Thursdays receive free admission. The food is donated to the Los Angeles Regional Food Bank. 
+The weekend fair admission prices are $20 for adults and teenagers ages 13-59; $15 for adults age 60 and older and $12 for children ages 6 to 12. The weekday prices are $14 for adults and teenagers 13-59, $10 for adults 60 and over and $8 for children 6 to 12. Children 5 and under are free throughout the fair. 
+A season pass is available for $29.99. 
+An additional $5 each is required for admission to Jurassic Planet and The Igloo. Children 5 and under are admitted free to Jurassic Planet with a paying adult. 
+General parking is $15, VIP parking at Gates 17 and 9 is $25 and valet parking at Gate 3 is $30. A season parking pass is available for $60. 
+Fair hours are noon-10 p.m. Wednesdays; noon-11 p.m. Thursdays; noon- midnight Fridays; 10 a.m.-midnight Saturdays; and 10 a.m.-10 p.m. Sundays. 
+The fair will be closed Mondays and Tuesdays. The fair will end its run on Sept. 24. 
+		Categories: Family | Local | News | News (Family) Tags: Dare to Fair Old School Style | Los Angeles County Fair		
+						California Legislature is First in the US to Name Freeway For President B...
+						L.A. to Get Olympics in 2028
+						Success On “The Way”… Ask Dr. Jeanette: You Pathological Lying….***...
+						Harvard Law memorial honors slaves owned by school’s founder
+						Dr. La Tanya R. Hines Plans On Making A Difference At Kaiser Baldwin H...
+						AMA Urges Congress to Protect DACA Medical Students
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

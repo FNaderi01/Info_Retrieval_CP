@@ -1,0 +1,182 @@
+      Pular para o conteúdo principal
+        Central de Ajuda
+  Header navigation
+                  Geral
+                  Empresa
+  Header navigation - actions
+        Pesquisar
+  Header navigation - anonymous
+        Entrar
+        Página inicial do Pinterest
+  Open menu
+          Geral
+          Acesso à conta e segurança
+          Problemas com o Pinterest
+          Assuntos legais e privacidade
+          Gerenciar sua conta
+          Pins e pastas
+          Empresa
+          Ads measurement
+          Ads reporting
+          Build your organic presence on Pinterest
+          Gerencie o seu perfil comercial
+          Shopping on Pinterest
+          Cobrança e pagamento de Pins patrocinados
+          Anuncie no Pinterest
+            Acesso à conta e segurança
+            Problemas com o Pinterest
+            Assuntos legais e privacidade
+            Gerenciar sua conta
+            Pins e pastas
+            Ads measurement
+            Ads reporting
+            Build your organic presence on Pinterest
+            Gerencie o seu perfil comercial
+            Shopping on Pinterest
+            Cobrança e pagamento de Pins patrocinados
+            Anuncie no Pinterest
+              Tag IMG
+            Parece que você está visualizando isso de uma região onde a tag do Pinterest ainda não está disponível. Veja onde a tag do Pinterest está disponível para contas do Pinterest Business.
+  Saiba mais
+            A tag &lt;img&gt; atua como um backup para o caso de as pessoas terem o JavaScript desativado em seus navegadores. No entanto, você pode optar por incluir apenas o código do evento da tag de imagem sem JavaScript. Nesse caso, você deve remover as tags &lt;noscript&gt;, já que não estará usando Javascript. Recomendamos que você inclua as partes de JavaScript e tag de imagem do código do evento, pois isso proporciona melhor segmentação dos usuários.
+Código de base com tag &lt;img&gt;
+Recomendamos colocar o código de base em cada página do seu site, mesmo se estiver usando a tag &lt;img&gt;. Isso lhe permitirá capturar dados de todo o tráfego em seu site. A versão do código de base com a tag &lt;img&gt; é parte de todo o código gerado no Gerenciador de Anúncios. Veja abaixo um exemplo do código de base da tag do Pinterest &lt;img&gt;.
+&lt;img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=YOUR_TAG_ID&amp;event=init&amp;noscript=1" /&gt;Certifique-se de colocar o código de base entre as tags &lt;head&gt; e &lt;/head&gt; no HTML.
+Dados do evento na tag &lt;img&gt;
+Você tem a opção de incluir dados do evento na tag &lt;img&gt;. Veja no exemplo abaixo um evento de finalização da compra com dados do evento na tag &lt;img&gt;.
+ &lt;img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=YOUR_TAG_ID&amp;event=checkout&amp;ed[value]=10.00&amp;ed[order_quantity]=2&amp;ed[currency]=USD&amp;ed[line_items][0][product_name]=Parker+Boots&amp;[line_items][0][product_id]='1414'&amp;ed[line_items][0][product_price]=5.00&amp;ed[line_items][0][product_quantity]=1&amp;ed[line_items][1][product_name]=Parker+Sandals&amp;ed[line_items][1][product_id]='ABC'&amp;ed[line_items][1][product_price]=5.00&amp;ed[line_items][1][product_quantity]=1&amp;noscript=1"/&gt;O código abaixo mostra como fica a tag &lt;img&gt; quando separamos os parâmetros de dados para melhor legibilidade. No entanto, esteja ciente de que a adição de espaço em branco no atributo src quebrará o código.
+ &lt;img height="1" width="1" style="display:none;" alt=""
+ src="https://ct.pinterest.com/v3/?tid=YOUR_TAG_ID
+ &amp;event=checkout
+ &amp;ed[value]=10.00
+ &amp;ed[order_quantity]=2
+ &amp;ed[currency]=USD
+ &amp;ed[line_items][0][product_name]=Parker+Boots
+ &amp;ed[line_items][0][product_id]='1414'
+ &amp;ed[line_items][0][product_price]=5.00
+ &amp;ed[line_items][0][product_quantity]=1
+ &amp;ed[line_items][1][product_name]=Parker+Sandals
+ &amp;ed[line_items][1][product_id]='ABC'
+ &amp;ed[line_items][1][product_price]=5.00
+ &amp;ed[line_items][1][product_quantity]=1
+ &amp;noscript=1"/&gt;
+Copiar e colar exemplos de código do evento com tag &lt;img&gt;
+Esta seção contém um exemplo de cada tipo de evento em um formato completo e copiável que você pode colocar no seu site diretamente. Cada exemplo tem os dados do evento necessários para começar a rastrear a atividade no seu site.
+Observe que você precisará substituir os valores de exemplo pelo valor estático ou variável dinâmica apropriados para o seu site. Por exemplo, você provavelmente vai querer rastrear o valor do pedido dinamicamente porque o valor de cada pedido feito no seu site vai variar, dependendo do que o usuário comprar. No entanto, você pode atribuir um valor estático para o dado do evento lead_type se ele for colocado somente em uma página específica.
+Checkout
+ &lt;img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=YOUR_TAG_ID&amp;event=checkout&amp;ed[value]=10.00&amp;ed[order_quantity]=2&amp;noscript=1" /&gt;Dados do evento: value, order_quantity e currency.
+Certifique-se de inserir o código de moeda correto para o seu site.
+AddToCart
+ &lt;img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=YOUR_TAG_ID&amp;event=AddToCart&amp;ed[value]=10.00&amp;ed[order_quantity]=2&amp;noscript=1" /&gt;Dados do evento: value, order_quantity e currency. Certifique-se de inserir o código de moeda correto para o seu site.
+PageVisit
+ &lt;img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=YOUR_TAG_ID&amp;event=pagevisit&amp;noscript=1" /&gt;Dados do evento: none
+Signup
+ &lt;img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=YOUR_TAG_ID&amp;event=signup&amp;noscript=1" /&gt;
+Dados do evento: none
+WatchVideo
+ &lt;img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=YOUR_TAG_ID&amp;event=watchvideo&amp;ed[video_title]=My+Product+Video+01&amp;noscript=1" /&gt;Dados do evento: video_title
+Lead
+ &lt;img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=YOUR_TAG_ID&amp;event=lead&amp;ed[lead_type]=Newsletter&amp;noscript=1" /&gt;Dados do evento: lead_type
+Search
+ &lt;img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=YOUR_TAG_ID&amp;event=search&amp;ed[search_query]=horse&amp;noscript=1" /&gt;Dados do evento: search_query
+ViewCategory
+ &lt;img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=YOUR_TAG_ID&amp;event=viewcategory&amp;noscript=1" /&gt;Dados do evento: none
+Custom
+O tipo de evento tem que ser chamado custom — caso contrário, as conversões rastreadas pela tag não serão relatadas no Gerenciador de Anúncios.
+ &lt;img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=YOUR_TAG_ID&amp;event=custom&amp;noscript=1" /&gt;Dados do evento: none
+  Outros artigos
+  Skip Outros artigos Links
+      Tag do Pinterest
+                        Adicionar seus códigos de evento
+                                Código de base
+                                Código do evento
+            Veja mais pastas, buscas, perfis ou Pins desta coleção
+                                Configurar a tag do Pinterest
+                                Correspondência avançada
+                                Exemplos de código do evento
+                                Exemplos de códigos de base e do evento combinados
+                                Extensão Pinterest Tag Helper do Chrome
+                                Implementação de tag do Pinterest
+                                Instalar o código de base
+                                Rastrear conversões com a tag do Pinterest
+                                Tag IMG
+                                Testar eventos de tag do Pinterest
+      Integrações da tag do Pinterest
+                        Adicionar a tag do Pinterest ao Shopify manualmente
+      Rastreamento de terceiros
+                        Rastreamento dinâmico e de terceiros
+                                Rastrear um anúncio de coleções
+      Conversions
+                        Carregar conversões com a LiveRamp
+                                Carregar conversões com o Gerenciador de Anúncios
+                                Carregar conversões para mensuração
+  End of Outros artigos Links
+            Ainda precisa de ajuda?
+                Fale conosco
+    User feedback
+              Este artigo foi útil?
+        feliz
+        triste
+        collection_fields
+        Como podemos melhorar este artigo?
+      Additional Response
+      Leave this field blank
+        O Pinterest está usando cookies para ajudar a proporcionar a melhor experiência possível.
+        Entendi!
+    Skip Footer Menu
+    Escolha uma língua
+                      English (US)
+                              Bahasa Indonesia
+                              Čeština
+                              Dansk
+                              Deutsch
+                              English (UK)
+                              Español
+                              Français
+                              Italiano
+                              Magyar
+                              Nederlands
+                              Norsk bokmål
+                              Polski
+                              Português (Brasil)
+                              Português (Europeu)
+                              Română
+                              Slovenčina
+                              Suomi
+                              Svenska
+                              Filipino
+                              Tiếng Việt
+                              Türkçe
+                              Ελληνικά
+                              Русский
+                              Ukrainian
+                              ภาษาไทย
+                              简体中文
+                              繁體中文
+                              한국어
+                              日本語
+            Sobre nós
+                    Impressum
+                    O que é o Pinterest
+                    Nossa página do Pinterest
+                    Blog de engenharia
+                    Diretrizes da marca
+                    Carreiras
+                    Central de Ajuda
+                    Pinterest Labs
+            Nossas políticas
+                    Copyright
+                                          &amp;
+                            marca
+                    Anúncios personalizados
+                    Termos de Serviço
+                    Privacidade
+                                          &amp;
+                            cookies
+            Mais informações
+                    Para empresas
+                    Para desenvolvedores
+                    Para a imprensa
+                    Para investidores
+                    End of Footer
+    © Pinterest 2020

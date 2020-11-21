@@ -1,0 +1,373 @@
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+                  success
+          fail
+		  Mar
+		  APR
+		  Jul
+		  27
+		  2010
+		  2011
+		  2012
+	      	      47 captures
+	      27 Apr 2011 - 01 Oct 2020
+       About this capture
+    COLLECTED BY
+		Organization: Internet Archive
+	  The Internet Archive discovers and captures web pages through many different web crawls.
+At any given time several distinct crawls are running, some for months, and some every day or longer.
+View the web archive through the Wayback Machine.
+		Collection: Wide Crawl started March 2011
+	  Web wide crawl with initial seedlist and crawler configuration from March 2011.  This uses the new HQ software for distributed crawling by Kenji Nagahashi.
+What’s in the data set:
+Crawl start date: 09 March, 2011
+Crawl end date: 23 December, 2011
+Number of captures: 2,713,676,341
+Number of unique URLs: 2,273,840,159
+Number of hosts: 29,032,069
+The seed list for this crawl was a list of Alexa’s top 1 million web sites, retrieved close to the crawl start date.  We used Heritrix (3.1.1-SNAPSHOT) crawler software and respected robots.txt directives.  The scope of the crawl was not limited except for a few manually excluded sites.  
+However this was a somewhat experimental crawl for us, as we were using newly minted software to feed URLs to the crawlers, and we know there were some operational issues with it.  For example, in many cases we may not have crawled all of the embedded and linked objects in a page since the URLs for these resources were added into queues that quickly grew bigger than the intended size of the crawl (and therefore we never got to them).  We also included repeated crawls of some Argentinian government sites, so looking at results by country will be somewhat skewed.  
+We have made many changes to how we do these wide crawls since this particular example, but we wanted to make the data available “warts and all” for people to experiment with.  We have also done some further analysis of the content.
+If you would like access to this set of crawl data, please contact us at info at archive dot org and let us know who you are and what you’re hoping to do with it.  We may not be able to say “yes” to all requests, since we’re just figuring out whether this is a good idea, but everyone will be considered.
+    TIMESTAMPS
+Filmoteca: cine y series
+¿No sabés que alquilar? Acá tenés algunas opciones.
+Temple de acero
+Nombre original: True gritDirector: Ethan Coen y Joel CoenGuión: Joel Coen y Ethan Coen; basado en una novela de Charles PortisReparto: Hailee Steinfeld, Jeff Bridges, Matt Damon, Josh Brolin, Barry Pepper y otrosMúsica: Carter BurwellDuración: 110'País: EEUUAño: 2011Mattie (Steinfeld) es una adolescente bastante decidida para su edad que busca vengar la muerte de su padres, asesinado unos días antes. Para ello, contrata a Rooster Cogburn (Bridges), un sheriff que vive borracho y tiene reputación de gatillo fácil, para que lo capture con vida y lo entregue a la justicia. Pero el asesino también es buscado por otro hombre, LaBoeuf (Damon), quien le sigue el rastro desde el norte y buscar llevárselo a su tierra para que lo juzguen allí. Ambos persiguen al asesino mientras Mattie los sigue para asegurarse que se haga justicia.La novela de              Portis ya ha sido llevada al cine una vez con John Wayne; no he tenido el placer ni de leer la primera ni de ver la segunda como para hacer comparaciones, así que sólo me remito a la versión de los Coen, que la verdad me pareció un western con todas las letras, desde la historia hasta la tipografía de los créditos. La fotografía me resultó impecable, al igual que la escenografía y vestuario, y de sus actuaciones destaco la de Steinfeld, que le imprime a su personaje la confianza de la inocencia y una determinación testaruda geniales. Lo que sí me desilusionó un poco es el hecho de que casi no encontré signos coenianos en esta película; podría haber sido, a mi parecer, dirigida por cualquier otra persona, y no me dejó demasiado. Aún así me gustó, me pareció entretenida y visualmente desoladora y bella.TrailerTemple de acero: Trailer: True Grit por ElBazarDelEspectaculoFuente: IMDbCartel: Impawards
+Publicado por
+Cintia
+6
+comentarios
+Enviar por correo electrónico
+Escribe un blog
+Compartir con Twitter
+Compartir con Facebook
+Compartir con Google Buzz
+Géneros:
+Western
+El ilusionista
+Nombre original: L'illusionnisteDirector: Sylvain ChometGuión: Jacques Tati y Sylvain ChometReparto: Jean-Claude Donda, Eilidh Rankin y otrosMúsica: Sylvain ChometDuración: 80'País: Reino Unido, FranciaAño: 2010En la década del ´50 en Francia, un ilusionista que tiene problemas para conseguir trabajo decide ir a Gran Bretaña, aunque allí también lo único que consigue son changas en bares y fiestas. En una de esas presentaciones, en Escocia, conoce a una chica humilde que se asombra de sus trucos, a tal punto de creer que son reales. El ilusionista, al ver su situación, le compra unos zapatos nuevos, y cuando éste vuelve a Inglaterra, ella lo sigue. Ella, inocentemente, le pide al ilusionista ropa y zapatos; él, mientras, trata de mantener a ambos con lo que sabe hacer: trucos. Pero ya nadie parece interesado en la magia.El ilusionista es obra del director francés Jacques Tati, quien no pudo llevarla a la pantalla grande debido a su muerte en 1982, a los 75 años. Su hija le entregó el guión a Sylvain Chomet, quien finalmente adaptó el guión y lo llevó a la pantalla. Hecho a la vieja usanza y siguiendo la línea de su película anterior Las trillizas de Belleville, Chomet logra con sus hermosos dibujos en segunda dimensión acompañar la nostalgia y la tristeza que rodea a la historia, la cual ilustra la muerte de una etapa; del Music Hall, de la fantasía, de lo naif, donde personajes como el protagonista ya no tienen lugar. Las últimas escenas son devastadoras, y sólo el ultimo segundo del film le da sentido a las acciones del ilusionista. Muy recomendable, para aquellos que no estén en etapa de depresión.TrailerFuente: IMDbCartel: Impawards
+Publicado por
+Cintia
+3
+comentarios
+Enviar por correo electrónico
+Escribe un blog
+Compartir con Twitter
+Compartir con Facebook
+Compartir con Google Buzz
+Géneros:
+Animación
+La ola
+Nombre original: Die welleDirector: Dennis GanselGuión: Dennis Gansel y Peter Thorwarth; basado en la novela de Todd StrasserReparto: Jürgen Vogel, Frederick Lau, Max Riemelt, Jennifer Ulrich, Christiane Paul, Jacob Matschenz, Cristina do Rego y otrosMúsica: Heiko MaileDuración: 107'País: AlemaniaAño: 2009A un profesor de secundaria le toca dar la clase de proyecto sobre dictadura. En la primera clase, surge el debate acerca de si una situación de autocracia como la que se dio en la Alemania nazi podría volver a ocurrir; como consecuencia, al profesor se le ocurre realizar un proyecto. Durante una semana, recrearán en la clase las condiciones de una autocracia; el profesor será el líder, tendrán uniforme, formas de actuar, un logo, un nombre: La ola. Pero el sentimiento de grupo que se forma es tan fuerte, que los chicos llevan estas actitudes fuera de las aulas, en otros aspectos de su vida, hasta que la situación se descarrila por completo.Cuando me lo dijeron no lo podía creer, pero la película está basada en hechos reales, ocurridos en Estados Unidos (dónde si no!); me parece que eso es lo que produce tanta impresión de esta historia. Está muy bueno   el hecho de que cada alumno representa a cada sector ideológico en una situación de dictadura; los que pueden prever lo que va a suceder antes de que suceda, los que se dan cuenta en el camino, los que encuentran en el nuevo régimen su lugar en el mundo, y por lo tanto lo llevan al extremo. Las actuaciones son más que creíbles. Me dijeron que no es muy fiel al libro, y por tanto a los hechos reales, pero aún así es una buena y escalofriante película.TrailerFuente: IMDbCartel: DVD by past
+Publicado por
+Cintia
+5
+comentarios
+Enviar por correo electrónico
+Escribe un blog
+Compartir con Twitter
+Compartir con Facebook
+Compartir con Google Buzz
+Géneros:
+Thriller
+Leonera
+Nombre original: LeoneraDirector: Pablo TraperoGuión: Alejandro Fadel, Miguel Mauregui, Santiago Mitre, Pablo TraperoReparto: Martina Gusman, Laura García, Elli Medeiros, Rodrigo Santoro y otrosDuración: 113'País: ArgentinaAño: 2008Una mujer embarazada es acusada de un asesinato que no recuerda, por lo que es enviada a la cárcel hasta que se resuelva su juicio. Debido a su condición, la encierran en un pabellón especial de la prisión, destinado a mujeres embarazadas o con chicos de hasta 4 años.Trapero hace de ésta una película que avanza a pasos agigantados; sin embargo, eso no le impide detenerse a plantear un debate sobre las decisiones de la protagonista: el querer a su hijo con ella en la cárcel, ¿es un acto de amor, o el hecho de la atención especial que recibe gracias a él influye en ella? ¿Debe el niño pasar sus primeros años con su madre, a pesar de que éstos sean en prisión? Un tema complicado sin respuesta definitiva, muy buen tratado. La actuación de Martina Gusman es realmente admirable; sin ella el film no sería lo que es. Estuvo nominada a la Palma de Oro en el Festival de Cannes.TrailerFuente: IMDbCartel: Pochoclos
+Publicado por
+Cintia
+2
+comentarios
+Enviar por correo electrónico
+Escribe un blog
+Compartir con Twitter
+Compartir con Facebook
+Compartir con Google Buzz
+Géneros:
+Drama
+El gran truco
+Nombre original: The prestigeDirector: Christopher NolanGuión: Jonathan Nolan y Christopher Nolan; basado en la novela de Christopher PriestReparto: Hugh Jackman, Christian Bale, Michael Cane, Scarlett Johansson, Rebecca Hall, David Bowie, Andy Serkis y otrosMúsica: David JulyanDuración: 130'País: EEUU, Reino UnidoAño: 2006A principios de siglo XX dos ayudantes de un ilusionista deciden iniciar su propias carreras como magos. Un hecho en la última finción que comparten juntos hace que se inicie entre ellos una serie de revanchas que parece no tener límites, buscando y espiando los actos de su rival y llegando una obsesión enfermiza que llega a la violencia entre ellos y se extiende a quienes los que los redean.Otra gran película de Nolan; está sin dudas entre las mejores que he visto, por muchas razones. Entre ellas, la tensión que rodea a todo el film, que lo destaca de entre otros que salieron en la misma época (El ilusionista, El último gran mago). Los ires y venires de la historia, que es relatada desde el nudo y recordada desde el presente; es imposible perderse un minuto. Las grandes actuaciones de sus protagonistas, que le otorgan a sus personajes el matiz de obsesión que la hace tan creíble. Y sobre todo, lo impredecible de su desenlace. TrailerFuente: IMDbCartel: Impawards
+Publicado por
+Cintia
+5
+comentarios
+Enviar por correo electrónico
+Escribe un blog
+Compartir con Twitter
+Compartir con Facebook
+Compartir con Google Buzz
+Géneros:
+Thriller
+Entradas antiguas
+Página principal
+Suscribirse a:
+Entradas (Atom)
+Datos personales
+Cintia
+Ver todo mi perfil
+Cómo usar este blog
+*Si buscas películas de algún género en particular, abajo tenés una lista con los mismos.*Si buscas el comentario de alguna película en particular, podés usar la caja de diálogo (que dice "BUSCAR BLOG") en la esquina superior izquierda para buscar por título, director, actor, etc.*Si no estás seguro de cómo se escribe un título o nombre, podés usar el buscador de IMDb, que se encuentra más abajo y es mucho más potente.*Si encontrás algún error con los enlaces, los trailers o la información, te pido por favor que me mandes un mensaje a cintiam_25@hotmail.com para poder corregirlo.Besos!
+Géneros
+Acción
+(7)
+Animación
+(11)
+Aventura
+(2)
+Biografía
+(5)
+Bélica
+(3)
+Ciencia ficción
+(5)
+Cine independiente
+(9)
+Comedia
+(27)
+Comedia dramática
+(15)
+Comedia romántica
+(6)
+Documental
+(5)
+Drama
+(33)
+Fantástica
+(3)
+Gangsters
+(2)
+Gore
+(4)
+Musical
+(3)
+Policial
+(6)
+Road Movie
+(4)
+Romántica
+(8)
+Series
+(12)
+Terror (ver también Gore)
+(10)
+Thriller
+(20)
+Timos
+(3)
+Western
+(4)
+Buscá en IMDb
+Otros sitios de cine
+A day without tv
+A Steve Buscemi blog
+Adivina el film
+Cine con McFly
+Cine para usar el cerebro
+Cineclub La Rosa
+Corteando
+Críticas Cinematográficas
+Cuantas pelis
+El Camalote
+El dia de la tromba
+El ático del destoldao
+El último blog a la izquierda
+La ciudad que nunca duerme
+La linterna del acomodador
+La teta enroscada
+Planocenital
+Quesito rosa
+Reseñas
+Tu mente poderosa
+Unidades de litio
+Yo bailo pogo
+Para visitar...
+AQUÍ, PERORATA
+Si después de 8 años de no verte
+Hace 6 horas
+EL MALEFICIO DE LA DUDA
+Entre Una España Que Eructa Y Una España Que Bosteza
+Hace 15 horas
+yobailopogo!
+Yobailopogo!  - da pari -  ybp!
+Hace 23 horas
+Dulce teatro de sueños
+Ride the lightning
+Hace 4 días
+Little Pwagmattasquarmesettport
+L'homme est le seul oiseau qui porte sa cage
+Hace 5 días
+EKLEKTIK KAFE
+Alfredo Zitarrosa
+Hace 1 semana
+Deja vu de palabras
+La niña de la pena eterna
+Hace 1 semana
+NO SOY LATINO
+Todo tiene un porque
+Hace 4 semanas
+Lost Libros
+Lostología
+Hace 1 mes.
+espacio-de-paloma
+Gossip Girl Season 4 Cap. 1.
+Hace 3 meses
+LETRAS SIN CARTEL
+EL LICOR DEL TRIUNFO
+Hace 1 año.
+Palo staff
+Criterios para nuevos sistemas de señalamiento
+Hace 2 años
+IMPERIO NUATSI
+Mostrar 5
+Mostrar todo
+Gracias, Numan!!
+Archivo del blog
+▼ 
+2011
+(13)
+▼ 
+abril
+(1)
+Temple de acero
+          ► 
+marzo
+(5)
+El ilusionista
+La ola
+Leonera
+El gran truco
+Plan B
+          ► 
+febrero
+(3)
+La tumba de las luciérnagas
+El discurso del Rey
+El fin de los tiempos
+          ► 
+enero
+(4)
+Michael Clayton
+Sicko
+Música en espera
+El secreto de los Kells
+          ► 
+2010
+(24)
+          ► 
+noviembre
+(3)
+Criaturas celestiales
+El origen
+Sherlock Holmes
+          ► 
+octubre
+(2)
+Policia, adjetivo
+Una vida iluminada
+          ► 
+agosto
+(1)
+Arrástrame al infierno
+          ► 
+julio
+(1)
+Loco corazón
+          ► 
+junio
+(2)
+El mismo amor, la misma lluvia
+En las sombras
+          ► 
+mayo
+(4)
+Milk
+El fantástico Sr. Zorro
+El sabor de la noche
+El imaginario mundo del Doctor Parnassus
+          ► 
+abril
+(4)
+¿Qué pasó ayer?
+La muerte en vivo
+Expiación, deseo y pecado
+Vivir al límite
+          ► 
+marzo
+(2)
+Up: una película de altura
+La Tierra
+          ► 
+febrero
+(3)
+Avatar
+Actividad paranormal
+La joven vida de Juno
+          ► 
+enero
+(2)
+Sector 9
+En busca del destino
+          ► 
+2009
+(64)
+          ► 
+diciembre
+(2)
+Capitán de mar y guerra: la costa más lejana del m...
+Las mujeres verdaderas tienen curvas
+          ► 
+noviembre
+(1)
+Suicide club
+          ► 
+octubre
+(4)
+Fast food nation
+Cloverfield - Monstruo
+Ponyo y el secreto de la sirenita
+Chicago
+          ► 
+septiembre
+(4)
+Bastardos sin gloria
+La supremacía de Bourne
+Entre los muros
+Planet Terror
+          ► 
+agosto
+(4)
+El secreto de sus ojos
+El orfanato
+          ► 
+julio
+(4)
+          ► 
+junio
+(3)
+          ► 
+mayo
+(4)
+          ► 
+abril
+(4)
+          ► 
+marzo
+(12)
+          ► 
+febrero
+(4)
+          ► 
+enero
+(18)
+          ► 
+2008
+(69)
+          ► 
+diciembre
+(30)
+          ► 
+noviembre
+(39)
+Cintia - cintiam_25@hotmail.com. Plantilla Awesome Inc.. Imágenes de plantillas de molotovcoketail. Con la tecnología de Blogger.

@@ -1,0 +1,510 @@
+    	a.button.big, button.big {
+    		margin-top:20px;
+		    padding: 10px 20px;
+		    border-radius: 5px;
+		    -webkit-border-radius: 5px;
+		    -moz-border-radius: 5px;
+		}
+.headertext
+{
+    margin-top:12px;
+}
+.custom_container
+{
+    background-color: rgb(249, 249, 249);
+    padding: 10px;
+}
+.honeybee-logo
+{
+    float:right;
+}
+@media screen and (max-width: 400px) {
+  .social-buttons  {
+       margin:-18px;
+    }
+}
+									हिंदी  
+									Tweet
+								-->
+							Get connected:--> 
+							Contact Us
+							Innovation of the Day
+			                                |
+			                            	A+
+			                                A
+			                                A-
+							-->
+  @media all and (max-width: 768px) {
+   .test1 {
+       display:inline-block !important;
+        padding-top: 15px;
+height: 98px;
+width: 160px;
+   }
+   .test2 {
+       display:inline-block !important;
+   }
+   .test3 {
+       display:none !important;
+   }
+   #row_banner
+   {
+        display: inline-flex;
+   }
+   .test1 img
+   {
+        width:100%;
+   }
+   .test2 img
+   {
+        width:100%;
+        margin-left: -10px;
+        margin-top: 28px;
+   }
+}
+  @media all and (max-width: 800px) {
+   .test1 {
+       display:inline-block !important;
+        padding-top: 15px;
+height: 66px;
+width: 160px;
+   }
+   .test2 {
+       display:inline-block !important;
+   }
+   .test3 {
+       display:none !important;
+   }
+   #row_banner
+   {
+        display: inline-flex;
+   }
+   .test1 img
+   {
+        width:100%;
+   }
+   .test2 img
+   {
+        width:100%;
+        margin-left: -10px;
+        margin-top: 0px;
+   }
+}
+                        Menu
+                            About Us
+                                About NIF
+                                Vision And Mission
+                                Objectives
+                                Governing Board
+                                Finance Committee
+                               Milestones And Achievements-->
+                               Initiatives
+                                Our Logo
+                 NIICenD
+                               NIF-ientreC-->
+                            Activities
+                                Scouting, Documentation and Database Management (SDDM) 
+                                Value Addition Research Development (VARD)
+                                Intellectual Property Management (IPM)
+                                Business Development   
+                                Information Technology (IT)
+                                Dissemination and Social Diffusion (DSD)
+                            Awards
+                                    Biennial Award Function
+                                            Biennial Award Function
+                                        10th Award Function 2019
+                                        9th Award Function 2017
+                                        8th Award Function 2015
+                                        7th Award Function 2013
+                                        6th Award Function 2012
+                                        5th Award Function 2009
+                                        4th Award Function 2007
+                                        3rd Award Function 2005
+                                        2nd Award Function 2002
+                                        1st Award Function 2001
+                                    IGNITE Award Function
+                                    All IGNITE Awardee
+IGNITE 2019
+IGNITE 2018
+IGNITE 2017 
+IGNITE 2016                                                                                
+IGNITE 2015
+                                        IGNITE 2014
+                                        IGNITE 2013
+                                        IGNITE 2012
+                                        IGNITE 2011
+                                        IGNITE 2010
+                                        IGNITE 2009
+                                        IGNITE 2008
+                            Innovations
+                                        Technology Catalogue
+                                                Agricultural Equipment
+                                                Agricultural (General)
+                                                Engineering
+                                                Utility
+                                        Grassroots Technological Innovation Acquisition Fund
+                            Publications
+                                Annual Reports-->
+                                Award Books - Biennial Awards
+                                Award Books - IGNITE Awards
+                                                                  Festival of Innovation Book
+                                India Innovates (2013)
+                                State Innovation Books 
+                                Africa Calling 
+                              Papers/ Articles List -->
+                         Resources
+                                                Herbal Healing Traditions
+                                                Multilingual Honey bee database
+                                                Medicinal Plant Database 
+                                                Water related Technologies
+                            FINE
+                                  Festival of Innovation and Entrepreneurship - 2019 
+                                  Festival of Innovation and Entrepreneurship - 2018
+                                Festival of Innovation - 2017 
+                                Festival of Innovation - 2016
+                                Festival of Innovation - 2015
+                            Downloads
+                                Annual Reports
+                                Honey Bee Idea Submission Mobile App (Android)
+                                 Application Forms
+                                 Speeches
+                                 Award Books - Biennial Awards
+                                Award Books - IGNITE Awards
+                                NIF Presentations
+                                 India Innovates (2013)
+                                 State Innovation Books-->
+                            Tenders
+                                All MOU-->
+                            Careers
+                        -->
+                            SUBMIT IDEA
+                                National Competition
+                                Inspire Awards-Manak
+    .testimonial-author img {
+    width: 110px;
+    display: inline-block;
+    margin-right: 20px;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+}
+​NIF/2017/ADM/009 - ​Corrigendum - ​The submission date for bids of Tender, advertised in newspapers for Construction of Workshop Shed for Fabrication Laboratory has been extended. The bids will now be accepted upto 1st Feb,2018 by 11:00 hours and would be opened on the same day at 11:30 hours. The terms and conditions of advertisement published on 28/12/2017 remains the same.
+Corrigendum – There is a change in date of activity corresponding to Tender Ref: (NIF/2018/ADM/002).The activity is setting up of Innovation Exhibition at Rashtrapati Bhavan,New Delhi which is rescheduled to March 19-23,2018. The terms and conditions of advertisement published on 29/01/2018 remain the same. 
+Change in date of providing Catering Services during Festival of Innovation and Entrepreneurship at Rashtrapati Bhavan, New Delhi. Tender Ref: (NIF/2018/ADM/003). The dates for providing catering services have been changed to March 19-23, 2018. The other terms and conditions of advertisement published on 01/02/2018 remain the same.
+                                 The National Innovation Foundation (NIF) – India,  
+                               is India's national initiative to strengthen the grassroots technological innovations and outstanding traditional knowledge. Its mission is to help India become a creative and knowledge-based society by expanding policy and institutional space for grassroots technological innovators. It was set up with the support of Honey Bee Network.NIF scouts, supports and spawns' grassroots innovations developed by individuals and local communities in any technological field, helping in human survival without any help from formal sector. It also tries to ensure that such innovations diffuse widely through commercial and/or non-commercial channels, generating material or non-material incentives for them and others involved in the value chain.
+                           Dr APJ Abdul Kalam IGNITE 2015 Award -->
+                                NARI SHAKTI PURUSKAR
+                             Tender for Construction of Non Residential Building of NIF, Amrapur (NIF/2019/ADM/004):
+                             The approved brands for ceramic tiles are listed in tender, however for more clarity the basic price consideration for items are:
+                             1) Glazed tiles - Rs. 550 per sqm, 2) Ceramic tiles for terrace - Rs 450 per sqm, 3) Granite - Rs. 1500 per sqm
+                        Tender for Construction of Non Residential Building of NIF, Amrapur (NIF/2019/ADM/004):
+                             The approved brands for ceramic tiles are listed in tender, however for more clarity the basic price consideration for items are:
+                             1) Glazed tiles - Rs. 550 per sqm, 2) Ceramic tiles for terrace - Rs 450 per sqm, 3) Granite - Rs. 1500 per sqm  
+                  Dr A P J Abdul Kalam IGNITE Awards 2017  Download Ignite 2017 Award Book 
+                #test_scroll{ height:550px; overflow:hidden;}
+#test_scroll:hover{overflow-y:auto;}
+                CHALLENGE COVID-19 COMPETITION (C3)
+                ICMR guidelines related to COVID-19 -->
+                CHALLENGE COVID-19 COMPETITION (C3)-->
+                SUBMIT ONLINE-->
+                -->
+                The last date to participate in Challenge COVID-19 Competition is 10th May, 2020-->
+                      10th National Biennial Award Book 2019
+                         Awardees List 2019 
+                #test_scroll{ height:550px; overflow:hidden;}
+#test_scroll:hover{overflow-y:auto;}
+                      Dr A P J Abdul Kalam IGNITE Competition 2019 
+    S. No
+    Idea/Innovation
+    Name
+    Class
+    School    Name
+    District
+    State/UT
+      1. 
+    Solar ironing cart 
+    Vinisha Umashankar 
+    8 
+    The Path Global Public    School, Malappambadi 
+    Thiruvannamalai 
+    Tamil Nadu 
+      2. 
+    Visually challenged friendly    toilets 
+    Baibhav Parida 
+    8 
+    DAV Public School,    Chandresekharpur 
+    Khordha 
+    Odisha 
+      3. 
+    Expandable food plate 
+    Padmashri G. 
+    6 
+    GKHPS Doddabompalli 
+    Kolar 
+    Karnataka 
+      4. 
+    Insect killing dustbin 
+    Tanmay Kumar Sethi 
+    7 
+    Delhi Public School 
+    Rourkela 
+    Odisha 
+      5. 
+    Modified broom with dust    collector for cleaning ceiling 
+    Swadha Krishn 
+    7 
+    Delhi Public School, North    Bangalore 
+    Bengaluru 
+    Karnataka 
+    Swastik Subham 
+    6 
+    Kendriya Vidyalaya No. 1 
+    Sambalpur 
+    Odisha 
+      6. 
+    Plate with inbuilt detachable    glass 
+    Vishwa Goswami 
+    UKG 
+    Bhaskar Play School, Pethapur 
+    Gandhinagar 
+    Gujarat 
+      7. 
+    Quick finger duster for    whiteboards 
+    Archit Aryaman 
+    9 
+    Army Public School, Narangi 
+    Kamrup Metropolitan 
+    Assam 
+      8. 
+    Fast drying shoes 
+    Devjit Prasad Majhi 
+    9 
+    Buxi Jagabandhu English    Medium School, Bhubaneswar 
+    Khordha 
+    Odisha 
+      9. 
+    Intelligent stair case 
+    Anuj Mishra 
+    9 
+    Vindhyavasini Public School,    Bharuhana 
+    Mirzapur 
+    Uttar Pradesh 
+      10. 
+    Innovative shading tool for    drawing 
+    Raktim Das 
+    10 
+    Shankar Dev Sishu Vidya    Niketan, Dadara 
+    Kamrup 
+    Assam 
+      11. 
+    Easy cleaning water tank 
+    Siddhant Kumar 
+    9 
+    Govt High School, Rana Bigha 
+    Nalanda 
+    Bihar 
+      12. 
+    Manual Cole crop    harvester 
+    Yash Pramod Jadhav 
+    10 
+    Shardabai Pawar Vidyalaya,    Shivnagar 
+    Pune 
+    Maharashtra 
+      13. 
+    Stapler for leaf plate making 
+    Suyash Patel 
+    10 
+    Sri Chaitanya Techno School,    Kaggadasapura 
+    Bengaluru 
+    Karnataka 
+      14. 
+    Spill-proof Kaangri 
+    Asim Sikandar Mir 
+    8 
+    Shemford Futuristic School,    Wanpoh 
+    Anantnag 
+    Jammu &amp; Kashmir 
+      15. 
+    Perspiration absorbing shoe 
+    Sayeeda Banoo 
+    9 
+    Govt High School, Poyen 
+    Kargil* 
+    Jammu &amp; Kashmir 
+      16. 
+    Sickle housing first aid kit 
+    Kishan H. Thakor 
+    12 
+    Gramshala, Grambharti, Amrapur 
+    Gandhinagar 
+    Gujarat 
+      17. 
+    Sleep-walking detector and    preventer 
+    Shivam Amritesh 
+    11 
+    Sanskar Bharti Global School,    Phulparas 
+    Madhubani 
+    Bihar 
+      18. 
+    Semi-automatic flower garland    maker and packer 
+    A.J. Surya, S. Venkateswaran    and Venuram R.R. 
+    12 
+    Vidya Mandir Senior Secondary    School, Mylapore 
+    Chennai 
+    Tamil Nadu 
+                  -->
+                  -->
+                  -->
+                  -->
+                  -->
+                  -->
+      -->
+                            center a{
+                                font-size:16px;
+                                color:#111;
+                            }
+                      National Grand Challenge Awards for Designing User Friendly Smart Solar Cooking Solutions  (Closing date : March 31, 2019)
+                      Announcement
+              -->
+                  .banner-wrapper a img{
+                      //margin-right:8px;
+                  }
+									 Awardees 
+									 Site 
+									Updates
+										24-8-2015 : Sed entum velit vel ipsum bibendum em lacus, itor et aliquam eget, iaculis id lacus. Praesent tudin.
+										24-8-2015 : Aiquam eget, iaculis id lacus. Praesent tudin. Ut sem lacus, ttitor putate uam mi nec hendrerit.
+                                    -->
+                                   Archive
+							-->
+									Updates
+                                        24-8-2015 : Sed entum velit vel ipsum bibendum em lacus, itor et aliquam eget, iaculis id lacus. Praesent tudin.
+                                        24-8-2015 : Aiquam eget, iaculis id lacus. Praesent tudin. Ut sem lacus, ttitor putate uam mi nec hendrerit.
+                                    -->
+									Events
+                                        24-8-2015 : Sed entum velit vel ipsum bibendum em lacus, itor et aliquam eget, iaculis id lacus. Praesent tudin.
+                                        24-8-2015 : Aiquam eget, iaculis id lacus. Praesent tudin. Ut sem lacus, ttitor putate uam mi nec hendrerit.
+                                    -->
+                                    Archive
+									Speech
+										Sed entum velit vel ipsum bibendum em lacus, itor et aliquam eget, iaculis id lacus. Praesent tudin. 
+										Aiquam eget, iaculis id lacus. Praesent tudin. Ut sem lacus, ttitor putate uam mi nec hendrerit.
+                                    -->
+                                        Archive
+							-->
+									NIF in News
+										24-8-2015 : Sed entum velit vel ipsum bibendum em lacus, itor et aliquam eget, iaculis id lacus. Praesent tudin.
+										24-8-2015 : Aiquam eget, iaculis id lacus. Praesent tudin. Ut sem lacus, ttitor putate uam mi nec hendrerit.
+                                    -->
+                                    Archive
+									Press Release
+										24-8-2015 : Sed entum velit vel ipsum bibendum em lacus, itor et aliquam eget, iaculis id lacus. Praesent tudin.
+										24-8-2015 : Aiquam eget, iaculis id lacus. Praesent tudin. Ut sem lacus, ttitor putate uam mi nec hendrerit.
+                                    -->
+                                    Archive
+                                         Speeches 
+											"I am very happy to be here with all of you at FINE 2019  the Festival of Innovation and Entrepreneurship. This Festival is a celebration of creativity, innovation and entrepreneurship.Till 2018, it had been hosted at Rashtrapati Bhavan. This year it "  Read More...
+											.jackbox-thumb-panel{
+												display: none;
+											}
+												Shri Ram Nath Kovind
+												The President of India
+											"Good morning to all of you and welcome to Rashtrapati Bhavan for FINE 2018 – the Festival of Innovation and Entrepreneurship. This is a signature event on the Rashtrapati Bhavan calendar. It is part of an effort all of us are making – and must co"  Read More...
+											.jackbox-thumb-panel{
+												display: none;
+											}
+												Shri Ram Nath Kovind
+												The President of India
+											"I am happy to be here amongst you at the closing of the one week long ‘Festival of Innovations’. The festival has seen spirited exchanges and collaboration between different stakeholders who are part of the innovation value chain. For me personal"  Read More...
+											.jackbox-thumb-panel{
+												display: none;
+											}
+												Shri Pranab Mukherjee
+												The President of India
+											"To begin with, let me compliment the distinguished national and international delegates for participating in this important global round-table on inclusive innovations. I have had the benefit to listen to Dr. Francis Gurry, Director General of WIPO, "  Read More...
+											.jackbox-thumb-panel{
+												display: none;
+											}
+												Shri Pranab Mukherjee
+												The President of India
+											"At the very outset, I would like to welcome guests from India and abroad for participating in the presentation of the ninth national biennial award for grassroots innovations and outstanding traditional knowledge. At the outset, let me congratulate t"  Read More...
+											.jackbox-thumb-panel{
+												display: none;
+											}
+												Shri Pranab Mukherjee
+												The President of India
+                                More Speeches
+						                                       More Speech-->
+                ul.flickrcustom{
+                    list-style: none;
+                    margin: 0px 0px;
+                }
+                    PHOTO GALLERY
+									 Awardees 
+									 Site 
+                                                                    All Awardees 
+                                All Biennial Awardees 
+                    News
+                                                                20
+                      Jul
+                    India has handled covid better than many developed nations
+                                                                07
+                      Jul
+                    Kumbukkal Pepper: An Improved Disease Resistance Variety of Pepper
+                                                                26
+                      Jun
+                    Vijayawada: Inspire awards for schoolchildren
+                    More News
+							Important Links
+								The President of India
+								National Portal of India
+								Department of Science and Technology
+								Government of India Web Directory
+																E-Management of INSPIRE Award-MANAK 
+      -->
+                       NIF   
+                                About Us
+                                Activities
+                                Initiatives
+                                Awards
+                                 Technology Catalogue 
+                                Resources
+                                Updates
+                                Events
+                                CovidGyan
+                                Publications
+                                Careers
+                                Feedback 
+                                Contact Us
+                                In Memoriam
+                                Your Right to Information  !-->
+                                Disclaimer
+                            NIF in News
+                            Downloads-->
+                                                    Links
+                        Sitemap
+                        Infosys Foundation - Aarohan Social Innovation Awards
+                                                2nd National Water Awards 2019 
+                        ICMR guidelines related to COVID-19   
+                   Information Corner          
+                             RTI Act
+                                    RFD 2014-15
+                                    Citizen's charter
+                                    Public grievance
+                                                                        National Entrepreneurship Awards 2019
+                                    Awards for innovative Ideas in New & Renewable Energy- ” Abhinav Soch-Nayee Sambhawanayen”
+                                    Infosys Foundation’s Aarohan Social Innovation Awards 
+                                    CHALLENGE COVID-19 COMPETITION (C3)
+                   Newsletter    -->     
+                        -->
+                        like us on facebook
+                        Copyright © 2020 National Innovation Foundation - India. All rights reserved.
+            Layout Settings
+                Layout type:
+                Boxed
+                Wide
+                Background:
+                    Color
+                    Background
+        -->

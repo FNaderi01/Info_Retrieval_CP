@@ -1,0 +1,331 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+NNPA President Moderates Inspirational CBCF Avoice Heritage Celebration            
+				By Stacy M. Brown, NNPA Newswire Correspondent                
+	                	                Published March 1, 2019
+		A program to commemorate the Congressional Black Caucus Foundation’s 10th annual Avoice Heritage Celebration was held on Tuesday, Feb. 26 at the Eaton Hotel in Washington, D.C., the program, entitled “Roots, Return, Remembrance: The Congressional Black Caucus and the Black Agenda,” reflected on the many diverse stories of migration by African Americans and how they’ve shaped the mission of the CBC.
+A program to commemorate the Congressional Black Caucus Foundation’s 10th annual Avoice Heritage Celebration concluded in much the same way it began: lively and inspiring.
+Held on Tuesday, Feb. 26 at the Eaton Hotel in Washington, D.C., the program, entitled “Roots, Return, Remembrance: The Congressional Black Caucus and the Black Agenda,” reflected on the many diverse stories of migration by African Americans and how they’ve shaped the mission of the CBC.
+It kicked off with the Washington Performing Arts Men &amp; Women of the Gospel Choir performing the Black National Anthem, “Lift Every Voice and Sing,” under conductor Stanley Thurston.
+        ADVERTISEMENT        
+After a welcome address and statements, Neema Bickersteth, Jessie Montgomery and Jannina Norpoth – the cast of Scott Joplin’s Opera, “Treemonisha” – performed “We Will Trust You As Our Leader.”
+CBC Chair, California Rep. Karen Bass received the Distinguished Champion for Global Black Empowerment Award while Reps. Maxine Waters (D-Calif.); Eddie Bernice Johnson (D-Texas); Rep. Bobby Scott (D-Va.); Rep. Bennie Thompson (D-Miss.); and Rep. Elijah Cummings (D-Md.); each received the Distinguished Leader of Black Legislative Empowerment awards.
+The National Newspaper Publishers Association (NNPA) – the trade organization that represents the 215 African American-owned newspapers and media companies around the country – live-streamed the event to viewers on various social media platforms.
+“There are millions of young people in particular who are searching and thirsting for knowledge and information, so we thought this would be a great program for them to see,” said NNPA President and CEO Dr. Benjamin F. Chavis Jr., who moderated an energetic panel discussion featuring the awardees.
+Because of special hearings planned with President Donald Trump’s former attorney Michael Cohen, Representative Cummings could not attend the event.
+However, Cummings was featured in a video of the honorees that spoke about the importance of the Avoice Virtual Library, the CBCF’s award-winning digital archive that counts as a valuable tool for researchers, educators, students and anyone interested in African American legislative history.
+Avoice was developed in 2005 following the devastation of Hurricane Katrina that revealed the fragility of preserving physical, historical artifacts.
+As part of the virtual library project, the CBCF collects, preserves and disseminates historical information cataloging the rich history of African Americans in Congress and the library offers a section for educators with lesson units and detailed classroom activities to help teachers incorporate African American legislative history into their curricula.
+Chavis noted that members of the Black Press, which marks 192 years in business, continue to publish daily in print and on digital platforms.
+In moderating the panel of awardees, Chavis began with the ultra-popular Waters, the first black woman to chair the House Committee on Financial Services. He asked Waters what could be expected from her committee in terms of improving the quality of life in black communities.
+“What I’ve said to [businesses] is to not come to my committee to try to carry on your de-regulation. No more of that,” Waters said. “We want you to go figure out how you will fix all the wrongs you created that did not allow Black people to credibly own their own homes and businesses.”
+Waters vowed to “change the direction of America and the way we’ve been discriminated against.” She said, “I’m ready.”
+Johnson, the chair of the House Committee on Science, Technology and Space, said her committee isn’t sexy or exciting for a lot of people, but it’s terribly important.
+“We will continue to stress that we need our young people to see opportunities in STEM fields,” Johnson said, adding that she ensures that historically black colleges and universities are included in all grant and other funding that passes through her committee.
+Before turning to Scott, Chavis drew laughter and applause when he remarked, “Lord have mercy on Virginia” – a reference to the blackface and other scandals engulfing top officials there.
+Scott agreed, but cautioned against distraction. “We can spend all the time talking about that and not talk about equity and education,” said Scott, who chairs the House Committee on Education and Labor. “We have a lot of work to do. With all the distractions going on, nobody notices what we’re doing,” he said.
+“A couple of days ago, we gave a presentation to a higher education group and left there for a hearing on minimum wage and the reporters who staked me out didn’t want to talk about all the great things we’re doing for higher education or labor, they wanted to talk about ‘what’s up with the governor…’
+“What I did today, $100 billion legislation in school construction and we passed the Fair Pay Act, and [The Black Press] is the only place you will hear that it happened because of all the news on distractions. Meanwhile, we have to do what we need to do,” Scott said.
+Thompson, the chair of the House Committee on Homeland Security, said his committee does everything from airport security to maritime security. “You name it. In America, we provide security. However, I don’t want in the name of security, to have people targeted because of their color or religion,” Thompson said.
+“My job is not only to secure America, but to make America uphold its values as a country for people who live here,” he said.
+Waters capped the night encouraging her colleagues to embrace millennials and not “shield them” from the realities of racism and other problems.
+“They don’t want to be shielded. They want to be told the truth,” she said.
+“I am honored and so pleased that I’ve been adopted by the millennials… I am everybody’s Auntie.”
+		Categories: National | News | Political Tags: “Lift Every Voice and Sing” | “Roots Return Remembrance: The Congressional Black Caucus and the Black Agenda” | “Treemonisha” | “We Will Trust You As Our Leader” | 215 African American-owned newspapers and media companies | African Americans | Avoice Virtual Library | Black National Anthem | California Rep. Karen Bass | CBCF’s award-winning digital archive | Congressional Black Caucus Foundation’s 10th annual Avoice Heritage Celebration | de-regulation | Distinguished Champion for Global Black Empowerment Award | Distinguished Leader of Black Legislative Empowerment awards | diverse stories of migration | Dr. Benjamin F. Chavis Jr. | Eddie Bernice Johnson (D-Texas) | educators | epresentative Cummings | equity and education | Fair Pay Act | Historically Black Colleges and Universities | House Committee on Education and Labor | House Committee on Financial Services | House Committee on Homeland Security | House Committee on Science Technology and Space | Jannina Norpoth | Jessie Montgomery | live-stream | Michael Cohen | millennial | millions of young people | mission of the CBC | moderated an energetic panel discussion | National Newspaper Publishers Association (NNPA) | Neema Bickersteth | President Donald Trump | racism | Rep. Bobby Scott (D-Va.); Rep. Bennie Thompson (D-Miss.) | Rep. Elijah Cummings (D-Md.) | Reps. Maxine Waters (D-Calif.) | researchers | Scott Joplin’s Opera | social media platforms | special hearings | Stacy M. Brown | Stanley Thurston | STEM | students | trade organization | Washington Performing Arts Men &amp; Women of the Gospel Choir		
+						WATCH: Maxine Waters Tell Chris Hayes That Deutsche Bank Is Cooperating Wit...
+						WATCH: Elijah Cummings: Tells Press to Get in Right
+						WATCH: SCAQMD MLK Day Service
+						Call 2 Worship – March 7
+						Community Coalition Hosts Roundtable Discussion with Presidential Candidate...
+						Prof. Hal and Dr. Bettye Walker Making History Opening The First Chapter of...
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

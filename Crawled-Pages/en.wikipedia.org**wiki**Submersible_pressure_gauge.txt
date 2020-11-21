@@ -1,0 +1,2128 @@
+	Diving regulator
+		From Wikipedia, the free encyclopedia
+		  (Redirected from Submersible pressure gauge)
+		Jump to navigation
+		Jump to search
+		Mechanism that controls the pressure of a breathing gas supply for diving
+Diving regulatorDiving regulator: First and second stages, low pressure inflator hose and submersible pressure gaugeOther namesDemand valveUsesReduces pressurized breathing gas to ambient pressure and delivers it to the diverInventorManuel Théodore Guillaumet (1838), Benoît Rouquayrol (1860), Jacques-Yves Cousteau and Émile Gagnan (1942), Ted Eldred (1950)Related itemsLightweight demand helmetFull-face maskDiving cylinderBuoyancy compensator
+For details of the functional mechanics, see Mechanism of diving regulators.
+A diving regulator is a pressure regulator that controls the pressure of breathing gas for diving. The most commonly recognised application is to reduce pressurized breathing gas to ambient pressure and deliver it to the diver, but there are also other types of gas pressure regulator used for diving applications. The gas may be air or one of a variety of specially blended breathing gases. The gas may be supplied from a scuba cylinder carried by the diver or via a hose from a compressor or high-pressure storage cylinders at the surface in surface-supplied diving. A gas pressure regulator has one or more valves in series which reduce pressure from the source, and use the downstream pressure as feedback to control the delivered pressure, or the upstream pressure as feedback to prevent excessive flow rates, lowering the pressure at each stage.[1]
+The terms "regulator" and "demand valve" are often used interchangeably, but a demand valve is the final stage pressure-reduction regulator that delivers gas only while the diver is inhaling and reduces the gas pressure to approximately ambient. In single-hose regulators, the demand valve is either held in the diver's mouth by a mouthpiece or attached to the full-face mask or helmet. In twin-hose regulators the demand valve is included in the body of the regulator which is usually attached directly to the cylinder valve or manifold outlet, with a remote mouthpiece supplied at ambient pressure.
+A pressure-reduction regulator is used to control the delivery pressure of the gas supplied to a free-flow helmet or full-face mask, in which the flow is continuous, to maintain the downstream pressure which is provided by the ambient pressure of the exhaust and the flow resistance of the delivery system (mainly the umbilical and exhaust valve) and not much influenced by the breathing of the diver. Diving rebreather systems may also use regulators to control the flow of fresh gas, and demand valves, known as automatic diluent valves, to maintain the volume in the breathing loop during descent. Gas reclaim systems and built-in breathing systems (BIBS) use a different kind of regulator to control the flow of exhaled gas to the return hose and through the topside reclaim system, these are of the back-pressure regulator class.
+The performance of a regulator is measured by the cracking pressure and added mechanical work of breathing, and the capacity to deliver breathing gas at peak inspiratory flow rate at high ambient pressures without excessive pressure drop, and without excessive dead space. For some cold water diving applications the capacity to deliver high flow rates at low ambient temperatures without jamming due to regulator freezing is important.
+Contents
+1 Purpose
+2 Types
+2.1 Open circuit demand valve
+2.2 Open circuit free-flow regulator
+2.3 Reclaim regulators
+2.4 Built-in breathing systems
+2.5 Rebreather regulators
+3 History
+4 Mechanism and function
+4.1 Single hose demand regulators
+4.2 Twin hose demand regulators
+5 Performance
+5.1 Ergonomics
+5.2 Malfunctions and failure modes
+6 Accessories and special features
+6.1 Anti-freezing modification
+6.2 Pressure relief valve
+6.3 Pressure monitoring
+6.3.1 Standard submersible pressure gauge
+6.3.2 High pressure hose
+6.3.3 Button gauges
+6.3.4 Air integrated computers
+6.4 Secondary demand valve (Octopus)
+6.5 Mouthpiece
+6.6 Swivel hose adaptors
+6.7 Full-face mask or helmet
+6.8 Buoyancy compensator and dry suit inflation hoses
+6.9 Instrument consoles
+6.10 Automatic closure device
+7 Gas compatibility
+7.1 Recreational scuba nitrox service
+7.2 Surface supplied nitrox service
+7.3 Oxygen service
+7.4 Helium service
+8 Manufacturers and their brands
+9 See also
+10 References
+11 External links
+Purpose[edit]
+The diving regulator is a mechanism which reduces the pressure of the supply of breathing gas and provides it to the diver at approximately ambient pressure. The gas may be supplied on demand, when the diver inhales, or as a constant flow past the diver inside the helmet or mask, from which the diver uses what is necessary, while the remainder goes to waste.[2]:49
+The gas may be provided directly to the diver, or to a rebreather circuit, to make up for used gas and volume changes due to depth variations. Gas supply may be from a high-pressure scuba cylinder carried by the diver, or from a surface supply through a hose connected to a compressor or high pressure storage system.
+Types[edit]
+ Open circuit demand valve[edit]
+A demand valve detects when the diver starts inhaling and supplies the diver with a breath of gas at ambient pressure. When the diver stops inhaling, the demand valve closes to stop the flow. The demand valve has a chamber, which in normal use contains breathing gas at ambient pressure, which is connected to a bite-grip mouthpiece, a full-face mask, or a diving helmet, either direct coupled or connected by a flexible low-pressure hose. On one side of the chamber is a flexible diaphragm to sense the pressure difference between the gas in the chamber on one side and the surrounding water on the other side, and control the operation of the valve which supplies pressurised gas into the chamber.[3]
+This is done by a mechanical system linking the diaphragm to a valve which is opened to an extent proportional to the displacement of the diaphragm from the closed position. The pressure difference between the inside of the mouthpiece and the ambient pressure outside the diaphragm required to open the valve is known as the cracking pressure. This cracking pressure difference is usually negative relative to ambient, but may be slightly positive on a positive pressure regulator (a regulator that maintains a pressure inside the mouthpiece, mask or helmet, which is slightly greater than the ambient pressure). Once the valve has opened, gas flow should continue at the smallest stable pressure difference reasonably practicable while the diver inhales, and should stop as soon as gas flow stops. Several mechanisms have been devised to provide this function, some of them extremely simple and robust, and others somewhat more complex, but more sensitive to small pressure changes.[3]:33 The diaphragm is protected by a cover with holes or slits through which outside water can enter freely,
+When the diver starts to inhale, the removal of gas from the casing lowers the pressure inside the chamber, and the external water pressure moves the diaphragm inwards operating a lever which lifts the valve off its seat, releasing gas into the chamber. The inter-stage gas, at about 8 to 10 bars (120 to 150 psi) over ambient pressure, expands through the valve orifice as its pressure is reduced to ambient and supplies the diver with more gas to breathe. When the diver stops inhaling the chamber fills until the external pressure is balanced, the diaphragm returns to its rest position and the lever releases the valve to be closed by the valve spring and gas flow stops.[3]:
+When the diver exhales, one-way valves made from a flexible air-tight material flex outwards under the pressure of the exhalation, letting gas escape from the chamber. They close, making a seal, when the exhalation stops and the pressure inside the chamber reduces to ambient pressure.[3]:108
+The vast majority of demand valves are used on open circuit breathing apparatus, which means that the exhaled gas is discharged into the surrounding environment and lost. Reclaim valves can be fitted to helmets to allow the used gas to be returned to the surface for reuse after removing the carbon dioxide and making up the oxygen. This process, referred to as "push-pull", is technologically complex and expensive and is only used for deep commercial diving on heliox mixtures, where the saving on helium compensates for the expense and complications of the system, and for diving in contaminated water, where the gas is not reclaimed, but the system reduces the risk of contaminated water leaking into the helmet through an exhaust valve.[4]
+Open circuit free-flow regulator[edit]
+These are generally used in surface supply diving with free-flow masks and helmets. They are usually a large high-flow rated industrial gas regulator that is manually controlled at the gas panel on the surface to the pressure required to provide the desired flow rate to the diver. Free flow is not normally used on scuba equipment as the high gas flow rates are inefficient and wasteful.
+In constant-flow regulators the pressure regulator provides a constant reduced pressure, which provides gas flow to the diver, which may be to some extent controlled by an adjustable orifice controlled by the diver. These are the earliest type of breathing set flow control. The diver must physically open and close the adjustable supply valve to regulate flow. Constant flow valves in an open circuit breathing set consume gas less economically than demand valve regulators because gas flows even when it is not needed, and must flow at the rate required for peak inhalation. Before 1939, self contained diving and industrial open circuit breathing sets with constant-flow regulators were designed by Le Prieur, but did not get into general use due to very short dive duration. Design complications resulted from the need to put the second-stage flow control valve where it could be easily operated by the diver.[5]
+Reclaim regulators[edit]
+See also: Saturation diving § Gas reclaim systems, and Diving helmet § Reclaim helmets
+The cost of breathing gas containing a high fraction of helium is a significant part of the cost of deep diving operations, and can be reduced by recovering the breathing gas for recycling.[6] A reclaim helmet is provided with a return line in the diver's umbilical, and exhaled gas is discharged to this hose through a reclaim regulator, which ensures that gas pressure in the helmet cannot fall below the ambient pressure.[7]:150–151 The gas is processed at the surface in the helium reclaim system by filtering, scrubbing and boosting into storage cylinders until needed. The oxygen content may be adjusted when appropriate.[7]:151–155[4]:109 The same principle is used in built-in breathing systems used to vent oxygen-rich treatment gases from a hyperbaric chamber, though those gases are generally not reclaimed. A diverter valve is provided to allow the diver to manually switch to open circuit if the reclaim valve malfunctions, and an underpressure flood valve allows water to enter the helmet to avoid a squeeze if the reclaim valve fails suddenly, allowing the diver time to switch to open circuit without injury.[7]:151–155 Reclaim valves for deep diving may use two stages to give smoother flow and lower work of breathing. The reclaim regulator works on a similar principle to the demand regulator, in that it allows flow only when the pressure difference between the interior of the helmet and the ambient water opens the valve, but uses the upstream over-pressure to activate the valve, where the demand valve uses downstream underpressure.
+Reclaim regulators are also sometimes used for hazmat diving to reduce the risk of backflow of contaminated water through the exhaust valves into the helmet. In this application there would not be an underpressure flood valve, but the pressure differences and the squeeze risk are relatively low.[8][4]:109 The breathing gas in this application would usually be air and would not actually be recycled.
+Built-in breathing systems[edit]
+  Side view of BIBS mask supported by straps
+Main article: Built-in breathing system § Externally vented BIBS
+BIBS regulators for hyperbaric chambers have a two-stage system at the diver similar to reclaim helmets, though for this application the outlet regulator dumps the exhaled gas through an outlet hose to the atmosphere outside the chamber.
+These are systems used to supply breathing gas on demand in a chamber which is at a pressure greater than the ambient pressure outside the chamber.[9] The pressure difference between chamber and external ambient pressure makes it possible to exhaust the exhaled gas to the external environment, but the flow must be controlled so that only exhaled gas is vented through the system, and it does not drain the contents of the chamber to the outside. This is achieved by using a controlled exhaust valve which opens when a slight over-pressure relative to the chamber pressure on the exhaust diaphragm moves the valve mechanism against a spring. When this over-pressure is dissipated by the gas flowing out through the exhaust hose, the spring returns this valve to the closed position, cutting off further flow, and conserving the chamber atmosphere. A negative or zero pressure difference over the exhaust diaphragm will keep it closed. The exhaust diaphragm is exposed to the chamber pressure on one side, and exhaled gas pressure in the oro-nasal mask on the other side. The supply of gas for inhalation is through a demand valve which works on the same principles as a regular diving demand valve second stage. Like any other breathing apparatus, the dead space must be limited to minimise carbon dioxide buildup in the mask.
+In some cases the outlet suction must be limited and a back-pressure regulator may be required. This would usually be the case for use in a saturation system. Use for oxygen therapy and surface decompression on oxygen would not generally need a back-pressure regulator.[10] When an externally vented BIBS is used at low chamber pressure, a vacuum assist may be necessary to keep the exhalation backpressure down to provide an acceptable work of breathing.[9]
+The major application for this type of BIBS is supply of breathing gas with a different composition to the chamber atmosphere to occupants of a hyperbaric chamber where the chamber atmosphere is controlled, and contamination by the BIBS gas would be a problem.[9] This is common in therapeutic decompression, and hyperbaric oxygen therapy, where a higher partial pressure of oxygen in the chamber would constitute an unacceptable fire hazard, and would require frequent ventilation of the chamber to keep the partial pressure within acceptable limits Frequent ventilation is noisy and expensive, but can be used in an emergency.[11]
+Rebreather regulators[edit]
+See also: Rebreather and Rebreather diving
+Rebreather systems used for diving recycle most of the breathing gas, but are not based on a demand valve system for their primary function. Instead, the breathing loop is carried by the diver and remains at ambient pressure while in use. Regulators used in scuba rebreathers are described below.
+The automatic diluent valve (ADV) is used in a rebreather to add gas to the loop to compensate automatically for volume reduction due to pressure increase with greater depth or to make up gas lost from the system by the diver exhaling through the nose while clearing the mask or as a method of flushing the loop. They are often provided with a purge button to allow manual flushing of the loop. The ADV is virtually identical in construction and function to the open circuit demand valve, but does not have an exhaust valve. Some passive semi-closed circuit rebreathers use the ADV to add gas to the loop to compensate for a portion of the gas discharged automatically during the breathing cycle as a way of maintaining a suitable oxygen concentration.
+The bailout valve (BOV) is an open circuit demand valve built into a rebreather mouthpiece or other part of the breathing loop. It can be isolated while the diver is using the rebreather to recycle breathing gas and opened while at the same time isolating the breathing loop when a problem causes the diver to bail out onto open circuit. The main distinguishing feature of the BOV is that the same mouthpiece is used for open and closed-circuit, and the diver does not have to shut the dive/surface valve (DSV), remove it from their mouth, and find and insert the bailout demand valve in order to bail out onto open circuit. Although costly, this reduction in critical steps makes the integrated BOV a significant safety advantage, particularly when there is a high partial pressure of carbon dioxide in the loop, as hypercapnia can make it difficult or impossible for the diver to hold their breath even for the short period required to swap mouthpieces.[12]
+Constant mass flow addition valves are used to supply a constant mass flow of fresh gas to an active type semi-closed rebreather to replenish the gas used by the diver and to maintain an approximately constant composition of the loop mix. Two main types are used: the fixed orifice and the adjustable orifice (usually a needle valve). The constant mass flow valve is usually based on a gas regulator that is isolated from the ambient pressure so that it provides an absolute pressure regulated output (not compensated for ambient pressure). This limits the depth range in which constant mass flow is possible through the orifice, but provides a relatively predictable gas mixture in the breathing loop. An over-pressure relief valve in the first stage is used to protect the output hose. Unlike most other diving regulators, these do not control the downstream pressure, but they do regulate the flow rate.
+Manual and electronically controlled addition valves are used on manual and electronically controlled closed circuit rebreathers (mCCR, eCCR) to add oxygen to the loop to maintain set-point. A manually or electronically controlled valve is used to release oxygen from the outlet of a standard scuba regulator first stage into the breathing loop. An over-pressure relief valve on the first stage is necessary to protect the hose. Strictly speaking, these are not pressure regulators, they are flow control valves.
+History[edit]
+See also: History of underwater diving, Timeline of diving technology, and Scuba set
+The first recorded demand valve was invented in 1838 in France and forgotten in the next few years; another workable demand valve was not invented until 1860. On 14 November 1838, Dr. Manuel Théodore Guillaumet of Argentan, Normandy, France, filed a patent for a twin-hose demand regulator; the diver was provided air through pipes from the surface to a back mounted demand valve and from there to a mouthpiece. The exhaled gas was vented to the side of the head through a second hose. The apparatus was demonstrated to and investigated by a committee of the French Academy of Sciences:[13][14]
+On 19 June 1838, in London, William Edward Newton filed a patent (no. 7695:  "Diving apparatus") for a diaphragm-actuated, twin-hose demand valve for divers.[15] However, it is believed that Mr. Newton was merely filing a patent on behalf of Dr. Guillaumet.[16]
+In 1860 a mining engineer from Espalion (France), Benoît Rouquayrol, invented a demand valve with an iron air reservoir to let miners breathe in flooded mines. He called his invention régulateur ('regulator'). In 1864 Rouquayol met the French Imperial Navy officer Auguste Denayrouze and they worked together to adapt Rouquayrol's regulator to diving. The Rouquayrol-Denayrouze apparatus was mass-produced with some interruptions from 1864 to 1965.[17] As of 1865 it was acquired as a standard by the French Imperial Navy,[18] but never was entirely accepted by the French divers because of a lack of safety and autonomy.
+In 1926 Maurice Fernez and Yves Le Prieur patented a hand-controlled constant flow regulator (not a demand valve), which used a full-face mask (the air escaping from the mask at constant flow).[5][19]
+In 1937 and 1942 the French inventor, Georges Commeinhes from Alsace, patented a diving demand valve supplied with air from two gas cylinders through a full-face mask. Commeinhes died in 1944 during the liberation of Strasbourg and his invention was soon forgotten. The Commeinhes demand valve was an adaptation of the Rouquayoul-Denayrouze mechanism, not as compact as was the Cousteau-Gagnan apparatus.[20]
+It was not until December 1942 that the demand valve was developed to the form which gained widespread acceptance. This came about after French naval officer Jacques-Yves Cousteau and engineer Émile Gagnan met for the first time in Paris. Gagnan, employed at Air Liquide, had miniaturized and adapted a Rouquayrol-Denayrouze regulator used for gas generators following severe fuel restrictions due to the German occupation of France; Cousteau suggested it be adapted for diving, which in 1864 was its original purpose.[21]
+The single hose regulator, with a mouth held demand valve supplied with low pressure gas from the cylinder valve mounted first stage, was invented by Australian Ted Eldred in the early 1950s in response to patent restrictions and stock shortages of the Cousteau-Gagnan apparatus in Australia.  In 1951 E. R. Cross invented the "Sport Diver," one of the first American-made single-hose regulators. Cross' version is based on the oxygen system used by pilots. Other early single-hose regulators developed during the 1950s include Rose Aviation's "Little Rose Pro," the "Nemrod Snark" (from Spain), and the Sportsways "Waterlung," designed by diving pioneer Sam LeCocq in 1958. In France, in 1955, a patent was taken out by Bronnec &amp; Gauthier for a single hose regulator, later produced as the Cristal Explorer.[22] The "Waterlung" would eventually become the first single-hose regulator to be widely adopted by the diving public.  Over time, the convenience and performance of improved single hose regulators would make them the industry standard.[3]:7 Performance still continues to be improved by small increments, and adaptations have been applied to rebreather technology.
+The single hose regulator was later adapted for surface supplied diving in lightweight helmets and full-face masks in the tradition of the Rouquayrol-Denayrouze equipment to economise on gas usage. By 1969 Kirby-Morgan had developed a full-face mask - the KMB-8 Bandmask - using a single hose regulator. This was developed into the Kirby-Morgan SuperLite-17B by 1976[23]
+Secondary (octopus) demand valves, submersible pressure gauges and low pressure inflator hoses were added to the first stage.[when?]
+In 1994 a reclaim system was developed in a joint project by Kirby-Morgan and Divex to recover expensive helium mixes during deep operations.[23]
+Mechanism and function[edit]
+See also: Diving cylinder § The cylinder valve, Mechanism of diving regulators § Connection to the high pressure supply, Mechanism of diving regulators § CGA 850 connection, and Mechanism of diving regulators § DIN connection
+Both free-flow and demand regulators use mechanical feedback of the downstream pressure to control the opening of a valve which controls gas flow from the upstream, high-pressure side, to the downstream, low-pressure side of each stage.[24] Flow capacity must be sufficient to allow the downstream pressure to be maintained at maximum demand, and sensitivity must be appropriate to deliver maximum required flow rate with a small variation in downstream pressure, and for a large variation in supply pressure. Open circuit scuba regulators must also deliver against a variable ambient pressure. They must be robust and reliable, as they are life-support equipment which must function in the relatively hostile seawater environment.
+Diving regulators use mechanically operated valves.[24] In most cases there is ambient pressure feedback to both first and second stage, except where this is avoided to allow constant mass flow through an orifice in a rebreather, which requires a constant upstream pressure.
+The parts of a regulator are described here as the major functional groups in downstream order as following the gas flow from the cylinder to its final use.
+The first-stage of the scuba regulator will usually be connected to the cylinder valve by one of two standard types of fittings. The CGA 850 connector, also known as an international connector, which uses a yoke clamp, or a DIN screw fitting to connect it to the valve of the diving cylinder. There are also European standards for scuba regulator connectors for gases other than air, and adapters to allow use of regulators with cylinder valves of a different connection type.
+CGA 850 Yoke connectors (sometimes called A-clamps from their shape) are the most popular regulator connection in North America and several other countries. They clamp the high pressure inlet opening of the regulator against the outlet opening of the cylinder valve, and are sealed by an O-ring in a groove in the contact face of the cylinder valve. The user screws the clamp in place finger-tight to hold the metal surfaces of cylinder valve and regulator first stage in contact, compressing the o-ring between the radial faces of valve and regulator. When the valve is opened, gas pressure presses the O-ring against the outer cylindrical surface of the groove, completing the seal. The diver must take care not to screw the yoke down too tightly, or it may prove impossible to remove without tools. Conversely, failing to tighten sufficiently can lead to O-ring extrusion under pressure and a major loss of breathing gas. This can be a serious problem if it happens when the diver is at depth. Yoke fittings are rated up to a maximum of 240 bar working pressure.
+The DIN fitting is a type of screw-in connection to the cylinder valve. The DIN system is less common worldwide, but has the advantage of withstanding greater pressure, up to 300 bar, allowing use of high-pressure steel cylinders. They are less susceptible to blowing the O-ring seal if banged against something while in use. DIN fittings are the standard in much of Europe and are available in most countries. The DIN fitting is considered more secure and therefore safer by many technical divers.[3]:117
+Single hose demand regulators[edit]
+See also: Mechanism of diving regulators § Single hose demand regulators
+Most contemporary diving regulators are single-hose two-stage demand regulators. They consist of a first-stage regulator and a second-stage demand valve connected by a low pressure hose to transfer breathing gas, and allow relative movement within the constraints of hose length and flexibility. 
+The first stage is mounted to the cylinder valve or manifold via one of the standard connectors (Yoke or DIN), and reduces cylinder pressure to an intermediate pressure, usually about 8 to 11 bars (120 to 160 psi) higher than the ambient pressure, also called interstage pressure, medium pressure or low pressure.[24]:17–20
+A balanced regulator first stage automatically keeps a constant pressure difference between the interstage pressure and the ambient pressure even as the tank pressure drops with consumption. The balanced regulator design allows the first stage orifice to be as large as needed without incurring performance degradation as a result of changing tank pressure.[24]:17–20
+The first stage regulator body generally has several low-pressure outlets (ports) for second-stage regulators and BCD and dry suit inflators, and one or more high-pressure outlets, which allow a submersible pressure gauge (SPG), gas-integrated diving computer or remote pressure tranducer to read the cylinder pressure. One low-pressure port with a larger bore may be designated for the primary second stage as it will give a higher flow at maximum demand for lower work of breathing.[2]:50
+The mechanism inside the first stage can be of the diaphragm or piston type, and can be balanced or unbalanced. Unbalanced regulators produce an interstage pressure which varies slightly as the cylinder pressure changes and to limit this variation the high-pressure orifice size is small, which decreases the maximum capacity of the regulator. A balanced regulator maintains a constant interstage pressure difference for all cylinder pressures.[24]:17–20
+The second stage, or demand valve reduces the pressure of the interstage air supply to ambient pressure on demand from the diver. The operation of the valve is triggered by a drop in downstream pressure as the diver breathes in. In an upstream valve, the velve is held closed by the interstage pressure and opens by moving into the flow of gas. They are often made as tilt-valves, which are mechanically extremely simple and reliable, but are not amenable to fine tuning.[3]:14
+Most modern demand valves use a downstream valve mechanism, where the valve poppet moves in the same direction as the flow of gas to open and is kept closed by a spring. The poppet is lifted away from the crown by a lever operated by the diaphragm.[3]:13–15 Two patterns are commonly used. One is the classic push-pull arrangement, where the actuating lever goes onto the end of the valve shaft and is held on by a nut. Any deflection of the lever is converted to an axial pull on the valve shaft, lifting the seat off the crown and allowing air to flow.[3]:13 The other is the barrel poppet arrangement, where the poppet is enclosed in a tube which crosses the regulator body and the lever operates through slots in the sides of the tube. The far end of the tube is accessible from the side of the casing and a spring tension adjustment screw may be fitted for limited diver control of the cracking pressure. This arrangement also allows relatively simple pressure balancing of the second stage.[3]:14,18
+A downstream valve will function as an over-pressure valve when the inter-stage pressure is raised sufficiently to overcome the spring pre-load. If the first stage leaks and the inter-stage over-pressurizes, the second stage downstream valve opens automatically. If the leak is bad this could result in a "freeflow", but a slow leak will generally cause intermittent "popping" of the DV, as the pressure is released and slowly builds up again.[3]:
+If the first stage leaks and the inter-stage over-pressurizes, the second stage upstream valve will not release the excess pressure, This might hinder the supply of breathing gas and possibly result in a ruptured hose or the failure of another second stage valve, such as one that inflates a buoyancy device. When a second stage upstream  valve is used a relief valve will be included by the manufacturer on the first stage regulator to protect the hose.[3]:9
+If a shut-off valve is fitted between the first and second stages, as is found on scuba bailout systems used for commercial diving and in some technical diving configurations, the demand valve will normally be isolated and unable to function as a relief valve. In this case an overpressure valve must be fitted to the first stage.  They are available as aftermarket accessories which can be screwed into any available low pressure port on the first stage.[25]
+Some demand valves use a small, sensitive pilot valve to control the opening of the main valve. The Poseidon Jetstream and Xstream and Oceanic Omega second stages are examples of this technology. They can produce very high flow rates for a small pressure differential, and particularly for a relatively small cracking pressure. They are generally more complicated and expensive to service.[3]:16
+Exhaled gas leaves the demand valve housing through one or two exhaust ports. Exhaust valves are necessary to prevent the diver inhaling water, and to allow a negative pressure difference to be induced over the diaphragm to operate the demand valve. The exhaust valves should operate at a very small positive pressure difference, and cause as little resistance to flow as reasonably possible, without being cumbersome and bulky. Elastomer mushroom valves serve the purpose adequately.[3]:108 Where it is important to avoid leaks back into the regulator, such as when diving in contaminated water, a system of two sets of valves in series can reduce the risk of contamination. A more complex option which can be used for surface supplied helmets, is to use a reclaim exhaust system which uses a separate flow regulator to control the exhaust which is returned to the surface in a dedicated hose in the umbilical.[4]:109 The exhaust manifold (exhaust tee, exhaust cover, whiskers) is the ducting that protects the exhaust valve(s) and diverts the exhaled air to the sides so that it does not bubble up in the diver's face and obscure the view.[3]:33
+  The purge button (top-centre) is held away from the diaphragm by a spring. The valve is closed.
+  The purge button (top-centre) is depressed. The valve is partially open.
+A standard fitting on single-hose second stages, both mouth-held and built into a full-face mask or demand helmet, is the purge-button, which allows the diver to manually deflect the diaphragm to open the valve and cause air to flow into the casing. This is usually used to purge the casing or full-face mask of water if it has flooded. This will often happen if the second stage is dropped or removed from the mouth while under-water.[3]:108 It is either a separate part mounted in the front cover or the cover itself may be made flexible and serves as the purge button. Depressing the purge button presses against the diapragm directly over the lever of the demand valve, and this movement of the lever opens the valve to release air through the regulator.[26] The tongue may be used to block the mouthpiece during purging to prevent water or other matter in the regulator from being blown into the diver's airway by the air blast. This is particularly important when purging after vomiting through the regulator. The purge button is also used by recreational divers to inflate a delayed surface marker buoy or lifting bag. Any time that the purge button is operated, the diver must be aware of the potential for a freeflow and be ready to deal with it.[27]
+It may be desirable for the diver to have some manual control over the flow characteristics of the demand valve. The usual adjustable aspects are cracking pressure and the feedback from flow rate to internal pressure of the second stage housing. The inter-stage pressure of surface supplied demand breathing apparatus is controlled manually at the control panel, and does not automatically adjust to the ambient pressure in the way that most scuba first stages do, as this feature is controlled by feedback to the first stage from ambient pressure. This has the effect that the cracking pressure of a surface supplied demand valve will vary slightly with depth, so some manufacturers provide a manual adjustment knob on the side of the demand valve housing to adjust spring pressure on the downstream valve, which controls the cracking pressure. The knob is known to commercial divers as "dial-a-breath". A similar adjustment is provided on some high-end scuba demand valves, to allow the user to manually tune the breathing effort at depth[3]:17
+Scuba demand valves which are set to breathe lightly (low cracking pressure, and low work of breathing) may tend to free-flow relatively easily, particularly if the gas flow in the housing has been designed to assist in holding the valve open by reducing the internal pressure. The cracking pressure of a sensitive demand valve is often less than the hydrostatic pressure difference between the inside of an air-filled housing and the water below the diaphragm when the mouthpiece is pointed upwards. To avoid excessive loss of gas due to inadvertent activation of the valve when the DV is out of the diver's mouth, some second stages have a desensitising mechanism which causes some back-pressure in the housing, by impeding the flow or directing it against the inside of the diaphragm.[3]:21
+Twin hose demand regulators[edit]
+See also: Mechanism of diving regulators § Twin-hose demand regulators
+  A Dräger two-stage twin-hose regulator
+  Beuchat "Souplair" single stage twin hose regulator
+The "twin", "double" or "two" hose configuration of scuba demand valve was the first in general use.[28] This type of regulator has two large bore corrugated breathing tubes. One tube is to supply air from the regulator to the mouthpiece, and the second tube delivers the exhaled gas to a point near the demand diaphragm where the ambient pressure is the same, and where it is released through a rubber duck-bill one-way valve, to escape out of the holes in the cover. Advantages of this type of regulator are that the bubbles leave the regulator behind the diver's head, increasing visibility, reducing noise and producing less load on the diver's mouth, They remain popular with some underwater photographers and Aqualung brought out an updated version of the Mistral in 2005.[29][30]
+The mechanism of the twin hose regulator is packaged in a usually circular metal housing mounted on the cylinder valve behind the diver's neck. The demand valve component of a two-stage twin hose regulator is thus mounted in the same housing as the first stage regulator, and in order to prevent free-flow, the exhaust valve must be located at the same depth as the diaphragm, and the only reliable place to do this is in the same housing. The air flows through a pair of corrugated rubber hoses to and from the mouthpiece. The supply hose is connected to one side of the regulator body and supplies air to the mouthpiece through a non-return valve, and the exhaled air is returned to the regulator housing on the outside of the diaphragm, also through a non-return valve on the other side of the mouthpiece and usually through another non-return exhaust valve in the regulator housing - often a "duckbill" type.[31]
+A non-return valve is usually fitted to the breathing hoses where they connect to the mouthpiece. This prevents any water that gets into the mouthpiece from going into the inhalation hose, and ensures that once it is blown into the exhalation hose that it cannot flow back. This slightly increases the flow resistance of air, but makes the regulator easier to clear.[31]:341
+Ideally the delivered pressure is equal to the resting pressure in the diver's lungs as this is what human lungs are adapted to breathe. With a twin hose regulator behind the diver at shoulder level, the delivered pressure changes with diver orientation. if the diver rolls on his or her back the released air pressure is higher than in the lungs. Divers learned to restrict flow by using their tongue to close the mouthpiece. When the cylinder pressure was running low and air demand effort rising, a roll to the right side made breathing easier. The mouthpiece can be purged by lifting it above the regulator(shallower), which will cause a free flow.[31]:341 Twin hose regulators have been superseded almost completely by single hose regulators and became obsolete for most diving since the 1980s.[32] Raising the mouthpiece above the regulator increases the delivered pressure of gas and lowering the mouthpiece reduces delivered pressure and increases breathing resistance. As a result, many aqualung divers, when they were snorkeling on the surface to save air while reaching the dive site, put the loop of hoses under an arm to avoid the mouthpiece floating up causing free flow.
+The original twin-hose regulators usually had no ports for accessories, though some had a high pressure port for a submersible pressure gauge. Some later models have one or more low-pressure ports between the stages, which can be used to supply direct feeds for suit or BC inflation and/or a secondary single hose demand valve, and a high pressure port for a submersible pressure gauge.[31] The new Mistral is an exception as it is based on the Aqualung Titan first stage. which has the usual set of ports.[29]
+Some early twin hose regulators were of single-stage design. The first stage functions in a way similar to the second stage of two-stage demand valves, but would be connected directly to the cylinder valve and reduced high pressure air from the cylinder directly to ambient pressure on demand. This could be done by using a longer lever and larger diameter diaphragm to control the valve movement, but there was a tendency for cracking pressure, and thus work of breathing, to vary as the cylinder pressure dropped.[31]
+The twin-hose arrangement with a mouthpiece or full-face mask is common in rebreathers, but as part of the breathing loop, not as part of a regulator. The associated demand valve comprising the bail-out valve is a single hose regulator.
+Performance[edit]
+Main article: Breathing performance of regulators
+See also: Work of breathing
+The breathing performance of regulators is a measure of the ability of a breathing gas regulator to meet the demands placed on it at varying ambient pressures and under varying breathing loads, for the range of breathing gases it may be expected to deliver.  Performance is an important factor in design and selection of breathing regulators for any application, but particularly for underwater diving, as the range of ambient operating pressures and variety of breathing gases is broader in this application.  It is desirable that breathing from a regulator requires low effort even when supplying large amounts of breathing gas as this is commonly the limiting factor for underwater exertion, and can be critical during diving emergencies. It is also preferable that the gas is delivered smoothly without any sudden changes in resistance while inhaling or exhaling. Although these factors may be judged subjectively, it is convenient to have a standard by which the many different types and manufactures of regulators may be compared.
+The original Cousteau twin-hose diving regulators could deliver about 140 litres of air per minute at continuous flow and that was officially thought to be adequate, but divers sometimes needed a higher instantaneous rate and had to learn not to "beat the lung", i.e. to breathe faster than the regulator could supply. Between 1948 and 1952 Ted Eldred designed his Porpoise single hose regulator to supply up to 300 liters per minute.[33]
+Various breathing machines have been developed and used for assessment of breathing apparatus performance.[34] ANSTI Test Systems Ltd (UK) has developed a testing machine that measures the inhalation and exhalation effort in using a regulator at all realistic water temperatures. Publishing results of the performance of regulators in the ANSTI test machine has resulted in big performance improvements.[35][36]
+Ergonomics[edit]
+Several factors affect the comfort and effectiveness of diving regulators. Work of breathing has been mentioned, and can be critical to diver performance under high workload and when using dense gas at depth.[37]
+Mouth-held demand valves may exert forces on the teeth and jaws of the user that can lead to fatigue and pain, occasionally repetitive stress injury, and early rubber mouthpieces often caused an allergic reaction of contact surfaces in the mouth, which has been largely eliminated by the use of hypoallergenic silicone rubber. Various designs of muothpiece have been developed to reduce this problem. The feel of some mouthpieces on the palate can induce a gag reflex in some divers, while in others it causes no discomfort. The style of the bite surfaces can influence comfort and various styles are available as aftermarket accessories. Personal testing is the usual way to identify what works best for the individual, and in some models the grip surfaces can be moulded to better fit the diver's bite. The lead of the low-pressure hose can also induce mouth loads when the hose is of an unsuitable length or is forced into small radius curves to reach the mouth. This can usually be avoided by careful adjuctment of hose lead and sometimes a different hose length.
+Regulators supported by helmets and full-face masks eliminate the load on the lips, teeth and jaws, but add mechanical dead space, which can be reduced by using an orinasal inner mask to separate the breathing circuit from the rest of the interior air space. This can also help reduce fogging of the viewport, which can seriously restrict vision. Some fogging will still occur, and a means of defogging is necessary.[37] The internal volume of a helmet or full-face mask may exert unbalanced buoyancy forces on the diver's neck, or if compensated by ballast, weight loads when out of the water. The material of some orinasal mask seals and full-face mask skirts can cause allergic reactions, but newer models tend to use hypoallegenic materials and are seldom a problem.
+Malfunctions and failure modes[edit]
+Most regulator malfunctions involve improper supply of breathing gas or water leaking into the gas supply. There are two main gas supply failure modes, where the regulator shuts off delivery, which is extremely rare, and free-flow, where the delivery will not stop and can quickly exhaust a scuba supply.[2]
+Inlet filter blockage
+The inlet to the cylinder valve may be protected by a sintered filter, and the inlet to the first stage is usually protected by a filter, both to prevent corrosion products or other contaminants in the cylinder from getting into the fine toleranced gaps in the moving parts of the first and second stage and jamming them, either open or closed. If enough dirt gets into these filters they themselves can be blocked sufficiently to reduce performance, but are unlikely to result in a total or sudden catastrophic failure. Sintered bronze filters can also gradually clog with corrosion products if they get wet. Inlet filter blockage will become more noticeable as the cylinder pressure drops.[38]
+Free-flow
+Either of the stages may get stuck in the open position, causing a continuous flow of gas from the regulator known as a free-flow. This can be triggered by a range of causes, some of which can be easily remedied, others not. Possible causes include incorrect interstage pressure setting, incorrect second stage valve spring tension, damaged or sticking valve poppet, damaged valve seat, valve freezing, wrong sensitivity setting at the surface and in Poseidon servo-assisted second stages, low interstage pressure.[38]
+Sticking valves
+The moving parts in first and second stages have fine tolerances in places, and some designs are more susceptible to contaminants causing friction between the moving parts. this may increase cracking pressure, reduce flow rate, increase work of breathing or induce free-flow, depending on what part is affected.
+Freezing
+Further information: Ice diving § Regulator freezing In cold conditions the cooling effect of gas expanding through a valve orifice may cool either first or second stage sufficiently to cause ice to form. External icing may lock up the spring and exposed moving parts of first or second stage, and freezing of moisture in the air may cause icing on internal surfaces. Either may cause the moving parts of the affected stage to jam open or closed. If the valve freezes closed, it will usually defrost quite rapidly and start working again, and may freeze open soon after. Freezing open is more of a problem, as the valve will then free-flow and cool further in a positive feedback loop, which can normally only be stopped by closing the cylinder valve and waiting for the ice to thaw. If not stopped, the cylinder will rapidly be emptied.[39]
+Intermediate pressure creep
+This is a slow leak of the first stage valve. The effect is for the interstage pressure to rise until either the next breath is drawn, or the pressure exerts more force on the second stage valve than can be resisted by the spring, and the valve opens briefly, often with a popping sound, to relieve the pressure. the frequency of the popping pressure relief depends on the flow in the second stage, the back pressure, the second stage spring tension and the magnitude of the leak. It may range from occasional loud pops to a constant hiss. Underwater the second stage may be damped by the water and the loud pops may become an intermittent or constant stream of bubbles. This is not usually a catastrophic failure mode, but should be fixed as it will get worse, and it wastes gas.[38]
+Gas leaks
+Air leaks can be caused by burst or leaky hoses, defective o-rings, blown o-rings, particularly in yoke connectors, loose connections, and several of the previously listed malfunctions. Low pressure inflation hoses may fail to connect properly, or the non-return valve may leak. A burst low pressure hose will usually lose gas faster than a burst high pressure hose, as HP hoses usually have a flow restriction orifice in the fitting that screws into the port,[3]:185 as the submersible pressure gauge does not need high flow, and a slower pressure increase in the gauge hose is less likely to overload the gauge, while the hose to a second stage must provide high peak flow rate to minimize work of breathing.[38] A relatively common o-ring failure occurs when the yoke clamp seal extrudes due to insufficient clamp force or elastic deformation of the clamp by impact with the environment.
+Wet breathing
+Wet breathing is caused by water getting into the regulator and compromising breathing comfort and safety. Water can leak into the second stage body through damaged soft parts like torn mouthpieces, damaged exhaust valves and perforated diaphragms, through cracked housings, or through poorly sealing or fouled exhaust valves.[38]
+Excessive work of breathing
+High work of breathing can be caused by high inhalation resistance, high exhalation resistance or both. High inhalation resistance can be caused by high cracking pressure, low interstage pressure, friction in second stage valve moving parts, excessive spring loading, or sub-optimum valve design. It can usually can be improved by servicing and tuning, but some regulators cannot deliver high flow at great depths without high work of breathing. High exhalation resistance is usually due to a problem with the exhaust valves, which can stick, stiffen due to deterioration of the materials, or may have an insufficient flow passage area for the service.[38] Work of breathing increases with gas density, and therefore with depth. Total work of breathing for the diver is a combination of physiological work of breathing and mechanical work of breathing. It is possible for this combination to exceed the capacity of the diver, who can then suffocate due to carbon dioxide toxicity.
+Juddering, shuddering and moaning
+This is caused by an irregular and unstable flow from the second stage, It may be caused by a slight positive feedback between flow rate in the second stage body and diaphragm deflection opening the valve, which is not sufficient to cause free-flow, but enough to cause the system to hunt. It is more common on high-performance regulators which are tuned for maximum flow and minimum work of breathing, particularly out of the water, and often reduces or resolves when the regulator is immersed and the ambient water damps the movement of the diaphragm and other moving parts. Desensitising the second stage by closing venturi assists or increasing the valve spring pressure often stops this problem. Juddering may also be caused by excessive but irregular friction of valve moving parts.[38]
+Physical damage to the housing or components
+Damage such as cracked housings, torn or dislodged mouthpieces, damaged exhaust fairings, can cause gas flow problems or leaks, or can make the regulator uncomfortable to use or difficult to breathe from.
+Accessories and special features[edit]
+Anti-freezing modification[edit]
+  Apeks TX100 second stage showing heat exchange fins on chromed brass demand valve seat housing
+  Apeks first stage showing environmental sealing diaphragm
+As gas leaves the cylinder it decreases in pressure in the first stage, becoming very cold due to adiabatic expansion. Where the ambient water temperature is less than 5 °C any water in contact with the regulator may freeze. If this ice jams the diaphragm or piston spring, preventing the valve closing, a free-flow may ensue that can empty a full cylinder within a minute or two, and the free-flow causes further cooling in a positive feedback loop.[39] Generally the water that freezes is in the ambient pressure chamber around a spring that keeps the valve open and not moisture in the breathing gas from the cylinder, but that is also possible if the air is not adequately filtered. The modern trend of using plastics to replace metal components in regulators encourages freezing because it insulates the inside of a cold regulator from the warmer surrounding water. Some regulators are provided with heat exchange fins in areas where cooling due to air expansion is a problem, such as around the second stage valve seat on some regulators.[36]
+Cold water kits can be used to reduce the risk of freezing inside the regulator. Some regulators come with this as standard, and some others can be retrofitted. Environmental sealing of the diaphragm main spring chamber using a soft secondary diaphragm and hydrostatic transmitter[3]:195 or a silicone, alcohol or glycol/water mixture antifreeze liquid in the sealed spring compartment can be used for a diaphragm regulator.[3] Silicone grease in the spring chamber can be used on a piston first stage.[3] The Poseidon Xstream first stage insulates the external spring and spring housing from the rest of the regulator, so that it is less chilled by the expanding air, and provides large slots in the housing so that the spring can be warmed by the water, thus avoiding the problem of freezing up the external spring.[40]
+Pressure relief valve[edit]
+A downstream demand valve serves as a fail safe for over-pressurization: if a first stage with a demand valve malfunctions and jams in the open position, the demand valve will be over-pressurized and will "free flow". Although it presents the diver with an imminent "out of air" crisis, this failure mode lets gas escape directly into the water without inflating buoyancy devices. The effect of unintentional inflation might be to carry the diver quickly to the surface causing the various injuries that can result from an over-fast ascent. There are circumstances where regulators are connected to inflatable equipment such as a rebreather's breathing bag, a buoyancy compensator, or a drysuit, but without the need for demand valves. Examples of this are argon suit inflation sets and "off board" or secondary diluent cylinders for closed-circuit rebreathers. When no demand valve is connected to a regulator, it should be equipped with a pressure relief valve, unless it has a built in over pressure valve, so that over-pressurization does not inflate any buoyancy devices connected to the regulator or burst the low-pressure hose.
+Pressure monitoring[edit]
+  Submersible pressure gauge
+A diving regulator has one or two 7/16" UNF high pressure ports upstream of all pressure-reducing valves to monitor the gas pressure remaining in the diving cylinder, provided that the valve is open.[1] There are several types of contents gauge.
+ Standard submersible pressure gauge[edit]
+The standard arrangement has a high pressure hose leading to a submersible pressure gauge (SPG) (also called a contents gauge).[3] This is an analog mechanical gauge, usually with a Bourdon tube mechanism. It displays with a pointer moving over a dial,[1] usually about 50 millimetres (2.0 in) diameter. Sometimes they are mounted in a console, which is a plastic or rubber case that holds the air pressure gauge and other instruments such as a depth gauge, dive computer and/or compass. 
+The high pressure port usually has 7/16"-20 tpi UNF internal thread with an O-ring seal.[41] This makes it impossible to connect a low pressure hose to the high pressure port. Early regulators occasionally used other thread sizes, including 3/8" UNF and 1/8" BSP (Poseidon Cyklon 200), and some of these allowed connection of low-pressure hose to high pressure port, which is dangerous with a downstream valve second stage or a BC or dry suit inflation hose, as the hose could burst under pressure.
+High pressure hose[edit]
+The high pressure hose is a small bore flexible hose with permanently swaged end fittings that connects the submersible pressure gauge to the HP port of the regulator first stage. The HP hose end that fits the HP port usually has a very small bore orifice to restrict flow. This both reduces shock loads on the pressure gauge when the cylinder valve is opened, and reduces the loss of gas through the hose if it bursts or leaks for any reason. This tiny hole is vulnerable to blocking by corrosion products if the regulator is flooded.[3]:185 At the other end of the hose the fitting to connect to the SPG usually has a swivel, allowing the gauge to be rotated on the hose under pressure. The seal between hose and gauge uses a small component generally referred to as a spool, which seals with an O-ring at each end that fits into the hose end and gauge with a barrel seal. This swivel can leak if the O-rings deteriorate, which is quite common, particularly with oxygen-rich breathing gas. The failure is seldom catastrophic, but the leak will get worse over time.[3]:185 High pressure hose lengths vary from about 150 millimetres (6 in) for sling and side-mount cylinders to about 750 millimetres (30 in) for back mounted scuba. Other lengths may be available off the shelf or made to order for special applications such as rebreathers or back mount with valve down.
+Button gauges[edit]
+  Button gauge
+These are coin-sized analog pressure gauges directly mounted to a high-pressure port on the first stage. They are compact, have no dangling hoses, and few points of failure. They are generally not used on back mounted cylinders because the diver cannot see them there when underwater. They are sometimes used on side slung stage cylinders. Due to their small size, it can be difficult to read the gauge to a resolution of less than 20 bars (300 psi). As they are rigidly mounted to the first stage there is no flexibility in the connection, and they may be vulnerable to impact damage.
+Air integrated computers[edit]
+See also: Dive computer § Additional functionality
+  Submersible wireless pressure transducer for remote dive computer display
+Some dive computers are designed to measure, display, and monitor pressure in the diving cylinder. This can be very beneficial to the diver, but if the dive computer fails the diver can no longer monitor his or her gas reserves. Most divers using a gas-integrated computer will also have a standard air pressure gauge. The computer is either connected to the first stage by a high pressure hose, or has two parts - the pressure transducer on the first stage and the display at the wrist or console, which communicate by wireless data transmission link; the signals are encoded to eliminate the risk of one diver's computer picking up a signal from another diver's transducer or radio interference from other sources.[42] Some dive computers can receive a signal from more that one remote pressure transducer.[43] The Ratio iX3M Tech and others can process and display pressures from up to 10 transmitters.[44]
+ Secondary demand valve (Octopus)[edit]
+See also: Scuba set § Secondary demand valve on a regulator
+  A combined diving regulator demand valve and buoyancy compensator inflation valve
+  Primary and secondary (yellow) demand valves. 
+As a nearly universal standard practice in modern recreational diving, the typical single-hose regulator has a spare demand valve fitted for emergency use by the diver's buddy, typically referred to as the octopus because of the extra hose, or secondary demand valve. The octopus was invented by Dave Woodward[45] at UNEXSO around 1965-6 to support the free dive attempts of Jacques Mayol. Woodward believed that having the safety divers carry two second stages would be a safer and more practical approach than buddy breathing in the event of an emergency.[45] The low pressure hose on the octopus is usually longer than the low pressure hose on the primary demand valve that the diver uses, and the demand valve and/or hose may be colored yellow to aid in locating in an emergency. The secondary regulator should be clipped to the diver's harness in a position where it can be easily seen and reached by both the diver and the potential sharer of air. The longer hose is used for convenience when sharing air, so that the divers are not forced to stay in an awkward position relative to each other. Technical divers frequently extend this feature and use a 5-foot or 7-foot hose, which allows divers to swim in single file while sharing air, which may be necessary in restricted spaces inside wrecks or caves.
+The secondary demand valve can be a hybrid of a demand valve and a buoyancy compensator inflation valve. Both types are sometimes called alternate air sources. When the secondary demand valve is integrated with the buoyancy compensator inflation valve, since the inflation valve hose is short (usually just long enough to reach mid-chest), in the event of a diver running out of air, the diver with air remaining would give his or her primary second stage to the out-of-air diver, and switch to their own inflation valve.
+A demand valve on a regulator connected to a separate independent diving cylinder would also be called an alternate air source and also a redundant air source, as it is totally independent of the primary air source.
+Mouthpiece[edit]
+  Nemrod twin-hose diving regulator made in the 1980s.  Its mouthpiece is fitted with a neck strap.
+The mouthpiece is a part that the user grips in the mouth to make a watertight seal. It is a short flattened-oval tube that goes in between the lips, with a curved flange that fits between the lips and the teeth and gums, and seals against the inner surface of the lips. On the inner ends of the flange there are two tabs with enlarged ends, which are gripped between the teeth. These tabs also keep the teeth apart sufficiently to allow comfortable breathing through the gap. Most recreational diving regulators are fitted with a mouthpiece. In twin-hose regulators and rebreathers, "mouthpiece" may refer to the whole assembly between the two flexible tubes. A mouthpiece prevents clear speech, so a full-face mask is preferred where voice communication is needed.
+In a few models of scuba regulator the mouthpiece also has an outer rubber flange that fits outside the lips and extends into two straps that fasten together behind the neck.[31]:184 This helps to keep the mouthpiece in place if the user's jaws go slack through unconsciousness or distraction. The mouthpiece safety flange may also be a separate component.[31]:154 The attached neck strap also allows the diver to keep the regulator hanging under the chin where it is protected and ready for use. Recent mouthpieces do not usually include an external flange, but the practice of using a neck strap has been revived by technical divers who use a bungee or surgical rubber "necklace" which can come off the mouthpiece without damage if pulled firmly.[46]
+The original mouthpieces were usually made from natural rubber and could cause an allergic reaction in some divers. This has been overcome by the use of hypo-allergenic synthetic elastomers such as silicone rubbers.[47]
+Swivel hose adaptors[edit]
+  Hose adaptor to allow adjustable sharp bend at connection to demand valve
+  A diving regulator first stage with A-clamp connector and 90-degree swivel on one hose
+Adaptors are available to modify the lead of the low pressure hose where it attaches to the demand valve. There are adaptors which provide a fixed angle and those which are variable while in use. As with all additional moving parts, they are an additional possible point of failure, so should only be used where there is sufficient advantage to offset this risk. They are mainly useful to improve the hose lead on regulators used with sidemount and sling mount cylinders.
+Other swivel adaptors are made to be fitted between the low pressure hose and low pressure port on the first stage to provide hose leads otherwise not possible for the specific regulator.
+Full-face mask or helmet[edit]
+See also: Full-face mask and Diving helmet
+This is stretching the concept of accessory a bit, as it would be equally valid to call the regulator an accessory of the full face mask or helmet, but the two items are closely connected and generally found in use together.
+Most full face masks and probably most diving helmets currently in use are open circuit demand systems, using a demand valve (in some cases more than one) and supplied from a scuba regulator or a surface supply umbilical from a surface supply panel using a surface supply regulator to control the pressure of primary and reserve air or other breathing gas.
+Lightweight demand diving helmets are almost always surface supplied, but full face masks are used equally appropriately with scuba open circuit, scuba closed circuit (rebreathers), and surface supplied open circuit.
+The demand valve is usually firmly attached to the helmet or mask, but there are a few models of full face mask that have removable demand valves with quick connections allowing them to be exchanged under water. These include the Dräger Panorama and Kirby-Morgan 48 Supermask.
+Buoyancy compensator and dry suit inflation hoses[edit]
+  Seatec quick disconnect end fitting commonly used for dry-suit and buoyancy compensator inflation
+  Low pressure inflation hose with CEJN 221 connector (right) used for some dry suits
+Hoses may be fitted to low pressure ports of the regulator first stage to provide gas for inflating buoyancy compensators and/or dry suits. These hoses usually have a quick-connector end with an automatically sealing valve which blocks flow if the hose is disconnected from the buoyancy compensator or suit.[2]:50 There are two basic styles of connector, which are not compatible with each other. The high flow rate CEJN 221 fitting has a larger bore and allows gas flow at a fast enough rate for use as a connector to a demand valve. This is sometimes seen in a combination BC inflator/deflator mechanism with integrated secondary DV (octopus), such as in the AIR II unit from Scubapro. The low flow rate Seatec connector is more common and is the industry standard for BC inflator connectors, and is also popular on dry suits, as the limited flow rate reduces the risk of a blow-up if the valve sticks open. The high flow rate connector is used by some manufacturers on dry suits.[48]
+Various minor accessories are available to fit these hose connectors. These include interstage pressure gauges, which are used to troubleshoot and tune the regulator (not for use underwater), noisemakers, used to attract attention underwater and on the surface, and valves for inflating tires and inflatable boat floats, making the air in a scuba cylinder available for other purposes.
+Instrument consoles[edit]
+  Console with pressure gauge and analog depth gauge
+Also called combo consoles, these are usually hard rubber or tough plastic moldings which enclose the submersible pressure gauge and have mounting sockets for other diver instrumentation, such as decompression computers, underwater compass, timer and/or depth gauge and occasionally a small plastic slate on which notes can be written either before or during the dive. These instruments would otherwise be carried somewhere else such as strapped to the wrist or forearm or in a pocket and are only regulator accessories for convenience of transport and access, and at greater risk of damage during handling.[49]
+Automatic closure device[edit]
+The auto-closure device (ACD) is a mechanism for closing off the inlet opening of a regulator first stage when it is disconnected from a cylinder. A spring-loaded plunger in the inlet is mechanically depressed by contact with the cylinder valve when the regulator is fitted to the cylinder, which opens the port through which air flows into the regulator. In the normally closed condition when not mounted, this valve prevents ingress of water and other contaminants to the first stage interior which could be caused by negligent handling of the equipment or by accident. This is claimed by the manufacturer to extend the service life of the regulator and reduce risk of failure due to internal contamination.[50] However, it is possible for an incorrectly installed ACD to shut off gas supply from a cylinder still containing gas during a dive.[51][52]
+Gas compatibility[edit]
+Recreational scuba nitrox service[edit]
+Standard air regulators are considered to be suitable for nitrox mixtures containing 40% or less oxygen by volume, both by NOAA, which conducted extensive testing to verify this, and by most recreational diving agencies.[3]:25
+Surface supplied nitrox service[edit]
+When surface supplied equipment is used the diver does not have the option of simply taking out the DV and switching to an independent system, and gas switching may be done during a dive, including use of pure oxygen for accelerated decompression. To reduce the risk of confusion or getting the system contaminated, surface supplied systems may be required to be oxygen clean for all services except straight air diving.[citation needed]
+Oxygen service[edit]
+Regulators to be used with pure oxygen and nitrox mixtures containing more than 40% oxygen by volume should use oxygen compatible components and lubricants, and be cleaned for oxygen service.[53]
+Helium service[edit]
+Helium is an exceptionally nonreactive gas and breathing gases containing helium do not require any special cleaning or lubricants. However, as helium is generally used for deep dives, it will normally be used with high performance regulators, with low work of breathing at high ambient pressures.
+Manufacturers and their brands[edit]
+This is a dynamic list and may never be able to satisfy particular standards for completeness. You can help by expanding it with reliably sourced entries.
+Air Liquide: La Spirotechnique, Apeks and Aqua Lung
+American Underwater Products (ROMI Enterprises, of San Leandro, Calif.): Aeris,[54] Hollis Gear[55][56] and Oceanic
+Atomic Aquatics
+Beuchat
+Cressi-Sub
+Deep6
+Dive Rite[57]
+Dräger
+Halcyon Diving System
+HTM Sports: Dacor and Mares
+Poseidon Diving Systems AB[58]
+ScubaPro
+Seac Sub
+Tusa[59]
+Tecline
+Zeagle[60]
+See also[edit]
+Breathing performance of regulators – Measurement and requirements of function of breathing regulators
+Built-in breathing system – System for supply of breathing gas on demand within a confined space
+Diving helmet – Rigid head enclosure with breathing gas supply worn for underwater diving
+Full-face diving mask – Diving mask that covers the mouth as well as the eyes and nose
+Human factors in diving equipment design – Influence of the interaction between the user and the equipment on design
+Mechanism of diving regulators – How the mechanisms of diving regulators work
+References[edit]
+^ a b c NOAA Diving Program (U.S.) (28 February 2001).  Joiner, James T (ed.). NOAA Diving Manual, Diving for Science and Technology (4th ed.). Silver Spring, Maryland: National Oceanic and Atmospheric Administration, Office of Oceanic and Atmospheric Research, National Undersea Research Program. ISBN 978-0-941332-70-5..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit} CD-ROM prepared and distributed by the National Technical Information Service (NTIS)in partnership with NOAA and Best Publishing Company
+^ a b c d Barsky, Steven; Neuman, Tom (2003). Investigating Recreational and Commercial Diving Accidents. Santa Barbara, California: Hammerhead Press. ISBN 0-9674305-3-4.
+^ a b c d e f g h i j k l m n o p q r s t u v w x y z Harlow, Vance (1999). Scuba regulator maintenance and repair. Warner, New Hampshire: Airspeed Press. ISBN 0-9678873-0-5.
+^ a b c d Barsky, Steven (2007). Diving in High-Risk Environments (4th ed.). Ventura, California: Hammerhead Press. ISBN 978-0-9674305-7-7.
+^ a b Républic Française. Ministère du Commerce et de l'Industrie. Direction de la Propriété Industrielle. Brevet d'Invention Gr. 6. - Cl. 3. No. 768.083
+^ Cresswell, Jeremy (2 June 2008). "Helium costs climb as diver demand soars". energyvoice.com. Retrieved 15 November 2016.
+^ a b c Crawford, J (2016). "Section 8.5 Bulk gas storage". Offshore Installation Practice (revised ed.). Oxford, UK: Butterworth-Heinemann. ISBN 9781483163192.
+^ Staff. "Ultrajewel 601 'Dirty Harry'". divingheritage.com. Diving Heritage. Retrieved 15 November 2016.
+^ a b c "Ultralite 2 BIBS Mask (DE-MDS-540-R0)" (PDF). Divex. Retrieved 25 September 2018.
+^ "A Lightweight, and Extremely Robust, Built in Breathing System for Hyperbaric Chambers" (PDF). Aberdeen, Scotland: C-Tecnics Ltd. Archived from the original (PDF) on 25 September 2018. Retrieved 25 September 2018.
+^ U.S. Navy Supervisor of Diving (April 2008). "Chapter 21: Recompression Chamber Operation" (PDF). U.S. Navy Diving Manual. Volume 5: Diving Medicine and Recompression Chamber Operations. SS521-AG-PRO-010, Revision 6. U.S. Naval Sea Systems Command. Archived (PDF) from the original on 31 March 2014. Retrieved 29 June 2009.
+^ Staff. "Closed Circuit Rebreather Mouthpieces-DSV/BOV(Dive/Surface Valve/Bail Out Valve)". divenet.com. Fullerton, California: Divematics,USA,Inc. Retrieved 16 November 2016.
+^ Académie des Sciences (16 September 1839). "Mécanique appliquée -- Rapport sur une cloche à plongeur inventée par M. Guillaumet (Applied mechanics—Report on a diving bell invented by Mr. Guillaumet)". Comptes rendus hebdomadaires des séances de l'Académie des Sciences (in French). Paris: Gauthier-Villars. 9: 363–366. Retrieved 26 September 2016.
+^ Perrier, Alain (2008). 250 Réponses aux questions du plongeur curieux (in French). Aix-en-Provence, France: Éditions du Gerfaut. p. 45. ISBN 9782351910337.
+^ Bevan, John (1990). "The First Demand Valve?" (PDF). SPUMS Journal. South Pacific Underwater Medicine Society. 20 (4): 239–240.
+^ "le scaphandre autonome". Archived from the original on 30 October 2012. Retrieved 17 November 2016. Un brevet semblable est déposé en 1838 par William Newton en Angleterre. Il y a tout lieu de penser que Guillaumet, devant les longs délais de dépôt des brevets en France, a demandé à Newton de faire enregistrer son brevet en Angleterre où la procédure est plus rapide, tout en s'assurant les droits exclusifs d'exploitation sur le brevet déposé par Newton.A similar patent was filed in 1838 by William Newton in England. There is every reason to think that owing to the long delays in filing patents in France, Guillaumet asked Newton to register his patent in England where the procedure was faster while ensuring the exclusive rights to exploit the patent filed by Newton. Note: The illustration of the apparatus in Newton's patent application is identical to that in Guillaumet's patent application; furthermore, Mr. Newton was apparently an employee of the British Office for Patents, who applied for patents on behalf of foreign applicants. Also from "le scaphandre autonome" Web site: Reconstruit au XXe siècle par les Américains, ce détendeur fonctionne parfaitement, mais, si sa réalisation fut sans doute effective au XIXe, les essais programmés par la Marine Nationale ne furent jamais réalisés et l'appareil jamais commercialisé. (Reconstructed in twentieth century by the Americans, this regulator worked perfectly; however, although it was undoubtedly effective in the nineteenth century, the test programs by the French Navy were never conducted and the apparatus was never sold.)
+^ Dekker, David L. "1860. Benoit Rouquayrol – Auguste Denayrouze". Chronology of Diving in Holland. divinghelmet.nl. Retrieved 17 September 2016.
+^ Bahuet, Eric (19 October 2003). "Rouquayrol Denayrouze". Avec ou sans bulle ? (in French). plongeesout.com. Retrieved 16 November 2016.
+^ Commandant Le Prieur. Premier Plongée (First Diver). Editions France-Empire 1956
+^ Tailliez, Philippe (January 1954). Plongées sans câble (in French). Paris: Editions Arthaud. p. 52.
+^ "Scaphandre autonome". Musée du Scaphandre website (in French). Espalion, France. Archived from the original on 30 October 2012. Mentions the contributions of several French inventors: Guillaumet, Rouquayrol and Denayrouze, Le Prieur, René and Georges Commheines, Gagnan and Cousteau[dead link]
+^ Bronnec, Jean Armand Louis; Gautier, Raymond Maurice (26 November 1956). Brevet d'Invention No. T126.597 B63b Appareil respiratoire notament pour plongeurs (in French). Paris: Ministere de l'Industrie et du Commerce – via Website of Luca Dibiza.
+^ a b Lonsdale, Mark V. (2012). "Evolution of US Navy diving - Significant dates in Navy diving (1823 – 2001)". History of Navy Diving. Northwest Diving History Association. Retrieved 24 November 2016.
+^ a b c d e Harlow, Vance (1999). "1 How a regulator works". Scuba regulator maintenance and repair. Warner, New Hampshire: Airspeed Press. pp. 1–26. ISBN 0-9678873-0-5.
+^ Staff. "KM Over Pressure Relief Valve, Hi-Flow". Products. Santa Maria California: Diving Equipment Company of America (DECA). Retrieved 16 November 2016.
+^ Brittain, Colin (2004). "Protective clothing, scuba equipment and equipment maintenance". Let's Dive: Sub-Aqua Association Club Diver Manual (2nd ed.). Wigan, UK: Dive Print. p. 35. ISBN 0-9532904-3-3. Retrieved 6 January 2010.
+^ Brittain, Colin (2004). "Practical diver training". Let's Dive: Sub-Aqua Association Club Diver Manual (2nd ed.). Wigan, UK: Dive Print. p. 48. ISBN 0-9532904-3-3. Retrieved 6 January 2010.[permanent dead link]
+^ Vintage European Two Hose Regulator Collection
+^ a b Staff (16 February 2005). "Aqua Lung Debuts the Comeback of the Double Hose Regulator". Sport Diver. Bonnier corporation. Retrieved 16 May 2017.
+^ Warren, Steve (November 2015). "The History Boys". Divernet - Gear features. divernet.com. Retrieved 16 May 2017.
+^ a b c d e f g Roberts, Fred M. (1963). Basic Scuba. Self-Contained Underwater Breathing Apparatus: Its Operation, Maintenance and Use (Enlarged Second ed.). New York: Van Nostrand Reinhold Co. ISBN 0-442-26824-6.
+^ Busuttili, Mike; Holbrook, Mike; Ridley, Gordon; Todd, Mike, eds. (1985). "The Aqualung". Sport diving – The British Sub-Aqua Club Diving Manual. London: Stanley Paul &amp; Co Ltd. p. 36. ISBN 0-09-163831-3.
+^ Ryan, Mark (23 December 2010). "Little known dive history – The world's first single hose regulator". ScubaGadget – Scuba News Service. scubagadget.com. Retrieved 16 May 2017.
+^ Reimers, SD (1973). "Performance Characteristics and Basic Design Features of a Breathing Machine for Use to Depths of up to 3000 Feet of Sea Water". United States Navy Experimental Diving Unit. Panama City, Florida: NEDU. NEDU-20-73. Retrieved 12 June 2008.
+^ Staff (11 June 2006). "The ANSTI Machine: Evaluating A Regulator's Breathing Characteristics". Gear. Winter Park, Florida: Scuba Diving. A Bonnier Corporation Company. Retrieved 15 November 2016.
+^ a b Ward, Mike (9 April 2014). Scuba Regulator Freezing - Chilling Facts &amp; Risks Associated with Cold Water Diving (PDF). DL-Regulator Freeze Research Study (Report). Panama City, Florida: Dive Lab Inc. Retrieved 16 May 2017.
+^ a b Carlson, N A (September 2005). Comparison of Human Factors Characteristics of the Kirby Morgan(Trademark) 37 and MK 21 Helmets During a Chamber Dive to 380 FSW. NEDU Technical Report No. 05-14 (Report). Panama City, Florida: Navy Experimental Diving Unit – via Rubicon Research Repository.
+^ a b c d e f g Harlow, Vance (1999). "10 Diagnosis". Scuba regulator maintenance and repair. Warner, New Hampshire: Airspeed Press. pp. 155–165. ISBN 0-9678873-0-5.
+^ a b Clarke, John (2015). "Authorized for cold-water service: What Divers Should Know About Extreme Cold". ECO Magazine: 20–25. Retrieved 7 March 2015.
+^ Staff. "Xstream user manual: English" (PDF). Art. no 4695 Issue 081001-1. Västra Frölunda, Sweden: Poseidon Diving Systems. Archived from the original (PDF) on 4 March 2016. Retrieved 17 November 2016.
+^ "High Pressure Port Adapter". www.xsscuba.com. Retrieved 8 December 2019.
+^ Staff. "Suunto Wireless Tank Pressure Transmitter". Accessories and spare parts. Suunto. Retrieved 27 November 2016.
+^ "Perdix AI operating instructions" (PDF). Shearwater. Retrieved 10 October 2019.
+^ "iX3M User Manual: iX3M Easy, iX3M Deep, iX3M Tech+, iX3M Reb" (PDF). Ratio Computers. Retrieved 10 October 2019.
+^ a b "Dave Woodward and scuba diving". internationallegendsofdiving.com. Retrieved 13 September 2020. 
+^ Davis, Andy (2011). "How to Tie a Regulator Bungee Necklace". Scuba Tech Philippines. Retrieved 17 August 2017.
+^ Alexander, JE (1977). "Allergic reactions to mask skirts, regulator mouthpieces, and snorkel mouthpieces". South Pacific Underwater Medicine Society Journal. 7 (2). ISSN 0813-1988. OCLC 16986801. Retrieved 6 July 2008.
+^ Lombardi, Michael; Hansing, Nicolai; Sutton, Dave (March 2011). "About CEJN Component Parts" (PDF). CEJN - style Offboard Gas Supply Quick - Disconnect Subsystem for Closed - Circuit Rebreathers. diyrebreathers.com. Retrieved 27 November 2016.
+^ Jablonski, Jarrod (2006). Doing it Right: The Fundamentals of Better Diving. Global Underwater Explorers. ISBN 0-9713267-0-3.
+^ Staff. "ACD Series - Legend ACD first stage with yoke style connector". aqualung.com. Retrieved 13 April 2018.
+^ Buzzacott, Peter (Winter 2018). "Catastrophic regulator failure". Alert Diver. Divers Alert Network: 64–65.
+^ "Consumer Safety Notice" (PDF). aqualung.com. Retrieved 13 April 2018.
+^ Staff. "Regulations (Standards - 29 CFR) - Commercial Diving Operations - Standard Number: 1910.430 Equipment". www.osha.gov. US Department of Labour. Retrieved 16 May 2017.
+^ Staff. "History". About Aeris. San Leandro, California: American Underwater Products. Retrieved 16 November 2016.
+^ Staff. "About Hollis". hollis.com. San Leandro, California: American Underwater Products. Retrieved 16 November 2016.
+^ Staff. "Regulators". hollis.com. San Leandro, California: American Underwater Products. Retrieved 16 November 2016.
+^ Staff. "Dive Rite Regulators". Regulators Library. Lake City, Florida: Dive Rite. Retrieved 16 November 2016.
+^ Staff. "Regulators and gauges". Products. Västra Frölunda, Sweden: Poseidon Diving Systems AB. Archived from the original on 16 November 2016. Retrieved 17 November 2016.
+^ Staff. "Products: Regulators". tusa.com. Long Beach, California: Tabata USA, Inc. Retrieved 17 November 2016.
+^ Staff. "Regulators". zeagle.com. Retrieved 17 November 2016.
+External links[edit]
+Rare Vintage Two Hose Regulators: images
+vteUnderwater diving
+Diving modes
+Atmospheric pressure diving
+Freediving
+Saturation diving
+Scuba diving
+Snorkeling
+Surface oriented diving
+Surface-supplied diving
+Unmanned diving
+Diving equipment
+Cleaning and disinfection of personal diving equipment
+Human factors in diving equipment design
+Basic equipment
+Diving mask
+Snorkel
+Swimfin
+Breathing gas
+Bailout gas
+Bottom gas
+Breathing air
+Decompression gas
+Emergency gas supply
+Heliox
+Nitrox
+Oxygen
+Travel gas
+Trimix
+Buoyancy andtrim equipment
+Buoyancy compensator
+Power inflator
+Dump valve
+Diving weighting system
+Ankle weights
+Integrated weights
+Trim weights
+Weight belt
+Decompressionequipment
+Decompression buoy
+Decompression cylinder
+Decompression trapeze
+Dive computer
+Diving shot
+Jersey upline
+Jonline
+Diving suit
+Atmospheric diving suit
+Dry suit
+Sladen suit
+Standard diving suit
+Rash vest
+Wetsuit
+Dive skins
+Hot-water suit
+Helmetsand masks
+Anti-fog
+Diving helmet
+Free-flow helmet
+Lightweight demand helmet
+Orinasal mask
+Reclaim helmet
+Shallow water helmet
+Standard diving helmet
+Diving mask
+Band mask
+Full-face mask
+Half mask
+Instrumentation
+Bottom timer
+Depth gauge
+Dive computer
+Dive timer
+Diving watch
+Helium release valve
+Pneumofathometer
+Submersible pressure gauge
+Mobilityequipment
+Diving bell
+Closed bell
+Wet bell
+Diving stage
+Swimfin
+Monofin
+PowerSwim
+Towboard
+Diverpropulsionvehicle
+Advanced SEAL Delivery System
+Cosmos CE2F series
+Dry Combat Submersible
+Human torpedo
+Motorised Submersible Canoe
+Necker Nymph
+R-2 Mala-class swimmer delivery vehicle
+SEAL Delivery Vehicle
+Shallow Water Combat Submersible
+Siluro San Bartolomeo
+Wet Nellie
+Wet sub
+Safetyequipment
+Alternative air source
+Octopus regulator
+Pony bottle
+Bolt snap
+Buddy line
+Dive light
+Diver's cutting tool
+Diver's knife
+Diver's telephone
+Through-water communications
+Diving bell
+Diving safety harness
+Emergency gas supply
+Bailout block
+Bailout bottle
+Lifeline
+Screw gate carabiner
+Emergency locator beacon
+Rescue tether
+Safety helmet
+Shark-proof cage
+Snoopy loop
+Navigation equipment
+Distance line
+Diving compass
+Dive reel
+Line marker
+Surface marker buoy
+Silt screw
+Underwaterbreathingapparatus
+Atmospheric diving suit
+Diving cylinder
+Burst disc
+Diving cylinder valve
+Diving helmet
+Reclaim helmet
+Diving regulator
+Mechanism of diving regulators
+Regulator malfunction
+Regulator freeze
+Single-hose regulator
+Twin-hose regulator
+Full face diving mask
+Open-circuitscuba
+Scuba set
+Bailout bottle
+Decompression cylinder
+Independent doubles
+Manifolded twin set
+Scuba manifold
+Pony bottle
+Scuba configuration
+Sidemount
+Sling cylinder
+Divingrebreathers
+Carbon dioxide scrubber
+Carleton CDBA
+CDLSE
+Cryogenic rebreather
+CUMA
+DSEA
+Dolphin
+Electro-galvanic oxygen sensor
+FROGS
+Halcyon PVR-BASC
+Halcyon RB80
+IDA71
+Interspiro DCSC
+KISS
+LAR-5
+LAR-6
+LAR-V
+LARU
+Porpoise
+Ray
+Siebe Gorman CDBA
+Siva
+Viper
+Surface-supplieddiving equipment
+Air line
+Diver's umbilical
+Diving air compressor
+Gas panel
+Hookah
+Scuba replacement
+Sea Trek
+Snuba
+Standard diving dress
+Escape set
+Davis Submerged Escape Apparatus
+Momsen lung
+Steinke hood
+Submarine Escape Immersion Equipment
+Divingequipmentmanufacturers
+AP Diving
+Apeks
+Aqua Lung America
+Aqua Lung/La Spirotechnique
+Beuchat
+René Cavalero
+Cis-Lunar
+Cressi-Sub
+Dacor
+DESCO
+Dive Xtras
+Divex
+Diving Unlimited International
+Drägerwerk
+Fenzy
+Maurice Fernez
+Technisub
+Oscar Gugen
+Heinke
+HeinrichsWeikamp
+Johnson Outdoors
+Mares
+Morse Diving
+Nemrod
+Oceanic Worldwide
+Porpoise
+Sub Sea Systems
+Shearwater Research
+Siebe Gorman
+Submarine Products
+Suunto
+Diving support equipmentAccess equipment
+Boarding stirrup
+Diver lift
+Diving bell
+Diving ladder
+Diving platform (scuba)
+Diving stage
+Downline
+Jackstay
+Launch and recovery system
+Messenger line
+Moon pool
+Breathing gashandling
+Air filtration
+Activated carbon
+Hopcalite
+Molecular sieve
+Silica gel
+Booster pump
+Carbon dioxide scrubber
+Cascade filling system
+Diver's pump
+Diving air compressor
+Diving air filter
+Water separator
+High pressure breathing air compressor
+Low pressure breathing air compressor
+Gas blending
+Gas blending for scuba diving
+Gas panel
+Gas reclaim system
+Gas storage bank
+Gas storage quad
+Gas storage tube
+Helium analyzer
+Nitrox production
+Membrane gas separation
+Pressure swing adsorption
+Oxygen analyser
+Oxygen compatibility
+Decompressionequipment
+Built-in breathing system
+Decompression tables
+Diving bell
+Bell cursor
+Closed bell
+Clump weight
+Launch and recovery system
+Wet bell
+Diving chamber
+Diving stage
+Recreational Dive Planner
+Saturation system
+Platforms
+Dive boat
+Canoe and kayak diving
+Combat Rubber Raiding Craft
+Liveaboard
+Subskimmer
+Diving support vessel
+HMS Challenger (K07)
+Underwaterhabitat
+Aquarius Reef Base
+Continental Shelf Station Two
+Helgoland Habitat
+Jules' Undersea Lodge
+Scott Carpenter Space Analog Station
+SEALAB
+Tektite habitat
+Remotely operatedunderwater vehicles
+8A4-class ROUV
+ABISMO
+Atlantis ROV Team
+CURV
+Deep Drone
+Épaulard
+Global Explorer ROV
+Goldfish-class ROUV
+Kaikō ROV
+Long-Term Mine Reconnaissance System
+Mini Rover ROV
+OpenROV
+ROV KIEL 6000
+ROV PHOCA
+Scorpio ROV
+Sea Dragon-class ROV
+Seabed tractor
+Seafox drone
+Seahorse ROUV
+SeaPerch
+SJT-class ROUV
+T1200 Trenching Unit
+VideoRay UROVs
+Safety equipment
+Diver down flag
+Diving shot
+Hyperbaric lifeboat
+Hyperbaric stretcher
+Jackstay
+Jonline
+Reserve gas supply
+General
+Diving spread
+Air spread
+Saturation spread
+Hot water system
+Sonar
+Underwater acoustic positioning system
+Underwater acoustic communication
+FreedivingActivities
+Aquathlon
+Apnoea finswimming
+Freediving
+Haenyeo
+Pearl hunting
+Ama
+Snorkeling
+Spearfishing
+Underwater football
+Underwater hockey
+Underwater ice hockey
+Underwater rugby
+Underwater target shooting
+Competitions
+Nordic Deep
+Vertical Blue
+Disciplines
+Constant weight (CWT)
+Constant weight without fins (CNF)
+Dynamic apnea (DYN)
+Dynamic apnea without fins (DNF)
+Free immersion (FIM)
+No-limits apnea (NLT)
+Static apnea (STA)
+Skandalopetra diving
+Variable weight apnea (VWT)
+Variable weight apnea without fins
+Equipment
+Diving mask
+Diving suit
+Hawaiian sling
+Polespear
+Snorkel (swimming)
+Speargun
+Swimfins
+Monofin
+Water polo cap
+Freedivers
+Deborah Andollo
+Peppo Biscarini
+Sara Campbell
+Derya Can Göçen
+Goran Čolak
+Carlos Coste
+Robert Croft
+Mandy-Rae Cruickshank
+Yasemin Dalkılıç
+Leonardo D'Imporzano
+Flavia Eberhard
+Şahika Ercümen
+Emma Farrell
+Francisco Ferreras
+Pierre Frolla
+Flavia Eberhard
+Mehgan Heaney-Grier
+Elisabeth Kristoffersen
+Loïc Leferme
+Enzo Maiorca
+Jacques Mayol
+Audrey Mestre
+Karol Meyer
+Stéphane Mifsud
+Alexey Molchanov
+Natalia Molchanova
+Dave Mullins
+Patrick Musimu
+Guillaume Néry
+Herbert Nitsch
+Umberto Pelizzari
+Annelie Pompe
+Michal Risian
+Stig Severinsen
+Tom Sietas
+Aharon Solomons
+Martin Štěpánek
+Walter Steyn
+Tanya Streeter
+William Trubridge
+Devrim Cenk Ulusoy
+Danai Varveri
+Alessia Zecchini
+Nataliia Zharkova
+Hazards
+Barotrauma
+Drowning
+Freediving blackout
+Deep-water blackout
+Shallow-water blackout
+Hypercapnia
+Hypothermia
+Historical
+Ama
+Octopus wrestling
+Swimming at the 1900 Summer Olympics – Men's underwater swimming
+Organisations
+AIDA International
+Scuba Schools International
+Australian Underwater Federation
+British Freediving Association
+Confédération Mondiale des Activités Subaquatiques
+Fédération Française d'Études et de Sports Sous-Marins
+Performance Freediving International
+Professional divingOccupations
+Ama
+Commercial diver
+Commercial offshore diver
+Hazmat diver
+Divemaster
+Diving instructor
+Diving safety officer
+Diving superintendent
+Diving supervisor
+Haenyeo
+Media diver
+Police diver
+Public safety diver
+Scientific diver
+Underwater archaeologist
+Military diving
+Army engineer diver
+Clearance diver
+Frogman
+Royal Navy ships diver
+Special Boat Service
+United States military divers
+U.S. Navy diver
+U.S.Navy master diver
+United States Navy SEALs
+Underwater Demolition Team
+Underwater work
+Commercial offshore diving
+Dive leader
+Diver training
+Recreational diver training
+Hyperbaric welding
+Media diving
+Nondestructive testing
+Pearl hunting
+Police diving
+Potable water diving
+Public safety diving
+Scientific diving
+Ships husbandry
+Sponge diving
+Submarine pipeline
+Underwater archaeology
+Archaeology of shipwrecks
+Underwater construction
+Offshore construction
+Underwater demolition
+Underwater photography
+Underwater search and recovery
+Underwater videography
+Salvage diving
+SS Egypt
+Kronan
+La Belle
+SS Laurentic
+RMS Lusitania
+Mars
+Mary Rose
+USS Monitor
+HMS Royal George
+Vasa
+Diving contractors
+COMEX
+Helix Energy Solutions Group
+Tools &amp; equipment
+Abrasive waterjet
+Airlift
+Baited remote underwater video
+In-water surface cleaning
+Brush cart
+Cavitation cleaning
+Pressure washing
+Pigging
+Lifting bag
+Remotely operated underwater vehicle
+Thermal lance
+Tremie
+Water jetting
+Underwaterweapons
+Limpet mine
+Speargun
+Hawaiian sling
+Polespear
+Underwaterfirearm
+Gyrojet
+Mk 1 Underwater Defense Gun
+Powerhead
+Underwater pistols
+Heckler &amp; Koch P11
+SPP-1 underwater pistol
+Underwater revolvers
+AAI underwater revolver
+Underwater rifles
+ADS amphibious rifle
+APS underwater rifle
+ASM-DT amphibious rifle
+Recreational divingSpecialties
+Altitude diving
+Cave diving
+Deep diving
+Ice diving
+Muck diving
+Open-water diving
+Rebreather diving
+Sidemount diving
+Solo diving
+Technical diving
+Wreck diving
+Diverorganisations
+British Sub-Aqua Club (BSAC)
+Cave Divers Association of Australia (CDAA)
+Cave Diving Group (CDG)
+Comhairle Fo-Thuinn (CFT)
+Confédération Mondiale des Activités Subaquatiques (CMAS)
+Federación Española de Actividades Subacuáticas (FEDAS)
+Fédération Française d'Études et de Sports Sous-Marins (FFESSM)
+International Association for Handicapped Divers (IAHD)
+National Association for Cave Diving (NACD)
+Woodville Karst Plain Project (WKPP)
+Diving tourismindustry
+Dive center
+Environmental impact of recreational diving
+Scuba diving tourism
+Shark tourism
+Sinking ships for wreck diving sites
+Diving eventsand festivals
+Diversnight
+Underwater Bike Race
+Recreationaldive sitesReef divingregions
+Arrecifes de Cozumel National Park
+Edmonds Underwater Park
+Great Barrier Reef
+iSimangaliso Marine Protected Area
+Poor Knights Islands
+Table Mountain National Park Marine Protected Area
+Reef divesites
+Artificial reef
+Gibraltar Artificial Reef
+Shark River Reef
+Osborne Reef
+Fanadir
+Gamul Kebir
+Palancar Reef
+Underwater artworks
+Cancún Underwater Museum
+Christ of the Abyss
+Molinere Underwater Sculpture Park
+Wreck divingregions
+Chuuk Lagoon
+Edmonds Underwater Park
+Finger Lakes Underwater Preserve Association
+Maritime Heritage Trail – Battle of Saipan
+Michigan Underwater Preserves
+Robben Island Marine Protected Area
+Table Mountain National Park Marine Protected Area
+Tulagi
+Tulamben
+Whitefish Point Underwater Preserve
+Wreck Alley, San Diego
+Wreck divesites
+HMS A1
+HMS A3
+USS Aaron Ward
+Abessinia
+Aeolian Sky
+Albert C. Field
+Andrea Doria
+Antilla
+Antilles
+Aquila
+USS Arkansas
+Bianca C.
+SS Binnendijk
+HMS Boadicea
+Booya
+HMSAS Bloemfontein
+Breda
+HMAS Brisbane
+HMHS Britannic
+Bungsberg
+HMAS Canberra
+Carl D. Bradley
+Carnatic
+SMS Dresden
+Dunraven
+Eastfield
+HMT Elk
+Ellengowan
+RMS Empress of Ireland
+HMS Falmouth
+Fifi
+SS Francisco Morazan
+Fujikawa Maru
+Fumizuki
+SATS General Botha
+USNS General Hoyt S. Vandenberg
+HMS Ghurka
+Glen Strathallan
+SAS Good Hope
+Gothenburg
+Herzogin Cecilie
+Hilma Hooker
+Hispania
+HMS Hood
+HMAS Hobart
+Igara
+James Eagan Layne
+Captain Keith Tibbetts
+King Cruiser
+SMS Kronprinz
+Kyarra
+HMS Laforey
+USAT Liberty
+Louis Sheid
+USS LST-507
+SMS Markgraf
+Mikhail Lermontov
+HMS M2
+Maine
+Maloja
+HMS Maori
+Marguerite
+SS Mauna Loa
+USAT Meigs
+Mendi
+USCGC Mohawk
+Mohegan
+RMS Moldavia
+HMS Montagu
+MV RMS Mulheim
+Nagato
+Oceana
+USS Oriskany
+Oslofjord
+P29
+P31
+Pedernales
+Persier
+HMAS Perth
+SAS Pietermaritzburg
+Piłsudski
+Pool Fisher
+HMS Port Napier
+Preußen
+President Coolidge
+PS Queen Victoria
+Radaas
+Rainbow Warrior
+RMS Rhone
+Rondo
+Rosehill
+Royal Adelaide
+Royal Charter
+Rozi
+HMS Safari
+Salem Express
+USS Saratoga
+USS Scuffle
+HMS Scylla
+HMS Sidon
+USS Spiegel Grove
+Stanegarth
+Stanwood
+Stella
+HMAS Swan
+USS Tarpon
+Thesis
+Thistlegorm
+Toa Maru
+Torrey Canyon
+SAS Transvaal
+U-40
+U-352
+U-1195
+Um El Faroud
+Varvassi
+Walter L M Russ
+Washingtonian (1913)
+HMNZS Wellington
+USS Yancey
+Yongala
+Zenobia
+Zealandia
+Zingara
+Cave divingsites
+Blauhöhle
+Chinhoyi Caves
+Devil's Throat at Punta Sur
+Engelbrecht Cave
+Fossil Cave
+Piccaninnie Ponds
+Pluragrotta
+Pollatoomary
+Sistema Ox Bel Ha
+Sistema Sac Actun
+Sistema Dos Ojos
+Sistema Nohoch Nah Chich
+Freshwaterdives
+Dutch Springs
+Ewens Ponds
+Little Blue Lake
+Training sites
+Capernwray Dive Centre
+National Diving and Activity Centre
+Stoney Cove
+Open oceandiving
+Blue-water diving
+Black-water diving
+Diving safety
+Human factors in diving equipment design
+Human factors in diving safety
+Life-support system
+Safety-critical system
+Scuba diving fatalities
+Divinghazards
+List of diving hazards and precautions
+Environmental
+Current
+Delta-P
+Entanglement hazard
+Overhead
+Silt out
+Wave action
+Equipment
+Freeflow
+Use of breathing equipment in an underwater environment
+Failure of diving equipment other than breathing apparatus
+Single point of failure
+Physiological
+Cold shock response
+Decompression
+Nitrogen narcosis
+Oxygen toxicity
+Seasickness
+Uncontrolled decompression
+Diver behaviour and competence
+Lack of competence
+Overconfidence effect
+Panic
+Task loading
+Trait anxiety
+Willful violation
+Consequences
+Barotrauma
+Decompression sickness
+Drowning
+Hypothermia
+Hypoxia
+Hypercapnia
+Hyperthermia
+Divingprocedures
+Ascending and descending
+Emergency ascent
+Boat diving
+Canoe and kayak diving
+Buddy diving
+buddy check
+Decompression
+Decompression practice
+Pyle stop
+Ratio decompression
+Dive briefing
+Dive log
+Dive planning
+Scuba gas planning
+Diver communications
+Diving hand signals
+Diving line signals
+Diver voice communications
+Diver rescue
+Diver training
+Doing It Right
+Drift diving
+Gas blending for scuba diving
+Night diving
+Solo diving
+Water safety
+Riskmanagement
+Checklist
+Hazard identification and risk assessment
+Hazard analysis
+Job safety analysis
+Risk assessment
+Risk control
+Hierarchy of hazard controls
+Incident pit
+Lockout–tagout
+Permit To Work
+Redundancy
+Safety data sheet
+Situation awareness
+Diving team
+Bellman
+Chamber operator
+Diver medical technician
+Diver's attendant
+Diving supervisor
+Diving systems technician
+Gas man
+Life support technician
+Stand-by diver
+Equipmentsafety
+Breathing gas quality
+Testing and inspection of diving cylinders
+Hydrostatic test
+Sustained load cracking
+Diving regulator
+Breathing performance of regulators
+Occupationalsafety andhealth
+Approaches to safety
+Job safety analysis
+Risk assessment
+Toolbox talk
+Housekeeping
+Association of Diving Contractors International
+Code of practice
+Contingency plan
+Diving regulations
+Emergency procedure
+Emergency response plan
+Evacuation plan
+Hazardous Materials Identification System
+Hierarchy of hazard controls
+Administrative controls
+Engineering controls
+Hazard elimination
+Hazard substitution
+Personal protective equipment
+International Marine Contractors Association
+Occupational hazard
+Biological hazard
+Chemical hazard
+Physical hazard
+Psychosocial hazard
+Occupational hygiene
+Exposure assessment
+Occupational exposure limit
+Workplace health surveillance
+Safety culture
+Code of practice
+Diving safety officer
+Diving superintendent
+Health and safety representative
+Operations manual
+Safety meeting
+Standard operating procedure
+Diving medicineDivingdisorders
+List of signs and symptoms of diving disorders
+Cramp
+Motion sickness
+Surfer's ear
+Pressurerelated
+Alternobaric vertigo
+Barostriction
+Barotrauma
+Air embolism
+Aerosinusitis
+Barodontalgia
+Dental barotrauma
+Pulmonary barotrauma
+Compression arthralgia
+Decompression illness
+Dysbarism
+Oxygen
+Freediving blackout
+Hyperoxia
+Hypoxia
+Oxygen toxicity
+Inert gases
+Avascular necrosis
+Decompression sickness
+Isobaric counterdiffusion
+Taravana
+Dysbaric osteonecrosis
+High-pressure nervous syndrome
+Hydrogen narcosis
+Nitrogen narcosis
+Carbon dioxide
+Hypercapnia
+Hypocapnia
+Breathing gascontaminants
+Carbon monoxide poisoning
+Immersionrelated
+Asphyxia
+Drowning
+Hypothermia
+Immersion diuresis
+Instinctive drowning response
+Laryngospasm
+Salt water aspiration syndrome
+Swimming-induced pulmonary edema
+Treatment
+Demand valve oxygen therapy
+First aid
+Hyperbaric medicine
+Hyperbaric treatment schedules
+In-water recompression
+Oxygen therapy
+Therapeutic recompression
+Personnel
+Diving Medical Examiner
+Diving Medical Practitioner
+Diving Medical Technician
+Hyperbaric nursing
+Screening
+Atrial septal defect
+Effects of drugs on fitness to dive
+Fitness to dive
+Psychological fitness to dive
+ResearchResearchers indiving physiologyand medicine
+Arthur J. Bachrach
+Albert R. Behnke
+Paul Bert
+George F. Bond
+Robert Boyle
+Albert A. Bühlmann
+John R. Clarke
+Guybon Chesney Castell Damant
+Kenneth William Donald
+William Paul Fife
+John Scott Haldane
+Robert William Hamilton Jr.
+Leonard Erskine Hill
+Brian Andrew Hills
+Felix Hoppe-Seyler
+Christian J. Lambertsen
+Simon Mitchell
+Charles Momsen
+John Rawlins R.N.
+Charles Wesley Shilling
+Edward D. Thalmann
+Jacques Triger
+Diving medicalresearchorganisations
+Aerospace Medical Association
+Divers Alert Network (DAN)
+Diving Diseases Research Centre (DDRC)
+Diving Medical Advisory Council (DMAC)
+European Diving Technology Committee (EDTC)
+European Underwater and Baromedical Society (EUBS)
+National Board of Diving and Hyperbaric Medical Technology
+Naval Submarine Medical Research Laboratory
+Royal Australian Navy School of Underwater Medicine
+Rubicon Foundation
+South Pacific Underwater Medicine Society (SPUMS)
+Southern African Underwater and Hyperbaric Medical Association (SAUHMA)
+Undersea and Hyperbaric Medical Society (UHMS)
+United States Navy Experimental Diving Unit (NEDU)
+Law
+Civil liability in recreational diving
+Diving regulations
+Duty of care
+List of legislation regulating underwater diving
+Investigation of diving accidents
+UNESCO Convention on the Protection of the Underwater Cultural Heritage
+History of underwater diving
+History of decompression research and development
+History of scuba diving
+List of researchers in underwater diving
+Timeline of diving technology
+Underwater diving in popular culture
+Archeologicalsites
+SS Commodore
+USS Monitor
+Queen Anne's Revenge
+Whydah Gally
+Underwater artand artists
+The Diver
+Jason deCaires Taylor
+Engineersand inventors
+William Beebe
+Georges Beuchat
+John R. Clarke
+Jacques Cousteau
+Charles Anthony Deane
+John Deane
+Ted Eldred
+Henry Fleuss
+Émile Gagnan
+Joseph-Martin Cabirol
+Christian J. Lambertsen
+Yves Le Prieur
+John Lethbridge
+Ernest William Moir
+Joseph Salim Peress
+Auguste Piccard
+Willard Franklyn Searle
+Augustus Siebe
+Jacques Triger
+Equipment
+Aqua-Lung
+RV Calypso
+SP-350 Denise
+Nikonos
+Porpoise regulator
+Standard diving dress
+Vintage scuba
+Military andcovert operations
+Raid on Alexandria (1941)
+Sinking of the Rainbow Warrior
+Scientific projects
+1992 cageless shark-diving expedition
+Mission 31
+IncidentsDive boat incidents
+Sinking of MV Conception
+Fire on MV Red Sea Aggressor
+Diver rescues
+Alpazat cave rescue
+Tham Luang cave rescue
+Early diving
+John Day (carpenter)
+Charles Spalding
+Ebenezer Watson
+Freediving fatalities
+Loïc Leferme
+Audrey Mestre
+Nicholas Mevoli
+Natalia Molchanova
+Offshorediving incidents
+Byford Dolphin diving bell accident
+Drill Master diving accident
+Star Canopus diving accident
+Stena Seaspread diving accident
+Venture One diving accident
+Waage Drill II diving accident
+Wildrake diving accident
+Professionaldiving fatalities
+Roger Baldwin
+John Bennett
+Victor F. Guiel Jr.
+Craig M. Hoffman
+Peter Henry Michael Holmes
+Johnson Sea Link accident
+Edwin Clayton Link
+Gerard Anthony Prangley
+Pier Skipness
+Robert John Smyth
+Albert D. Stover
+Richard A. Walker
+Lothar Michael Ward
+Joachim Wendler
+Bradley Westell
+Arne Zetterström
+Scuba divingfatalities
+Ricardo Armbruster
+Allan Bridge
+David Bright
+Berry L. Cannon
+Cotton Coulson
+Cláudio Coutinho
+E. Yale Dawson
+Deon Dreyer
+Milan Dufek
+Sheck Exley
+Maurice Fargues
+Fernando Garfella Palmer
+Guy Garman
+Steve Irwin
+Jim Jones
+Henry Way Kendall
+Artur Kozłowski
+Chris and Chrissy Rouse
+Kirsty MacColl
+Agnes Milowka
+François de Roubaix
+Dave Shaw
+Wesley C. Skiles
+Dewey Smith
+Rob Stewart
+Esbjörn Svensson
+Josef Velek
+PublicationsManuals
+NOAA Diving Manual
+U.S. Navy Diving Manual
+Basic Cave Diving: A Blueprint for Survival
+Underwater Handbook
+Bennett and Elliott's physiology and medicine of diving
+Encyclopedia of Recreational Diving
+The new science of skin and scuba diving
+Professional Diver's Handbook
+Basic Scuba
+Standards andCodes of Practice
+Code of Practice for Scientific Diving (UNESCO)
+DIN 7876
+IMCA Code of Practice for Offshore Diving
+ISO 24801 Recreational diving services — Requirements for the training of recreational scuba divers
+General non-fiction
+The Darkness Beckons
+Goldfinder
+The Last Dive
+Shadow Divers
+The Silent World: A Story of Undersea Discovery and Adventure
+Research
+List of Divers Alert Network publications
+Dive guides
+Training and registrationDivertraining
+Competence and assessment
+Competency-based learning
+Refresher training
+Skill assessment
+Diver training standard
+Diving instructor
+Diving school
+Occupational diver training
+Commercial diver training
+Military diver training
+Public safety diver training
+Scientific diver training
+Recreational diver training
+Introductory diving
+Teaching method
+Muscle memory
+Overlearning
+Stress exposure training
+Skills
+Combat sidestroke
+Diver navigation
+Diver trim
+Ear clearing
+Frenzel maneuver
+Valsalva maneuver
+Finning techniques
+Scuba skills
+Buddy breathing
+Low impact diving
+Diamond Reef System
+Surface-supplied diving skills
+Underwater searches
+RecreationalscubacertificationlevelsCore diving skills
+Advanced Open Water Diver
+Autonomous diver
+CMAS* scuba diver
+CMAS** scuba diver
+Introductory diving
+Low Impact Diver
+Master Scuba Diver
+Open Water Diver
+Supervised diver
+Leadership skills
+Dive leader
+Divemaster
+Diving instructor
+Master Instructor
+Specialist skills
+Rescue Diver
+Solo diver
+Diver trainingcertificationand registrationorganisations
+European Underwater Federation (EUF)
+International Diving Regulators and Certifiers Forum (IDRCF)
+International Diving Schools Association (IDSA)
+International Marine Contractors Association (IMCA)
+List of diver certification organizations
+National Oceanic and Atmospheric Administration (NOAA)
+Nautical Archaeology Society
+Universal Referral Program
+World Recreational Scuba Training Council (WRSTC)
+Commercial divercertificationauthorities
+Australian Diver Accreditation Scheme (ADAS)
+Commercial diver registration in South Africa
+Divers Institute of Technology
+Health and Safety Executive (HSE)
+Department of Employment and Labour
+Commercial divingschools
+Divers Academy International
+Norwegian diver school
+Free-divingcertificationagencies
+AIDA International (AIDA)
+Confédération Mondiale des Activités Subaquatiques (CMAS)
+Performance Freediving International (PI)
+Scuba Schools International (SSI)
+Recreational scubacertificationagencies
+American Canadian Underwater Certifications (ACUC)
+American Nitrox Divers International (ANDI)
+Association nationale des moniteurs de plongée (ANMP)
+British Sub-Aqua Club (BSAC)
+Comhairle Fo-Thuinn (CFT)
+Confédération Mondiale des Activités Subaquatiques (CMAS)
+Federación Española de Actividades Subacuáticas (FEDAS)
+Fédération Française d'Études et de Sports Sous-Marins (FFESSM)
+Federazione Italiana Attività Subacquee (FIAS)
+Global Underwater Explorers (GUE)
+International Association for Handicapped Divers (IAHD)
+International Association of Nitrox and Technical Divers (IANTD)
+International Diving Educators Association (IDEA)
+Israeli Diving Federation (TIDF)
+National Academy of Scuba Educators (NASE)
+National Association of Underwater Instructors (NAUI)
+Nederlandse Onderwatersport Bond (NOB)
+Professional Association of Diving Instructors (PADI)
+Professional Diving Instructors Corporation (PDIC)
+Sub-Aqua Association (SAA)
+Scuba Diving International (SDI)
+Scuba Educators International (SEI)
+Scottish Sub Aqua Club (ScotSAC)
+Scuba Schools International (SSI)
+Türkiye Sualtı Sporları Federasyonu (TSSF)
+United Diving Instructors (UDI)
+YMCA SCUBA Program
+Scientific divercertificationauthorities
+American Academy of Underwater Sciences (AAUS)
+CMAS Scientific Committee
+Technicalcertificationagencies
+American Nitrox Divers International (ANDI)
+British Sub-Aqua Club (BSAC)
+Confédération Mondiale des Activités Subaquatiques (CMAS)
+Diving Science and Technology (DSAT)
+Federazione Italiana Attività Subacquee (FIAS)
+International Association of Nitrox and Technical Divers (IANTD)
+Professional Association of Diving Instructors (PADI)
+Professional Diving Instructors Corporation (PDIC)
+Trimix Scuba Association (TSA)
+Technical Extended Range (TXR)
+Cavediving
+Cave Divers Association of Australia (CDAA)
+Cave Diving Group (CDG)
+Global Underwater Explorers (GUE)
+National Association for Cave Diving (NACD)
+National Speleological Society#Cave Diving Group (CDG)
+National Association of Underwater Instructors (NAUI)
+Technical Diving International (TDI)
+Underwater sportsSurface snorkeling
+Finswimming
+Snorkeling/breath-hold
+Spearfishing
+Underwater football
+Underwater hockey
+Australia
+Turkey
+Underwater rugby
+Colombia
+United States
+Underwater target shooting
+Breath-hold
+Aquathlon
+Apnoea finswimming
+Freediving
+Underwater ice hockey
+Open Circuit Scuba
+Immersion finswimming
+Sport diving
+Underwater cycling
+Underwater orienteering
+Underwater photography
+Rebreather
+Underwater photography
+Sports governingorganisations and federations
+International
+AIDA International
+Confédération Mondiale des Activités Subaquatiques)
+National
+AIDA Hellas
+Australian Underwater Federation
+British Freediving Association
+British Octopush Association
+British Underwater Sports Association
+Comhairle Fo-Thuinn
+Federación Española de Actividades Subacuáticas
+Fédération Française d'Études et de Sports Sous-Marins
+South African Underwater Sports Federation
+Türkiye Sualtı Sporları Federasyonu
+Underwater Society of America)
+Competitions
+14th CMAS Underwater Photography World Championship
+Underwater diversPioneersof diving
+Eduard Admetlla i Lázaro
+Aquanaut
+James F. Cahill
+Jacques Cousteau
+Billy Deans
+Hans Hass
+Dick Rutkowski
+Teseo Tesei
+Arne Zetterström
+Underwaterscientistsarchaeologists andenvironmentalists
+Michael Arbuthnot
+Robert Ballard
+George Bass
+Mensun Bound
+Louis Boutan
+Hugh Bradner
+Cathy Church
+Eugenie Clark
+James P. Delgado
+Sylvia Earle
+John Christopher Fine
+George R. Fischer
+Anders Franzén
+Honor Frost
+Fernando Garfella Palmer
+David Gibbins
+Graham Jessop
+Swietenia Puspa Lestari
+Pilar Luna
+Robert F. Marx
+Anna Marguerite McCann
+Innes McCartney
+Charles T. Meide
+David Moore
+Mark M. Newell
+Lyuba Ognenova-Marinova
+John Peter Oleson
+Mendel L. Peterson
+Richard Pyle
+William R. Royal
+Margaret Rule
+Gunter Schöbel
+Stephanie Schwabe
+Myriam Seco
+E. Lee Spence
+Robert Sténuit
+Peter Throckmorton
+Scuba recordholders
+Pascal Bernabé
+Jim Bowden
+Mark Ellyatt
+Sheck Exley
+Nuno Gomes
+Claudia Serpieri
+Krzysztof Starnawski
+Underwaterfilmmakersand presenters
+Samir Alhafith
+David Attenborough
+Ramón Bravo
+Jean-Michel Cousteau
+Richie Kohler
+Ivan Tors
+Andrew Wight
+Underwaterphotographers
+Tamara Benitez
+Georges Beuchat
+Adrian Biddle
+Jonathan Bird
+Eric Cheng
+Neville Coleman
+Jacques Cousteau
+John D. Craig
+Ben Cropp
+Bernard Delemotte
+David Doubilet
+John Christopher Fine
+Dermot FitzGerald
+Rodney Fox
+Ric Frazier
+Stephen Frink
+Peter Gimbel
+Monty Halls
+Hans Hass
+Henry Way Kendall
+Rudie Kuiter
+Joseph B. MacInnis
+Luis Marden
+Agnes Milowka
+Noel Monkman
+Steve Parish
+Zale Parry
+Pierre Petit
+Leni Riefenstahl
+Peter Scoones
+Brian Skerry
+Wesley C. Skiles
+E. Lee Spence
+Philippe Tailliez
+Ron Taylor
+Valerie Taylor
+Albert Tillman
+John Veltri
+Stan Waterman
+Michele Westmorland
+John Ernest Williamson
+J. Lamar Worzel
+Underwaterexplorers
+Caves
+Graham Balcombe
+Sheck Exley
+Martyn Farr
+Jochen Hasenmayer
+Jill Heinerth
+Jarrod Jablonski
+William Hogarth Main
+Tom Mount
+Jack Sheppard
+Bill Stone
+Reefs
+Wrecks
+Leigh Bishop
+John Chatterton
+Clive Cussler
+Bill Nagle
+Aristotelis Zervoudis
+Aquanauts
+Andrew Abercromby
+Joseph M. Acaba
+Clayton Anderson
+Richard R. Arnold
+Serena Auñón-Chancellor
+Michael Barratt (astronaut)
+Robert L. Behnken
+Randolph Bresnik
+Timothy J. Broderick
+Justin Brown
+Berry L. Cannon
+Scott Carpenter
+Gregory Chamitoff
+Steve Chappell
+Catherine Coleman
+Robin Cook
+Craig B. Cooper
+Fabien Cousteau
+Philippe Cousteau
+Timothy Creamer
+Jonathan Dory
+Pedro Duque
+Sylvia Earle
+Jeanette Epps
+Sheck Exley
+Albert Falco
+Andrew J. Feustel
+Michael Fincke
+Satoshi Furukawa
+Ronald J. Garan Jr.
+Michael L. Gernhardt
+Christopher E. Gerty
+David Gruber
+Chris Hadfield
+Jeremy Hansen
+José M. Hernández
+John Herrington
+Paul Hill
+Akihiko Hoshide
+Mark Hulsbeck
+Emma Hwang
+Norishige Kanai
+Les Kaufman
+Scott Kelly
+Karen Kohanowich
+Timothy Kopra
+Dominic Landucci
+Jon Lindbergh
+Kjell N. Lindgren
+Michael López-Alegría
+Joseph B. MacInnis
+Sandra Magnus
+Thomas Marshburn
+Matthias Maurer
+K. Megan McArthur
+Craig McKinley
+Jessica Meir
+Simone Melchior
+Dorothy Metcalf-Lindenburger
+Andreas Mogensen
+Karen Nyberg
+John D. Olivas
+Takuya Onishi
+Luca Parmitano
+Nicholas Patrick
+Tim Peake
+Thomas Pesquet
+Marc Reagan
+Garrett Reisman
+Kathleen Rubins
+Dick Rutkowski
+Tara Ruttley
+David Saint-Jacques
+Josef Schmid
+Robert Sheats
+Dewey Smith
+Steve Squyres
+Heidemarie Stefanyshyn-Piper
+Robert Sténuit
+Hervé Stevenin
+Nicole Stott
+James Talacek
+Daniel M. Tani
+Robert Thirsk
+Bill Todd
+Mark T. Vande Hei
+Koichi Wakata
+Rex J. Walheim
+Shannon Walker
+John Morgan Wells
+Joachim Wendler
+Douglas H. Wheelock
+Peggy Whitson
+Dafydd Williams
+Jeffrey Williams
+Sunita Williams
+Gregory R. Wiseman
+Kimiya Yui
+Writers and journalists
+Michael C. Barnette
+Victor Berge
+Philippe Diolé
+Gary Gentile
+Bret Gilliam
+Bob Halstead
+Trevor Jackson
+Steve Lewis
+John Mattera
+Rescuers
+Craig Challen
+Richard Harris
+Rick Stanton
+John Volanthen
+Frogmen
+Lionel Crabb
+Commercial salvors
+Keith Jessop
+Science of underwater divingDivingphysics
+Breathing performance of regulators
+Buoyancy
+Archimedes' principle
+Neutral buoyancy
+Concentration
+Diffusion
+Molecular diffusion
+Force
+Oxygen fraction
+Permeation
+Psychrometric constant
+Solubility
+Henry's law
+Saturation
+Solution
+Supersaturation
+Surface tension
+Hydrophobe
+Surfactant
+Temperature
+Torricellian chamber
+Underwater acoustics
+Modulated ultrasound
+Underwater vision
+Snell's law
+Underwater computer vision
+Weight
+Apparent weight
+Gas laws
+Amontons's law
+Boyle's law
+Charles's law
+Combined gas law
+Dalton's law
+Gay-Lussac's law
+Ideal gas law
+Pressure
+Absolute pressure
+Ambient pressure
+Atmospheric pressure
+Gauge pressure
+Hydrostatic pressure
+Metre sea water
+Partial pressure
+Divingphysiology
+Artificial gills
+Cold shock response
+Diving reflex
+Equivalent narcotic depth
+Lipid
+Maximum operating depth
+Metabolism
+Physiological response to water immersion
+Tissue
+Underwater vision
+Circulatorysystem
+Blood shift
+Patent foramen ovale
+Perfusion
+Pulmonary circulation
+Systemic circulation
+Decompressiontheory
+Decompression models:
+Bühlmann decompression algorithm
+Haldane's decompression model
+Reduced gradient bubble model
+Thalmann algorithm
+Thermodynamic model of decompression
+Varying Permeability Model
+Equivalent air depth
+Equivalent narcotic depth
+Oxygen window in diving decompression
+Physiology of decompression
+Respiration
+Blood–air barrier
+Breathing
+CO₂ retention
+Dead space
+Gas exchange
+Hypocapnia
+Respiratory exchange ratio
+Respiratory quotient
+Respiratory system
+Work of breathing
+DivingenvironmentClassification
+List of diving environments by type
+Altitude diving
+Benign water diving
+Confined water diving
+Deep diving
+Inland diving
+Inshore diving
+Muck diving
+Night diving
+Open-water diving
+Black-water diving
+Blue-water diving
+Penetration diving
+Cave diving
+Ice diving
+Wreck diving
+Recreational dive sites
+Underwater environment
+Impact
+Environmental impact of recreational diving
+Low impact diving
+Environmentalfactors
+Algal bloom
+Currents:
+Current
+Longshore drift
+Ocean current
+Rip current
+Tidal race
+Undertow
+Upwelling
+Ekman transport
+Halocline
+Reef
+Coral reef
+Stratification
+Thermocline
+Tides
+Turbidity
+Wind wave
+Breaking wave
+Surf
+Surge
+Wave shoaling
+Other
+Bathysphere
+Defense against swimmer incursions
+Diver detection sonar
+Offshore survey
+Underwater domain awareness
+Awards and events
+Hans Hass Award
+International Scuba Diving Hall of Fame
+London Diving Chamber Dive Lectures
+NOGI Awards
+Deep-submergencevehicle
+Aluminaut
+DSV Alvin
+American submarine NR-1
+Bathyscaphe
+Archimède
+FNRS-2
+FNRS-3
+FNRS-4
+Harmony class bathyscaphe
+Sea Pole-class bathyscaphe
+Trieste II
+Deepsea Challenger
+Ictineu 3
+JAGO
+Jiaolong
+Konsul-class submersible
+DSV Limiting Factor
+Russian submarine Losharik
+Mir
+Nautile
+Pisces-class deep submergence vehicle
+DSV Sea Cliff
+DSV Shinkai
+DSV Shinkai 2000
+DSV Shinkai 6500
+DSV Turtle
+DSV-5 Nemo
+Deep-submergencerescue vehicle
+LR5
+LR7
+MSM-1
+Mystic-class deep-submergence rescue vehicle
+DSRV-1 Mystic
+DSRV-2 Avalon
+NATO Submarine Rescue System
+Priz-class deep-submergence rescue vehicle
+Russian deep submergence rescue vehicle AS-28
+Russian submarine AS-34
+ASRV Remora
+SRV-300
+Submarine Rescue Diving Recompression System
+Type 7103 DSRV
+URF (Swedish Navy)
+Specialinterestgroups
+Artificial Reef Society of British Columbia
+CMAS Europe
+Coral Reef Alliance
+Diving Equipment and Marketing Association
+Divers Alert Network
+Green Fins
+Historical Diving Society
+Karst Underwater Research
+Nautical Archaeology Program
+Nautical Archaeology Society
+Naval Air Command Sub Aqua Club
+Project AWARE
+Reef Check
+Reef Life Survey
+Rubicon Foundation
+Save Ontario Shipwrecks
+SeaKeys
+Sea Research Society
+Society for Underwater Historical Research
+Society for Underwater Technology
+Underwater Archaeology Branch, Naval History &amp; Heritage Command
+Submarine escapeand rescue
+Escape trunk
+International Submarine Escape and Rescue Liaison Office
+McCann Rescue Chamber
+Submarine Escape and Rescue system (Royal Swedish Navy)
+Submarine escape training facility
+Submarine Escape Training Facility (Australia)
+Submarine rescue ship
+Neutral buoyancyfacilities forAstronaut training
+Neutral Buoyancy Laboratory
+Neutral buoyancy pool
+Neutral buoyancy simulation as a training aid
+Neutral Buoyancy Simulator
+Space Systems Laboratory
+Yuri Gagarin Cosmonaut Training Center
+Other
+Nautilus Productions
+ Category
+ Commons
+Glossary
+Indexes: dive sites
+divers
+diving
+Outline
+ Portal
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Diving_regulator&amp;oldid=978233674#Submersible_pressure_gauge"
+		Categories: Underwater breathing apparatusHidden categories: CS1: Julian–Gregorian uncertaintyCS1 French-language sources (fr)All articles with dead external linksArticles with dead external links from November 2016Articles with dead external links from December 2017Articles with permanently dead external linksCS1: long volume valueArticles with short descriptionShort description is different from WikidataUse dmy dates from February 2020Articles containing French-language textAll articles with vague or ambiguous timeVague or ambiguous time from November 2016All articles with unsourced statementsArticles with unsourced statements from November 2016Dynamic lists
+	Navigation menu
+		Personal tools
+		Not logged inTalkContributionsCreate accountLog in
+		Namespaces
+		ArticleTalk
+		Variants
+		Views
+		ReadEditView history
+		More
+		Search
+		Navigation
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		Contribute
+		HelpLearn to editCommunity portalRecent changesUpload file
+		Tools
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		Print/export
+		Download as PDFPrintable version
+		In other projects
+		Wikimedia Commons
+		Languages
+		CatalàDeutschEspañolFrançaisItalianoNederlandsNorsk bokmålPolskiRomânăРусскийSvenska中文
+		Edit links
+		 This page was last edited on 13 September 2020, at 18:05 (UTC).
+		Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+		Privacy policy
+		About Wikipedia
+		Disclaimers
+		Contact Wikipedia
+		Mobile view
+		Developers
+		Statistics
+		Cookie statement

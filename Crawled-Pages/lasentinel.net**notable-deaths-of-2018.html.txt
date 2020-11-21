@@ -1,0 +1,193 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+		Notable Deaths of 2018
+		Next »
+	(February 17, 1977-March 10, 2018) Abraham McDonald broke out into stardom after his appearance on “Oprah’s Karaoke Challenge.” Soon after, he was signed to Def Jam Records, where he had the opportunity to work with singer/ songwriter Diane Warren for the hit song “Miracle.” McDonald did not produce an album but he did continue to push singles throughout his career and travel around the world performing.
+        ADVERTISEMENT        
+		Next »
+			Thumbnails
+			showing above 
+		Categories: Family Tags: #lasentinel | Abraham McDonald | Aretha Franklin | Aubry Stone | Bennie Cunningham | Bishop Gentry Richardson | Bishop James Donald Carrington | celebrations of life | Christine Martin | deaths | Doris Davis | Dorothy Cotton | Dr. Clyde A. Luck Jr. | Edwin Hawkins | Ensa Cosby | Floyd Carter Sr. | Jahseh Dwayne Onfroy | Joe Adams | joe jackson | John Mack | Johnny Morris | Kofi Annan | Leon Ndugu Chanceler | Lerone Bennett Jr. | Linda Brown | Lois Catherine Banks Richard | Louis Farrakhan Jr. | Michael Ajakwe Jr. | Nancy Wilson | notable deaths | Rev. Dr. James H. Hargett | Rev. Rocellia Johnson | Winnie Madikizela-Mandela | XXX Tentacion | year in review		
+						Watts-Willowbrook Conservatory and Youth Symphony Winter 2019 Session Begin...
+						COMMENTARY: Living in America While Being Black Under the Trump Regime 
+						Moderate or Severe Sleep Apnea Doubles Risk Of Hard-to-Treat Hypertension i...
+						Ad Hoc Committee Cites “Systemic Racism”  as Critical Factor for Dispar...
+						Sharon McDougle, The ‘Hidden Figure’ Behind the NASA Spacesuit Team 
+						EDUCATOR SPOTLIGHT: Rebecca Francis 
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->

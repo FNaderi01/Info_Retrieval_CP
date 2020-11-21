@@ -1,0 +1,326 @@
+        About
+            Branching and Merging
+            Small and Fast
+            Distributed
+            Data Assurance
+            Staging Area
+            Free and Open Source
+            Trademark
+        Documentation
+            Reference
+            Book
+            Videos
+            External Links
+        Downloads
+            GUI Clients
+            Logos
+        Community
+This book is available in
+  English.
+  Full translation available in
+    български език,
+    Deutsch,
+    Español,
+    Français,
+    Ελληνικά,
+    日本語,
+    한국어,
+    Nederlands,
+    Русский,
+    Slovenščina,
+    Tagalog,
+    Українська
+    简体中文,
+  Partial translations available in
+    Čeština,
+    Македонски,
+    Polski,
+    Српски,
+    Ўзбекча,
+    繁體中文,
+  Translations started for
+    azərbaycan dili,
+    Беларуская,
+    فارسی,
+    Indonesian,
+    Italiano,
+    Bahasa Melayu,
+    Português (Brasil),
+    Português (Portugal),
+    Svenska,
+    Türkçe.
+The source of this book is  hosted on GitHub.
+Patches, suggestions and comments are welcome.
+  Chapters ▾
+  1. Aan de slag
+          1.1
+          Over versiebeheer 
+          1.2
+          Een kort historisch overzicht van Git 
+          1.3
+          Wat is Git? 
+          1.4
+          De commando-regel 
+          1.5
+          Git installeren 
+          1.6
+          Git klaarmaken voor eerste gebruik 
+          1.7
+          Hulp krijgen 
+          1.8
+          Samenvatting 
+  2. Git Basics
+          2.1
+          Een Git repository verkrijgen 
+          2.2
+          Wijzigingen aan de repository vastleggen 
+          2.3
+          De commit geschiedenis bekijken 
+          2.4
+          Dingen ongedaan maken 
+          2.5
+          Werken met remotes 
+          2.6
+          Taggen (Labelen) 
+          2.7
+          Git aliassen 
+          2.8
+          Samenvatting 
+  3. Branchen in Git
+          3.1
+          Branches in vogelvlucht 
+          3.2
+          Eenvoudig branchen en mergen 
+          3.3
+          Branch-beheer 
+          3.4
+          Branch workflows 
+          3.5
+          Branches op afstand (Remote branches) 
+          3.6
+          Rebasen 
+          3.7
+          Samenvatting 
+  4. Git op de server
+          4.1
+          De protocollen 
+          4.2
+          Git op een server krijgen 
+          4.3
+          Je publieke SSH sleutel genereren 
+          4.4
+          De server opzetten 
+          4.5
+          Git Daemon 
+          4.6
+          Slimme HTTP 
+          4.7
+          GitWeb 
+          4.8
+          GitLab 
+          4.9
+          Hosting oplossingen van derden 
+          4.10
+          Samenvatting 
+  5. Gedistribueerd Git
+          5.1
+          Gedistribueerde workflows 
+          5.2
+          Bijdragen aan een project 
+          5.3
+          Het beheren van een project 
+          5.4
+          Samenvatting 
+  6. GitHub
+          6.1
+          Account setup en configuratie 
+          6.2
+          Aan een project bijdragen 
+          6.3
+          Een project onderhouden 
+          6.4
+          Een organisatie beheren 
+          6.5
+          GitHub Scripten 
+          6.6
+          Samenvatting 
+  7. Git Tools
+          7.1
+          Revisie Selectie 
+          7.2
+          Interactief stagen 
+          7.3
+          Stashen en opschonen 
+          7.4
+          Je werk tekenen 
+          7.5
+          Zoeken 
+          7.6
+          Geschiedenis herschrijven 
+          7.7
+          Reset ontrafeld 
+          7.8
+          Mergen voor gevorderden 
+          7.9
+          Rerere 
+          7.10
+          Debuggen met Git 
+          7.11
+          Submodules 
+          7.12
+          Bundelen 
+          7.13
+          Vervangen 
+          7.14
+          Het opslaan van inloggegevens 
+          7.15
+          Samenvatting 
+  8. Git aanpassen
+          8.1
+          Git configuratie 
+          8.2
+          Git attributen 
+          8.3
+          Git Hooks 
+          8.4
+          Een voorbeeld van Git-afgedwongen beleid 
+          8.5
+          Samenvatting 
+  9. Git en andere systemen
+          9.1
+          Git als een client 
+          9.2
+          Migreren naar Git 
+          9.3
+          Samenvatting 
+  10. Git Binnenwerk
+          10.1
+          Binnenwerk en koetswerk (plumbing and porcelain) 
+          10.2
+          Git objecten 
+          10.3
+          Git Referenties 
+          10.4
+          Packfiles 
+          10.5
+          De Refspec 
+          10.6
+          Uitwisseling protocollen 
+          10.7
+          Onderhoud en gegevensherstel 
+          10.8
+          Omgevingsvariabelen 
+          10.9
+          Samenvatting 
+  A1. Appendix A: Git in andere omgevingen
+          A1.1
+          Grafische interfaces 
+          A1.2
+          Git in Visual Studio 
+          A1.3
+          Git in Visual Studio Code 
+          A1.4
+          Git in Eclipse 
+          A1.5
+          Git in Sublime Text 
+          A1.6
+          Git in Bash 
+          A1.7
+          Git in Zsh 
+          A1.8
+          Git in PowerShell 
+          A1.9
+          Samenvatting 
+  A2. Appendix B: Git in je applicaties inbouwen
+          A2.1
+          Commando-regel Git 
+          A2.2
+          Libgit2 
+          A2.3
+          JGit 
+          A2.4
+          go-git 
+          A2.5
+          Dulwich 
+  A3. Appendix C: Git Commando’s
+          A3.1
+          Setup en configuratie 
+          A3.2
+          Projecten ophalen en maken 
+          A3.3
+          Basic Snapshotten 
+          A3.4
+          Branchen en mergen 
+          A3.5
+          Projecten delen en bijwerken 
+          A3.6
+          Inspectie en vergelijking 
+          A3.7
+          Debuggen 
+          A3.8
+          Patchen 
+          A3.9
+          Email 
+          A3.10
+          Externe systemen 
+          A3.11
+          Beheer 
+          A3.12
+          Binnenwerk commando’s (plumbing commando’s) 
+      2nd Edition
+    A3.4 Appendix C: Git Commando’s - Branchen en mergen
+Branchen en mergen
+Er zijn maar een handjevol commando’s die de meeste van de branch en merge functionaliteit in Git implementeren.
+git branch
+Het git branch commando is eigenlijk een soort branch beheer gereedschap.
+Het kan de branches die je hebt uitlijsten, een nieuwe branch aanmaken, branches verwijderen en hernoemen.
+Het grootste gedeelte van Branchen in Git is gewijd aan het branch commando en het wordt door het gehele hoofdstuk gebruikt.
+We introduceren het eerst in Een nieuwe branch maken en we behandelen de meeste van de andere mogelijkheden (uitlijsten en verwijderen) in Branch-beheer.
+In Tracking branches gebruiken we de git branch -u optie om een tracking branch op te zetten.
+Tot slot, behandelen we een aantal dingen die het op de achtergrond doet in Git Referenties.
+git checkout
+Het git checkout commando wordt gebruikt om branches te wisselen en inhoud uit te cheken in je werk directory.
+We komen het commando voor het eerst tegen in Tussen branches schakelen (switching) samen met de git branch commando.
+We zien hoe het te gebruiken om tracking branches te starten met de --track vlag in Tracking branches.
+We gebruiken het om bestandsconflicten te herintroduceren met --conflict=diff3 in Conflicten beter bekijken.
+We behandelen het in nog meer detail in verband met haar relatie met git reset in Reset ontrafeld.
+Tot slot, behandelen we een aantal implementatie details in De HEAD.
+git merge
+Het git merge tool wordt gebruikt om een of meerdere branches te mergen naar de branch die je hebt uitgechecked.
+Het zal daarna de huidige branch voortbewegen naar het resultaat van de merge.
+Het git merge commando werd voor het eerst geïntroduceerd in Eenvoudig branchen.
+En hoewel het op diverse plaatsen in het boek wordt gebruikt, zijn er over het algemeen erg weinig variaties op het merge commando, normaalgesproken alleen git merge &lt;branch&gt; met de naam van die ene branch die je wilt inmergen.
+We hebben behandeld hoe een squashed merge te doen (waar Git het werk merged maar doet alsof het niet meer dan een nieuwe commit is zonder de historie van de branch die je in merged op te slaan) aan het einde van Gevorkt openbaar project.
+We hebben veel behandeld over het merge proces en commando, inclusief het -Xignore-space-change commando en de --abort vlag om een problematische merge af te breken in Mergen voor gevorderden.
+We hebben gezien hoe handtekeningen te verifiëren als je project GPG tekenen gebruikt in Commits tekenen.
+Tot slot, hebben we Subtree mergen behandeld in Het mergen van subtrees.
+git mergetool
+Het git mergetool commando roept simpelweg een externe merge hulp aan in het geval dat je problemen hebt met een merge in Git.
+We hebben het kort genoemd in Eenvoudige merge conflicten en behandelen met detail hoe je je eigen externe merge tool kunt implementeren in Externe merge en diff tools.
+git log
+Het git log commando wordt gebruikt om de bereikbare opgeslagen historie van een project te laten zien vanaf de meeste recente commit snapshot en verder terug.
+Standaard laat het alleen de historie zien van de branch waar je op dat moment op werkt, maar het kan een andere of zelfs meerdere heads of branches worden gegeven vanwaar het door de geschiedenis zal gaan traceren.
+Het wordt ook vaak gebruikt om verschillen te laten zien tussen twee of meer branches op het commit niveau.
+Dit commando wordt in vrijwel elk hoofdstuk van het boek gebruikt om de historie van het project te tonen.
+We introduceren het commando en behandelen het met nogal wat detail in De commit geschiedenis bekijken.
+Daar nemen we een kijkje naar de -p en --stat opties om een indruk te krijgen van wat er was geïntroduceerd in elke commit en de --pretty en --oneline opties om de historie meer beknopt te bekijken, samen met wat eenvoudige datum en auteur filter opties.
+In Een nieuwe branch maken gebruiken we het met de --decorate optie om eenvoudig te laten zien waar onze branch verwijzingen zijn en we gebruiken ook de --graph optie om te zien hoe uiteenlopende histories eruit zien.
+In Besloten klein team en Commit reeksen behandelen we hoe de branchA..branchB syntax toe te passen om het git log commando te gebruiken om te bekijken welke commits er uniek zijn voor een branch in vergelijking met een andere branch.
+In Commit reeksen behandelen we dit redelijk uitgebreid.
+In Merge log en Drievoudige punt behandelen we het gebruik van het branchA...branchB formaat en de --left-right syntax om te zien wat er in een branch zit of de andere, maar niet in beide.
+In Merge log kijken we ook naar hoe de --merge optie te gebruiken als hulp om een merge conflict te debuggen en ook het gebruik van de --cc optie om naar merge conflicten te kijken in je historie.
+In RefLog verkorte namen gebruiken we de -g optie om de Git reflog te bekijken via dit gereedschap in plaats van branch navigatie te doen.
+In Zoeken kijken we naar het gebruik van de -S en -L opties om een redelijk geraffineerde zoekopdrachten uit te voeren naar iets dat historisch heeft plaatsgevonden in de code, zoals het bekijken van de geschiedenis van een functie.
+In Commits tekenen zien we hoe --show-signature te gebruiken om een validatie tekenreeks toe te voegen aan elke commit in de git log uitvoer afhankelijk van of het valide is getekend of niet.
+git stash
+Het git stash commando wordt gebruikt om tijdelijk niet-gecommit werk op te slaan, zodat je werk directory opgeschoond wordt; hierdoor hoef je geen onvolledig werk te committen naar een branch.
+Dit wordt eigenlijk in zijn geheel behandeld in Stashen en opschonen.
+git tag
+Het git tag commando wordt gebruikt om een blijvende boekwijzer te geven aan een specifiek punt in de code historie.
+Over het algemeen wordt dit gebruikt voor zaken zoals releases.
+Dit commando wordt geïntroduceerd en in detail behandeld in Taggen (Labelen) en we gebruiken het in de praktijk in Je releases taggen.
+We behandelen ook hoe een GPG getekende tag te maken met de -s vlag en verifiëren er een met de -v vlag in Je werk tekenen.
+prev | next
+    About this site
+    Patches, suggestions, and comments are welcome.
+    Git is a member of Software Freedom Conservancy

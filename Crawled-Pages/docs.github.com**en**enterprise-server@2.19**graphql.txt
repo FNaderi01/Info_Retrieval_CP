@@ -1,0 +1,145 @@
+     category > maptopic > article -->
+    GitHub Docs
+    All products
+  GraphQL API
+          Overview
+          About the GraphQL API
+          Public schema
+          Schema previews
+          Breaking changes
+          Changelog
+          Explorer
+          Resource limitations
+          Reference
+          Queries
+          Mutations
+          Objects
+          Interfaces
+          Enums
+          Unions
+          Input objects
+          Scalars
+          Guides
+          Introduction to GraphQL
+          Forming calls with GraphQL
+          Using global node IDs
+          Migrating from REST to GraphQL
+          Using the Explorer
+          Managing enterprise accounts
+        GitHub Docs
+                Explore by product
+                      GraphQL API
+                       GitHub.com
+                       Enterprise Administrators
+                       GitHub Actions
+                       GitHub Packages
+                       Developers
+                       REST API
+                       GraphQL API
+                       GitHub Insights
+                       GitHub Desktop
+                       Atom
+                       Electron
+                            English
+                              English
+                              简体中文 (Simplified Chinese)
+                              日本語 (Japanese)
+                              Español (Spanish)
+                              Português do Brasil (Portuguese)
+          This version of GitHub Enterprise will be discontinued on
+          This version of GitHub Enterprise was discontinued on
+        2020-11-12.
+      No patch releases will be made, even for critical security issues. For better performance, improved security, and new features, upgrade to the latest version of GitHub Enterprise.
+For help with the upgrade, contact GitHub Enterprise support.
+      Article version: Enterprise Server 2.19
+      Free, Pro, and Team
+      Enterprise Server 2.22
+      Enterprise Server 2.21
+      Enterprise Server 2.20
+      Enterprise Server 2.19
+    GraphQL API
+      Article version: Enterprise Server 2.19
+      Free, Pro, and Team
+      Enterprise Server 2.22
+      Enterprise Server 2.21
+      Enterprise Server 2.20
+      Enterprise Server 2.19
+        GitHub GraphQL API
+        You can use the GitHub GraphQL API to create precise and flexible queries for the data you need to integrate with GitHub.
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        Required
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        Optional
+      Can we contact you if we have more questions?
+        Optional
+      Send
+    Thank you! Your feedback has been submitted.
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  Or, learn how to contribute.
+  Overview→
+Learn about the GitHub GraphQL API, previews for upcoming changes, breaking changes, and limitations. You can also use the GraphQL Explorer to interact with the API on real GitHub data.
+  Reference→
+View reference documentation to learn about the data types available in the GitHub GraphQL API schema.
+  Guides→
+Learn about getting started with GraphQL, migrating from REST to GraphQL, and how to use the GitHub GraphQL API for a variety of tasks.
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        Required
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        Optional
+      Can we contact you if we have more questions?
+        Optional
+      Send
+    Thank you! Your feedback has been submitted.
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  Or, learn how to contribute.
+      Still need help?
+      Ask the GitHub community
+      Contact support
+        Product
+          Features
+          Security
+          Enterprise
+          Case Studies
+          Pricing
+          Resources
+        Platform
+          Developer API
+          Partners
+          Atom
+          Electron
+          GitHub Desktop
+        Support
+          Help
+          Community Forum
+          Training
+          Status
+          Contact GitHub
+        Company
+          About
+          Blog
+          Careers
+          Press
+          Shop
+        © 2020 GitHub, Inc.
+        Terms 
+        Privacy 

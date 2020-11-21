@@ -1,0 +1,267 @@
+    Skip to Main Content
+        The Keyword
+               Latest stories
+              Product updates
+    Product updates
+            Android, Chrome &amp; Play
+                  Android
+                  Chrome
+                  Chromebooks
+                  Google Play
+                  Wear OS by Google
+            Connected home
+                  Chromecast
+                  Google Nest
+                  Google Wifi
+            In the cloud
+                  Docs, Sheets and Slides
+                  Gmail
+                  Google Cloud
+                  Meet
+                  More on the Cloud blog
+            Hardware
+                  Pixel
+                  Pixelbook
+                  Stadia
+            Explore &amp; get answers
+                  Earth
+                  Google Assistant
+                  Maps
+                  Search
+                  Photos
+                  Translate
+      See all product updates
+            Android, Chrome &amp; Play
+                    Android
+                    Chrome
+                    Chromebooks
+                    Google Play
+                    Wear OS by Google
+            Connected home
+                    Chromecast
+                    Google Nest
+                    Google Wifi
+            In the cloud
+                    Docs, Sheets and Slides
+                    Gmail
+                    Google Cloud
+                    Meet
+                    More on the Cloud blog
+            Hardware
+                    Pixel
+                    Pixelbook
+                    Stadia
+            Explore &amp; get answers
+                    Earth
+                    Google Assistant
+                    Maps
+                    Search
+                    Photos
+                    Translate
+        See all product updates
+              Company news
+    Company news
+            Outreach &amp; initiatives
+                  Diversity and inclusion
+                  Education
+                  Google.org
+                  Grow with Google
+                  Sustainability
+                  See all
+            Technology
+                  AI
+                  Developers
+                  Families
+                  Next billion users
+                  Safety and security
+                  See all
+            Inside Google
+                  Data centers and infrastructure
+                  Doodles
+                  Googlers
+                  Life at Google
+                  See all
+            Around the globe
+                  Google in Africa
+                  Google in Asia
+                  Google in Europe
+                  Google in Latin America
+                  See all
+            Perspectives
+                  Sundar Pichai, CEO
+                  Ruth Porat, SVP and CFO
+                  Kent Walker, SVP
+                  See all
+            Outreach &amp; initiatives
+                    Diversity and inclusion
+                    Education
+                    Google.org
+                    Grow with Google
+                    Sustainability
+            See all
+            Technology
+                    AI
+                    Developers
+                    Families
+                    Next billion users
+                    Safety and security
+            See all
+            Inside Google
+                    Data centers and infrastructure
+                    Doodles
+                    Googlers
+                    Life at Google
+            See all
+            Around the globe
+                    Google in Africa
+                    Google in Asia
+                    Google in Europe
+                    Google in Latin America
+            See all
+            Perspectives
+                    Sundar Pichai, CEO
+                    Ruth Porat, SVP and CFO
+                    Kent Walker, SVP
+            See all
+    Subscribe
+        Press corner
+        RSS feed
+    Subscribe
+            The Keyword
+               Latest stories
+              Product updates
+    Product updates
+            Android, Chrome &amp; Play
+                  Android
+                  Chrome
+                  Chromebooks
+                  Google Play
+                  Wear OS by Google
+            Connected home
+                  Chromecast
+                  Google Nest
+                  Google Wifi
+            In the cloud
+                  Docs, Sheets and Slides
+                  Gmail
+                  Google Cloud
+                  Meet
+                  More on the Cloud blog
+            Hardware
+                  Pixel
+                  Pixelbook
+                  Stadia
+            Explore &amp; get answers
+                  Earth
+                  Google Assistant
+                  Maps
+                  Search
+                  Photos
+                  Translate
+      See all product updates
+              Company news
+    Company news
+            Outreach &amp; initiatives
+                  Diversity and inclusion
+                  Education
+                  Google.org
+                  Grow with Google
+                  Sustainability
+                  See all
+            Technology
+                  AI
+                  Developers
+                  Families
+                  Next billion users
+                  Safety and security
+                  See all
+            Inside Google
+                  Data centers and infrastructure
+                  Doodles
+                  Googlers
+                  Life at Google
+                  See all
+            Around the globe
+                  Google in Africa
+                  Google in Asia
+                  Google in Europe
+                  Google in Latin America
+                  See all
+            Perspectives
+                  Sundar Pichai, CEO
+                  Ruth Porat, SVP and CFO
+                  Kent Walker, SVP
+                  See all
+            Press corner
+            RSS feed
+    Subscribe
+        Company announcements
+      An update on Exposure Notifications
+    Copy link
+    Dave Burke
+        VP of Engineering
+      Published Jul 31, 2020
+    Copy link
+          In May, we partnered with Apple to launch the Exposure Notifications System (ENS) and made it available to public health authorities around the world in their fight against COVID-19. The ENS allows public health authorities to develop apps that augment manual contact tracing efforts while preserving the privacy of their citizens. As of today, public health authorities have used ENS to launch in 16 countries and regions across Africa, Asia, Europe, North America and South America, with more apps currently under development.  In the United States, 20 states and territories—representing approximately 45 percent of the U.S. population—are exploring apps based on ENS. We expect to see the first set of these apps roll out over the coming weeks. The Association of Public Health Laboratories also announced recently that it will host a national key server to support all U.S. states, which will allow people with Exposure Notification apps to receive alerts even if they travel across state borders.We’ve continued to improve the technology and provide more transparency based on feedback we’ve received from public health authorities and other experts. Public health authorities will continue to make their own decisions about how exposure notifications become part of their plans in controlling COVID-19, and we will work to improve the technology in response to their feedback. Here are some of the changes we’ve already made, as well as some upcoming additional changes.
+          Improvements to the Exposure Notification APISince the Exposure Notification API was publicly released in May, we’ve spoken with dozens of public health authorities to understand how the API could be improved to help them better manage the COVID-19 pandemic while preserving privacy. Based on this feedback, we recently launched an update to the API, which includes the following changes:When an exposure is detected, public health authorities now have more flexibility in determining the level of risk associated with that exposure based on technical information from the API.Bluetooth calibration values for hundreds of devices have been updated to improve the detection of nearby devices.The API now supports interoperability between countries, following feedback from governments that have launched Exposure Notification apps.To help public health authorities build apps more efficiently, we’ve added reliability improvements for apps and developer debug tools. We’ve improved clarity, transparency and control for users. For example, the Exposure Notifications settings on Android now include a simple on/off toggle at the top of the page. In addition, users will also see a periodic reminder if ENS is turned on.
+          Technical guidance and transparencyWe’ve heard feedback that public health authorities and developers want more technical guidance about how ENS works. In response, we’ve published the following resources over the last few weeks:Reference verification server to help guide public health authorities in building a server that allows verification of test results when users report themselves as positive for COVID-19.Implementation code showing how the Exposure Notification API works underneath the hood.Telemetry design explaining what de-identified diagnostics data is collected to ensure that ENS is functioning properly and securely.Additional technical resources will be publicly shared as we continue to improve ENS.
+          Education and privacy protections The Exposure Notifications website has more information about ENS, and offers educational and technical resources, as well as the latest updates. As a quick reminder, here are some of the core privacy protections that were built into ENS: You decide whether you want to use Exposure Notifications—it’s off unless you turn it on.ENS doesn’t use location data from your device.Your identity is not shared with Google, Apple or other users.Only public health authorities can use this system.Finally, we’ve received questions about why your Android device location setting has to be turned on if you want to use an Exposure Notification app. We want to explain why this particular setting needs to be on, and how you can control your location settings on Android.  To be absolutely clear, ENS does not use device location, and the policies for using ENS prohibit public health authority apps from requesting or collecting device location. Instead, ENS uses Bluetooth technology to detect when two devices are near each other, without revealing the location of either device. While Bluetooth scanning doesn’t necessarily reveal location, it can in some cases be used to infer your device’s location. For example, if a shopping app scans for the Bluetooth signals of a stationary Bluetooth beacon located inside a store, then the app could infer that you went to that store. So in 2015, with privacy in mind, we designed the Android operating system to prevent Bluetooth scanning unless the device location setting is on. At that time no one could have anticipated that Bluetooth scanning might one day be helpful in controlling a global pandemic like COVID-19. Our engineering teams have been working to update the next version of Android with Exposure Notifications in mind. On Android 11, which will soon be released, users will be able to use Exposure Notification apps without turning on the device location setting. We’re making this update for Exposure Notifications only, given that ENS has been designed in such a way that neither the system nor the apps using it can infer device location through Bluetooth scanning, and apps that are allowed to use ENS are subject to additional policies that disallow automatic collection of location. All other apps and services will still be prohibited from performing Bluetooth scanning unless the device location setting is on. But even in current versions of Android, when you turn on the device location setting, your phone continues to prohibit access to any apps, including Google apps, that don’t have permission to use device location. The device location setting is like a circuit breaker in a house: When it’s on, power is flowing to the house, but you can turn the lights on or off in each room. If you turn on the device location setting to use ENS, it won’t affect the decisions you’ve already made about specific apps. You can always view and change which apps have access to your device location by going to Settings &gt; Location &gt; App permissions.We’re committed to supporting public health authorities as they build tools to fight COVID-19. We’ll continue to improve ENS based on feedback, while ensuring that people can trust in the privacy-preserving design of this technology.
+        Posted in:
+Company announcements
+COVID-19
+Android
+    Related stories
+                Google Assistant
+                "Hey Google" now works with your Android apps
+                  By
+                    Adam Coimbra
+                 Oct 8, 2020
+                Android
+                Important household sounds become more accessible
+                  Receive notifications of important household sounds around you by enabling Sound Notifications, a new Android accessibility feature.
+                  By
+                    Sagar Savla
+                    Sharlene Yuan
+                 Oct 8, 2020
+                Android
+                6 ways your Android is getting more helpful this fall
+                  By
+                    Baris Gultekin
+                 Oct 8, 2020
+                Google.org
+                This researcher is tracking COVID with help from Google
+                  By
+                    Mollie Javerbaum
+                 Oct 8, 2020
+                Accessibility
+                Doing more to design for and with people with disabilities
+                  By
+                    Eve Andersson
+                 Oct 6, 2020
+                Digital Wellbeing
+                More controls and transparency for your selfies
+                  By
+                    Vinit Modi
+                 Oct 1, 2020
+        .
+        Let’s stay in touch. Get the latest news from Google in your inbox.
+        Subscribe
+        No thanks
+      Please check your network connection and
+        try again.
+        The latest news from Google, in your inbox.
+    First name
+    Email address
+          Sign up to receive news and other stories from Google.
+          Your information will be used in accordance with
+          Google's privacy policy. You may opt out at any time.
+          Subscribe
+        Done! Check your inbox toconfirm your subscription.
+       OK, got it 
+              Follow Us
+            Privacy
+            Terms
+            About Google
+            Google Products
+              About the Keyword
+              Help

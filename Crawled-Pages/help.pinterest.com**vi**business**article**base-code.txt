@@ -1,0 +1,173 @@
+      Nhảy đến nội dung
+        Trung tâm Trợ giúp
+  Header navigation
+                  Tổng quan
+                  Doanh nghiệp
+  Header navigation - actions
+        Tìm kiếm
+  Header navigation - anonymous
+        Đăng nhập
+        Trang chủ Pinterest
+  Open menu
+          Tổng quan
+          An toàn và truy cập tài khoản
+          Sự cố với Pinterest
+          Pháp lý &amp; Quyền riêng tư
+          Quản lý tài khoản của bạn
+          Ghim và bảng
+          Doanh nghiệp
+          Ads measurement
+          Ads reporting
+          Build your organic presence on Pinterest
+          Quản lý hồ sơ doanh nghiệp của bạn
+          Shopping on Pinterest
+          Thanh toán và tính phí Ghim Quảng cáo
+          Quảng cáo trên Pinterest
+            An toàn và truy cập tài khoản
+            Sự cố với Pinterest
+            Pháp lý &amp; Quyền riêng tư
+            Quản lý tài khoản của bạn
+            Ghim và bảng
+            Ads measurement
+            Ads reporting
+            Build your organic presence on Pinterest
+            Quản lý hồ sơ doanh nghiệp của bạn
+            Shopping on Pinterest
+            Thanh toán và tính phí Ghim Quảng cáo
+            Quảng cáo trên Pinterest
+              Mã cơ sở
+            Có vẻ như bạn đang xem nội dung này từ một khu vực mà Thẻ Pinterest chưa hoạt động. Xem các khu vực mà tài khoản Pinterest Business có thể sử dụng Thẻ Pinterest.
+  Tìm hiểu thêm
+            Mã cơ sở là mã chính cho thẻ Pinterest. Bạn cần thêm mã cơ sở vào mỗi trang trên trang web của bạn để bất kỳ mã sự kiện nào đều hoạt động và xây dựng dữ liệu đối tượng khán giả từ toàn bộ lưu lượng truy cập trên trang web của bạn. 
+Bạn có thể tạo mã cơ sở riêng trong trang Chuyển đổi trong Trình quản lý quảng cáo, trong đó chứa ID thẻ duy nhất của bạn. Bạn chỉ cần tạo ra một ID thẻ duy nhất. Khi đã tạo, hãy đặt mã cơ sở trên mỗi trang của trang web của bạn để theo dõi chuyển đổi và xây dựng đối tượng trên toàn bộ trang web.
+            Vị trí
+Bạn cần phải đặt mã cơ sở sao cho mã này sẽ tải đầu tiên trên trang. Thông thường, mã này nằm trong phần &lt;head&gt; của mã HTML của trang web, nhưng có thể khác nhau tùy thuộc vào trang web của bạn. Mã cơ sở phải chạy trước mã sự kiện, do đó hãy chắc chắn bạn đặt mã cơ sở sao cho mã này chạy trước bất kỳ mã sự kiện nào bạn có kế hoạch triển khai.
+            Ví dụ
+Dưới đây là ví dụ về mã cơ sở, nhưng hãy nhớ rằng bạn nên lấy mã cơ sở riêng của mình từ hồ sơ của bạn trong Trình quản lý quảng cáo hoặc API. Bạn không nên sao chép và dán mã từ hướng dẫn này. Khi bạn lấy mã cơ sở từ Trình quản lý quảng cáo, mã sẽ có ID Thẻ Pinterest duy nhất được chèn vào vị trí thích hợp trong mã, nơi mà bạn thấy YOUR_TAG_ID trong mã dưới đây.
+&lt;head&gt;
+ &lt;!-- Mã cơ sở Pixel Pinterest --&gt;
+ &lt;script type="text/javascript"&gt;
+   !function(e){if(!window.pintrk){window.pintrk=function(){window.pintrk.queue.push(
+     Array.prototype.slice.call(arguments))};var
+     n=window.pintrk;n.queue=[],n.version="3.0";var
+     t=document.createElement("script");t.async=!0,t.src=e;var
+     r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(t,r)}}("https://s.pinimg.com/ct/core.js");
+   pintrk('load', 'YOUR_TAG_ID');
+   pintrk('page');
+ &lt;/script&gt;
+ &lt;noscript&gt;
+   &lt;img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=YOUR_TAG_ID&amp;event=init&amp;noscript=1" /&gt;
+ &lt;/noscript&gt;
+ &lt;!-- Kết thúc mã cơ sở Pixel Pinterest --&gt;
+&lt;/head&gt;
+            Cookie của bên thứ nhất
+Thẻ Pinterest tạo và truy cập các cookie trong bối cảnh bên thứ nhất trên miền trang web, cho phép bạn quan sát rõ hơn lưu lượng truy cập Pinterest trên trang web của mình.
+Lưu ý rằng bạn luôn có thể chọn xóa cookie của bên thứ nhất bằng cách cập nhật mã cơ sở để đặt tham số fp_cookie thành false:
+&lt;script&gt;
+ pintrk('load', '&lt;tag_id&gt;', {
+   'fp_cookie': false,
+   'em': '&lt;email address&gt;',
+ });
+&lt;/script&gt;
+            Cập nhật thông tin sản phẩm
+Nếu bạn đang sử dụng danh mục sản phẩm và Quảng cáo mua sắm để giới thiệu sản phẩm của mình, thì Pinterest sẽ sử dụng Thẻ để tự động cập nhật thông tin Ghim sản phẩm của bạn để khớp với thông tin trên trang web của bạn. 
+Nếu bạn muốn chọn không sử dụng tính năng cập nhật tự động này, hãy cập nhật mã cơ sở để bao gồm {‘md_frequency’: 0}.
+   window.pintrk('load', 'YOUR_TAG_ID', {'md_frequency': 0})
+            Bước tiếp theo
+Khi bạn đã thêm xong mã cơ sở, bạn có thể thêm mã sự kiện.
+  Các bài viết khác
+  Skip Các bài viết khác Links
+      Thẻ Pinterest
+                        Cài đặt mã cơ sở
+                                Cài đặt, xóa hoặc khôi phục Thẻ Pinterest
+                                Kiểm tra các sự kiện Thẻ Pinterest
+            Xem thêm
+                                Mã cơ sở
+                                Mã IMG
+                                Mã sự kiện
+                                Thêm mã sự kiện
+                                Theo dõi chuyển đổi bằng thẻ Pinterest
+                                Tiện ích mở rộng Chrome Pinterest Tag Helper
+                                Triển khai thẻ Pinterest
+                                Ví dụ về các mã cơ sở và mã sự kiện kết hợp
+                                Ví dụ về mã sự kiện
+                                Đối sánh nâng cao
+      Tích hợp thẻ Pinterest
+                        Thêm thủ công thẻ Pinterest vào Shopify
+      Theo dõi bên thứ ba
+                        Theo dõi chuyển động và bên thứ ba
+                                Theo dõi quảng cáo bộ sưu tập
+      Conversions
+                        Tải lên lượt chuyển đổi bằng LiveRamp
+                                Tải lên lượt chuyển đổi với Trình quản lý quảng cáo
+                                Tải lên lượt chuyển đổi để đo lường
+  End of Các bài viết khác Links
+            Bạn vẫn cần trợ giúp?
+                Liên hệ
+    User feedback
+              Bài viết này có hữu ích không?
+        vui
+        buồn
+        collection_fields
+        Chúng tôi có thể cải thiện bài viết này bằng cách nào?
+      Additional Response
+      Leave this field blank
+        Pinterest sử dụng cookie để mang đến cho bạn trải nghiệm tốt nhất có thể.
+        Đã hiểu!
+    Skip Footer Menu
+    Chọn ngôn ngữ
+                      English (US)
+                              Bahasa Indonesia
+                              Čeština
+                              Dansk
+                              Deutsch
+                              English (UK)
+                              Español
+                              Français
+                              Italiano
+                              Magyar
+                              Nederlands
+                              Norsk bokmål
+                              Polski
+                              Português (Brasil)
+                              Português (Europeu)
+                              Română
+                              Slovenčina
+                              Suomi
+                              Svenska
+                              Filipino
+                              Tiếng Việt
+                              Türkçe
+                              Ελληνικά
+                              Русский
+                              Ukrainian
+                              ภาษาไทย
+                              简体中文
+                              繁體中文
+                              한국어
+                              日本語
+            Giới thiệu
+                    Impressum
+                    Pinterest là gì
+                    Trang Pinterest
+                    Blog kỹ thuật
+                    Hướng dẫn thương hiệu
+                    Nghề nghiệp
+                    Trung tâm Trợ giúp
+                    Pinterest Labs
+            Chính sách của chúng tôi 
+                    Bản quyền
+                                          và
+                            thương hiệu
+                    Quảng cáo được cá nhân hóa
+                    Điều khoản Dịch vụ
+                    Quyền riêng tư
+                                          và
+                            cookies
+            Thông tin khác
+                    Dành cho doanh nghiệp
+                    Dành cho nhà phát triển
+                    Dành cho báo chí
+                    Dành cho nhà đầu tư
+                    End of Footer
+    © Pinterest 2020

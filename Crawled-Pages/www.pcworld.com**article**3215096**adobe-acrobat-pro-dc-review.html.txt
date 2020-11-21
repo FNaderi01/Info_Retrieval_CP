@@ -1,0 +1,443 @@
+						Close Ad
+							Subscribe
+		                        ▲
+		                        Learn more about PCWorld's Digital Editions
+								
+								
+								
+					Home		
+  @media only screen and (max-width: 767px) and (min-width: 320px) {
+  	  #page-top.open-nav {
+  	    position: relative;
+  	  }
+	  .pcworld #panel-nav li.dealsNav ul.dealsList .couponCodes .couponChildLinks li {
+	  	display: table;
+	  	padding: 2px 0 !important;
+	  }
+	  .pcworld #panel-nav li.dealsNav ul.dealsList li {
+	  	display: table;
+    	padding: 10px 0 0px 3px !important;
+	  }
+  }
+			News
+			Reviews
+			How-To
+			Video
+				Deals  
+						All Deals
+						Coupon Codes» 
+						Shop
+						Software Store
+				Business
+				Laptops
+				Smartphones
+				Hardware
+				Security
+				Software
+										Security
+										Games
+										Productivity Software
+										Audio
+										Business Software
+										Photography
+										Utility Software
+										Windows
+										Social Networking
+										Entertainment Software
+										Operating Systems
+										Development Tools
+										Education Software
+										Graphics and Design Software
+										Health and Fitness Software
+										Medical Software
+										Lifestyle Software
+										GPS and Navigation
+										News Software
+										Reference
+										Sports
+										Travel
+										Video
+										Web Applications
+										Weather
+										Browsers
+				Gadgets
+			Subscribe
+						Resources
+						PCs
+						Smartphones
+						Printers
+						Ultrabooks
+					Blogs
+					Sponsorships
+						Viruses
+						Cameras
+						Components
+						Computer Accessories
+						Consumer Advice
+						Digital Assistants
+						Displays
+						E-readers
+						Graphics Cards
+						Hard Drives
+						Home Theater
+						Input Devices
+						Keyboards
+						Laptop Accessories
+						Mobile
+						Networking
+						Operating Systems
+						Optical Drives
+						CPUs
+						Servers
+						Smartwatches
+						Streaming Services
+						Storage
+						Tablets
+						Windows
+								Security
+								Games
+								Productivity Software
+								Audio
+								Business Software
+								Photography
+								Utility Software
+								Windows
+								Social Networking
+								Entertainment Software
+								Operating Systems
+								Development Tools
+								Education Software
+								Graphics and Design Software
+								Health and Fitness Software
+								Medical Software
+								Lifestyle Software
+								GPS and Navigation
+								News Software
+								Reference
+								Sports
+								Travel
+								Video
+								Web Applications
+								Weather
+								Browsers
+			Home
+			Updated
+	Adobe Acrobat Pro DC review: Still the standard
+			It's still feature-packed but easier to use than ever.
+By Michael Ansaldo
+							Freelance contributor, 
+PCWorld |
+							    				Adobe
+				Today's Best Tech Deals
+				Picked by PCWorld's Editors
+			Find More Hand-Picked Tech Deals
+						Top Deals On Great Products
+						Picked by Techconnect's Editors
+					See More Hand-Picked Deals
+		At a Glance
+							Adobe Acrobat Pro DC
+										$179.88	
+									See it
+										on Adobe
+	#drr-container figure.large.video {
+		border-bottom: 0 none;
+	}
+	figure#page-lede.thm-gallery #bcplayer-gallery #bcplayer-gallery_ad > div {
+		width: 100%;
+		height: 100%;
+		transition: all 0.5s ease;
+	}
+.jwplayer.jw-state-paused .jw-display {
+	display: table !important;
+	padding: 0;
+}
+.jwplayer .jw-display-icon-container {
+    float: none;
+    padding: 0;
+    margin: 0;
+}
+.jw-flag-small-player .jw-display {
+	padding-top: 0px;
+}
+.jwplayer .jw-display-icon-container .jw-icon-rewind {
+	visibility: hidden;
+}
+.jwplayer .jw-display-icon-container .jw-icon-next {
+	visibility: hidden;
+}
+.jwplayer .jw-display-icon-container  .jw-icon-display .jw-svg-icon-play path,
+.jw-state-idle .jw-svg-icon-play path,
+.jwplayer .jw-display-icon-container  .jw-icon-display .jw-svg-icon-replay path,
+.jw-state-complete .jw-svg-icon-replay path {    
+    display: none;
+}
+.jwplayer .jw-display-icon-container  .jw-icon-display .jw-svg-icon-play,
+.jw-state-idle .jw-svg-icon-play,
+.jwplayer .jw-display-icon-container  .jw-icon-display .jw-svg-icon-replay,
+.jw-state-complete .jw-svg-icon-replay {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    background-image: url(//idge.staticworld.net/idgtv/btn-play-default.svg);
+    background-position: center center;
+    bottom: 0;
+    border-radius: 0;
+    box-shadow: none;
+    left: 0;
+    margin: auto;
+    right: 0;
+    top: 0;
+}
+.jwplayer .jw-display-icon-container .jw-icon,
+.jwplayer .jw-display-icon-container  .jw-icon-display .jw-svg-icon-play,
+.jw-state-idle .jw-svg-icon-play,
+.jwplayer .jw-display-icon-container  .jw-icon-display .jw-svg-icon-replay,
+.jw-state-complete .jw-svg-icon-replay {
+    height: 81px;
+    width: 78px;
+}
+/* new floating styles for TH IDGMPM-19038 */
+body.techhive article .thm-gallery .items .embed-wrapper .embed-container {
+    padding-bottom: 53.25%;
+}
+body.techhive #bcplayer-gallery {
+	overflow: visible !important;
+}
+@media only screen and (max-width: 929px) {
+	body.techhive .embed-container {
+    	width: 100%;
+  		height: auto;
+  		display: inline-block;
+        position: relative;
+  		border: none;
+  		overflow: hidden;
+  		z-index: 10000;
+  		margin-top: 15px;
+  		overflow: visible !important;
+	}
+  	body.techhive #bcplayer-gallery {
+      	margin-bottom: 10px;
+    }
+}
+@media only screen and (min-width: 930px) {
+	body.techhive .embed-container {
+  		bottom: 22px;
+  		width: 100%;
+  		height: auto;
+      	position: relative;
+        border: none;
+      	overflow: hidden;
+  		z-index: 100001;
+  		margin-top: 75px;
+    	padding-bottom: 8px;
+    	overflow: visible !important;
+	}
+}
+@media only screen and (min-width: 1190px) {
+	body.techhive .embed-container #bcplayer-gallery.jw-flag-floating .jw-wrapper {
+		right: calc(50% - 585px);
+	}
+}
+@media only screen and (max-width: 1189px) {
+	body.techhive .embed-container #bcplayer-gallery.jw-flag-floating .jw-wrapper {
+		right: calc(50% - 485px);
+		max-width: 300px !important;
+	}
+}
+@media only screen and (max-width: 969px) {
+	body.techhive .embed-container #bcplayer-gallery.jw-flag-floating .jw-wrapper {
+		right: calc(50% - 460px);
+		max-width: 300px !important;
+	}
+}
+@media only screen and (max-width: 930px) {
+	body.techhive .embed-container #bcplayer-gallery.jw-flag-floating .jw-wrapper {
+		right: calc(50% - 447px);
+		max-width: 300px !important;
+	}
+}
+@media only screen and (max-width: 929px) {
+	body.techhive article .thm-gallery .items .embed-wrapper .embed-container {
+	    padding-bottom: 58.25%;
+	}
+}
+body.techhive .embed-container > div {
+	margin-top: 20px;
+  	top: 0px;
+  	left: 0px;
+  	width: 100%;
+  	height: 100%;
+  	border: none;
+  	overflow: hidden;
+  	position: relative;
+  	overflow: visible !important;
+}
+body.techhive .embed-container #bcplayer-gallery .jw-wrapper:before {
+   	position: absolute;
+    top: -35px;
+    height: 35px;
+    line-height: 28px;
+    box-sizing: border-box;
+    text-transform: none;
+    padding: 4px;
+    padding-left: 8px;
+    width: 100%;
+    font-size: 20px;
+    border-top: 1px solid #a31e22;
+    border-left: 1px solid #a31e22;
+    border-right: 1px solid #a31e22;
+    background-color: #a31e22;
+    display: inline-block;
+   	background-image: url("https://alt.idgesg.net/images/logos/pcw-logo-video.svg");
+   	content: ' ';
+   	background-size: auto 20px;
+   	background-repeat: no-repeat;
+   	background-position: 8px center;
+   }
+body.techhive .embed-container > div #bcplayer-gallery .jw-logo.jw-logo-bottom-right {
+	display: none;
+}
+body.techhive #bcplayer-gallery.jwplayer.jw-flag-floating .jw-float-icon {
+    display: inline-block !important;
+    color: #ffffff;
+    top: -30px;
+    right: -15px;
+}
+body.techhive #bcplayer-gallery.jwplayer.jw-flag-floating .jw-controls {
+	overflow: visible;
+}
+				Update: This review was updated 7/23/19 to cover the tweaks and updates Adobe has made to Acrobat Pro DC. The verdict remains the same.Adobe created the PDF two decades ago and its PDF editor has continued to rule the category, despite what many users felt was its exorbitant price. But a couple of years back, Acrobat adopted a cloud subscription model that now makes it more affordable for folks without an enterprise budget.Acrobat Pro DC is composed of three components: Acrobat DC, which allows you to perform a variety of editing functions on your PDFs on desktop and mobile devices; Adobe Document Cloud, which lets you create and export PDF files, as well as store and send files and collect electronic signatures; and Acrobat Reader DC, which enables you to read, print, and sign PDFs.Acrobat’s workspace sports an easily navigable tabbed interface. The Home tab is where you land if you don’t have a PDF open. It gives you quick access to recent files; PDFs you’ve sent for review or signature; and files stored locally, in Adobe Document Cloud, or in third-party services like Box or Microsoft OneDrive. Michael Ansaldo/IDG
+Adobe Acrobat Pro DC has three views: Home, Tools, and Document.
+The Tools tab organizes Acrobat Pro DC’s wealth of tools in a single pane, organized by function: “Create &amp; Edit,” “Share &amp; Review” “Forms &amp; Signatures,” “Protect &amp; Standardize,” and “Customize.” Any of the individual tools can be added as a shortcut to a right sidebar so you can get to them with a PDF open without having to toggle back here. Selecting a tool opens the commands specific to it, or its associated toolbar if you are in an open document.Each PDF file opens in its own tab in Document view. A toolbar with some basic editing tool runs across the top of the document and navigation and task panes sit at the left and right of the document, respectively.Adobe continues to offer everything you need to work with PDFs in a business environment. You can create PDFs from a variety of file types (Microsoft Office files, images, HTML, scanned documents), send them out for comments and electronic signatures, and safeguard sensitive information with encryption, password protection, and text redaction. Michael Ansaldo/IDG
+Adobe has made it easier to share documents for signature or to fill in.
+Adobe recently streamlined its document sharing experience. The interface gives you the option of sending a PDF as an email attachment or as link to the file in Adobe Document Cloud. Filling and signing a document has also gotten easier, thanks to a new tool that asks you who needs to fill and sign first— you or others—and prompts you through completion of that task. Really, if there’s anything about Acrobat Pro DC to knock, it’s that the sheer amount of features and how they work together can be dizzying for a first-time user. Thankfully, Adobe has added a new on-boarding experience that progressively guides you through the process of making Acrobat your default PDF editor, adding your PDF files, and introducing you to capabilities like combining PDFs and organizing pages. You can access recommended tools at any time from the Home tab and for a quick walk through. And still there are additional features you’ll undoubtedly discover through use over time.Adobe Acrobat Pro DC is available for Windows and MacOS for $15 a month with an annual commitment, or about $180 a year. The paired-back Adobe Standard DC drops some advanced editing features and is available for Windows only for $13 per month with an annual commitment. Both come with a free seven-day trial.Bottom lineThough many of its comprehensive features are available in other less expensive PDF editors, Acrobat remains the industry standard and that alone is reason to consider it. Its subscription-based pricing guarantees you’ll always have the latest version of the software without the hassle of purchasing an entirely new install. That’s not insignificant as Adobe regularly updates and enhances its product. (A slightly less pricey option exists in Adobe Acrobat Standard DC, which has some of the core functionality of the Pro version but is less robust, as we point out in our comparison of the two products.) An Acrobat Pro DC subscription will also unlock a host of editing features on Adobe’s Acrobat Reader app for iOS and Android. The mobile interface closely mirrors the desktop version, though scaled-down a bit, and makes working with PDFs on the smaller screen surprisingly easy. Editor’s note: Because online services are often iterative, gaining new features and performance improvements over time, this review is subject to change in order to accurately reflect the current state of the service. Any changes to text or our final review verdict will be noted at the top of this article. 
+			Note: When you purchase something after clicking links in our articles, we may earn a small commission. Read our affiliate link policy for more details.
+		At a Glance
+							Adobe Acrobat Pro DC
+										$179.88	
+									See it
+										on Adobe
+					Acrobat Pro DC's comprehensive PDF features show why it's still the editor against which all others are judged.
+								Pros
+									Easily navigable tabbed interface
+									Comprehensive PDF edting features
+									Streamlined sharing feature makes it easier to fill documents and get signatures
+							Cons
+									Rich feature set can be overwhelming for new users
+	    Related: 
+				Software
+				Michael Ansaldo is a veteran consumer and small-business technology journalist. He contributes regularly to TechHive and writes the Max Productivity column for PCWorld.
+				Follow
+@media only screen and (min-width: 60.625em) {
+	article .apart.ad.not-lazy {
+		margin-left: 0;
+		float: right;
+	}
+}
+/* this spaces the ads in the right rail */
+@media only screen and ( min-width: 48em ) {
+	article #drr-top-ad.epo.cat-narrow #imu2 {
+		margin-top: 350px; /*originally 354px*/
+	}
+	.topDeals.topper {
+		margin-top: 350px;
+	}
+}
+@media only screen and ( min-width: 48em ) and ( max-width: 58.063em ) {
+	article #drr-top-ad.epo.cat-narrow #imu2 {
+		margin-top: 0;
+	}
+}
+@media only screen and ( min-width: 60.625em ) {
+	article #drr-top-ad.epo.cat-narrow #imu2 {
+		margin-top: 350px; /*originally 354px*/
+	}
+	.topDeals.topper {
+		margin-top: 350px;
+	}
+}
+@media only screen and ( min-width: 48em ) {
+	article #drr-top-ad.epo.cat-narrow div[id^=imu] {
+		margin-top: 350px;
+	}
+}
+@media only screen and ( min-width: 48em ) and ( max-width: 58.063em ) {
+	article #drr-top-ad.epo.cat-narrow div[id^=imu] {
+		margin-top: 0;
+	}
+}
+@media only screen and ( min-width: 60.625em ) {
+	article #drr-top-ad.epo.cat-narrow div[id^=imu] {
+		margin-top: 350px;
+	}
+}
+			Shop Tech Products at Amazon
+		Coupon Codes
+						Hotels Com Coupon
+						Extra 7% off sitewide bookings + free cancellations with Hotels.com promo code
+						Viator Coupon
+						Shop From 100s of Private Tours
+						Hotwire Promo Code
+						Las Vegas hotel sale: Extra 8% off with Hotwire promo code
+						Priceline Coupon
+						Get a 10% Priceline coupon when you book today
+						Expedia Coupon
+						Top Expedia promo code: Extra 20% off Florida hotels + free cancellations
+						Booking.com Promo Code
+						Sign up to email and get a 50% Booking.com coupon
+						');
+						IDG.GPT.defineGoogleTagSlot(slotName, slotSize, false, true);
+						document.write('');
+						$('#' + slotName).responsiveAd({screenSize:'971 1115', scriptTags: []}, true);
+						//-->
+    		PCWorld
+    		PCWorld helps you navigate the PC ecosystem to find the products you want and the advice you need to get the job done.
+    			About Us
+				Contact Us
+				Digital Magazine
+				Gift Subscription
+				Ad Choices
+				Member Preferences
+				Cookie Policy
+				Newsletters
+				Terms of Service Agreement
+				RSS
+				Privacy Policy
+				Shop
+				E-commerce Affiliate Relationships
+				California: Do Not Sell My Personal Info
+    		PCWorld Categories
+    			Business
+				Laptops
+				Mobile
+				PC Hardware
+				Deals
+				Printers
+				Security
+				Software
+				Videos
+				Windows
+			IDG Network Sites
+				Advertise
+				Permissions
+				Macworld
+				Tech Advisor
+				TechHive
+				IDG TechNetwork
+				IDG
+				IDG Blog
+				Careers at IDG
+	    			Get PCWorld's Digital Editions
+	    			Subscribe Now
+    			Follow us 
+						
+						
+							
+    		 Visit other IDG sites:
+		                Select One
+		Greenbot
+		Macworld
+		PCWorld
+		TechConnect
+		TechHive
+				Copyright © 2020 IDG Communications, Inc.		    

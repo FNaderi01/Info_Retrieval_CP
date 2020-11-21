@@ -1,0 +1,753 @@
+Candy Frizz Stars kawaii fashion
+@font-face {font-family: "tinytots";src: url('https://dl.dropboxusercontent.com/u/54526653/tinytots.TTF');}
+/* MAIN BACKGROUND */
+body {
+    background: #d1beb5;
+    background-image: url('https://static.tumblr.com/80e03fb99e5b1373fd19e7bbc43b74af/1xjieua/QXCnp60ek/tumblr_static_9n1b9yomwzk04w4ko8cogs8ws.jpg');
+    background-attachment: fixed;
+    margin: 0px;
+}
+::-webkit-scrollbar-thumb:vertical {
+    background-color: #dfb499;
+    height: auto;
+}
+::-webkit-scrollbar-thumb:horizontal {
+    background-color: #dfb499;
+    height: auto;
+}
+::-webkit-scrollbar {
+    height: 5px;
+    width: 5px;
+    background-color: #ffffff;
+}
+#top {
+    z-index: 2;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 550px;
+    background-image: url('https://static.tumblr.com/ab6fae6efe0134f8829013acaf10a99e/1xjieua/UR6np60ej/tumblr_static_f0067x4fxzsc4koc00cgcwwg8.png');
+}
+#middle {
+    z-index: 3;
+    position: fixed;
+    width: 100%;
+    height: 24px;
+    left: 0px;
+    top: 550px;
+    border-top: 15px solid #ffffff;
+    background-image: url('https://static.tumblr.com/aff9f2e4c3ac4da3a02887d1cd4e0bf2/1xjieua/oPDnp8g45/tumblr_static_b4ji459egxkw0g00koo0k4gkk.png');
+}
+::selection {
+    background: #e2a5a5;
+    color: #ffffff;
+}
+::-moz-selection {
+    background: #e2a5a5;
+    color: #ffffff;
+}
+p::selection {
+    background: #e2a5a5;
+    color: #ffffff;
+}
+p::-moz-selection {
+    background: #e2a5a5;
+    color: #ffffff;
+}
+#container {
+    margin: auto;
+    max-width: 850px;
+}
+/* SIDEBAR */
+#sidebar {
+    z-index: 2;
+    width: 250px;
+    height: 550px;
+    top: 0px;
+    position: fixed;
+    background-image: url('https://static.tumblr.com/2396ca16369cb8fc8452da71772cea74/1xjieua/kFlnp60ek/tumblr_static_1ho60xm7fl9cco0kw8g4kkg8g.jpg');
+    background-color: #ffffff;
+    box-shadow: 0px 0px 20px 5px #efd9ca;
+}
+#sidebartop {
+    position: fixed;
+    height: 21px;
+    width: 250px;
+    top: 0px;
+    background-image: url('https://static.tumblr.com/568ee1eb5629cbd83f0778328a22955c/1xjieua/3ERnp60ek/tumblr_static_b08pbfrejugwo0c0g48k48kck.png');
+}
+#sidebarimage {
+    position: fixed;
+    margin-top: 50px;
+    margin-left: 23px;
+}
+#sidebarimage img {
+    max-width: 200px;
+    box-shadow: 0px 0px 0px 10px #f0e9e0;
+    border: 2px dashed #eabdbd;
+}
+/* NAVIGATION */
+#macaronlinks {
+    position: fixed;
+    margin-top: 260px;
+    margin-left: 15px;
+}
+#macaronlink1a {
+    position: fixed;
+    width: 40px;
+    height: 13px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    background-color: #edc3c3;
+    border-bottom: 2px dotted #e5a4a6;
+}
+#macaronlink1b {
+    z-index: 999;
+    position: fixed;
+    margin-top: 15px;
+    margin-left: -1px;
+    width: 42px;
+    height: 9px;
+    padding-top: 1px;
+    border-radius: 4px;
+    font-family: tinytots;
+    font-size: 8px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: #e7d6e0;
+}
+#macaronlink1b a {
+    text-decoration: none;
+    color: #9f7676;
+    text-shadow: 1px 1px 1px #ffffff;
+}
+#macaronlink1c {
+    position: fixed;
+    width: 40px;
+    height: 13px;
+    margin-top: 25px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    background-color: #edc3c3;
+    border-top: 2px dotted #e5a4a6;
+}
+#macaronlink2a {
+    position: fixed;
+    width: 40px;
+    height: 13px;
+    margin-left: 60px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    background-color: #dbe5bb;
+    border-bottom: 2px dotted #b6c1b6;
+}
+#macaronlink2b {
+    z-index: 999;
+    position: fixed;
+    margin-top: 15px;
+    margin-left: 59px;
+    width: 42px;
+    height: 9px;
+    padding-top: 1px;
+    border-radius: 4px;
+    font-family: tinytots;
+    font-size: 8px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: #edeaba;
+}
+#macaronlink2b a {
+    text-decoration: none;
+    color: #879a85;
+    text-shadow: 1px 1px 1px #ffffff;
+}
+#macaronlink2c {
+    position: fixed;
+    width: 40px;
+    height: 13px;
+    margin-top: 25px;
+    margin-left: 60px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    background-color: #dbe5bb;
+    border-top: 2px dotted #b6c1b6;
+}
+#macaronlink3a {
+    position: fixed;
+    width: 40px;
+    height: 13px;
+    margin-left: 120px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    background-color: #f0dcc2;
+    border-bottom: 2px dotted #ccaf91;
+}
+#macaronlink3b {
+    z-index: 999;
+    position: fixed;
+    margin-top: 15px;
+    margin-left: 119px;
+    width: 42px;
+    height: 9px;
+    padding-top: 1px;
+    border-radius: 4px;
+    font-family: tinytots;
+    font-size: 8px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: #f3cccc;
+}
+#macaronlink3b a {
+    text-decoration: none;
+    color: #9f8863;
+    text-shadow: 1px 1px 1px #ffffff;
+}
+#macaronlink3c {
+    position: fixed;
+    width: 40px;
+    height: 13px;
+    margin-top: 25px;
+    margin-left: 120px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    background-color: #f0dcc2;
+    border-top: 2px dotted #ccaf91;
+}
+#macaronlink4a {
+    position: fixed;
+    width: 40px;
+    height: 13px;
+    margin-left: 180px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    background-color: #cee2d9;
+    border-bottom: 2px dotted #9fc9c7;
+}
+#macaronlink4b {
+    z-index: 999;
+    position: fixed;
+    margin-top: 15px;
+    margin-left: 179px;
+    width: 42px;
+    height: 9px;
+    padding-top: 1px;
+    font-family: tinytots;
+    font-size: 8px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    border-radius: 4px;
+    background-color: #e2d3c6;
+}
+#macaronlink4b a {
+    text-decoration: none;
+    color: #6f9f8b;
+    text-shadow: 1px 1px 1px #ffffff;
+}
+#macaronlink4c {
+    position: fixed;
+    width: 40px;
+    height: 13px;
+    margin-top: 25px;
+    margin-left: 180px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    background-color: #cee2d9;
+    border-top: 2px dotted #9fc9c7;
+}
+#navigation {
+    position: fixed;
+    width: 250px;
+    text-align: center;
+    margin-top: 250px;
+}
+#navigation a {
+    width: 45px;
+    display: inline-block;
+    text-decoration: none;
+    font-family: tinytots;
+    text-transform: uppercase;
+    font-size: 8px;
+    color: #be8181;
+    background-color: #f5e4e4;
+    letter-spacing: 1px;
+    padding: 2px;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+#navigation a:hover {
+    color: #9aad86;
+    background-color: #e1edc9;
+}
+#sidebartext {
+    position: fixed;
+    margin-top: 310px;
+    text-align: center;
+}
+#title {
+    width: 250px;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    font-size: 16px;
+    letter-spacing: 2px;
+    color: #92876f;
+}
+#desc {
+    margin-top: 10px;
+    margin-left: 22px;
+    padding: 12px;
+    width: 180px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: justify;
+    font-size: 11px;
+    max-height: 120px;
+    overflow: auto;
+    line-height: 15px;
+    background-color: #ffffff;
+    border: 1px dashed #eabdbd;
+    border-radius: 10px;
+    color: #948383;
+}
+#desc a {
+    color: #ea9f9f;
+    text-decoration: none;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+#desc a:hover {
+    color: #ce7777;
+}
+#desc b, strong {
+    font-weight: 700;
+    color: #c3ac99;
+}
+#desc i, em {
+    font-weight: 400italic;
+    color: #afb6a8;
+}
+/* CUSTOM LINKS */
+select {
+    border: 0;
+    color: #b09a87;
+    background-color: #eeeadb;
+    font-size: 8px;
+    font-family: tinytots;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    width: 220px;
+    padding: 5px 20px 5px 20px;
+    box-shadow: 0px 0px 0px 4px #eeeadb;
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+    text-shadow: 1px 1px 1px #ffffff;
+    -webkit-appearance: none;
+    margin-top: 15px;
+}
+/* ENTRIES */ 
+#entriestop {
+    z-index: 7;
+    position: fixed;
+    top: 0px;
+    margin-left: 275px;
+    width: 590px;
+    height: 40px;
+    background-color: #e2d6cb;
+    background-image: url('https://static.tumblr.com/24eb9691a6dc692ec89dc1183d405c3a/1xjieua/TM3np60ek/tumblr_static_b4rzus3jllw08cgcsoskgcskw.png');
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-left: 1px solid #ffffff;
+    border-right: 1px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
+    box-shadow: 0px 0px 0px 5px #e2d6cb;
+}
+#entriesbg {
+    z-index: 4;
+    position: fixed;
+    width: 540px;
+    height: 100%;
+    margin-left: 300px;
+    background-color: #f5eee3;
+    top: 0px;
+    background-image: url('https://assets.tumblr.com/images/x.gif?v=1');
+    box-shadow: 0px 0px 15px 5px #efd9ca;
+}
+.entry {
+    z-index: 5;
+    position: relative;
+    top: 55px;
+    left: 310px;
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 500px;
+    background-color: #ffffff;
+    color: #818181;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 11px;
+    line-height: 20px;
+    font-weight: 400;
+    text-align: justify;
+    word-wrap: break-word;
+}
+.entry img {
+    max-width: 100%;
+}
+.entry a {
+    text-decoration: none;
+    color: #e5afaf;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+.entry a:hover {
+    color: #d48992;
+}
+.entry b, strong {
+    font-weight: 700;
+    color: #d4b499;
+}
+.entry i, em {
+    font-weight: 400italic;
+    color: #a2b08b;
+}
+#entrytitle {
+    font-family: 'Roboto Slab', serif;
+    letter-spacing: 2px;
+    font-size: 16px;
+    color: #d1b69c;
+    text-transform: lowercase;
+    border-bottom: 1px dashed #f5caca;
+    padding: 5px 0px 5px 0px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+blockquote {
+    padding-left: 8px;
+    border-left: 10px solid #eddada;
+    color: #978888;
+}
+/* PERMALINK */
+#permalink {
+    text-align: center;
+    margin-top: 10px;
+    margin-left: -10px;
+    width: 500px;
+    padding: 10px;
+    background-color: #ffffff;
+    background-image: url('https://static.tumblr.com/1705244db27982795cd45d7d20efcb4a/1xjieua/fetnp60h3/tumblr_static_b2q5ndpr29s0ccws4gsgw0gg4.png');
+    font-family: 'Open Sans', sans-serif;
+    font-size: 8px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #9a9a9a;
+    line-height: 15px;
+}
+#permalink a {
+    text-decoration: none;
+    color: #be9595;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+#permalink a:hover {
+    color: #f09898;
+}
+span.date {
+    background-color: #fbdfdf;
+    padding: 2px 2px 2px 3px;
+}
+span.notes {
+    background-color: #e3eacb;
+    padding: 2px 2px 2px 3px;
+}
+#likereblog {
+    opacity: 0;
+    width: 15px;
+    position: absolute;
+    right: -36px;
+    top: 0px;
+    background-color: #ffffff;
+    border-left: 1px dashed #f3dbcb;
+    padding: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+.entry:hover #likereblog {
+    opacity: 1;
+}
+ol.notes {
+    margin-top: 10px;
+    margin-left: -15px;
+    padding-bottom: 5px;
+    text-align: left;
+    list-style-type: none;
+    overflow: auto;
+    max-height: 300px;
+    line-height: 20px;
+}
+ol.notes img {
+    margin-right: 5px;
+    border-radius: 10px;
+}
+/* PHOTO HOVER */
+.photo {
+    opacity: .7;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+.photo:hover {
+    opacity: 1;
+}
+.entry img {
+    opacity: .7;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+.entry img:hover {
+    opacity: 1;
+}
+/* QUOTE */
+#quote {
+    font-family: 'Roboto Slab', serif;
+    font-size: 16px;
+    letter-spacing: 1px;
+    padding: 10px 12px 10px 12px;
+    color: #b8aa9b;
+}
+/* AUDIO */
+#audio img {
+    width: 80px;
+    float: left;
+    padding: 5px;
+    background-color: #ffffff;
+    border: 1px dashed #d4c5b4;
+    margin: 0px 10px 5px 0px;
+}
+#audioplayer {
+    z-index: 9999;
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    overflow: hidden;
+    margin: 32px 0px 0px 32px;
+    opacity: 0.6;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+#audioplayer:hover {
+    opacity: 1;
+}
+/* CHAT */
+#label {
+    background-color: #f0e8de;
+    color: #a89191;
+    padding: 0px 2px 0px 4px;
+    font-family: tinytots;
+    letter-spacing: 1px;
+    font-size: 8px;
+    text-transform: uppercase;
+}
+/* ASK */
+#portrait img {
+    float: left;
+    border-radius: 20px;
+}
+#ask {
+    background-color: #ffffff;
+    background-image: url('');
+    border: 1px dashed #eadbdb;
+    margin-left: 48px;
+    padding: 8px;
+    color: #a87b7b;
+}
+span.ask {
+    padding: 5px;
+    margin: 3px;
+    font-family: tinytots;
+    font-size: 8px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    background-color: #ebf3e7;
+    color: #899772;
+}
+#ask a {
+    color: #899772;
+}
+/*PAGINATION*/
+#pagination {
+    z-index: 9999;
+    position: absolute;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 8px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 2px;
+    margin-top: 55px;
+    margin-bottom: 10px;
+    margin-left: 308px;
+}
+#pagination a {
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 8px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 2px;
+    width: 12px;
+    margin: 2px;
+    margin-bottom: 10px;
+    background-color: #ffdde0;
+    text-align: center;
+    color: #cc9797;
+}
+span.pagination1 {
+    color: #b98f8f;
+    background-color: #ffffff;
+    padding: 3px 4px 3px 4px;
+}
+span.pagination2 {
+    color: #b98f8f;
+    background-color: #ffffff;
+    padding: 2px 0px 2px 0px;
+}
+/* MUSIC PLAYER */
+#music {
+    z-index: 999;
+    position: fixed;
+    margin-top: 33px;
+    margin-left: -29px;
+    width: 15px;
+    height: 15px;
+    padding: 4px 5px 11px 8px;
+    background-color: #ffffff;
+    border-top: 1px dashed #b6a7a7;
+    border-left: 1px dashed #b6a7a7;
+    border-bottom: 1px dashed #b6a7a7;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+#musicimg {
+    position: fixed;
+    margin-top: 2px;
+    opacity: 1;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+#music:hover #musicimg {
+    opacity: 0;
+}
+#player {
+    position: fixed;
+    opacity: 0;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    width: 18px;
+    overflow: hidden;
+}
+#player:hover {
+    opacity: 1;
+}
+/* TUMBLR STUFF */
+iframe#tumblr_controls {
+    right: 3px !important;
+    position: fixed !important;
+    opacity: 0.2;
+    white-space: nowrap;
+    -webkit-filter: invert(100%);
+    -moz-filter: invert(100%);
+    -o-filter: invert(100%);
+    -ms-filter: invert(100%);
+    filter: invert(100%);
+    -webkit-transition: opacity 0.7s linear;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+iframe#tumblr_controls:hover {
+    opacity: 0.7;
+}
+/* BACK TO TOP */
+.top {
+    font-size: 8px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.top a {
+    color: #c6ada7;
+    text-decoration: none;
+}
+#scrollToTop:link, #scrollToTop:visited {
+    z-index: 9999;
+    display: none;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    width: 40px;
+    padding: 3px;
+    background-color: #ffffff;
+}
+#credit {
+    position: fixed;
+    bottom: 8px;
+    left: 8px;
+    font-size: 10px;
+}
+#credit a {
+    text-decoration: none;
+    color: #fff;
+    text-shadow: 1px 1px 1px #aaa;
+}
+home
+ask
+archive
+theme
+Candy Frizz Stars Kawaii Shop
+https://candyfrizzstars.storenvy.com/ PayPal as shop payment is BACK! Japanese fashion, kawaii and casual cute fashion items updating with new items every week. If you want to sponsorship/affiliate my shop please contact me at candyfrizzstars@gmail.com or send me a PM here! ♡
+Check the sponsorship/affiliation page in my blog for tumblr reviews.
+Shop &amp; more →
+Shop tagged posts
+My pics
+Sponsorship/affiliate posts
+(Source: prettycooldontyouthink)
+9:36am Sat 10th Oct 2020 ❖ 2,410 notes
+via・angelcats   source・prettycooldontyouthink
+candyfrizzstars reblogged this from angelcats                                                                                                                                                                                    candyfrizzstars liked this                                    adorohedorable reblogged this from prettycooldontyouthink                                                                                                                                                                                    honestly-dontknow liked this                                    caplanbuckybarnes reblogged this from rhainbowed                                                                                                                                                                                    ewcelery liked this                                    monsert reblogged this from ssreyes                                                                                                                                                                                    monsert liked this                                    kassieeissak reblogged this from rhainbowed                                                                                                                                                                                    kassieeissak liked this                                    rhainbowed reblogged this from colovria                                                                                                                                                                                    x-rainbow-tani-x reblogged this from princessapril666                                                                                                                                                                                    princessapril666 reblogged this from itsbabyluke                                                                                                                                                                                    ssreyes reblogged this from kindergore                                                                                                                                                                                    ssreyes liked this                                    itsbabyluke reblogged this from oldwebrelics                                                                                                                                                                                    99-mn reblogged this from rhainbowed                                                                                                                                                                                    99-mn liked this                                    nightnightlights reblogged this from rhainbowed                                                                                                                                                                                    attkme liked this                                    flower1k reblogged this from ruinedpng                                                                                                                                                                                    sailorkenai liked this                                    dayydayy reblogged this from honeybakedbabe                                                                                                                                                                                    dayydayy liked this                                    despairbitxhes liked this                                    honeybakedbabe reblogged this from b66ddy                                                                                                                                                                                    marirsrs reblogged this from donthugmeimscared                                                                                                                                                                                    cutiemushi reblogged this from creepur                                                                                                                                                                                    prettybitchmachine liked this                                    michaelspiral liked this                                    rosiequartz liked this                                    sugardaisies liked this                                    b66ddy reblogged this from creepur                                                                                                                                                                                    b66ddy liked this                                    isahpan reblogged this from kindergore                                                                                                                                                                                    isahpan liked this                                    scarykings liked this                                    yumenokyuden reblogged this from iheartgunk                                                                                                                                                                                    angelzlair reblogged this from ruinedpng                                                                                                                                                                                    angelzlair liked this                                    defphetamines liked this                                    awsia liked this                                    iheartgunk reblogged this from ruinedpng                                                                                                                                                                                    b4byc4t liked this                                    sunbed reblogged this from ruinedpng                                                                                                                                                                                    prettycooldontyouthink posted this                                                                        ')[1].split('')[0];
+if(window.tumblrNotesLoaded)if(tumblrNotesLoaded(notes_html)==false)return;var more_notes_link=document.getElementById('more_notes_631573471495946240');var notes=more_notes_link.parentNode;notes.removeChild(more_notes_link);notes.innerHTML+=notes_html;if(window.tumblrNotesInserted)tumblrNotesInserted(notes_html);}};tumblrReq.open('GET','/notes/631573471495946240/rWCaxMUs3?from_c=1600816528',true);tumblrReq.send();return false;">Show more notesLoading...
+☂

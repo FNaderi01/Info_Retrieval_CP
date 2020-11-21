@@ -1,0 +1,260 @@
+      Skip to content
+                Sign up
+                    Why GitHub?
+                    Features →
+                      Code review
+                      Project management
+                      Integrations
+                      Actions
+                      Packages
+                      Security
+                      Team management
+                      Hosting
+                      Mobile
+                      Customer stories →
+                      Security →
+                Team
+                Enterprise
+                    Explore
+                      Explore GitHub →
+                    Learn &amp; contribute
+                      Topics
+                        Collections
+                      Trending
+                      Learning Lab
+                      Open source guides
+                    Connect with others
+                      Events
+                      Community forum
+                      GitHub Education
+                      GitHub Stars program
+                Marketplace
+                    Pricing
+                    Plans →
+                      Compare plans
+                      Contact Sales
+                      Nonprofit →
+                      Education →
+     -->
+        In this repository
+        All GitHub
+      ↵
+      Jump to
+      ↵
+    No suggested jump to results
+        In this repository
+        All GitHub
+      ↵
+      Jump to
+      ↵
+        In this repository
+        All GitHub
+      ↵
+      Jump to
+      ↵
+          Sign in
+              Sign up
+      {{ message }}
+      newren
+    /
+    tslint
+    forked from palantir/tslint
+    Watch
+      1
+      Star
+      0
+          Fork
+        933
+🚦 An extensible linter for the TypeScript language
+          palantir.github.io/tslint/
+            Apache-2.0 License
+        0
+        stars
+        933
+        forks
+      Star
+    Watch
+            Code
+            Pull requests
+              0
+            Actions
+            Projects
+              0
+            Security
+            Insights
+            More
+                    Code
+                    Pull requests
+                    Actions
+                    Projects
+                    Security
+                    Insights
+          Dismiss
+        Join GitHub today
+        GitHub is home to over 50 million developers working together to host and review code, manage projects, and build software together.
+        Sign up
+      master
+      1
+      branch
+      127
+      tags
+    Go to file
+      Code
+  Clone
+       -->
+            HTTPS
+            GitHub CLI
+        Use Git or checkout with SVN using the web URL.
+      Work fast with our official CLI.
+      Learn more.
+                Open with GitHub Desktop
+                Download ZIP
+          Launching GitHub Desktop
+          If nothing happens, download GitHub Desktop and try again.
+          Go back
+          Launching GitHub Desktop
+          If nothing happens, download GitHub Desktop and try again.
+          Go back
+          Launching Xcode
+          If nothing happens, download Xcode and try again.
+          Go back
+          Launching Visual Studio
+          If nothing happens, download the GitHub extension for Visual Studio and try again.
+          Go back
+        This branch is 1 commit ahead, 351 commits behind palantir:master.
+          Pull request
+        Compare
+    Latest commit
+        Git stats
+                    2,544
+                  commits
+  Files
+      Permalink
+    Failed to load latest commit information.
+        Type
+        Name
+        Latest commit message
+        Commit time
+            .circleci
+            .github
+            .vscode
+            bin
+            docs
+            scripts
+            src
+            test
+            .editorconfig
+            .gitattributes
+            .gitignore
+            .npmignore
+            .nycrc
+            CHANGELOG.md
+            LICENSE
+            README.md
+            appveyor.yml
+            package.json
+            tslint.json
+            yarn.lock
+        View code
+        README.md
+TSLint
+TSLint is an extensible static analysis tool that checks TypeScript code for readability, maintainability, and functionality errors. It is widely supported across modern editors &amp; build systems and can be customized with your own lint rules, configurations, and formatters.
+TSLint supports:
+an extensive set of core rules
+custom lint rules
+custom formatters (failure reporters)
+inline disabling and enabling of rules with comment flags in source code
+configuration presets (tslint:latest, tslint-react, etc.) and plugin composition
+automatic fixing of formatting &amp; style violations
+integration with MSBuild, Grunt, Gulp, Atom, Eclipse, Emacs, Sublime, Vim, Visual Studio 2015, Visual Studio 2017, Visual Studio code, WebStorm and more
+Installation &amp; Usage
+Please refer to the full installation &amp; usage documentation on the TSLint website. There, you'll find information about
+configuration,
+core rules,
+core formatters, and
+customization of TSLint.
+inline disabling and enabling of rules with comment flags
+Custom Rules &amp; Plugins
+Custom rule sets from Palantir
+tslint-react - Lint rules related to React &amp; JSX.
+tslint-blueprint - Lint rules to enforce best practices with blueprintjs libraries
+Custom rule sets from the community
+If we don't have all the rules you're looking for, you can either write your own custom rules or use rules implementations developed by the community. The repos below are a good source of custom rules:
+ESLint rules for TSLint - Improve your TSLint with the missing ESLint Rules
+tslint-microsoft-contrib - A set of TSLint rules used on some Microsoft projects
+codelyzer - A set of tslint rules for static code analysis of Angular TypeScript projects
+vrsource-tslint-rules
+tslint-immutable - TSLint rules to disable mutation in TypeScript
+tslint-consistent-codestyle - TSLint rules to enforce consistent code style in TypeScript
+tslint-sonarts - Bug-finding rules based on advanced code models to spot hard to find errors in TypeScript
+tslint-clean-code - A set of TSLint rules inspired by the Clean Code handbook
+rxjs-tslint-rules - TSLint rules for RxJS
+Development
+Prerequisites:
+node v7+
+yarn v1.0+
+Quick Start
+git clone git@github.com:palantir/tslint.git --config core.autocrlf=input --config core.eol=lf
+yarn
+yarn compile
+yarn test
+Creating a new release
+Bump the version number in package.json and src/linter.ts
+Add release notes in CHANGELOG.md
+Use ./scripts/generate-changelog.js (after building it with tsc -p scripts) to generate the changelog diff. This script expects a Github.com personal access token to exist at ~/github_token.txt with "repo" permissions.
+Commit with message Prepare release &lt;version&gt;
+Push your branch to GitHub and make a PR
+Once your PR is merged, wait for the tests to pass on CircleCI for develop
+Create a "Release" on GitHub with the proper tag version and notes from the changelog.
+The tag should be identical to the version in package.json
+Run yarn run publish:local
+            About
+🚦 An extensible linter for the TypeScript language
+        palantir.github.io/tslint/
+  Resources
+      Readme
+  License
+        Apache-2.0 License
+    Releases
+      127
+      tags
+    Packages 0
+        No packages published 
+              Languages
+        TypeScript
+        99.6%
+        Other
+        0.4%
+        © 2020 GitHub, Inc.
+          Terms
+          Privacy
+  Cookie Preferences
+          Security
+          Status
+          Help
+          Contact GitHub
+          Pricing
+        API
+        Training
+          Blog
+          About
+    You can’t perform that action at this time.
+    You signed in with another tab or window. Reload to refresh your session.
+    You signed out in another tab or window. Reload to refresh your session.
+  We use optional third-party analytics cookies to understand how you use GitHub.com so we can build better products.
+              Learn more.
+              Accept
+              Reject
+  We use optional third-party analytics cookies to understand how you use GitHub.com so we can build better products.
+              You can always update your selection by clicking Cookie Preferences at the bottom of the page.
+              For more information, see our Privacy Statement.
+              Essential cookies
+              We use essential cookies to perform essential website functions, e.g. they're used to log you in. 
+                Learn more
+              Always active
+              Analytics cookies
+              We use analytics cookies to understand how you use our websites so we can make them better, e.g. they're used to gather information about the pages you visit and how many clicks you need to accomplish a task. 
+                Learn more
+                Accept
+                Reject
+            Save preferences

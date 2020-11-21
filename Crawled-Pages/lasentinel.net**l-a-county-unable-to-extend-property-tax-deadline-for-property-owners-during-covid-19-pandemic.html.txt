@@ -1,0 +1,231 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+L.A. County unable to extend property tax deadline for property owners during COVID-19 pandemic            
+	                	                Published March 30, 2020
+		Monday, March 30, Los Angeles city officials publicized latest updates surrounding the COVID-19 pandemic. The county has partnered with local cities to secure additional hotels and motels to be used for multiple functions at this time. The Los Angeles tax collector and treasurer disclosed more information about payment arrangements for property tax, as we approach the deadline on April 10. The Emergency Operations center remains to be the focal resource for information during this time of crisis.
+Keith Knox, Director, Treasurer and Tax Collector (Screenshot)
+Keith Knox, L.A. Treasurer and tax collector addressed the calls and emails regarding the property tax deadline happening on April 10. There is a general inquiry if that deadline will be extended in light of the COVID-19 Virus. Knox disclosed that the deadline is set by state law and the L.A. treasury office does not have the authority to have the due date extended. Keith Knox recalled a long history of working with the board of supervisors; they have been flexible in the time of hardship and crisis. The L.A. Tax collector shared that property owners that are being affected by COVID-19 will have the option to have late penalties waived. Although that may be available, Keith Knox expressed, “This is a critical source of revenue, that keeps the government running..”  It directly affects the emergency response, public health and hospitals, and our school system. Those who can pay, are encouraged to pay the property tax by April 10. Those that need the assistance can apply online for the late penalties to be waived beginning April 11. The day after the property deadline.
+Over the last 48 hours, there has been 686 reports.  These numbers are reflective of 99 cases in Long Beach and 10 reports coming from Pasadena. 492 positive cases, which is approximately 22% of those infected with COVID-19 are hospitalized at some point. Data is reflecting 1.8% of carriers of the Corona Virus have died, which is higher than the general mortality rate for influenza related deaths in the United States. The Public Health director stated, “These are extraordinary times, I want everyone to note that we need to be prepared for this to go on, for a while to come.”  
+Kevin McGowan, Director, Office of Emergency Management (Screenshot)
+The officer of Emergency management, Kevin McGowan expressed the county’s goal is to provide an additional 2,000 medical sheltering beds to patients infected with SARS-CoV-2. The L.A. County has been partnering with hotel and motel owners, along with recreational vehicle organizations to bring more assets that can be available for the county assistance. As a result with these merges, 900 additional beds have become vacant through out the Los Angeles region.
+The public of health services presented an overview of the availability in hospital beds and projected hospital surge capacity. The county has approximately 82 acute care hospitals, with 22,000 beds available. Personal protective equipment is being distributed from state and national stock piles on a weekly basis. All public and private hospitals are preparing their surge operations. The arrival of the U.S. Naval ship, “The Mercy” docked on Friday. This ship made 1,000 additional beds available for acute medical services, with 80 of those beds suitable for intensive care. This past weekend The Mercy started to accept patients. It’s available for those checked into the hospital, but are not infected with the COVID-19 virus. This ship is a vital part of the surge plan, it’s geared to offload hospitals of non-corona virus patients from the general medical locations.
+Barbara Ferrer, PhD, MPH, MEd, Director, Public Health (Screenshot)
+Barbara Ferrer, Director of Public Health shared the latest updates on the COVID-19 Virus. As of Sunday, March 29. Over 15,500 people have been tested for COVID-19, and 12% tested positive for the virus. Ferrer shared on Monday that there were 7 additional deaths, these individuals were between the age of 45-65 with pre-existing health conditions. Six of these fatal cases, were from a nursing home. This brings the total COVID-19 related deaths in the L.A. County to 44. Barbara disclosed that as of March 30. There are 342 new COVID-19 reports, in summary there is a total amount of 2,474 cases in the Los Angeles region.
+        ADVERTISEMENT        
+		Categories: Business | COVID-19 | Health | Local | News (Business) Tags: Barbara Ferrer | Coronavirus | Coronavirus pandemic | Coronavirus update | Coronavirus/COVID-19 | COVID-19 | COVID-19 Update | Director of Public health | Keith Knox | Kevin McGowan | L.A. Treasurer and tax collector | LA County | The officer of Emergency management		
+						10 L.A. First Responders contracted the COVID-19 virus, most recovered and ...
+						Census Day Is Here in Southern California  – Make It Count!
+						L.A. COUNTY RECOGNIZES NATIONAL CENSUS DAY
+						L.A. Officials Apply Pressure to Participate in 2020 Census, Due to Heavy U...
+						Councilmember Harris-Dawson Launches Meal Program to Support South L.A Seni...
+						The Quiet Heroism of Communities Pulling Together
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->

@@ -1,0 +1,406 @@
+	Broadcast relay station
+		From Wikipedia, the free encyclopedia
+		Jump to navigation
+		Jump to search
+		Broadcast transmitter which repeats the signal of a radio or television station to an area not covered by the originating station
+"Relay transmitter" redirects here. For other uses, see Relay (disambiguation) and Repeater (disambiguation).
+  NHK digital television  transmitter in Iwakuni
+A broadcast relay station, also known as a satellite station, relay transmitter, broadcast translator (U.S.), re-broadcaster (Canada), repeater (two-way radio) or complementary station (Mexico), is a broadcast transmitter which repeats (or transponds) the signal of a radio or television station to an area not covered by the originating station. It expands the broadcast range of a television or radio station beyond the primary signal's original coverage or improves service in the original coverage area. The stations may be (but are not usually) used to create a single-frequency network. They may also be used by an FM or AM radio station to establish a presence on the other band.
+Relay stations are most commonly established and operated by the same organisations responsible for the originating stations they repeat. However, depending on technical and regulatory restrictions, relays may also be set up by unrelated organisations – such as community groups in areas that would otherwise not be served.
+.mw-parser-output .tocleft{float:left;clear:left;width:auto;background:none;padding:.5em .8em 1.4em 0;margin-bottom:.5em}.mw-parser-output .tocleft-clear-left{clear:left}.mw-parser-output .tocleft-clear-both{clear:both}.mw-parser-output .tocleft-clear-none{clear:none}.mw-parser-output .toclimit-2 .toclevel-1 ul,.mw-parser-output .toclimit-3 .toclevel-2 ul,.mw-parser-output .toclimit-4 .toclevel-3 ul,.mw-parser-output .toclimit-5 .toclevel-4 ul,.mw-parser-output .toclimit-6 .toclevel-5 ul,.mw-parser-output .toclimit-7 .toclevel-6 ul{display:none}Contents
+1 Types
+1.1 Broadcast translators
+1.2 Boosters and distributed transmission
+1.3 Satellite stations
+1.4 Semi-satellites
+1.5 National networks
+2 Relay transmitters by country
+2.1 Canada
+2.1.1 Television
+2.1.2 Radio
+2.2 Mexico
+2.2.1 Television
+2.2.2 Radio
+2.3 United States
+2.3.1 Radio
+2.3.2 Television
+2.3.2.1 Digital transition
+2.3.3 Controversy
+2.3.3.1 2003 translator boom
+2.3.3.2 Satellite translator networks
+2.4 Australia
+2.4.1 Radio
+2.4.2 Television
+2.5 Europe
+2.6 Asia
+3 See also
+4 References
+5 External links
+Types[edit]
+Broadcast translators[edit]
+In its simplest form, a broadcast translator is a facility created to receive a terrestrial broadcast over the air on one frequency and rebroadcast the same (or substantially identical) signal on another frequency. These stations are used in television and radio to cover areas (such as valleys or rural villages) which are not adequately covered by a station's main signal. They can also be used to expand market coverage by duplicating programming on another band.
+Boosters and distributed transmission[edit]
+Relays which broadcast within (or near) the parent station's coverage area on the same channel (or frequency) are known in the U.S. as booster stations. Signals from the stations may interfere with each other without careful antenna design. Radio interference can be avoided by using atomic time, obtained from GPS satellites, to synchronize co-channel stations in a single-frequency network.
+Analog television stations cannot have same-channel boosters unless opposite (perpendicular) polarization is used, due to video synchronization issues such as ghosting. In the U.S., no new on-channel UHF signal boosters have been authorized since July 11, 1975.[1]
+A distributed transmission system (DTS or DTx) uses several medium-power stations (usually digital) on the same frequency to cover a broadcast area, rather than one high-power station with repeaters on a different frequency. Although digital television stations are technically capable of sharing a channel, this is more difficult with the 8VSB modulation and unvariable guard interval used in ATSC standards than with the orthogonal frequency-division multiplexing (OFDM) used in the European and Australian DVB-T standard. A distributed transmission system would have stringent synchronization requirements, requiring each transmitter to receive its signal from a central source for broadcast at a GPS-synchronized time. A DTS does not use broadcast repeaters in the conventional sense, since they cannot receive a signal from a main terrestrial broadcast transmitter for rebroadcast; to do so would introduce a re-transmission delay destroying the required synchronization, causing interference between transmitters.
+The use of virtual channels is another alternative, although this may cause the same channel to appear several times in a receiver – once for each relay station – and require the user to tune to the best one (which may change due to propagation issues such as weather). Although boosters or DTS cause all relay stations to appear as one signal, they require careful engineering to avoid interference.
+Satellite stations[edit]
+Some licensed stations simulcast another station. Relay stations in name only, they are generally licensed like any other station. Although this is unregulated in the U.S. and widely permitted in Canada, the U.S. Federal Communications Commission (FCC) regulates radio formats to ensure diversity in programming.
+U.S. satellite stations may request an FCC exemption from requirements for a properly staffed broadcast studio in the city of license. The stations often cover large, sparsely populated regions or operate as statewide non-commercial educational radio and television systems.
+Semi-satellites[edit]
+A television re-broadcaster often sells local (or regional) advertising for broadcast only on the local transmitter, and may air a limited amount of programming distinct from its parent station. Some "semi-satellites" broadcast local news or separate news segments during part of the newscast. CHEX-TV-2 in Oshawa, Ontario, aired daily late-afternoon and early-evening news and community programs separate from its parent station, CHEX-TV in Peterborough, Ontario.[2] The FCC prohibits this on U.S. FM translator stations, only permitting it on fully licensed stations.
+In some cases, a semi-satellite is a formerly autonomous full-service station which is programmed remotely through centralcasting or broadcast automation to avoid the cost of a local staff. CBLFT, an owned-and-operated station of the French-language network Ici Radio-Canada Télé in Toronto, is a de facto semi-satellite of its stronger Ottawa sibling CBOFT; its programming has long been identical or differed only in local news and advertising. A financially weak privately owned broadcaster in a small market can become a de facto semi-satellite by gradually curtailing local production and relying on a commonly owned station in a larger city for programming; WWTI in Watertown, New York, relies on WSYR-TV in this manner. Broadcast automation allows the substitution of syndicated programming or digital subchannel content which the broadcaster was unable to obtain for both cities.
+Some defunct full-service stations (such as CJSS-TV in Cornwall, Ontario, now CJOH-TV-8) have become full satellite stations and originate nothing. If programming from the parent station must be removed or substituted due to local sports blackouts, the modified signal is that of a semi-satellite station.
+National networks[edit]
+Most broadcasters outside North America, portions of South America, and Japan maintain a national network, and use relay transmitters to provide service to a region (or nation). Compared with other types of relays, the transmitter network is often created and maintained by an independent authority (funded with television license fees); several major broadcasters use the same transmitters.
+In North America, a similar pattern of regional network broadcasting is sometimes used by state- or province-wide educational television networks such as Kentucky Educational Television, UNC-TV, Vermont Public Television, PBS Wisconsin, Maryland Public Television,[3] TVOntario or Télé-Québec. A state or province establishes an educational station and extends it with several full-power transmitters to cover the entire jurisdiction, with no capability for local-programming origination. In the U.S., a regional network of rebroadcast sites may join the national Public Broadcasting Service as a member station.
+Relay transmitters by country[edit]
+Canada[edit]
+In Canada, "re-broadcaster" or "re-broadcasting transmitter" are the terms most commonly used by the Canadian Radio-television and Telecommunications Commission (CRTC).
+Television[edit]
+A television re-broadcaster may sell local or regional advertising for broadcast only on the local transmitter. Rarely, they may air limited programming distinct from their parent station. Some "semi-satellites" broadcast local newscasts or separate news segments in part of a newscast.
+There is no strict rule for the call sign of a television re-broadcaster. Some transmitters have call signs different from the parent station (CFGC in Sudbury is a re-broadcaster of CIII), and others use the call sign of the originating station followed by a number (such as the former CBLFT-17 in Sarnia, Ontario). The latter type officially includes the television station's -TV suffix between the call sign and the number, although it is often omitted from media directories.
+The numbers are usually applied sequentially, beginning with "1", and denote the chronological order in which the station's rebroadcast transmitters began operation. Some broadcasters may use a system in which the number is the transmitter's broadcast channel, such as CJOH-TV-47 in Pembroke, Ontario. A broadcaster cannot mix the numbering systems under a single call sign; the transmitters are numbered sequentially or by their analogue channel. If sequential numbering reaches 99 (such as TVOntario's former broadcast transmitters), the next transmitter is assigned a new call sign and numbered "1". Translators which share a frequency (such as CBLT's former repeaters CBLET, CBLHT, CBLAT-2 and CH4113 on channel 12) are given distinct call signs.
+Digital re-broadcasters may be numbered by the TV channel number of the analogue signal they replaced. TVOntario's CICO-DT-53 (digital UHF 26, Belleville) is an example; the station was converted in 2011 to vacate an out-of-core analogue channel (UHF 53), and retains CICO-TV-53's former analogue UHF television call-sign numbering as a surviving TVO repeater.
+Low-power re-broadcasters may have a call sign consisting of the letters CH followed by four numbers; for example, CH2649 in Valemount, British Columbia, is a re-broadcaster of Vancouver's CHAN. Re-broadcasters of this type are numbered sequentially in the order they were licensed by the CRTC, and their call signs are unrelated to the parent station or other re-broadcasters. Although the next number in the sequence (CH2650 in Anzac, Alberta) is a re-broadcaster of CHAN, this is because CH2649 and CH2650 were licensed simultaneously; the following number, CH2651, is a re-broadcaster (also in Anzac) of Edmonton's CITV. A station's re-broadcasters are not necessarily named in the same manner; CBLT had re-transmitters with their own call signs (some used CBLT followed by a number, and some used CH numbers).
+CBC and Radio-Canada owned-and-operated re-transmitters were shut down on August 1, 2012, along with most TVOntario transmitters (which often were located at Radio-Canada sites) and some Aboriginal Peoples Television Network (APTN) transmitters in the far north. Private commercial broadcasters operate full-power re-broadcasters to obtain "must carry" status on cable television systems.
+Transmitters in small markets with one (or no) originating stations were, in most cases, not required to convert to digital even if operating at full power. Transmitters broadcasting on UHF channels 52–69 were required to vacate the channels by August 31, 2011; some (such as a CKWS-TV re-transmitter in Brighton, Ontario, and three TVOntario sites) went digital as part of a move to a lower frequency but do not provide high-definition television, digital subchannels or any functions beyond that of the original analogue site.
+Radio[edit]
+Like a TV station, a radio re-broadcaster may have a distinct call sign or use the call sign of the originating station followed by a numeric suffix. The numeric suffix, however, is always sequential.
+For a re-broadcaster of an FM station, the numeric suffix is appended to the FM suffix; re-broadcasters of CJBC-FM in Toronto are numbered CJBC-FM-1, CJBC-FM-2, etc. If an AM station has a re-broadcaster on the FM band, the numeric suffix falls between the four-letter call sign and the FM suffix; CKSB-1-FM is an FM re-broadcaster of the AM station CKSB, and CKSB-FM-1 would be a re-broadcaster of CKSB-FM.
+A broadcaster is limited to two stations on one band in a market, but a possible means to obtain a third FM signal in-market is to use a re-broadcaster of the AM station to move the signal to low-power FM.[4] In Sarnia, Blackburn Radio owns CFGX-FM (99.9) and CHKS-FM (106.3); its third Sarnia station, CHOK (1070 kHz), uses an FM repeater for city coverage as Country 103.9 FM (although the AM signal remains the station's official primary transmitter).
+Low-power radio re-broadcasters may have a call sign consisting of VF followed by four numbers; however, a call sign of this type may also denote a low-power station which originates its own programming. Some stations licensed under the CRTC's experimental-broadcasting guidelines, a special class of short-term license (similar to special temporary authority) sometimes granted to newer campus and community radio operations, may have a call sign consisting of three letters from anywhere in Canada's ITU-prefix range followed by three digits (such as CFU758 or VEK565). Other stations in this license class have been assigned conventional Cxxx call signs. Former re-broadcasters have occasionally been converted to originating stations, retaining their former call sign; examples include CITE-FM-1 in Sherbrooke, CBF-FM-8 in Trois-Rivières and CBAF-FM-15 in Charlottetown.[5]
+Mexico[edit]
+In Mexico, translator and booster stations are given the call sign of the parent station.
+Television[edit]
+Most television stations in Mexico are operated as repeaters of the networks they broadcast. Translator stations in Mexico are given call signs beginning with XE and XH. Televisa and Azteca maintain two national networks apiece. Televisa's Canal de las Estrellas network includes 128 stations (the most in Mexico), and Azteca's networks have 88 and 91 stations.[citation needed] The stations may insert local advertising. Azteca's stations in larger cities may include local news and a limited amount of regional content; Televisa prefers to use its non-national Gala TV network and Televisa Regional stations as outlets for local production. A number of translators also serve areas with little or no signal in their defined coverage area, known as equipos complementarios de zona de sombra ('shadow channels'). Most shadow channels air the same programming as their parent station. The northern and central regional network Multimedios Televisión in Monterrey uses the same system to a smaller extent (its XHSAW-TDT is the shadow channel of main station XHAW-TDT in Monterrey), with regional output for local newscasts and advertising on a master schedule.
+There are two main national networks of non-commercial TV stations in Mexico. One is the Canal Once (or XEIPN-TDT) network, operated by the Instituto Politécnico Nacional (IPN). Operating 13 transmitters, it airs its programs under a contract with the Quintana Roo state network. The other network, operated by the Sistema Público de Radiodifusión del Estado Mexicano (SPR), has 26 stations (16 operational); most are digital. The SPR transmitters are almost exclusively in cities where the IPN never built stations, and carry Canal Once as one of the five educational networks in the multiplex of the digital station.
+Twenty-six of Mexico's 32 states also own and operate television services, and 16 use more than one transmitter. The largest (by number of stations) is Telemax, Sonora's state network, with 59 transmitters. Many state-network transmitters broadcast at a low effective radiated power (ERP). A few stations are owned by municipalities or translator associations. Like state networks, they transmit at very low power.
+Transmitters re-broadcasting Mexico City stations to Baja California and other communities along the Pacific coast normally operate on a two-hour delay behind the originating station; there is a one-hour delay in Sonora, and Quintana Roo (one hour ahead of central Mexico in 2015) receives programs one hour later than they are broadcast to most of the rest of Mexico.
+Radio[edit]
+Ten to 15 FM shadow channels exist, and they are required to be co-channel with the stations they re-transmit. Quintana Roo has the most FM shadow channels (seven), about half the national total.[6] Three more FM shadows are authorized: XETIA-FM/XEAD-FM (Ajijic, Jalisco) and XHRRR-FM (Tecolula, Veracruz).
+United States[edit]
+Radio[edit]
+In July 2009, the basic FCC regulations concerning translators were:[7] 
+FM translators may be used for cross-band translation; this removed the restriction preventing FM translators from re-transmitting AM signals.
+No translator (or booster) may transmit anything other than the simulcast of its licensed parent station, except for emergency warnings (such as EAS) and 30 seconds per hour of fundraising.
+The parent station must identify all its translators and boosters between 7 and 9 a.m., 12:55 and 1:05 p.m., and 4 and 6 p.m. each broadcast day, or each must be equipped with an automated device (audio or FSK) for hourly identification.
+Maximum power is 250 watts ERP for a translator, and 20 percent of the maximum allowable ERP for the primary station's class for a booster. There is no limit on height for fill-in translators within the service contour of the primary station.
+A translator (or booster) must stop transmitting if the parent station's signal is lost; this helps prevent unauthorized re-transmission of other stations.
+There is one way programming may differ between a main station and an FM translator: an HD Radio signal may contain digital subchannels with different programming from the main analogue channel, and a translator may broadcast programming from the originating station's HD2 subchannel as the translator's main analogue signal.[8] W237DE (95.3 MHz in Harrisburg, Pennsylvania) broadcasts the format formerly carried by WTCY (1400 AM, now WHGB), receiving the signal from a WNNK (104.1 FM) HD2 digital subchannel for analogue rebroadcast from the WNNK tower site on 95.3. It is legally an FM repeater of an FM station, although each signal would be heard with unique content by users with analogue FM radio receivers.
+Commercial stations may own their translators (or boosters) when the translator (or booster) is in the parent station's primary service contour; they can only fill in where terrain blocks the signal. Boosters may only be owned by the primary station; translators outside a primary station's service contour cannot be owned by (or receive financial support from) the primary station. Most translators operate by receiving the main station's on-air signal with a directional antenna and sensitive receiver and re-transmitting the signal. They may not transmit in the FM reserved band from 88 to 92 MHz, where only non-commercial stations are allowed. Non-commercial stations may broadcast in the commercial portion of the band, however. Unlike commercial stations, they can relay programming to translators via satellite if the translators are in the reserved band. Translators in the commercial band may only be fed by a direct on-air signal from another FM station (or translator). Non-fill-in commercial-band translators may not be fed by satellite, according to FCC rule 74.1231(b).[9] All stations may use any means to feed a booster.
+All U.S. translator and booster stations are low-power and have a class D license, making them secondary to other stations (including the parent); they must accept interference from full-power (100 watts or more on FM) stations, while not causing any of their own. Boosters must not interfere with the parent station in the community of license. Licenses are automatically renewed with that of the parent station and do not require separate applications, although the renewal may be challenged with a petition to deny. FM booster stations are given the full call sign (including an -FM suffix, even if there is none assigned) of the parent station plus a serial number such as WXYZ-FM1, WXYZ-FM2, etc.
+FM translator stations may use sequential numbered call signs consisting of K or W followed by a three-digit number (201 through 300, corresponding to 88.1 to 107.9 MHz), followed by a pair of sequentially-assigned letters. The format is similar to that used by numbered television translators, where the number refers to the permanent channel assignment. The largest terrestrial radio-translator system in the U.S. in October 2008 belonged to KUER-FM, the non-commercial radio outlet of the University of Utah, with 33 translator stations ranging from Idaho to New Mexico and Arizona.[10]
+Television[edit]
+Unlike FM radio, low-power television stations may operate as translators or originate their own programming.[11] Translator stations are given call signs which begin with W (east of the Mississippi River) or K (west of the Mississippi, like regular stations) followed by a channel number and two serial letters for each channel; the first stations on a channel are AA, AB, AC and so on). Television channels have two digits, from 02 to 51 (formerly 02 to 83); FM radio channels are numbered from 200 (87.9 MHz) to 300 (107.9 MHz), one every 0.2 MHz (for example, W42BD or K263AF). An X after the number in these call signs does not indicate an experimental broadcasting license (as it may in other services), since all 26 letters are used in the sequence. When the sequence is exhausted, another letter is added. This has already happened for translator on channels 7 and 13 in K territory; what is now KMNF-LD was assigned callsign K13AAR-D in September 2018 and K07AAH-D in May 2019.
+Numbered translator stations (a format such as W70ZZ) are typically low-power repeaters – often 100 watts (or less) on FM and 1,000 watts (or less) on television. The former translator band, UHF television channels 70 through 83, was originally occupied primarily by low-powered translators. The combination of low power and high frequency limited broadcast range. The band was reallocated to cellular telephone services during the 1980s, with the handful of remaining transmitters moved to lower frequencies.
+Full-power repeaters such as WPBS-TV's identical-twin transmitter, WNPI-TV, are normally assigned TV call signs like other full-power stations. These "satellite stations" do not have numbered call signs, and must operate in the same manner as other full-power broadcasters. This simulcasting is generally not regulated by the FCC, except when a station owner seeks an exemption from requirements such as restrictions on owning several full-service stations in the same market, limits on overlap in coverage area between commonly-owned stations, or requirements that each full-service station have a local studio and a skeleton staff capable of originating programming locally. These exemptions are normally justified on the basis of economic hardship, where a rural location unable to support a full-service originating station may be able to sustain a full-power re-broadcaster. Some stations (such as KVRR in Fargo, North Dakota) are chains of as many as four full-power transmitters, each with its own call sign and license, covering a large, sparsely-populated region.
+LPTV stations may also choose a four-letter call sign with an -LP suffix (shared with low-power FM) for analog or -LD for digital; this is generally done only if the station originates programming. Class A television stations are assigned calls with -CA and -CD suffixes. Digital stations which use numbers receive a -D suffix, such as W42BD-D. All are despite the fact that most of the full-power digital television stations had their -DT (originally -HD) suffixes dropped by the FCC before -D and -LD were implemented. Digital LPTV stations have their digital RF channel numbers as part of their digital call sign, which may differ from the virtual channel (the analog number).
+Numbered broadcast translators which are moved to another frequency are normally issued new call signs to reflect the updated channel assignment. This is not true of displaced translators using another frequency temporarily under a special technical authority. Although K55KD could retain its call sign while it was displaced temporarily to channel 57 to resolve interference to MediaFLO users, W81AA would have received a new call sign when channel 81 was deleted from the bandplan. On the rare occasion that a station moves back to its original channel, it receives its old call sign (which is not reused by another station).
+Digital transition[edit]
+Low-power television stations are not required to simulcast a digital signal, nor were they required to cease analog operation in June 2009 like full-power stations. Full-power stations used for simulcasting another station were (like other full-service TV broadcasters) required to convert to digital in June 2009. The FCC defines "TV satellite stations" as "full-power broadcast stations authorized under Part 73 of the Commission's rules to re-transmit all or part of the programming of a parent station that is typically commonly owned". Since most satellite stations operate in small or sparsely-populated areas with an insufficient economic base to support full-service operations, many received FCC authorization on a case-by-case basis to flash cut from analog to digital on the same channel instead of simulcasting in both formats during the digital transition.[12]
+Although no digital television mandates were forced on existing low-power television stations, Congress passed legislation in 2008 funding low-power stations which went digital by the conversion date or shortly thereafter. Some low-power stations were forced to change frequency to accommodate full-power stations which moved to UHF or operated digital companion channels on UHF during the transition period. By 2008, low- and full-power channel 55 licensees were encouraged to relocate early to free spectrum for Qualcomm's MediaFLO transmitters.[13]
+By 2011, remaining LPTV broadcasters on UHF channels 52 through 69 were forced onto lower channels. Many transmitters on the original UHF 70–83 translator band had to move twice; channels 70–83 were lost to mobile phones in 1983, followed by channels 52–69 between 2009 and 2011.[14] Many low-power translators were also directly affected by a parent station's conversion to digital television. Translators which received an analog over-the-air signal from a full-service television station for rebroadcast needed to convert their receiving equipment, like individual viewers used digital converter boxes. Although the signal transmitted by the repeater may have remained analog, the uplink had to be changed. Twenty-three percent of the 4,000 licensed translators received a $1,000 federal-government subsidy[15] for a portion of the additional equipment.[16] Many other translators went dark after the digital-transition deadline, or did not apply for new channels after UHF channels 52–69 were removed from the bandplan.
+Some small translators operated by directly converting a parent station's signal to another frequency for rebroadcast, without any other local signal processing or demodulation. W07BA (a 16-watt repeater for WSYR-TV in Syracuse, New York)[17] was a simple piece of broadcast apparatus, shifting the main station's signal from channel nine to channel seven to cover a small valley in DeWitt. Syracuse became a UHF island, WSYR-TV's main ABC signal became a 100 kW digital broadcast on channel 17, and there is no longer a channel 9 signal to feed the repeater.[18] Translators in remote locations with no commercial power were expected to have problems deploying equipment for a digital uplink.[19] Although many translators continued analog broadcasts and a minority transitioned to digital, some rural communities expected to find all local translator signals gone as a result of the originating stations' transition.[20]
+Controversy[edit]
+By law, full-service local broadcasters are the primary occupants of the FM broadcast band; LPFM and translators are secondary occupants, with theoretically-equal status. In practice, however, frequencies assigned to translators become unavailable to new LPFM stations or existing stations wishing to upgrade.[21]
+Some distinctions place small, local LPFM operators at a disadvantage:
+The maximum power for an LPFM station (10 or 100 watts, depending on station class) is less than that of the largest FM broadcast translators (250 watts), limiting the reach of the LPFM signal.
+Minimum spacing (in distance and frequency) between stations is less strict for translators than for LPFM applicants. Although translator spacing is based on signal contour levels (accounting for terrain and obstacles), LPFM stations have a more restrictive minimum-distance requirement.[22]
+An LPFM broadcaster is required to generate local content; if there are several applicants for a frequency, those who agree to originate eight (or more) hours a day of local programming are favored. Translators are not required to originate anything locally.
+LPFM licenses are normally issued to non-commercial educational entities (such as schools or municipalities), and are subject to  requirements precluding several commonly-owned stations; this is not true of translators. A non-commercial translator with no local or educational content can occupy space in the non-commercial segment (below 92 MHz) of the FM broadcast band. During the narrow FCC filing windows for new applicants, applications for broadcast translators from the same (or related) entities can request every locally-available frequency in several communities.[23][24]
+An LPFM license or construction permit cannot be resold; this is not true for translators. Related entities can file applications for thousands of translator construction permits (using non-commercial status for exemption from FCC filing fees) and resell the construction permits, even if the transmitters have not yet been constructed.[25]
+Broadcast translators for commercial stations are normally required to receive a signal from their parent full-service FM station over the air and re-transmit in the region covered by the main station, eliminating the need for a translator except where terrain shielding is a problem). This restriction does not apply to non-commercial educational stations. Any non-commercial station, even one with no local or educational content, can apply for an unlimited number of translators to be fed by any means (including satellite).[26] All take spectrum from local LPFM stations or rebroadcasters of local full-service stations.[27] Existing National Public Radio repeaters were displaced by new religious stations in Lake Charles, Louisiana, losing local and educational content.[28] 
+2003 translator boom[edit]
+A 2003 FCC licensing window for new translator applications resulted in over 13,000 applications,[29] most from religious broadcasters. Due to the number of license applications,[30] LPFM advocates called it the Great Translator Invasion.[23][31][32]
+Some broadcasters have taken advantage of FM translator regulations allowing non-commercial stations to feed distant translators with satellite-delivered programming hundreds (or thousands) of miles from the parent station's coverage area.[26] Not all translators can be fed by satellites, however; only translators in the non-commercial portion of the FM band (88.1 to 91.9 MHz) can be "satellators". All other translators must be directly fed off the air, except for "fill-in" facilities in a primary station's service contour. Translators may feed other translators, so it is possible to create small chains of translators fed from one distant station; if one translator failed, however, the network beyond the failed translator would go dark. The number of 2003 applications overwhelmed the FCC, which issued an emergency hold order on new translator applications[32] until those already received were processed. The rules change sparked a series of lawsuits known as Prometheus Radio Project v. FCC.[25] 
+Religious broadcasting stations such as Calvary Chapel's KAWZ (Twin Falls, Idaho), the Educational Media Foundation and Family Radio's KEBR (Sacramento) were relayed by hundreds of FM "translator" stations across the country. Since the parent stations were owned by non-profit organizations and were on the non-commercial part of the spectrum, they were not required to have their translators receive their signal over the air.[25]  
+LPFM advocates allege that the proliferation of translators poses difficulties for non-translator station operators (particularly LPFM license applicants), who say that they cannot get stations on the air because translators occupy available channels in an area.[26] 
+Since "satcasting" translators are only permitted on the non-commercial part of the spectrum (where LPFM stations do not exist), they do not threaten the ability of LPFM licensees to expand their facilities.[21] Non-satcasting translators may be a problem for LPFM stations; if an LPFM station is "bumped" from its channel by a new full-power station, there may be no available frequency to which to move.[27][33][34] 
+Proposed rules would revise the procedures by which nonprofit groups may apply for translators (prohibiting more than a certain number of translator applications to be owned by any one entity), and the FCC modified its channel requirements for LPFM broadcasters to free channel space.[22][35] REC Networks petitioned the FCC to prioritize LPFM stations.[36]
+Satellite translator networks[edit]
+Areas with no available FM spectrum for LPFM stations due to large, distant translator networks include Chicago[37] (with several Calvary Chapel and Educational Media Foundation stations),[38] Atlanta[39] (with several Way-FM – associated with K-Love and Salem Communications – and Edgewater Broadcasting stations)[40] and Dallas, Texas[41] (with Calvary Satellite Network and American Family Radio).[42] Smaller markets like Louisville, Kentucky,[43][44] and Knoxville, Tennessee,[45][46] lack LPFM channels due to distant translators by broadcasters such as Calvary Chapel and Way-FM.
+The largest satellite-fed translator networks were linked to Calvary Chapel (including Radio Assist Ministry, Horizon Broadcasting, Edgewater Broadcasting and REACH Media)[47] and American Family Radio, owned by the American Family Association.[25] The networks associated with Calvary Chapel have been a focus of translator-based networks;[48][49] multiple applications were submitted by companies linked to Calvary Chapel for the same channel.[26][50] At least four radio stations operated by Calvary Chapel churches and relaying Calvary Satellite Network programming have been identified as "home stations" for distant translators, and many home churches (in addition to the national Calvary Chapel concerns) applied for licenses.[51] American Family Radio, in particular, has demonstrated a deliberate strategy to crowd out re-broadcasters of National Public Radio stations for political purposes.[23]
+Australia[edit]
+Radio[edit]
+Australia's national radio networks (Radio National, ABC NewsRadio, Triple J, ABC Classic FM and SBS Radio) have relay transmitters which allow each service to be broadcast as widely as possible. The ABC and SBS allow community-based relay transmitters to rebroadcast radio or television in areas which would otherwise have no service.[52] Commercial radio broadcasters normally have relay transmitters only if local geography (such as mountains) prevents them from broadcasting to their entire market.
+Television[edit]
+Since the early-1990s market aggregation, each television broadcaster uses multiple relays to provide consistent service throughout Australia's large markets. Although each market is subdivided due to the legacy of previous commercial broadcasters (Southern Cross Nine maintains two stations in the Victoria market: GLV and BCV), the only difference between these sub-markets in practice is news service and local advertising. Except in major cities, all major television broadcasters use the same network of transmitters (which may have dozens of relay stations in each market). As a result, some areas have had trouble beginning digital or HD service due to problems with regional transmitters.
+Europe[edit]
+Because most radio and television systems in Europe are national networks, the radio or television system in some countries can be considered a collection of relay stations in which each broadcaster uses a transmitter network (developed by the public broadcaster or maintained through a government-funded authority) to provide broadcast service to the entire nation.
+Asia[edit]
+In most parts of Asia, satellite is the preferred method of national signal coverage. Exceptions include Singapore (which bans civilian ownership of satellite receivers) and Malaysia, which only allows civilian ownership of receivers provided by Astro). Terrestrially, the scenario is similar to Europe's; the systems are considered national networks, and are a collection of relay stations maintained by a government-funded authority. In Japan, however, television stations are owned and operated by networks or are affiliates owned by other media companies.
+See also[edit]
+Airborne radio relay
+Amateur radio repeater
+Call signs in North America
+Communications satellite
+Cellular repeater
+Microwave radio relay
+Repeater
+Radio repeater
+Relay (disambiguation)
+Shortwave relay station
+Transmitter station
+Television transmitter
+References[edit]
+^ "US CFR 47 Part 74G – 74.733 UHF translator signal boosters". Ecfr.gpoaccess.gov. Archived from the original on March 5, 2012. Retrieved December 17, 2011..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}
+^ "CHEX-TV-2 Durham: About Channel 12". Archived from the original on February 23, 2008.
+^ "Rescan". Maryland Public Television. Retrieved October 7, 2020.
+^ "NorthEast Radio Watch by Scott Fybush". Fybush.com. Retrieved December 17, 2011.
+^ http://www.crtc.gc.ca/archive/ENG/Decisions/1994/DB94-339.HTM[permanent dead link]; compare with http://www.crtc.gc.ca/archive/ENG/Notices/1993/PB93-136.htm[permanent dead link] where CBAF-FM-15 was considered by the CRTC as a rebroadcaster.
+^ "IFT Table of Distribution of Stations, March 2016" (PDF). Federal Telecommunications Institute. March 31, 2016.
+^ "FCC regulations CFR 47 Part 74 Subpart L: FM Broadcast Translator Stations and FM Broadcast Booster Stations". Edocket.access.gpo.gov. October 1, 2007. Retrieved December 17, 2011.
+^ "NorthEast Radio Watch by Scott Fybush". Fybush.com. Retrieved December 17, 2011.
+^ "47 CFR Ch. I (10–1–07 Edition)" (pdf). FCC. Retrieved March 6, 2019.
+^ KUER-FM on-air broadcast statement, accessed Oct. 9, 2008
+^ "FCC regulations – US CFR 47 Part 74 Subpart G – Low Power TV, TV Translator, and TV Booster Stations". Edocket.access.gpo.gov. Retrieved December 17, 2011.
+^ "FCC, DTV Transition – Approval of "Flash Cut" Requests, April 25, 2007". Retrieved December 17, 2011.
+^ "Qualcomm Gets FCC Nod For MediaFLO Spectrum". Phone Scoop. Archived from the original on January 9, 2011. Retrieved December 17, 2011.
+^ "[FP-DTV} Specialized TV Stations". Archived from the original on October 28, 2008.
+^ Migoya, David (February 10, 2009). "Many rural TVs will go dark, not digital". Denver Post.
+^ Ecke, Richard (February 1, 2009). "Low-power rural stations will continue in analog for several more years". Great Falls Tribune. Great Falls, Montana.[dead link]
+^ "TV Query Results – Video Division (FCC) USA". Fcc.gov. Retrieved December 17, 2011.
+^ Hartman, Jeff (April 4, 2008). "Plugged In: the DTV Switch – What's all this DTV stuff, anyway?". Community.9wsyr.com. Syracuse, New York: WSYR-TV ABC 9. Archived from the original on May 16, 2008. Retrieved December 17, 2011.
+^ Faulkner, Jessie (December 12, 2008). "Further complications loom for digital television conversion". Times-Standard. Eureka, California. Archived from the original on February 4, 2013. Retrieved December 17, 2011.
+^ Abbott, Adrienne (2008). "Nevada Translator Stations – Status Report for Digital Transition" (PDF). Nevada Broadcasters Association. Archived from the original (PDF) on February 26, 2009.
+^ a b Fybush, Scott (October 24, 2005). "NorthEast Radio Watch". www.fybush.com. Archived from the original on June 30, 2019.
+^ a b "In the Matter of: Creation of a Low Power Radio Service: MM Docket No. 99-25" (PDF). March 17, 2005. Retrieved December 17, 2011.
+^ a b c Schulman, Daniel (February 2006). "Out of Thin Air". Columbia Journalism Review. Columbia University. 44 (6). Archived from the original on August 24, 2007. Retrieved December 17, 2011.CS1 maint: unfit url (link)
+^ "CJR on Godcasting Invasion". DIYmedia. March 5, 2006. Archived from the original on December 16, 2011. Retrieved December 17, 2011.
+^ a b c d "God Squads Fall From Grace". DIYmedia. February 25, 2005. Archived from the original on January 25, 2012. Retrieved December 17, 2011.
+^ a b c d "Another Kind of Low-Power Station Hogging Radio Spectrum". mediageek. September 21, 2003. Archived from the original on October 6, 2007.
+^ a b Posner, Sarah (April 5, 2005). "Right-wing Radio: Religious broadcasters are squeezing community radio right off the FM dial". AlterNet. Archived from the original on August 15, 2020. Retrieved August 15, 2020.
+^ Harden, Blaine (September 15, 2002). "Religious and Public Stations Battle for Share of Radio Dial". The New York Times. Archived from the original on June 19, 2020. Retrieved August 15, 2020.
+^ Chernoff, Naina Narayana. "Translator 'Flood' Causes Concern". RadioWorld.com. Archived from the original on August 21, 2008. Retrieved December 17, 2011.
+^ "REC Broadcast Query". REC Networks. February 23, 2011. Archived from the original on January 13, 2009. Retrieved December 17, 2011.
+^ "The Traffick Report – Great Translator Invasion". REC Network. Archived from the original on December 16, 2011. Retrieved December 17, 2011.[dead link]
+^ a b "The Great Translator Invasion". LPFM.WS. REC Networks. Archived from the original on January 30, 2008.
+^ "Low Power FM Encroachment Report" (PDF). REC Networks. February 15, 2005. FAC: 124266 CALL: NEW CHAN: 285 CMTY: ANCHORAGE AK. Archived from the original (PDF) on November 29, 2007.
+^ Miliard, Mike (March 3, 2005). "Corporate bigfoot CSN tunes out community stations". Boston Phoenix. Archived from the original on March 15, 2012. Retrieved December 17, 2011.
+^ "MM Docket 99-25". LPFM.WS. REC Networks. Archived from the original on January 31, 2008.
+^ "In the matter of: AM Radio use of FM Translators: RM-11338" (PDF). REC Networks. Archived from the original (PDF) on February 8, 2012. Retrieved December 17, 2011.
+^ "RECnet search for available LPFM channels in Chicago, Illinois". mylpfm.com. REC Networks. Archived from the original on January 21, 2016. Retrieved June 1, 2015.
+^ "RECnet search for FM translators in Chicago, Illinois". REC Networks. December 13, 2011. Archived from the original on January 13, 2009. Retrieved December 17, 2011.
+^ "RECnet search for available LPFM channels in Atlanta, Georgia". mylpfm.com. REC Networks. Archived from the original on January 21, 2016. Retrieved June 1, 2015.
+^ "RECnet search for FM translators in Atlanta, Georgia". REC Networks. December 13, 2011. Archived from the original on January 13, 2009. Retrieved December 17, 2011.
+^ "RECnet search for available LPFM channels in Dallas, Texas". mylpfm.com. REC Networks. Archived from the original on January 21, 2016. Retrieved June 1, 2015.
+^ "RECnet search for FM translators in Dallas, Texas". REC Networks. December 13, 2011. Archived from the original on January 13, 2009. Retrieved December 17, 2011.
+^ "RECnet search for available LPFM channels in Louisville, Kentucky". mylpfm.com. REC Networks. Archived from the original on January 21, 2016. Retrieved June 1, 2015.
+^ "RECnet search for FM translators in Louisville, Kentucky". REC Networks. December 13, 2011. Archived from the original on January 13, 2009. Retrieved December 17, 2011.
+^ "myLPFMsearch". March 3, 2016. Archived from the original on March 3, 2016.
+^ "RECnet search for FM translators in Knoxville, Tennessee". REC Networks. December 13, 2011. Archived from the original on January 13, 2009. Retrieved December 17, 2011.
+^ "Something Fishy in Right-Wing-Christian-Translator-land, Grabbing Spectrum away from LPFM, Maybe Profiting from the Venture?". mediageek. February 24, 2005. Archived from the original on October 6, 2007.
+^ "Religious Broadcasting As Franchise Operation". DIYmedia. March 1, 2005. Archived from the original on February 8, 2012. Retrieved December 17, 2011.
+^ Wilson, Bruce (March 7, 2006). "CSN, Christian LPFM Empire threatens to Self Destruct. But don't hold your breath". Talk to Action. Retrieved December 17, 2011.
+^ "Naked Translator Permits sold by Radio Assist Ministries and Edgewater Broadcasting and how much they sold for" (PDF). REC Networks. Archived from the original (PDF) on February 8, 2012. Retrieved December 17, 2011.
+^ "Calvary Chapel: The Decentralized Christian Clear Channel". mediageek. March 2, 2005. Archived from the original on October 8, 2007.
+^ "Self-Help Guide to Rebroadcasting – ABC Reception Advice". Australia: ABC. Archived from the original on January 24, 2012. Retrieved December 17, 2011.
+External links[edit]
+Wikimedia Commons has media related to Broadcast relay stations.
+FCC "FM Translators and Boosters" webpage
+vteTelecommunicationsHistory
+Beacon
+Broadcasting
+Cable protection system
+Cable TV
+Communications satellite
+Computer network
+Data compression
+audio
+DCT
+image
+video
+Digital media
+Internet video
+online video platform
+social media
+streaming
+Drums
+Edholm's law
+Electrical telegraph
+Fax
+Heliographs
+Hydraulic telegraph
+Information Age
+Information revolution
+Internet
+Mass media
+Mobile phone
+Smartphone
+Optical telecommunication
+Optical telegraphy
+Pager
+Photophone
+Prepaid mobile phone
+Radio
+Radiotelephone
+Satellite communications
+Semaphore
+Semiconductor
+device
+MOSFET
+transistor
+Smoke signals
+Telecommunications history
+Telautograph
+Telegraphy
+Teleprinter (teletype)
+Telephone
+The Telephone Cases
+Television
+digital
+streaming
+Undersea telegraph line
+Videotelephony
+Whistled language
+Wireless revolution
+Pioneers
+Nasir Ahmed
+Edwin Howard Armstrong
+Mohamed M. Atalla
+John Logie Baird
+Paul Baran
+John Bardeen
+Alexander Graham Bell
+Tim Berners-Lee
+Jagadish Chandra Bose
+Walter Houser Brattain
+Vint Cerf
+Claude Chappe
+Yogen Dalal
+Donald Davies
+Lee de Forest
+Philo Farnsworth
+Reginald Fessenden
+Elisha Gray
+Oliver Heaviside
+Erna Schneider Hoover
+Harold Hopkins
+Internet pioneers
+Bob Kahn
+Dawon Kahng
+Charles K. Kao
+Narinder Singh Kapany
+Hedy Lamarr
+Innocenzo Manzetti
+Guglielmo Marconi
+Robert Metcalfe
+Antonio Meucci
+Jun-ichi Nishizawa
+Radia Perlman
+Alexander Stepanovich Popov
+Johann Philipp Reis
+Claude Shannon
+Henry Sutton
+Nikola Tesla
+Camille Tissot
+Alfred Vail
+Charles Wheatstone
+Vladimir K. Zworykin
+Transmissionmedia
+Coaxial cable
+Fiber-optic communication
+optical fiber
+Free-space optical communication
+Molecular communication
+Radio waves
+wireless
+Transmission line
+data transmission circuit
+telecommunication circuit
+Network topologyand switching
+Bandwidth
+Links
+Nodes
+terminal
+Network switching
+circuit
+packet
+Telephone exchange
+Multiplexing
+Space-division
+Frequency-division
+Time-division
+Polarization-division
+Orbital angular-momentum
+Code-division
+Concepts
+Communication protocols
+Computer network
+Data transmission
+Store and forward
+Telecommunications equipment
+Types of network
+Cellular network
+Ethernet
+ISDN
+LAN
+Mobile
+NGN
+Public Switched Telephone
+Radio
+Television
+Telex
+UUCP
+WAN
+Wireless network
+Notable networks
+ARPANET
+BITNET
+CYCLADES
+FidoNet
+Internet
+Internet2
+JANET
+NPL network
+Usenet
+Locations (by regions)
+Africa
+Americas
+North
+South
+Antarctica
+Asia
+Europe
+Oceania
+ Category
+ Outline
+ Portal
+ Commons
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Broadcast_relay_station&amp;oldid=982871688"
+		Categories: Broadcast engineeringBroadcast transmittersBroadcastingTelevision technologyTelevision terminologyHidden categories: All articles with dead external linksArticles with dead external links from November 2018Articles with permanently dead external linksArticles with dead external links from August 2020CS1 maint: unfit urlArticles with short descriptionArticles with long short descriptionShort description matches WikidataUse mdy dates from December 2011All articles with unsourced statementsArticles with unsourced statements from March 2019Articles containing Spanish-language textCommons category link is on Wikidata
+	Navigation menu
+		Personal tools
+		Not logged inTalkContributionsCreate accountLog in
+		Namespaces
+		ArticleTalk
+		Variants
+		Views
+		ReadEditView history
+		More
+		Search
+		Navigation
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		Contribute
+		HelpLearn to editCommunity portalRecent changesUpload file
+		Tools
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		Print/export
+		Download as PDFPrintable version
+		In other projects
+		Wikimedia Commons
+		Languages
+		Deutsch한국어Bahasa Indonesia日本語Svenska
+		Edit links
+		 This page was last edited on 10 October 2020, at 21:50 (UTC).
+		Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+		Privacy policy
+		About Wikipedia
+		Disclaimers
+		Contact Wikipedia
+		Mobile view
+		Developers
+		Statistics
+		Cookie statement

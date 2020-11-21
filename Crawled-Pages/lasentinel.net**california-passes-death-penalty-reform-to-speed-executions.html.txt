@@ -1,0 +1,323 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+California passes death penalty reform to speed executions            
+				By BRIAN MELLEY, Associated Press                
+	                	                Published November 30, 2016
+		In this Sept. 21, 2010, file photo, people photograph the interior of the lethal injection facility at San Quentin State Prison in San Quentin, Calif. (AP Photo/Eric Risberg, File)
+California voters have decided to repair the state’s dysfunctional death penalty by passing a measure intended to speed up appeals, uniting with voters in more conservative states that also supported capital punishment.
+Proposition 66 continued to hold a 51 percent margin of support Tuesday after two weeks of counting millions of ballots in a contentious race that also saw voters reject a dueling measure to end executions.
+“California voters not only want to keep the death penalty intact but they want it to work as intended,” Sacramento County District Attorney Anne Marie Schubert said in a statement. “The reforms outlined in Prop. 66 are smart fixes that will eradicate waste, delays and inefficiencies while protecting due process for all those who are given the ultimate sentence of death.”
+        ADVERTISEMENT        
+The waning California vote count also showed voters narrowly rejected a finance measure that could have threatened two of Gov. Jerry Brown’s megaprojects. The measures were the final two to be called of 17 statewide initiatives voters faced in a lengthy ballot.
+The two death penalty measures drove massive spending from both sides of the contentious issue. Law enforcement groups were the biggest supporters of Proposition 66, pouring $12.6 million into the campaign and outspending the rich donors who fueled an $11.5 million effort to fight it. The same backers kicked in about $10 million each to fight or support Proposition 62, which would have repealed the death penalty.
+Backers of both measures agreed the current system was broken. More than 900 convicted killers have been sent to death row since capital punishment was reinstated, but only 13 have been executed since 1978. The last execution by lethal injection was more than a decade ago and 750 killers languish on death row.
+The reform effort was proposed to “mend not end” capital punishment after 52 percent of voters rejected a repeal measure in 2012.
+In passing Proposition 66, California joined two other states in support for capital punishment on Election Day, bucking a pattern of states that have abolished the death penalty.
+Nebraska reinstated the punishment a year after lawmakers abolished it. Oklahomans voted to make it tougher to repeal the death penalty in the future.
+Those votes run counter to a nationwide move away from capital punishment. A Pew Research Center poll in September showed support for the death penalty at its lowest level in 40 years.
+Seven states _ not counting Nebraska’s reversal _ have done away with the death penalty legislatively or judicially since 2000. Death sentences and executions have mostly been in a steep decline over that same period.
+California’s Proposition 66 would change how appeals are handled, appointing more lawyers to take cases, putting certain types of appeals before trial court judges and setting a five-year deadline for appeals to be heard. Currently, it can take longer than that for an attorney to be assigned to a case and upward of 25 years to exhaust all appeals.
+Opponents had said the system was fatally flawed and argued that eliminating it would save $150 million a year largely by reducing lengthy appeals.
+They claimed the reforms would be no panacea and instead wreak havoc on courts, lead to incompetent lawyers being appointed for appeals and could result in wrongful convictions.
+“We would like nothing better than a criminal justice system that is responsive and fair,” said Ana Zamora, manager of the No on Prop. 66 campaign. “But California just made a mistake the size of Texas. We cannot say with any certainty that California will not execute an innocent person.”
+Some death penalty foes have already asked the California Supreme Court to block Proposition 66 from taking effect. Supporters of the measure criticized that as a frivolous move and another stall tactic in delaying executions that could otherwise resume next year.
+Franklin Zimring, a law professor at the University of California, Berkeley, said the court filing was “just a preview of coming attractions” as death penalty opponents try to keep the system at a standstill.
+“The irony is that Prop. 66 was supposed to simplify and speed things up,” Zimring said. “The smart money would bet that it has made things more complex, increased the set of issues to be litigated and, if anything, could slow down the path to execution in California from its glacial pace previously, it is this.”
+		Categories: National | News | Political Tags: BRIAN MELLEY | death penalty | Proposition 66		
+						Bernard LaFayette Jr. Wins Gandhi Award
+						Baton Rouge council approves settlement with protesters
+						Education Secretary King calls for end to paddling students
+						SCAQMD Issues Dust and Ash Advisory Due to Strong Winds in the Southland
+						Council renames street section to honor civil rights leader
+						Historical marker commemorates ‘Buffalo soldiers’ in Vermont
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

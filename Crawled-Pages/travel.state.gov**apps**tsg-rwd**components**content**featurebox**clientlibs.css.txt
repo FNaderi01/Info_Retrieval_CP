@@ -1,0 +1,87 @@
+.tsg-rwd-featurebox-image img {
+    width: 100%;
+    max-height: 100%;
+    margin-bottom: 10px;
+}
+.tsg-rwd-featurebox {
+    display: inline-block;
+    background-color:  #E2EDFF;
+    color: #444444;
+    width: 49.5%;
+    margin-bottom: 10px;
+}
+.tsg_rwd_feature_box_single {
+    width: 100%;
+    margin: 10px 0px 10px 0px;
+}
+.tsg_rwd_feature_box_double {
+    float: left;
+    width: 48.8%;
+    margin: 10px 1.2% 15px 0px;
+}
+.tsg-rwd-featurebox h3 {
+    background-color: #CED9EA;
+    color: #444444;
+    font-family: 'oswald_regular';
+    width:-webkit-fill-available;
+    padding: 1em;
+    font-size: 1.2em;
+    line-height: 1.2em;
+    overflow:auto;
+    margin: 0;
+    font-weight: normal;
+}
+.tsg-rwd-featurebox-caption {
+    font-family: 'robotocondensed-regular-webfont';
+    width: -webkit-fill-available!important;
+    padding: 1em;
+    font-size: 1em;
+    line-height: 1.3em;
+    width: auto;
+}
+.tsg-rwd-featurebox-caption ul {
+    margin: 0px 0px 0px 15px;
+    padding: 0px;
+    width: 92%;
+    display: block;
+    list-style-type: square;
+    font-size: 1em;
+}
+ .tsg_rwd_feature_box_double .tsg_rwd_show_featurebox_image {
+    margin: 3% 0% 5% 0%;
+}
+.tsg_rwd_feature_box_single .tsg_rwd_show_featurebox_image {
+    float: right;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.tsg_rwd_feature_box_single .tsg_rwd_show_featurebox_copy {
+    float: left;
+    font-family: 'robotocondensed-regular-webfont';
+    width: 96%;
+    padding: 2%;
+    font-size: .9em;
+}
+.tsg_rwd_feature_box_double .tsg_rwd_show_featurebox_copy{
+    float: left;
+    font-family: 'robotocondensed-regular-webfont';
+    width: 96%;
+    padding: 2%;
+    font-size: .9em;
+}
+@media screen and (min-width: 768px) {    
+    .tsg-rwd-main-copy-body-frame .tsg-rwd-featurebox.rightBox:not(.tsg_rwd_feature_box_double){
+        margin-left: 1%;
+    }
+}
+@media (max-width: 768px){
+    .tsg_rwd_feature_box_double, .tsg_rwd_feature_box_single{
+         width: 100%;
+        margin: 10px 0px 15px 0px;
+        width: -webkit-fill-available!important;
+    }
+}
+/*** CQ AEM INTERFACE STYLES ***/
+.cq-wcm-edit .tsg-rwd-featurebox {
+    float: none;
+}

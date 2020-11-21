@@ -1,0 +1,258 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+House Passes $2 Trillion Stimulus Package Deal            
+				By Stacy M. Brown, NNPA Newswire Senior Correspondent                
+	                	                Published April 2, 2020
+		Lawmakers and President Trump have said they want the checks mailed by April 6. Still, because the Internal Revenue Service has reduced staff at all of its locations because of the coronavirus, many believe the checks may not go out until May. (Photo: iStockphoto / NNPA)
+The $2 trillion stimulus deal reached earlier by the Senate, was finally passed by the House on Friday, March 27.
+President Trump is expected to immediately sign the massive legislation that promises to provide a much-needed shot in the arm for working and unemployed individuals, and small and big businesses.
+The deal includes approximately $367 billion for small business loans administered through the Small Business Administration.
+        ADVERTISEMENT        
+It also includes direct payouts to most Americans and more money and an extension of unemployment benefits.
+While the bipartisan measure unanimously passed in the Senate, at least two Republican congressmen opposed the bill.
+Colorado Rep. Ken Buck argued that he didn’t want “the cure to be worse than the problem itself.” Buck objected to the inclusion in the package of $75 million for public broadcasting, $50 million for museums and libraries, and $25 million for the Kennedy Center.
+Earlier, Rep. Matt Gaetz (R-Fla.) blasted Senate members for including $13 million for Howard University, a historically black college.
+Rep. Thomas Massie (R-Kentucky) attempted to force a full yes or no vote that reportedly irritated House members who agreed to do a voice vote in which members were not required to attend in person and risk personal safety in light of the spreading coronavirus.
+Earlier, several civil rights organizations noted watching with vigilance as Senate negotiations and, later, voting in both chambers took place.
+“We know that when the economy goes into decline, people of color always bear the brunt,” said Teresa Candori, communications director for the National Urban League.
+“We will be fighting to make sure the most vulnerable communities are not an afterthought.”
+The coronavirus is “an equal-opportunity pandemic,” stated Melanie Campbell, president of the National Coalition on Black Civic Participation.
+“If you think about (Hurricane) Katrina, if you think about other catastrophes, a lot of times, bailouts ended up taking care of the top, and then it trickles down to the people,” Campbell said.
+“Our federal government has to be bold about responses as this is an ever-evolving pandemic that can become a real catastrophe for people’s daily lives.”
+Many said they’re reminded that the household wealth of communities of color declined during the 2008 recession.
+They said those losses never recovered, and it’s led to fears that minorities will again suffer a severe and long-term hit as the nation battles COVID-19 and whatever the aftermath might present.
+The agreed upon stimulus package includes one-time direct payments of $1,200 per adult who made $75,000 or less in 2019 and $2,400 for couples who made less than $150,000.
+An additional $500 will be added for each child.
+If individuals haven’t filed 2019 taxes, the payouts will be based on their 2018 returns.
+The payments will phase out at a rate of $5 per every additional $100 in income over $75,000 in adjusted gross income for single adults, $112,500 for heads of household, and $150,000 for married couples filing jointly.
+The checks would be directly deposited into bank accounts if you included direct deposit information on your tax form. If you did not, your check would be mailed.
+Lawmakers and President Trump have said they want the checks mailed by April 6. Still, because the Internal Revenue Service has reduced staff at all of its locations because of the coronavirus, many believe the checks may not go out until May.
+Residents are not expected to have to fill out any forms or call the IRS because the government will automatically send payment based on information culled from a 2018 or 2019 tax return.
+Meanwhile, with unemployment rates expected to approach 20 percent – and as much as 30 percent among minorities, Senate Minority Leader Chuck Schumer (D-N.Y.) emphasized the need for more available benefits and a more extended period.
+Under the stimulus deal, the federal government adds $600 per week to the state benefits jobless workers currently receive. The deal adds four months to the 26-week limit that benefits are paid.
+“It’s unemployment insurance on steroids,” Schumer proclaimed. “But, and most importantly, the federal government will pay your salary, your full salary, for now, four months.”
+Michele Evermore, the senior policy analyst at the National Employment Law Project, called the inclusion of the new unemployment provision, “unprecedented.”
+“Because this situation is so different, we have to break all the rules,” Evermore stated.
+The new stimulus also adds a “pandemic unemployment assistance program,” which provides jobless benefits to independent contractors, gig economy workers, and the self-employed, who typically don’t qualify for such assistance.
+For small businesses, the stimulus means they will get $367 billion to keep making payroll even while workers are required to stay at home.
+Companies with 500 employees or less that keep paychecks steady could get up to $10 million each in forgivable small business loans.
+Federally guaranteed loans will provide eight weeks of assistance for qualifying employers who maintain payroll. Those who meet requirements would have costs such as utilities, mortgage interest, and rent forgiven. Individuals can also defer payment of their 2020 payroll taxes for up to two years, and employers are allowed to cut workers’ hours but not lay them off.
+Those workers are then eligible for some unemployment benefits.
+Businesses can apply for COVID-19 relief through the stimulus by visiting, www.sba.gov/coronavirus. The website is expected to become operational soon.
+		Categories: COVID-19 | National | News | Political Tags: @NNPA_BlackPress | @realDonaldTrump | @SenSchumer | @stacybrownmedia | $13 million for Howard University | $2 trillion stimulus deal | $25 million for the Kennedy Center | $367 billion | $50 million for museums and libraries | $75 million for public broadcasting | 2008 recession | 2018 returns | 2019 taxes | 26-week limit | aftermath | afterthought | Americans | approximately $367 billion | April 6 | bailouts | bipartisan measure | civil rights organizations | Colorado Rep. Ken Buck | communities of color | Coronavirus | COVID-19 | defer payment of their 2020 payroll taxes | direct payouts | Donald Trump | economy | eight weeks of assistance | equal-opportunity pandemic | ever-evolving pandemic | extension of unemployment benefits | federal government | Federally guaranteed loans | forgivable small business loans | forgiven | full yes or no vote | gig economy workers | historically Black college | house | House members | household wealth | Howard University | Hurricane Katrina catastrophes | independent contractors | Internal Revenue Service | IRS | jobless benefits | jobless workers | lawmakers | massive legislation | Melanie Campbell | Michele Evermore | more available benefits | more extended period | mortgage interest | most vulnerable communities | National Coalition on Black Civic Participation | National Employment Law Project | National Urban League | NNPA Newswire | one-time direct payments | pandemic unemployment assistance program | people of color | people's daily lives | President Trump | qualifying employers | real catastrophe | reduced staff | rent | Rep. Matt Gaetz (R-Fla.) | Rep. Matt Gaetz of Florida | Rep. Thomas Massie (R-Kentucky) | risk personal safety | Salary | self-employed | Senate | Senate Minority Leader Chuck Schumer (D-N.Y.) | Senate negotiations | severe and long-term hit | shot in the arm | small and big businesses | Small Business Administration | small business loans | Small Businesses | spreading coronavirus | Stacy M. Brown | state benefits | stimulus deal | stimulus package | Teresa Candori | U.S. Small Business Administration (SBA) | unanimously passed | unemployed individuals | unemployment insurance on steroids | unemployment rates | Utilities | voting in both chambers | working		
+						Governor Newsom Announces Appointments
+						Governor Newsom Statement on Death of Santa Rosa Police Detective
+						LOS ANGELES COUNTY OPENS NEW DRIVE-UP TESTING SITES
+						Coronavirus (COVID-19) Update: FDA Provides Updated Guidance to Address the...
+						Governor Newsom Issues Executive Order Protecting Homes, Small Businesses f...
+						L.A. Schools Are Closed for the Rest of The Academic School Year, Corona Vi...
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->

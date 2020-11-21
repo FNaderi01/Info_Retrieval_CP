@@ -1,0 +1,234 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Shirley Hawkins
+							Ryan Joseph Shot and Killed by Police
+					December 21, 2016Members of the South Los Angeles community are outraged over the police shooting of 20-year-old Ryan Joseph ... read more  »
+							The 10th Annual Leimert Park Village Book Fair Draws Thousands
+					August 24, 2016More than 150 authors, writers, storytellers, poets, spoken word performers, vendors and exhibitors attended this year's fair ... read more  »
+							S.W.A.G.V. is Helping to Save Lives
+					August 17, 2016Sistas Working Against Gang Violence (S.W.A.G.V.) is on a mission to prevent young people from joining gangs ... read more  »
+        ADVERTISEMENT        
+							Thousands Attend the 21st Annual Central Avenue Jazz Festival
+					August 3, 2016There was plenty of feet tapping and finger snapping during the weekend of July 30 and 31 when thousands of music lovers flocked to the 21st Annual Central Avenue Jazz Festival to groove to a spicy brew of hot, cool and swinging jazz, blues, Latin and Brazilian sounds. ... read more  »
+							Legendary Photographer Bill Jones Memoralized
+					July 20, 2016Legendary photographer Dr. William Benjamin “Bill” Jones, who captured Hollywood’s most iconic and luminous African American celebrities for decades, was memorialized on July 14, 2016 at Holman United Methodist Church in Los Angeles. ... read more  »
+							Compton Holds Rally to Protest Rash of Shootings
+					June 1, 2016Due to a spate of shootings in Compton that have left 19 dead so far this year, a “Compton Watch: Take Back Our City” rally was held on May 26 in Gonzalez Park to address the recent rash of shootings. ... read more  »
+							Councilmembers Marqueece Harris-Dawson and Joe Busciano Urge Gov. Jerry Brown to Fully Fund Prop. 47
+					March 9, 2016In a unanimous vote led by Councilman Marqueece Harris-Dawson on March 1, the city council voted to urge Gov. Jerry Brown and state lawmakers in Sacramento to fully fund Prop 47, the Safe Neighborhoods and Schools Fund (SNSF) in this year’s state June budget. ... read more  »
+							35th Annual Black Doll Show Shines Light on the War against HIV/AIDS
+					December 17, 2015On Dec. 12th, The William Grant Still Arts Center hosted a grand opening exhibit for “Trench Art Retrospective: The War Against HIV/AIDS-Women of the African Diaspora in the Trenches”, ... read more  »
+							Summit on Educational Excellence for African Americans Held at Loyola Marymount University
+					November 5, 2015President Obama’s recently approved Educational Excellence for African Americans Initiative held a summit on Wednesday, Oct. 28 at Loyola Marymount University to address issues impacting the academic success of African Americans. ... read more  »
+							Smart and Final Holds Grand Opening in Compton
+					October 8, 2015 
+The air was filled with excitement during the ribbon cutting ceremony on Oct. 1 at the new Smart and Final Extra store located at 280 S. ... read more  »
+							Kamala Harris Addresses Truancy in New Report
+					September 3, 2015School truancy has reached a state of nationwide crisis and California Attorney General Kamala D. Harris, along with members of The Center for American Progress (CAP) announced a “call to action” by announcing CAP’s recent report entitled “The High Cost of Truancy.”
+The CAP report, ... read more  »
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->

@@ -1,0 +1,142 @@
+     category > maptopic > article -->
+    GitHub Docs
+    All products
+  GitHub Desktop
+          Instalação e configuração
+              Visão Geral
+                  Introdução ao GitHub Desktop
+                  Criar o seu primeiro repositório
+                  Sistemas operacionais compatíveis
+                  Atalhos de teclado
+                  Lançar a partir da linha de comando
+              Instalar e efetuar a autenticação no GitHub Desktop
+                  Configuração
+                  Instalação
+                  Autenticação
+                  Sobre conexões com o GitHub
+                  Atualizar o GitHub Desktop
+                  Desinstalar o GitHub Desktop
+              Configurar e personalizar o GitHub Desktop
+                  Configurar o Git
+                  Definir configurações básicas
+                  Configurar o editor padrão
+                  Definir um tema para o GitHub Desktop
+                  Sobre o Git LFS
+          Contribuir e colaborar
+              Adicionar e clonar repositórios
+                  Adicionar um repositório do computador local ao GitHub Desktop
+                  Adicionar um projeto ao GitHub via GitHub Desktop
+                  Clonagem e bifurcar repositórios do GitHub Desktop
+                  Clonar um repositório do GitHub para o GitHub Desktop
+              Fazer alterações em um branch
+                  Gerenciar branches
+                  Fazer commit e revisar as alterações do projeto
+                  Fazer push de alterações
+                  Reverter um commit
+                  Gerenciar tags
+                  Exibir o histórico do branch
+              Usar repositórios remote no GitHub ou no GitHub Enterprise
+                  Criar um problema ou um pull request
+                  Visualizar um pull request
+                  Alterar repositório remote de URL no GitHub Desktop
+              Manter o seu repositório local em sincronia com o GitHub
+                  Sincronizar o branch
+  Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais recentes, acesse a documentação em inglês. Se houver problemas com a tradução desta página, entre em contato conosco.
+        GitHub Docs
+                Explorar por produto
+                      GitHub Desktop
+                       GitHub.com
+                       Enterprise Administrators
+                       GitHub Actions
+                       GitHub Packages
+                       Developers
+                       REST API
+                       GraphQL API
+                       GitHub Insights
+                       GitHub Desktop
+                       Atom
+                       Electron
+                            Português do Brasil (Portuguese)
+                              English
+                              简体中文 (Simplified Chinese)
+                              日本語 (Japanese)
+                              Español (Spanish)
+                              Português do Brasil (Portuguese)
+    GitHub Desktop
+        Documentação do GitHub Desktop
+        Guias detalhados para configurar e usar o GitHub Desktop a fim de gerenciar o trabalho no seu projeto.
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        Obrigatório
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        Opcional
+      Can we contact you if we have more questions?
+        Opcional
+      Enviar
+    Obrigado. Seu feedback foi recebido.
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  Ou, learn how to contribute.
+  Instalar e configurar o GitHub Desktop→
+Obtenha o GitHub Desktop configurado para gerenciar seu projeto de trabalho. Efetue a autenticação com GitHub.com ou GitHub Enterprise, mantenha o aplicativo atualizado e revise suas configurações de preferência.
+  Contribuir e colaborar com o GitHub Desktop→
+Use o GitHub Desktop para gerenciar projetos, criar commits relevantes e monitorar o histórico de cada projeto em um aplicativo em vez de usar a linha de comando.
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        Obrigatório
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        Opcional
+      Can we contact you if we have more questions?
+        Opcional
+      Enviar
+    Obrigado. Seu feedback foi recebido.
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  Ou, learn how to contribute.
+      Still need help?
+      Ask the GitHub community
+      Entrar em contato com o suporte
+        Produto
+          Funcionalidades
+          Segurança
+          Enterprise
+          Estudos de caso
+          Preços
+          Recursos
+        Plataforma
+          API de desenvolvedor
+          Parceiros
+          Atom
+          Electron
+          GitHub Desktop
+        Suporte
+          Ajuda
+          Fórum da comunidade
+          Treinamentos
+          Status
+          Contato com a GitHub
+        Empresa
+          Sobre
+          Blog
+          Carreiras
+          Imprensa
+          Loja
+        © 2020 GitHub, Inc.
+        Termos 
+        Privacidade 

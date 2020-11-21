@@ -1,0 +1,324 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+ESSA Law Must Provide Necessary Investments for Success, Educators Say            
+				By Stacy M. Brown, NNPA Newswire                
+	                	                Published March 22, 2017
+		Allen E. Lipscomb is the author of the 2016 book “Black Male Grief Reaction to Trauma: A Clinical Case Study of One Man’s Mental Health Treatment.” (Allen E. Lipscomb)
+Across the nation, educators say that federal dollars must follow former President Barack Obama’s Every Student Succeeds Act (ESSA), in order for the law to be effective.
+“Sufficient federal Title I and Title II funding is critical in targeting resources to students and schools with the highest need, developing and supporting our educators working in these schools, and enabling states to meet their ESSA commitments,” said Liam Goldrick, the director of policy at New Teacher Center, a Santa Cruz, Calif., based non-profit that’s dedicated to improving student learning by accelerating the effectiveness of new teachers, experienced educators and school leaders. “Without these federal commitments and investments, students in under-resourced schools will continue to face an inequitable educational system and the work of educators will be made even more challenging.”
+President Barack Obama signed the ESSA legislation on December 10, 2015. The bipartisan measure reauthorized the Elementary and Secondary Education Act (ESEA), the 1965 federal education law and longstanding commitment to equal opportunity for all students, according to the Obama Administration. ESSA was drafted to build on key areas of progress in recent years, made possible by the efforts of educators, communities, parents, and students across the country, officials with the Obama Administrations said.
+        ADVERTISEMENT        
+When it comes to progress that was made during the Obama years, today, high school graduation rates are at all-time highs, dropout rates are at historic lows, and more students are going to college than ever before.
+ESSA states that the new law will, “Advance equity by upholding critical protections for America’s disadvantaged and high-need students.”
+Some education advocates have said that the new law doesn’t go far enough to address long-standing racial discrimination that plays out in our education system.
+“The law perpetuates an academic system of oppression in the lack of recognition to deconstruct [White supremacy],” said Allen E. Lipscomb, author of the 2016 book “Black Male Grief Reaction to Trauma: A Clinical Case Study of One Man’s Mental Health Treatment.”
+Lipscomb also said that the law does not take into consideration the person-in-environment perspective and the mental health needs of some students.
+“What does trauma look like? What are [the impacts of] additional stressors on intersectional identities,” for Blacks, poor people, or queer and transgender people, Lipscomb asked. “These identity markers also play a crucial role in the student’s ability to succeed, academically speaking, and this law must look at all of the nuances that impede a student’s ability to function and succeed within an oppressive educational system.”
+Kim L. Defibaugh, the president of the National Art Education Association (NAEA) in Williamsburg, Va., said that the newest incarnation of federal legislation guiding K-12 education maintains the basic components of state plans and district report cards as accountability measures.
+“A major change from the previous legislation is that it removes responsibility for outlining and monitoring implementation of the law from the U.S. Department of Education and returns it to the states,” Defibaugh said.
+Defibaugh added that another encouraging key point in the language of the law, is the section that describes the “well-rounded education” provision, Section 8002.
+“Mentioned throughout ESSA, it lists the arts as a subject essential to providing students a comprehensive and enriched educational experience,” Defibaugh said. “The National Art Education Association defines visual arts as a core academic subject and supports inclusion of a rigorous, high quality, comprehensive, sequential, and authentic visual arts program in every school for every child.”
+Defibaugh said that individual states are still required to submit a plan to notify the U.S. Department of Education and local stakeholders about accountability systems, standards and assessments. The NAEA believes that a variety of authentic assessments, which are developmentally appropriate for all learners, are vital to best practices in art education, she said.
+Defibaugh continued: “Under ESSA, states now have the flexibility to develop expectations for learning in the arts that meet the needs of the diverse population of students in their schools.”
+Under sections describing the Assistance for Arts Education program (Section 4642) and a federal grant program (Section 4103), each state that receives an allotment for a fiscal year shall offer well-rounded educational experiences to all students, including female students, minority students, English learners, children with disabilities, and low-income students who are often underrepresented in critical and enriching subjects, which may include activities and programs in music and the arts.
+“A broader focus on moving away from a simple reliance on test scores is wise and is a partial victory,” said Michael W. Apple, a professor of Curriculum and Instruction and Educational Policy Studies at the University of Wisconsin, Madison. “This is important to recognize since ‘No Child Left Behind’ and its process of blaming and shaming was disastrous in many ways, especially to many poor and minority communities.”
+Apple cautioned against adding “rhetorical reforms” that, when put into practice, either give lip service to struggling schools or create more bureaucratic rules that take attention away from other extremely necessary and more robust reforms.
+“For example, while I support a bill that puts more of a focus on a larger range of subjects and school experiences and evidence, will this prevent the current cycle of massive school closings in urban areas,” Apple said. “Will it deal realistically with the very real disproportionate funding that exists? Will the funding for the ESSA be sufficient? What will happen with a much more conservative Congress and [White House] that want to put much more money and support behind privatized education and who have continued to exhibit a lack of understanding of the realities of minority communities?”
+		Categories: Education | National Tags: Elementary and Secondary Education Act | ESEA | ESSA | Every Student Succeeds Act		
+						Angolan Women Protest Harsh Bill Criminalizing Abortion
+						Women’s Month:  Why I Pledged
+						Movie Review: Power Rangers
+						Pfizer, NNPA Collaborate to Raise Awareness of Sickle Cell Disease and Need...
+						Katt Williams Faces Lawsuit
+						Brotherhood Crusade is seeking 16-24 Year Old Youth for Upcoming Paid Work ...
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

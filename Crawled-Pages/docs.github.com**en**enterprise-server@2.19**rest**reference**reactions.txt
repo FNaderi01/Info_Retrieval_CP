@@ -1,0 +1,1338 @@
+     category > maptopic > article -->
+    GitHub Docs
+    All products
+  REST API
+          Overview
+          Resources in the REST API
+          Media types
+          Other authentication methods
+          Troubleshooting
+          API previews
+          Libraries
+          Endpoints available for GitHub Apps
+          Reference
+          Activity
+          Apps
+          Checks
+          Codes of conduct
+          Emojis
+          GitHub Enterprise administration
+          Gists
+          Git database
+          Gitignore
+          Issues
+          Licenses
+          Markdown
+          Meta
+          OAuth Authorizations
+          Organizations
+          Projects
+          Pulls
+          Rate limit
+          Reactions
+          Repositories
+          Search
+          Teams
+          Users
+          Permissions required for GitHub Apps
+          Guides
+          Getting started with the REST API
+          Basics of authentication
+          Discovering resources for a user
+          Delivering deployments
+          Rendering data as graphs
+          Working with comments
+          Traversing with pagination
+          Building a CI server
+          Best practices for integrators
+          Getting started with the Git Database API
+          Getting started with the Checks API
+        GitHub Docs
+                Explore by product
+                      REST API
+                       GitHub.com
+                       Enterprise Administrators
+                       GitHub Actions
+                       GitHub Packages
+                       Developers
+                       REST API
+                       GraphQL API
+                       GitHub Insights
+                       GitHub Desktop
+                       Atom
+                       Electron
+                            English
+                              English
+                              简体中文 (Simplified Chinese)
+                              日本語 (Japanese)
+                              Español (Spanish)
+                              Português do Brasil (Portuguese)
+          This version of GitHub Enterprise will be discontinued on
+          This version of GitHub Enterprise was discontinued on
+        2020-11-12.
+      No patch releases will be made, even for critical security issues. For better performance, improved security, and new features, upgrade to the latest version of GitHub Enterprise.
+For help with the upgrade, contact GitHub Enterprise support.
+      Article version: Enterprise Server 2.19
+      Free, Pro, and Team
+      Enterprise Server 2.22
+      Enterprise Server 2.21
+      Enterprise Server 2.20
+      Enterprise Server 2.19
+    REST API
+    Reference
+    Reactions
+      Article version: Enterprise Server 2.19
+      Free, Pro, and Team
+      Enterprise Server 2.22
+      Enterprise Server 2.21
+      Enterprise Server 2.20
+      Enterprise Server 2.19
+        Reactions
+        In this article
+          Reaction types
+      Delete a reaction
+      List reactions for a commit comment
+      Create reaction for a commit comment
+      List reactions for an issue comment
+      Create reaction for an issue comment
+      List reactions for an issue
+      Create reaction for an issue
+      List reactions for a pull request review comment
+      Create reaction for a pull request review comment
+      List reactions for a team discussion comment
+      Create reaction for a team discussion comment
+      List reactions for a team discussion
+      Create reaction for a team discussion
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        Required
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        Optional
+      Can we contact you if we have more questions?
+        Optional
+      Send
+    Thank you! Your feedback has been submitted.
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  Or, learn how to contribute.
+      Reaction types
+When creating a reaction, the allowed values for the content parameter are as follows (with the corresponding emoji for reference):
+contentemoji+1👍-1👎laugh😄confused😕heart❤️hooray🎉rocket🚀eyes👀
+      Delete a reaction
+    OAuth access tokens require the write:discussion scope, when deleting a team discussion or team discussion comment.
+  delete /reactions/{reaction_id}
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  Setting to application/vnd.github.v3+json is recommended.
+                      See preview notice
+              accept
+              string
+              header
+              This API is under preview and subject to change.
+              reaction_id
+              integer
+              path
+        Code samples
+              Shell
+          curl \
+  -X DELETE \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/reactions/42
+              JavaScript (@octokit/core.js)
+          await octokit.request('DELETE /reactions/{reaction_id}', {
+  reaction_id: 42
+})
+      Default Response
+      Status: 204 No Content
+      Notes
+        Works with GitHub Apps
+          Preview notice
+          An additional reactions object in the issue comment payload is currently available for developers to preview. During the preview period, the APIs may change without advance notice. Please see the blog post for full details.
+To access the API you must provide a custom media type in the Accept header:
+application/vnd.github.squirrel-girl-preview
+The reactions key will have the following payload where url can be used to construct the API location for listing and creating reactions.
+      List reactions for a commit comment
+    List the reactions to a commit comment.
+  get /repos/{owner}/{repo}/comments/{comment_id}/reactions
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  This API is under preview and subject to change.
+                      See preview notice
+              owner
+              string
+              path
+              repo
+              string
+              path
+              comment_id
+              integer
+              path
+              comment_id parameter
+              content
+              string
+              query
+              Returns a single reaction type. Omit this parameter to list all reactions to a commit comment.
+              per_page
+              integer
+              query
+              Results per page (max 100)
+              page
+              integer
+              query
+              Page number of the results to fetch.
+        Code samples
+              Shell
+          curl \
+  -H "Accept: application/vnd.github.squirrel-girl-preview+json" \
+  https://api.github.com/repos/octocat/hello-world/comments/42/reactions
+              JavaScript (@octokit/core.js)
+          await octokit.request('GET /repos/{owner}/{repo}/comments/{comment_id}/reactions', {
+  owner: 'octocat',
+  repo: 'hello-world',
+  comment_id: 42,
+  mediaType: {
+    previews: [
+      'squirrel-girl'
+    ]
+  }
+})
+      Default response
+      Status: 200 OK
+      [
+  {
+    "id": 1,
+    "node_id": "MDg6UmVhY3Rpb24x",
+    "user": {
+      "login": "octocat",
+      "id": 1,
+      "node_id": "MDQ6VXNlcjE=",
+      "avatar_url": "https://github.com/images/error/octocat_happy.gif",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/octocat",
+      "html_url": "https://github.com/octocat",
+      "followers_url": "https://api.github.com/users/octocat/followers",
+      "following_url": "https://api.github.com/users/octocat/following{/other_user}",
+      "gists_url": "https://api.github.com/users/octocat/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/octocat/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/octocat/subscriptions",
+      "organizations_url": "https://api.github.com/users/octocat/orgs",
+      "repos_url": "https://api.github.com/users/octocat/repos",
+      "events_url": "https://api.github.com/users/octocat/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/octocat/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "content": "heart",
+    "created_at": "2016-05-20T20:09:31Z"
+  }
+]
+      Resource not found
+      Status: 404 Not Found
+      Preview header missing
+      Status: 415 Unsupported Media Type
+      Notes
+        Works with GitHub Apps
+          Preview notice
+          An additional reactions object in the issue comment payload is currently available for developers to preview. During the preview period, the APIs may change without advance notice. Please see the blog post for full details.
+To access the API you must provide a custom media type in the Accept header:
+application/vnd.github.squirrel-girl-preview
+The reactions key will have the following payload where url can be used to construct the API location for listing and creating reactions.
+          ☝️ This header is required.
+      Create reaction for a commit comment
+    Create a reaction to a commit comment. A response with a Status: 200 OK means that you already added the reaction type to this commit comment.
+  post /repos/{owner}/{repo}/comments/{comment_id}/reactions
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  This API is under preview and subject to change.
+                      See preview notice
+              owner
+              string
+              path
+              repo
+              string
+              path
+              comment_id
+              integer
+              path
+              comment_id parameter
+            content
+            string
+            body
+              Required. The reaction type to add to the commit comment.
+        Code samples
+              Shell
+          curl \
+  -X POST \
+  -H "Accept: application/vnd.github.squirrel-girl-preview+json" \
+  https://api.github.com/repos/octocat/hello-world/comments/42/reactions \
+  -d '{"content":"content"}'
+              JavaScript (@octokit/core.js)
+          await octokit.request('POST /repos/{owner}/{repo}/comments/{comment_id}/reactions', {
+  owner: 'octocat',
+  repo: 'hello-world',
+  comment_id: 42,
+  content: 'content',
+  mediaType: {
+    previews: [
+      'squirrel-girl'
+    ]
+  }
+})
+      Default response
+      Status: 200 OK
+      {
+  "id": 1,
+  "node_id": "MDg6UmVhY3Rpb24x",
+  "user": {
+    "login": "octocat",
+    "id": 1,
+    "node_id": "MDQ6VXNlcjE=",
+    "avatar_url": "https://github.com/images/error/octocat_happy.gif",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/octocat",
+    "html_url": "https://github.com/octocat",
+    "followers_url": "https://api.github.com/users/octocat/followers",
+    "following_url": "https://api.github.com/users/octocat/following{/other_user}",
+    "gists_url": "https://api.github.com/users/octocat/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/octocat/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/octocat/subscriptions",
+    "organizations_url": "https://api.github.com/users/octocat/orgs",
+    "repos_url": "https://api.github.com/users/octocat/repos",
+    "events_url": "https://api.github.com/users/octocat/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/octocat/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "content": "heart",
+  "created_at": "2016-05-20T20:09:31Z"
+}
+      Default response
+      Status: 201 Created
+      {
+  "id": 1,
+  "node_id": "MDg6UmVhY3Rpb24x",
+  "user": {
+    "login": "octocat",
+    "id": 1,
+    "node_id": "MDQ6VXNlcjE=",
+    "avatar_url": "https://github.com/images/error/octocat_happy.gif",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/octocat",
+    "html_url": "https://github.com/octocat",
+    "followers_url": "https://api.github.com/users/octocat/followers",
+    "following_url": "https://api.github.com/users/octocat/following{/other_user}",
+    "gists_url": "https://api.github.com/users/octocat/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/octocat/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/octocat/subscriptions",
+    "organizations_url": "https://api.github.com/users/octocat/orgs",
+    "repos_url": "https://api.github.com/users/octocat/repos",
+    "events_url": "https://api.github.com/users/octocat/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/octocat/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "content": "heart",
+  "created_at": "2016-05-20T20:09:31Z"
+}
+      Preview header missing
+      Status: 415 Unsupported Media Type
+      Validation failed
+      Status: 422 Unprocessable Entity
+      Notes
+        Works with GitHub Apps
+          Preview notice
+          An additional reactions object in the issue comment payload is currently available for developers to preview. During the preview period, the APIs may change without advance notice. Please see the blog post for full details.
+To access the API you must provide a custom media type in the Accept header:
+application/vnd.github.squirrel-girl-preview
+The reactions key will have the following payload where url can be used to construct the API location for listing and creating reactions.
+          ☝️ This header is required.
+      List reactions for an issue comment
+    List the reactions to an issue comment.
+  get /repos/{owner}/{repo}/issues/comments/{comment_id}/reactions
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  This API is under preview and subject to change.
+                      See preview notice
+              owner
+              string
+              path
+              repo
+              string
+              path
+              comment_id
+              integer
+              path
+              comment_id parameter
+              content
+              string
+              query
+              Returns a single reaction type. Omit this parameter to list all reactions to an issue comment.
+              per_page
+              integer
+              query
+              Results per page (max 100)
+              page
+              integer
+              query
+              Page number of the results to fetch.
+        Code samples
+              Shell
+          curl \
+  -H "Accept: application/vnd.github.squirrel-girl-preview+json" \
+  https://api.github.com/repos/octocat/hello-world/issues/comments/42/reactions
+              JavaScript (@octokit/core.js)
+          await octokit.request('GET /repos/{owner}/{repo}/issues/comments/{comment_id}/reactions', {
+  owner: 'octocat',
+  repo: 'hello-world',
+  comment_id: 42,
+  mediaType: {
+    previews: [
+      'squirrel-girl'
+    ]
+  }
+})
+      Default response
+      Status: 200 OK
+      [
+  {
+    "id": 1,
+    "node_id": "MDg6UmVhY3Rpb24x",
+    "user": {
+      "login": "octocat",
+      "id": 1,
+      "node_id": "MDQ6VXNlcjE=",
+      "avatar_url": "https://github.com/images/error/octocat_happy.gif",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/octocat",
+      "html_url": "https://github.com/octocat",
+      "followers_url": "https://api.github.com/users/octocat/followers",
+      "following_url": "https://api.github.com/users/octocat/following{/other_user}",
+      "gists_url": "https://api.github.com/users/octocat/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/octocat/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/octocat/subscriptions",
+      "organizations_url": "https://api.github.com/users/octocat/orgs",
+      "repos_url": "https://api.github.com/users/octocat/repos",
+      "events_url": "https://api.github.com/users/octocat/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/octocat/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "content": "heart",
+    "created_at": "2016-05-20T20:09:31Z"
+  }
+]
+      Resource not found
+      Status: 404 Not Found
+      Preview header missing
+      Status: 415 Unsupported Media Type
+      Notes
+        Works with GitHub Apps
+          Preview notice
+          An additional reactions object in the issue comment payload is currently available for developers to preview. During the preview period, the APIs may change without advance notice. Please see the blog post for full details.
+To access the API you must provide a custom media type in the Accept header:
+application/vnd.github.squirrel-girl-preview
+The reactions key will have the following payload where url can be used to construct the API location for listing and creating reactions.
+          ☝️ This header is required.
+      Create reaction for an issue comment
+    Create a reaction to an issue comment. A response with a Status: 200 OK means that you already added the reaction type to this issue comment.
+  post /repos/{owner}/{repo}/issues/comments/{comment_id}/reactions
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  This API is under preview and subject to change.
+                      See preview notice
+              owner
+              string
+              path
+              repo
+              string
+              path
+              comment_id
+              integer
+              path
+              comment_id parameter
+            content
+            string
+            body
+              Required. The reaction type to add to the issue comment.
+        Code samples
+              Shell
+          curl \
+  -X POST \
+  -H "Accept: application/vnd.github.squirrel-girl-preview+json" \
+  https://api.github.com/repos/octocat/hello-world/issues/comments/42/reactions \
+  -d '{"content":"content"}'
+              JavaScript (@octokit/core.js)
+          await octokit.request('POST /repos/{owner}/{repo}/issues/comments/{comment_id}/reactions', {
+  owner: 'octocat',
+  repo: 'hello-world',
+  comment_id: 42,
+  content: 'content',
+  mediaType: {
+    previews: [
+      'squirrel-girl'
+    ]
+  }
+})
+      Default response
+      Status: 200 OK
+      {
+  "id": 1,
+  "node_id": "MDg6UmVhY3Rpb24x",
+  "user": {
+    "login": "octocat",
+    "id": 1,
+    "node_id": "MDQ6VXNlcjE=",
+    "avatar_url": "https://github.com/images/error/octocat_happy.gif",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/octocat",
+    "html_url": "https://github.com/octocat",
+    "followers_url": "https://api.github.com/users/octocat/followers",
+    "following_url": "https://api.github.com/users/octocat/following{/other_user}",
+    "gists_url": "https://api.github.com/users/octocat/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/octocat/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/octocat/subscriptions",
+    "organizations_url": "https://api.github.com/users/octocat/orgs",
+    "repos_url": "https://api.github.com/users/octocat/repos",
+    "events_url": "https://api.github.com/users/octocat/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/octocat/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "content": "heart",
+  "created_at": "2016-05-20T20:09:31Z"
+}
+      Default response
+      Status: 201 Created
+      {
+  "id": 1,
+  "node_id": "MDg6UmVhY3Rpb24x",
+  "user": {
+    "login": "octocat",
+    "id": 1,
+    "node_id": "MDQ6VXNlcjE=",
+    "avatar_url": "https://github.com/images/error/octocat_happy.gif",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/octocat",
+    "html_url": "https://github.com/octocat",
+    "followers_url": "https://api.github.com/users/octocat/followers",
+    "following_url": "https://api.github.com/users/octocat/following{/other_user}",
+    "gists_url": "https://api.github.com/users/octocat/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/octocat/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/octocat/subscriptions",
+    "organizations_url": "https://api.github.com/users/octocat/orgs",
+    "repos_url": "https://api.github.com/users/octocat/repos",
+    "events_url": "https://api.github.com/users/octocat/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/octocat/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "content": "heart",
+  "created_at": "2016-05-20T20:09:31Z"
+}
+      Preview header missing
+      Status: 415 Unsupported Media Type
+      Validation failed
+      Status: 422 Unprocessable Entity
+      Notes
+        Works with GitHub Apps
+          Preview notice
+          An additional reactions object in the issue comment payload is currently available for developers to preview. During the preview period, the APIs may change without advance notice. Please see the blog post for full details.
+To access the API you must provide a custom media type in the Accept header:
+application/vnd.github.squirrel-girl-preview
+The reactions key will have the following payload where url can be used to construct the API location for listing and creating reactions.
+          ☝️ This header is required.
+      List reactions for an issue
+    List the reactions to an issue.
+  get /repos/{owner}/{repo}/issues/{issue_number}/reactions
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  This API is under preview and subject to change.
+                      See preview notice
+              owner
+              string
+              path
+              repo
+              string
+              path
+              issue_number
+              integer
+              path
+              issue_number parameter
+              content
+              string
+              query
+              Returns a single reaction type. Omit this parameter to list all reactions to an issue.
+              per_page
+              integer
+              query
+              Results per page (max 100)
+              page
+              integer
+              query
+              Page number of the results to fetch.
+        Code samples
+              Shell
+          curl \
+  -H "Accept: application/vnd.github.squirrel-girl-preview+json" \
+  https://api.github.com/repos/octocat/hello-world/issues/42/reactions
+              JavaScript (@octokit/core.js)
+          await octokit.request('GET /repos/{owner}/{repo}/issues/{issue_number}/reactions', {
+  owner: 'octocat',
+  repo: 'hello-world',
+  issue_number: 42,
+  mediaType: {
+    previews: [
+      'squirrel-girl'
+    ]
+  }
+})
+      Default response
+      Status: 200 OK
+      [
+  {
+    "id": 1,
+    "node_id": "MDg6UmVhY3Rpb24x",
+    "user": {
+      "login": "octocat",
+      "id": 1,
+      "node_id": "MDQ6VXNlcjE=",
+      "avatar_url": "https://github.com/images/error/octocat_happy.gif",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/octocat",
+      "html_url": "https://github.com/octocat",
+      "followers_url": "https://api.github.com/users/octocat/followers",
+      "following_url": "https://api.github.com/users/octocat/following{/other_user}",
+      "gists_url": "https://api.github.com/users/octocat/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/octocat/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/octocat/subscriptions",
+      "organizations_url": "https://api.github.com/users/octocat/orgs",
+      "repos_url": "https://api.github.com/users/octocat/repos",
+      "events_url": "https://api.github.com/users/octocat/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/octocat/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "content": "heart",
+    "created_at": "2016-05-20T20:09:31Z"
+  }
+]
+      Resource not found
+      Status: 404 Not Found
+      Gone
+      Status: 410 Gone
+      Preview header missing
+      Status: 415 Unsupported Media Type
+      Notes
+        Works with GitHub Apps
+          Preview notice
+          An additional reactions object in the issue comment payload is currently available for developers to preview. During the preview period, the APIs may change without advance notice. Please see the blog post for full details.
+To access the API you must provide a custom media type in the Accept header:
+application/vnd.github.squirrel-girl-preview
+The reactions key will have the following payload where url can be used to construct the API location for listing and creating reactions.
+          ☝️ This header is required.
+      Create reaction for an issue
+    Create a reaction to an issue. A response with a Status: 200 OK means that you already added the reaction type to this issue.
+  post /repos/{owner}/{repo}/issues/{issue_number}/reactions
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  This API is under preview and subject to change.
+                      See preview notice
+              owner
+              string
+              path
+              repo
+              string
+              path
+              issue_number
+              integer
+              path
+              issue_number parameter
+            content
+            string
+            body
+              Required. The reaction type to add to the issue.
+        Code samples
+              Shell
+          curl \
+  -X POST \
+  -H "Accept: application/vnd.github.squirrel-girl-preview+json" \
+  https://api.github.com/repos/octocat/hello-world/issues/42/reactions \
+  -d '{"content":"content"}'
+              JavaScript (@octokit/core.js)
+          await octokit.request('POST /repos/{owner}/{repo}/issues/{issue_number}/reactions', {
+  owner: 'octocat',
+  repo: 'hello-world',
+  issue_number: 42,
+  content: 'content',
+  mediaType: {
+    previews: [
+      'squirrel-girl'
+    ]
+  }
+})
+      Default response
+      Status: 201 Created
+      {
+  "id": 1,
+  "node_id": "MDg6UmVhY3Rpb24x",
+  "user": {
+    "login": "octocat",
+    "id": 1,
+    "node_id": "MDQ6VXNlcjE=",
+    "avatar_url": "https://github.com/images/error/octocat_happy.gif",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/octocat",
+    "html_url": "https://github.com/octocat",
+    "followers_url": "https://api.github.com/users/octocat/followers",
+    "following_url": "https://api.github.com/users/octocat/following{/other_user}",
+    "gists_url": "https://api.github.com/users/octocat/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/octocat/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/octocat/subscriptions",
+    "organizations_url": "https://api.github.com/users/octocat/orgs",
+    "repos_url": "https://api.github.com/users/octocat/repos",
+    "events_url": "https://api.github.com/users/octocat/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/octocat/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "content": "heart",
+  "created_at": "2016-05-20T20:09:31Z"
+}
+      Preview header missing
+      Status: 415 Unsupported Media Type
+      Validation failed
+      Status: 422 Unprocessable Entity
+          Preview notice
+          An additional reactions object in the issue comment payload is currently available for developers to preview. During the preview period, the APIs may change without advance notice. Please see the blog post for full details.
+To access the API you must provide a custom media type in the Accept header:
+application/vnd.github.squirrel-girl-preview
+The reactions key will have the following payload where url can be used to construct the API location for listing and creating reactions.
+          ☝️ This header is required.
+      List reactions for a pull request review comment
+    List the reactions to a pull request review comment.
+  get /repos/{owner}/{repo}/pulls/comments/{comment_id}/reactions
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  This API is under preview and subject to change.
+                      See preview notice
+              owner
+              string
+              path
+              repo
+              string
+              path
+              comment_id
+              integer
+              path
+              comment_id parameter
+              content
+              string
+              query
+              Returns a single reaction type. Omit this parameter to list all reactions to a pull request review comment.
+              per_page
+              integer
+              query
+              Results per page (max 100)
+              page
+              integer
+              query
+              Page number of the results to fetch.
+        Code samples
+              Shell
+          curl \
+  -H "Accept: application/vnd.github.squirrel-girl-preview+json" \
+  https://api.github.com/repos/octocat/hello-world/pulls/comments/42/reactions
+              JavaScript (@octokit/core.js)
+          await octokit.request('GET /repos/{owner}/{repo}/pulls/comments/{comment_id}/reactions', {
+  owner: 'octocat',
+  repo: 'hello-world',
+  comment_id: 42,
+  mediaType: {
+    previews: [
+      'squirrel-girl'
+    ]
+  }
+})
+      Default response
+      Status: 200 OK
+      [
+  {
+    "id": 1,
+    "node_id": "MDg6UmVhY3Rpb24x",
+    "user": {
+      "login": "octocat",
+      "id": 1,
+      "node_id": "MDQ6VXNlcjE=",
+      "avatar_url": "https://github.com/images/error/octocat_happy.gif",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/octocat",
+      "html_url": "https://github.com/octocat",
+      "followers_url": "https://api.github.com/users/octocat/followers",
+      "following_url": "https://api.github.com/users/octocat/following{/other_user}",
+      "gists_url": "https://api.github.com/users/octocat/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/octocat/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/octocat/subscriptions",
+      "organizations_url": "https://api.github.com/users/octocat/orgs",
+      "repos_url": "https://api.github.com/users/octocat/repos",
+      "events_url": "https://api.github.com/users/octocat/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/octocat/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "content": "heart",
+    "created_at": "2016-05-20T20:09:31Z"
+  }
+]
+      Resource not found
+      Status: 404 Not Found
+      Preview header missing
+      Status: 415 Unsupported Media Type
+      Notes
+        Works with GitHub Apps
+          Preview notice
+          An additional reactions object in the issue comment payload is currently available for developers to preview. During the preview period, the APIs may change without advance notice. Please see the blog post for full details.
+To access the API you must provide a custom media type in the Accept header:
+application/vnd.github.squirrel-girl-preview
+The reactions key will have the following payload where url can be used to construct the API location for listing and creating reactions.
+          ☝️ This header is required.
+      Create reaction for a pull request review comment
+    Create a reaction to a pull request review comment. A response with a Status: 200 OK means that you already added the reaction type to this pull request review comment.
+  post /repos/{owner}/{repo}/pulls/comments/{comment_id}/reactions
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  This API is under preview and subject to change.
+                      See preview notice
+              owner
+              string
+              path
+              repo
+              string
+              path
+              comment_id
+              integer
+              path
+              comment_id parameter
+            content
+            string
+            body
+              Required. The reaction type to add to the pull request review comment.
+        Code samples
+              Shell
+          curl \
+  -X POST \
+  -H "Accept: application/vnd.github.squirrel-girl-preview+json" \
+  https://api.github.com/repos/octocat/hello-world/pulls/comments/42/reactions \
+  -d '{"content":"content"}'
+              JavaScript (@octokit/core.js)
+          await octokit.request('POST /repos/{owner}/{repo}/pulls/comments/{comment_id}/reactions', {
+  owner: 'octocat',
+  repo: 'hello-world',
+  comment_id: 42,
+  content: 'content',
+  mediaType: {
+    previews: [
+      'squirrel-girl'
+    ]
+  }
+})
+      Default response
+      Status: 200 OK
+      {
+  "id": 1,
+  "node_id": "MDg6UmVhY3Rpb24x",
+  "user": {
+    "login": "octocat",
+    "id": 1,
+    "node_id": "MDQ6VXNlcjE=",
+    "avatar_url": "https://github.com/images/error/octocat_happy.gif",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/octocat",
+    "html_url": "https://github.com/octocat",
+    "followers_url": "https://api.github.com/users/octocat/followers",
+    "following_url": "https://api.github.com/users/octocat/following{/other_user}",
+    "gists_url": "https://api.github.com/users/octocat/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/octocat/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/octocat/subscriptions",
+    "organizations_url": "https://api.github.com/users/octocat/orgs",
+    "repos_url": "https://api.github.com/users/octocat/repos",
+    "events_url": "https://api.github.com/users/octocat/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/octocat/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "content": "heart",
+  "created_at": "2016-05-20T20:09:31Z"
+}
+      Default response
+      Status: 201 Created
+      {
+  "id": 1,
+  "node_id": "MDg6UmVhY3Rpb24x",
+  "user": {
+    "login": "octocat",
+    "id": 1,
+    "node_id": "MDQ6VXNlcjE=",
+    "avatar_url": "https://github.com/images/error/octocat_happy.gif",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/octocat",
+    "html_url": "https://github.com/octocat",
+    "followers_url": "https://api.github.com/users/octocat/followers",
+    "following_url": "https://api.github.com/users/octocat/following{/other_user}",
+    "gists_url": "https://api.github.com/users/octocat/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/octocat/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/octocat/subscriptions",
+    "organizations_url": "https://api.github.com/users/octocat/orgs",
+    "repos_url": "https://api.github.com/users/octocat/repos",
+    "events_url": "https://api.github.com/users/octocat/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/octocat/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "content": "heart",
+  "created_at": "2016-05-20T20:09:31Z"
+}
+      Preview header missing
+      Status: 415 Unsupported Media Type
+      Validation failed
+      Status: 422 Unprocessable Entity
+      Notes
+        Works with GitHub Apps
+          Preview notice
+          An additional reactions object in the issue comment payload is currently available for developers to preview. During the preview period, the APIs may change without advance notice. Please see the blog post for full details.
+To access the API you must provide a custom media type in the Accept header:
+application/vnd.github.squirrel-girl-preview
+The reactions key will have the following payload where url can be used to construct the API location for listing and creating reactions.
+          ☝️ This header is required.
+      List reactions for a team discussion comment
+    List the reactions to a team discussion comment. OAuth access tokens require the read:discussion scope.
+  get /teams/{team_id}/discussions/{discussion_number}/comments/{comment_number}/reactions
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  Setting to application/vnd.github.v3+json is recommended.
+                      See preview notice
+              accept
+              string
+              header
+              This API is under preview and subject to change.
+              team_id
+              integer
+              path
+              discussion_number
+              integer
+              path
+              comment_number
+              integer
+              path
+              content
+              string
+              query
+              Returns a single reaction type. Omit this parameter to list all reactions to a team discussion comment.
+              per_page
+              integer
+              query
+              Results per page (max 100)
+              page
+              integer
+              query
+              Page number of the results to fetch.
+        Code samples
+              Shell
+          curl \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/teams/42/discussions/42/comments/42/reactions
+              JavaScript (@octokit/core.js)
+          await octokit.request('GET /teams/{team_id}/discussions/{discussion_number}/comments/{comment_number}/reactions', {
+  team_id: 42,
+  discussion_number: 42,
+  comment_number: 42
+})
+      Default response
+      Status: 200 OK
+      [
+  {
+    "id": 1,
+    "node_id": "MDg6UmVhY3Rpb24x",
+    "user": {
+      "login": "octocat",
+      "id": 1,
+      "node_id": "MDQ6VXNlcjE=",
+      "avatar_url": "https://github.com/images/error/octocat_happy.gif",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/octocat",
+      "html_url": "https://github.com/octocat",
+      "followers_url": "https://api.github.com/users/octocat/followers",
+      "following_url": "https://api.github.com/users/octocat/following{/other_user}",
+      "gists_url": "https://api.github.com/users/octocat/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/octocat/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/octocat/subscriptions",
+      "organizations_url": "https://api.github.com/users/octocat/orgs",
+      "repos_url": "https://api.github.com/users/octocat/repos",
+      "events_url": "https://api.github.com/users/octocat/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/octocat/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "content": "heart",
+    "created_at": "2016-05-20T20:09:31Z"
+  }
+]
+      Notes
+        Works with GitHub Apps
+          Preview notice
+          An additional reactions object in the issue comment payload is currently available for developers to preview. During the preview period, the APIs may change without advance notice. Please see the blog post for full details.
+To access the API you must provide a custom media type in the Accept header:
+application/vnd.github.squirrel-girl-preview
+The reactions key will have the following payload where url can be used to construct the API location for listing and creating reactions.
+      Create reaction for a team discussion comment
+    Create a reaction to a team discussion comment. OAuth access tokens require the write:discussion scope. A response with a Status: 200 OK means that you already added the reaction type to this team discussion comment.
+  post /teams/{team_id}/discussions/{discussion_number}/comments/{comment_number}/reactions
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  Setting to application/vnd.github.v3+json is recommended.
+                      See preview notice
+              accept
+              string
+              header
+              This API is under preview and subject to change.
+              team_id
+              integer
+              path
+              discussion_number
+              integer
+              path
+              comment_number
+              integer
+              path
+            content
+            string
+            body
+              Required. The reaction type to add to the team discussion comment.
+        Code samples
+              Shell
+          curl \
+  -X POST \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/teams/42/discussions/42/comments/42/reactions \
+  -d '{"content":"content"}'
+              JavaScript (@octokit/core.js)
+          await octokit.request('POST /teams/{team_id}/discussions/{discussion_number}/comments/{comment_number}/reactions', {
+  team_id: 42,
+  discussion_number: 42,
+  comment_number: 42,
+  content: 'content'
+})
+      Default response
+      Status: 201 Created
+      {
+  "id": 1,
+  "node_id": "MDg6UmVhY3Rpb24x",
+  "user": {
+    "login": "octocat",
+    "id": 1,
+    "node_id": "MDQ6VXNlcjE=",
+    "avatar_url": "https://github.com/images/error/octocat_happy.gif",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/octocat",
+    "html_url": "https://github.com/octocat",
+    "followers_url": "https://api.github.com/users/octocat/followers",
+    "following_url": "https://api.github.com/users/octocat/following{/other_user}",
+    "gists_url": "https://api.github.com/users/octocat/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/octocat/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/octocat/subscriptions",
+    "organizations_url": "https://api.github.com/users/octocat/orgs",
+    "repos_url": "https://api.github.com/users/octocat/repos",
+    "events_url": "https://api.github.com/users/octocat/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/octocat/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "content": "heart",
+  "created_at": "2016-05-20T20:09:31Z"
+}
+      Notes
+        Works with GitHub Apps
+          Preview notice
+          An additional reactions object in the issue comment payload is currently available for developers to preview. During the preview period, the APIs may change without advance notice. Please see the blog post for full details.
+To access the API you must provide a custom media type in the Accept header:
+application/vnd.github.squirrel-girl-preview
+The reactions key will have the following payload where url can be used to construct the API location for listing and creating reactions.
+      List reactions for a team discussion
+    List the reactions to a team discussion. OAuth access tokens require the read:discussion scope.
+  get /teams/{team_id}/discussions/{discussion_number}/reactions
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  Setting to application/vnd.github.v3+json is recommended.
+                      See preview notice
+              accept
+              string
+              header
+              This API is under preview and subject to change.
+              team_id
+              integer
+              path
+              discussion_number
+              integer
+              path
+              content
+              string
+              query
+              Returns a single reaction type. Omit this parameter to list all reactions to a team discussion.
+              per_page
+              integer
+              query
+              Results per page (max 100)
+              page
+              integer
+              query
+              Page number of the results to fetch.
+        Code samples
+              Shell
+          curl \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/teams/42/discussions/42/reactions
+              JavaScript (@octokit/core.js)
+          await octokit.request('GET /teams/{team_id}/discussions/{discussion_number}/reactions', {
+  team_id: 42,
+  discussion_number: 42
+})
+      Default response
+      Status: 200 OK
+      [
+  {
+    "id": 1,
+    "node_id": "MDg6UmVhY3Rpb24x",
+    "user": {
+      "login": "octocat",
+      "id": 1,
+      "node_id": "MDQ6VXNlcjE=",
+      "avatar_url": "https://github.com/images/error/octocat_happy.gif",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/octocat",
+      "html_url": "https://github.com/octocat",
+      "followers_url": "https://api.github.com/users/octocat/followers",
+      "following_url": "https://api.github.com/users/octocat/following{/other_user}",
+      "gists_url": "https://api.github.com/users/octocat/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/octocat/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/octocat/subscriptions",
+      "organizations_url": "https://api.github.com/users/octocat/orgs",
+      "repos_url": "https://api.github.com/users/octocat/repos",
+      "events_url": "https://api.github.com/users/octocat/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/octocat/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "content": "heart",
+    "created_at": "2016-05-20T20:09:31Z"
+  }
+]
+      Notes
+        Works with GitHub Apps
+          Preview notice
+          An additional reactions object in the issue comment payload is currently available for developers to preview. During the preview period, the APIs may change without advance notice. Please see the blog post for full details.
+To access the API you must provide a custom media type in the Accept header:
+application/vnd.github.squirrel-girl-preview
+The reactions key will have the following payload where url can be used to construct the API location for listing and creating reactions.
+      Create reaction for a team discussion
+    Create a reaction to a team discussion. OAuth access tokens require the write:discussion scope. A response with a Status: 200 OK means that you already added the reaction type to this team discussion.
+  post /teams/{team_id}/discussions/{discussion_number}/reactions
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  Setting to application/vnd.github.v3+json is recommended.
+                      See preview notice
+              accept
+              string
+              header
+              This API is under preview and subject to change.
+              team_id
+              integer
+              path
+              discussion_number
+              integer
+              path
+            content
+            string
+            body
+              Required. The reaction type to add to the team discussion.
+        Code samples
+              Shell
+          curl \
+  -X POST \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/teams/42/discussions/42/reactions \
+  -d '{"content":"content"}'
+              JavaScript (@octokit/core.js)
+          await octokit.request('POST /teams/{team_id}/discussions/{discussion_number}/reactions', {
+  team_id: 42,
+  discussion_number: 42,
+  content: 'content'
+})
+      Default response
+      Status: 201 Created
+      {
+  "id": 1,
+  "node_id": "MDg6UmVhY3Rpb24x",
+  "user": {
+    "login": "octocat",
+    "id": 1,
+    "node_id": "MDQ6VXNlcjE=",
+    "avatar_url": "https://github.com/images/error/octocat_happy.gif",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/octocat",
+    "html_url": "https://github.com/octocat",
+    "followers_url": "https://api.github.com/users/octocat/followers",
+    "following_url": "https://api.github.com/users/octocat/following{/other_user}",
+    "gists_url": "https://api.github.com/users/octocat/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/octocat/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/octocat/subscriptions",
+    "organizations_url": "https://api.github.com/users/octocat/orgs",
+    "repos_url": "https://api.github.com/users/octocat/repos",
+    "events_url": "https://api.github.com/users/octocat/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/octocat/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "content": "heart",
+  "created_at": "2016-05-20T20:09:31Z"
+}
+          Preview notice
+          An additional reactions object in the issue comment payload is currently available for developers to preview. During the preview period, the APIs may change without advance notice. Please see the blog post for full details.
+To access the API you must provide a custom media type in the Accept header:
+application/vnd.github.squirrel-girl-preview
+The reactions key will have the following payload where url can be used to construct the API location for listing and creating reactions.
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        Required
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        Optional
+      Can we contact you if we have more questions?
+        Optional
+      Send
+    Thank you! Your feedback has been submitted.
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  Or, learn how to contribute.
+      Still need help?
+      Ask the GitHub community
+      Contact support
+        Product
+          Features
+          Security
+          Enterprise
+          Case Studies
+          Pricing
+          Resources
+        Platform
+          Developer API
+          Partners
+          Atom
+          Electron
+          GitHub Desktop
+        Support
+          Help
+          Community Forum
+          Training
+          Status
+          Contact GitHub
+        Company
+          About
+          Blog
+          Careers
+          Press
+          Shop
+        © 2020 GitHub, Inc.
+        Terms 
+        Privacy 

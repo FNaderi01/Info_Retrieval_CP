@@ -1,0 +1,28 @@
+   Engage in Civil Discourse. Find Common Ground. Learn more at TheLineK12.com ⟶ FrontlineEducation.com        Menu      Home      About      Welcome from Director       Johns Hopkins Validation       Advisory Council       Blog       News      Reports    Teacher Evaluations Report     Growth Metrics for K-12 HCM     Human Capital Management Report     Recruiting Report     Monthly Absence Report     Special Ed Report     ESSA Report    Annual Absence &amp; Hiring Report      Contact     Subscribe for updates    .iconLarge {
+font-size: 1.5em;
+vertical-align: middle;
+}
+.btn-primary-round-white:hover {
+color: #fff;
+}.topic-content small.low {
+    margin-bottom: 0;
+}
+.mktoForm .mktoButtonWrap.mktoSimple .mktoButton {
+    background: transparent !important;
+    border-radius: 64px !important;
+    padding: 0 32px !important;
+    border: 2px solid #ffffff !important;
+}
+.topic-small .featureTopic {
+    max-height: 268px;
+}
+.topic-image:after {
+  opacity: .7;
+}
+@media (max-width: 480px) {
+.scrollable {
+    width: 100%;
+}
+}WHITE PAPER Mitigating COVID-19 Risk Get the Report    New Report2018-19 National Absence &amp; Hiring Trends   ReportBending Toward Accuracy: How Teacher Evaluations Are Evolving  ReportGrowth Metrics for K-12 Human Capital Management: How Talent Data Can Drive Continuous Improvement in the Teacher Shortage Era  .fe-blog-posts > .column.one-column:nth-child(n + 4) {
+							display: none;
+						}Recent Articles Employee AbsencesBy Elizabeth Combs, Managing Director, Frontline Research &amp; Learning Institute on 8/21/20192018-19 Look-back: Teacher Absences &amp; Fill RatesWhen it comes to employee absences and substitute management, do you know what to expect for the upcoming school year? Understanding historical trends can help you prepare, so let’s take a look at select month-to-month data from the 2018-19 school year, published by the Frontline Research &amp; Learning Institute. Continue Reading   Professional GrowthBy Kevin Schuttinger,  on 8/8/2019Measuring the Impact of Professional Learning at Prior Lake-Savage Area SchoolsLocated on the southern edge of the greater Minneapolis area, Prior Lake-Savage Area Schools is home to nearly 9,000 students. With its commitment to environmental education and STEM, district and community leaders want to ensure that students have high-quality instruction to reach their potential as contributing and productive members of the ever-changing global community. Continue Reading   Professional GrowthBy Sheila B. Robinson,  on 7/31/2019Focus Groups: Continuous Improvement for a Professional Development Evaluation ToolkitCollecting data for an evaluation of professional learning, the fourth step in an eight-step process, can be a relatively simple process of survey administration. Yet, as Greece Central School District leaders discovered, a survey does not capture the authentic voice of participants. Continue Reading   Professional GrowthBy Mary Kathryn Moeller,  on 6/17/2019Continuous Improvement in Professional LearningJenks Public Schools leaders understand the significance of planning and implementation evaluation. Once a plan is in place and initial professional learning occurs, the leaders at Jenks continue to work to understand how that professional learning has impacted teachers — and students. Continue Reading   Civil DiscourseBy Hanna Skandera, Editor-in-Chief of The Line on 6/5/2019Newest Issue of the Line Opens Discourse on The Promise of EducationIt is my pleasure to announce the publication of Issue 5 of The Line, in which we consider a key question: Are we delivering on the promise of education? To answer that question, we must each delve to the root of what exactly we believe the promise of education is, who it is for, and how it ought to be turned from dream to reality. And, of course, the nuanced answers to those questions are as diverse as the educators answering them. But that’s exactly why The Line exists. Continue Reading  JOHNS HOPKINS COLLABORATIONCollaboration with Johns Hopkins Center for Research and Reform in Education Learn More CIVIL DISCOURSE IN ACTIONDiscover a new publication written by education leaders for education leaders. Shape the Conversation ADVISORY COUNCILThe Advisory Council has recently added more well-known education experts to help guide the direction of the Institute. Meet the Council Get Frontline Research &amp; Learning Institute Updates Subscribe for updates     Home      About      News      Reports      Contact   Frontline Education© 2020 Frontline Technologies Group LLC. All rights reserved. Protected under US Patents 6,334,133, 6,675,151, 7,430,519, 7,945,468, and 8,140,366 with additional patents pending   .lazyload,.lazyloading{opacity:0;}.lazyloaded{opacity:1;transition:opacity 300ms;}.lazyload{display:none;}       

@@ -1,0 +1,45 @@
+				Jackson, Glenda (1936-)
+					http://data.bibliotheken.nl/id/thes/p069963495  
+					an entity of type: Person
+					 -->
+					rdfs:label
+								Jackson, Glenda (1936-) 
+					foaf:familyName
+							 Jackson 
+					foaf:givenName
+							 Glenda 
+					foaf:name
+								Glenda Jackson 
+					schema:name
+								Jackson, Glenda 
+					schema:birthDate
+							 1936 
+				rdf:type
+						schema:Person
+				owl:sameAs
+						&lt;http://www.wikidata.org/entity/Q182408&gt;
+				schema:sameAs
+						&lt;http://viaf.org/viaf/117489912&gt;
+				foaf:isPrimaryTopicOf
+				 _:48db3277e83559e7e224b8e3fda8b9cd
+						blank nodes
+									foaf:isPrimaryTopicOf
+									 _:48db3277e83559e7e224b8e3fda8b9cd
+					kbdef:ppn
+								069963495 
+					schema:dateModified
+									xsd:date
+								2020-08-28 
+				rdf:type
+						foaf:Document
+				owl:sameAs
+						&lt;http://data.bibliotheken.nl/doc/thes/p069963495&gt;
+				void:inDataset
+						&lt;http://data.bibliotheken.nl/id/dataset/persons&gt;
+				foaf:primaryTopic
+						&lt;http://data.bibliotheken.nl/id/thes/p069963495&gt;
+				schema:license
+						&lt;https://opendatacommons.org/licenses/by/1-0/&gt;
+				data from the linked data cloud
+					data from: http://data.bibliotheken.nl/sparql
+			view as:  RDF, Turtle, N-Triples, JSON-LD

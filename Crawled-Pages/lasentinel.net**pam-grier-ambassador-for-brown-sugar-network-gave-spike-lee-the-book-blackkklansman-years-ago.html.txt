@@ -1,0 +1,330 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Pam Grier—Ambassador for Brown Sugar Network—gave Spike Lee the book  BlacKkKlansman—years ago!            
+				By Lapacazo Sandoval—Contributing Writer                
+	                	                Published January 3, 2019
+		Pam Grier (Courtesy Photo)
+Pam Grier (“Foxy Brown,” “Coffy,” “The L Word”)—the 69-year-young iconic beauty wants to make something crystal clear, and that is the fact that she loves Brown Sugar, not the sugary ingredient used to flavor desserts, coffee, and tea, but Brown Sugar the network which features the biggest collection of “the baddest African American movies of all-time.”
+Focused like a high beam in a thunderstorm, Grier has been on a publicity tour this month to talk about Brown Sugar’s Holiday special gift subscription rate which is only $42/1-yr which is a bargain particularly when you add in the recently launched on Xfinity X1, which provides more access to films and documentaries, with offers like “Monster’s Ball,” “Cooley High,” “Super Fly,” and more!
+A beauty with brains to match, Grier’s had a front row seat to how Hollywood has changed for people of color. In fact, she as a true trailblazer for hundreds of Black actresses and her films “Brown Sugar,” “Foxy Brown,” “Coffy,” “Sheba, Baby,” and “Friday Foster” earned the producers and studios millions of dollars.  Her characters were tough, strong, and at the center of their own stories. To call these films blaxploitation is “missing the point” on so many levels. In 1997, when “Jackie Brown,” Quentin Tarantino’s custom-made vehicle was released, many critics imagined that it would revive her career like “Pulp Fiction” did for John Travolta. It did not and Grier wasn’t surprised.
+        ADVERTISEMENT        
+Here’s what Pam Grier the official ambassador and spokesperson for Brown Sugar had to share about Hollywood, life and her future.
+Los Angeles Sentinel:  Hello Ms. Grier, happy holidays! How are you?
+Pam Grier:  Hello, Los Angeles Sentinel. I am great. Are you prepared for the holidays?
+LAS: Yikes, no. Are you?
+PG: (laughing) Yes. I’m prepared to celebrate all year round. Every day is Christmas. If you wake up breathing you are going to have a good day. I have relatives in my family that are aging, matter of fact my mother, who is in her 90’s could not watch a lot of my movies [“Brown Sugar,” “Foxy Brown,” “Coffy,” “Sheba, Baby,”] but now with Brown Sugar, she can watch them all. She loves it! We are having these Brown Sugar film festivals and just to see her face light up, seeing all these films that feature Black people, well —it’s something.
+Brown Sugar is one of the best streaming services to see the legends.
+LAS: You are the official ambassador of Brown Sugar, correct?
+PG:  When Jonathan Katz, the president [&amp; CEO] of Bounce TV came to me, after hearing me talk about important it was to have more African American and Afro-centric films of our culture represented …. we must continue to have our brand recognized.  Brand recognition is sustainability … because of Brown Sugar showing over 300 movies and concerts …it inspires filmmakers. It’s historical and entertaining.
+LAS: You really know a lot about the business side of showbiz?  What was it like then as compared to now?
+PG: Well, to begin with, my films stayed in the theaters for a long time. Some owners thought that our films stayed too long but we were making money.  I remember one of my friends, Jack Silverman of the Silverman Theaters, who said, ‘Pam, your movies are so popular, White moviemakers are going to get mad at you because they’re staying over and over and over again.’ And so out of that necessity came genius; they started creating the multi-theater complex, where you could have a Black film, a Western, a Disney Mary Poppins, Asian films.
+Did you know I also told Spike Lee years ago about BlacKkKlansman?
+LAS:  And what did Mr. Lee say, then?
+PG:  Here’s how it happened. The brother who wrote the book (Ron Stallworth) lives about 40 miles from me… I sent [Ron Stallworth] the book [Black Klansman] years ago to Spike [Lee] to make. Years ago, and his comment was ‘no one is going to believe a Black Klansman.’ Well, he was wrong.
+LAS: You mentioned that Brown Sugar has impacted your family. How?
+PG:  My mother is aging and it gives me joy to see her catch up on all of the titles that are available on Brown Sugar. Growing up she was always working. She didn’t have time to go to a movie. She didn’t even get to see my movies then.  There are a lot of interesting people in my life.  My great, great grandmother had a sugar beet farm and a hotel in Cheyenne, Wyoming in the Black West. She’s from the Underground Railroad.
+LAS: What’s next?  Are you working with any young screenwriters to bring your story to life?
+PG: Yes, I am actually. Thank you for asking.  I’m working with a team to create a documentary [on my life] and if you read my book [“Foxy: My Life in Three Acts”] you will see just how many great characters there are in my story.  I am also doing a series called “Bless This Mess” for FOX. We just finished the pilot.   I wrote a screenplay called “Fried Chicken Chronicles” which I want to direct.
+LAS: Can you share any details about “Fried Chicken Chronicles”?
+PG: (laughing) It makes you hungry, right?  It’s about a family of women in the 1970’s. We’ve been divided by a patriarchal community; church and such and society and such and we pull together to reach a common goal. I can’t tell you any more.
+LAS: That sounds beautiful.
+PG:  Thank you.
+Twitter: https://twitter.com/pamgrier
+		Categories: Entertainment | Movies | News (Entertainment) | TV Tags: Black movies | black people | BlacKkKlansman | Blaxploitation | Bounce TV | Brown Sugar | Jonathan Katz | Pam Grier | Ron Stallworth		
+						50TH NAACP IMAGE AWARDS’ TO AIR LIVE ON TV ONE MARCH 30 FROM THE DOLBY TH...
+						TAYE DIGGS TO HOST 24TH ANNUAL CRITICS’ CHOICE AWARDS
+						CHRIS BROWN  RELEASES NEW SINGLE &amp; VIDEO  ‘UNDECIDED’
+						Lil Wayne Joins as Special Guest for ESPN’s College Football Playoff Half...
+						GRAMMY-WINNING MAESTRO DONALD LAWRENCE RELEASES NEW SINGLE WITH THE TRI-CIT...
+						Lifetime’s ‘Surviving R. Kelly’ Delivers 1.9 Million Total Viewers an...
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

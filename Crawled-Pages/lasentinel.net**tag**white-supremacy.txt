@@ -1,0 +1,242 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+White supremacy
+							Taking Down Flags and Tearing Down Walls:  Some Seriously Needed Distinctions
+					July 9, 2020This is a revisiting of an ongoing conversation beginning in 2015 about taking down symbols of oppression, especially Confederate flags, but also statues, murals and all public signs, symbols and celebrations of our domination, deprivation and degradation as a people and other people of color. My argument here, as then, is that these acts are necessary, but not sufficient, an important start, but not the end of the long, difficult and dangerous journey to a radical reconception and reconstruction of the source of these racist symbols, signs and celebrations, i.e., society itself.  
+ ... read more  »
+							Fed Up
+					June 4, 2020When I saw the National Guard line the streets of Downtown LA, it stirred up a lot of emotions for me as a Black Angeleno. Having lived through the 65’ Watts Rebellion, the LA Uprising in 92’ and now the unrest we are witnessing after the public murder of George Floyd - I know that this fight is not new for us; it cuts across generations and is a sustained outcry for Black humanity to be seen, valued, and respected. ... read more  »
+							Reigniting Ferguson’s Fires of Resistance:  Reaffirming Our Right and Will to Breathe
+					June 4, 2020The racist public murder of George Floyd in Minneapolis has now added to a list of recent and historical victims of police violence and racist terrorism, including Devon Brown, Eric Garner, Trayvon Martin, Mike Brown, Breonna Taylor, Ahmaud Arberry, Tamir Rice, Atatiana Jefferson, Philando Castile and numerous others. And as our people rise up in massive resistance seeking justice for these Black men, women and children, martyred on the altar of White supremacy, they serve as bright lights and fierce fires lifted up to show the way forward in struggle. Indeed, they call on us to intensify and continue the struggle against the radical evil of these murderous police and vigilante practices and against the savage system which sanctions and supports them and other related forms of oppression. And we owe it to ourselves and to our martyrs to continue the intensified struggle, keep the faith and hold the line until victory. ... read more  »
+        ADVERTISEMENT        
+							150 Years After Ratification of the 15th Amendment, Black Votes Are Still Contested: The Black fight for the franchise
+					March 12, 2020“The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude. The Congress shall have power to enforce this article by appropriate legislation.” So reads the 15th Amendment, ratified on February 3, 1870, the third of what came to be known as the Reconstruction amendments.  ... read more  »
+							NNPA Urges Better U.S.-Cuba Relations
+					January 23, 2020“The majority of the people of the United States want better relations with Cuba, and that is the will that must prevail,” stated Chavis, who counted among the delegation of 30 American scholars who attended the 18th edition of the Series of Academic Conversations on Cuba in the Foreign Policy of the United States of America. ... read more  »
+							Interactive Comprehensive Map Shows Thousands of Lynchings Thoughout American History
+					November 8, 2019"Before this website, it was impossible to search the web and find an accurate scope of the history of American lynching. The names have always been kept safe but distant, in old archives and scholarly books and dissertations. This site leaves the record open for all Americans, especially high school students who want to learn more than what their textbook has to say,” the site’s authors wrote. ... read more  »
+							IN MEMORIAM: Congressman Elijah Cummings Dies at 68
+					October 24, 2019In addition to the contributions he made to improve the lives of all Americans, the congressman was a passionate advocate for his beloved Baltimore, where he was born and raised.  ... read more  »
+							Us Reminiscing at Half Century and 4: The Architecture of Our Work and Will
+					September 5, 2019On this our 54th anniversary, I remember and raise up the momentous marking of our 50th anniversary. I said then and reaffirm now with four added years this. September 7 will mark the 50th anniversary of the founding of our organization Us, the introduction of the Nguzo Saba (The Seven Principles of Kwanzaa and Kawaida philosophy), and the establishment of the African American Cultural Center. These signature events and initiatives in our history as an organization also have a unique history in the intellectual and political culture and history of our people. In fact, we would argue, with due modesty, that no other organization of the Black Power period of similar size, with no real budget and no hidden or exposed European hand, influencing or directing it, has had more impact on the political and intellectual culture of our people since the 60s. ... read more  »
+							When Will America Get the Picture?
+					August 22, 2019Wendy's Window ... read more  »
+							Focusing on Freedom with Harriet Tubman: Enduring Advice on Relentless Resistance
+					March 28, 2019This is in joyful and grateful homage to our illustrious foremother, Harriet Tubman, in this month of her transition and ascension, March 10, 1913. We offer sacred words and water to this leader and liberator, this all-seasons soldier, abolitionist, freedom fighter, strategist, teacher, nurse, advocate of human, civil and women’s rights, and this family woman: daughter of her parents and people, sister, wife, mother and aunt. At the heart, center and core of the life, work and struggle of Harriet Tubman is her focus on freedom. It is from the outset an inclusive and indivisible freedom: the collective practice of self-determination in and for community. Thus, it is not enough for her to free herself, for that to her was only an escape from the immediate bondage of the devilish enslaver and the radically evil system they built and maintained. And it was not enough to have crossed a line that in most minds meant leaving the land of bondage and entering the land of “freedom” and forgetting those left behind. ... read more  »
+							NNPA Leadership and Other Prominent Black Voices Speak Out on College Exam Scandal
+					March 21, 2019National Newspaper Publishers Association (NNPA) President and CEO Dr. Benjamin F. Chavis Jr. was among several prominent African Americans who said they view the recent $25 million college admissions scam as “affirmative action for the rich” and yet another example of white privilege. ... read more  »
+							Are You Making Your Time Count?
+					November 8, 2018This past week we observed daylight savings time by turning our clocks back an hour with the hope to make better use of daylight.  In other words, having an extra hour of daylight should help us be more productive with our days. The real question is what are we doing with the time we are given no matter what?  Twenty-four hours is the same whether there is light or darkness.  ... read more  »
+							Us at 53: Reaffirming Our Revolutionary Spirit and Radical Imagination
+					October 4, 2018 And as part of this process, I want to share reflections of this revolutionary spirit and radical imagination found in The Quotable Karenga, which contains critical concepts that served as foundation and framework for our thought and practice of revolutionary cultural nationalism.  ... read more  »
+							Choosing to Be African: Struggling and Striving Ever Upward
+					September 27, 2018Again, this is in sankofa remembrance for our 53rd anniversary of our organization Us in righteous and relentless resistance. And thus, it is about reaching back, retrieving, reflecting, reconstructing and recommitting ourselves to a radical and righteous reconception and transformation of ourselves, society and ultimately the world as was our founding mission in those turbulent and transformative years of the Sixties. In the 60’s when we first collectively declared that we are an African people, we did not do so simply to reaffirm our historical source of origin and reclaim a history as old as humanity itself. We did it also as an act of self-determination, a reaffirmation of our right as the Nguzo Saba, the Seven Principles, say, “to define ourselves, name ourselves, create for ourselves and speak for ourselves.” ... read more  »
+							Grammy Nominated Music Icon and Author, Charles Wright  Offers College Scholarships
+					September 24, 2018Charles Wright, Legendary soul and funk singer-songwriter ("Express Yourself") and author of “UP From Where We’ve Come," is showing his dedication to education by offering scholarships to deserving students in need of financial assistance.  ... read more  »
+        &lt;&lt; Older Posts
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->

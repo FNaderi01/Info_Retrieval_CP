@@ -1,0 +1,340 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Exclusive One-on-One Interview Congresswoman Waters Will Not Be Silenced             
+				By Jennifer Bihm, Contributing Writer                
+	                	                Published November 1, 2018
+		Congresswoman Maxine Waters (file photo)
+Denounces indiscriminate racist killings and profiling’s of Blacks across country, horrific massacre of Jewish people in Pennsylvania synagogue and attempted pipe bomb assassination sent to several democratic colleagues.
+U.S. Congresswoman Maxine Waters in a recent interview with the Sentinel, said she is working very hard on her reelection campaign, she isn’t taking anything for granted and she is not backing down from those who threaten her. She’s on a mission, she said, to fight things like cuts to Social Security, Medicare and Medicaid and to mitigate the growing cost of education. Waters is urging her constituents to get out and vote in the country’s mid term elections, November 6, so that Democrats can take back the House.
+“If we take back the House, I think six members of the Congressional Black Caucus will be the chairs of the biggest committees of the U.S. Congress,” Waters told the Sentinel.
+        ADVERTISEMENT        
+“We can propose legislation, we can do investigations, we can use our subpoena power. It will be very powerful. And then, of course, if [congressmembers] aren’t willing to impeach [President Donald Trump], we certainly will be in good position to get rid of him in 2020.”
+Congresswoman Water with a veteran. (E. Mesiyah McGinnis/ L.A. Sentinel)
+Recently, Waters along with some of her Democratic colleagues were the targets of bomb threats from someone, who as now been indicted. She condemned the threats, attributing them to some of Trump’s rhetoric, that she said, continues to foster an environment where some citizens feel free to commit violent acts. The bomb threats were disturbing, she said, but they won’t stop her from continuing to fight injustice.
+“I’ve gotten bomb threats for almost the entire time that this president has been in office because I was able to discern who he was, what he cared about and how he defined himself in the campaign,” Waters explained.
+“And so, I started out early saying, ‘this man is dangerous. This man should not be president of the United States.’ And I started warning my colleagues that he needed to be impeached.  And so, the backlash started on me early. I told my family, and we all agree, that we must be wise and sensible but we must not be frightened to the point where we can’t live our lives and do our work in a way that’s satisfying to us. I’m not frightened at all. I’m cautious, I’m careful and I’m not irresponsible. We have certain security at certain times and in certain ways.
+“And so, though we are accustomed now, to being threatened, the bomb threats were different. Most of the other threats came from individuals. We believe that some of these are connected to the white supremacist groups.”
+But as Trump continues to spread a zero tolerance message, Waters said she believes that the violence will continue.
+(E. Mesiyah McGinnis/ L.A. Sentinel)
+“What we’re seeing are the results of a kind of dog whistling that the president of the United States is doing. And, as I have said before, he should take some responsibility for the fact that his followers are doing what he wants them to do.
+“We hear their president talk about body slamming and congratulating an elected official who body slammed a journalist… I believe they think that is the order of things now. So, we live with this but we continue to do our work. I’m not backing up, not one minute. I am going to continue to help educate the public about who this president is, the danger that he is presenting, the disruption, the divisiveness that he is causing, and that is going to continue to lead to violence in my estimation.”
+She also slammed the president for the spate of police attacks on Blacks in the U.S. and a growing number of people who are becoming the victims of fear and racism in their own communities.
+Fear and racism, she said, that ultimately led to the recent synagogue massacre in Pittsburgh.
+“It appears that blacks, and black men in particular are targeted. What we are seeing in recent times, for those people who may not be inflicting violence themselves but they use the police on folks who are not committing any crime, in their own neighborhoods, in their own apartment buildings, in their own picnic grounds… and the police are being called on them.
+“And, this is dangerous. We find that too many times, when the police are called they end up shooting somebody. Because, they approach the whole situation, thinking that they’re coming to apprehend a criminal. It’s just gotten out of hand…”
+On Saturday morning, October 27, gunman Robert D. Bowers entered a synagogue where members of the Tree of Life congregation had been worshipping and opened fire, killing 11 and wounding about four police officers and two others.
+“I was absolutely heartbroken at the thought of  a 97 year old woman who had survived the Holocaust was killed,” Waters said.
+“This violence is spreading. I don’t know the absolute numbers but it has increased in Black communities and Jewish communities and this president has got to be held accountable.
+“And, this president who has mouthed some words that sounded insincere, has not spoken to the fact that, violence must stop, that it’s unacceptable and that he is not only going to convene people across this country to get together, to talk about what can be done or even to apologize to the would be victims of the bombings.
+“ But of course, this is typical of this president. He does not care. He has… it’s more than a mean spirit. He is a vicious, name calling, using his Twitter to put bad thoughts in the heads of people, using his rallys to demonize us… and so, I still believe he should be impeached and I wish my colleagues on both sides of the aisle had what it takes to initiate impeachment.
+“It does not appear that they do. And so, we don’t know how long this will go on. And how bad it will get. All I know is this: me and my colleagues on the democratic side of the aisle, the Black Caucus, we do not support violence, we are not anti Semitic, we are opposed to anti Semitism.”
+There is hope for the country, but its up to the citizens, she said.
+“Tuesday, November the 6 is election day and it may be the most important election, many of us will have,” she said.
+Congresswoman Maxine Waters (E. Mesiyah McGinnis/L.A. Sentinel)
+“This is an election where we have got to send a strong message that what is going on in this country today is unacceptable.  We’ve got to send a strong message that we’re going to fight voter suppression.
+“We’ve got great candidates who are running for offices who we’ve never tried before, we’ve got [Andrew] Gillum in Florida and we’ve got [Stacey] Abrams in Georgia. I, myself am running a campaign. I do have an opponent.
+“My opponent is supported by the right wing and big time Trump supporters. For example, Roger Stone is the campaign consultant. He has been reported to the Grand Jury. There has been an indictment. And then, you have Michael Flynn who has already been indicted and who is awaiting sentencing. And then you have [Joseph] Arpaio the sheriff who had been indicted and served time out of Arizona, who is a part of this campaign. And then of course you have the right wing talk shows that are involved everyday with coming up with new lies and negative information about me.
+“So, most people don’t know that I am in a campaign and that I am working very hard. It is a campaign where all of the Trump supporters and political action committees are raising lots of money. My opposition has put up billboards against me and the district is using direct mail and social media.
+“We’re working very hard because we intend to win but we’re not taking anything for granted.”
+If reelected, she will continue to be a fighter for the human rights of all U.S. citizens.
+“I’m focusing in on Social Security, Medicare and Medicaid because our seniors are about to be cut by the president of the United States, who wants to cut all those benefits. I’m focusing on the millennials and the fact that we’ve got to reduce the student loans and make education more affordable and of course small businesses and entrepreneurship, so that many of our millennials who have gone to school will have graduated are not finding it easy to have the kind of careers and ownership they would like to have. I’m looking forward to fighting very hard to make sure we have enough resources directed toward infrastructure.
+“We’ve got to do something about the infrastructure in this country. Water systems are broken, as evidenced in Flint Michigan. Roads need repair, highways are in disrepair. And so, that will create jobs and business opportunities. I’m focused on all of those things as part of my platform.”
+Congresswoman Waters leads California’s 43rd District, which includes portions of Los Angeles, Carson and Torrance and the entirety of Hawthorne, Lawndale, Gardena, Inglewood, Lomita and LAX.
+		Categories: Crenshaw &amp; Around | Exclusive (Entertainment) | Family | Local | National | News | News (Family) | Political Tags: Black Caucus | California’s 43rd District | Congressional Black Caucus | General Election 2018 | Jennifer Bihm | Maxine Waters | medicaid | Medicare | Stacey Abrams		
+						Los Angeles Sentinel Endorsement Slate for 11-6-18 voting day
+						ACLU of Northern California Condemns Pro-Marshall Tuck PAC EdVoice For Misl...
+						WATCH: Oprah Campaigns With Georgia Democrat Stacey Abrams
+						Check Before You Burn This Season to Help Improve Air Quality
+						Debt Collection Company Agrees to $9 Million Settlement Over Illegal Phone-...
+						Record 19.6 Million Californians Registered to Vote
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

@@ -1,0 +1,8 @@
+        We've detected that JavaScript is disabled in your browser. Would you like to proceed to legacy Twitter?
+          Yes
+          @media (prefers-color-scheme: dark) {
+            #placeholder {
+              background-color: #1B2836
+            }
+          }
+        Something went wrong, but don’t fret — let’s give it another shot.

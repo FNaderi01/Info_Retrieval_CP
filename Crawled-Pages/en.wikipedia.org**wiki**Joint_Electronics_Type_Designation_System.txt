@@ -1,0 +1,943 @@
+	Joint Electronics Type Designation System
+		From Wikipedia, the free encyclopedia
+		Jump to navigation
+		Jump to search
+		Unclassified designator for United States military electronic equipment
+The Joint Electronics Type Designation System (JETDS), which was previously known as the Joint Army-Navy Nomenclature System (AN System. JAN) and the Joint Communications-Electronics Nomenclature System, is a method developed by the U.S. War Department during World War II for assigning an unclassified designator to electronic equipment. In 1957, the JETDS was formalized in MIL-STD-196.
+Computer software and commercial unmodified electronics for which the manufacturer maintains design control are not covered.
+Contents
+1 Usage
+1.1 Systems
+1.1.1 First letter: installation
+1.1.2 Second letter: type of equipment
+1.1.3 Third letter: purpose
+1.1.4 Model number
+1.1.5 Variants and training equipment
+1.2 Subsystems
+2 History
+3 Listing of AN/ equipment designations
+4 See also
+5 Notes
+6 External links
+Usage[edit]
+Electronic material, from a military point of view, generally includes those electronic devices employed in data processing, detection and tracking (underwater, sea, land-based, air and space), recognition and identification, communications, aids to navigation, weapons control and evaluation, flight control, and electronics countermeasures. Nomenclature is assigned to:
+Electronic materiel of military design
+Commercial electronic materiel that has been modified for military use and requires military identification and design control
+Electronic materiel which is intended for use by other Federal agencies or other governments that participate in the nomenclature system.
+Systems[edit]
+In the JETDS system, complete equipment sets or systems are designated with a sequence of letters and digits prefixed by AN/, then three letters, a hyphen, a number, and (occasionally) some optional letters (AN/AAA-nnn suffixed by (Vn) {hardware/software version} or (T) {training equipment} . The three letters tell where the equipment is used, what it does and its purpose. For example, the AN/PRC-77 is a Portable Radio used for two way Communications. The model numbers for any given type of equipment are assigned sequentially, thus higher numbers indicate systems that are more modern.
+The three letter codes have the following meanings:
+First letter: installation[edit]
+A - Piloted Aircraft
+B - Underwater Mobile (submarine)
+C - Cryptographic Equipment (was Air, Transportable) (NSA use only)
+D - Pilotless Carrier (drone, UAV)
+F - Ground, Fixed
+G - Ground, General
+K - Amphibious
+M - Ground, Mobile
+P - Portable
+S - Water (surface ship)
+T - Ground, Transportable
+U - General Utility (multi use)
+V - Ground, Vehicle
+W - Water Surface and Underwater combined
+Z - Piloted-Pilotless Airborne Vehicles combined
+Second letter: type of equipment[edit]
+A - Invisible Light, Heat Radiation (e.g., infrared)
+B - Communications security (was Pigeon) (NSA use only)
+C - Carrier (electronic wave or signal)
+D - Radiac (Radioactivity Detection, Identification, and Computation)
+E - Laser (was NUPAC, Nuclear Protection &amp; Control)
+F - Fiber Optics (was Photographic)
+G - Telegraph or Teletype
+I - Interphone and Public Address
+J - Electromechanical or Inertial Wire Covered
+K - Telemetering
+L - Countermeasures
+M - Meteorological
+N - Sound in Air
+P - Radar
+Q - Sonar and Underwater Sound
+R - Radio
+S - Special or Combination
+T - Telephone (Wire)
+V - Visual, Visible Light
+W - Armament (not otherwise covered)
+X - Facsimile or Television
+Y - Data Processing or Computer
+Z - Communications (NSA use only)
+Third letter: purpose[edit]
+A - Auxiliary Assembly
+B - Bombing
+C - Communications (Receiving/Transmitting, two way)
+D - Direction Finder, Reconnaissance and Surveillance
+E - Ejection and/or Release
+G - Fire Control or Search Light Directing
+H - Recording and/or Reproducing
+K - Computing
+L - no longer used (was Searchlight Control, now covered by "G")
+M - Maintenance or Test Assemblies
+N - Navigational Aids
+P - no longer used (was Reproducing, now covered by "H")
+Q - Special or Combination
+R - Receiving or Passive Detecting
+S - Detecting or Range and Bearing, Search
+T - Transmitting
+W - Automatic Flight or Remote Control
+X - Identification and Recognition
+Y - Surveillance (search, detect, and multiple target tracking) and Control (both fire control and/or air control)
+Z - Secure (NSA use only)
+Model number[edit]
+Following the three-letter designation, after a dash, is a number, uniquely identifying the equipment. Different variants of the same equipment may be given an additional letter and other suffixes (for example, AN/SPY-1A, AN/SPY-1B, etc.), while entirely new equipment within the same category is given a new number (for example, AN/SPY-3).
+Variants and training equipment[edit]
+A suffix "(V)", parenthetical V, indicates variable components.  A number may follow the parenthetical V to identify a specific configuration.  Or the number will identify the precise quantity of equipment required for a specific configuration.
+A suffix of "(P)", parenthetical P, indicates a unit or component of a system which are designed to accept "plug-in" modules capable of changing the function, frequency, or other technical characteristics of the unit.
+A suffix of "(C)", parenthetical C, indicates a NSA-controlled cryptographic/classified item. See also: Classified information in the United States#Confidential.
+A suffix of "-Tn ", dash T followed by a number, indicates equipment designed to provide training in the operation of a specific set or multiple sets.
+For example:
+AN/ABC-1(V) would be an AN/ABC-1 complete equipment set capable of operating in multiple different configurations with variable components.
+AN/ABC-1(V)4 would be the 4th specific configuration of the AN/ABC-1(V) complete equipment set.
+OT-1957(V)1/ABC-1(V) would be the 1st specific configuration of the OT-1957(V) group required as a component for the AN/ABC-1(V) complete equipment set.
+AN/ABC-1(C) would be an NSA-controlled cryptographic/classified complete equipment set.
+R00(P)/ABC-1 would be a unit (capable of accepting plug-in modules) required as a component for the AN/ABC-1 complete equipment set.
+AN/ABC-1-T1 would be the first training set for the AN/ABC-1 complete equipment set.
+AN/ABC-T1 would be the first training set for several different AN/ABC-n complete equipment sets.
+AN/UBC-T1 would be the first training set for both AN/ABC-n and AN/GBC-n complete equipment sets; this is a usage for a training set which can be used for complete equipment sets of similar type and purpose but different installation locations.
+Subsystems[edit]
+Subsystems ("groups") are designated by a two letter code (without the AN/ prefix), followed by a number, followed by slash and one, two or three letters from the three letter codes for systems. For example, BA-1234/PRC would be a battery for portable radio sets. Some subsystems will have the designation for the system they belong to. For example, RT-859/APX-72 and C-6820/APX-72, the /APX-72 indicates both are part of the AN/APX-72 system.
+History[edit]
+JETDS was adopted 16 February 1943 by the Joint Communications Board for all new Army and Navy airborne, radio, and radar equipment. Over time it was extended to cover the Marine Corps and the Navy's ship, submarine, amphibious, and ground electronic equipment.  When the Air Force was established as a separate department, it continued the use of the system for electronic equipment. JETDS was adopted by the United States Coast Guard in 1950, Canada in 1951 and the NSA in 1959 (though the NSA continued to use its own TSEC telecommunications security nomenclature[1]).  In 1957 the U.S. Department of Defense approved a military standard for the nomenclature, MIL-STD-196. The system has been modified over time, with some types (e.g. carrier pigeon -B-) dropped and others (e.g. computers and cryptographic equipment) added. The latest version, MIL-STD-196G, was issued in 2018.
+MIL-STD-196 Rev. History
+Revision
+Date
+Original
+9 May 1957
+A
+16 September 1960
+B
+7 April 1965
+C
+22 April 1971
+D
+19 January 1985
+E
+17 February 1998
+F
+11 September 2013
+G
+30 May 2018
+Listing of AN/ equipment designations[edit]
+AN/AAx - Airborne Infrared Equipment[2]
+AN/AAA
+Airborne Infrared Auxiliary Assemblies
+AN/AAB
+Airborne Infrared Bombing Equipment
+AN/AAD
+Airborne Infrared Reconnaissance and Surveillance
+AN/AAG
+Airborne Infrared Fire-Control Equipment
+AN/AAM
+Maintenance and Test Sets for Airborne Infrared Equipment
+AN/AAQ
+Airborne Infrared Multipurpose/Special Equipment
+AN/AAR
+Airborne Infrared Receivers
+AN/AAS
+Airborne Infrared Search and Detection Equipment
+AN/AAT
+Airborne Infrared Transmitters
+AN/ACx - Airborne Carrier Signal Based Equipment
+AN/ACC
+Airborne Carrier Signal Based Communications
+AN/ACM
+Maintenance and Test Sets for Airborne Carrier Signal Based Equipment
+AN/ACQ
+Airborne Carrier Signal Based Multipurpose/Special Equipment
+AN/ADx - Airborne Radiological Equipment
+AN/ADA
+Airborne Radioactivity Auxiliary Assemblies
+AN/ADR
+Airborne Radioactivity Receivers
+AN/AEx - Airborne Laser Equipment
+AN/AES
+Airborne Laser Search and Detection Equipment
+AN/AGx - Airborne Teletype Equipment
+AN/AGA
+Airborne Teletype Auxiliary Assemblies
+AN/AGC
+Airborne Teletype Communications
+AN/AGM
+Maintenance and Test Sets for Airborne Teletype Equipment
+AN/AIx - Airborne Interphone Equipment
+AN/AIA
+Airborne Interphone Auxiliary Assemblies
+AN/AIC
+Airborne Interphone Communications
+AN/AIH
+Airborne Interphone Recorders
+AN/AIM
+Maintenance and Test Sets for Airborne Interphone Equipment
+AN/AIQ
+Airborne Interphone Multipurpose/Special Equipment
+AN/AJx - Airborne Electromechanical Equipment
+AN/AJA
+Airborne Electromechanical Auxiliary Assemblies
+AN/AJB
+Airborne Electromechanical Bombing Equipment
+AN/AJM
+Maintenance and Test Sets for Airborne Electromechanical Equipment
+AN/AJN
+Airborne Electromechanical Navigation Equipment
+AN/AJQ
+Airborne Electromechanical Multipurpose/Special Equipment
+AN/AKx - Airborne Telemetering Equipment
+AN/AKA
+Airborne Telemetry Auxiliary Assemblies
+AN/AKM
+Maintenance and Test Sets for Airborne Telemetering Equipment
+AN/AKQ
+Airborne Telemetry Multipurpose/Special Equipment
+AN/AKR
+Airborne Telemetry Receivers
+AN/AKT
+Airborne Telemetry Transmitters
+AN/ALx - Airborne Countermeasures Equipment
+AN/ALA
+Airborne Countermeasures Auxiliary Assemblies
+AN/ALD
+Airborne Countermeasures Detection and Surveillance
+AN/ALE
+Airborne Countermeasures Ejectors (i.e. flare/chaff dispensers)
+AN/ALH
+Airborne Countermeasures Recorders
+AN/ALK
+Airborne Countermeasures Computers
+AN/ALM
+Maintenance and Test Sets for Airborne Countermeasures Equipment
+AN/ALQ
+Airborne Countermeasures Multipurpose/Special Equipment
+AN/ALR
+Airborne Countermeasures Receivers
+AN/ALT
+Airborne Countermeasures Transmitters
+AN/AMx - Airborne Meteorological Equipment
+AN/AMA
+Airborne Meteorological Auxiliary Assemblies
+AN/AME
+Airborne Meteorological Ejectors
+AN/AMH
+Airborne Meteorological Recorders
+AN/AMM
+Maintenance and Test Sets for Airborne Meteorological Recorders
+AN/AMQ
+Airborne Meteorological Multipurpose/Special Equipment
+AN/AMR
+Airborne Meteorological Receivers
+AN/AMS
+Airborne Meteorological Search and Detection Equipment
+AN/AMT
+Airborne Meteorological Transmitters
+AN/ANx - Airborne Sound Equipment
+AN/ANH
+Airborne Sound Recorders
+AN/ANQ
+Airborne Sound Multipurpose/Special Equipment
+AN/APx - Airborne Radar Equipment
+AN/APA
+Airborne Radar Auxiliary Assemblies
+AN/APB
+Airborne Bombing Radars
+AN/APD
+Airborne Direction Finding and Surveillance Radars
+AN/APG
+Airborne Fire-Control Radars
+AN/APH
+Airborne Radar Recorders
+AN/APM
+Maintenance and Test Sets for Airborne Radars
+AN/APN
+Airborne Navigation Radars
+AN/APQ
+Airborne Multipurpose/Special Radars
+AN/APR
+Airborne Radar Receivers
+AN/APS
+Airborne Search and Detection Radars
+AN/APT
+Airborne Radar Transmitters
+AN/APW
+Airborne Flight Control Radars
+AN/APX
+Airborne Identification Radars
+AN/APY
+Airborne Surveillance Radars
+AN/AQx - Airborne Sonar Equipment
+AN/AQA
+Airborne Sonar Auxiliary Assemblies
+AN/AQH
+Airborne Sonar Recorders
+AN/AQM
+Maintenance and Test Sets for Airborne Sonar Equipment
+AN/AQQ
+Airborne Sonar Multipurpose/Special Equipment
+AN/AQS
+Airborne Search &amp; Detection Sonars
+AN/ARx - Airborne Radio Equipment
+AN/ARA
+Airborne Radio Auxiliary Assemblies
+AN/ARB
+Airborne Radio Bombing Equipment
+AN/ARC
+Airborne Radio Communications
+AN/ARD
+Airborne Radio Direction Finding and Surveillance
+AN/ARH
+Airborne Radio Receorders
+AN/ARM
+Maintenance and Test Sets for Airborne Radio Equipment
+AN/ARN
+Airborne Radio Navigation Equipment
+AN/ARQ
+Airborne Radio Multipurpose/Special Equipment
+AN/ARR
+Airborne Radio Receivers
+AN/ARS
+Airborne Radio Search Equipment
+AN/ART
+Airborne Radio Transmitters
+AN/ARW
+Airborne Flight/Remote Control Radio
+AN/ARY
+Airborne Radio Surveillance and Control Equipment
+AN/ASx - Airborne Special/Combination Equipment
+AN/ASA
+Airborne Special/Combination Auxiliary Assemblies
+AN/ASB
+Airborne Special/Combination Bombing Equipment
+AN/ASC
+Airborne Special/Combination Communications
+AN/ASD
+Airborne Special/Combination Detection and Reconnaissance Equipment
+AN/ASE
+Airborne Special/Combination Ejectors
+AN/ASG
+Airborne Special/Combination Fire-Control Equipment
+AN/ASH
+Airborne Special/Combination Recording/Reproducing Equipment
+AN/ASK
+Airborne Special/Combination Computers
+AN/ASM
+Maintenance and Test Sets for Airborne Special/Combination Equipment
+AN/ASN
+Airborne Special/Combination Navigation Equipment
+AN/ASQ
+Airborne Special/Combination Multipurpose/Special Equipment
+AN/ASR
+Airborne Special/Combination Receivers
+AN/ASS
+Airborne Special/Combination Search Equipment
+AN/AST
+Airborne Special/Combination Transmitters
+AN/ASW
+Airborne Special/Combination Flight/Remote Control Equipment
+AN/ASX
+Airborne Special/Combination Identification Equipment
+AN/ATx - Airborne Telephone (Wire) Equipment
+AN/ATC
+Airborne Wire Telephone Communications Equipment
+AN/ATE
+Airborne Wire Dispensers
+AN/ATM
+Maintenance and Test Sets for Airborne Wire Telephone Equipment
+AN/ATR
+Airborne Wire Telephone Receivers
+AN/AVx - Airborne Visual/Light Equipment
+AN/AVA
+Airborne Visual/Light Auxiliary Assemblies
+AN/AVB
+Airborne Visual/Light Bombing Equipment
+AN/AVD
+Airborne Visual/Light Detection and Reconnaissance Equipment
+AN/AVG
+Airborne Airborne Visual/Light Fire-Control and Searchlight Control Equipment
+AN/AVH
+Airborne Visual/Light Recorders
+AN/AVM
+Maintenance and Test Sets for Airborne Visual/Light Equipment
+AN/AVN
+Airborne Visual Navigation Equipment
+AN/AVQ
+Airborne Visual/Light Multipurpose/Special Equipment
+AN/AVR
+Airborne Light Receivers
+AN/AVS
+Airborne Visual Search Equipment
+AN/AVT
+Airborne Light Transmitters
+AN/AVX
+Airborne Visual Identification Equipment
+AN/AWx - Airborne Armament Equipment
+AN/AWA
+Airborne Armament Auxiliary Assemblies
+AN/AWB
+Airborne Armament Bombing Equipment
+AN/AWE
+Airborne Armament Ejectors
+AN/AWG
+Airborne Fire-Control Systems
+AN/AWH
+Airborne Armament Related Recorders/Reproducers
+AN/AWM
+Maintenance and Test Sets for Airborne Armament Equipment
+AN/AWQ
+Airborne Armament Multipurpose/Special Equipment
+AN/AWW
+Airborne Armament Remote Control Equipment
+AN/AXx - Airborne Television/Telefax Equipment
+AN/AXA
+Airborne TV/Fax Auxiliary Assemblies
+AN/AXC
+Airborne TV/Fax Communications
+AN/AXD
+Airborne TV Detection and Surveillance Equipment
+AN/AXH
+Airborne TV/Fax Recorders
+AN/AXM
+Maintenance and Test Sets for Airborne TV/Fax Equipment
+AN/AXQ
+Airborne TV/Fax Multipurpose/Special Equipment
+AN/AXR
+Airborne TV/Fax Receivers
+AN/AXS
+Airborne TV Search Equipment
+AN/AXT
+Airborne TV/Fax Transmitters
+AN/AXX
+Airborne TV Identification Equipment
+AN/AYx - Airborne Data Processing Equipment
+AN/AYA
+Airborne Data Processing Auxiliary Assemblies
+AN/AYC
+Airborne Data Processing Communication Equipment
+AN/AYD
+Airborne Data Processing Detection Equipment
+AN/AYG
+Airborne Fire-Control Computers
+AN/AYH
+Airborne Data Processing Recorders
+AN/AYK
+Airborne Data Processing Computers
+AN/AYM
+Maintenance and Test Sets for Airborne Data Processing Equipment
+AN/AYN
+Airborne Navigation Computers
+AN/AYQ
+Airborne Multipurpose/Special Computers
+AN/AYR
+Airborne Data Processing Receivers
+AN/AYS
+Airborne Search Computers
+AN/AYW
+Airborne Flight Control Computers
+AN/AYY
+Airborne Surveillance Computers
+AN/Cxx - Air Transportable Equipment
+AN/CBQ
+Air Transportable Pigeon Multipurpose/Special Equipment
+AN/CNQ
+Air Transportable Sound Multipurpose/Special Equipment
+AN/CPA
+Air Transportable Radar Auxiliary Assemblies
+AN/CPM
+Maintenance and Test Sets for Air Transportable Radars
+AN/CPN
+Air Transportable Navigation Radars
+AN/CPQ
+Air Transportable Multipurpose/Special Radars
+AN/CPS
+Air Transportable Search and Detection Radars
+AN/CPT
+Air Transportable Radar Transmitters
+AN/CPX
+Air Transportable Identification Radars
+AN/CRA
+Air Transportable Radio Auxiliary Assemblies
+AN/CRB
+Air Transportable Bombing Radio Equipment
+AN/CRC
+Air Transportable Radio Communications
+AN/CRD
+Air Transportable Radio Direction Finding
+AN/CRM
+Maintenance and Test Sets for Air Transportable Radio Equipment
+AN/CRN
+Air Transportable Radio Navigation Equipment
+AN/CRR
+Air Transportable Radio Receivers
+AN/CRT
+Air Transportable Radio Transmitters
+AN/CRW
+Air Transportable Remote Control Radio
+AN/CRX
+Air Transportable Radio Identification Equipment
+AN/CSC
+Air Transportable Special/Combination Communications
+AN/CSQ
+Air Transportable Special/Combination Multipurpose/Special Equipment
+AN/CST
+Air Transportable Special/Combination Transmitters
+AN/CTQ
+Air Transportable Telephone Multipurpose/Special Equipment
+AN/CTW
+Air Transportable Telephone Remote Control Equipment
+AN/CVQ
+Air Transportable Visual/Light Multipurpose/Special Equipment
+AN/CVX
+Air Transportable Visual/Light Identification Equipment
+AN/Dxx - Missile/Drone Equipment
+AN/DAB
+Missile/Drone Infrared Bombing Equipment
+AN/DAN
+Missile/Drone Infrared Navigation Equipment
+AN/DAW
+Missile/Drone Infrared Flight Control Equipment
+AN/DJM
+Maintenance and Test Sets for Missile/Drone Electromechanical Equipment
+AN/DJN
+Missile/Drone Electromechanical Navigation Equipment
+AN/DJQ
+Missile/Drone Electromechanical Multipurpose/Special Equipment
+AN/DJW
+Missile/Drone Electromechanical Flight/Remote Control Equipment
+AN/DKM
+Maintenance and Test Sets for Missile/Drone Telemetering Equipment
+AN/DKQ
+Missile/Drone Telemetry Multipurpose/Special Equipment
+AN/DKT
+Missile/Drone Telemetry Transmitters
+AN/DKW
+Missile/Drone Flight/Remote Control Telemetry Equipment
+AN/DLD
+Missile/Drone Countermeasures Detection and Surveillance
+AN/DLM
+Maintenance and Test Sets for Missile/Drone Countermeasures Equipment
+AN/DLQ
+Missile/Drone Countermeasures Multipurpose/Special Equipment
+AN/DMQ
+Missile/Drone Meteorological Multipurpose/Special Equipment
+AN/DPD
+Missile/Drone Direction Finding and Surveillance Radars
+AN/DPM
+Maintenance and Test Sets for Missile/Drone Radars
+AN/DPN
+Missile/Drone Navigation Radars
+AN/DPQ
+Missile/Drone Multipurpose/Special Radars
+AN/DPS
+Missile/Drone Search and Detection Radars
+AN/DPT
+Missile/Drone Radar Transmitters
+AN/DPW
+Missile/Drone Flight/Remote Control Radars
+AN/DPX
+Missile/Drone Identification Radars
+AN/DPY
+Missile/Drone Surveillance Radars
+AN/DRA
+Missile/Drone Radio Auxiliary Assemblies
+AN/DRC
+Missile/Drone Radio Communication Equipment
+AN/DRM
+Maintenance and Test Sets for Missile/Drone Radio Equipment
+AN/DRN
+Missile/Drone Radio Navigation Equipment
+AN/DRQ
+Missile/Drone Radio Multipurpose/Special Equipment
+AN/DRR
+Missile/Drone Radio Receivers
+AN/DRS
+Missile/Drone Radio Search Equipment
+AN/DRT
+Missile/Drone Radio Transmitters
+AN/DRW
+Missile/Drone Flight/Remote Control Radio
+AN/DSA
+Missile/Drone Special/Combination Auxiliary Assemblies
+AN/DSM
+Maintenance and Test Sets for Missile/Drone Special/Combination Equipment
+AN/DSN
+Missile/Drone Special/Combination Navigation Equipment
+AN/DSQ
+Missile/Drone Special/Combination Multipurpose/Special Equipment
+AN/DSW
+Missile/Drone Special/Combination Flight/Remote Control Equipment
+AN/DVG
+Missile/Drone Airborne Visual/Light Fire-Control Equipment
+AN/DWQ
+Missile/Drone Armament Multipurpose/Special Equipment
+AN/DWW
+Missile/Drone Armament Remote Control Equipment
+AN/DXQ
+Missile/Drone TV Multipurpose/Special Equipment
+AN/Fxx - Fixed Ground Equipment
+AN/FPS
+Fixed Ground Range and Bearing Detecting Radar Equipment
+AN/Sxx - Water (Surface Ship) Equipment
+AN/SPY
+Surface Ship Surveillance and Control Radar Equipment
+AN/Txx - Transportable Equipment
+AN/TPS
+Transportable Range and Bearing Detecting Radar Equipment
+AN/TPY
+Transportable Surveillance and Control Radar Equipment
+AN/Uxx - General Utility (or Multiple Installation) Equipment
+AN/USD
+Special/Combination Surveillance Equipment
+AN/Zxx - Airborne (Piloted/Pilotless Combination) Equipment
+AN/ZPQ
+Airborne (Piloted/Pilotless Combination) Multipurpose/Special Radars
+AN/ZRC
+Airborne (Piloted/Pilotless Combination) Radio Communications
+AN/ZSD
+Airborne (Piloted/Pilotless Combination) Special/Combination Detection and Reconnaissance Equipment
+AN/ZSM
+Maintenance and Test Sets for Airborne (Piloted/Pilotless Combination) Special/Combination Equipment
+AN/ZSN
+Airborne (Piloted/Pilotless Combination) Special/Combination Navigation Equipment
+AN/ZSQ
+Airborne (Piloted/Pilotless Combination) Special/Combination Multipurpose/Special Equipment
+AN/ZSW
+Airborne (Piloted/Pilotless Combination) Special/Combination Flight/Remote Control Equipment
+See also[edit]
+American War Standard (AWS)
+List of military electronics of the United States
+Signal Corps Radio early system
+List of U.S. Signal Corps vehicles V-numbers
+AWS color code for resistors and capacitors following AWS/JAN specifications
+Notes[edit]
+^ Telecommunications Security (TSEC) Nomenclature System
+^ Parsch, Andreas (February 3, 2008). "Designations Of U.S. Military Electronic And Communications Equipment". Retrieved August 30, 2018..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}
+The US government's BINCS database currently assignes CAGE code 80058 to JETDS items.
+The US government's system for input of Form DD-61 Request for Nomenclature is the Joint Electronic Type Designation Automated System (JETDAS).
+External links[edit]
+MIL-STD-196
+A detailed description of the system
+vte United States Armed Forces
+Military budget of the United States
+ Book
+ Category
+A
+MC
+N
+AF
+SF
+CG
+Navbox
+A
+MC
+N
+AF
+SF
+CG
+Leadership
+Commander-in-chief: President of the United States
+Secretary of Defense
+Deputy Secretary of Defense
+Secretary of Homeland Security
+Deputy Secretary of Homeland Security
+Joint Chiefs of Staff:
+Chairman
+Vice Chairman
+United States Congress: Committees on Armed Services:
+Senate
+House
+Active duty four-star officers
+United States military seniority
+National Security Act of 1947
+Goldwater–Nichols Act
+OrganizationMilitary departments
+Department of Defense (Secretary): Army (Secretary)
+Navy (Secretary)
+Air Force (Secretary)
+Department of Homeland Security (Secretary)
+Service branches and heads
+Army (Chief of Staff)
+Marine Corps (Commandant)
+Navy (Chief of Naval Operations)
+Air Force (Chief of Staff)
+Space Force (Chief of Space Operations)
+Coast Guard (Commandant)
+Reserve components
+Reserves:
+A
+MC
+N
+AF
+CG
+National Guard:
+A
+AF
+Civilian auxiliaries
+Military Auxiliary Radio System
+Merchant Marine
+Civil Air Patrol
+Coast Guard Auxiliary
+Marine Corps Cyber Auxiliary
+Unified Combatant Command
+Africa
+Central
+European
+Indo-Pacific
+Northern
+Southern
+Space
+Cyber
+Special Operations
+Strategic
+Transportation
+Structure
+United States Code
+Title 10
+Title 14
+Title 32
+Title 50
+The Pentagon
+Installations
+Units:
+A
+MC
+N
+AF
+CG
+Logistics
+Media
+Unit mottoes
+Operationsand history
+Current deployments
+Conflicts
+Wars
+Civil affairs
+Officers' clubs
+History:
+A
+MC
+N
+AF
+CG
+Timeline
+Colonial
+World War II
+U.S. ancestry
+By continent:
+African Americans
+Asian Americans
+By religious group:
+Buddhist Americans
+Jewish Americans
+Muslim Americans
+Pakistani Americans
+Sikh Americans
+Historiography
+Army Center of Military History
+MC History Division
+Naval History and Heritage Command
+Air Force Historical Research Agency
+War artists
+Army Art Program
+AF Art Program
+PersonnelTraining
+MEPS
+ASVAB
+Recruit training:
+A
+MC
+N
+AF/SF
+CG
+Officer candidate school:
+A
+MC
+N
+AF/SF
+Warrant:
+A
+MC
+Service academies:
+A (prep)
+MC/N (prep)
+AF/SF (prep)
+CG
+Merchant Marine
+ROTC
+A:ECP
+MC/N
+AF/SF
+Medical
+Other education
+Uniforms
+Uniforms:
+A
+MC
+N
+AF
+SF
+CG
+Awards &amp; decorations:
+Inter-service
+A
+MC/N
+AF/SF
+CG
+Foreign
+International
+Devices
+Badges:
+Identification
+A
+MC
+N
+AF
+SF
+CG
+Ranks
+Officer:
+A
+MC
+N
+AF
+SF
+CG
+Warrant officers
+Enlisted:
+A
+MC
+N
+AF
+SF
+CG
+Other
+Oath:
+Enlistment
+Office
+Creeds &amp; Codes:
+Code of Conduct
+NCO
+A
+MC
+N
+AF
+CG
+Service numbers:
+A
+MC
+N
+AF
+CG
+Military Occupational Specialty/Rating/Air Force Specialty Code
+Pay
+Uniform Code of Military Justice
+Judge Advocate General's Corps
+Military Health System/TRICARE
+Separation
+Veterans Affairs
+Conscription
+Chiefs of Chaplains:
+A
+MC
+N
+AF
+CG
+Equipment
+A
+MC:
+vehicles
+weapons
+other
+N
+AF
+CG
+Land
+Individual weapons
+Crew-served weapons
+Vehicles (active)
+Sea
+All watercraft
+Ships:
+A
+N (active)
+AF
+CG
+MSC
+Weapons:
+N
+CG
+Reactors
+Air
+Aircraft
+World War I
+active
+Aircraft designation
+Missiles
+Helicopter arms
+Other
+Nuclear football
+Electronics (designations)
+Flags:
+A
+MC
+N
+AF
+SF
+CG
+Ensign
+Jack
+Guidons
+Food
+WMDs:
+Nuclear
+Biological
+Chemical
+Legend
+A = Army
+MC = Marine Corps
+N = Navy
+AF = Air Force
+SF = Space Force
+CG = Coast Guard
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Joint_Electronics_Type_Designation_System&amp;oldid=980999874"
+		Categories: Military electronics of the United StatesEquipment of the United States Air ForceEncodingsMilitary scienceMilitary communicationsHistory of radioRadio electronicsHidden categories: Articles with short descriptionShort description matches Wikidata
+	Navigation menu
+		Personal tools
+		Not logged inTalkContributionsCreate accountLog in
+		Namespaces
+		ArticleTalk
+		Variants
+		Views
+		ReadEditView history
+		More
+		Search
+		Navigation
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		Contribute
+		HelpLearn to editCommunity portalRecent changesUpload file
+		Tools
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		Print/export
+		Download as PDFPrintable version
+		In other projects
+		Wikimedia Commons
+		Languages
+		DeutschEspañolFrançaisBahasa Indonesia日本語Русский
+		Edit links
+		 This page was last edited on 29 September 2020, at 18:11 (UTC).
+		Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+		Privacy policy
+		About Wikipedia
+		Disclaimers
+		Contact Wikipedia
+		Mobile view
+		Developers
+		Statistics
+		Cookie statement

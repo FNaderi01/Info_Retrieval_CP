@@ -1,0 +1,241 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Women
+							USC Dornsife Research Reveals Black Low-Income Single Parent Households at High Risk of Critical Food and Security Disparities; Over 800,000 households Affected
+					September 24, 2020‘Angelenos’ is a general term to identify all people living in Los Angeles, bringing them to equal levels across the County. However, new research about COVID-19 is showing the reality of division living in L.A. ... read more  »
+							Hey Ladies Do You Know How to Navigate Perimenopause and Menopause?
+					September 10, 2020Navigating the topic of women’s health is a constant struggle.  For whatever reason we have a hard time talking about our anatomy and the changes our bodies go through each decade. ... read more  »
+							WENDY’S WINDOW: Why Do Women Who Make Great Decisions in the Boardroom Sometimes Struggle Making Good Decisions in the Bedroom?
+					August 20, 2020Wendy's Window ... read more  »
+        ADVERTISEMENT        
+							A New Way of Life Reentry Project announces opening of ninth safe home in South Los Angeles
+					April 23, 2020The non-profit organization will welcome women released from local jails and state prisons, as those facilities attempt to mitigate the spread of COVID-19.  ... read more  »
+							Ava Duvernay’s Non-Profit Foundation Launches $250,000 Initiative
+					April 16, 2020Array Grant recipients include independently-owned film festivals and screening series impacted by COVID-19 Health Crisis ... read more  »
+							Ending Workforce Discrimination is Up to Us
+					March 19, 2020During my tenure at the Conference of Minority Transportation Officials (COMTO), it became clear to me that access was the foundation of economic opportunity. The transportation sector lacked diversity, equity and inclusion, and this was glaringly obvious to both leadership and employees. Pathways began to emerge to grow a diverse pool of talent, but it was obvious that a more organizational framework was needed to operate at full capacity to best serve veterans, women, underrepresented, and underserved workers; groups that had been previously overlooked. ... read more  »
+							The Black Hollywood Education &amp; Resource Center and Restoration Stage Brings Inspirational “Veils” the Musical to Los Angeles
+					March 5, 2020In Commemoration of the 55th Anniversary of Selma’s Bloody Sunday  ... read more  »
+							Counting Children Matters Most: FAQ on Census 2020
+					November 21, 2019Within the African American community, the conversation about the upcoming 2020 census ranges from “why bother” to “we’re all in.” ... read more  »
+							Dr. Patrice Harris Sworn-In as the American Medical Association’s First Black Female President
+					July 25, 2019"And I hope to be tangible evidence for young girls and young boys and girls from communities of color that you can aspire to be a physician. Not only that, you can aspire to be a leader in organized medicine,” said Dr. Patrice A. Harris, a psychiatrist from Atlanta, was sworn-in as the 174th president of the American Medical Association (AMA). ... read more  »
+							U.S. Attempt to Erase Harriet Tubman
+					June 13, 2019In the fantasy of White supremacy, traitors like Jefferson Davis and other Confederates are memorialized for being freedom fighters — the freedom of whites to own black human beings and work them to death — while a woman who risked her life time and again to free enslaved people is simply dismissed. Ignored. Erased. ... read more  »
+							SPECIAL REPORT: Women Play Key Role in Ensuring African Democracy
+					May 30, 2019While the top three candidates this year are all men, women have again taken a leadership role in ensuring free and fair elections and they’ve been largely responsible for what’s believed to have been an electoral race free of determinative manipulation. ... read more  »
+							How Strong is Our Economy?
+					May 9, 2019“How strong is our economy? It is undoubtedly stronger than it was a year ago, but it's not as strong as some claim that it is. Labor market weaknesses and inequality are of particular concern to African Americans. Companies are hiring, but they aren't hiring enough African Americans to close the unemployment rate gap.” ... read more  »
+							Girl Power: St. Joseph Center Celebrates Women’s History Month with a Panel Discussion on Women Experiencing Homelessness
+					March 21, 2019St. Joseph Center put together a panel of experts on how structural, cultural, and economic challenges have contributed to the homelessness crisis in Los Angeles ... read more  »
+							SheroCon Is Coming!
+					March 7, 2019The pop-up con will highlight amazing women in the world of comics and entertainment. ... read more  »
+							The Positive Results Corporation Hosts 3nd Annual Purple Purse Tea Party And Fundraiser In Support Of Domestic Violence Awareness Domestic Violence Is A Community Concern!
+					October 11, 2018With YOUR Help We Can Prevent &amp; End The Cycle of Violence! ... read more  »
+        &lt;&lt; Older Posts
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->

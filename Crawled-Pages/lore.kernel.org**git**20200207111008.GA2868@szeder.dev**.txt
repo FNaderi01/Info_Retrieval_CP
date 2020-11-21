@@ -1,0 +1,99 @@
+Git Mailing List Archive on lore.kernel.org
+ help / color / Atom feedFrom: "SZEDER Gábor" &lt;szeder.dev@gmail.com&gt;
+To: Git Mailing List &lt;git@vger.kernel.org&gt;
+Subject: [BUG?] 'git rebase --abort' couldn't abort aborted rebase
+Date: Fri, 7 Feb 2020 12:10:08 +0100
+Message-ID: &lt;20200207111008.GA2868@szeder.dev&gt; (raw)
+That's a good subject, isn't it? :)
+So, to clarify: apparently it is possible to abort an ongoing 'git
+rebase' process with ctrl-C in just the right moment that a subsequent
+'git rebase --abort' will refuse to clear it up.
+I somehow messed up the upstream and branch parameters of 'git
+rebase', and ended up trying to rebase a fairly recent (post v2.24.0)
+branch on top of v2.22.0.  Upon seeing the unexpectedly large number
+of patches I realized that something is wrong, hit ctrl-C right away,
+and this is what happened:
+  $ git rebase v2.22.0 &lt;a-branch-on-top-of-2.24.0&gt;
+  First, rewinding head to replay your work on top of it...
+  Generating patches: 100% (1108/1108), done.
+  Applying: send-email: move the read_config() function above getopts
+  Applying: send-email: rename the @bcclist variable for consistency
+  Applying: send-email: do defaults -&gt; config -&gt; getopt in that order
+  Using index info to reconstruct a base tree...
+  M       git-send-email.perl
+  M       t/t9001-send-email.sh
+  Falling back to patching base and 3-way merge...
+  Auto-merging t/t9001-send-email.sh
+  Auto-merging git-send-email.perl
+  ^C
+  ((5f07da12ac...) *|REBASE 3/1108)$ git rebase --abort 
+  error: could not read '/home/szeder/src/git/.git/worktrees/WT/rebase-apply/head-name': No such file or directory
+"Fortunately" it was in a separate worktree, so I could easily get out
+of the situation by forcibly deleting that worktree.  Unfortunately,
+that was exactly what I did, instead of securing the failed state for
+later analysis...  sorry.
+The only thing I still have is the list of files in the rebase directory,
+rescued from the terminal's scrollback buffer:
+  $ ls ~/src/git/.git/worktrees/WT/rebase-apply/
+  &lt; ... omitting the 1k+ patch files ... &gt;
+  abort-safety
+  apply-opt
+  author-script
+  final-commit
+  keep
+  last
+  messageid
+  next
+  original-commit
+  patch
+  patch-merge-index
+  quiet
+  rebasing
+  rewritten
+  scissors
+  sign
+  threeway
+  utf8
+All this is with a git built from current 'next', with a bunch of
+unrelated (none of them touches rebase or the sequencer) patches on
+top.
+next             reply index
+Thread overview: 8+ messages / expand[flat|nested]  mbox.gz  Atom feed  top
+2020-02-07 11:10 SZEDER Gábor [this message]
+2020-02-07 11:49 ` SZEDER Gábor
+2020-02-07 13:21   ` SZEDER Gábor
+2020-02-07 17:52     ` Elijah Newren
+     [not found] &lt;CADhmr77EbC+3f=Oa+bm18Z_SSEMK8vCjNHQniuvkdfaZdRT_5A@mail.gmail.com&gt;
+2020-05-30 16:24 ` Elijah Newren
+2020-06-03 16:09   ` Thomas Braun
+2020-06-04 10:19     ` Phillip Wood
+2020-06-05 15:29       ` Junio C Hamano
+Reply instructions:
+You may reply publicly to this message via plain-text email
+using any one of the following methods:
+* Save the following mbox file, import it into your mail client,
+  and reply-to-all from there: mbox
+  Avoid top-posting and favor interleaved quoting:
+  https://en.wikipedia.org/wiki/Posting_style#Interleaved_style
+* Reply using the --to, --cc, and --in-reply-to
+  switches of git-send-email(1):
+  git send-email \
+    --in-reply-to=20200207111008.GA2868@szeder.dev \
+    --to=szeder.dev@gmail.com \
+    --cc=git@vger.kernel.org \
+    /path/to/YOUR_REPLY
+  https://kernel.org/pub/software/scm/git/docs/git-send-email.html
+* If your mail client supports setting the In-Reply-To header
+  via mailto: links, try the mailto: link
+Git Mailing List Archive on lore.kernel.org
+Archives are clonable:
+	git clone --mirror https://lore.kernel.org/git/0 git/git/0.git
+	# If you have public-inbox 1.1+ installed, you may
+	# initialize and index your mirror using the following commands:
+	public-inbox-init -V2 git git/ https://lore.kernel.org/git \
+		git@vger.kernel.org
+	public-inbox-index git
+Example config snippet for mirrors
+Newsgroup available over NNTP:
+	nntp://nntp.lore.kernel.org/org.kernel.vger.git
+AGPL code for this site: git clone https://public-inbox.org/public-inbox.git

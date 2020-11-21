@@ -1,0 +1,344 @@
+	Aerial refueling
+		From Wikipedia, the free encyclopedia
+		Jump to navigation
+		Jump to search
+		Flight operation in which one or more aircraft are refueled in flight from another aircraft in flight
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+      This article includes a list of general references, but it remains largely unverified because it lacks sufficient corresponding inline citations. Please help to improve this article by introducing more precise citations.  (March 2009) (Learn how and when to remove this template message)
+The examples and perspective in this article may not represent a worldwide view of the subject. You may improve this article, discuss the issue on the talk page, or create a new article, as appropriate.  (August 2017) (Learn how and when to remove this template message)
+ (Learn how and when to remove this template message)
+  A  KC-135 Stratotanker refuels an F-16 Fighting Falcon
+Aerial refueling,  also referred to as air refueling, in-flight refueling (IFR), air-to-air refueling (AAR), and tanking, is the process of transferring aviation fuel from one military aircraft (the tanker) to another (the receiver) during flight.[1] The two main refueling systems are probe-and-drogue, which is simpler to adapt to existing aircraft, and the flying boom, which offers faster fuel transfer, but requires a dedicated boom operator station.
+The procedure allows the receiving aircraft to remain airborne longer, extending its range or loiter time on station. A series of air refuelings can give range limited only by crew fatigue and engineering factors such as engine oil consumption. Because the receiver aircraft can be topped up with extra fuel in the air, air refueling can allow a takeoff with a greater payload which could be weapons, cargo, or personnel: the maximum takeoff weight is maintained by carrying less fuel and topping up once airborne. Alternatively, a shorter take-off roll can be achieved because take-off can be at a lighter weight before refueling once airborne. Aerial refueling has also been considered as a means to reduce fuel consumption on long-distance flights greater than 3,000 nautical miles (5,600 km; 3,500 mi). Potential fuel savings in the range of 35–40% have been estimated for long-haul flights (including the fuel used during the tanker missions).[2]
+Usually, the aircraft providing the fuel is specially designed for the task, although refueling pods can be fitted to existing aircraft designs if the "probe-and-drogue" system is to be used.  The cost of the refueling equipment on both tanker and receiver aircraft and the specialized aircraft handling of the aircraft to be refueled (very close "line astern" formation flying) has resulted in the activity only being used in military operations. There is no known regular civilian in-flight refueling activity. Originally employed shortly before World War II on a very limited scale to extend the range of British civilian transatlantic flying boats, and then after World War II on a large scale to extend the range of strategic bombers, aerial refueling since the Vietnam War has been extensively used in large-scale military operations. 
+Contents
+1 History and development
+1.1 Early experiments
+1.1.1 Grappled-line looped-hose
+1.1.2 Probe-and-drogue system
+2 Systems
+2.1 Flying boom
+2.1.1 History
+2.2 Probe-and-drogue
+2.3 Boom drogue adapter units
+2.4 Multiple systems
+2.5 Wing-to-wing
+2.6 Simple grappling
+3 Compatibility issues
+3.1 Strategic
+3.2 Tactical
+4 Operational History
+4.1 Vietnam War
+4.2 Middle East
+4.3 Falklands War
+4.4 Gulf War
+5 Helicopters
+6 Longest manned flight record
+7 Developments
+8 Operators
+9 See also
+10 References
+11 External links
+History and development[edit]
+Early experiments[edit]
+  Capt. Lowell Smith and Lt. John P. Richter receiving the first mid-air refueling on June 27, 1923
+Some of the earliest experiments in aerial refueling took place in the 1920s; two slow-flying aircraft flew in formation, with a hose run down from a hand-held fuel tank on one aircraft and placed into the usual fuel filler of the other. The first mid-air refueling, based on the development of Alexander P. de Seversky, between two planes occurred on June 27, 1923, between two Airco DH-4B biplanes of the United States Army Air Service. An endurance record was set by three DH-4Bs (a receiver and two tankers) on August 27–28, 1923, in which the receiver airplane remained aloft for more than 37 hours using nine mid-air refuelings to transfer 687 US gallons (2,600 L) of aviation gasoline and 38 US gallons (140 L) of engine oil. The same crews demonstrated the utility of the technique on October 25, 1923, when a DH-4 flew from Sumas, Washington, on the Canada–United States border, to Tijuana, Mexico, landing in San Diego, using mid-air refuelings at Eugene, Oregon, and Sacramento, California.
+Similar trial demonstrations of mid-air refueling technique took place at the Royal Aircraft Establishment in England and by the Armée de l'Air in France in the same year, but these early experiments were not yet regarded as a practical proposition, and were generally dismissed as stunts.
+As the 1920s progressed, greater numbers of aviation enthusiasts vied to set new aerial long-distance records, using inflight air refueling. One such enthusiast, who would revolutionize aerial refueling was Sir Alan Cobham, member of the Royal Flying Corps in World War I, and a pioneer of long-distance aviation. During the 1920s, he made long-distance flights to places as far afield as Africa and Australia and he began experimenting with the possibilities of in-flight refueling to extend the range of flight.[3]
+Cobham was one of the founding directors of Airspeed Limited, an aircraft manufacturing company which went on to produce a specially adapted Airspeed Courier that Cobham used for his early experiments with in-flight refueling. This craft was eventually modified by Airspeed to Cobham's specification, for a non-stop flight from London to India, using in-flight refueling to extend the plane's flight duration.
+Meanwhile, in 1929, a group of U.S. Army Air Corps fliers, led by then Major Carl Spaatz, set an endurance record of over 150 hours with the Question Mark over Los Angeles.  Between June 11 and July 4, 1930, the brothers John, Kenneth, Albert, and Walter Hunter set a new record of 553 hours 40 minutes over Chicago using two Stinson SM-1 Detroiters as refueler and receiver. Aerial refueling remained a very dangerous process until 1935, when brothers Fred and Al Key demonstrated a spill-free refueling nozzle, designed by A. D. Hunter.[4] They exceeded the Hunters' record by nearly 100 hours in a Curtiss Robin monoplane [1], staying aloft for more than 27 days.[5]
+The US was mainly concerned about transatlantic flights for faster postal service between Europe and America. In 1931 W. Irving Glover, the second assistant postmaster, wrote an extensive article for Popular Mechanics concerning the challenges and the need for such a regular service. In his article he even mentioned the use of aerial refueling after takeoff as a possible solution.[6]
+At Le Bourget Airport near Paris, the Aéro-Club de France and the 34th Aviation Regiment of the French Air Force were able to demonstrate passing fuel between machines at the annual aviation fete at Vincennes in 1928.[7] The UK's Royal Aircraft Establishment was also running mid-air refueling trials, with the aim to use this technique to extend the range of the long-distance flying boats that serviced the British Empire. By 1931 they had demonstrated refueling between two Vickers Virginias, with fuel flow controlled by an automatic valve on the hose which would cut off if contact was lost.[8]
+Royal Air Force officer Richard Atcherley had observed the dangerous aerial-refueling techniques in use at barnstorming events in the US and determined to create a workable system.[9] While posted to the Middle East he developed and patented his 'crossover' system in 1934, in which the tanker trailed a large hooked line that would reel in a similar dropped line from the receiver, allowing the refueling to commence. In 1935, Cobham sold off the airline Cobham Air Routes Ltd to Olley Air Service and turned to the development of inflight refueling, founding the company Flight Refuelling Ltd. Atcherly's system was bought up by Cobham's company, and with some refinement and continuous improvement through the late '30s, it became the first practical refueling system.[10]
+Grappled-line looped-hose[edit]
+  The US Air Force Boeing B-50 Superfortress Lucky Lady II being refueled by grappled-line looped-hose during the first non-stop circumnavigation of the world by air (1949)
+Sir Alan Cobham's grappled-line looped-hose air-to-air refueling system borrowed from techniques patented by David Nicolson and John Lord, and was publicly demonstrated for the first time in 1935. In the system the receiver aircraft, at one time an Airspeed Courier, trailed a steel cable which was then grappled by a line shot from the tanker, a Handley Page Type W10. The line was then drawn back into the tanker where the receiver's cable was connected to the refueling hose. The receiver could then haul back in its cable bringing the hose to it. Once the hose was connected, the tanker climbed sufficiently above the receiver aircraft to allow the fuel to flow under gravity.[11][12]
+When Cobham was developing his system, he saw the need as purely for long-range transoceanic commercial aircraft flights,[13] but today aerial refueling is used exclusively by military aircraft.
+In 1934, Cobham had founded Flight Refuelling Ltd and by 1938 had used FRL's looped-hose system to refuel aircraft as large as the Short Empire flying boat Cambria from an Armstrong Whitworth AW.23.[5] Handley Page Harrows were used in the 1939 trials to perform aerial refueling of the Empire flying boats for regular transatlantic crossings. From August 5 to October 1, 1939, sixteen crossings of the Atlantic were made by Empire flying boats, with fifteen crossings using FRL's aerial refueling system.[14] After the sixteen crossings further trials were suspended due to the outbreak of World War II.[15]
+During the closing months of World War II, it had been intended that Tiger Force's Lancaster and Lincoln bombers would be in-flight refueled by converted Halifax tanker aircraft, fitted with the FRL's looped-hose units, in operations against the Japanese homelands, but the war ended before the aircraft could be deployed. After the war ended, the USAF bought a small number of FRL looped-hose units and fitted a number of B-29s as tankers to refuel specially equipped B-29s and later B-50s. The USAF made only one major change between the system used by the RAF. The USAF version had auto-coupling of the refueling nozzle, where the leader line with the refueling hose is pulled to the receiver aircraft and a refueling receptacle on the belly of the aircraft, allowing high-altitude air-to-air refueling and doing away with the aircraft having to fly to a lower altitude to be depressurized so a crew member could manually do the coupling.[16]
+This air-to-air refueling system was used by the B-50 Superfortress Lucky Lady II of the 43rd Bomb Wing to make its famous first non-stop around-the-world flight in 1949.[17][18] From February 26 to March 3, 1949, Lucky Lady II flew non-stop around the world in 94 hours and 1 minute, a feat made possible by four aerial refuelings from four pairs of KB-29M tankers of the 43d ARS. Before the mission, crews of the 43rd had experienced only a single operational air refueling contact. The flight started and ended at Carswell Air Force Base in Fort Worth, Texas with the refuelings accomplished over the Azores, West Africa, the Pacific Ocean near Guam, and between Hawaii and the West Coast.[19]
+This first non-stop circumnavigation of the globe proved that, because of aerial refueling, vast distances and geographical barriers were no longer an obstacle to military air power. In 1949, four additional ARS units were organized by the USAF and both the 43d and 509th ARS became fully operational.
+Probe-and-drogue system[edit]
+Cobham's company FRL soon realized that their looped-hose system left a lot to be desired and began work on an improved system that is now commonly called the probe-and-drogue air-to-air refueling system and today is one of the two systems chosen by air forces for air-to-air refueling, the other being the flying-boom system. In post-war trials the RAF used a modified Lancaster tanker employing the much improved probe-and-drogue system, with a modified Gloster Meteor F.3 jet fighter, serial EE397, fitted with a nose-mounted probe.[20][21] On 7 August 1949, the Meteor flown by FRL test pilot Pat Hornidge took off from Tarrant Rushton and remained airborne for 12 hours and 3 minutes, receiving 2,352 imperial gallons (10,690 L) of fuel in ten refuelings from a Lancaster tanker. Hornidge flew an overall distance of 3,600 mi (5,800 km), achieving a new jet endurance record.[22][23] FRL still exists as part of Cobham plc.
+Modern specialized tanker aircraft have equipment specially designed for the task of offloading fuel to the receiver aircraft, based on drogue and probe, even at the higher speeds modern jet aircraft typically need to remain airborne.
+In January 1948, General Carl Spaatz, then the first Chief of Staff of the new United States Air Force, made aerial refueling a top priority of the service.  In March 1948, the USAF purchased two sets of FRL's looped-hose in-flight refueling equipment, which had been in practical use with British Overseas Airways Corporation (BOAC) since 1946, and manufacturing rights to the system. FRL also provided a year of technical assistance. The sets were immediately installed in two Boeing B-29 Superfortresses, with plans to equip 80 B-29s.
+Flight testing began in May 1948 at Wright-Patterson Air Force Base, Ohio, and was so successful that in June orders went out to equip all new B-50s and subsequent bombers with receiving equipment. Two dedicated air refueling units were formed on June 30, 1948: the 43d Air Refueling Squadron at Davis-Monthan Air Force Base, Arizona, and the 509th Air Refueling Squadron at Walker Air Force Base, New Mexico. The first ARS aircraft used FRL's looped-hose refueling system, but testing with a boom system followed quickly in the autumn of 1948.
+The first use of aerial refueling in combat took place during the Korean War, involving F-84 fighter-bombers flying missions from Japanese airfields, due to Chinese-North Korean forces overrunning many of the bases for jet aircraft in South Korea, refueling from converted B-29s using the drogue-and-probe in-flight refueling system with the probe located in one of the F-84's wing-tip fuel tanks.
+Systems[edit]
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.  (April 2012) (Learn how and when to remove this template message)
+Flying boom[edit]
+The flying boom is a rigid, telescoping tube with movable flight control surfaces that a boom operator on the tanker aircraft extends and inserts into a receptacle on the receiving aircraft. All boom-equipped tankers (e.g. KC-135 Stratotanker, KC-10 Extender, KC-46 Pegasus) have a single boom, and can refuel one aircraft at a time with this mechanism.
+History[edit]
+In the late 1940s, General Curtis LeMay, commander of the Strategic Air Command (SAC), asked Boeing to develop a refueling system that could transfer fuel at a higher rate than had been possible with earlier systems using flexible hoses, resulting in the flying boom system.  The B-29 was the first to employ the boom, and between 1950 and 1951, 116 original B-29s, designated KB-29Ps, were converted at the Boeing plant at Renton, Washington. Boeing went on to develop the world's first production aerial tanker, the KC-97 Stratofreighter, a piston-engined Boeing Stratocruiser (USAF designation C-97 Stratofreighter) with a Boeing-developed flying boom and extra kerosene (jet fuel) tanks feeding the boom. The Stratocruiser airliner itself was developed from the B-29 bomber after World War II. In the KC-97, the mixed gasoline/kerosene fuel system was clearly not desirable and it was obvious that a jet-powered tanker aircraft would be the next development, having a single type of fuel for both its own engines and for passing to receiver aircraft. The 230 mph (370 km/h) cruise speed of the slower, piston-engined KC-97 was also a serious issue, as using it as an aerial tanker forced the newer jet-powered military aircraft to slow down to mate with the tanker's boom, a highly serious issue with the newer supersonic aircraft coming into service at that time, which could force such receiving aircraft in some situations to slow down enough to approach their stall speed during the approach to the tanker. It was no surprise that, after the KC-97, Boeing began receiving contracts from the USAF to build jet tankers based on the Boeing 367-80 (Dash-80) airframe. The result was the Boeing KC-135 Stratotanker, of which 732 were built.
+The flying boom is attached to the rear of the tanker aircraft. The attachment is gimballed, allowing the boom to move with the receiver aircraft. The boom contains a rigid pipe to transfer fuel. The fuel pipe ends in a nozzle with a flexible ball joint. The nozzle mates to the "receptacle" in the receiver aircraft during fuel transfer. A poppet valve in the end of the nozzle prevents fuel from exiting the tube until the nozzle properly mates with the receiver's refueling receptacle. Once properly mated, toggles in the receptacle engage the nozzle, holding it locked during fuel transfer.
+The "flying" boom is so named because flight control surfaces, small movable airfoils that are often in a V-tail configuration, are used to move the boom by creating aerodynamic forces. They are actuated hydraulically and controlled by the boom operator using a control stick. The boom operator also telescopes the boom to make the connection with the receiver's receptacle.
+To complete an aerial refueling, the tanker and receiver aircraft rendezvous, flying in formation. The receiver moves to a position behind the tanker, within safe limits of travel for the boom, aided by director lights or directions radioed by the boom operator. Once in position, the operator extends the boom to make contact with the receiver aircraft. Once in contact, fuel is pumped through the boom into the receiver aircraft.
+  USAF KC-135 boom operator view from the boom pod.
+While in contact, the receiver pilot must continue to fly within the "air refueling envelope", the area in which contact with the boom is safe. Moving outside of this envelope can damage the boom or lead to mid-air collision, for example the 1966 Palomares B-52 crash. If the receiving aircraft approaches the outer limits of the envelope, the boom operator will command the receiver pilot to correct his position and disconnect the boom if necessary.
+When the desired amount of fuel has been transferred, the two aircraft disconnect and the receiver aircraft departs the formation. When not in use, the boom is stored flush with the bottom of the tanker's fuselage to minimize drag.
+The US Air Force fixed-wing aircraft use the flying boom system, along with countries operating F-16 or F-15 variants. The system is used by Australia (KC-30A), the Netherlands (KDC-10), Israel (modified Boeing 707), Turkey (KC-135Rs), and Iran (Boeing 747). The system allows higher fuel flow rates (up to 1,000 US gallons (3,800 l) / 6,500 pounds (2,900 kg) per minute for the KC-135, but does require a boom operator, and can only refuel one aircraft at a time.
+Probe-and-drogue[edit]
+The probe-and-drogue refueling method employs a flexible hose that trails from the tanker aircraft. The drogue (or para-drogue), sometimes called a basket, is a fitting resembling a shuttlecock, attached at its narrow end (like the "cork" nose of a shuttlecock) with a valve to a flexible hose. The drogue stabilizes the hose in flight and provides a funnel to aid insertion of the receiver aircraft probe into the hose. The hose connects to a Hose Drum Unit (HDU). When not in use, the hose/drogue is reeled completely into the HDU. The receiver has a probe, which is a rigid, protruding or pivoted retractable arm placed on the aircraft's nose or fuselage to make the connection.  Most modern versions of the probe are usually designed to be retractable, and are retracted when not in use, particularly on high speed aircraft.[citation needed]
+At the end of the probe is a valve that is closed until it mates with the drogue's forward internal receptacle, after which it opens and allows fuel to pass from tanker to receiver. The valves in the probe and drogue that are most commonly used are to a NATO standard and were originally developed by the company Flight Refuelling Limited in the UK and deployed in the late 1940s and 1950s.[citation needed] This standardization allows drogue-equipped tanker aircraft from many nations the ability to refuel probe-equipped aircraft from other nations. The NATO standard probe system incorporates shear rivets that attach the refueling valve to the end of the probe.[citation needed] This is so that if a large side or vertical load develops while in contact with the drogue, the rivets shear and the fuel valve breaks off, rather than the probe or receiver aircraft suffering structural damage. A so-called "broken probe" (actually a broken fuel valve, as described above) may happen if poor flying technique is used by the receiver pilot, or in turbulence. Sometimes the valve is retained in the tanker drogue and prevents further refueling from that drogue until removed during ground maintenance.
+Buddy store
+A "buddy store" or "buddy pod" is an external pod loaded on an aircraft hardpoint that contains a hose and drogue system (HDU).[24] Buddy stores allow fighter / bomber aircraft to be reconfigured for "buddy tanking" other aircraft. This allows an air combat force without dedicated/specialized tanker support (for instance, a carrier air wing) to extend the range of its strike aircraft. In other cases, using the buddy store method allows a carrier-based aircraft to take-off with a heavier than usual load, the aircraft then being topped-up with fuel from a HDU-equipped "buddy" tanker, a method previously used by the Royal Navy in operating its Supermarine Scimitar, de Havilland Sea Vixen and Blackburn Buccaneers, in the Buccaneer's case using a bomb-bay-mounted tank and HDU.
+  A KC-130 Hercules refuels a pair of CH-53E Super Stallions
+The tanker aircraft flies straight and level and extends the hose/drogue which is allowed to trail out behind and below the tanker under normal aerodynamic forces. The pilot of the receiver aircraft extends the probe (if required) and uses normal flight controls to "fly" the refueling probe directly into the basket. This requires a closure rate of approximately two knots (walking speed) in order to establish solid probe/drogue coupling and push the hose several feet into the HDU. Too little closure will cause an incomplete connection and no fuel flow (or occasionally leaking fuel). Too much closure is dangerous because it can trigger a strong transverse oscillation in the hose, severing the probe tip. Another significant danger is that the drogue may hit the recipient aircraft and damage it—instances have occurred in which the drogue has shattered the canopy of a fighter aircraft, causing great danger to its pilot.[citation needed]
+The optimal approach is from behind and below (not level with) the drogue. Because the drogue is relatively light (typically soft canvas webbing) and subject to aerodynamic forces, it can be pushed around by the bow wave of approaching aircraft, exacerbating engagement even in smooth air. After initial contact, the hose and drogue is pushed forward by the receiver a certain distance (typically, a few feet), and the hose is reeled slowly back onto its drum in the HDU. This opens the tanker's main refueling valve allowing fuel to flow to the drogue under the appropriate pressure (assuming the tanker crew has energized the pump). Tension on the hose is aerodynamically 'balanced' by a motor in the HDU so that as the receiver aircraft moves fore and aft, the hose retracts and extends, thus preventing bends in the hose that would cause undue side loads on the probe.  Fuel flow is typically indicated by illumination of a green light near the HDU. If the hose is pushed in too far or not far enough, a cutoff switch will inhibit fuel flow, which is typically accompanied by an amber light.  Disengagement is commanded by the tanker pilot with a red light.[24]
+ U.S. Navy, Marine Corps, and some Army aircraft refuel using the "hose-and-drogue" system, as well as most Western-European aircraft. The Soviet Union also reverse engineered the NATO hose and drogue system[citation needed], which is called UPAZ,[25] so all Russian aircraft are also equipped with probe and drogue. The Chinese PLAF has a fleet of Xian H-6 bombers modified for aerial refueling as well as forthcoming Russian Ilyushin Il-78 aerial refueling tankers.[26]
+Tankers can be equipped with multipoint hose-and-drogue systems allowing two (or more) aircraft to refuel simultaneously, reducing time spent refueling by as much as 75% for a four aircraft strike package.[27]
+Boom drogue adapter units[edit]
+USAF KC-135 and French Air Force KC-135FR refueling-boom equipped tankers can be field converted to a probe-and-drogue system using a special adapter unit. In this configuration, the tanker retains its articulated boom, but has a hose/drogue at the end of it instead of the usual nozzle. The tanker boom operator holds the boom in a static position, while the receiver aircraft then flies the probe into the basket. Unlike the soft canvas basket used in most drogue systems, the adapter units use a steel basket, grimly known as the "iron maiden" by naval aviators because of its unforgiving nature. Soft drogues can be contacted slightly off center, wherein the probe is guided into the hose receptacle by the canvas drogue. The metal drogue, when contacted even slightly off center, will pivot out of place, potentially "slapping" the aircraft's fuselage and causing damage.
+The other major difference with this system is that when contacted, the hose does not "retract" into an HDU. Instead, the hose bends depending on how far it is pushed toward the boom. If it is pushed too far, it can loop around the probe or nose of the aircraft, damage the windscreen, or cause contact with the rigid boom. If not pushed far enough, the probe will disengage, halting fueling. Because of a much smaller position keeping tolerance, staying properly connected to a KC-135 adapter unit is considerably more difficult than staying in a traditional hose/drogue configuration. When fueling is complete, the receiver carefully backs off until the probe refueling valve disconnects from the valve in the basket. Off center disengagements, like engagements, can cause the drogue to "prang" the probe and/or strike the aircraft's fuselage.
+Multiple systems[edit]
+  A KC-10 Extender
+Some tankers have both a boom and one or more complete hose-and-drogue systems. The USAF KC-10 has both a flying boom and also a separate hose and drogue system manufactured by Cobham plc. Both are on the aircraft centerline at the tail of the aircraft, so only one system can be used at once. However, such a system allows all types of probe- and receptacle-equipped aircraft to be refueled in a single mission, without landing to install an adapter. Many KC-135s and some KC-10s are also equipped with dual under-wing hose-and-drogue attachments known as Multi-point Refueling System (MPRSs) or Wing Air Refueling Pods (WARPs), respectively.
+Wing-to-wing[edit]
+In this method, similar to the probe-and-drogue method but more complicated, the tanker aircraft released a flexible hose from its wingtip. An aircraft, flying beside it, had to catch the hose with a special lock under its wingtip. After the hose was locked, and the connection was established, the fuel was pumped. It was used on a small number of Soviet Tu-4 and Tu-16 only (the tanker variant was Tu-16Z).[28]
+Simple grappling[edit]
+Some historic systems used for pioneering aerial refueling used the grappling method, where the tanker aircraft unreeled the fuel hose and the receiver aircraft would grapple the hose midair, reel it in and connect it so that fuel can be transferred either with the assistance of pumps or simply by gravity feed. This was the method used on the Question Mark endurance flight in 1929.
+Compatibility issues[edit]
+The probe-and-drogue system is not compatible with flying boom equipment, creating a problem for military planners where mixed forces are involved.[29] Incompatibility can also complicate the procurement of new systems — the Royal Canadian Air Force currently wish to purchase the F-35A, which can only refuel via the flying boom, but only possess probe-and-drogue refuelers. The potential cost of converting F-35As to probe-and-drogue refueling (as is used on U.S. Navy &amp; Marine Corps F-35Bs and F-35Cs) has added to the political controversy which already surrounds F-35 procurement within the RCAF.[30]
+These concerns can be addressed by drogue adapters (see section "Boom drogue adapter units" above) that allow drogue aircraft to refuel from boom-equipped aircraft, and by refuelers which are equipped with both drogue and boom units and can thus refuel both types in the same flight, such as the KC-10, MPRS KC-135, or Airbus A330 MRTT.
+Strategic[edit]
+  A C-17 Globemaster III receives fuel from a KC-135, at night 
+The development of the KC-97 and Boeing KC-135 Stratotankers was pushed by the Cold War requirement of the United States to be able to keep fleets of nuclear-armed B-47 Stratojet and B-52 Stratofortress strategic bombers airborne around-the-clock either to threaten retaliation against a Soviet strike for mutual assured destruction, or to bomb the U.S.S.R. first had it been ordered to do so by the President of the United States. The bombers would fly orbits around their assigned positions from which they were to enter Soviet airspace if they received the order, and the tankers would refill the bombers' fuel tanks so that they could keep a force in the air 24 hours a day, and still have enough fuel to reach their targets in the Soviet Union. This also ensured that a first strike against the bombers' airfields could not obliterate the U.S.'s ability to retaliate by bomber.
+In 1958, Valiant tankers in the UK were developed with one HDU mounted in the bomb-bay. Valiant tankers of 214 Squadron were used to demonstrate radius of action by refueling a Valiant bomber non-stop from UK to Singapore in 1960 and a Vulcan bomber to Australia in 1961. Other UK exercises involving refueling aircraft from Valiant tankers included Javelin and Lightning fighters, also Vulcan and Victor bombers. For instance, in 1962 a squadron of Javelin air defense aircraft was refueled in stages from the UK to India and back (exercise "Shiksha"). After the retirement of the Valiant in 1965, the Handley Page Victor took over the UK refueling role and had three hoses (HDUs).  These were a fuselage-mounted HDU and a refueling pod on each wing. The center hose could refuel any probe-equipped aircraft, the wing pods could refuel the more maneuverable fighter/ground attack types.
+A byproduct of this development effort and the building of large numbers of tankers was that these tankers were also available to refuel cargo aircraft, fighter aircraft, and ground attack aircraft, in addition to bombers, for ferrying to distant theaters of operations. This was much used during the Vietnam War, when many aircraft could not have covered the transoceanic distances without aerial refueling, even with intermediate bases in Hawaii and Okinawa. In addition to allowing the transport of the aircraft themselves, the cargo aircraft could also carry matériel, supplies, and personnel to Vietnam without landing to refuel. KC-135s were also frequently used for refueling of air combat missions from air bases in Thailand.
+The USAF SR-71 Blackbird strategic reconnaissance aircraft made frequent use of air-to-air refueling. Indeed, design considerations of the aircraft made its mission impossible without aerial refueling. Based at Beale AFB in central California, SR-71s had to be forward deployed to Europe and Japan prior to flying actual reconnaissance missions. These trans-Pacific and trans-Atlantic flights during deployment were impossible without aerial refueling. The SR-71's designers traded takeoff performance for better high-speed, high-altitude performance, necessitating takeoff with less-than-full fuel tanks from even the longest runways. Once airborne, the Blackbird would accelerate to supersonic speed using afterburners to facilitate structural heating and expansion. The magnitude of temperature changes experienced by the SR-71, from parked to its maximum speed, resulted in significant expansion of its structural parts in cruise flight. To allow for the expansion, the Blackbird's parts had to fit loosely when cold, so loosely, in fact, that the Blackbird constantly leaked fuel before heating expanded the airframe enough to seal its fuel tanks. Following the supersonic dash, and to stop the fuel leaks, the SR-71 would then rendezvous with a tanker to fill its now nearly empty tanks before proceeding on its mission. This was referred to as the LTTR (for "Launch To Tanker Rendezvous") profile. LTTR had the added advantage of providing an operational test of the Blackbird's refueling capability within minutes after takeoff, enabling a Return-To-Launch-Site abort capability if necessary. At its most efficient altitude and speed, the Blackbird was capable of flying for many hours without refueling. The SR-71 used a special fuel, JP-7, with a very high flash point to withstand the extreme skin temperatures generated during Mach 3+ cruise flight.[31]  While JP-7 could be used by other aircraft, its burn characteristics posed problems in certain situations (such as high-altitude, emergency engine starts) that made it less than optimal for aircraft other than the SR-71.
+Normally, all the fuel aboard a tanker aircraft may be either offloaded, or burned by the tanker as necessary. To make this possible, the KC-135 fuel system incorporated gravity draining and pumps to allow moving fuel from tank to tank depending on mission needs. Mixing JP-7 with JP-4 or Jet A, however, rendered it unsuitable for use by the SR-71, so the US Air Force commissioned a specially modified KC-135 variant, the KC-135Q, which included changes to the fuel system and operating procedures preventing inadvertent inflight mixing of fuel intended for offload with fuel intended for use by the tanker. SR-71 aircraft were refueled exclusively by KC-135Q tankers.
+The French strategic Force de dissuasion or Force de frappe strategic nuclear deterrent force uses KC-135 tankers to refuel and extend the range of Mirage 2000N fighter-bombers and, before their retirement, Dassault Mirage IV supersonic bombers which were sometimes planned to operate in pairs, one armed, and one carrying a buddy pack air refueling pod.
+  A Russian Air Force Sukhoi Su-34 takes on fuel through a Probe-and-drogue system
+Israel has a fleet of Boeing 707s equipped with a boom refueling system similar to the KC-135, used to refuel and extend the range of fighter bombers such as the F-15I and F-16I for deterrent and strike missions.[32][33]
+Tactical[edit]
+Tankers are considered "force multipliers", because they convey considerable tactical advantages. Primarily, aerial refueling adds to the combat radius of attack, fighter and bombers aircraft, and allows patrol aircraft to remain airborne longer, thereby reducing the numbers of aircraft necessary to accomplish a given mission. Aerial refueling can also mitigate basing issues which might otherwise place limitations on combat payload. Combat aircraft operating from airfields with shorter runways must limit their takeoff weight, which could mean a choice between range (fuel) and combat payload (munitions). Aerial refueling, however, eliminates many of these basing difficulties because a combat aircraft can take off with a full combat payload and refuel immediately.
+Aside from these issues, the psychological advantage of full fuel tanks – and a tanker likely available nearby – gives a pilot a distinct edge in combat. In most combat situations, speed is a necessity for optimal completion of the mission at hand.
+As high speeds require fuel, pilots must always balance fuel and speed requirements. Pilots operating aircraft with aerial refueling capability mitigate low-fuel concerns.
+Operational History[edit]
+Vietnam War[edit]
+During the Vietnam War, it was common for USAF fighter-bombers flying from Thailand to North Vietnam to refuel from KC-135s en route to their target. Besides extending their range, this enabled the F-105s and F-4 Phantoms to carry more bombs and rockets. Tankers were also available for refueling on the way back if necessary. In addition to ferrying aircraft across the Pacific Ocean, aerial refueling made it possible for battle-damaged fighters, with heavily leaking fuel tanks, to hook up to the tankers and let the tanker feed its engine(s) until the point where they could glide to the base and land. This saved numerous aircraft.[citation needed]
+The US Navy frequently used carrier-based aerial tankers like the KA-3 Skywarrior to refuel Navy and Marine aircraft such as the F-4, A-4 Skyhawk, A-6 Intruder, and A-7 Corsair II. This was particularly useful when a pilot returning from an airstrike was having difficulty landing and was running low on jet fuel. This gave him fuel for more attempts at landing for a successful "trap" on an aircraft carrier. The KA-3 could also refuel fighters on extended Combat Air Patrol. USMC jets based in South Vietnam and Thailand also used USMC KC-130 Hercules transports for air-to-air refueling on missions.
+  HC-130P refuels HH-3E over Southeast Asia
+Middle East[edit]
+During the 1980s Iran–Iraq War, the Iranian Air Force maintained at least one KC 707-3J9C aerial tanker, which the Islamic Republic had inherited from the Shah's government. This was used most effectively on April 4, 1981, refueling eight IRIAF F-4 Phantoms on long-range sorties into Iraq to bomb the H-3 Al Walid airfield near the Jordanian border.[34] In 1985, Israeli F-15s used heavily modified Boeing 707 aircraft to provide aerial refueling over the Mediterranean Sea in order to extend their range for the 2,000 km flight during the Operation Wooden Leg air raid on the headquarters of the PLO near Tunis, Tunisia.[35]
+Falklands War[edit]
+During the Falklands War, aerial refueling played a vital role in all of the successful Argentine attacks against the Royal Navy. The Argentine Air Force had only two KC-130H Hercules available and they were used to refuel both Air Force and Navy A-4 Skyhawks and Navy Super Etendards in their Exocet strikes. The Hercules on several occasions approached the islands (where the Sea Harriers were in patrol) to search and guide the A-4s in their returning flights. On one of those flights (callsign Jaguar) one of the KC-130s went to rescue a damaged A-4 and delivered 39,000 lb (18,000 kg) of fuel while carrying it to its airfield at San Julian. However, the Mirage IIIs and Daggers lack of air refueling capability prevented them from achieving better results. The Mirages were unable to reach the islands with a strike payload, and the Daggers could do so only for a five-minute strike flight.
+On the British side, air refueling was carried out by the Handley Page Victor K.2 and, after the Argentine surrender, by modified C-130 Hercules tankers. These aircraft aided deployments from the UK to the Ascension Island staging post in the Atlantic and further deployments south of bomber, transport and maritime patrol aircraft. The most famous refueling missions were the 8,000 nmi (15,000 km) "Operation Black Buck" sorties which used 14 Victor tankers to allow an Avro Vulcan bomber (with a flying reserve bomber) to attack the Argentine-captured airfield at Port Stanley on the Falkland Islands. With all the aircraft flying from Ascension, the tankers themselves needed refueling. The raids were the longest-range bombing raids in history until surpassed by the Boeing B-52s flying from the States to bomb Iraq in the 1991 Gulf War and later B-2 flights.
+Gulf War[edit]
+During the time of Operation Desert Shield, the military buildup to the Persian Gulf War, US Air Force Boeing KC-135s &amp; McDonnell Douglas KC-10As, and USMC KC-130 Hercules aircraft were deployed to forward air bases in England, Diego Garcia, and Saudi Arabia. Aircraft stationed in Saudi Arabia normally maintained an orbit in the Saudi–Iraqi neutral zone, informally known as "Frisbee", and refueled coalition aircraft whenever necessary. Two side by side tracks over central Saudi Arabia called "Prune" and "Raisin" featured 2–4 basket equipped KC-135 tankers each and were used by Navy aircraft from the Red Sea Battle Force. Large Navy strike groups from the Red Sea would send A-6 tankers to the Prune and Raisin tracks ahead of the strike aircraft arriving to top off and take up station to the right of the Air Force tankers thereby providing an additional tanking point. RAF Handley Page Victor and Vickers VC10 tankers were also used to refuel British and coalition aircraft and were popular with the US Navy for their docile basket behavior and having three point refueling stations. An additional track was maintained close to the northwest border for the E-3 AWACS aircraft and any Navy aircraft needing emergency fuel. These 24-hour air-refueling zones helped make the intense air campaign during Operation Desert Storm possible. An additional 24/7 tanker presence was maintained over the Red Sea itself to refuel Navy F-14 Tomcats maintaining Combat Air Patrol tracks. During the last week of the conflict, KC-10 tankers moved inside Iraq to support barrier CAP missions set up to block Iraqi fighters from escaping to Iran.
+  A French Air Force EC725 is refueled by a Lockheed HC-130 during Exercise Angel Thunder
+On January 16–17, 1991, the first combat sortie of Operation Desert Storm, and the longest combat sortie in history, at that time, was launched from Barksdale AFB, Louisiana. Seven B-52Gs flew a thirty-five-hour mission to the Persian Gulf region, and back, to launch Boeing Air Launched Cruise Missiles (ALCMs) with the surprise use of conventional warheads. All of this was made possible by in-flight refueling, and by the secret switch away from nuclear warheads on the ALCMs.
+An extremely useful aerial tanker in Desert Storm was the USAF KC-10A Extender. Besides being larger than the other tankers, the KC-10A is equipped with the USAF "boom" refueling and also the "hose-and-drogue" system. This makes it possible for the KC-10A to refuel USAF aircraft, and also USMC and US Navy jets that use the "probe-and-drogue" system, and also allied aircraft, such as those from the UK and Saudi Arabia. KC-135s may be equipped with a drogue depending on the mission profile.
+The KC-10A was originally designed for the support of NATO in Europe by the USAF. In the case of armed conflict, with a full jet fuel load, the KC-10A is capable of flying from a base on the east coast of the US or Canada, flying nonstop to Europe, transferring a considerable amount of fuel in air-to-air refueling, and then returning to its home base, all without landing anywhere. This could have been very useful in the Cold War era when numerous European bases would (probably) have been disabled by Warsaw Pact strikes in Germany, Italy, the Netherlands, France, and the United Kingdom.
+On January 24, 1991, the Iraqi Air Force launched the Attack on Ras Tanura, an attempt to bomb the Ras Tanura oil facility in Saudi Arabia. On their way to the target the Iraqi attack aircraft were refueled by tanker at an altitude of 100 meters. The attack ultimately failed, with two aircraft turning back and the remaining two shot down.
+Helicopters[edit]
+Helicopter in-flight refueling (HIFR) is a variation of aerial refueling when a naval helicopter approaches a warship (not necessarily suited for landing operations) and receives fuel through the cabin while hovering.  Alternatively, some helicopters equipped with a probe extending out the front can be refueled from a drogue-equipped tanker aircraft in a similar manner to fixed-wing aircraft by matching a high forward speed for a helicopter to a slow speed for the fixed-wing tanker.
+Longest manned flight record[edit]
+A mission modified Cessna 172 Skyhawk with a crew of two set the world record for the longest continuous manned flight without landing of 64 days, 22 hours, 19 minutes, and five seconds in 1958 by refueling and transferring food and supplies from a convertible top Ford Thunderbird automobile. The publicity flight for a Las Vegas area hotel ended when the aircraft's performance had degraded to the point where the Cessna had difficulty climbing away from the refueling car.[36][37]
+Developments[edit]
+Commercial tankers are occasionally used by military forces. The Omega Aerial Refueling Services company[38] is contracted by the US Navy.
+Autonomous (hands off) refueling using probe/drogue systems is being investigated by NASA, potentially for use by unmanned aerial vehicles in the KQ-X program.[39]
+Operators[edit]
+  A RAAF KC-30 refuels a USAF F-16
+ Algeria
+Algerian Air Force[40]
+ Argentina
+Argentine Air Force[40]
+ Australia
+Royal Australian Air Force[40]
+ Brazil
+Brazilian Air Force[40]
+ Canada
+Royal Canadian Air Force[40]
+ Chile
+Chilean Air Force[40]
+ People's Republic of China
+People's Liberation Army Air Force[40]
+ Colombia
+Colombian Air Force[40]
+ Egypt
+Egyptian Air Force[41]
+ France
+French Air Force[40]
+French Navy
+  An IAF  Ilyushin Il-78MKI provides mid-air refueling to two Mirage 2000.
+ Germany
+German Air Force[40]
+ India
+Indian Air Force[40]
+ Indonesia
+Indonesian Air Force[42]
+ Iran
+Islamic Republic of Iran Air Force[40]
+ Israel
+Israeli Air Force[40]
+ Italy
+Italian Air Force[40]
+ Japan
+Japan Air Self-Defense Force[40]
+ South Korea
+Republic of Korea Air Force[40]
+ Kuwait
+Kuwait Air Force[40]
+ Malaysia
+Royal Malaysian Air Force[40]
+  Two Saab JAS-39 Gripen of the Swedish Air Force undergoing inflight refuelling.
+ Morocco
+Royal Moroccan Air Force[40]
+ Netherlands
+Royal Netherlands Air Force[40]
+ Pakistan
+Pakistan Air Force[40]
+ Russia
+Russian Air Force[40]
+ Singapore
+Republic of Singapore Air Force[40]
+ Spain
+Spanish Air Force[40]
+ Sweden
+Swedish Air Force[40]
+ Turkey
+Turkish Air Force[40]
+ United Arab Emirates
+United Arab Emirates Air Force[40]
+ United Kingdom
+Royal Air Force[40]
+ Saudi Arabia
+Royal Saudi Air Force[40]
+  A  KC-46 Pegasus refuels a B-2 over Edwards AFB
+ United States
+United States Air Force[40]
+United States Marine Corps[40]
+United States Navy[40]
+ Venezuela
+Venezuelan Air Force[40]
+See also[edit]
+Military logistics
+Propellant depot
+Underway replenishment, the transfer of refuel and stores at sea
+List of tanker aircraft
+References[edit]
+^ "AAR" can also stand for After Action Review (i.e. debriefing); "IFR" also stands for Instrument Flight Rules.
+^ Nangia, R.K (November 2006). "Operations and aircraft design towards greener civil aviation using air-to-air refuelling" (PDF). The Aeronautical Journal. Paper No. 3088. (November): 705–721. doi:10.1017/S0001924000001585. Archived from the original (PDF) on 21 October 2013. Retrieved 20 October 2011..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}
+^ Colin Cruddas, Highways to the Empire (Air Britain, 2006, ISBN 0-85130-376-5); G.H. Pirie, Air Empire: British Imperial Civil Aviation, 1919–39 (Manchester University Press, 2009), Chapter 6. ISBN 978-0-7190-4111-2; G.H. Pirie, Cultures and Caricatures of British imperial Aviation: Passengers, Pilots, Publicity (Manchester University Press, 2012), Chapter 4.
+^ There is no indication that any relationship exists between A.D. Hunter and the Hunter brothers.
+^ a b History of Aviation, Part 19, 1938
+^ Hearst Magazines (February 1931). "Wings Across The Atlantic". Popular Mechanics. Hearst Magazines. p. 190.
+^ Flight Magazine archive, January 10, 1929
+^ Flight Magazine archive, July 3, 1931, p. 623
+^ Richard K. Smith. "Seventy Five Years of Inflight Refueling" (PDF). Retrieved October 1, 2013. Cite journal requires |journal= (help)
+^ "Mid-air refuelling in Gander".
+^ Bonnier Corporation (January 1947). "Gas Station In The Sky". Popular Science. Bonnier Corporation. p. 2.
+^  "Refuelling In Flight" , Flight Magazine, November 22, 1945 close-up drawing of receiver pawl grapnel and tanker haul line projectile
+^ "flight march - receiver aircraft - advertisements flight - 1947 - 0392 - Flight Archive". Retrieved 19 November 2016.
+^ Note — on one flight there was a high westerly wind and no need for aerial refueling
+^ "imperial airways - 1940 - 1219 - Flight Archive". Retrieved 19 November 2016.
+^ Bonnier Corporation (August 1948). "What Can Our Bombers Do Now?". Popular Science. Bonnier Corporation. p. 79.
+^ "flight - lucky lady - flight refuelling - 1949 - 0461 - Flight Archive". Retrieved 19 November 2016.
+^  "B-50s In Great Britain" , Flight magazine, September 1, 1949
+^ Hallex, Steve. "Around the World in 94 Hours*". Logbook. 14 (1, 1st Quarter 2016).
+^ "Archived copy". Archived from the original on 2011-07-08. Retrieved 2009-11-17.CS1 maint: archived copy as title (link)
+^ Bonnier Corporation (October 1949). "Jet Refuels Like Humming Bird". Popular Science. Bonnier Corporation. p. 131.
+^ "Meteor's 12-hour Flight", Flight, 1949
+^ "50 Years of Probe and Drogue Flight Refuelling cover signed Air Chief Marshal Sir Michael Knight KCB AFC FRAES". Retrieved 19 November 2016.
+^ a b Naval Air Systems Command (1 August 2006). A1-F18AC-NFM-000 Naval Aviation Training and Operating Procedures Standardization (NATOPS) Manual. United States Department of the Navy. p. 364.
+^ http://www.zvezda-npp.ru/english/06.htm  Archived August 16, 2007, at the Wayback Machine
+^ Pike, John. "HY-6 (Hongzhaji You-6) Aerial Refueling Tanker". Retrieved 19 November 2016.
+^ Maj. Marck R. Cobb, "Aerial Refueling: The Need for a Multipoint, Dual-System Capability," AU-ARI-CP-87-3, Air University Press, July 1987.
+^ note — even today there is much confusion about how this system actually worked
+^ Christopher, Bolkcom; D., Klaus, Jon (2005-05-11). "Air Force Aerial Refueling Methods: Flying Boom versus Hose-and-Drogue". Digital Library.
+^ "Canadian military unable to refuel new jets in mid-air". Macleans.ca. 31 Jan 2011. Retrieved 13 June 2015.
+^ "Lockheed SR-71 Blackbird". Retrieved 8 February 2014.
+^ Israeli Air Force (10 October 2013). "תדלוק אווירי". Retrieved 19 November 2016 – via YouTube.
+^ "Israel's First Strike on Iran's Nuclear Facilities – Part 1 - Defense Media Network". Retrieved 19 November 2016.
+^ Air Forces Monthly Special F-4 Phantom ISBN 0-946219-46-X  article by Farzin Nadimi p77
+^ Pike, John. "Israel Air Force - Israel". Retrieved 19 November 2016.
+^ "The Plane that Flew for 62 Days and the T-Bird that Saved the Day". Retrieved 19 November 2016.
+^ "Endurance Test, Circa 1958". 3 January 2008. Retrieved 19 November 2016.
+^ "Omega Air Refueling". Retrieved 19 November 2016.
+^ "Ares". Retrieved 19 November 2016.
+^ a b c d e f g h i j k l m n o p q r s t u v w x y z aa ab ac ad ae af ag "World Air Forces 2020". Flightglobal Insight. 2020. Retrieved 1 April 2020.
+^ https://www.janes.com/defence-news/news-detail/egypt-demonstrates-aerial-refuelling-for-combat-aircraft
+^ https://adbr.com.au/indonesia-seeks-new-heavy-air-refuelling-tanker/
+External links[edit]
+Wikimedia Commons has media related to Aerial refueling.
+Photo aerial tanking 1929
+Aerial tanking history
+Airborne rearming, a comprehensive article with video.
+Aerial Refueling on APA
+Air Refueling Systems Advisory Group
+Twenty-one Years of Flight Refuelling, a 1955 Flight article on the development of Flight Refuelling Ltd's refueling method.
+World's best aerial refueling aircraft
+Tac Tankers Association
+Airlift/Tankers Association
+vteModern military aircraft types and rolesTypes
+Balloon
+Fixed-wing
+Glider
+Helicopter
+Unmanned (UAV)
+RolesCombat
+Attack
+Counter-insurgency
+Gunship
+Bomber
+Strategic
+Penetrator
+Pathfinder
+Electronic warfare (EW)
+Fighter
+Air superiority
+Interceptor
+Escort
+Night
+Maritime patrol
+Multi-role
+Interdictor
+Fighter-bomber
+Strike fighter
+Non-combat
+Airborne early warning and control (AEW&amp;C)
+Experimental
+Reconnaissance
+Surveillance
+Tanker
+Trainer
+Transport
+Authority control 
+GND: 4496300-2
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Aerial_refueling&amp;oldid=982551382"
+		Categories: Air refuelingAerial maneuversHidden categories: CS1: long volume valueCS1 errors: missing periodicalCS1 maint: archived copy as titleWebarchive template wayback linksArticles with short descriptionArticles with long short descriptionShort description matches WikidataArticles lacking in-text citations from March 2009All articles lacking in-text citationsArticles with limited geographic scope from August 2017Articles with multiple maintenance issuesArticles needing additional references from April 2012All articles needing additional referencesAll articles with unsourced statementsArticles with unsourced statements from January 2016Articles with unsourced statements from March 2016Articles with unsourced statements from December 2011Commons link is on WikidataWikipedia articles with GND identifiersArticles containing video clips
+	Navigation menu
+		Personal tools
+		Not logged inTalkContributionsCreate accountLog in
+		Namespaces
+		ArticleTalk
+		Variants
+		Views
+		ReadEditView history
+		More
+		Search
+		Navigation
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		Contribute
+		HelpLearn to editCommunity portalRecent changesUpload file
+		Tools
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		Print/export
+		Download as PDFPrintable version
+		In other projects
+		Wikimedia Commons
+		Languages
+		العربيةBosanskiCatalàČeštinaDanskDeutschEspañolفارسیFrançais한국어HrvatskiBahasa IndonesiaItalianoעבריתҚазақшаLietuviųMagyarBahasa Melayuမြန်မာဘာသာNederlands日本語Norsk bokmålPolskiPortuguêsРусскийSuomiSvenskaTürkçeУкраїнська中文
+		Edit links
+		 This page was last edited on 8 October 2020, at 21:13 (UTC).
+		Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+		Privacy policy
+		About Wikipedia
+		Disclaimers
+		Contact Wikipedia
+		Mobile view
+		Developers
+		Statistics
+		Cookie statement

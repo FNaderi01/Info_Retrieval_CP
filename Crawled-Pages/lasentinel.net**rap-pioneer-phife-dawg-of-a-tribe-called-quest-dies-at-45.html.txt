@@ -1,0 +1,336 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Rap pioneer Phife Dawg of A Tribe Called Quest dies at 45            
+				By Associated Press                
+	                	                Published March 24, 2016
+		In this Nov. 12, 2015 file photo, Malik Isaac Taylor aka Phife Dawg, of A Tribe Called Quest, poses for a portrait at Sirius XM studios in New York. Phife Dawg, a masterful lyricist whose witty wordplay was a linchpin of the groundbreaking hip-hop group died Tuesday, March 22, 2016 from complications resulting from diabetes. He was 45. (Photo by Brian Ach/Invision/AP, FIle)
+NEW YORK (AP) — Phife Dawg, a masterful lyricist whose witty wordplay was a linchpin of the groundbreaking hip-hop group A Tribe Called Quest, died Tuesday from complications resulting from diabetes, his family said in a statement on Wednesday. He was 45.
+Born Malik Isaac Taylor, he was known as the “Five Foot Assassin” because he was 5 feet 3 inches tall.
+“Malik was our loving husband, father, brother and friend. We love him dearly. How he impacted all our lives will never be forgotten. His love for music and sports was only surpassed by his love of God and family,” the statement read.
+        ADVERTISEMENT        
+The family did not disclose any other details.
+Taylor, who earned respect for his skillful and thoughtful rhymes, was part of a number of rap classics with Tribe, including “Scenario,” ”Bonita Applebum,” ”Can I Kick It?” and “I Left My Wallet in El Segundo,” among others.
+“I like ’em brown, yellow, Puerto Rican or Haitian, name is Phife Dawg from the Zulu Nation,” he famously rapped on “Electric Relaxation.”
+The remaining members of A Tribe Called Quest released a statement expressing their sadness at Taylor’s death and thanking fans for their support.
+“Our hearts are heavy. We are devastated,” the group wrote in a statement. “This is something we weren’t prepared for although we all know that life is fleeting.”
+Taylor grew up in Queens, New York, with fellow Tribe member Q-Tip. In high school, the two met Ali Shaheed Muhammad, who is from Brooklyn, to form Tribe. Jarobi White later joined the group. The collective — known for its artistic songs and lyrics — recently celebrated the 25th anniversary of their debut album, “People’s Instinctive Travels and the Paths of Rhythm.”
+They were pioneers of rap, blending genres like jazz into hip-hop and offering rap fans a different sound and style than the gangsta rap that dominated airwaves at the time.
+Taylor and Q-Tip were known for trading words on songs and playing off one another.
+FILE – In this July 14, 2013 file photo, Q-Tip, left, and Phife Dawg from U.S group A Tribe Called Quest performs on stage during the Wireless Festival at the Queen Elizabeth Olympic Park, in London. Dawg, a masterful lyricist whose witty wordplay was a linchpin of the groundbreaking hip-hop group, died Tuesday, March 22, 2016, from complications resulting from diabetes, his family said in a statement Wednesday. He was 45. (Photo by Jonathan Short/Invision/AP, File)
+“I was just learning,” Taylor said in a recent interview with The Associated Press when asked about recording the group’s 1990 debut album. “I was just watching Q-Tip.”
+His groupmates expressed admiration for Taylor’s talent on Wednesday.
+“His music and what he’s contributed is seismic and hard to measure,” the group’s statement read. “He’s affected us as much as he’s affected all of you. We’re inspired by his daily joy and courage. He wasn’t in pain. He was happy. ”
+In the November interview, he was just as passionate about rap as he was when the Tribe launched its career. The group had some tense moments — seen in the 2011 documentary “Beats, Rhymes &amp; Life: The Travels of a Tribe Called Quest” — but thoughts of re-grouping were being considered. To celebrate the group’s 25th anniversary, they performed together on “The Tonight Show Starring Jimmy Fallon.”
+Taylor said he was ready to tour again with his band mates.
+“I’m going to speak for myself — that’s always the case for me, whether we’re together or not. These are my brothers. I know nothing but them. I only wanna work with them,” he told the AP. “In terms of going on tour, I wanna go on tour with them.”
+Tribe proved influential to rappers, from Pharrell to Busta Rhymes. The music world and other celebrities mourned Taylor on Wednesday, including actors Chris Rock and Don Cheadle, DJ-producer Mark Ronson, musician Sean Lennon, country singer Darius Rucker, R&amp;B singer Jill Scott as well as rappers Chuck D, Big Sean, Macklemore and Swizz Beatz.
+“Today is a dark day in hiphop,” rapper Talib Kweli tweeted.
+In this Nov. 12, 2015 file photo, Ali Shaheed Muhammad, from left, Jarobi White, and Malik Isaac Taylor aka Phife Dawg of A Tribe Called Quest pose for a portrait at Sirius XM studios in New York. Dawg, a masterful lyricist whose witty wordplay was a linchpin of the groundbreaking hip-hop group, died Tuesday, March 22, 2016, from complications resulting from diabetes, his family said in a statement Wednesday. He was 45. (Photo by Brian Ach/Invision/AP, File)
+At his Wednesday concert in Sydney, Australia, Kendrick Lamar spoke about Taylor’s influence on him and had the audience of 18,000 chant the late rapper’s name.
+“We lost one of the pioneers in hip-hop today by the name of Phife Dawg,” Lamar said. “We’re gonna give it up for him, for allowing me to do what I’m doing on this stage right here, right now, today.”
+Questlove posted a lengthy memoriam on Instagram and wrote about how epic Dawg’s verse was on “Buggin’ Out,” from 1991’s “The Low End Theory.”
+“Malik “Phife” Taylor’s verse was such a gauntlet/flag planting moment in hip hop. Every hip hop head was just…stunned HE. CAME. FOR. BLOOD &amp; was taking NO prisoners on this album (or ever again),” Questlove wrote.
+As a rapper who took time to craft his skills and come up with clever and intellectual lyrics, Taylor expected the same from others and was critical of contemporary hip-hop.
+“Back when we were doing it everybody had their own lane, nowadays it’s one on top of the other. ‘Oh, this sold 3 million with that style let me duplicate that style and run with it,'” he said.
+“In order for (us) to see the future everybody can’t sound like Future. Like, everybody sounds like Future,” he added, referring to the popular rapper-singer-producer Future. “Like, I don’t know even know who’s who outside of Future. It’s the same thing. You watch the hip-hop awards, and I watch it religiously because I’m hip-hop …and it’s like, ‘Oh! I thought that was …wait a minute.’ Because everybody sounds so much alike. I think we honored our craft a little bit more compared to now.”
+He added that “there’s a few who still honor their craft, the Kendricks, the J. Coles, that whole Pro-Era crew … but there’s not enough.”
+In 2000, Taylor released his solo album, “Ventilation: Da LP.” His manager, Dion Liverpool, called Taylor his “best friend and brother.”
+“I also will celebrate his incredible life and contribution to many people’s ears across the world. Even with all his success, I have never met a person as humble as he,” Liverpool said. “He taught me that maintaining a positive attitude and outlook can conquer anything. Now my brother is resting in greatness. I’m honored to have crossed paths with him. Riddim Kidz 4eva.”
+		Categories: Entertainment | Exclusive (Entertainment) Tags: A Tribe Called Quest | Associated Press | ATCQ | Hip-Hop | Phife Dawg | Rap | Rapper		
+						Katt Williams facing charges for fight with Georgia teen
+						A Discussion with Justin! The “Rush Hour” Interview with Kam Williams
+						Hit musical ‘Recorded in Hollywood’ returns for commercial run at Kirk ...
+						Smithsonian to include 2 Cosby items in new history museum
+						Reel Talk 3.31.16
+						It’s a Rap 3.31.16
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

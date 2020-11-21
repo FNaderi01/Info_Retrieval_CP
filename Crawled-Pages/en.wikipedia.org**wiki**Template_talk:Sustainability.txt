@@ -1,0 +1,140 @@
+	Template talk:Sustainability
+		From Wikipedia, the free encyclopedia
+		Jump to navigation
+		Jump to search
+This is the talk page for discussing improvements to the Sustainability template.
+Put new text under old text. Click here to start a new topic.
+Please sign and date your posts by typing four tildes ( ~~~~ ).
+New to Wikipedia? Welcome! Ask questions, get answers.
+Be polite and welcoming to new users
+Assume good faith
+Avoid personal attacks
+For disputes, seek dispute resolution
+WikiProject Environment / Sustainability 
+(Rated Template-class)
+.mw-parser-output .portal{border:solid #aaa 1px;padding:0}.mw-parser-output .portal.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portal.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portal>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portal>ul>li{display:table-row}.mw-parser-output .portal>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portal>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}
+Environment portalvteThis environment-related template is part of the WikiProject Environment to improve Wikipedia's coverage of the environment. The aim is to write neutral and well-referenced articles on environment-related topics, as well as to ensure that environment articles are properly categorized. Read Wikipedia:Contributing FAQ and leave any messages at the project talk page.EnvironmentWikipedia:WikiProject EnvironmentTemplate:WikiProject EnvironmentEnvironment articles
+ Template 
+This template does not require a rating on the project's quality scale.
+This template is supported by the Sustainability task force.
+This template was nominated for deletion. Please review the prior discussions if you are considering re-nomination:
+Keep, 5 October 2010, see discussion.Keep, 7 October 2008, see discussion.
+Contents
+1 Large, complex template
+2 How to collapse template?
+3 Collapsible groups
+4 Scope of the template
+5 Division between "management" and "activities" seems arbitrary
+6 Suggest remove specific renewable energy sources
+7 Adding sustainable governance
+8 Planetary boundaries
+9 Add Planetary boundaries to "Sustainability disciplines and activities"'s "Management" subsection.
+10 Collapsible sections?
+11 Editing for length, redundancy
+12 Add economic sustainability to template?
+13 Environmentalism
+14 Add topics around sustainable development
+Large, complex template[edit]
+This is now a very large and complex template.  I would have thought something smaller and more focused would have been better. Johnfos (talk) 08:30, 24 August 2008 (UTC)
+Yes; alternatively, I could try dividing it into sections using {{Navbox with collapsible sections}}, meaning only one section need be visible when you first see the template on a page. Sardanaphalus (talk) 10:50, 24 August 2008 (UTC)
+I can understand the desire for compact navigation templates, but speaking for myself only, I don't see a problem with a large template when the underlying subject matter is complex. For comparison, see {{Global warming}} (I also don't like having to click ten times to see the whole template - there should be an "expand all" option). In my opinion, these are complex topics and we shouldn't try to dumb them down. If someone wants to understand a topic as general as "sustainability," they have a lot of reading ahead of them in the disparate fields of economics, politics, ecology, energy, and environmental protection. One way to make smaller templates would be to split off subtopics of sustainability. By analogy, in renewable energy, there are separate templates for each of the technologies, such as {{Wind power}}, {{Solar energy}}, {{Geothermal power}}, etc. There is no one catch-all template for the whole topic of energy, and energy is but one subtopic of sustainability, so it's impressive the {{Sustainability}} template manages to fit on one screen. One way to tighten the template slightly would be to rearrange the groups to reduce the white space. For example, the Technology group has only one entry, which wastes a whole line, and doesn't make much sense given that so many entries in other groups are about technology. Rearranging the entries to get each group to fill its line more efficiently would shrink the height of the box a little (without making the template any simpler). --Teratornis (talk) 05:42, 27 August 2008 (UTC)
+I guess the key distinction is between "dumbing down" (not good) and, for want of a better description, "manageability" (probably good). The template as it currently stands is fine for me too, although I also understand if people think it's "too much all at once". I think I'd keep the Technology group intact as surely there are or will be more entries to add to it..? Thanks for your feedback. Sardanaphalus (talk) 12:43, 27 August 2008 (UTC)
+I really dislike this template, and many similar ones proliferating now on Wikipedia. It adds little and clutters up articles. V.B. (talk) 01:51, 28 August 2008 (UTC)
+Whenever you see it, does it always start out collapsed? Sardanaphalus (talk) 03:22, 28 August 2008 (UTC)
+It is large, but still seems manageable.  Removing some of the duplicate entries and grouping related/like concepts helps some on the complexity.  Zodon (talk) 23:07, 23 September 2008 (UTC)
+How to collapse template?[edit]
+How come this template is collapsed in some articles and uncollapsed in others without any parameter controlling the state of the template? I want to make it collapsed in sustainable food system. --Phenylalanine (talk) 11:43, 24 August 2008 (UTC)
+{{Collapsible option}} indicates why, although tersely (once you know, you know). I've added it and the {{{state}}} parameter to the template here, so {{Sustainability |state=collapsed}} should do the trick for you. Sardanaphalus (talk) 19:32, 24 August 2008 (UTC)PS Any thoughts on the thread above?
+Thanks a lot! The template looks ok to me. --Phenylalanine (talk) 21:09, 24 August 2008 (UTC)
+Collapsible groups[edit]
+I combined several of the like-seeming groups to make collapsible sections for the template.  
+Bit of rationale/explanation on the groupings
+Subdisciplines, activities &amp; professions, and related disciplines - seem similar (fields of study or professions).
+Resource use - food &amp; water, energy, materials, biodiversity (which is, among other things, a resource - also seems to cover health of whole linked set of resources.)
+Consumption could also go in this group, but I didn't put it there because of the following
+I PAT - I didn't make a collapsible group for this (seems like should start with something more than a list of groups), but the sections Population, Consumption and Technology would fit reasonably nicely in Erlich et. al's I = Population * Affluence (consumption) * Technology (extraction tech) formula.  (The technology section here may not correspond exactly to that model though.)
+Perhaps the I PAT group should also be collapsible, if there is a way to specify a default group to start out uncollapsed but let the template user select something else.  Then template users could select whatever section is appropriate to have uncollapsed.
+There are a few technical problems to be worked out.  The spacing didn't come out quite as expected for the section heads for the collapsed sections.  
+Thought this might help address the issues with the large size of the template.  Zodon (talk) 07:15, 9 October 2008 (UTC)
+That looks much better! Thank you for the time you have put in... Johnfos (talk) 10:06, 9 October 2008 (UTC)
+Scope of the template[edit]
+The template, in its current incarnation, seems to have been subject to expansion creep, and has become rather untidy with an over wide scope. It seems to me that within Category:Environment both sustainability and conservation are the major subtopics. There is a template covering the environment in general, called {{environmental science}}. But there is no template covering conservation.  I wonder whether it is worth considering the scope of the sustainability template in this context, perhaps developing the related conservation template also in the process? --Epipelagic (talk) 23:11, 6 October 2010 (UTC)
+Well, that unleashed a torrent of interest! Anyway, in the interests of a cleaner format, are there objections to this alternative? --Epipelagic (talk) 06:42, 11 October 2010 (UTC)
+Seems an improvement.  The footer needs to be removed from the collapsed section, so that it's visible even with the subsection collapsed.  — Arthur Rubin  (talk) 08:03, 12 October 2010 (UTC)
+Proposal is not as good as what have currently.
+The nice thing about the current template as it stands is it gives a concise overview of a lot of ground.
+What will one do with the rest of the template?  If planning to spin them off as other templates - need to look at what those templates look like, are they well defined, do they have enough material, do they make sense.  Would they require a lot of duplication of material from other portions of the template?
+Why single out the subsections that you kept?  (i.e. Resource use and conservation)
+Make graphic much smaller or just remove it - navigation templates are not supposed to be needlessly decorative.
+Have to go - more later.  Zodon (talk) 09:22, 12 October 2010 (UTC)
+Why is the proposal "not as good as what have currently"? It seems significantly better to me. The current template is a messy clutter, which does not give a "concise overview of a lot of ground", but rather bristles with busyness and confusion. As though it were a template designed by a committee which has reformed into a number of subcommittees, so responsibility for the overall design is lost. I guess graphics are a matter of perception. I think the graphics are in proportion and make a significant visual improvement. But some people are not visually oriented. It's not really a matter of right or wrong, but more a matter of what most people prefer. --Epipelagic (talk) 10:18, 12 October 2010 (UTC)
+Okay, there's no general interest in improving the template, so the status quo stands. --Epipelagic (talk) 21:36, 15 October 2010 (UTC)
+Division between "management" and "activities" seems arbitrary[edit]
+It seems that splitting the section on "Sustainable activities and professions" into "sustainable activities" and "management" introduces an arbitrary distinction based simply on the name of the article/discipline.  Is there really a systematic difference between sustainable tourism, or sustainable landscape architecture and sustainable forest management?   If you used another name for the later article (e.g. Sustainable forestry), would it still be classified in the "managment" section.
+I think the two groups should be merged back into one, or the reason for separating needs to be clear based on the concepts involved. Zodon (talk) 08:45, 12 October 2010 (UTC)
+Suggest remove specific renewable energy sources[edit]
+I think we should simplify the template by removing the specific renewable energy sources (Biofuels, Wind, Solar) and just have the general renewable energy article (with possibly the commercialization sub-article).
+There are already templates that link the renewable energy sources articles.
+The listing here is not complete (misses hydroelectric, plus several less prevalent sources - geothermal, tidal, ...) Zodon (talk) 08:52, 12 October 2010 (UTC)
+Adding sustainable governance[edit]
+There has been some edit activity relating to adding an article on sustainable governance to the template.  I think it is reasonable to add an article about sustainable governance.  The article that has been proposed is Environmental governance, which is the most appropriate article on the topic that I am aware of.  Are there others articles that are more apropos?
+I think the article should go in the section on Sustainability disciplines and activities, under either Sustainable activities, Management, or Environmental.
+Governing (i.e. managing people or countries) is a major area of human activity.  Governmental policies, etc. can have tremendous impact on environment and sustainability.  Governments are also tremendous users of resources.  Therefore it seems reasonable to have an article about sustainable governance on the template.  Zodon (talk) 07:09, 16 October 2010 (UTC)
+I still think the template needs to be trimmed considerably, probably more than 50%.  — Arthur Rubin  (talk) 08:23, 16 October 2010 (UTC)
+I don't agree.  However that would be topic for a separate discussion.  The question at the moment is, given the current contents and structure of the template, is Environmental governance appropriate.  If there is some reason you think it doesn't fit on the template than the other items in the aforementioned area, please explain.  (i.e., how is it different than the other sustainable activities mentioned).  Zodon (talk) 08:30, 18 October 2010 (UTC)
+User:Zodon, please see Special:Contributions/Arthur Rubin for a behavioral trend (over years), if you haven't already.  Also see View History comments.  99.181.137.81 (talk) 06:39, 19 May 2011 (UTC)
+Planetary boundaries[edit]
+I've removed Planetary boundaries from the template.  I'll restore it if I see a credible reason why it should be included, but I ask that you wait until about 24 hours from now to restore it, as I don't have a good way to check for a certain environmental anon's tendency to add links to that article from everywhere.  Last year it was 350.org (among others), this year it's planetary boundaries.   — Arthur Rubin  (talk) 03:44, 19 May 2011 (UTC)
+If someone will point me to a tool which will see which articles link to "planetary boundaries", but not through this template, I'll restore it immediately if I see a credible reason.  — Arthur Rubin  (talk) 03:46, 19 May 2011 (UTC)
+I still don't see a credible reason, but I don't see a credible reason for over half of the entries, so, I'll let the anon's blind revert go, this time.  I found that one of the 6 articles with a direct pointer to this one shouldn't have one, and, although I have doubts about 3 of the "See also" references, I'll let it go until we decide whether the target article should exist at all.  — Arthur Rubin  (talk) 07:35, 19 May 2011 (UTC)
+Now, I've removed it, with the intention of it staying removed.  It's not a notable "species" of sustainability.  — Arthur Rubin  (talk) 14:36, 19 June 2011 (UTC)
+The only credible reason for inclusion is to promote the concept, which is not an allowed reason in Wikipedia.  — Arthur Rubin  (talk) 14:39, 19 June 2011 (UTC)
+Add Planetary boundaries to "Sustainability disciplines and activities"'s "Management" subsection.[edit]
+Add Planetary boundaries to "Sustainability disciplines and activities"'s "Management" subsection.  99.190.81.244 (talk) 06:44, 21 June 2011 (UTC)
+Please provide a reason.  It's not a "discipline" or "activity", and it's not notable.  — Arthur Rubin  (talk) 07:56, 21 June 2011 (UTC)
+See section above, and reply there.  — Arthur Rubin  (talk) 07:59, 21 June 2011 (UTC)
+Collapsible sections?[edit]
+Continuing the discussions above, this template seems large and wieldy in its present form.  Collapsible sections would help, I think, if someone can do that. It sounds like that has been done before, but reverted? Anyone still around who can summarize earlier discussions/ interventions to improve this template? Thanks, DA Sonnenfeld (talk) 09:48, 4 October 2012 (UTC)
+Editing for length, redundancy[edit]
+I would suggest removing the group, "Environmental disciplines", from this template. That area is covered more comprehensively by two other, related navigation boxes, Template:Environmental science and Template:Environmental social science. Regards, DA Sonnenfeld (talk) 09:53, 4 October 2012 (UTC)
+Likewise, the group, "Technology", is covered better by the related navigation box, Template:Environmental technology. I would suggest removing the former, as well. DA Sonnenfeld (talk) 09:56, 4 October 2012 (UTC)
+I have done some modest pruning, as per above. One other group that seems superfluous to me is the last one, Glossaries and indices. I would suggest removing that group, as well. Thanks, DA Sonnenfeld (talk) 10:39, 4 October 2012 (UTC)
+Removed that one, too... DA Sonnenfeld (talk) 10:44, 4 October 2012 (UTC)
+Add economic sustainability to template?[edit]
+Use the sustainable economics be added to template, as per Sustainability#Economic dimensionJonpatterns (talk) 12:20, 29 January 2014 (UTC)
+Environmentalism[edit]
+For your information, I just created Template:Environmentalism. Do no hesitate to improve it!Tamita Secilliterelle (talk) 19:30, 19 October 2016 (UTC).
+Add topics around sustainable development[edit]
+I am thinking of adding the individual 17 Sustainable Development Goals also to this navbox where/if they fit. So e.g. SDG 1. What do you think? Is it OK to perhaps add an extra category on "sustainable development"?EMsmile (talk) 15:11, 26 September 2020 (UTC)
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Template_talk:Sustainability&amp;oldid=980441932"
+		Categories: Template-Class Environment articlesNA-importance Environment articlesSustainability task force articles
+	Navigation menu
+		Personal tools
+		Not logged inTalkContributionsCreate accountLog in
+		Namespaces
+		TemplateTalk
+		Variants
+		Views
+		ReadEditNew sectionView history
+		More
+		Search
+		Navigation
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		Contribute
+		HelpLearn to editCommunity portalRecent changesUpload file
+		Tools
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+		Print/export
+		Download as PDFPrintable version
+		Languages
+		 This page was last edited on 26 September 2020, at 15:11 (UTC).
+		Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+		Privacy policy
+		About Wikipedia
+		Disclaimers
+		Contact Wikipedia
+		Mobile view
+		Developers
+		Statistics
+		Cookie statement

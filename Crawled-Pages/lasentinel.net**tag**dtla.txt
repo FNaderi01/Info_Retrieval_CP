@@ -1,0 +1,235 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+DTLA
+							Los Angeles City Mayor Pleads for George Floyd Protests to ‘Take a Step Back’ due to Violent Acts in L.A. over 300 arrested
+					May 30, 2020Saturday, May 30, thousands came together in protest, closing the L.A. streets from Fairfax all the way through 3rd street, as the aftermath from the current murder of George Floyd by police hand in Minneapolis. Garcetti reiterated what he said yesterday, acknowledging the injustice of police brutality within the Black Community and pleaded with all residents to keep a level head while fighting for peace.  ... read more  »
+							Dignity Health – California Hospital Medical Center Welcomes New President
+					February 21, 2020Alina Moran has been named president of Dignity Health – California Hospital Medical Center (CHMC) and will lead the overall direction, strategy, and operation of the hospital. ... read more  »
+							The Robey Theatre Company Awakens the Past, Present, and Future
+					March 28, 2019In terms of film and television, we are living in a time where the brilliance and creativity of Black people seems to be flourishing in this country. With blockbuster films and high television ratings, African-American creatives are making significant impact in Hollywood.  However, an often-forgotten black tradition is in theatre arts.  Historically, the black theatre community has always, consistently impacted the community; and, very often sparking movements leading to social action and change. ... read more  »
+        ADVERTISEMENT        
+							Portrait of LA Novelist Walter Mosley in DTLA
+					December 7, 2018 ... read more  »
+							Everytable Opens Its Sixth Store in Compton
+					October 4, 2018The Compton store, the largest Everytable store to date, gave away 500 meals last Wednesday. ... read more  »
+							Amazon’s Treasure Truck Teams Up with NBA on TNT to Tip-Off the 2018-19 NBA Season
+					October 2, 2018The event will feature a one-of-a-kind 8x8 mural drawing sketched out by Celeste Byers artist who will then encourage fans to pick up a paint brush and finish the art installation, which is going to be created as a paint-by-number installation. ... read more  »
+							Everytable Hosts a Community Block Party to Celebrate the 2nd Anniversary of Their South Los Angeles Location
+					August 7, 2018Everytable invites their neighbors, families and community partners to attend this fun-filled event on August 11.
+ ... read more  »
+							Stars Over Los Angeles II
+					May 21, 2018 ... read more  »
+							Metro Implements Service Enhancements Effective Sunday, Dec. 10
+					December 4, 2017In addition, the Metro Gold Line from East Los Angeles to Azusa will begin operating more three-car trains in the morning and afternoon peak hours to increase capacity and ease overcrowding ... read more  »
+							UberAir Proposes Flying Cars in Los Angeles by 2020
+					November 10, 2017Uber also announced it has signed an agreement with Sandstone Properties to develop skyport infrastructure to serve as takeoff and landing hubs for uberAIR flights at Sandstone's 20 locations in the greater L.A. area. ... read more  »
+							Performance Applications open for 57th Los Angeles County Holiday Celebration
+					April 21, 2016The Los Angeles County Arts Commission seeks LA County youth and adult community and professional choirs, music ensembles, folk and traditional artists and dance companies to perform in the 57th Annual Los Angeles County Holiday Celebration on December 24. Interested artists are required to submit an electronic application, which is accessible via the Arts Commission website at holidaycelebration.org. Both the application and guidelines for applying are available online. The deadline to apply is Wednesday, August 3, 2016 at 5:00 p.m. ... read more  »
+							Street Upgrades Coming to Downtown L.A.
+					March 30, 2016Last Thursday it was announced that protected bike lanes, pedestrian-friendly upgrades and other changes could be coming to a two-mile stretch of Main and Spring streets in downtown Los Angeles. ... read more  »
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->

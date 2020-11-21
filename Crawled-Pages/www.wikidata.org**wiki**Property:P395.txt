@@ -1,0 +1,99 @@
+licence plate code
+(P395)
+		From Wikidata
+		Jump to navigation
+		Jump to search
+distinguishing signs or parts of license plate associated with the subject. For countries: international licence plate country code or distinguishing sign of vehicleslicense plate code
+edit
+Language
+Label
+Description
+Also known as
+English
+licence plate code
+distinguishing signs or parts of license plate associated with the subject. For countries: international licence plate country code or distinguishing sign of vehicles
+license plate code
+Data type
+String
+Statements
+instance of
+Wikidata property for a multi-source identifier
+0 references
+subject item of this property
+vehicle registration plate
+0 references
+Wikidata property example
+Qatar
+licence plate code
+Q
+0 references
+Syracuse
+licence plate code
+SR
+0 references
+format as a regular expression
+([A-Z0-9\p{L}]+(,\w)?)+
+country
+United States of America
+0 references
+property usage tracking category
+Category:Pages using Wikidata property P395
+0 references
+category for value same as Wikidata
+Q32074681
+0 references
+category for value not in Wikidata
+Category:Licence plate code not in Wikidata, but available on Wikipedia
+0 references
+category for value different from Wikidata
+Q24194726
+0 references
+property proposal discussion
+https://www.wikidata.org/wiki/Wikidata:Property_proposal/Archive/5#P395
+0 references
+Constraints
+property constraint
+format constraint
+format as a regular expression
+([A-Z0-9\p{L}]+(,\w)?)+
+0 references
+item requires statement constraint
+property
+country
+0 references
+type constraint
+class
+territorial entity
+organization
+relation
+instance of
+0 references
+Retrieved from "https://www.wikidata.org/w/index.php?title=Property:P395&amp;oldid=1259852214"
+	Navigation menu
+		Personal tools
+		EnglishNot logged inTalkContributionsCreate accountLog in
+		Namespaces
+		PropertyDiscussion
+		Variants
+		Views
+		ReadView history
+		More
+		Search
+		Navigation
+		Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+		Lexicographical data
+		Create a new LexemeRecent changes
+		Tools
+		What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URI
+		Print/export
+		Download as PDFPrintable version
+		 This page was last edited on 18 August 2020, at 18:19.
+		All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy.
+		Privacy policy
+		About Wikidata
+		Disclaimers
+		Mobile view
+		Data access
+		Developers
+		Statistics
+		Cookie statement

@@ -1,0 +1,1133 @@
+      div#navSwmHoliday.nav-focus {border: none;margin: 0;}
+Skip to main content
+      .us
+      Books
+    Select the department you want to search in
+        All Departments
+        Audible Books &amp; Originals
+        Alexa Skills
+        Amazon Devices
+        Amazon Warehouse
+        Appliances
+        Apps &amp; Games
+        Arts, Crafts &amp; Sewing
+        Automotive Parts &amp; Accessories
+        Baby
+        Beauty &amp; Personal Care
+        Books
+        CDs &amp; Vinyl
+        Cell Phones &amp; Accessories
+        Clothing, Shoes &amp; Jewelry
+           Women
+           Men
+           Girls
+           Boys
+           Baby
+Under $10
+        Amazon Explore
+        Amazon Pantry
+        Collectibles &amp; Fine Art
+        Computers
+        Courses
+        Credit and Payment Cards
+        Digital Educational Resources
+        Digital Music
+        Electronics
+        Garden &amp; Outdoor
+        Gift Cards
+        Grocery &amp; Gourmet Food
+        Handmade
+        Health, Household &amp; Baby Care
+        Home &amp; Business Services
+        Home &amp; Kitchen
+        Industrial &amp; Scientific
+        Just for Prime
+        Kindle Store
+        Luggage &amp; Travel Gear
+        Magazine Subscriptions
+        Movies &amp; TV
+        Musical Instruments
+        Office Products
+        Pet Supplies
+        Premium Beauty
+        Prime Video
+        Smart Home
+        Software
+        Sports &amp; Outdoors
+        Subscription Boxes
+        Tools &amp; Home Improvement
+        Toys &amp; Games
+        Vehicles
+        Video Games
+  Hello, Sign in
+  Account &amp; Lists
+    Account
+  Returns
+  &amp; Orders
+  Try Prime
+        Cart
+                   Hello
+                   Select your address
+Best Sellers
+Customer Service
+Today's Deals
+New Releases
+AmazonBasics
+Whole Foods
+Gift Cards
+Free Shipping
+Registry
+Sell
+Coupons
+#FoundItOnAmazon
+Shopper Toolkit
+Find a Gift
+Disability Customer Support
+  Prime Day is October 13-14
+      Books
+      Advanced Search
+      New Releases
+      Best Sellers &amp; More
+      Children's Books
+      Textbooks
+      Textbook Rentals
+      Best Books of the Month
+                Books
+             ›
+                Children's Books
+             ›
+                 Literature &amp; Fiction
+Share
+&lt;Embed&gt;
+#upsell-container.buybox {
+border-radius: 4px;
+box-shadow: 0 0 0 4px rgba(0,0,0,.1);
+}
+#upsell-container .imgPadding {
+padding-top: 10px;
+padding-bottom: 10px;
+}
+#upsell-container .borrowbutton {
+display: block;
+width: 100%;
+}
+Buy used: 
+$5.98
+&amp; FREE Shipping
+Used: Good
+ | Details
+Sold by
+Jenson Books Inc.
+Condition:
+Used: Good
+Comment: Ex-library book. The item shows wear from consistent use, but it remains in good condition and works perfectly. All pages and cover are intact (including the dust cover, if applicable). Spine may show signs of wear. Pages may include limited notes and highlighting.
+Add to Cart
+.registry-button-width {
+width:100%;
+margin-left: ;
+margin-right: ;
+}
+.add-to-baby-button-spacing-bottom {
+margin-bottom: 0;
+}
+.olp-touch-link {
+position: relative;
+text-decoration: inherit !important;
+color: inherit !important;
+}
+.olp-link-widget .arrow-icon {
+position: absolute;
+top: 36%;
+right: 10px;
+}
+.olp-text-box > .a-color-base {
+color: #B12704 !important
+}
+.olp-text {
+float: left;
+}
+.olp-link-widget {
+padding: 10px 0px;
+}
+.olp-link-widget .a-icon-touch-link {
+display: block;
+}
+.olp-text-box {
+text-decoration: none;
+padding-right: 10px;
+}
+html[dir=rtl] .olp-link-widget .a-icon-touch-link {
+display: block;
+}
+html[dir=rtl] .olp-link-widget .arrow-icon {
+left: 2%;
+right: unset;
+}
+html[dir=rtl] .olp-text {
+float: right !important;
+}
+html[dir=rtl] .olp-text-box {
+padding-left: 10px;
+padding-right: 0px;
+}
+Have one to sell?
+Sell on Amazon
+.suggestion-widget-box-border {
+border: 4px #ddd solid !important;
+}
+.suggestion-widget-popup-create-club-section {
+padding-right: 5px;
+}
+.create-club-msg-vertical-align {
+vertical-align: sub;
+}
+.abc-heading-blue-text {
+color: #21C3EE;
+}
+.abc-heading-black-text {
+color: black;
+}
+#suggestion-widget-footer-section {
+padding: 0;
+}
+.learn-more-popup-col-margin {
+margin-right: 5% !important;
+}
+.abc-features-grid {
+margin-left: 10%
+}
+.margin-left-18 {
+margin-left: 18px;
+}
+.margin-right-18 {
+margin-right: 18px !important;
+}
+.margin-right-12 {
+margin-right: 12px !important;
+}
+.learn-more-logo-image-width {
+width: 40%;
+}
+.learn-more-pop-up-padding-18 {
+padding-left: 18px;
+padding-right: 18px;
+}
+Add to book club
+Loading your book clubs
+There was a problem loading your book clubs. Please try again.
+Not in a club?
+Learn more
+Join or create book clubs
+Choose books together
+Track your books
+Bring your club to Amazon Book Clubs, start a new book club and invite your friends to join, or find a club that’s right for you for free.
+Explore Amazon Book Clubs
+Flip to back
+Flip to front
+Listen
+Playing...
+Paused
+You're listening to a sample of the Audible audio edition.
+Learn more
+See this image
+Follow the Author
+Joan Aiken
++ Follow
+Similar authors to follow
+ +
+ +
+ +
+See more recommendations
+Something went wrong. Please try your request again later.
+OK
+Dido and Pa
+Hardcover – October 28, 2002
+by
+Joan Aiken
+(Author)
+› Visit Amazon's Joan Aiken Page
+Find all the books, read about the author, and more.
+See search results for this author
+Are you an author?
+Learn about Author Central
+Joan Aiken
+(Author)
+/*
+* Fix for UDP-1061. Average customer reviews has a small extra line on hover
+* https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40
+*/
+.noUnderline a:hover {
+text-decoration: none;
+}
+4.7 out of 5 stars
+16 ratings
+Book 7 of 11: The Wolves Chronicles
+.delight-pricing-badge {
+background-color: #B12704 !important;
+margin: auto;
+font-family: "Amazon Ember", Arial, sans-serif;
+padding-left: 10px;
+padding-right: 10px;
+font-size: 12px !important;
+line-height: 24px !important;
+max-width: 140px;
+}
+.delight-pricing-badge-label {
+position: relative;
+z-index: 1;
+float: left;
+}
+.delight-pricing-badge-label-text {
+color: #ffffff !important;
+}
+.delight-pricing-container span {
+display: inline-block;
+vertical-align: middle;
+}
+.delight-pricing-container {
+padding-bottom: 5px;
+}
+.delight-pricing-badge-description-text {
+padding-left: 10px;
+margin: auto;
+font-family: "Amazon Ember", Arial, sans-serif;
+color: #111;
+}
+#adoptedDataContainer .campusLogo {
+height:20px;
+width:20px;
+margin-right:1px;
+}
+#adoptedDataContainer .campusName {
+line-height:20px;
+}
+#adoptedDataContainer.paddingMicro {
+padding:4px !important;
+}
+#adoptedDataContainer .paddingLeftMicro {
+padding-left:4px !important;
+}
+#adoptedDataContainer .paddingLeftSmall {
+padding-left:10px !important;
+}
+#adoptedDataContainer .paddingRightSmall {
+padding-right:10px !important;
+}
+#adoptedDataContainer .courseListExpanderContainer a:focus {
+outline:none;
+}
+#adoptedDataContainer .courseColumn {
+width:50%;
+float:left;
+}
+#adoptedDataContainer .textRow {
+display:inline-block;
+width:100%;
+}
+See all  formats and editions
+Hide other formats and editions
+Price
+New from
+Used from
+Kindle
+"Please retry"
+$3.99 
+—
+—
+Hardcover
+"Please retry"
+$5.98 
+$17.00
+$4.00
+Paperback
+"Please retry"
+$14.16 
+$13.97
+$2.69
+Kindle 
+$3.99
+Read with Our
+Free App
+Hardcover 
+$5.98
+16 Used from $4.00
+1 New from $17.00
+2 Collectible from $20.00
+Paperback 
+$14.16
+20 Used from $2.69
+8 New from $13.97
+Dido Twite and her friend Simon, Duke of Battersea, become caught in the middle of a conspiracy against good King Richard--with Dido's father as ringleader--involving a mysterious double for the king and a spy network of street children. Reissue. Simultaneous.
+Read more
+Read less
+The Amazon Book Review
+Book recommendations, author interviews, editors' picks, and more.
+Read it now
+     click to open popover 
+        Enter your mobile number or email address below and we'll send you a link to download the free Kindle App. Then you can start reading Kindle books on your smartphone, tablet, or computer - no Kindle device required. 
+                Apple
+                Android
+                Windows Phone
+                Android
+        To get the free app, enter your mobile phone number.
+              or
+              Download to your computer
+                  Mac 
+                  Windows 8, 8 RT, 10 and Modern UI 
+                  Windows 8 desktop, Windows 7, XP &amp; Vista  
+              Kindle Cloud Reader
+                  Read instantly in your browser 
+.kcpAppBaseBox_{
+    text-align:center;
+    padding:10px 0;
+#When is UDP launched MP, we want the default AUI style not the override
+    height: 0em; padding:0 !important;
+}
+.kcpAppBaseBox_ .kcpAppDesc{
+    text-align: center;
+    padding: 0;
+}
+.kcpAppBaseBox_ .left{
+    float:left;
+    height: 4.5em;
+    width: 2em;
+    margin: auto;
+}
+.kcpAppBaseBox_ .kcpAppBaseHeader{
+    color: #c60;
+    font-weight: bold;
+    display: block;
+    text-align: left;
+}
+.kcpAppBaseBox_{
+    text-align:center;
+    padding:10px 0;
+#When is UDP launched MP, we want the default AUI style not the override
+}
+.kcpAppBaseBox_ img, #kcpAppDirectURL img{
+    border: none;
+}
+.kcpAppsPopOverDialog_ .kcpApp-device {
+    display: block;
+    width: auto;
+    height: auto;
+    text-indent: -9000px; 
+}
+.kcpAppsPopOverDialog_ .kcpAppDeviceListItem{
+    display: inline-block;
+    width: auto;
+    height: auto;
+}
+.kcpAppsPopOverDialog_ .kcpAppDeviceList .invisible{
+  display: none;
+}
+.kcpAppsPopOverDialog_{
+  font-size: 0.85em;
+  text-align: left;
+}
+.kcpAppsPopOverDialog_ ul{
+  list-style-type: none;
+  padding-left: 1.5em;
+}
+.kcpAppsPopOverDialog_ .kcpAppDeviceUL{
+  display: block;
+  margin: 0 0 0 1.5em;
+  box-sizing: border-box;
+}
+.kcpAppsPopOverDialog_ .kcpAppDeviceList{
+  width: 150px;
+  display: inline;
+  margin: 0;
+  margin-right: 20px !important;
+  word-wrap: break-word;
+  box-sizing: border-box;
+}
+.kcpAppsPopOverDialog_ .kcpAppWidgetDetailDesc{
+  border-bottom: .15em groove threedface;
+  padding-bottom: .8em;
+}
+.kcpAppsPopOverDialog_ .kcpAppWidgetHeader{
+  color: #c60;
+  font-weight: bold;
+}
+.kcpAppsPopOverDialog_ .kcpAppWidgetInlineDiv{
+  display: inline-table;
+}
+.kcpAppsPopOverDialog_ .selectedElement{
+   width: 0; 
+   height: 0px; 
+   border-bottom: 20px solid #ccc; 
+   border-left: 20px solid transparent; 
+   border-right: 20px solid transparent;
+   display: block;
+}
+.kcpAppBaseBox_ .kcpAppsPopOver{
+  cursor: hand;
+  cursor: pointer;
+}
+.kcpAppsPopOverDialog_ #kcpAppTinyImage{
+  width: 8.5em;
+  height: 3em;
+  padding-right: .5em;
+}
+#kcpAppDeliveryInProgress{
+  color: #c60;
+}
+#kcpAppDeliveryError {
+    display: block;
+    color: red;
+    font-weight: bold;
+}
+#kcpAppDeliverySuccess{
+    display: block;
+    color: green;
+    font-weight: bold;
+}
+#kcpAppDownloadMessage{
+  font-weight: bold;
+  padding-bottom: 5px;
+  text-align: left;
+}
+.kcpAppsPopOverDialog_ #kcpApp-form, .kcpAppBaseBox_ #kcpApp-form{
+  background-color: transparent;
+  padding: 10px 0 10px 5px;
+  margin-bottom: 1em;
+}
+.kcpAppsPopOverDialog_ #kcpApp-form img{
+  vertical-align: middle;
+  cursor: hand;
+  cursor: pointer;
+}
+#kcpAppRecipient{
+  width: 20em;
+  vertical-align: middle;
+  border-radius: 5px;
+  padding-left: 0.3em;
+  margin: 0 .5em 0 .5em;
+}
+.kcpAppsPopOverDialog_ .kcpAppWidgetFooterLinks td{
+  vertical-align: top;
+}
+.kcpAppsPopOverDialog_ .kcpAppWidgetFooterLinks table{
+  width: 90%;
+}
+.kcpAppsPopOverDialog_ .placeholder
+{
+  color: #aaa;
+}
+            Customers who viewed this item also viewedPage 1 of 1  Start overPage 1 of 1  
+            This shopping feature will continue to load items when the Enter key is pressed. In order to navigate out of this carousel please use your heading shortcut key to navigate to the next or previous heading.
+            Back
+            Black Hearts in Battersea
+            Joan Aiken
+                4.4 out of 5 stars
+            69
+    Paperback$8.99   
+            The Wolves of Willoughby Chase (Wolves Chronicles Series)
+            Joan Aiken
+                4.7 out of 5 stars
+            338
+    Paperback$6.99   
+            The Stolen Lake
+            Joan Aiken
+                4.4 out of 5 stars
+            24
+    Paperback$15.34   
+            Nightbirds on Nantucket (Wolves Chronicles)
+            Joan Aiken
+                4.5 out of 5 stars
+            24
+    Paperback14 offers from $6.00
+            Dangerous Games (The Wolves Chronicles (5))
+            Joan Aiken
+                3.8 out of 5 stars
+            6
+    Paperback$17.99   Only 5 left in stock (more on the way).
+            The Serial Garden
+            Joan Aiken
+                4.9 out of 5 stars
+            41
+    Paperback$12.99   Only 3 left in stock (more on the way).
+            Next
+            Customers who bought this item also boughtPage 1 of 1  Start overPage 1 of 1  
+            This shopping feature will continue to load items when the Enter key is pressed. In order to navigate out of this carousel please use your heading shortcut key to navigate to the next or previous heading.
+            Back
+            Midwinter Nightingale (Wolves Chronicles)
+            Joan Aiken
+                3.7 out of 5 stars
+            8
+    Hardcover31 offers from $1.75
+            The Witch of Clatteringshaws (Wolves Chronicles)
+            Joan Aiken
+                3.8 out of 5 stars
+            13
+    Hardcover21 offers from $3.50
+            The Cuckoo Tree.
+            Joan Aiken
+                5.0 out of 5 stars
+            16
+    Hardcover23 offers from $0.95
+            Cold Shoulder Road
+            Joan Aiken
+                4.3 out of 5 stars
+            5
+    Hardcover18 offers from $2.18
+            Is Underground by Joan Aiken (1993-05-05)
+                4.3 out of 5 stars
+            6
+    Hardcover$809.67   Only 1 left in stock - order soon.
+            Next
+    Special offers and product promotions
+        Amazon Business :  For business-only pricing, quantity discounts and FREE Shipping. Register a free business account
+Editorial Reviews
+About the Author
+Joan Aiken, daughter of the American writer Conrad Aiken, was born in Rye, Sussex, England, and has written more than sixty books for children, including The Wolves of Willoughby Chase.
+.detail-bullets-wrapper ul.detail-bullet-list {
+margin: 0 0 1px 18px;
+}
+.detail-bullets-wrapper ul li {
+margin-bottom: 5.5px;
+}
+.detail-bullets-wrapper:last-child {
+margin-bottom: 4.5px;
+}
+Product details
+Grade Level
+:
+4 - 6
+Hardcover
+:
+297 pages
+Item Weight
+:
+1.1 pounds
+ISBN-13
+:
+978-0618196241
+Product Dimensions
+:
+5.75 x 1 x 8.5 inches
+ISBN-10
+:
+0618196242
+Publisher
+:
+Houghton Mifflin Harcourt (October 28, 2002)
+Reading level
+:
+9 - 12 years
+Language:
+:
+English
+Best Sellers Rank:
+#3,693,981 in Books (See Top 100 in Books)
+ #58,698 in Children's Action &amp; Adventure Books (Books)
+ #110,297 in Children's Literature (Books)
+Customer Reviews:
+/*
+* Fix for UDP-1061. Average customer reviews has a small extra line on hover
+* https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40
+*/
+.noUnderline a:hover {
+text-decoration: none;
+}
+4.7 out of 5 stars
+16 ratings
+    Start reading  on your Kindle in under a minute.
+    Don't have a Kindle?  Get your Kindle here, or download a FREE  Kindle Reading App.
+Customer reviews4.7 out of 5 stars4.7 out of 5
+            16 global ratings
+            5 star
+              77%
+            4 star
+              17%
+          3 star
+          0% (0%)
+            0%
+            2 star
+              6%
+          1 star
+          0% (0%)
+            0%
+How are ratings calculated?To calculate the overall star rating and percentage breakdown by star, we don’t use a simple average. Instead, our system considers things like how recent a review is and if the reviewer bought the item on Amazon. It also analyzes reviews to verify trustworthiness.
+        Top reviews
+        Most recent
+    Top reviews
+  Top reviews from the United States
+      There was a problem filtering reviews right now. Please try again later.Douglas J. Bassett5.0 out of 5 stars
+    A Classic
+Reviewed in the United States on August 24, 2013Verified Purchase
+  I've read only a bit of Joan Aiken's work, but I think she was a genius. Her series of children's books beginning with THE WOLVES OF WILLOUGHBY CHASE - at least the ones I've read - range from "pretty good" to "absolute classic".This is the best of what I've read in the series, although I haven't read them all. Early books relied a bit overmuch, I think, on parodying classic literature (although they're all quite decent, don't get me wrong, and a couple, THE CUCKOO TREE and THE STOLEN LAKE, are excellent) but DIDO seems to be pretty much its own thing. For those who know the series, this feels like the culmination of the Dido Thwaite story, as she returns to England, stops yet another plot on the King's life, and brings her difficult relationship with her father to a kind of conclusion. (Indeed, I wonder if this was not a personal story for Aiken, as despite all the fantastic goings-on the central concern of the book does seem to be Dido's relationship with her father. Aiken explores the notion of how a great artist can be a terrible human being - Aiken's own father was a fairly famous poet, I have no idea if he was a terrible human being but the similarity in situation seems pretty stark.)All that makes it sound more dreary than it really is. Actually DIDO AND PA is a wonderfully lively book, complete with plots and counterplots, conspiracies both evil and good, a genuinely charming love affair (actually sort of a couple), some action, and some genuinely weird moments here and there - even a touch of the supernatural that grows as the story reaches its conclusion. Aiken, as I said, was a genius, she had a gift for a very quiet absurdist kind of humor and almost complete tonal control that was really masterful - this is one of the few books I know of where transitions from humor to horror to pathos are completely plausible.These are marvelous books, highly recommended.
+Read more
+  3 people found this helpful
+          Helpful
+Comment
+      Report abuse
+  Mandy Sue5.0 out of 5 stars
+    Wonderful fun
+Reviewed in the United States on June 3, 2020Verified Purchase
+  Another delightful adventure for Dido, Simon and new friends. Aiken's wit and breakneck plotting guarantee a charming experience from this addition to the series.
+Read more
+          Helpful
+Comment
+      Report abuse
+  AshleeW5.0 out of 5 stars
+    love dido :)
+Reviewed in the United States on July 11, 2010Verified Purchase
+  Only problem with the Dido books are that if you buy one, you just have to buy them all ... which I have done!  Just love them all, this one included!
+Read more
+  One person found this helpful
+          Helpful
+Comment
+      Report abuse
+  Chrijeff5.0 out of 5 stars
+    Dido in her element
+Reviewed in the United States on October 13, 2004
+  At long last Dido Twite is back in London, though perhaps not as she anticipated she'd be.  Unexpectedly reunited (much to her delight) with her old friend Simon, now the Sixth Duke of Battersea, she has been spirited away from him by her rascally father Abednego, who with most of his family killed in the destruction of Battersea Castle has become Music Master to the Hanoverian Ambassador.  The position is not unearned--for all his bad qualities, Mr. Twite is a brilliant composer and a performer of note on the hoboy, whose music often brightened Dido's younger days even though he always favored her much older sister Penny.  But, quite naturally, the Ambassador is also a pivotal player in the ongoing Hanoverian plots against the Stuart throne, so Mr. Twite's politics mesh nicely with his employer's.  Unfortunately for them both, "Bonnie Prince Georgie" (the King George IV of our universe) has recently died without issue, so what's a Hanoverian plotter to do?  The answer's plain: find a way to become the power behind the throne.  And this the Ambassador has done, with a Dutch double for King Richard IV.  With the help of a network of street urchins and a young artist who is in love with Simon's sister Sophie, Dido contrives once again to foil the plot, though not without a few near escapes, and in the process is reunited with Penny and with what seems to be a younger half-sister, the oddly-named Is.  She is also overlooked by a blind apple seller who has a gift of foreseeing and declares that he "can see crossed sparkling lines over her head, and a whole shower of lucky stars...a gold crown in her hand...and a velvet carpet under her foot."  Take good care of her, he warns Mr. Twite, or the luck will turn for you...The high point of this installment in the Wolves Chronicles is the quirky relationship between Dido and her father, which is portrayed in a rich series of vignettes between them, cunningly spotted along the course of the tale to provide breaks in the otherwise headlong action.  Aiken also shows her usual Dickensian gift in her portrayal of London street life and her creation of villains you love to hate--though Mr. Twite has his sympathetic moments.  As the book closes, he has met the fate the apple-seller warned him of, Sophie and her gallant have come to an understanding, and Simon shyly suggests that perhaps Dido will "think about being Duchess of Battersea one day."  A satisfying conclusion to Dido's extended globe-trotting.
+Read more
+  3 people found this helpful
+          Helpful
+Comment
+      Report abuse
+  rampageous_cuss2.0 out of 5 stars
+    Grim sequel to 'The Stolen Lake'
+Reviewed in the United States on June 10, 1999
+  This was a somewhat disappointing episode in a wonderful series, though I have never read the previous two stories, 'The Cuckoo Tree' or 'The Stolen Lake', the first two parts, 'Black Hearts in Battersea' and 'Nightbirds on  Nantucket', were wonderful.  Of course it's really just for  children...The redoubtable Dido Twite returns from her adventures in the  Atlantic to reunite with Simon (now a Duke) in London, where she finds that  once again her nefarious musician father is up to his eyebrows in  'Hanoverian' plots against the Stuart throne.  The tale is crammed with  incident as Dido and Simon fight the machinations of Abednego Twite and his  patron, the evil Margrave Eisengrim.  The appearant foundling Is, who (in  the next novel) proves to be the daughter of Dido's unhappy sister  Penelope, is also introduced.All Aiken's adventures contain dark edges  and disturbing images but in previous novels they were counterbalanced by a  more inventive goodness and optimism - although it has to be admitted that  'The Wolves of Willoughby Chase' was a pretty tough cookie for a juvenile  adventure.  With 'Dido and Pa' the series has become somewhat stale and the  characters more routine - though still superior to most of Aiken's  competition.  Perhaps as a result the Dickensian environment of cruelty and  misery becomes more oppressive, which together with the 'just desserts'  experienced by the villians makes the novel grim reading for the grade  school set.
+Read more
+  6 people found this helpful
+          Helpful
+Comment
+      Report abuse
+  See all reviews
+          Top reviews from other countries
+        Kindle Customer5.0 out of 5 stars
+    Five Stars
+Reviewed in the United Kingdom on January 28, 2015Verified Purchase
+  Bought the series great condition
+Read more
+      Report abuse
+  See all reviews
+            What other items do customers buy after viewing this item?Page 1 of 1  Start overPage 1 of 1  
+            This shopping feature will continue to load items when the Enter key is pressed. In order to navigate out of this carousel please use your heading shortcut key to navigate to the next or previous heading.
+            Back
+            The Cuckoo Tree
+            Joan Aiken
+                5.0 out of 5 stars
+            16
+    Paperback$14.59   
+            Black Hearts in Battersea
+            Joan Aiken
+                4.4 out of 5 stars
+            69
+    Paperback$8.99   
+            The Wolves of Willoughby Chase (Wolves Chronicles Series)
+            Joan Aiken
+                4.7 out of 5 stars
+            338
+    Paperback$6.99   
+            The Stolen Lake
+            Joan Aiken
+                4.4 out of 5 stars
+            24
+    Paperback$15.34   
+            Cold Shoulder Road (The Wolves Chronicles (9))
+            Joan Aiken
+                4.3 out of 5 stars
+            5
+    Paperback$18.99   Only 1 left in stock (more on the way).
+            Midwinter Nightingale
+            Joan Aiken
+                3.7 out of 5 stars
+            8
+    Paperback14 offers from $5.97
+            Next
+            Pages with related products.
+            See and discover other items: spokane wa
+#csr-hcb-wrapper {
+  display: none;
+}
+.bia-item .bia-action-button {
+  display: inline-block;
+  height: 22px;
+  margin-top: 3px;
+  padding: 0px;
+  overflow: hidden;
+  text-align: center;
+  vertical-align: middle;
+  text-decoration: none;
+  color: #111;
+  font-family: Arial,sans-serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 19px;
+  cursor: pointer;
+  outline: 0;
+  border: 1px solid;
+  -webkit-border-radius: 3px 3px 3px 3px;
+  -moz-border-radius: 3px 3px 3px 3px;
+  border-radius: 3px 3px 3px 3px;
+  border-radius: 0\9;
+  border-color: #bcc1c8 #bababa #adb2bb;
+  background: #eff0f3;
+  background: -moz-linear-gradient(top, #f7f8fa, #e7e9ec);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f7f8fa), color-stop(100%, #e7e9ec));
+  background: -webkit-linear-gradient(top, #f7f8fa, #e7e9ec);
+  background: -o-linear-gradient(top, #f7f8fa, #e7e9ec);
+  background: -ms-linear-gradient(top, #f7f8fa, #e7e9ec);
+  background: linear-gradient(top, #f7f8fa, #e7e9ec);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f7f8fa', endColorstr='#e7e9ec',GradientType=0);
+  *zoom: 1;
+  -webkit-box-shadow: inset 0 1px 0 0 #fff;
+  -moz-box-shadow: inset 0 1px 0 0 #fff;
+  box-shadow: inset 0 1px 0 0 #fff;
+  box-sizing: border-box;
+}
+#bia-hcb-widget .a-button-text {
+    font-family: Arial,sans-serif !important;
+}
+#bia_content .a-icon-row {
+    display: none;
+}
+#bia-hcb-widget .a-icon-row {
+      display: none;
+}
+#bia_content {
+    width: 266px;
+}
+.nav-flyout-sidePanel {
+    width: 266px !important;
+}
+.aui-atc-button {
+    margin-top: 3px;
+    overflow: hidden;
+    color: #111;
+    font-family: Arial,sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: normal;
+}
+.bia-item .bia-action-button:hover {
+  border-color: #aeb4bd #adadad #9fa5af;
+  background: #e0e3e8;
+  background: -moz-linear-gradient(top, #e7eaf0, #d9dce1);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #e7eaf0), color-stop(100%, #d9dce1));
+  background: -webkit-linear-gradient(top, #e7eaf0, #d9dce1);
+  background: -o-linear-gradient(top, #e7eaf0, #d9dce1);
+  background: -ms-linear-gradient(top, #e7eaf0, #d9dce1);
+  background: linear-gradient(top, #e7eaf0, #d9dce1);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e7eaf0', endColorstr='#d9dce1',GradientType=0);
+  *zoom: 1;
+  -webkit-box-shadow: 0 1px 3px rgba(255, 255, 255, 0.6) inset;
+  -moz-box-shadow: 0 1px 3px rgba(255, 255, 255, 0.6) inset;
+  box-shadow: 0 1px 3px rgba(255, 255, 255, 0.6) inset;
+}
+.bia-item .bia-action-button:active {
+  background-color: #dcdfe3;
+  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2) inset;
+  -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2) inset;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2) inset;
+}
+.bia-item .bia-action-button-disabled {
+  background: #f7f8fa;
+  color: #b7b7b7;
+  border-color: #e0e0e0;
+  box-shadow: none;
+  cursor: default;
+}
+.bia-item .bia-action-button-disabled:hover {
+  background: #f7f8fa;
+  color: #b7b7b7;
+  border-color: #e0e0e0;
+  box-shadow: none;
+  cursor: default;
+}
+.bia-action-button-inner {
+  border-bottom-color: #111111;
+  border-bottom-style: none;
+  border-bottom-width: 0px;
+  border-image-outset: 0px;
+  border-image-repeat: stretch;
+  border-image-slice: 100%;
+  border-image-width: 1;
+  border-left-color: #111111;
+  border-left-style: none;
+  border-left-width: 0px;
+  border-right-color: #111111;
+  border-right-style: none;
+  border-right-width: 0px;
+  border-top-color: #111111;
+  border-top-style: none;
+  border-top-width: 0px;
+  box-sizing: border-box;
+  display: block;
+  height: 20px;
+  line-height: 19px;
+  overflow: hidden;
+  position: relative;
+  padding: 0;
+  vertical-align: baseline;
+}
+.bia-action-inner {
+  border: 0;
+  display: inline;
+  font-size: 11px;
+  height: auto;
+  line-height: 19px;
+  padding: 0px 4px 0px 4px;
+  text-align: center;
+  width: auto;
+  white-space: nowrap;
+}
+.csr-content {
+  font-family: Arial, Verdana, Helvetica, sans-serif;
+  width: 220px;
+  line-height: 19px;
+}
+.bia-header {
+  font-size: 16px;
+  color: #E47911;
+  padding-bottom: 10px;
+}
+.bia-header-widget {
+  white-space: nowrap;
+  overflow: hidden;
+}
+.b2b-nav-header {
+  white-space: nowrap;
+  overflow: hidden;
+  margin-bottom: 18px;
+}
+.bia-space-right {
+  padding-right: 18px;
+  white-space: normal;
+  float: left;
+}
+.b2b-see-more-link a {
+  display: inline;
+  float: left;
+  margin-top: 3px;
+  margin-left: 3px;
+}
+.hcb-see-more-link a {
+  color: #333;
+  font-size: 13px;
+  text-decoration: none;
+  font-family: Arial, Verdana, Helvetica, sans-serif;
+}
+.bia-hcb-body {
+  overflow: hidden;
+}
+.bia-item {
+  width: 220px;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+.bia-item-image {
+  float: left;
+  margin-right: 15px;
+  width: 75px;
+  height: 75px;
+}
+.bia-image {
+  max-height: 75px;
+  max-width: 75px;
+  border: 0;
+}
+.bia-item-data {
+  float: left;
+  width: 130px;
+}
+.bia-title {
+  line-height: 19px;
+  font-size: 13px;
+  max-height: 60px;
+  overflow: hidden;
+}
+.bia-link:link {
+  text-decoration: none;
+  font-family: Arial, Verdana, Helvetica, sans-serif;
+}
+.bia-link:visited {
+  text-decoration: none;
+  color: #004B91;
+}
+.bia-price-nav {
+  margin-top: -4px;
+  color: #800;
+  font-size: 12px;
+  vertical-align: bottom;
+}
+.bia-price-yorr {
+    margin-top: -8px;
+    color: #800;
+    font-size: 12px;
+    vertical-align: bottom;
+}
+.bia-price {
+  color: #800;
+  font-size: 12px;
+  vertical-align: bottom;
+}
+.bia-vpc-t1{
+  color: #008a00;
+  font-size: 12px;
+  font-weight: bold;
+}
+.bia-vpc-t2{
+  color: #008a00;
+  font-size: 12px;
+}
+.bia-vpc-t3{
+  font-size: 12px;
+  line-height: 20px;
+}
+.bia-vpc-t3-badge{
+  color: #ffffff;
+  background-color: #e47911;
+  font-weight: normal;
+}
+.bia-vpc-t3-badge::before{
+  border-bottom: 10px solid #e47911;
+}
+.bia-vpc-t3-badge:after{
+  border-top: 10px solid #e47911;
+}
+.bia-ppu {
+  color: #800;
+  font-size: 10px;
+}
+.bia-prime-badge {
+  border: 0;
+  vertical-align: middle;
+}
+.bia-cart-action {
+  display: none;
+}
+.bia-cart-msg {
+  display: block;
+  font-family: Arial, Verdana, Helvetica, sans-serif;
+  line-height: 19px;
+}
+.bia-cart-icon {
+  background-image:
+      url("https://images-na.ssl-images-amazon.com/images/G/01/Recommendations/MissionExperience/BIA/bia-atc-confirm-icon._CB485946458_.png");
+  display: inline-block;
+  width: 14px;
+  height: 13px;
+  top: 3px;
+  line-height: 19px;
+  position: relative;
+  vertical-align: top;
+}
+.bia-cart-success {
+  color: #090!important;
+  display: inline-block;
+  margin: 0;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: bold;
+  font-family: Arial, Verdana, Helvetica, sans-serif;
+}
+.bia-cart-title {
+  margin-bottom: 3px;
+}
+.bia-cart-form {
+  margin: 0px;
+}
+.bia-inline-cart-form {
+  margin: 0px;
+}
+.bia-cart-submit {
+  cursor: inherit;
+  left: 0;
+  top: 0;
+  line-height: 19px;
+  height: 100%;
+  width: 100%;
+  padding: 1px 6px 1px 6px;
+  position: absolute;
+  opacity: 0.01;
+  overflow: visible;
+  filter: alpha(opacity=1);
+  z-index: 20;
+}
+.bia-link-caret {
+  color: #e47911;
+}
+      There's a problem loading this menu right now.
+      Learn more about Amazon Prime.
+  #nav-prime-tooltip{
+    padding: 0 20px 2px 20px;
+    background-color: white;
+    font-family: arial,sans-serif;
+  }
+  .nav-npt-text-title{
+    font-family: arial,sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 21px;
+    color: #E47923;
+  }
+  .nav-npt-text-detail, a.nav-npt-a{
+    font-family: arial,sans-serif;
+    font-size: 12px;
+    line-height: 14px;
+    color: #333333;
+    margin: 2px 0px;
+  }
+  a.nav-npt-a {
+    text-decoration: underline;
+  }
+     Get free delivery with Amazon Prime 
+     Prime members enjoy FREE Delivery and exclusive access to music, movies, TV shows, original audio series, and Kindle books. 
+      &gt;
+      Get started
+Back to top
+Get to Know UsCareersBlogAbout AmazonSustainabilityPress CenterInvestor RelationsAmazon DevicesAmazon ToursMake Money with UsSell products on AmazonSell apps on AmazonBecome an AffiliateAdvertise Your ProductsSelf-Publish with UsHost an Amazon Hub›See More Make Money with UsAmazon Payment ProductsAmazon Rewards Visa Signature CardsAmazon.com Store CardAmazon Business CardAmazon Business Line of CreditShop with PointsCredit Card MarketplaceReload Your BalanceAmazon Currency ConverterLet Us Help YouAmazon and COVID-19Your AccountYour OrdersShipping Rates &amp; PoliciesAmazon PrimeReturns &amp; ReplacementsManage Your Content and DevicesAmazon AssistantHelp
+  #icp-touch-link-language { display: none; }
+  EnglishChoose a language for shopping.
+#icp-touch-link-country { display: none; }
+  United StatesChoose a country/region for shopping.
+Amazon Music Stream millions of songs
+Amazon Advertising Find, attract, and engage customers
+Amazon Drive Cloud storage from Amazon
+6pm Score deals on fashion brands
+AbeBooks Books, art &amp; collectibles
+ACX  Audiobook Publishing Made Easy
+Alexa Actionable Analytics for the Web
+Sell on Amazon Start a Selling Account
+Amazon Business Everything For Your Business
+Amazon Fresh Groceries &amp; More Right To Your Door
+AmazonGlobal Ship Orders Internationally
+Home Services Experienced Pros Happiness Guarantee
+Amazon Ignite Sell your original Digital Educational Resources
+Amazon Rapids Fun stories for  kids on the go
+Amazon Web Services Scalable Cloud Computing Services
+Audible Listen to Books &amp; Original Audio Performances
+Book Depository Books With Free Delivery Worldwide
+Box Office Mojo Find Movie Box Office Data
+ComiXology Thousands of Digital Comics
+DPReview Digital Photography
+East Dane Designer Men's Fashion
+Fabric Sewing, Quilting &amp; Knitting
+Goodreads Book reviews &amp; recommendations
+IMDb Movies, TV &amp; Celebrities
+IMDbPro Get Info Entertainment Professionals Need
+Kindle Direct Publishing Indie Digital &amp; Print Publishing Made Easy
+Prime Now FREE 2-hour Delivery on Everyday Items
+Amazon Photos Unlimited Photo Storage Free With Prime
+Prime Video Direct Video Distribution Made Easy
+Shopbop Designer Fashion Brands
+Amazon Warehouse Great Deals on Quality Used Products 
+Whole Foods Market America’s Healthiest Grocery Store
+Woot! Deals and  Shenanigans
+Zappos Shoes &amp; Clothing
+Ring Smart Home Security Systems
+eero WiFi Stream 4K Video in Every Room
+Neighbors App   Real-Time Crime &amp; Safety Alerts
+Amazon Subscription Boxes Top subscription boxes – right to your door
+PillPack Pharmacy Simplified
+Amazon Renewed Like-new products you can trust
+Amazon Second Chance Pass it on, trade it in, give it a second life
+Conditions of UsePrivacy NoticeInterest-Based Ads© 1996-2020, Amazon.com, Inc. or its affiliates

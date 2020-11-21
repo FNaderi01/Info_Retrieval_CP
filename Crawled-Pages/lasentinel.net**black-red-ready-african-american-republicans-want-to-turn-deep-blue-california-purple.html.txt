@@ -1,0 +1,329 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Black, Red &amp; Ready: African American Republicans Want to Turn Deep Blue California Purple            
+				By Tanu Henry, California Black Media                
+	                	                Published December 5, 2019
+		Corrin Rankin, President, Legacy Republican Alliance (Courtesy Photo)
+Black Republicans in California are focused and organizing.
+They want to “reintroduce” African Americans in the state to the GOP, Black Republican leaders and activists say.
+By increasing the number of Black Republicans holding political office in the state and inspiring more Black Californians to vote red, they believe their efforts will purple the deep blue African American vote in the fourth bluest of blue states in the country, according to a ranking by The Hill, a Washington D.C.-based website that covers the U.S. Congress, Presidency and national politics.
+        ADVERTISEMENT        
+“We are Black first, then Republican,” says Corrin Rankin, 45, a GOP activist and delegate who splits her time between homes in San Mateo and San Joaquin counties.
+“We believe Republican policies are more in line with our values as Black Americans than democratic policies,” says Rankin. “We believe in low taxes, small and efficiently-run governments, and limited regulation. The more regulations you have, the less people – especially people from economically disadvantaged backgrounds – are able to get involved in any industry.”
+Last February, at the state Republican convention, Rankin says she and other African American conservatives who attended decided to organize themselves and form an association called the Legacy Republican Alliance (LRA), a political action committee, after they found out the California Republican Party had a directive to not reach out to Black voters.
+“We understand from a business perspective that the number of Black Republicans in the state is relatively small, but that was not the right way to go for the party,” she says. “There were other ethnic organizations at the convention. That’s why we decided to create the LRA, to increase our numbers and make our voices heard so that we can have a seat at the table.”
+California has the fifth largest Black population in the country, according to the U.S. Census Bureau.   African Americans account for about 6.5 percent of the state’s total population of nearly 40 million people.
+Democrats in California make up 72 percent of Black registered voters, according to the Public Policy Institute of California. Six percent of those African American likely voters are Republican. Independents account for about 20 percent.
+And there are no Black Republicans who are members of the state legislature or among California’s delegations to the United States Congress.
+But some African American leaders in the California Democratic Party are concerned that their party has not done a good job empowering Blacks when it comes to things like organizing voter registrations and encouraging voter participation. Many point out, too, that fellow Democrats at the state, county and local levels often overlook issues important to African Americans like failing schools and the high cost of housing, and they sometimes advance public policies that disproportionally impact Blacks as well as middle class and lower-income families.
+Those Black Democratic leaders – two of them spoke with California Black Media off the record for this article – say those missteps by their party cause them to work harder to ensure that their party remains the first choice for Black Californians.
+But Taisha Brown, who was sworn in chair of the California Democratic Party African American Caucus last month, says Black support of the Democratic Party and elected Democrats in the state has never been stronger. And with more African American Democrats being appointed to influential leadership positions in the state, she is confident things are moving in the right direction.
+“We may not see eye-to-eye on every issue as Democrats in California, but we still stand with each other, and we support a party where there is room to have difficult conversations that allow us to move forward together in good faith as we work for a better California, a better country, a better life for all of our families,” she said. “Now, more than ever, we have to listen to each other and think about how the things we fight for impact all of us.”
+Since the LRA was formed, Rankin says the group has launched a website and focused on informing Black Californians that Republican policies on employment, business, education, taxation, criminal justice reform, community-police relations and criminal justice reform are better for their families and communities.
+They have also been actively raising money to support Black Republican candidates and LRA members, including Navy veteran Joe Collins who is running for U.S. Congress against Rep. Maxine Waters in the 43rd district which covers the Los Angeles area; Aja Smith, an Air Force vet, also running for U.S. Congress against Democratic Rep. Mark Takano in the 41st district in the Inland Empire; Tamika Hamilton, another Air Force vet running for Congress against Democratic Rep. John Garamendi in the 3rdCongressional district west of Sacramento; and Major Williams who is running for mayor of Pasadena.
+Another member of the LRA, Jonathan Madison, has been elected Regional Vice Chair of the Bay Area GOP.
+In April of this year, the California Republican Assembly (CRA), a statewide conservative activist group former California Gov. and U.S. President Ronald Reagan called “the conscience of the Republican Party,” elected Johnnie Morgan, 68, as its first African American president for a three-year term.
+Morgan says one of his main goals as CRA president is to recruit more African Americans and Independents to join the California Republican Party.
+“African Americans place a high value on family as does the Republican Party,” Morgan told California Black Media.
+Rankin is encouraging Black Californians who want to make a difference in their communities to reach out to the LRA for mentorship and guidance on how to get elected to county or municipal office.
+“You can run for city council or your local school board and represent yourself, your interests, your neighbors and your community,” she says.
+Rankin says the LRA is building a framework in California that it hopes to take nationwide.
+“Our state is in desperate need of diverse and thoughtful leaders who will bring a much-needed, new approach to solving California’s toughest challenges,” she says.
+		Categories: News | Political Tags: Aja Smith | Black Republicans | California Democratic Party | California Democratic Party African American Caucus | California Republican Assembly (CRA) | Democratic Rep. Mark Takano | Inland Empire | Joe Collins | John Garamendi | Johnnie Morgan | Jonathan Madison | Taisha Brown | Tamika Hamilton | The Hill | U.S. Census Bureau		
+						Brotherhood Crusade Sets Goal to Raise $1M
+						Julian Castro Joins Black Lives Matter at LAPD Protest
+						Three Baltimore Men Exonerated After Nearly Four Decades in Prison
+						Woman Killed in Crash ID’d’; Two Boys in Serious Condition
+						Boy, 6, Taken from Foster Home in South L.A. Found Safe in Illinois
+						Harris Exit Points to Hurdles Facing Minority Candidates
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

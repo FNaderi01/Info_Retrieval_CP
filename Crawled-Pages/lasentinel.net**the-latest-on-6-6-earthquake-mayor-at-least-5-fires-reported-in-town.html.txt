@@ -1,0 +1,346 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+The Latest: Strong Aftershock Follows California Earthquake            
+				By Sentinel New Wire                
+	                	                Published July 4, 2019
+		LOS ANGELES (AP) — The Latest on Southern California’s strongest earthquake in 20 years (all times local):
+7:05 a.m.
+A vigorous aftershock sequence is following the strongest earthquake to hit Southern California in 20 years.
+        ADVERTISEMENT        
+A magnitude 5.4 quake at 4:07 a.m. Friday is so far the strongest aftershock of Thursday’s magnitude 6.4 jolt, and was felt widely.
+Seismologists had said there was an 80% probability of an aftershock of that strength.
+Thursday’s big quake struck in the Mojave Desert, about 150 miles (240 kilometers) northeast of Los Angeles, near the town of Ridgecrest, which suffered damage to buildings and roads.
+___
+JULY 4
+9 p.m.
+The strongest earthquake in 20 years shook a large swath of Southern California and parts of Nevada on the July 4th holiday, rattling nerves and causing injuries and damage in a town near the epicenter, followed by a swarm of ongoing aftershocks.
+The 6.4 magnitude quake struck at 10:33 a.m. Thursday in the Mojave Desert, about 150 miles (240 kilometers) northeast of Los Angeles, near the town of Ridgecrest, California.
+Kern County Fire Chief David Witt says multiple injuries and two house fires were reported in the town of 28,000. Emergency crews were also dealing with small vegetation fires, gas leaks and reports of cracked roads.
+12:35 p.m.
+Ridgecrest, California, Mayor Peggy Breeden says firefighters are working to put out five fires in the area following an earthquake but that she didn’t know if any injuries have been reported.
+Breeden tells CNN utility workers are assessing broken gas lines and turning off gas where necessary.
+Breeden says the local senior center was holding a Fourth of July event when the quake hit. She says everyone made it out shaken up but without injuries.
+The 6.4 magnitude quake struck at 10:33 a.m. Thursday in the Mojave Desert, about 150 miles (240 kilometers) northeast of Los Angeles, near Ridgecrest. It is the strongest quake to hit the region in 20 years.
+Seismologist Lucy Jones says a series of aftershocks were occurring and that at least one of them was a 4.3 magnitude temblor. She expects more throughout the day.
+___
+12:05 p.m.
+Veteran seismologist Lucy Jones says the earthquake Thursday was the strongest to hit Southern California in 20 years.
+She says the previous large quake was a 7.1 on that struck in the area on October 16, 1999.
+Jones told reporters at the California Institute of Technology in Pasadena, California, that the 6.4 quake centered in the Mojave Desert near the town of Ridgecrest was preceded by a magnitude 4.3 temblor about a half hour earlier.
+She says it was vigorous aftershock sequence occurring and that she wouldn’t be surprise if a magnitude 5 quake occurred during the aftershocks.
+There were reports of at least one house fire in Ridgecrest.
+There were no immediate reports of injuries in the Los Angeles area, which is about 125 miles (240 kilometers) southwest of Ridgecrest.
+___
+11:40 a.m.
+Officials in Southern California say emergency crews are responding to at least 24 medical and fire incidents after a 6.4 magnitude earthquake struck near Ridgecrest, California. There were no immediate reports of injuries in the Los Angeles area, which is about 125 miles (240 kilometers) southwest of Ridgecrest.
+The Kern County Fire Department says it is sending search and rescue teams to the town of 28,000 people.
+The quake measured with a preliminary magnitude of 6.4 struck Thursday morning in the Mojave Desert.
+People from Las Vegas to the Pacific Coast reported feeling a rolling motion that shook shower doors and made hanging dining room light sway.
+___
+11:05 a.m.
+An earthquake that struck Thursday morning in the Mojave Desert rattling a large swath of Southern California was also felt in neighboring Nevada. It was not immediately known if it caused major damage or injuries.
+The quake measured with a preliminary magnitude of 6.4 struck Thursday morning near the town of Ridgecrest, California, about 150 miles (240 kilometers) northeast of Los Angeles.
+People from Las Vegas to the Pacific Coast reported feeling a rolling motion that shook shower doors and made hanging dining room light sway.
+___
+10:51 a.m.
+A large earthquake has rattled a large swath of Southern California. There are no immediate reports of damage.
+The quake measured with a preliminary magnitude of 6.6 struck Thursday morning near the town of Ridgecrest, California, about 150 miles (240 kilometers) northeast of Los Angeles.
+People from the desert to the Pacific coast in Southern California reported feeling it.
+		Categories: Local | News Tags: 85 Years of LA Sentinel | Black News | Black Press | California | earthquake		
+						LA School Board Votes to End Random Searches
+						WATCH: A Conversation on Use of Force with LAPD Commander Alan Hamilton ...
+						WATCH: A Conversation On Use of Force with LAPD Commander Alan Hamilton –...
+						WATCH: A Conversation On Use of Force with LAPD Commander Alan Hamilton –...
+						WATCH: A Conversation On Use of Force with LAPD Commander Alan Hamilton –...
+						WATCH: A Conversation On Use of Force with LAPD Commander Alan Hamilton –...
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

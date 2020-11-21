@@ -1,0 +1,64 @@
+							body {overflow:auto;}
+							body #s4-workspace {overflow: visible;}			
+							html {overflow:auto;}
+	It looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.
+		HomeCurrently selectedAudits / EvaluationsInvestigationsCorrespondenceAudits InitiatedTestimonyAbout OIG
+			Inspector GeneralDeputy Inspector GeneralOrganizationOrganization ChartMission, Vision, and Core ValuesFAQs About OIG AuditsFAQs About OIG InvestigationsCareersContact Us
+										/* hide the left nav and titles for pages that don't override the left nav bar */			
+										#s4-leftpanel {
+											display: none;
+										}
+										.s4-ca {
+											margin-left:0px;
+										}
+										.oig_Body {
+											padding:20px 10px 10px 10px;
+											width: 1000px;
+										}
+		ListsLibraries
+			PagesOIG PublicationsSite PagesDocumentsImagesNewEmployees
+		Recent
+			SubmissionsStandardComplaintAnonymous ComplaintStateListConfidential Complaint
+		Home
+				Accordion Content
+      ​​Top Management Challenges This annual report represents OIG's current assessment of the Department's programs and activities and the most serious management and performance challenges facing its respective bureaus. 
+            Read the latest report 
+      Semiannual Report to CongressThis report highlights work completed and initiated from October 1, 2019–March 31, 2020. Over the past 6 months—in addition to issuing our annual Top Management and Performance Challenges Facing the Department of Commerce—our office issued 20 products related to our audit, evaluation, and inspection work. Also included are investigative summaries of Commerce/bureau employees and outside organizations. 
+         Read the latest report 
+      2020 Census | NOAA Reading RoomsReading rooms are a collection of reports, testimony, and other documents focused on a particular issue. These materials may also be found by clicking on the relevant oversight area on the right side of this page. 
+            2020 Census 
+            NOAA Fisheries Enforcement ​ 
+				Recent Releases
+		  10.08.2020Request for Information to FirstNet Authority Executive Director Edward Parkinson from the Office of Inspector General re: AT&amp;T Subcontractors10.07.2020Six Additional Individuals Indicted On Antitrust Charges In Ongoing Broiler Chicken Investigation10.01.2020Evaluation of USPTO’s Patent Examination Process10.01.2020The Department Has Made Progress Meeting Its Responsibilities Under the Geospatial Data Act But Must Improve Controls to Ensure Full Compliance
+			Office of Inspector General
+				Page ContentThe Office of Inspector General (OIG) seeks to improve the efficiency and effectiveness of the Department of Commerce's programs and operations. OIG also endeavors to detect and deter waste, fraud, and abuse.
+OIG monitors and tracks the use of taxpayer dollars through audits, inspections, evaluations, and investigations. The Inspector General keeps the Secretary of Commerce and Congress fully and currently informed about problems and deficiencies relating to Commerce's activities and the need for corrective action.
+OIG has a Whistleblower Protection Program, including a whistleblower protection coordinator, established pursuant to the Whistleblower Protection Enhancement Act of 2012.  
+				Oversight Areas
+					Office of the Secretary
+					Bureau of Economic Analysis
+					Bureau of Industry and Security
+					U.S. Census Bureau
+					Economic Development Administration
+					Economics and Statistics Administration
+					First Responder Network Authority
+					International Trade Administration
+					Minority Business Development Agency
+					National Oceanic and Atmospheric Administration
+					National Telecommunications and Information Administration
+					National Institute of Standards and Technology
+					National Technical Information Service
+					U.S. Patent and Trademark Office
+				Connect With Us
+					home
+					U.S. Dept of Commerce
+					usa.gov
+					foia
+					info quality
+					privacy policy
+					disclaimer
+					plain language
+					FAR				
+					CIGIE
+					Other Links
+					Contact Webmaster

@@ -1,0 +1,327 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+“Gold Chains” unearths the accounts of slavery in California            
+				By Faith Petrie, Contributing Writer                
+	                	                Published November 28, 2019
+		(courtesy)
+The ACLU of Northern California in collaboration with radio station KQED, the California Historical Society and the Equal Justice Society co-created an educational project directed at highlighting the stories of slavery throughout California.
+“Gold Chains: The Hidden History of Slavery in California” includes 14 essays, one video and three audio stories that present the experiences of African Americans and Native Californians during the 1800s.
+Candice Francis, communications director of the ACLU of Northern California said that the project originally spawned from wanting to observe the 400th year since enslaved people were brought to the United States from Africa.
+        ADVERTISEMENT        
+“We were guided to rather than take on that mammoth task, to look more closely at California because there was a hidden history there,” Francis said.
+One story highlighted on the website surrounds California’s first governor, a white supremacists named Peter Hardeman Burnett. Burnett advocated for the genocide of Native Americans as well as the exclusion of African Americans and other minority groups in California.
+“A white supremacist as the first governor of the state is something that people should know, there are schools named after this man still in California,” Francis said.
+The “Gold Chains” website includes numerous stories that spotlight the lives of slaves in California, Black abolitionists, the relationship between slavery and the California Gold Rush and more.
+As opposed to a majority of the Deep South, California entered the Union as a free state meaning slavery was illegal but Francis noted that people often times found ways around this. Although it was not illegal to travel through California with slaves, slave owners would come and stay and “the law would turn their eye” according to Francis.
+“The people who were working in the mines many times were enslaved black people who were doing mining in order to make other people rich,” Francis said.
+The websites 16 stories all came from extensive research across all avenues to find the stories that most importantly depicted the purpose of the project.
+“We just did some old-fashioned reading of periodicals and books and [looked] into tidbits of information and landed on the 16 stories that we thought were representative of the state and representative of the story that we wanted to tell about enslavement in California,” Francis said.
+Alongside KQED, the California Historical Society and the Equal Justice Society, ACLU created the “Gold Chains” project using each respective organizations skills to their fullest potential.
+“We started meeting about six months ago now and from that, sort of formulated what our ideas were and what lane everyone could be in for example, we did the website,” Francis said.
+Starting Thursday, Dec. 5 KQED will start reporting on the stories featured on the website in an effort to expand the audience of the project as well as host outdoor activities in February that will create a space for individuals to discuss “Gold Chains.”
+Francis said the website will periodically be updated with new content to bring new stories to the campaign.
+“The website won’t be stagnant, there are stories that we didn’t get to put up and we hope to expand them as time goes on and it’s a multimedia site as well,” Francis said.
+While the archives of California’s history with slavery seems as though it remains in the past, its effects are still evident today in different systems throughout the state.
+“It’s the unfortunate thing that there are many throughlines,” Francis said. “As a legal organization we’ve had too many occasions to work with school districts that are blatantly doing things that will make life difficult for Black students in terms of denying them First Amendment rights to speak about things like Black Lives Matter, to a case involving White students walking around in blackface and people having nooses hanging places.”
+Eva Paterson, president and co-founder of the Equal Justice Society said in a press release, “In a time when we are grappling with the normalization of white supremacy, this unflinching story of our collective past is necessary.”
+Francis hopes that this project inspires parents and schools to educate students about this untaught history of the seemingly progressive state.
+“It’s really ridiculous that this is hidden history that’s just not taught, it’s hidden from students. There’s some false idea of California as being a very entrepreneurial, very open minded state that doesn’t see barriers and it’s just not a true one,” Francis said.
+Visit aclunc.org/sites/goldchains/ to read more about the stories included in “Gold Chains: The Hidden History of Slavery in California.”
+		Categories: History | Local | National | News Tags: ACLU | Black Lives Matter | California Gold Rush | Candice Francis | Equal Justice Society | Eva Paterson | Faith Petrie | Gold Chains | slavery | The Hidden History of Slavery in California		
+						Black Fact of the Day: Nov. 29, 2019- Brought to you by Black365
+						Wesson Steps Down From City Council Presidency to Focus on Supervisor Camp...
+						Kamala Harris Ends White House Bid, Citing Lack of Funding
+						Garth C. Reeves Sr., Retired Miami Times Publisher and Black Press Pioneer,...
+						Team USA Awards Honor World Class Athletes
+						Black, Red &amp; Ready: African American Republicans Want to Turn Deep Blue...
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

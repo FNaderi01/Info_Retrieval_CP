@@ -1,0 +1,64 @@
+	Photographic magnitude
+		From Wikipedia, the free encyclopedia
+		Jump to navigation
+		Jump to search
+		This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Photographic magnitude" – news · newspapers · books · scholar · JSTOR  (May 2019) (Learn how and when to remove this template message)
+Photographic magnitude (mph or mp ) is a measure of the relative brightness of a star or other astronomical object as imaged on a photographic film emulsion with a camera attached to a telescope. An object's apparent photographic magnitude depends on its intrinsic luminosity, its distance and any extinction of light by interstellar matter existing along the line of sight to the observer. 
+Photographic observations have now been superseded by electronic photometry such as CCD charge-couple device cameras  that convert the incoming light into an electric current by the photoelectric effect. Determination of magnitude is made using a photometer. 
+Contents
+1 Method
+2 Magnitudes and colour indices
+3 References
+4 See also
+Method[edit]
+Prior to photographic methods to determine magnitude, the brightness of celestial objects was determined  by visual photometric methods. This was simply achieved with the human eye by compared the brightness of an astronomical object with other nearby objects of known or fixed magnitude : especially regarding stars, planets and other planetary objects in the Solar System, variable stars[1] and deep-sky objects. 
+By the late 19th Century, an improved measure of the apparent magnitude of astronomical objects was obtained by photography, often attached as a dedicated plate camera at the prime focus of the telescope. Images were made on orthochromatic photoemulsive film or plates. These photographs were created by exposing the film over a short or long period of time, whose total exposure length accumulates photons and reveals fainter stars or astronomical objects invisible to the human eye. Although stars viewed in the sky are approximate point sources, the process in collecting their light cause each star to appear as small round disk, whose brightness is approximately proportional to the disk's diameter or its area. Simple measurement of the disk size can be optically judged by either a microscope or by an specially designed astronomical microdensitometer. 
+Early black and white photographic plates used silver halide emulsions that were more sensitive to the blue end of the visual spectrum. This caused bluer stars to have a brighter  photographic magnitude against the equivalent visual magnitude: appearing brighter on the photograph  than the human eye or modern electronic photometers. Conversely, redder stars  appear dimmer, and have a fainter photographic magnitude than its visual magnitude.  For example, the red supergiant star KW Sagittarii has the photographic magnitude range of 11.0p to 13.2p but in the visual magnitude of about 8.5p to 11.0p. It is also common for variable star charts to feature several blue magnitude (B) comparison stars. e.g. S Doradus and WZ Sagittae.[clarification needed]
+Photographic photometric methods define magnitudes and colours of astronomical objects using astronomical photographic images as viewed through selected or standard coloured bandpass filters. This differs from other expressions of apparent visual magnitude[2] observed by the human eye or obtained by photography[1]: that usually appear in older astronomical texts and catalogues. Early photographic images initially employed inconsistent quality or unstable yellow coloured filters, though later filter systems adopted more standardised bandpass filters which are still used with today's CCD photometers.
+Magnitudes and colour indices[edit]
+Apparent photographic magnitude is usually given as mpg or mp, or photovisual magnitudes mp or mpv.[3][1]  Absolute photographic magnitude is Mpg.[3] These are different from the commonplace photometric systems (UBV, UBVRI or JHK) that are expressed with a capital letter. e.g. 'V" (mV), "B" (mB), etc. Other visual magnitudes estimated by the human eye are expressed using lower case letters. e.g. "v" or "b", etc.[4] e.g. Visual magnitudes as mv[3]. Hence, a 6th magnitude star might be stated as 6.0V, 6.0B, 6.0v or 6.0p. Because starlight is measured over a different range of wavelengths across the electromagnetic spectrum and are affected by different instrumental photometric sensitivities to light, they are not necessarily equivalent in numerical value.[4]
+References[edit]
+^ a b c Miles, R. (2007). "A light history of photometry: from Hipparchus to the Hubble Space Telescope". Journal of the British Astronomical Association. 117: 178–186. Bibcode:2007JBAA..117..172M..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}
+^ North, G.; James, N. (21 August 2014). Observing Variable Stars, Novae and Supernovae. Cambridge University Press. ISBN 978-1-107-63612-5.
+^ a b c Norton, A.P. (1989). Norton's 2000.0 : Star Atlas and Reference Handbook. Longmore Scientific. p. 133. ISBN 0-582-03163-X.
+^ a b MacRobert, A. (1 August 2006). "The Stellar Magnitude System". Sky and Telescope. Retrieved 21 May 2019.
+See also[edit]
+Apparent magnitude
+Absolute magnitude
+Magnitude (astronomy)
+Photometry (astronomy)
+Surface brightness
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Photographic_magnitude&amp;oldid=935979824"
+		Categories: AstrophysicsHidden categories: Articles needing additional references from May 2019All articles needing additional referencesWikipedia articles needing clarification from May 2019
+	Navigation menu
+		Personal tools
+		Not logged inTalkContributionsCreate accountLog in
+		Namespaces
+		ArticleTalk
+		Variants
+		Views
+		ReadEditView history
+		More
+		Search
+		Navigation
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		Contribute
+		HelpLearn to editCommunity portalRecent changesUpload file
+		Tools
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		Print/export
+		Download as PDFPrintable version
+		Languages
+		العربيةБеларускаяCatalàFrançais한국어ItalianoҚазақша日本語PortuguêsRomânăРусскийСрпски / srpskiSrpskohrvatski / српскохрватскиУкраїнська中文
+		Edit links
+		 This page was last edited on 15 January 2020, at 23:34 (UTC).
+		Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+		Privacy policy
+		About Wikipedia
+		Disclaimers
+		Contact Wikipedia
+		Mobile view
+		Developers
+		Statistics
+		Cookie statement

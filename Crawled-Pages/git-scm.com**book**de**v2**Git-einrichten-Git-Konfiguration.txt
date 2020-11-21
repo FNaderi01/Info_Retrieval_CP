@@ -1,0 +1,538 @@
+        About
+            Branching and Merging
+            Small and Fast
+            Distributed
+            Data Assurance
+            Staging Area
+            Free and Open Source
+            Trademark
+        Documentation
+            Reference
+            Book
+            Videos
+            External Links
+        Downloads
+            GUI Clients
+            Logos
+        Community
+This book is available in
+  English.
+  Full translation available in
+    български език,
+    Deutsch,
+    Español,
+    Français,
+    Ελληνικά,
+    日本語,
+    한국어,
+    Nederlands,
+    Русский,
+    Slovenščina,
+    Tagalog,
+    Українська
+    简体中文,
+  Partial translations available in
+    Čeština,
+    Македонски,
+    Polski,
+    Српски,
+    Ўзбекча,
+    繁體中文,
+  Translations started for
+    azərbaycan dili,
+    Беларуская,
+    فارسی,
+    Indonesian,
+    Italiano,
+    Bahasa Melayu,
+    Português (Brasil),
+    Português (Portugal),
+    Svenska,
+    Türkçe.
+The source of this book is  hosted on GitHub.
+Patches, suggestions and comments are welcome.
+  Chapters ▾
+  1. Erste Schritte
+          1.1
+          Was ist Versionsverwaltung? 
+          1.2
+          Kurzer Überblick über die Historie von Git 
+          1.3
+          Was ist Git? 
+          1.4
+          Die Kommandozeile 
+          1.5
+          Git installieren 
+          1.6
+          Git Basis-Konfiguration 
+          1.7
+          Hilfe finden 
+          1.8
+          Zusammenfassung 
+  2. Git Grundlagen
+          2.1
+          Ein Git-Repository anlegen 
+          2.2
+          Änderungen nachverfolgen und im Repository speichern 
+          2.3
+          Anzeigen der Commit-Historie 
+          2.4
+          Ungewollte Änderungen rückgängig machen 
+          2.5
+          Mit Remotes arbeiten 
+          2.6
+          Taggen 
+          2.7
+          Git Aliases 
+          2.8
+          Zusammenfassung 
+  3. Git Branching
+          3.1
+          Branches auf einen Blick 
+          3.2
+          Einfaches Branching und Merging 
+          3.3
+          Branch-Management 
+          3.4
+          Branching-Workflows 
+          3.5
+          Remote-Branches 
+          3.6
+          Rebasing 
+          3.7
+          Zusammenfassung 
+  4. Git auf dem Server
+          4.1
+          Die Protokolle 
+          4.2
+          Git auf einem Server einrichten 
+          4.3
+          Erstellung eines SSH-Public-Keys 
+          4.4
+          Einrichten des Servers 
+          4.5
+          Git-Daemon 
+          4.6
+          Smart HTTP 
+          4.7
+          GitWeb 
+          4.8
+          GitLab 
+          4.9
+          Von Drittanbietern gehostete Optionen 
+          4.10
+          Zusammenfassung 
+  5. Verteiltes Git
+          5.1
+          Verteilter Arbeitsablauf 
+          5.2
+          An einem Projekt mitwirken 
+          5.3
+          Ein Projekt verwalten 
+          5.4
+          Zusammenfassung 
+  6. GitHub
+          6.1
+          Einrichten und Konfigurieren eines Kontos 
+          6.2
+          Mitwirken an einem Projekt 
+          6.3
+          Ein Projekt betreuen 
+          6.4
+          Verwalten einer Organisation 
+          6.5
+          Skripte mit GitHub 
+          6.6
+          Zusammenfassung 
+  7. Git Tools
+          7.1
+          Revisions-Auswahl 
+          7.2
+          Interaktives Stagen 
+          7.3
+          Stashen und Bereinigen 
+          7.4
+          Ihre Arbeit signieren 
+          7.5
+          Suchen 
+          7.6
+          Den Verlauf umschreiben 
+          7.7
+          Reset entzaubert 
+          7.8
+          Fortgeschrittenes Merging 
+          7.9
+          Rerere 
+          7.10
+          Debuggen mit Git 
+          7.11
+          Submodule 
+          7.12
+          Bundling 
+          7.13
+          Replace (Ersetzen) 
+          7.14
+          Anmeldeinformationen speichern 
+          7.15
+          Zusammenfassung 
+  8. Git einrichten
+          8.1
+          Git Konfiguration 
+          8.2
+          Git-Attribute 
+          8.3
+          Git Hooks 
+          8.4
+          Beispiel für Git-forcierte Regeln 
+          8.5
+          Zusammenfassung 
+  9. Git und andere Systeme
+          9.1
+          Git als Client 
+          9.2
+          Migration zu Git 
+          9.3
+          Zusammenfassung 
+  10. Git Interna
+          10.1
+          Basisbefehle und Standardbefehle (Plumbing and Porcelain) 
+          10.2
+          Git Objekte 
+          10.3
+          Git Referenzen 
+          10.4
+          Packdateien (engl. Packfiles) 
+          10.5
+          Die Referenzspezifikation (engl. Refspec) 
+          10.6
+          Transfer Protokolle 
+          10.7
+          Wartung und Datenwiederherstellung 
+          10.8
+          Zusammenfassung 
+  A1. Appendix A: Git in anderen Umgebungen
+          A1.1
+          Grafische Schnittstellen 
+          A1.2
+          Git in Visual Studio 
+          A1.3
+          Git in Visual Studio Code 
+          A1.4
+          Git in Eclipse 
+          A1.5
+          Git in IntelliJ / PyCharm / WebStorm / PhpStorm / RubyMine 
+          A1.6
+          Git in Sublime Text 
+          A1.7
+          Git in Bash 
+          A1.8
+          Git in Zsh 
+          A1.9
+          Git in PowerShell 
+          A1.10
+          Zusammenfassung 
+  A2. Appendix B: Git in Ihre Anwendungen einbetten
+          A2.1
+          Die Git-Kommandozeile 
+          A2.2
+          Libgit2 
+          A2.3
+          JGit 
+          A2.4
+          go-git 
+          A2.5
+          Dulwich 
+  A3. Appendix C: Git Kommandos
+          A3.1
+          Setup und Konfiguration 
+          A3.2
+          Projekte importieren und erstellen 
+          A3.3
+          Einfache Snapshot-Funktionen 
+          A3.4
+          Branching und Merging 
+          A3.5
+          Projekte gemeinsam nutzen und aktualisieren 
+          A3.6
+          Kontrollieren und Vergleichen 
+          A3.7
+          Debugging 
+          A3.8
+          Patchen bzw. Fehlerkorrektur 
+          A3.9
+          E-mails 
+          A3.10
+          Externe Systeme 
+          A3.11
+          Administration 
+          A3.12
+          Basisbefehle 
+      2nd Edition
+    8.1 Git einrichten - Git Konfiguration
+  Bisher haben wir die grundlegende Funktionsweise und die Verwendung von Git erläutert, sowie eine Reihe von Tools vorgestellt, die Ihnen helfen sollen, Git einfach und effizient zu nutzen.
+In diesem Kapitel werden wir zeigen, wie Sie Git noch individueller einsetzen können, indem Sie einige wichtige Konfigurationen anpassen und das Hook-System anwenden.
+Mit diesen Tools ist es einfach, Git genau so einzurichten, wie Sie, Ihr Unternehmen oder Ihre Gruppe es benötigen.
+Git Konfiguration
+Wie Sie in Kapitel 1, Erste Schritte bereits kurz gelesen haben, können Sie die Git-Konfigurationseinstellungen mit dem Befehl git config anpassen.
+Eine der ersten Dinge, die Sie vorgenommen haben, war die Einrichtung Ihres Namens und Ihrer E-Mail-Adresse:
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+Jetzt lernen Sie einige der interessanteren Optionen kennen, die Sie auf diese Weise festlegen können, um Ihre Nutzung von Git zu optimieren.
+Zunächst eine kleine Übersicht: Git verwendet eine Reihe von Konfigurationsdateien, um das Standard-Verhalten, wie gewünscht, zu verändern.
+Die erste Option, in der Git nach solchen Werten sucht, ist die globale Datei [path]/etc/gitconfig, die Einstellungen enthält, die auf jeden Benutzer auf dem System und alle seine Repositorys angewendet werden.
+Wenn Sie die Option --system an git config übergeben, wird diese Datei gezielt ausgelesen und geschrieben.
+Der nächste Ort, an dem Git nachschaut, ist die Datei ~/.gitconfig (oder ~/.config/git/config), die für jeden Benutzer spezifisch ist.
+Sie können Git veranlassen, diese Datei zu lesen und zu schreiben, indem Sie die Option --global übergeben.
+Schließlich sucht Git nach Informationen in der Konfigurations-Datei im Git-Verzeichnis (.git/config) des jeweiligen Repositorys, das Sie gerade verwenden.
+Diese Werte sind spezifisch für dieses spezielle Repository und werden bei Übergabe der Option --local an git config angewendet.
+Wenn Sie nicht angeben, welchen Level Sie ansprechen möchten, ist das die Voreinstellung.
+Jeder dieser „Level“ (system, global, lokal) überschreibt Werte der vorigen Ebene. Daher werden beispielsweise Werte in .git/config jene in [path]/etc/gitconfig überschreiben.
+Note
+Die Konfigurationsdateien von Git sind reine Textdateien, so dass Sie diese Werte auch einstellen können, wenn Sie die Datei manuell bearbeiten und dabei die richtige Syntax verwenden.
+Es ist jedoch generell einfacher, den git config Befehl zu benutzen.
+Grundeinstellungen des Clients
+Die von Git erkannten Einstelloptionen lassen sich in zwei Kategorien einteilen: client-seitig und serverseitig.
+Die meisten Optionen beziehen sich auf die Clientseite – die Konfiguration Ihrer persönlichen Arbeitseinstellungen.
+Sehr sehr viele Konfigurationsoptionen stehen zur Verfügung, aber ein großer Teil davon ist nur in bestimmten Grenzfällen sinnvoll. Wir werden hier nur die gebräuchlichsten und nützlichsten Optionen behandeln.
+Wenn Sie eine Liste aller Optionen sehen möchten, die Ihre Version von Git kennt, können Sie Folgendes aufrufen:
+$ man git-config
+Dieser Befehl listet alle verfügbaren Optionen detailliert auf.
+Sie finden dieses Referenzmaterial auch unter Git-Config.
+core.editor
+Um Ihre Commit- und Tag-Beschreibungen erstellen/bearbeiten zu können verwendet Git das von Ihnen als Standard-Text-Editor eingestellte Programm aus einer der Shell-Umgebungs-Variablen VISUAL oder EDITOR. Alternativ greift Git auf den vi-Editor zurück.
+Diesen Standard können Sie ändern, indem Sie die Einstellung core.editor verwenden:
+$ git config --global core.editor emacs
+Jetzt wird Git Emacs starten, unabhängig davon, was als Standard-Shell-Editor eingestellt ist, um die Beschreibungen zu bearbeiten.
+commit.template
+Wenn Sie dieses Attribut auf die Pfadangabe einer Datei auf Ihrem System setzen, verwendet Git diese Datei als initiale Standard-Nachricht, wenn Sie einen Commit durchführen.
+Der Vorteil bei der Erstellung einer benutzerdefinierten Commit-Vorlage besteht darin, dass Sie sie verwenden können, um sich (oder andere) beim Erstellen einer Commit-Nachricht an das richtige Format und den richtigen Stil zu erinnern.
+Nehmen wir z.B. eine Template-Datei unter ~/.gitmessage.txt, die so aussieht:
+Subject line (try to keep under 50 characters)
+Multi-line description of commit,
+feel free to be detailed.
+[Ticket: X]
+Beachten Sie, wie diese Commit-Vorlage den Committer daran erinnert, die Betreffzeile kurz zu halten (für die git log --oneline Ausgabe), weitere Details hinzuzufügen und sich auf ein Problem oder eine Bug-Tracker-Ticketnummer zu beziehen, falls vorhanden.
+Um Git anzuweisen, das als Standardnachricht zu verwenden, die in Ihrem Editor erscheint, wenn Sie git commit ausführen, setzen Sie den Konfigurationswert commit.template:
+$ git config --global commit.template ~/.gitmessage.txt
+$ git commit
+Dann öffnet sich Ihr Text-Editor in etwa so für Ihre platzhaltergemäße Commit-Beschreibung, wenn Sie committen:
+Subject line (try to keep under 50 characters)
+Multi-line description of commit,
+feel free to be detailed.
+[Ticket: X]
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD &lt;file&gt;..." to unstage)
+#
+# modified:   lib/test.rb
+#
+~
+~
+".git/COMMIT_EDITMSG" 14L, 297C
+Mit einer eigenen Regel für Commit-Beschreibungen und dem Einfügen einer entsprechenden Vorlage in die Git-Konfiguration Ihres Systems erhöht sich die Wahrscheinlichkeit, dass diese Regel regelmäßig eingehalten wird.
+core.pager
+Diese Einstellung bestimmt, welcher Pager genutzt werden soll, wenn git den Output von log und diff seitenweise ausgeben soll.
+Den Wert kann auf more oder wie von Ihnen bevorzugt eingestellt werden (Standard ist less). Sie können ihn deaktivieren, indem Sie eine leere Zeichenkette verwenden:
+$ git config --global core.pager ''
+Wenn Sie das benutzen, wird Git die komplette Ausgabe aller Befehle abrufen, unabhängig davon, wie lang sie sind.
+user.signingkey
+Wenn Sie signierte annotierte Tags erstellen (wie in Kapitel 7, Ihre Arbeit signieren beschrieben), erleichtert die Definition Ihres GPG-Signierschlüssels in der Konfigurations-Einstellung die Arbeit.
+Stellen Sie Ihre Schlüssel-ID so ein:
+$ git config --global user.signingkey &lt;gpg-key-id&gt;
+Jetzt können Sie Tags signieren, ohne jedes Mal Ihren Schlüssel mit dem Befehl git tag angeben zu müssen:
+$ git tag -s &lt;tag-name&gt;
+core.excludesfile
+Sie können Suchmuster in die .gitignore Datei Ihres Projekts einfügen. Damit können Sie verhindern, dass Git, so bestimmte Dateien, als nicht in der Versionsverwaltung erfasste Dateien erkennt oder sie zum Commit vormerkt, wenn Sie git add darauf ausführen, wie in Kapitel 2, Ignorieren von Dateien beschrieben.
+In manchen Fällen sollen bestimmte Dateien für alle Repositorys ignoriert werden, in denen Sie arbeiten.
+Falls Sie macOS verwenden, kennen Sie vermutlich die .DS_Store Dateien.
+Bei Emacs oder Vim kennen Sie Dateinamen, die mit einer Tilde (~) oder auf .swp enden.
+Mit dieser Einstellung können Sie eine gewisse, globale .gitignore Datei schreiben.
+Erstellen Sie eine ~/.gitignore_global Datei mit diesem Inhalt:
+*~
+.*.swp
+.DS_Store
+… und Sie führen git config --global core.excludesfile ~/.gitignore_global aus. Git wird sich nie wieder um diese Dateien kümmern.
+help.autocorrect
+Wenn Sie einen Befehl vertippen, zeigt das System Ihnen so etwas wie das hier:
+$ git chekcout master
+git: 'chekcout' is not a git command. See 'git --help'.
+The most similar command is
+    checkout
+Git versucht behilflich zu sein, um herauszufinden, was Sie gemeint haben, aber es verweigert es immer noch die Ausführung.
+Wenn Sie help.autocorrect auf 1 setzen, dann führt Git diesen Befehl tatsächlich aus:
+$ git chekcout master
+WARNING: You called a Git command named 'chekcout', which does not exist.
+Continuing under the assumption that you meant 'checkout'
+in 0.1 seconds automatically...
+Beachten Sie die „0,1 Sekunden“ Aktivität.
+help.autocorrect ist eigentlich eine Ganzzahl, die Zehntelsekunden repräsentiert.
+Wenn Sie den Wert auf 50 setzen, gibt Ihnen Git 5 Sekunden Zeit, Ihre Meinung zu ändern, bevor der autokorrigierte Befehl ausgeführt wird.
+Farben in Git
+Git unterstützt die farbige Terminalausgabe, was sehr nützlich ist, um die Befehlsausgabe schnell und einfach visuell zu analysieren.
+Eine Reihe von Optionen können Ihnen helfen, die Farbgestaltung nach Ihren Wünschen einzustellen.
+color.ui
+Git färbt den größten Teil seiner Ausgabe automatisch ein, aber es gibt einen Hauptschalter, wenn Ihnen dieses Verhalten nicht gefällt.
+Um alle farbigen Terminalausgaben von Git auszuschalten, verfahren Sie wie folgt:
+$ git config --global color.ui false
+Die Standardeinstellung ist auto, das die Ausgabe von Farben ausgibt, wenn es direkt zu einem Terminal geht, aber die Farbkontrollcodes weglässt, wenn die Ausgabe in eine Pipe oder eine Datei umgeleitet wird.
+Sie können es auch auf always einstellen, dass der Unterschied zwischen Terminals und Pipes immer ignoriert wird.
+Das werden Sie nur selten wollen; in den meisten Szenarien können Sie stattdessen ein --color Flag an den Git-Befehl übergeben, um ihn zu zwingen, Farbcodes zu verwenden, wenn Sie Farbcodes in Ihrer umgeleiteten Ausgabe wünschen.
+Die Voreinstellung ist fast immer die richtige.
+color.*
+Wenn Sie genauer bestimmen möchten, welche Befehle wie eingefärbt werden, dann bietet Git spezifische Farbeinstellungen.
+Die einzelnen Befehle können auf true, false, oder always gesetzt werden:
+color.branch
+color.diff
+color.interactive
+color.status
+Darüber hinaus hat jede dieser Optionen Untereinstellungen, mit denen Sie bestimmte Farben für Teile der Ausgabe festlegen können, wenn Sie die Farben überschreiben wollen.
+Um beispielsweise die Metainformationen in Ihrer Diff-Ausgabe auf blauen Vordergrund, schwarzen Hintergrund und fetten Text zu setzen, können Sie Folgendes ausführen:
+$ git config --global color.diff.meta "blue black bold"
+Sie können die Farbe auf einen der folgenden Werte setzen: normal, black, red, green, yellow, blue, magenta, cyan oder white.
+Wenn Sie ein Attribut wie im vorherigen Beispiel fett wünschen, können Sie zwischen bold (fett), dim (abgedunkelt), ul (unterstrichen), blink (blinken) und reverse (Vorder- und Hintergrund vertauschen) wählen.
+Externe Merge- und Diff-Tools
+Obwohl Git eine interne Diff-Implementierung hat, die wir in diesem Buch vorgestellt haben, können Sie stattdessen ein externes Tool verwenden.
+Sie können auch ein grafisches Tool zum Mergen und Lösen von Konflikten einrichten, anstatt Konflikte manuell lösen zu müssen.
+Wir zeigen Ihnen, wie Sie das Perforce Visual Merge Tool (P4Merge) einrichten, um Ihre Diffs und Merge-Ansichten zu analysieren, denn es ist ein praktisches grafisches Tool und kostenlos.
+Wenn Sie diese Software testen möchten – P4Merge läuft auf allen wichtigen Plattformen.
+Wir verwenden Pfadnamen in den Beispielen, die auf macOS- und Linux-Systemen funktionieren. Unter Windows müssen Sie /usr/local/bin in einen ausführbaren Pfad in Ihrer Umgebung ändern.
+Starten Sie mit P4Merge von Perforce downloaden.
+Richten Sie danach externe Wrapper-Skripte ein, um Ihre Befehle auszuführen.
+Wir verwenden hier den macOS-Pfad für die ausführbare Datei. In anderen Systemen sollte er so angepasst werden, dass er auf den Ordner verweist, in dem Ihre p4merge Binary installiert ist.
+Richten Sie ein Merge-Wrapper-Skript mit dem Namen extMerge ein, das Ihre Binärdatei mit allen angegebenen Argumenten aufruft:
+$ cat /usr/local/bin/extMerge
+#!/bin/sh
+/Applications/p4merge.app/Contents/MacOS/p4merge $*
+Der diff Wrapper überprüft, ob sieben Argumente angegeben sind und übergibt zwei davon an Ihr Merge-Skript.
+Standardmäßig übergibt Git die folgenden Argumente an das Diff-Programm:
+path old-file old-hex old-mode new-file new-hex new-mode
+Da Sie nur die Argumente old-file und new-file benötigen, verwenden Sie das Wrapper-Skript, um die benötigten zu übergeben.
+$ cat /usr/local/bin/extDiff
+#!/bin/sh
+[ $# -eq 7 ] &amp;&amp; /usr/local/bin/extMerge "$2" "$5"
+Sie müssen außerdem darauf achten, dass diese Tools lauffähig sind:
+$ sudo chmod +x /usr/local/bin/extMerge
+$ sudo chmod +x /usr/local/bin/extDiff
+Jetzt können Sie Ihre Konfigurationsdatei so einrichten, dass sie Ihre benutzerdefinierte Merge-Lösung und Diff-Tools nutzt.
+Dazu sind eine Reihe von benutzerdefinierten Einstellungen erforderlich: merge.tool, um Git mitzuteilen, welche Strategie zu verwenden ist, mergetool.&lt;tool&gt;.cmd, um anzugeben, wie der Befehl ausgeführt werden soll, mergetool.&lt;tool&gt;.trustExitCode, um Git mitzuteilen, ob der Exit-Code dieses Programms eine erfolgreiche Merge-Lösung anzeigt oder nicht, und diff.external, um Git mitzuteilen, welchen Befehl es für diffs ausführen soll.
+Sie können also entweder die vier Konfigurationsbefehle ausführen:
+$ git config --global merge.tool extMerge
+$ git config --global mergetool.extMerge.cmd \
+  'extMerge "$BASE" "$LOCAL" "$REMOTE" "$MERGED"'
+$ git config --global mergetool.extMerge.trustExitCode false
+$ git config --global diff.external extDiff
+oder Sie können die ~/.gitconfig Datei bearbeiten und diese Zeilen hinzufügen:
+[merge]
+  tool = extMerge
+[mergetool "extMerge"]
+  cmd = extMerge "$BASE" "$LOCAL" "$REMOTE" "$MERGED"
+  trustExitCode = false
+[diff]
+  external = extDiff
+Wenn das alles eingestellt ist, können Sie diff Befehle wie diesen ausführen:
+$ git diff 32d1776b1^ 32d1776b1
+Statt die Diff-Ausgabe auf der Kommandozeile zu erhalten, wird P4Merge von Git gestartet, was so ähnlich wie folgt aussieht:
+Figure 143. P4Merge
+Wenn Sie versuchen, zwei Branches zu verschmelzen und dabei Merge-Konflikte haben, können Sie den Befehl git mergetool ausführen. Er startet P4Merge, damit Sie diese Konflikte über das GUI-Tool lösen können.
+Das Tolle an diesem Wrapper-Setup ist, dass Sie Ihre Diff- und Merge-Tools einfach ändern können.
+Um beispielsweise Ihre Tools extDiff und extMerge so zu ändern, dass das KDiff3-Tool stattdessen ausgeführt wird, müssen Sie nur Ihre extMerge Datei bearbeiten:
+$ cat /usr/local/bin/extMerge
+#!/bin/sh
+/Applications/kdiff3.app/Contents/MacOS/kdiff3 $*
+Nun wird Git das KDiff3-Tool für das Diff-Viewing und die Lösung der Merge-Konflikte verwenden.
+Git ist standardmäßig so eingestellt, dass es eine Reihe anderer Tools zum Auflösen von Merges verwendet, ohne dass Sie die cmd-Konfiguration einrichten müssen.
+Um eine Liste der unterstützten Tools anzuzeigen, versuchen Sie es wie folgt:
+$ git mergetool --tool-help
+'git mergetool --tool=&lt;tool&gt;' may be set to one of the following:
+        emerge
+        gvimdiff
+        gvimdiff2
+        opendiff
+        p4merge
+        vimdiff
+        vimdiff2
+The following tools are valid, but not currently available:
+        araxis
+        bc3
+        codecompare
+        deltawalker
+        diffmerge
+        diffuse
+        ecmerge
+        kdiff3
+        meld
+        tkdiff
+        tortoisemerge
+        xxdiff
+Some of the tools listed above only work in a windowed
+environment. If run in a terminal-only session, they will fail.
+Wenn Sie nicht daran interessiert sind, KDiff3 für diff zu verwenden, sondern es nur für die Merge-Auflösung verwenden wollen und der Befehl kdiff3 in Ihrem Pfad steht, dann können Sie Folgendes ausführen:
+$ git config --global merge.tool kdiff3
+Wenn Sie diese Methode verwenden, ohne die Dateien extMerge und extDiff einzurichten, verwendet Git KDiff3 für die Merge-Auflösung und das normale Git diff-Tool für Diffs.
+Formatierung und Leerzeichen
+Formatierungs- und Leerzeichen-Probleme sind einige der frustrierendsten und schwierigeren Probleme, auf die viele Entwickler bei der Teamarbeit stoßen, vor allem in plattformübergreifenden Projekten.
+Es ist sehr einfach für Patches oder andere kollaborative Arbeiten, geringfügige Änderungen an Leerzeichen vorzunehmen, da die Editoren diese im Hintergrund einfügen. Falls Ihre Dateien jemals mit einem Windows-System in Kontakt kommen, werden ihre Zeilenenden möglicherweise ersetzt.
+Git hat einige Konfigurationsoptionen, um bei diesen Schwierigkeiten zu helfen.
+core.autocrlf
+Wenn Sie unter Windows programmieren und mit Leuten arbeiten, die andere Systeme verwenden (oder umgekehrt), werden Sie wahrscheinlich irgendwann auf Probleme mit den Zeilenenden treffen.
+Der Grund hierfür ist, dass Windows in seinen Dateien sowohl ein Carriage-Return-Zeichen als auch ein Linefeed-Zeichen für Zeilenumbrüche verwendet, während macOS- und Linux-Systeme nur das Linefeed-Zeichen verwenden.
+Viele Editoren unter Windows ersetzen im Hintergrund bestehende Zeilenenden im LF-Stil durch CRLF oder fügen beide Zeilenendezeichen ein, wenn der Benutzer die Eingabetaste drückt.
+Git kann das durch automatische Konvertierung von CRLF-Zeilenenden in LF übernehmen, wenn Sie eine Datei zum Index hinzufügen, und umgekehrt, wenn es Code auf Ihr Dateisystem auscheckt.
+Sie können diese Funktionen mit der core.autocrlf Einstellung einschalten.
+Wenn Sie sich auf einem Windows-Computer befinden, setzen Sie die Einstellung auf true – das konvertiert LF-Endungen in CRLF, wenn Sie Code auschecken:
+$ git config --global core.autocrlf true
+Auf einem Linux- oder macOS-System, das LF-Zeilenenden verwendet, sollten Sie nicht zulassen, dass Git Dateien automatisch konvertiert, wenn Sie sie auschecken. Falls jedoch versehentlich eine Datei mit CRLF-Endungen hinzugefügt wird, können Sie dafür sorgen, dass Git sie korrigiert.
+Sie können Git anweisen, CRLF beim Commit in LF zu konvertieren, aber nicht umgekehrt, indem Sie core.autocrlf auf input setzen:
+$ git config --global core.autocrlf input
+Dieses Setup sollte Ihnen CRLF-Endungen in Windows-Checkouts geben, aber LF-Endungen auf macOS- und Linux-Systemen und im Repository.
+Wenn Sie ein Windows-Programmierer sind, der ein reines Windows-Projekt durchführt, dann können Sie diese Funktionalität deaktivieren und die Carriage Returns im Repository aufzeichnen, indem Sie den Konfigurationswert auf false setzen:
+$ git config --global core.autocrlf false
+core.whitespace
+Git wird ursprünglich mit einer Voreinstellung zur Erkennung und Behebung einiger Leerzeichen-Probleme gestartet.
+Es kann nach sechs primären Leerzeichen-Problemen suchen – drei sind standardmäßig aktiviert und können deaktiviert werden, und drei sind standardmäßig deaktiviert, können aber aktiviert werden.
+Die drei, bei denen die Standardeinstellung eingeschaltet ist, sind blankk-at-eol, das nach Leerzeichen am Ende einer Zeile sucht; blankk-at-eof, das leere Zeilen am Ende einer Datei bemerkt und space-before-tab, das nach Leerzeichen vor Tabulatoren am Anfang einer Zeile sucht.
+Die drei, die standardmäßig deaktiviert sind, aber eingeschaltet werden können, sind indent-with-non-tab, das nach Zeilen sucht, die mit Leerzeichen anstelle von Tabs beginnen (und von der Option tabwidth kontrolliert werden); tab-in-indent, das nach Tabs im Einzug einer Zeile sucht und cr-at-eol, das Git mitteilt, dass Carriage Returns am Ende von Zeilen OK sind.
+Sie können mit Git bestimmen, welche dieser Optionen aktiviert werden sollen. Setzen Sie dazu, getrennt durch Kommas, core.whitespace auf den gewünschten Wert (ein oder aus).
+Sie können eine Option deaktivieren, indem Sie ein - (Minus-Zeichen) dem Namen voranstellen, oder den Standardwert verwenden, indem Sie ihn ganz aus der Zeichenkette der Einstellung entfernen.
+Wenn Sie z.B. möchten, dass alles außer space-before-tab gesetzt wird, können Sie das so machen (wobei trailing-space eine Kurzform ist, um sowohl blank-at-eol als auch blank-at-eof abzudecken):
+$ git config --global core.whitespace \
+    trailing-space,-space-before-tab,indent-with-non-tab,tab-in-indent,cr-at-eol
+Oder Sie können nur den anzupassenden Teil angeben:
+$ git config --global core.whitespace \
+    -space-before-tab,indent-with-non-tab,tab-in-indent,cr-at-eol
+Git wird diese Punkte erkennen, wenn Sie einen git diff Befehl ausführen und versuchen sie einzufärben, damit Sie sie gegebenenfalls vor der Übertragung beheben können.
+Es wird diese Werte auch verwenden, um Ihnen zu helfen, wenn Sie Patches mit git apply einspielen.
+Wenn Sie Patches installieren, können Sie Git bitten, Sie zu warnen, wenn es Patches mit den angegebenen Leerzeichen-Problemen anwendet:
+$ git apply --whitespace=warn &lt;patch&gt;
+Sie können auch Git versuchen lassen, das Problem automatisch zu beheben, bevor Sie den Patch einspielen:
+$ git apply --whitespace=fix &lt;patch&gt;
+Diese Optionen gelten auch für den Befehl git rebase.
+Wenn Sie Leerzeichen-Probleme committet haben, aber noch nicht zum Upstream geschoben haben, können Sie git rebase --whitespace=fix ausführen, damit Git Leerzeichen-Probleme automatisch behebt, während es die Patches neu schreibt.
+Server-Konfiguration
+Für die Serverseite von Git stehen nicht annähernd so viele Konfigurationsoptionen zur Verfügung. Es gibt jedoch einige wichtige Einstellungen, die Sie beachten sollten.
+receive.fsckObjects
+Git ist in der Lage zu kontrollieren, ob jedes während eines Pushs empfangene Objekt noch mit seiner SHA-1-Prüfsumme übereinstimmt und auf gültige Objekte zeigt.
+Standardmäßig tut es das jedoch nicht; es ist eine ziemlich aufwändige Operation und kann den Betrieb verlangsamen, insbesondere bei großen Repositorys oder Pushes.
+Wenn Sie möchten, dass Git bei jedem Push die Objektkonsistenz überprüft, können Sie es dazu zwingen, indem Sie receive.fsckObjects auf true setzen:
+$ git config --system receive.fsckObjects true
+Jetzt prüft Git die Integrität Ihres Repositorys, noch bevor jeder Push akzeptiert wird, um sicherzustellen, dass fehlerhafte (oder böswillige) Clients keine schädlichen Daten eingeben.
+receive.denyNonFastForwards
+Wenn Sie Commits rebasieren, die Sie bereits gepusht haben, und dann versuchen, erneut zu pushen, oder anderweitig versuchen, einen Commit an einen Remote-Branch zu senden, der nicht den Commit enthält, auf den der Remote-Zweig aktuell zeigt, werden Sie abgelehnt.
+Im Allgemeinen ist das eine gute Richtlinie. Bei dem Rebase können Sie festlegen den Remote-Branch mit einem -f Flag in Ihrem Push-Befehl zu aktualisieren, wenn Sie wissen, was Sie tun.
+Um Git anzuweisen, Force-Pushes abzulehnen, setzen Sie receive.denyNonFastForwards:
+$ git config --system receive.denyNonFastForwards true
+Die andere Möglichkeit ist, dass Sie das über serverseitige Receive-Hooks tun, die wir im weiteren Verlauf behandeln werden.
+Dieser Ansatz ermöglicht es Ihnen, komplexere Dinge zu tun, wie z.B. einem bestimmten Teil der Benutzer die Möglichkeit „non-fast-forwards“ zu verweigern.
+receive.denyDeletes
+Ein möglicher Workaround für die denyNonFastForwards Regel besteht darin, dass der Benutzer den Branch löscht und ihn dann mit einer neuen Referenz wieder nach oben pusht.
+Um das zu verhindern, setzen Sie receive.denyDeletes auf true:
+$ git config --system receive.denyDeletes true
+Dadurch wird das Löschen von Branches oder Tags verhindert – kein User darf das anwenden.
+Um dann Remote-Branches zu entfernen, müssen Sie die ref-Dateien manuell vom Server entfernen.
+Es gibt weitere interessante Möglichkeiten, das auf Benutzerebene über ACLs zu realisieren, wie Sie in Beispiel für Git-forcierte Regeln erfahren werden.
+prev | next
+    About this site
+    Patches, suggestions, and comments are welcome.
+    Git is a member of Software Freedom Conservancy

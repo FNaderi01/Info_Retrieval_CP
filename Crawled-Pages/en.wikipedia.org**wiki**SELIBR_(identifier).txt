@@ -1,0 +1,61 @@
+	LIBRIS
+		From Wikipedia, the free encyclopedia
+		  (Redirected from SELIBR (identifier))
+		Jump to navigation
+		Jump to search
+LIBRIS (Library Information System) is a Swedish national union catalogue maintained by the National Library of Sweden in Stockholm.[1] It is possible to freely search about 6.5 million titles nationwide.[2]
+In addition to bibliographic records, one for each book or publication, LIBRIS also contains an authority file of people. For each person there is a record connecting name, birth and occupation with a unique identifier.[citation needed]
+The MARC Code for the Swedish Union Catalog is SE-LIBR, normalized: selibr.[3]
+The development of LIBRIS can be traced to the mid-1960s.[4] While rationalization of libraries had been an issue for two decades after World War II, it was in 1965 that a government committee published a report on the use of computers in research libraries.[5] The government budget of 1965 created a research library council (Forskningsbiblioteksrådet, FBR).[6] A preliminary design document, Biblioteksadministrativt Information System (BAIS) was published in May 1970, and the name LIBRIS, short for Library Information System, was used for a technical subcommittee that started on 1 July 1970.[7] The newsletter LIBRIS-meddelanden (.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}ISSN 0348-1891) has been published since 1972[8] and is online since 1997.[9]
+References[edit]
+^ "LIBRIS". Nationalencyklopedin (in Swedish). Retrieved 27 July 2010. (subscription required)
+^ "LIBRIS database contents". National Library of Sweden. Retrieved 27 July 2010.
+^ Library of Congress Network Development and MARC Standards Office (5 April 2011). "Search the MARC Code List for Organizations Database". Library of Congress. Retrieved 22 August 2012.
+^ Lena Olsson, Det datoriserade biblioteket. Maskindrömmar på 70-talet (1995), PhD dissertation from Linköping University, Linköping Studies in Arts and Science 121, ISSN 0282-9800, ISBN 91-7871-492-3, Abstract online
+^ Databehandling i forskningsbibliotek (1965; in LIBRIS), cited in Olsson (1995), p. 51.
+^ Olsson (1995), p. 55.
+^ Olsson (1995), p. 103.
+^ Olsson (1995), p. 31.
+^ LIBRIS-meddelanden
+External links[edit]
+Wikidata has the property: 
+ SELIBR ID (P906) (see uses)
+National Library of Sweden: LIBRIS (select "In English" from the top menu, default language is Swedish)
+Open Data, Information about LIBRIS bibliographic records and authority file as open data, 3 April 2012.
+vteAuthority control filesAAG • ACM DL • ADB • AGSA • autores.uy • AWR • BALaT • BIBSYS • Bildindex • BNC • BNE • BNF • Botanist • BPN • CANTIC • CiNii • DAAO • DBLP • DSI • FNZA • GND • HDS • World Athletics • ICCU • ICIA • ISNI • Joconde • KulturNav • LCCN • LIR • LNB • Léonore • MusicBrainz • MGP • NARA • NCL • NDL • NGV • NKC • NLA • NLG • NLI • NLK • NLP • NLR • NSK • NTA • ORCID • PIC • ResearcherID • RERO • RKD • RKDimages ID • RSL • SELIBR • SIKART • SNAC • SUDOC • S2AuthorId • TA98 • TDVİA • TE • TePapa • TH • TLS • Trove • UKPARL • ULAN • US Congress • VcBA • VIAF • WorldCat Identities
+Authority control 
+GND: 4501169-2
+Retrieved from "https://en.wikipedia.org/w/index.php?title=LIBRIS&amp;oldid=913353075"
+		Categories: Libraries in SwedenLibrary cataloging and classificationHidden categories: CS1 Swedish-language sources (sv)Pages containing links to subscription-only contentUse dmy dates from August 2012All articles with unsourced statementsArticles with unsourced statements from August 2012Wikipedia articles with GND identifiers
+	Navigation menu
+		Personal tools
+		Not logged inTalkContributionsCreate accountLog in
+		Namespaces
+		ArticleTalk
+		Variants
+		Views
+		ReadEditView history
+		More
+		Search
+		Navigation
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		Contribute
+		HelpLearn to editCommunity portalRecent changesUpload file
+		Tools
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		Print/export
+		Download as PDFPrintable version
+		Languages
+		AfrikaansالعربيةAsturianuभोजपुरीБългарскиCatalàCymraegDanskDeutschΕλληνικάEspañolEsperantoEuskaraفارسیFrançaisGàidhligGalego한국어हिन्दीIlokanoBahasa IndonesiaМакедонскиBahasa MelayuNederlandsNordfriiskNorsk bokmålNorsk nynorskPolskiPortuguêsRomânăSimple EnglishSlovenčinaSlovenščinaSrpskohrvatski / српскохрватскиSvenskaTürkçeTiếng Việt中文
+		Edit links
+		 This page was last edited on 31 August 2019, at 15:36 (UTC).
+		Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+		Privacy policy
+		About Wikipedia
+		Disclaimers
+		Contact Wikipedia
+		Mobile view
+		Developers
+		Statistics
+		Cookie statement

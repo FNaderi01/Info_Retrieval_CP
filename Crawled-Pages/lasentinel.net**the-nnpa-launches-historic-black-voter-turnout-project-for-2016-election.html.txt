@@ -1,0 +1,318 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+The NNPA Launches Historic Black Voter Turnout Project for 2016 Election            
+				By Benjamin Chavis, President and CEO of the NNPA                
+	                	                Published September 7, 2016
+		Dr. Benjamin F. Chavis, Jr., the president and CEO of the NNPA, says that the United States of America is once again at a pivotal and crucial political crossroads. The outcome of the November 8th national elections will determine the future of the nation and of the world.
+The National Newspaper Publishers Association (NNPA) proudly asserts that, “We are the authentic voice of Black America.” We must use that voice as an urgent clarion call for a massive, historic and unprecedented Black American voter turnout on November 8, 2016 across the nation.
+The NNPA is launching “Project Black Voter Turnout 2016: 20 Million Black Voters to the Polls.” We’re calling on our entire NNPA membership, comprised of more than 211 Black-owned media companies operating in the United States, to issue front-page news coverage and motivational editorials and to present banner ads on their publication websites, to promote effective Get-Out-The-Vote (GOTV) campaigns in the Black community.
+It is an undisputed fact that a record number of Black Americans (16,133,000) voted in 2008 and helped Barack H. Obama to become the first Black President of the United States. Then, in 2012, Black Americans broke their 2008 record for voter turnout, casting 17,813,000 votes. In 2012, for the first time in American history, Black voter turnout (66.2 percent) at the national level exceeded White voter turnout (64.1 percent).
+        ADVERTISEMENT        
+The United States of America is once again at a pivotal and crucial political crossroads. The outcome of the November 8th national elections will determine the future of the nation and of the world.
+This is a propitious moment, not only for 47 million Black Americans, but this is also the time for all Americans to decide whether or not American democracy will finally fully embrace the goals of freedom, justice, equality and empowerment for all people.
+Don’t let anybody attempt to suggest that your vote doesn’t count. Every vote counts. For some strange reason, there are several national pundits that are once again predicting a low voter turnout by Black America. These external pollsters and political observers really don’t know Black America.
+This is one of the reasons why the NNPA and other Black-owned media companies are so strategically important. The NNPA not only knows the facts about Black America, the NNPA also reports and defends the interests of Black America without apology or compromise of principle and integrity.
+For nearly 190 years, the Black Press in America has been and continues to be the “trusted voice” of Black America. No political party should take the Black vote for granted. Our votes have mattered and our votes will continue to matter. We will make the critical difference in the outcome of the upcoming national elections.
+We have both a sacred obligation and a historic responsibility to ensure that we will have the largest Black American voter turnout in history. Why? Because the overall quality of life of our families and communities is at stake. Our energy, actions, and spirits must remain high and we have to fully engage the electoral process locally, regionally and nationally.
+The NNPA’s “Project Black Voter Turnout 2016: 20 Million Black Voters to the Polls” will work in coalition with other national organizations: The National Coalition on Black Civic Participation, NAACP, Rainbow Push, National Action Network, National Urban League, Southern Christian Leadership Conference, Black Lives Matter, National Baptist Convention, Progressive National Baptist Convention, AME, AME Zion, COGIC, UCC, and the National Council of Churches.
+“Project Black Voter Turnout 2016” will engage the Black community and all voters in print, online and through social media. Please join our efforts by following us on Facebook, Twitter and Instagram @BlackPressUSA, @NNPA_BlackPress and @NAACP and using the hashtags #BlackPressMatters and #BlackVotesMatter.
+Our time is now. Let’s all work together. Let’s get out the vote!
+Dr. Benjamin F. Chavis, Jr. is the President and CEO of the National Newspaper Publishers Association (NNPA) and can be reached for national advertisement sales and partnership proposals at dr.bchavis@nnpa.org and for lectures and other professional consultations at: http://drbenjaminfchavisjr.wix.com/drbfc. You can follow Dr. Chavis on Twitter @drbenchavis.
+		Categories: Local | National | News | Political Tags: Benjamin Chavis | elections | National Newspaper Publishers Association | NNPA | Project Black Voter Turnout 2016: 20 Million Black Voters to the Polls | vote | voter | Voting		
+						The California African American Museum Opens Its Fall Season
+						Comcast’s Internet Essentials Helps Low-Income Families Bridge the Digita...
+						LA County Endorses LA City’s $1.2 Billion Bond Measure To Build Housing f...
+						FNCC 13th Annual Luncheon Celebration 
+						Hundreds of Local Children Join Councilman Curren D. Price, Jr. to Unveil N...
+						Local Professional Fitness Trainer Goes To Rio Olympics
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

@@ -1,0 +1,323 @@
+        About
+            Branching and Merging
+            Small and Fast
+            Distributed
+            Data Assurance
+            Staging Area
+            Free and Open Source
+            Trademark
+        Documentation
+            Reference
+            Book
+            Videos
+            External Links
+        Downloads
+            GUI Clients
+            Logos
+        Community
+This book is available in
+  English.
+  Full translation available in
+    български език,
+    Deutsch,
+    Español,
+    Français,
+    Ελληνικά,
+    日本語,
+    한국어,
+    Nederlands,
+    Русский,
+    Slovenščina,
+    Tagalog,
+    Українська
+    简体中文,
+  Partial translations available in
+    Čeština,
+    Македонски,
+    Polski,
+    Српски,
+    Ўзбекча,
+    繁體中文,
+  Translations started for
+    azərbaycan dili,
+    Беларуская,
+    فارسی,
+    Indonesian,
+    Italiano,
+    Bahasa Melayu,
+    Português (Brasil),
+    Português (Portugal),
+    Svenska,
+    Türkçe.
+The source of this book is  hosted on GitHub.
+Patches, suggestions and comments are welcome.
+  Chapters ▾
+  1. 시작하기
+          1.1
+          버전 관리란? 
+          1.2
+          짧게 보는 Git의 역사 
+          1.3
+          Git 기초 
+          1.4
+          CLI 
+          1.5
+          Git 설치 
+          1.6
+          Git 최초 설정 
+          1.7
+          도움말 보기 
+          1.8
+          요약 
+  2. Git의 기초
+          2.1
+          Git 저장소 만들기 
+          2.2
+          수정하고 저장소에 저장하기 
+          2.3
+          커밋 히스토리 조회하기 
+          2.4
+          되돌리기 
+          2.5
+          리모트 저장소 
+          2.6
+          태그 
+          2.7
+          Git Alias 
+          2.8
+          요약 
+  3. Git 브랜치
+          3.1
+          브랜치란 무엇인가 
+          3.2
+          브랜치와 Merge 의 기초 
+          3.3
+          브랜치 관리 
+          3.4
+          브랜치 워크플로 
+          3.5
+          리모트 브랜치 
+          3.6
+          Rebase 하기 
+          3.7
+          요약 
+  4. Git 서버
+          4.1
+          프로토콜 
+          4.2
+          서버에 Git 설치하기 
+          4.3
+          SSH 공개키 만들기 
+          4.4
+          서버 설정하기 
+          4.5
+          Git 데몬 
+          4.6
+          스마트 HTTP 
+          4.7
+          GitWeb 
+          4.8
+          GitLab 
+          4.9
+          또 다른 선택지, 호스팅 
+          4.10
+          요약 
+  5. 분산 환경에서의 Git
+          5.1
+          분산 환경에서의 워크플로 
+          5.2
+          프로젝트에 기여하기 
+          5.3
+          프로젝트 관리하기 
+          5.4
+          요약 
+  6. GitHub
+          6.1
+          계정 만들고 설정하기 
+          6.2
+          GitHub 프로젝트에 기여하기 
+          6.3
+          GitHub 프로젝트 관리하기 
+          6.4
+          Organization 관리하기 
+          6.5
+          GitHub 스크립팅 
+          6.6
+          요약 
+  7. Git 도구
+          7.1
+          리비전 조회하기 
+          7.2
+          대화형 명령 
+          7.3
+          Stashing과 Cleaning 
+          7.4
+          내 작업에 서명하기 
+          7.5
+          검색 
+          7.6
+          히스토리 단장하기 
+          7.7
+          Reset 명확히 알고 가기 
+          7.8
+          고급 Merge 
+          7.9
+          Rerere 
+          7.10
+          Git으로 버그 찾기 
+          7.11
+          서브모듈 
+          7.12
+          Bundle 
+          7.13
+          Replace 
+          7.14
+          Credential 저장소 
+          7.15
+          요약 
+  8. Git맞춤
+          8.1
+          Git 설정하기 
+          8.2
+          Git Attributes 
+          8.3
+          Git Hooks 
+          8.4
+          정책 구현하기 
+          8.5
+          요약 
+  9. Git과 여타 버전 관리 시스템
+          9.1
+          Git: 범용 Client 
+          9.2
+          Git으로 옮기기 
+          9.3
+          요약 
+  10. Git의 내부
+          10.1
+          Plumbing 명령과 Porcelain 명령 
+          10.2
+          Git 개체 
+          10.3
+          Git Refs 
+          10.4
+          Packfile 
+          10.5
+          Refspec 
+          10.6
+          데이터 전송 프로토콜 
+          10.7
+          운영 및 데이터 복구 
+          10.8
+          환경변수 
+          10.9
+          요약 
+  A1. Appendix A: 다양한 환경에서 Git 사용하기
+          A1.1
+          GUI 
+          A1.2
+          Visual Studio 
+          A1.3
+          Eclipse 
+          A1.4
+          Bash 
+          A1.5
+          Zsh 
+          A1.6
+          Git in Powershell 
+          A1.7
+          요약 
+  A2. Appendix B: 애플리케이션에 Git 넣기
+          A2.1
+          Git 명령어 
+          A2.2
+          Libgit2 
+          A2.3
+          JGit 
+          A2.4
+          go-git 
+  A3. Appendix C: Git 명령어
+          A3.1
+          설치와 설정 
+          A3.2
+          프로젝트 가져오기와 생성하기 
+          A3.3
+          스냅샷 다루기 
+          A3.4
+          Branch와 Merge 
+          A3.5
+          공유하고 업데이트하기 
+          A3.6
+          보기와 비교 
+          A3.7
+          Debugging 
+          A3.8
+          Patch 하기 
+          A3.9
+          Email 
+          A3.10
+          다른 버전 관리 시스템 
+          A3.11
+          관리 
+          A3.12
+          Plumbing 명령어 
+      2nd Edition
+    6.1 GitHub - 계정 만들고 설정하기
+  GitHub은 가장 큰 Git 저장소 호스트이다. 수백만 개발자가 모여서 수백만 프로젝트를 수행하는 중추다.
+Git 저장소를 GitHub에 만들어 운영하는 비율이 높다. 많은 오픈 소스 프로젝트는 GitHub을 이용해서 Git 호스팅, 이슈 트래킹, 코드 리뷰, 등등의 일을 한다.
+Git을 많이 사용하다 보면 Git 프로젝트 자체에는 참여하지 않더라도 GitHub을 꼭 써야 하는 상황이 오거나 스스로 쓰고 싶어질 것이다.이 장은 GitHub을 잘 쓰는 방법을 설명한다.
+계정을 생성해서 관리하는 방법, Git 저장소를 만들고 사용하는 방법, 프로젝트에 기여하거나 다른 사람의 기여를 받아들이는 방법, 프로그래밍 가능한 GitHub 인터페이스, 각종 팁으로 삶을 편하게 만드는 방법을 살펴본다.프로젝트를 GitHub에 만들 생각이 없거나 GitHub에 있는 프로젝트에 참여할 생각이 없으면 그냥 Git 도구로 넘어가도 된다.
+계정 만들고 설정하기
+가장 먼저 할 일은 무료 사용자 계정을 만드는 일이다.
+https://github.com에 방문해서 사용자이름과 이메일 주소, 암호를 입력하고 “Sign up for GitHub” 이라는 큰 녹색 버튼을 누른다.
+Figure 82. GitHub 가입 폼.
+다음 보이는 화면은 유료 옵션에 대한 안내 페이지인데, 지금은 무시한다.
+GitHub는 입력한 이메일 주소로 확인 메일을 보냈을 것이다.
+메일의 지시를 따르자. 나중에 살펴볼 테지만 이 과정은 매우 중요하다.
+Note
+무료 계정도 GitHub 기능을 전부 사용할 수 있다. 딱 한 가지 제약이 있는데 모든 사람이 읽을 수 있는 공개 프로젝트만 만들 수 있다.
+GitHub에 돈을 내면 비공개 프로젝트도 만들 수 있지만, 이 책에서 설명하지 않는다.
+화면 왼쪽 꼭대기에 있는 Octocat 로고를 클릭하면 대시보드 페이지로 이동한다.
+이제 GitHub을 사용할 준비가 된 것이다.
+SSH 사용하기
+이제는 https:// 프로토콜로도 Git 저장소를 사용하는 데 부족함이 없다. 간단히 사용자이름과 암호로 인증만 하면 된다.
+공개 프로젝트를 Clone 하는 데는 인증도 필요 없다. 우리가 만든 계정은 프로젝트를 Fork 하고 그 프로젝트에 Push 할 때가 돼야 비로소 필요하다.
+SSH 리모트를 쓰려면 공개키를 설정해야 한다.
+(아직 공개키가 없으면 SSH 공개키 만들기를 참고)
+아래 Windows의 오른쪽 꼭대기에 있는 계정 설정 링크를 클릭하자.
+Figure 83. “계정 설정” 링크.
+그 왼쪽 메뉴에서 “SSH keys” 를 선택한다.
+Figure 84. “SSH keys” 링크.
+여기서 "Add an SSH key" 버튼을 클릭한다. 키 이름을 적당히 입력하고 ~/.ssh/id_rsa.pub 파일의 내용을 입력 칸에 복사해 넣는다. 그리고 “Add key” 버튼을 클릭한다.
+Note
+SSH key 이름은 기억하기 쉬운 걸로 짓는다.
+"내 노트북"이나 "회사 계정"같이 구분하기 쉬운 이름으로 짓는다. 나중에 키를 삭제할 때 헷갈리지 않고 바로 알 수 있도록 짓는 것이 중요하다.
+아바타
+자동으로 생성해준 아바타를 다른 아바타로 바꿀 수도 있다.
+“SSh Keys” 탭 위에 있는 “Profile” 탭으로 가서 “Upload new picture” 를 클릭한다.
+Figure 85. “Profile” 링크.
+여기서는 여러분의 하드디스크에 있을 Git 로고를 선택하고 필요한 만큼 자른다.
+Figure 86. 아바타 자르기.
+이제부터 GitHub 사이트에서 어디에서든 사용자이름 옆에 아바타가 보인다.
+Gravatar 서비스에 아바타를 업로드 한 적이 있으면 자동으로 그 아바타가 사용되고 지금 이 단계를 밟을 필요가 없다.
+사용자 이메일 주소
+GitHub는 Git 커밋에 있는 이메일 주소를 보고 어떤 사용자인지 식별한다.
+사용자가 이메일 주소를 여러 개 사용해서 커밋했어도 GitHub에 그 이메일을 모두 등록하기만 했으면 GitHub는 잘 처리한다. “Emails” 화면에서 모두 등록한다.
+Figure 87. 이메일 주소 추가하기.
+이메일 주소 추가하기.의 이메일 주소는 각각 다른 상태다.
+첫 번째 주소는 이미 확인을 한 주(Primary) 주소이다. 알림이나 영수증 메일은 주 주소로 간다.
+두 번째 주소도 확인한 주소로 주 주소로 변경 할 수 있는 상태다.
+마지막 주소는 아직 확인이 안되어 주 주소로 변경할 수 없다.
+저장소의 커밋 메시지에 이 주소 세 개 중 하나라도 있으면 GitHub가 해당 사용자 계정 페이지로 링크를 걸어준다.
+투팩터 인증
+더 안전한 보안을 위해서 “2FA”(투팩터 인증)을 설정한다.
+2FA는 최근 들어 인기가 높아지는 인증 메커니즘이다. 암호를 도둑맞았을 때 위험을 완화하기 위해 사용한다.
+2FA를 활성화 시키면 GitHub에 로그인 할 때 인증수단이 두 가지 필요하다(역주 - 기존 로그인 방식에 OTP나 SMS를 추가). 둘 중 한 가지 방법만 뚫려서는 공격자가 계정에 접근할 수 없다.
+2FA 설정 화면은 계정 설정 페이지의 Security 탭에 있다.
+Figure 88. Security 탭에 있는 2FA
+“Set up two-factor authentication” 버튼을 클릭하면 2FA 설정 페이지로 이동한다. “TOTP(Time based One-Time 암호” 를 생성하는 스마트폰 앱을 사용하는 방식을 고르거나 GitHub가 인증 코드를 SMS로 전송해주는 방식을 고를 수 있다. 설정하면 로그인할 때 TOTP나 인증코드가 필요하다.
+마음에 드는 인증 방법을 고르고 지시에 따라 2FA를 설정한다. GitHub에 로그인할 때마다 한 가지 코드를 더 입력해야 한다. 이제 계정은 좀 더 안전해졌다.
+prev | next
+    About this site
+    Patches, suggestions, and comments are welcome.
+    Git is a member of Software Freedom Conservancy

@@ -1,0 +1,328 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Lawyer: $1.9 million settlement in Sandra Bland lawsuit             
+				By Jason Keyser and Michael Graczyk, Associated Press                
+	                	                Published September 21, 2016
+		Geneva Reed-Veal, left, mother of Sandra Bland, a black Chicago-area woman who died in a Texas jail after a contentious traffic stop last summer, talks about the $1.9 million settlement in their wrongful death lawsuit, at family’s attorney’s office, Thursday, Sept. 15, 2016, in Chicago. Bland died in her cell at the Waller County Jail three days after she was arrested by a white Texas state trooper for a minor traffic offense in July 2015. Her death was ruled a suicide, and Bland’s family later sued the county and the Texas Department of Public Safety. (AP Phoro/Kiichiro Sato)
+The mother of Sandra Bland, a black woman who died last summer in a Texas jail after a contentious traffic stop, has reached a $1.9 million settlement in her wrongful-death lawsuit, her attorney said on Thursday September 15.
+Local officials in Texas insisted the agreement was not yet final, but the mother’s attorney said the deal was “absolute” and that the family’s lawsuit would be dismissed in several days.
+Bland, who was from the Chicago area, died in her cell days after she was pulled over by a white Texas state trooper for a minor traffic offense. Her death was ruled a suicide, and Bland’s family later sued Waller County and the Texas Department of Public Safety.
+        ADVERTISEMENT        
+The settlement includes a requirement that the jail have a nurse or emergency medical technician on duty 24 hours a day, the family’s Chicago-based attorney, Cannon Lambert, told The Associated Press in an interview at his office.
+The jail must also install electronic sensors to ensure guards are checking on detainees, and the defendants agree to help push for statewide legislation in Bland’s name that would require training to ensure jail personnel are properly caring for inmates, Lambert said.
+Bland’s mother, Geneva Reed-Veal, said those requirements beyond the monetary settlement are what really mattered to her, and she vowed to make sure they are carried out.
+“Today is a victory for all mothers across the country,” she told the AP. “It was never just about Sandy. It was about all mothers who have lost their children unjustly to police brutality, to senseless gun violence.”
+Waller County attorney Larry Simmons confirmed that a potential settlement had been reached but said it was not final. He also said the parties agreed in writing to keep the agreement confidential until it was complete, and the county intended “to honor this commitment.”
+Simmons said lawyers on both sides were “still working through a few details” and that any settlement must be approved by county commissioners. The county “vigorously” denies any fault or wrongdoing in Bland’s death, he said, “and the settlement does not involve any such admissions.”
+The agreement would cost the county “a modest $1,000 deductible” under its liability insurance, he said.
+The Texas Department of Public Safety, also named as a defendant, released a statement saying it “has not settled litigation regarding Sandra Bland and is not a party to any agreements between the plaintiffs and Waller County defendants.”
+Jeff Rensberger, a professor at the Houston College of Law, said the settlement showed that both the county and its insurance carrier wanted to “get this behind them.”
+“The cost of the settlement is good risk to them as compared to the risk what a jury might do in this case,” he said.
+The other provisions attached to the agreement, while unusual, are “not rare or unheard of,” particularly in a wrongful-death lawsuit against a government agency, Rensberger said.
+“Part of the motivation for bringing wrongful-death suits in cases like this is for reform purposes as well as compensation,” he said. “So this goes to that reform purpose.”
+It was unclear how much those extra requirements would cost to implement, but Lambert said the reforms would certainly benefit local authorities, too.
+Bland, 28, was pulled over by a state trooper in Prairie View, northwest of Houston, for changing lanes without signaling. The stop grew confrontational, and the trooper, Brian Encinia, ordered her from the car before forcing her to the ground. She was taken into custody on a charge of assaulting a public servant but could not immediately come up with the $500 bail, according to investigators.
+Video from the July 10, 2015, traffic stop shows Encinia drawing his stun gun and telling Bland, “I will light you up!” She can later be heard screaming off-camera that the trooper was about to break her wrists and complaining that he knocked her head into the ground. The video provoked national outrage and drew the attention of the Black Lives Matter movement.
+Encinia was later fired and charged with a misdemeanor perjury charge stemming from the arrest. He has pleaded not guilty.
+In an affidavit, Encinia said he removed Bland “from her vehicle to further conduct a safer traffic investigation,” but prosecutors said Waller County grand jurors found that statement to be false.
+Bland, who attended Prairie View A&amp;M University just outside Hempstead, was in the process of moving to Texas from the Chicago area to take a job at the school. Three days after her arrest, she was found hanging from a jail cell partition. A medical examiner ruled the death a suicide, and a grand jury declined to charge any sheriff’s officials or jailers.
+In their lawsuit, Bland’s family contended jailers should have checked on her more frequently and that the county should have performed mental evaluations once she disclosed she had a history of attempting suicide.
+The family’s complaint also contended that the trooper who arrested Bland falsified the assault allegation to take her into custody and that jail personnel failed to keep her safe. County officials said Bland was treated well while locked up and produced documents that showed she gave jail workers inconsistent information about whether she was suicidal.
+		Categories: National | News Tags: $1.9 million settlement | Associated Press | Geneva Reed-Veal | Jason Keyser and Michael Graczyk | Lawyer | Sandra Bland lawsuit		
+						Trial Lawyer Justin Sanders Talks Winning $1.1 Million Police Brutality Cas...
+						Harris Reaches Out to Faith Leaders as Election Nears
+						National Black MBA Association and National Society of Black Engineers
+						Amber Finch Installed as new President of Black Women Lawyers Association o...
+						Memorial to confront South’s troubled history of lynchings
+						Thousands Attend Grand Opening Ceremonies for the New Black History Museum
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

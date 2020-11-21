@@ -1,0 +1,332 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+USC Interim President Dr. Wanda Austin Goes 1-on-1 with the L.A. Sentinel              
+				By Lauren A. Jones, Contributing Writer                  
+	                	                Published October 4, 2018
+		USC interim President Wanda Austin speaks during new student convocation, August 16, 2018. (Photo by Gus Ruelas/USC)
+Dr. Wanda Austin was appointed as the first African American female interim president at the University of Southern California, a university with nearly 45,000 students and an endowment of over $5 billion.  
+“I’m an alum, I’m a trustee, I really have a passion for USC and that experience is critical to connecting to our values and to be able to share with the very diverse population that we have here, that I understand the needs of all of our stakeholders,” explained Dr. Austin in an interview with the L.A. Sentinel.  
+Austin, who took over for Max C.L. Nikias as USC’s president, graduated with her doctorate in engineering from USC’s Viterbi School of Engineering in 1988. Since 2010, she has served on the USC Board of Trustees. In 2018, she received the USC Presidential Medallion and was asked to take over as interim president of the university in August 2018. Austin is no stranger to leadership roles that require managing high expectations.  
+        ADVERTISEMENT        
+The New York City native has an extensive background in aerospace engineering having served on President Obama’s Council of Advisors on Science and Technology until January 2017 where she advised the President on the intersection of science, technology and innovation as it related to forming effective U.S. policy.  
+She also served as the first female and first Black CEO of the Aerospace Corporation, an independent, non-profit organization dedicated to the application of science and technology toward critical issues affecting the nation’s space program. For eight years, Austin led the organization’s 3600 employees and managed annual revenues of $950 million at 17 offices nationwide.  
+Austin, the second oldest of three girls, first learned of her passion for math and the sciences, when she was in seventh grade. She recalled having her teacher share in front of her entire class how skilled she was, “‘Wanda you’re really good at this don’t ever let anyone tell you that you’re not.’” 
+Austin’s parents were always supportive of her receiving a quality education, even if that meant being bussed out of her neighborhood for school. She went on to attend The Bronx High School of Science.  
+“That enabled me then to go off to college,” said Austin. “For an African American girl, in an all-White school that was very empowering and encouraging.”   
+Austin went on to earn her a B.A. in mathematics from Franklin &amp; Marshall College, an M.S. degrees in systems engineering and mathematics from the University of Pittsburgh and ultimately her PhD from USC.  
+LAS: Can you describe that moment, when you were first asked by the board of trustees to fill in as USC’s interim president? 
+Dr. Austin: I would tell you that I was honored and delighted that the board had confidence that I could help lead us during this interim period as we do a search for the next president. I am very committed to USC, I believe it is a world-class university and that it is doing phenomenal things not only on campus, but also in the community so I was happy to serve in this capacity. 
+McCarthy Honors College and USC interim President Wanda Austin pose for a group shot during move-in day at USC, August 15, 2018. (Photo/Gus Ruelas)
+LAS: Amidst such controversy that you’re taking over, what has the response been like from your appointment and the reception? 
+Dr. Austin: The reception has been overwhelmingly positive and upbeat. We have gone through a challenging period as many institutions do when you have institutions of this size, but I believe that based on my experience and history and demonstrated track record with respect to leadership that the community is confident that I will focus on the right things. 
+LAS: You’re no stranger to being the first, do you feel like your position with the Aerospace Corporation prepared you in any way for this position with USC. 
+Dr. Austin: I would say that my experience in being the CEO of the Aerospace Corporation, my experience with serving on nonprofit and for-profit boards, such as the Chevron and AMGEN board has provided me with outstanding experience from an organizational leadership perspective that will help me as I lead at USC. 
+LAS: The #MeToo movement has become increasingly prevalent in today’s workforce, as a woman of color in a male-dominated field, what advice would you give to young women striving to attain your success? 
+Dr. Austin: The first piece of advice I would offer is to make sure that you are putting in the work so that you can be your best whatever your field is prepare yourself so that you can communicate to everyone in your network people in your family about what your vision is for yourself or to alert you to other opportunities too.  
+Thirdly, if you feel that you’re running into barriers, work through do a sound check to see if I am saying this correctly, it’s really important for women to speak up in the sense of making sure people understand what their objectives [are]I think people will knock down. 
+LAS: If you could share a message with the Trojan family about the future of USC, what would that message be?[Text Wrapping Break][Text Wrapping Break]Dr. Austin: That’s a great question. I would talk about my vision for the university going forward, USC’s education research and patient care missions are very strong. We have an opportunity to make some improvements in our process that are going to strengthen us I think we’ll be an example to others about how to improve governance in higher education. I believe that we are on a good path. I want to make sure that we create an environment where people can feel confident that they can be the best that they can be and achieve their full potential. 
+In Austin’s short tenure as interim president, she has implemented school-wide policies to help in the prevention of negligence as it relates to medical care and student’s safety. She helped to establish the USC Office of Professionalism and Ethics, which was formed to manage complaints of misconduct across both of the universities’ campuses. The goal of the office is to provide university leaders with the information they need to respond quickly when problems arise. It will also track ongoing investigations to ensure they are completed as quickly as possible and that corrective action is taken to protect the USC community. 
+“We’ve made significant changes at the student health center, which is professionally overseen by the Keck School of Medicine now which is a significant change,” commented Austin.  
+USC has hired 10 new mental health counselors, several new doctors including more certified female gynecologist, and new experts in sexual assault prevention. Austin emphasized the importance of transitioning the university through better practices from the top down.  
+“There are some key things that we want to focus on going forward,” started Austin. “First is communication, to increase our communication with our internal and external communities and second is to make sure that everyone understands our priority to provide a safe and secure environment; and [finally] to encourage people to if you see something that you think is not right, to say something.” 
+The past eight years under Nikias’ leadership, the university saw the creation of two new schools, the construction of the USC Village and the introduction of several new buildings to the University Park Campus. 
+Though Austin’s time as president has an expiration date, she wants to ensure to leave the university in a progressive state. The board of trustees have approved the formation of a search committee and the hiring of search firm Isaacson, Miller to coordinate the selection of a successor. A second search company, Heidrick &amp; Struggles, will also advise trustees.  
+“Our goal is to complete this search within four to six months,” according to USC board Chairman Rick Caruso.
+		Categories: Crenshaw &amp; Around | Education | Local | News Tags: Black president at USC | Dr. Wanda Austin | first African American female interim president at the University of Southern California | Lauren A. Jones | nterim president at USC | University of Southern California | USC board Chairman Rick Caruso		
+						Pair Face Death Penalty for Murder, Torture of 10-Year-Old Boy
+						Convicted Murderer Sentenced to LWOP for Three Murders
+						Student Athlete of the Week: Manny Wilkins
+						Suge Knight Sentenced for 2015 Fatal Hit-and-Run
+						Man Sentenced For 2014 Shootout with Sheriff’s Deputies
+						Man Charged with Assault  with Semi-Automatic Firearm
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

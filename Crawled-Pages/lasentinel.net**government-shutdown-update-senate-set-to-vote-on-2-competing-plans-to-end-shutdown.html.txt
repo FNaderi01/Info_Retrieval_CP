@@ -1,0 +1,332 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+GOVERNMENT SHUTDOWN UPDATE: Senate Set to Vote on 2 Competing Plans to End Shutdown            
+				By Associated Press - ANDREW TAYLOR, JILL COLVIN and LISA MASCARO                
+	                	                Published January 22, 2019
+		Senate Majority Leader Mitch McConnell, R-Ky., joined by, from left, Sen. John Barrasso, R-Wyo., Sen. John Thune, R-S.D., and Majority Whip John Cornyn, R-Texas,  (AP Photo/J. Scott Applewhite)
+WASHINGTON (AP) — Senate leaders on Tuesday agreed to vote this week on two competing proposals to end the government shutdown, including President Donald Trump’s plan to have Congress pay for the long-stalled wall along the U.S.-Mexico border. It’s likely to fail.
+The other measure, from Democrats, also seems unlikely to pass. It would temporarily reopen the government through Feb. 8 while talks on border security continue.
+Either package would need to hit the 60-vote threshold to advance on Thursday, a tall order in the narrowly divided Senate where Republicans hold a 53-47 majority. Trump’s wall is the key sticking point in his standoff with Democrats that has led to a partial government shutdown.
+        ADVERTISEMENT        
+But the agreement reached to at least start voting sets the stage for senators to give serious thought to the options as the shutdown enters a second month, and some 800,000 federal workers face another Friday without paychecks.
+Senate Democratic leader Chuck Schumer predicted Trump’s proposal “will be roundly defeated.” But the Democratic bill, which already passed in the House, “could break us out of the morass we are in,” he said.
+“If you’re looking for a way to open up the government, this is the way,” the New York senator said.
+Republicans, though, downplayed the stopgap measure and said it would also fail.
+Senate Republicans pressed ahead Tuesday with Trump’s plan to reopen the government, finance his wall and provide some deportation protections for “Dreamer” immigrants.
+Convening the Senate, Senate Majority Leader Mitch McConnell said Trump’s 1,300-page spending measure — including $5.7 billion to fund the wall — “would break through this stalemate and would reopen government swiftly and deliver on a number of other policy priorities.”
+Democrats, though, panned Trump’s proposal and said the immigrant protections are inadequate — only offering temporary deportation relief that Trump helped cause by announcing an end to the Deferred Action for Childhood Arrivals program protecting young “Dreamer” immigrants.
+“Open the government. Let’s talk,” said House Speaker Nancy Pelosi. “The (Dreamers) had their protections. …. The president took it away, and now he is saying, ‘I’ll give you this back temporarily if you give me a wall permanently.’”
+“It’s not a compromise,” added Schumer. “It’s more hostage-taking.”
+Trump is offering three years of protection against deportation for immigrants brought to the country illegally as children. He had tried to end the Obama-era program in 2017, though the issue remains before the courts.
+As drafted, the bill is a nonstarter with Democrats, but McConnell appears hopeful that it could be a starting point for negotiations since it embraces immigration concepts backed by Democrats. McConnell has been adamant that he’ll only take up legislation that Trump will sign.
+“The proposal outlined by President Trump that we will consider here in the Senate is the only proposal, the only one currently before us, that can be signed by the president and immediately reopen the government,” McConnell said.
+White House spokesman Hogan Gidley, asked by Fox News whether Trump has given McConnell his word that he will sign the legislation if it clears both chambers of Congress: “Well, that’s a big if. We don’t know what the final bill would look like. But the president has been clear about what he wants.”
+The Republican plan is a trade-off: Trump’s border wall funding in exchange for temporary protection from deportation for some immigrants. To try to draw more bipartisan support, it adds $12.7 billion in supplemental funding for regions hit by hurricanes, wildfires and other natural disasters.
+All told, it would provide about $350 billion for nine Cabinet departments whose budgets are stalled. Other than the wall and immigration-related provisions, the core measure hews closely to a package of spending bills unveiled by House Democrats last week.
+In exchange for $5.7 billion for Trump’s wall, the legislation would extend temporary protections against deportation to around 700,000 immigrants covered by the Deferred Action for Childhood Arrivals program, or DACA. Trump has tried dismantling the Obama-era program for so-called “Dreamer” immigrants, those who arrived in the U.S. illegally as children, but has been blocked by federal lawsuits.
+That figure is substantially lower than the 1.8 million people Trump proposed protecting a year ago, which included people potentially eligible for DACA protections but who had not applied for them. In addition, Trump’s 2018 proposal included other immigration changes and $25 billion to pay the full costs of building his wall. His measure was among several the Senate rejected last February.
+The new Senate bill would also provide three more years of temporary protections against deportation to around 325,000 immigrants in the U.S. who have fled countries racked by natural disasters or violent conflicts. Trump has ended that program, called Temporary Protected Status, for El Salvador, which has the most holders of the protected status, as well as for Honduras, Nicaragua and several other countries.
+Another part of McConnell’s bill would tighten restrictions on minors from El Salvador, Guatemala and Honduras seeking asylum in the U.S. It was already drawing condemnation from Democrats and immigration advocates.
+The proposal would require asylum seekers under age 18 from those countries to apply for that status at special facilities in Central America, not at the U.S. border; allow no more than 15,000 to receive asylum annually; and bar them from appealing a decision to the courts.
+House Democrats, meanwhile, are pushing ahead with their legislation to reopen the government and add $1 billion for border security — including 75 more immigration judges and infrastructure improvements — but no funding for the wall.
+On Tuesday, Trump tweeted that Democrats are playing “political games” and repeated his claims that the wall is a solution to drugs and crime — although the Drug Enforcement Administration says only a small percentage of drugs comes into the country between ports of entry.
+“Without a Wall our Country can never have Border or National Security,” Trump tweeted. “With a powerful Wall or Steel Barrier, Crime Rates (and Drugs) will go substantially down all over the U.S. The Dems know this but want to play political games. Must finally be done correctly. No Cave!”
+The impact of the government’s longest-ever shutdown continues to ripple across the nation. The longest previous shutdown was 21 days in 1995-96, when Bill Clinton was president.
+		Categories: Daily Briefs Tags: 85 Years of LA Sentinel | Black News | Black Press		
+						California Governor Seeks to Transform Youth Prisons
+						WATCH: Rep. Bass Talks Congressional Black Caucus, Family Separation, Crimi...
+						Kamala Harris Raises $1.5 Million within 24 Hours of her Announcement to Ru...
+						House Oversight Committee Chair Elijah Cummings Launches Investigation of S...
+						WATCH: Jay-Z, Meek Mill and Members of the NFL Announce Formation of Crimin...
+						Cricket Wireless Celebrates African American History Month with Launch of S...
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

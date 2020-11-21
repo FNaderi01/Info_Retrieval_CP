@@ -1,0 +1,245 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+New York City
+							Black Fact of the Day: May 22, 2020- Brought to you by Black365
+					May 22, 2020Poet, essayist, and novelist Langston Hughes passed away in New York City, 1967. ... read more  »
+							Clarence Waldron Receives Lifetime Achievement Award
+					May 14, 2020Clarence Waldron, known as “the dean of arts and entertainment journalists” has been named the recipient of a 2020 Lifetime Achievement Award from the Chicago Headline Club’s Peter Lisagor Awards. ... read more  »
+							Social Distancing Serves a Critically Important Purpose to Protecting  Public Health and Curbing the Spreading of COVID-19
+					April 23, 2020Social crowding – individuals gathering less than six-feet apart – has been proven to enable the coronavirus (COVID-19) to spread through populations. The concept behind social distancing has been touted as an effective way of helping to stop the spread of COVID-19 by maintaining at least six feet of physical space from one another. ... read more  »
+        ADVERTISEMENT        
+							Council President Emeritus Herb Wesson Partners with Good+Foundation to Supply Families in Need with Free Diapers and Baby Wipes
+					March 26, 2020Los Angeles Council President Emeritus Herb Wesson has partnered with the Good+Foundation in Los Angeles to provide free diapers, baby wipes and toys to local families in need during the coronavirus outbreak.  The diapers and baby wipes will be distributed to local organizations that work with low-income families in Los Angeles County. ... read more  »
+							The Homelessness Crisis – We Are Better Than This
+					March 12, 2020There are half a million people, mostly men, mostly white, but way too many African Americans. African Americans are 13 percent of the population and 40 percent of the homeless. The homeless are primarily concentrated in California, New York, Florida, and Texas, but you can find them in almost any community. Two-thirds of the homeless are sheltered on a given night, but a third are sleeping on the streets, on park benches, in alleys, under awnings. To quote the late great Congressman Elijah Cummings, "we are better than this." ... read more  »
+							Joe Biden Wins Big in Mini Super Tuesday
+					March 12, 2020The win was a big boost for Biden, who had already grabbed wins in 10 of the 14 states that voted on Super Tuesday on March 3.  ... read more  »
+							For People of Color, Gentrification is More a Curse than a Blessing
+					February 27, 2020According to a March 2019 study by the National Community Reinvestment Coalition (NCRC), more than 135,000 Black and Hispanics around the nation were displaced between 2000 and 2012. Gentrification and displacement of long-time residents were most intense from 2000 to 2013 in the nation's biggest cities, and rare in most other places, according to the study. During those years, gentrification was concentrated in larger cities with vibrant economies but also appeared in smaller cities where it often impacted areas with the most amenities near central business districts. ... read more  »
+							From Child Phenom to Major Star, Dawnn Lewis Continues to Shine
+					February 13, 2020Dawnn Lewis (Manuel Harlan photo)
+Dawnn Lewis is like a close family friend. She’s endeared herself to audiences around the globe who watched her amazing growth from child phenom to major star. ... read more  »
+							Rapper-Actor-Producer Curtis ’50 Cent’ Jackson Receives Walk of Fame Star
+					February 6, 2020A star on the Hollywood Walk of Fame was unveiled honoring rapper-actor-producer Curtis "50 Cent'' Jackson, 10 days before the finale of the Starz crime drama he produces and appears in, "Power.'' ... read more  »
+							Unemployed Californians With No Children Could Lose Food Stamps
+					January 23, 2020Last week, the state of California joined 13 other states — as well as New York City and the District of Columbia — in a lawsuit filed against a new Trump Administration food stamp policy scheduled to take effect April 1.
+ ... read more  »
+							Bowers Saluted as Central Ave. Business Icon
+					November 28, 2019Horace Bowers, Sr. has made a tremendous impression on the historic Central Avenue corridor in South L.A. He and his wife, Alice, purchased a small dry cleaning plant in 1960 and today, they own the whole block. ... read more  »
+							Mothers of Trayvon Martin, Eric Garner Join NNPA, Others in Opposing NYC Menthol Ban
+					October 24, 2019Opponents of the ban fear that it would give police another reason to profile African Americans. ... read more  »
+							Black News Channel (BNC) TV Launches in America
+					October 17, 2019BNC, which officially launches at 6 a.m. on Friday, November 15, 2019 has agreements with Charter Communications, Comcast and DISH TV. The network already has commitments for carriage in major African American hubs like Atlanta, New York City, Chicago, New Orleans, Houston, Philadelphia, Detroit, Washington, DC, Baltimore and Los Angeles. ... read more  »
+							RZA teamed Up with Imagine Television and Alex Tse to Create Hulu’s 10 Episode Series ‘Wu-Tang: An American Saga’ — Explosive and Thought-Provoking
+					September 20, 2019The 10-episode scripted series is much bigger than just being an origin story. It begins there, of course, giving the audience a glimpse into how the Staten Island crew changed hip-hop forever. Imagine the type of vision one must hold on to—in Staten Island (not sexy Manhattan, or the gritty Bronx) to make the “impossible” — possible. It’s King Kong big!
+ ... read more  »
+							Black Fact of the Day: August 16, 2019 – Brought to you by Black365
+					August 16, 2019On this day, August 16, 1958, actress and activist Angela Bassett was born in New York City, New York.
+Brought to you by the Black365 Calendar. ... read more  »
+        &lt;&lt; Older Posts
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->

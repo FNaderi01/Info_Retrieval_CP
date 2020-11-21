@@ -1,0 +1,267 @@
+    Skip to Main Content
+        The Keyword
+               Latest stories
+              Product updates
+    Product updates
+            Android, Chrome &amp; Play
+                  Android
+                  Chrome
+                  Chromebooks
+                  Google Play
+                  Wear OS by Google
+            Connected home
+                  Chromecast
+                  Google Nest
+                  Google Wifi
+            In the cloud
+                  Docs, Sheets and Slides
+                  Gmail
+                  Google Cloud
+                  Meet
+                  More on the Cloud blog
+            Hardware
+                  Pixel
+                  Pixelbook
+                  Stadia
+            Explore &amp; get answers
+                  Earth
+                  Google Assistant
+                  Maps
+                  Search
+                  Photos
+                  Translate
+      See all product updates
+            Android, Chrome &amp; Play
+                    Android
+                    Chrome
+                    Chromebooks
+                    Google Play
+                    Wear OS by Google
+            Connected home
+                    Chromecast
+                    Google Nest
+                    Google Wifi
+            In the cloud
+                    Docs, Sheets and Slides
+                    Gmail
+                    Google Cloud
+                    Meet
+                    More on the Cloud blog
+            Hardware
+                    Pixel
+                    Pixelbook
+                    Stadia
+            Explore &amp; get answers
+                    Earth
+                    Google Assistant
+                    Maps
+                    Search
+                    Photos
+                    Translate
+        See all product updates
+              Company news
+    Company news
+            Outreach &amp; initiatives
+                  Diversity and inclusion
+                  Education
+                  Google.org
+                  Grow with Google
+                  Sustainability
+                  See all
+            Technology
+                  AI
+                  Developers
+                  Families
+                  Next billion users
+                  Safety and security
+                  See all
+            Inside Google
+                  Data centers and infrastructure
+                  Doodles
+                  Googlers
+                  Life at Google
+                  See all
+            Around the globe
+                  Google in Africa
+                  Google in Asia
+                  Google in Europe
+                  Google in Latin America
+                  See all
+            Perspectives
+                  Sundar Pichai, CEO
+                  Ruth Porat, SVP and CFO
+                  Kent Walker, SVP
+                  See all
+            Outreach &amp; initiatives
+                    Diversity and inclusion
+                    Education
+                    Google.org
+                    Grow with Google
+                    Sustainability
+            See all
+            Technology
+                    AI
+                    Developers
+                    Families
+                    Next billion users
+                    Safety and security
+            See all
+            Inside Google
+                    Data centers and infrastructure
+                    Doodles
+                    Googlers
+                    Life at Google
+            See all
+            Around the globe
+                    Google in Africa
+                    Google in Asia
+                    Google in Europe
+                    Google in Latin America
+            See all
+            Perspectives
+                    Sundar Pichai, CEO
+                    Ruth Porat, SVP and CFO
+                    Kent Walker, SVP
+            See all
+    Subscribe
+        Press corner
+        RSS feed
+    Subscribe
+            The Keyword
+               Latest stories
+              Product updates
+    Product updates
+            Android, Chrome &amp; Play
+                  Android
+                  Chrome
+                  Chromebooks
+                  Google Play
+                  Wear OS by Google
+            Connected home
+                  Chromecast
+                  Google Nest
+                  Google Wifi
+            In the cloud
+                  Docs, Sheets and Slides
+                  Gmail
+                  Google Cloud
+                  Meet
+                  More on the Cloud blog
+            Hardware
+                  Pixel
+                  Pixelbook
+                  Stadia
+            Explore &amp; get answers
+                  Earth
+                  Google Assistant
+                  Maps
+                  Search
+                  Photos
+                  Translate
+      See all product updates
+              Company news
+    Company news
+            Outreach &amp; initiatives
+                  Diversity and inclusion
+                  Education
+                  Google.org
+                  Grow with Google
+                  Sustainability
+                  See all
+            Technology
+                  AI
+                  Developers
+                  Families
+                  Next billion users
+                  Safety and security
+                  See all
+            Inside Google
+                  Data centers and infrastructure
+                  Doodles
+                  Googlers
+                  Life at Google
+                  See all
+            Around the globe
+                  Google in Africa
+                  Google in Asia
+                  Google in Europe
+                  Google in Latin America
+                  See all
+            Perspectives
+                  Sundar Pichai, CEO
+                  Ruth Porat, SVP and CFO
+                  Kent Walker, SVP
+                  See all
+            Press corner
+            RSS feed
+    Subscribe
+        Accessibility
+      How DIVA makes Google Assistant more accessible
+    Copy link
+                How DIVA makes Google Assistant more accessible
+    Lorenzo Caggioni
+        Software Engineer and DIVA Developer
+      Published May 8, 2019
+    Copy link
+          My 21 year old brother Giovanni loves to listen to music and movies. But because he was born with congenital cataracts, Down syndrome and West syndrome, he is non-verbal. This means he relies on our parents and friends to start or stop music or a movie.  Over the years, Giovanni has used everything from DVDs to tablets to YouTube to Chromecast to fill his entertainment needs. But as new voice-driven technologies started to emerge, they also came with a different set of challenges that required him to be able to use his voice or a touchscreen. That’s when I decided to find a way to let my brother control access to his music and movies on voice-driven devices without any help. It was a way for me to give him some independence and autonomy.Working alongside my colleagues in the Milan Google office, I set up Project DIVA, which stands for DIVersely Assisted. The goal was to create a way to let people like Giovanni trigger commands to the Google Assistant without using their voice. We looked at many different scenarios and methodologies that people could use to trigger commands, like pressing a big button with their chin or their foot, or with a bite.  For several months we brainstormed different approaches and presented them at different accessibility and tech events to get feedback.We had a bunch of ideas on paper that looked promising. But in order to turn those ideas into something real, we took part in an Alphabet-wide accessibility innovation challenge and built a prototype which went on to win the competition. We identified that many assistive buttons available on the market come with a 3.5mm jack, which is the kind many people have on their wired headphones. For our prototype, we created a box to connect those buttons and convert the signal coming from the button to a command sent to the Google Assistant.
+          To move from a prototype to reality, we started working with the team behind Google Assistant Connect, and today we are announcing DIVA at Google I/O 2019. The real test, however, was giving this to Giovanni to try out. By touching the button with his hand, the signal is converted into a command sent to the Assistant. Now he can listen to music on the same devices and services our family and all his friends use,  and his smile tells the best story. Getting this to work for Giovanni was just the start for Project DIVA. We started with single-purpose buttons, but this could be extended to more flexible and configurable scenarios. Now, we are investigating attaching RFID tags to objects and associating a command to each tag. That way, a person might have a cartoon puppet trigger a cartoon on the TV, or a physical CD trigger the music on their speaker. Learn more about the idea behind the DIVA project at our publication site, and learn how to build your own device at our technical site.
+        Posted in:
+Accessibility
+Diversity and Inclusion
+Google Home
+Google Assistant
+    Related stories
+                Google Assistant
+                "Hey Google" now works with your Android apps
+                  By
+                    Adam Coimbra
+                 Oct 8, 2020
+                Android
+                Important household sounds become more accessible
+                  Receive notifications of important household sounds around you by enabling Sound Notifications, a new Android accessibility feature.
+                  By
+                    Sagar Savla
+                    Sharlene Yuan
+                 Oct 8, 2020
+                Android
+                6 ways your Android is getting more helpful this fall
+                  By
+                    Baris Gultekin
+                 Oct 8, 2020
+                Google Assistant
+                New updates make Google Assistant even more accessible
+                  By
+                    Praveen Chandran
+                 Oct 6, 2020
+                Accessibility
+                Doing more to design for and with people with disabilities
+                  By
+                    Eve Andersson
+                 Oct 6, 2020
+                Nest
+                The Nest team let us in on their at-home sound setups
+                  By
+                    Brianna LaFleur
+                 Oct 5, 2020
+        .
+        Let’s stay in touch. Get the latest news from Google in your inbox.
+        Subscribe
+        No thanks
+      Please check your network connection and
+        try again.
+        The latest news from Google, in your inbox.
+    First name
+    Email address
+          Sign up to receive news and other stories from Google.
+          Your information will be used in accordance with
+          Google's privacy policy. You may opt out at any time.
+          Subscribe
+        Done! Check your inbox toconfirm your subscription.
+       OK, got it 
+              Follow Us
+            Privacy
+            Terms
+            About Google
+            Google Products
+              About the Keyword
+              Help

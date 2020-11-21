@@ -1,0 +1,173 @@
+Git Mailing List Archive on lore.kernel.org
+ help / color / Atom feedFrom: "SZEDER Gábor" &lt;szeder.dev@gmail.com&gt;
+To: Git Mailing List &lt;git@vger.kernel.org&gt;
+Cc: Elijah Newren &lt;newren@gmail.com&gt;
+Subject: Re: [BUG?] 'git rebase --abort' couldn't abort aborted rebase
+Date: Fri, 7 Feb 2020 14:21:52 +0100
+Message-ID: &lt;20200207132152.GC2868@szeder.dev&gt; (raw)
+In-Reply-To: &lt;20200207114954.GB2868@szeder.dev&gt;
+On Fri, Feb 07, 2020 at 12:49:54PM +0100, SZEDER Gábor wrote:
+&gt; On Fri, Feb 07, 2020 at 12:10:08PM +0100, SZEDER Gábor wrote:
+&gt; &gt; That's a good subject, isn't it? :)
+&gt; &gt; 
+&gt; &gt; So, to clarify: apparently it is possible to abort an ongoing 'git
+&gt; &gt; rebase' process with ctrl-C in just the right moment that a subsequent
+&gt; &gt; 'git rebase --abort' will refuse to clear it up.
+&gt; &gt; 
+&gt; &gt; I somehow messed up the upstream and branch parameters of 'git
+&gt; &gt; rebase', and ended up trying to rebase a fairly recent (post v2.24.0)
+&gt; &gt; branch on top of v2.22.0.  Upon seeing the unexpectedly large number
+&gt; &gt; of patches I realized that something is wrong, hit ctrl-C right away,
+&gt; &gt; and this is what happened:
+&gt; &gt; 
+&gt; &gt;   $ git rebase v2.22.0 &lt;a-branch-on-top-of-2.24.0&gt;
+&gt; &gt;   First, rewinding head to replay your work on top of it...
+&gt; &gt;   Generating patches: 100% (1108/1108), done.
+&gt; &gt;   Applying: send-email: move the read_config() function above getopts
+&gt; &gt;   Applying: send-email: rename the @bcclist variable for consistency
+&gt; &gt;   Applying: send-email: do defaults -&gt; config -&gt; getopt in that order
+&gt; &gt;   Using index info to reconstruct a base tree...
+&gt; &gt;   M       git-send-email.perl
+&gt; &gt;   M       t/t9001-send-email.sh
+&gt; &gt;   Falling back to patching base and 3-way merge...
+&gt; &gt;   Auto-merging t/t9001-send-email.sh
+&gt; &gt;   Auto-merging git-send-email.perl
+&gt; &gt;   ^C
+&gt; &gt;   ((5f07da12ac...) *|REBASE 3/1108)$ git rebase --abort 
+&gt; &gt;   error: could not read '/home/szeder/src/git/.git/worktrees/WT/rebase-apply/head-name': No such file or directory
+&gt; &gt;    
+&gt; &gt; "Fortunately" it was in a separate worktree, so I could easily get out
+&gt; &gt; of the situation by forcibly deleting that worktree.  Unfortunately,
+&gt; &gt; that was exactly what I did, instead of securing the failed state for
+&gt; &gt; later analysis...  sorry.
+&gt; 
+&gt; &gt; All this is with a git built from current 'next', with a bunch of
+&gt; &gt; unrelated (none of them touches rebase or the sequencer) patches on
+&gt; &gt; top.
+&gt; 
+&gt; Trying to reproduce it is a hit or miss... well, mostly miss :)
+&gt; 
+&gt; There is a rather short window when 'git rebase' applies patches
+&gt; before hitting a first merge conflict.  If the ctrl-C arrives before
+&gt; 'git rebase' starts applying patches, then it cleans everything up,
+&gt; and we are not rebasing, so there is no need for 'git rebase --abort'.
+&gt; Once 'git rebase' stops because of the merge conflict we get our shell
+&gt; back, and 'git rebase --abort' works as it should.  But after a good
+&gt; couple of tries I managed to hit ctrl-C while 'git rebase' was
+&gt; applying patches:
+This patch below increases the size of the window where a ctrl-C gets
+us into that problematic situation:
+diff --git a/builtin/am.c b/builtin/am.c
+index 8181c2aef3..5d62766000 100644
+--- a/builtin/am.c
++++ b/builtin/am.c
+@@ -1737,6 +1737,14 @@ static void am_run(struct am_state *state, int resume)
+ 			exit(1);
+ 		say(state, stdout, _("Applying: %.*s"), linelen(state-&gt;msg), state-&gt;msg);
++		{
++			int i;
++			for (i = 0; i &lt; 60; i++) {
++				fprintf(stderr, "sleeping... %d\r", i);
++				sleep(1);
++			}
++			fprintf(stderr, "\n");
++		}
+ 		apply_status = run_apply(state, NULL);
+And then we can reliably reproduce the issue even when rebasing only a
+single commit:
+  $ ./bin-wrappers/git rebase v2.25.0 9c8a294
+  First, rewinding head to replay your work on top of it...
+  Applying: sha1-file: remove OBJECT_INFO_SKIP_CACHED
+  ^Ceeping... 3
+  ((v2.25.0)|REBASE 1/1)$ ./bin-wrappers/git rebase --abort 
+  error: could not read '.git/rebase-apply/head-name': No such file or directory
+Note that the sleep() calls were added to 'builtin/am.c', i.e. this
+issue is present in the 'am' rebase backend.  I tried to break 'git
+rebase -m ...' by adding sleep()s to various places in pick_commits()
+in 'sequencer.c', but, FWIW, the subsequent 'git rebase --abort'
+always worked as expected.
+So we may have yet another reason to switch the default rebase backend
+from 'am' to 'merge'.
+&gt; Finally, note the 'v2.24.0^{commit}' parameter, in particular the
+&gt; '^{commit}' part.  That's important, because without it we stumble
+&gt; upon _another_ bug:
+&gt; 
+&gt;   $ git rebase v2.22.0 v2.24.0
+&gt;   error: Object 1cc4bc0fcd93f816d514d77c29f2cc9ffdd8ae09 not a commit
+&gt;   First, rewinding head to replay your work on top of it...
+&gt;   Generating patches: 100% (1049/1049), done.
+&gt;   Applying: send-email: move the read_config() function above getopts
+&gt;   &lt; ... applying further patches and hitting a merge conflict ... &gt;
+&gt;   Resolve all conflicts manually, mark them as resolved with
+&gt;   "git add/rm &lt;conflicted_files&gt;", then run "git rebase --continue".
+&gt;   You can instead skip this commit: run "git rebase --skip".
+&gt;   To abort and get back to the state before "git rebase", run "git rebase --abort".
+&gt;   (detached HEAD *+|REBASE 7/1049)$ git rebase --abort 
+&gt;   error: update_ref failed for ref 'HEAD': cannot update ref 'HEAD': trying to write non-commit object 1cc4bc0fcd93f816d514d77c29f2cc9ffdd8ae09 to branch 'HEAD'
+&gt; 
+&gt; So 'git rebase' shows an error right at the beginning when rebasing a
+&gt; tag, but then continues anyway.  However, 'git rebase --abort' can't
+&gt; restore the original state.
+Now let's rebase a tag with the 'merge' backend, and then try to abort
+it:
+  $ ./BUILDS/v2.25.0/bin/git rebase -m v2.22.0 v2.24.0
+  error: Object 1cc4bc0fcd93f816d514d77c29f2cc9ffdd8ae09 not a commit
+  Auto-merging t/t9001-send-email.sh
+  Auto-merging git-send-email.perl
+  CONFLICT (content): Merge conflict in git-send-email.perl
+  Auto-merging Documentation/git-send-email.txt
+  error: could not apply 3ff15040e2... send-email: fix regression in sendemail.identity parsing
+  Resolve all conflicts manually, mark them as resolved with
+  "git add/rm &lt;conflicted_files&gt;", then run "git rebase --continue".
+  You can instead skip this commit: run "git rebase --skip".
+  To abort and get back to the state before "git rebase", run "git rebase --abort".
+  Recorded preimage for 'git-send-email.perl'
+  Could not apply 3ff15040e2... send-email: fix regression in sendemail.identity parsing
+  (detached HEAD *+|REBASE 7/1049)$ ./BUILDS/v2.25.0/bin/git rebase --abort
+  ((v2.24.0))$
+So it prints the same error as the 'am' backend (or perhaps that error
+comes from the common, backend-independent parts of rebase?  I didn't
+look), and it continues all the same, but in the end '--abort' is
+capable to abort the operation.  So we do have yet another reason to
+switch the default backend.
+next prev parent reply index
+Thread overview: 8+ messages / expand[flat|nested]  mbox.gz  Atom feed  top
+2020-02-07 11:10 SZEDER Gábor
+2020-02-07 11:49 ` SZEDER Gábor
+2020-02-07 13:21   ` SZEDER Gábor [this message]
+2020-02-07 17:52     ` Elijah Newren
+     [not found] &lt;CADhmr77EbC+3f=Oa+bm18Z_SSEMK8vCjNHQniuvkdfaZdRT_5A@mail.gmail.com&gt;
+2020-05-30 16:24 ` Elijah Newren
+2020-06-03 16:09   ` Thomas Braun
+2020-06-04 10:19     ` Phillip Wood
+2020-06-05 15:29       ` Junio C Hamano
+Reply instructions:
+You may reply publicly to this message via plain-text email
+using any one of the following methods:
+* Save the following mbox file, import it into your mail client,
+  and reply-to-all from there: mbox
+  Avoid top-posting and favor interleaved quoting:
+  https://en.wikipedia.org/wiki/Posting_style#Interleaved_style
+* Reply using the --to, --cc, and --in-reply-to
+  switches of git-send-email(1):
+  git send-email \
+    --in-reply-to=20200207132152.GC2868@szeder.dev \
+    --to=szeder.dev@gmail.com \
+    --cc=git@vger.kernel.org \
+    --cc=newren@gmail.com \
+    /path/to/YOUR_REPLY
+  https://kernel.org/pub/software/scm/git/docs/git-send-email.html
+* If your mail client supports setting the In-Reply-To header
+  via mailto: links, try the mailto: link
+Git Mailing List Archive on lore.kernel.org
+Archives are clonable:
+	git clone --mirror https://lore.kernel.org/git/0 git/git/0.git
+	# If you have public-inbox 1.1+ installed, you may
+	# initialize and index your mirror using the following commands:
+	public-inbox-init -V2 git git/ https://lore.kernel.org/git \
+		git@vger.kernel.org
+	public-inbox-index git
+Example config snippet for mirrors
+Newsgroup available over NNTP:
+	nntp://nntp.lore.kernel.org/org.kernel.vger.git
+AGPL code for this site: git clone https://public-inbox.org/public-inbox.git

@@ -1,0 +1,208 @@
+      Skip to content
+                Sign up
+                    Why GitHub?
+                    Features →
+                      Code review
+                      Project management
+                      Integrations
+                      Actions
+                      Packages
+                      Security
+                      Team management
+                      Hosting
+                      Mobile
+                      Customer stories →
+                      Security →
+                Team
+                Enterprise
+                    Explore
+                      Explore GitHub →
+                    Learn &amp; contribute
+                      Topics
+                        Collections
+                      Trending
+                      Learning Lab
+                      Open source guides
+                    Connect with others
+                      Events
+                      Community forum
+                      GitHub Education
+                      GitHub Stars program
+                Marketplace
+                    Pricing
+                    Plans →
+                      Compare plans
+                      Contact Sales
+                      Nonprofit →
+                      Education →
+     -->
+        In this repository
+        All GitHub
+      ↵
+      Jump to
+      ↵
+    No suggested jump to results
+        In this repository
+        All GitHub
+      ↵
+      Jump to
+      ↵
+        In this repository
+        All GitHub
+      ↵
+      Jump to
+      ↵
+          Sign in
+              Sign up
+      {{ message }}
+      newren
+    /
+    easygit
+    forked from dfabulich/easygit
+    Watch
+      1
+      Star
+      2
+          Fork
+        5
+        Yet another fork of Elijah Newren's EasyGit
+        2
+        stars
+        5
+        forks
+      Star
+    Watch
+            Code
+            Pull requests
+              0
+            Actions
+            Projects
+              0
+            Security
+            Insights
+            More
+                    Code
+                    Pull requests
+                    Actions
+                    Projects
+                    Security
+                    Insights
+          Dismiss
+        Join GitHub today
+        GitHub is home to over 50 million developers working together to host and review code, manage projects, and build software together.
+        Sign up
+      master
+      1
+      branch
+      17
+      tags
+    Go to file
+      Code
+  Clone
+       -->
+            HTTPS
+            GitHub CLI
+        Use Git or checkout with SVN using the web URL.
+      Work fast with our official CLI.
+      Learn more.
+                Open with GitHub Desktop
+                Download ZIP
+          Launching GitHub Desktop
+          If nothing happens, download GitHub Desktop and try again.
+          Go back
+          Launching GitHub Desktop
+          If nothing happens, download GitHub Desktop and try again.
+          Go back
+          Launching Xcode
+          If nothing happens, download Xcode and try again.
+          Go back
+          Launching Visual Studio
+          If nothing happens, download the GitHub extension for Visual Studio and try again.
+          Go back
+        This branch is 3910 commits ahead, 35 commits behind dfabulich:master.
+          Pull request
+        Compare
+    Latest commit
+        Git stats
+                    8,799
+                  commits
+  Files
+    Permalink
+    Failed to load latest commit information.
+        Type
+        Name
+        Latest commit message
+        Commit time
+            t
+                    Merge remote-tracking branch 'git/v1.8.5'
+              Mar 8, 2014
+            HACKING
+                    Add a few clarifications to the HACKING and t/README files
+              Apr 6, 2013
+            README
+                    README: Let people know where they can get a maintained version
+              Mar 15, 2018
+            bash-completion-eg.sh
+                    bash-completion-eg.sh: Update to cool new stuff
+              Mar 8, 2014
+            eg
+                    Release 1.8.5
+              Mar 8, 2014
+            eg.bat
+                    Fix Windows colors: %ENV instead of exec prefix
+              Apr 4, 2013
+        View code
+        README
+        I no longer maintain easygit.  Please go look at github.com/dfabulich/easygit.
+I pushed this version here because apparently when gitorious died, my
+online copy of commits I had made in v1.8.5 went missing and others didn't
+have them.  I haven't done maintenance work on easygit for over 4 years now.
+            About
+      Yet another fork of Elijah Newren's EasyGit
+  Resources
+      Readme
+    Releases
+      17
+      tags
+    Packages 0
+        No packages published 
+              Languages
+        Shell
+        91.7%
+        Perl
+        8.2%
+        Other
+        0.1%
+        © 2020 GitHub, Inc.
+          Terms
+          Privacy
+  Cookie Preferences
+          Security
+          Status
+          Help
+          Contact GitHub
+          Pricing
+        API
+        Training
+          Blog
+          About
+    You can’t perform that action at this time.
+    You signed in with another tab or window. Reload to refresh your session.
+    You signed out in another tab or window. Reload to refresh your session.
+  We use optional third-party analytics cookies to understand how you use GitHub.com so we can build better products.
+              Learn more.
+              Accept
+              Reject
+  We use optional third-party analytics cookies to understand how you use GitHub.com so we can build better products.
+              You can always update your selection by clicking Cookie Preferences at the bottom of the page.
+              For more information, see our Privacy Statement.
+              Essential cookies
+              We use essential cookies to perform essential website functions, e.g. they're used to log you in. 
+                Learn more
+              Always active
+              Analytics cookies
+              We use analytics cookies to understand how you use our websites so we can make them better, e.g. they're used to gather information about the pages you visit and how many clicks you need to accomplish a task. 
+                Learn more
+                Accept
+                Reject
+            Save preferences

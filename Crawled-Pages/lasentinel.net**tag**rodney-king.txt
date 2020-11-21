@@ -1,0 +1,243 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Rodney King
+							There’s No Way Around It, California. You Owe Descendants of Enslaved Black Americans
+					June 11, 2020Last year, I read a book titled “The Color of Law.” Every Californian should read it, too — especially if you truly care about Black lives.    ... read more  »
+							Community Reflections on Justice for George Floyd and the 2020 I Can’t Breath Rebellion
+					June 4, 2020The City of Los Angeles hasn’t dealt with this much commotion since the 1992 Los Angeles Riots when LAPD officers brutally beat Rodney King. Unfortunately, with white nationalist on the rise, more savage police misconduct is being reported in record breaking numbers throughout the United States. On the flip side, as the harshness of hate gains exposure the power of love is in an uproar to protect The People and the sanctity of justice.
+We checked-in with Los Angeleno protestors to hear their thoughts and share in their first hand accounts when demanding justice for George Floyd. Since it’s difficult for people to rapidly respond in the center of compacted trauma, I asked community members to answer any of the following questions: “As an observer or protest participant, Why was it important for you to participate in the #justiceforgeorgefloyed protest? How has the 2020 I Can’t Breathe Rebellion impacted your life? What are you called to do? Or, Why do Black Lives Matter to you?” ... read more  »
+							A Wounded Nation: Why We Can’t Give Up in the Fight for Justice
+					June 3, 2020As our fellow Californians and Americans protest across our country, we must not lose sight of why they are protesting. It’s because of a deep pain that we recognize all too well. The pain of not confronting a dark history that has spanned the life of our country. The pain of recognizing our fathers, uncles, brothers, mothers, sisters, and aunts in the faces of so many Black men and women who were taken from us because of racism and violence.  ... read more  »
+        ADVERTISEMENT        
+							Never A Dull Moment with Larry Aubry
+					May 21, 2020You never wanted to get on Larry’s bad list. It didn’t matter whether you were Black, White, an elected official, or dirty police officer, he’d call you out in hot minute. But Larry would never call you out without speaking to you first. ... read more  »
+							L.A. Prosecutors Can Hold Cops More Accountable with One Simple List
+					July 18, 2019California is moving toward transparency for bad cops. As we learn more about the violence, biases, misconduct, dishonesty, and abusive acts of law enforcement (in spite of recent efforts by police to erase the evidence) it’s easy to focus on the role cops play in the streets. But equally if not more impactful is the role they play in the courthouse. In almost every criminal case, the prosecutor must call at least one police officer witness in order to prove the charges. Police are professional witnesses, trained to go under oath and testify as to their recollections, actions, findings, and practices. If making the arrest is the first half of their job, working with prosecutors and testifying is the other half. ... read more  »
+							Rodney King’s Daughter Launches Scholarship to Honor Her Dad
+					May 2, 2019She hopes to remove the financial barriers that sometimes get in the way of paying for bond-building outings.  ... read more  »
+							The Time I Met President George H.W. Bush
+					December 13, 2018During this week, as we all join in the natural reflection of the character, conviction, and contributions of our 41stPresident, George Herbert Walker Bush, I was reminded of the time when I had the honor of meeting that great man. ... read more  »
+							Sustaining Righteous Community Outrage
+					August 23, 2018Righteous outrage must be sustainable.it is necessary to bring about the political pressure crucial for actual long range change.  Of course, ultimately, it is the responsibility of the Black community itself to forge its own future which requires new mindsets and most important, new behavior. Developing sustainable righteous outrage is only one of other important tasks that collectively, we must undertake as part of a self-determined Black agenda. ... read more  »
+							Black Lives Matter Activists Criticize Selection of Moore as LAPD Chief
+					June 11, 2018Garcetti was given three finalists to choose from by the board, the civilian body that oversees the LAPD. They were Moore, San Francisco Police Chief William “Bill” Scott and Deputy LAPD Chief Robert Arcos. Moore has been with the department since 1981.
+ ... read more  »
+							Righteous Outrage and Action Must Be Sustained
+					January 25, 2018Since the civil rights era, there’s not been sustained outrage to high-profile incidents, or countless other similar incidents of police abuse. ... read more  »
+							‘LA 92’ Documentary Screening and Panel discussions
+					November 16, 2017LA 92 is told in news clips and summaries of journalists and newsmen and women on the ground as the 92’ unrest was in progress.  ... read more  »
+							Blacks Must Define and Stand Their Common Ground
+					October 26, 2017Blacks must work cooperatively among themselves and collaborate with allies to reduce the likelihood of current and future Trayvon Martins being killed again and again.” ... read more  »
+							Smithsonian Channel’s “The Lost Tapes: LA Riots” Captures the Essence of the L.A. Uprising 
+					May 2, 2017“The Lost Tapes: LA Riots” showed all the important events leading up to the 1992 uprising, from the protests for the firing of then chief Daryl Gates, to the shooting of Latasha Harlins. ... read more  »
+							“THE LOST TAPES: LA RIOTS” Recounts The Chaotic Days Following The Rodney King Verdict
+					April 21, 2017Hour-long documentary premieres April 23 at 8 pm et/pt marking 25TH anniversary of The L.A. Uprising ... read more  »
+							25 years later, L.A. Uprising protestor Mark Craig recalls why he rebelled
+					April 12, 2017Mark Craig, the man behind one of the most powerful L.A. Uprising Images  ... read more  »
+        &lt;&lt; Older Posts
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->

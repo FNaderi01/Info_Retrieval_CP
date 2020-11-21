@@ -1,0 +1,297 @@
+        About
+            Branching and Merging
+            Small and Fast
+            Distributed
+            Data Assurance
+            Staging Area
+            Free and Open Source
+            Trademark
+        Documentation
+            Reference
+            Book
+            Videos
+            External Links
+        Downloads
+            GUI Clients
+            Logos
+        Community
+  Deutsch ▾
+  Localized versions of git-restore manual
+        Deutsch
+        English
+        Português (Brasil)
+    Want to read in your language or fix typos? You can help translate this page.
+    Topics ▾
+      Setup and Config
+  git
+  config
+  help
+  bugreport
+      Getting and Creating Projects
+  init
+  clone
+      Basic Snapshotting
+  add
+  status
+  diff
+  commit
+  notes
+  restore
+  reset
+  rm
+  mv
+      Branching and Merging
+  branch
+  checkout
+  switch
+  merge
+  mergetool
+  log
+  stash
+  tag
+  worktree
+      Sharing and Updating Projects
+  fetch
+  pull
+  push
+  remote
+  submodule
+      Inspection and Comparison
+  show
+  log
+  diff
+  difftool
+  range-diff
+  shortlog
+  describe
+      Patching
+  apply
+  cherry-pick
+  diff
+  rebase
+  revert
+      Debugging
+  bisect
+  blame
+  grep
+      Email
+  am
+  apply
+  format-patch
+  send-email
+  request-pull
+      External Systems
+  svn
+  fast-import
+      Server Admin
+  daemon
+  update-server-info
+      Guides
+  gitattributes
+  Command-line interface conventions
+  Everyday Git
+  Frequently Asked Questions (FAQ)
+  Glossary
+  githooks
+  gitignore
+  gitmodules
+  Revisions
+  Submodules
+  Tutorial
+  Workflows
+      Administration
+  clean
+  gc
+  fsck
+  reflog
+  filter-branch
+  instaweb
+  archive
+  bundle
+      Plumbing Commands
+  cat-file
+  check-ignore
+  checkout-index
+  commit-tree
+  count-objects
+  diff-index
+  for-each-ref
+  hash-object
+  ls-files
+  ls-tree
+  merge-base
+  read-tree
+  rev-list
+  rev-parse
+  show-ref
+  symbolic-ref
+  update-index
+  update-ref
+  verify-pack
+  write-tree
+      Latest version
+       ▾ 
+git-restore last updated in 2.28.0
+  Changes in the git-restore manual
+        2.28.0 no changes
+        2.27.0
+          06/01/20
+        2.25.1 → 2.26.2 no changes
+        2.25.0
+          01/13/20
+    See more previous releases → -->
+    Check your version of git by running
+    $
+NAME
+git-restore - Dateien im Arbeitsbereich wiederherstellen
+ÜBERSICHT
+git restore [&lt;Optionen&gt;] [--source=&lt;Tree&gt;] [--staged] [--worktree] [--] &lt;Pfadspezifikation&gt;…​
+git restore [&lt;Optionen&gt;] [--source=&lt;Tree&gt;] [--staged] [--worktree] --pathspec-from-file=&lt;Datei&gt; [--pathspec-file-nul]
+git restore (-p|--patch) [&lt;Optionen&gt;] [--source=&lt;Tree&gt;] [--staged] [--worktree] [--] [&lt;Pfadspezifikation&gt;…​]
+BESCHREIBUNG
+Stellt spezifizierte Pfade im Arbeitsbereich mit Inhalt aus einer
+Wiederherstellungsquelle wieder her. Wenn ein Pfad überwacht wird, aber in
+der Wiederherstellungsquelle nicht vorhanden ist, wird er entfernt, damit er
+mit der Quelle übereinstimmt.
+Der Befehl kann auch verwendet werden, um den Inhalt im Index mit --staged
+wiederherzustellen oder um sowohl den Arbeitsbereich (working tree) als auch
+den Index mit --staged --worktree wiederherzustellen.
+By default, if --staged is given, the contents are restored from HEAD,
+otherwise from the index. Use --source to restore from a different commit.
+Siehe „Reset, restore und revert“ in git[1] für die
+unterschiedlichen Eigenschaften der drei Befehle.
+DIESER BEFEHL IST EXPERIMENTELL. MÖGLICHERWEISE KANN SICH DAS VERHALTEN
+ÄNDERN.
+OPTIONEN
+ -s &lt;Tree&gt; 
+ --source=&lt;Tree&gt; 
+Wiederherstellen der Dateien des Arbeitsbereichs mit dem Inhalt aus dem
+angegebenen Daten-Baum. Es ist üblich, den Quellbaum durch Angabe eines
+assoziierten Commit-, Branch- oder Tag-Namens zu bestimmen.
+If not specified, the contents are restored from HEAD if --staged is
+given, otherwise from the index.
+ -p 
+ --patch 
+Wählt interaktiv abweichende Abschnitte in der Wiederherstellungsquelle und
+dem Wiederherstellungsort aus. Siehe den Abschnitt "Interaktiver Modus" in
+git-add[1], um zu erfahren, wie der --patch-Modus anzuwenden ist.
+Note that --patch can accept no pathspec and will prompt to restore all
+modified paths.
+ -W 
+ --worktree 
+ -S 
+ --staged 
+Bestimmt den Wiederherstellungsort. Wenn keine der beiden Optionen angegeben
+wurde, stellt das System standardmäßig den Arbeitsbereich wieder her. Mit
+der Angabe von --staged wird nur den Index wieder hergestellt. Die Angabe
+beider Optionen stellt beides wieder her.
+ -q 
+ --quiet 
+Quiet, suppress feedback messages. Implies --no-progress.
+ --progress 
+ --no-progress 
+Der Fortschritt wird standardmäßig auf der Standardfehlerausgabe angezeigt,
+wenn diese an ein Terminal angebunden ist, außer wenn --quiet angegeben
+ist. Dieses Flag erlaubt die Fortschrittsanzeige auch ohne
+Terminalanbindung, ohne --quiet zu berücksichtigen.
+ --ours 
+ --theirs 
+Wenn Dateien im Arbeitsbereich aus dem Index wiederhergestellt werden,
+verwendet man Stufe #2 (ours) oder #3 (theirs) für nicht gemergte Pfade.
+Hinweis: Während eines git rebase und eines git pull --rebase können
+ours und theirs vertauscht erscheinen. Siehe die Beschreibung der
+gleichen Optionen in git-checkout[1] für weitere Details.
+ -m 
+ --merge 
+Wenn Dateien im Arbeitsbereich aus dem Index wiederhergestellt werden, muss
+der konfliktbehaftete Merge in den nicht zusammengeführten Pfaden neu
+erstellt werden.
+ --conflict=&lt;style&gt; 
+Die gleiche Option, wie die Option --merge oben, aber sie ändert die Art,
+wie die widersprüchlichen Teile dargestellt werden. Dabei wird die
+Konfigurationsvariable -merge.conflictStyle überschrieben. Mögliche Werte
+sind "merge" ( Vorgabe) und "diff3" (zusätzlich zu dem, was der "merge"-Stil
+anzeigt, wird der originäre Inhalt ausgegeben).
+ --ignore-unmerged 
+Wenn Dateien im Arbeitsbereich aus dem Index wiederhergestellt werden,
+sollte diese Operation nicht abgebrochen werden, wenn es nicht gemergte
+Einträge gibt und weder --ours, --theirs, --merge noch --conflict
+angegeben ist. Nicht verschmolzene Pfade auf dem Arbeitsbereich werden
+ignoriert.
+ --ignore-skip-worktree-bits 
+Im Sparse-Checkout-Modus werden standardmäßig nur Einträge aktualisiert, die
+mit &lt;pathspec&gt; und einzelnen Pattern in $GIT_DIR/info/sparse-checkout
+übereinstimmen. Diese Option ignoriert die einzelnen Pattern und stellt alle
+Dateien in &lt;pathspec&gt; vorbehaltlos wieder her.
+ --recurse-submodules 
+ --no-recurse-submodules 
+If &lt;pathspec&gt; names an active submodule and the restore location includes
+the working tree, the submodule will only be updated if this option is
+given, in which case its working tree will be restored to the commit
+recorded in the superproject, and any local modifications overwritten. If
+nothing (or --no-recurse-submodules) is used, submodules working trees
+will not be updated. Just like git-checkout[1], this will detach
+HEAD of the submodule.
+ --overlay 
+ --no-overlay 
+Im Overlay-Modus werden mit diesem Befehl niemals Dateien beim
+Wiederherstellen entfernt. Im No-Overlay-Modus werden getrackte Dateien, die
+nicht im --source-Tree vorkommen, entfernt, damit sie genau mit &lt;Tree&gt;
+übereinstimmen. Die Standardeinstellung ist der No-Overlay-Modus.
+ --pathspec-from-file=&lt;Datei&gt; 
+Die Pfadangabe wird in &lt;Datei&gt; statt über Befehlszeilen-Argumente
+übergeben. Wenn &lt;Datei&gt; genau - ist, wird die Standardeingabe
+verwendet. Pfadspezifische Elemente werden durch LF oder CR/LF
+getrennt. Pathspec-Elemente können in Anführungszeichen gesetzt werden, wie
+für die Konfigurations-Variable core.quotePath beschrieben (siehe
+git-config[1]). Siehe auch --pathspec-file-nul und global
+--literal-pathspecs.
+ --pathspec-file-nul 
+Nur sinnvoll mit --pathspec-from-file. Pfadspezifische Elemente werden mit
+dem Steuerzeichen-Code NULL getrennt und alle anderen Zeichen werden
+unverändert übernommen (einschließlich der Zeilenumbrüche und
+Anführungszeichen).
+ -- 
+Diese Option kann dazu verwendet werden, Befehlszeilenoptionen von der Liste
+von Dateien zu trennen. Dies ist sinnvoll, wenn Dateinamen mit
+Befehlszeilenoptionen verwechselt werden könnten.
+ &lt;Pfadspezifikation&gt;…​ 
+Legt die von der Operation betroffenen Pfade fest.
+Mehr Details finden Sie im pathspec-Eintrag in gitglossary[7].
+BEISPIELE
+Das folgende Listing wechselt in den Branch master, setzt das Makefile
+um zwei Revisionsstände zurück, dann wird hello.c irrtümlich gelöscht, um
+danach wieder aus dem Index zurückgeholt zu werden.
+$ git switch master
+$ git restore --source master~2 Makefile  (1)
+$ rm -f hello.c
+$ git restore hello.c                     (2)
+Lade eine Datei aus einem anderen Commit
+Wiederherstellen von hello.c aus dem Index
+Falls alle C-Quelldateien wieder hergestellt werden sollen, damit sie mit
+der Version im Index übereinstimmen, kann man folgendes eingeben
+$ git restore '*.c'
+Beachten Sie die Anführungszeichen bei *.c.  Die Datei hello.c wird auch
+wieder hergestellt, obwohl sie sich nicht mehr im Arbeitsbereich befindet,
+weil das Wildcard-Zeichen (*) verwendet wird, um damit Einträge im Index
+(nicht im Arbeitsbereich der Shell) zu finden.
+So kann man alle Dateien im aktuellen Verzeichnis wieder herstellen
+$ git restore .
+or to restore all working tree files with top pathspec magic (see
+gitglossary[7])
+$ git restore :/
+Eine Datei im Index so wiederherstellen, dass sie mit der Version in HEAD
+übereinstimmt (das entspricht dem Vorgehen wie mit git-reset[1])
+$ git restore --staged hello.c
+oder sowohl Index als auch den Arbeitsbereich zurückerhalten (das ist das
+gleiche wie mit git-checkout[1])
+$ git restore --source=HEAD --staged --worktree hello.c
+die Kurzform ist praktischer aber nicht so gut lesbar:
+$ git restore -s@ -SW hello.c
+SIEHE AUCH
+git-checkout[1], git-reset[1]
+GIT
+Teil der git[1] Suite
+    About this site
+    Patches, suggestions, and comments are welcome.
+    Git is a member of Software Freedom Conservancy

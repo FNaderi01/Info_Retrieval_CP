@@ -1,0 +1,319 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Fulfilling Our Mission: Leaving a Legacy of Struggle            
+				By Dr. Maulana Karenga                
+	                	                Published November 3, 2016
+		Dr. Maulana Karenga
+As we move to the culmination of the current presidential campaign, it is good to remember why we as people value and use the vote as a fundamental way to occupy critical space, advance our interests and honor the awesome sacrifices of our people to secure this right. Thus, we know that in the end it is not the candidates we are actually voting for, but for ourselves, our history of awesome sacrifice and struggle, and our continuing striving and struggle to transform and remake the world. Below is a column written five years ago in remembrance of a time of great turning and testing, struggling on numerous battlefronts for a new society, world and way forward. It is to remind us and cause us to reflect on an expansive conception of our people and history which will be important in our continuing to move forward regardless of the varied turns of events. For the struggle must and will continue.
+We came into being in the wake and heavy weight of the martyrdom of Malcolm and in a wave of resistance that culminates in the Watts Revolt, in the year 1965, self-consciously assuming varied and interrelated roles as /Simba Wachanga/, Young Lions, soldiers and servants of our people; /Saidi/, self-conscious lords of our own lives, and /Muminina/, faithful defenders of the people and conscientious keepers of the tradition. It is a noteworthy narrative, not yet truthfully or fully told; one of struggle, sacrifice, service, work, and institution-building.
+We stood up and stepped forward (51) years ago, September 7, 1965, and have not stopped or sat down since, in spite of suppression, setbacks and the continued and calculated falsification of our history and current work. It was a life vocation we chose, a dangerous and difficult struggle to uplift and liberate our people. Imbued with the spirit and special disregard for danger and difficulty for which youth are known, we talked and acted as if victory was not only certain but also imminent. But in our most thoughtful moments, especially as government forces began their varied programs to discredit, disrupt, detain, destroy and otherwise neutralize Us and the Black Movement as a whole, we knew it would be a long as well as dangerous and difficult struggle. And we realized the awesome and exacting truth of Amilcar Cabral’s classic teaching concerning the liberation struggle, i.e., that we should “mask no difficulties, tell no lies and claim no easy victories.”
+        ADVERTISEMENT        
+We called ourselves Us to affirm and remind ourselves that our work and struggle, and our very lives are first and foremost for us, our people, Black people, African people, for their uplift and liberation. The name Us was chosen too to draw a clear and uncompromising line between Us and them, between our people and our oppressor in our vision and values and in our struggles and strivings upward. And Us also was selected to stress our commitment to communitarian, i.e., community focused and collective, thought and practice in the way we relate, remember, reason, accept responsibility, work, struggle and understand and assert ourselves in the world.
+It was a time of great turning and testing, revolt and revolution, of liberation struggles almost everywhere. And we accepted Min. Malcolm’s teaching that we were “living in an era of revolution and the revolt of the (African American) is part of the rebellion against oppression and colonialism which has characterized this era.” Moreover, Malcolm stressed the role of young people in the liberation struggles, the Simba in the Congo and youth in other parts of Africa, and in Asia and Latin America. And he challenged us to think for ourselves and to choose to act in the interest of our people and the oppressed and struggling peoples of the world.
+Frantz Fanon taught us that “each generation must discover its mission and either fulfill or betray it.” But even before reading Fanon, our fathers and mothers had taught us in words similar to the /Odu Ifa/ which say “when it becomes your turn to take responsibility for the world, you should do good for the world.” And, of course, this should start with our people, or the race, as they called them, then, without deference to deconstructionist definitions or post-racial “reasoning.”
+It was clear to all that our people were oppressed, and restricted and restrained in life-conditions and life-chances and that we had not only the unalienable right, but also the unavoidable responsibility to struggle to end our oppression. And so, standing up we dared to declare both our organizational and generational mission: to leave a legacy of revolution. Indeed, we declared, “We are the last revolutionaries in America. If we fail to leave a legacy of revolution for our children, we have failed our mission and should be dismissed as unimportant.”
+Thus, following the teaching of our philosophy, Kawaida, we committed ourselves to the cultural revolution within and the political revolution without. The first is to radically transform ourselves; the second is to radically transform society. Such a dual and radical transformation, we argued, requires cultivating, reinforcing and sustaining a culture of struggle so that revolution and liberation are acts of culture, i.e., processes and practices which are called into being and even compelled by the nature, needs and self-understanding of the culture.
+To leave a legacy of revolution, we reasoned, is, above all, to leave a legacy of radical and relentless struggle. For revolution rightly read is a not a single event of storming the gates, rallies in the public square and forcing a dictator to step down. Nor is it a matter of simply changing presidents, parliaments and flags or even simply seizing power from one group by another. Rather, it’s radical self- and social transformation, an overturning of ourselves as well as society, uprooting and rebuilding in more humanly expansive and historically promising ways.
+Clearly, the country and world have changed dramatically since we stood up in the 60’s and liberation struggles pervaded and engulfed the world. It is surely a different time when CIA-sponsored “revolts” are accepted as “revolutions;” occupiers and oppressors are given immunity from criticism and accountability for their acts; freedom fighters are routinely called terrorists; and oppressors are accorded moral status equal and superior to the oppressed. There is also the decline and crisis of the left—nationalist, socialist and Marxist, and the aggressive rise of the right, riding roughshod over the poor and vulnerable at home and globalizing White supremacy and bold-faced banditry abroad.
+Certainly, it is sad to say and sadder to see that very few radical or self-defined revolutionary organizations are left from the Sixties. Almost all have folded tent and taken up talking like reformed and redeemed religionists eager to denounce their former wicked ways, which were learned and lived in the “sinful Sixties.” Others have found new faiths and make only episodic public appearances to rant and rave against former rivals and to leave lists of whom to hate.
+But regardless of how things have changed since we began, enduring human problems and the need to struggle to solve them remain. For still the oppressed want freedom; the wronged and injured want justice; the people want power over their destiny and daily lives; and the world wants peace. So, for Us the struggle continues in various forms and fields of battle, continuously carving out of the hard rock of reality a new history of humankind, free of oppression and full of human flourishing and social miracles made by the masses, themselves, in their awesome
+thrust upward and onward in the world.
+Dr. Maulana Karenga, Professor and Chair of Africana Studies, California State University-Long Beach; Executive Director, African American Cultural Center (Us); Creator of Kwanzaa; and author of Kwanzaa: A Celebration of Family, Community and Culture and Introduction to Black Studies, 4th Edition, www.OfficialKwanzaaWebsite.org; www.MaulanaKarenga.org.
+		Categories: Dr. Maulana Karenga | Opinion Tags: black people | Dr Maulana Karenga | Frantz Fanon | Kawaida | struggle | Us | Watts Revolt		
+						RHETORIC AND REALITY OF RACE
+						Taking Tuesday in Stride: Waking Up Wednesday Still in Struggle
+						CFPB, NY AG join forces to fight illegal national debt collection scheme
+						BLACK PRESS SPEAKS: Black America’s Resilience Will Keep Us Struggling Fo...
+						In Dissent, Defiance and Resistance: Refusing to Concede to Elected Evil
+						I’m Sounding the Alarm
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

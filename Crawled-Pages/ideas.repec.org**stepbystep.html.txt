@@ -1,0 +1,11 @@
+https://ideas.repec.org/stepbystep.html
+RePEc step-by-step tutorial
+Note that these instructions are meant to be for an institutional archive. A RePEc archive is not meant to be a personal archive. If you are an individual who cannot benefit from an institutional RePEc archive and still want you works to be listed in RePEc, use Munich Personal RePEc Archive (MPRA).
+Also, if you already have a RePEc archive and only wish to add a series or learn more about the syntax, do not ask for a new archive code. If you are taking over an existing archive, these shorter instructions may be sufficient for you.
+The principle
+The tutorial will guide you through the set-up of the metadata files as well as how to prepare your server, if necessary. If you prefer to read through terse documentation, this is also available. You can also have a look at a live RePEc archive or a walkthrough of this archive. Note you may see error message for links with an .rdf extension: right click in such page to view the source code.
+Note that if you already have your bibliographic metadata in some database, you may want to take advantage of some existing scripts that can help you convert the data. See this blog post. Archive maintainers may find this particularly useful: a text editor that understands the tempates used in RePEc.
+Overview of steps
+Continue to:
+
+Privacy Legal

@@ -1,0 +1,338 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Interview with James Spooner, Vegan and Dark Skin Tattoo Specialist            
+				By Talley Morton, Sentinel Intern                
+	                	                Published July 26, 2018
+		James Spooner, 42, tattoos at a private studio in Los Angeles. (Courtesy Photo)
+There’s a common misconception that dark-skinned people cannot get quality, colored tattoos. James Spooner, an African American vegan tattoo artist who specializes in tattooing dark skin, disagrees. Having been in the industry for ten years, he’s seen firsthand how both clients and tattoo artists make the wrong choices for accommodating dark skin.
+“Clients have to respect themselves enough to do research, and they have to look at portfolios,” he told me. “If you don’t see any Black skin on the tattooer’s portfolio, then that means one of two things: either they don’t tattoo Black people very often, or they haven’t done tattoos on Black people that they’re proud enough of to put in their portfolio.”
+Spooner, 42 and a New York City native, began as a filmmaker. His globally-acclaimed documentary Afro-Punk (2003) explored race and identity in the predominately White punk scene. The film eventually led to what we now know as the annual Afropunk festival that takes place from Atlanta to Paris. Following his filmmaking career, Spooner transitioned to tattooing in Los Angeles.
+Spooner and I discussed how he began tattooing, how he doesn’t separate his personal politics from his profession, tattoo perceptions, and more.
+The following interview has been lightly edited for length and clarity.
+Morton: How old were you then when you began tattooing?
+Spooner: I started when I was 32, and in terms of tattooing, that’s not a young age. Most people start when they’re like 18, 20, and I didn’t even get my first tattoo until I was 29. It’s hard to imagine that tattooing was illegal in New York until [1997], so coming up as a kid and in my early 20s, I would have had to know somebody or go to secret shops in basements, y’know. It’s a different world now.
+(Courtesy Photo)
+Morton: I actually gave myself my first tattoo when I was 15, and then got my first professional one abroad when I was 17, so I definitely started young.
+Spooner: Exactly. Now in this culture, all the teenagers that I come across are already planning their first tattoo when they’re like 15 or 16, and they’re getting it illegally or waiting for the day they turn 18. It took me a while to want to have one for myself and then longer to consider it as something I would do.
+Morton: So, you also specialize in vegan tattoos. Why is that important to you?
+Spooner: Well I’ve been vegan for about 27 years. Being consistent in my politics has always been a priority for me, and I actually didn’t think about tattoos not being vegan until I was talking to this woman who said that she was going to fly to Portland because somebody up there does vegan tattoos. I was still in my first year of tattooing and I was like, why am I not doing that? Why can you not get that done in L.A.? I immediately started researching what’s in everything and was shocked. A&amp;D ointment has lanolin in it, which is sheep fat. Everybody focuses on the ink, but at that time most of them were vegan. I had to go down the list and figure out how to make everything vegan. Once I was able to do that, I could start advertising vegan tattoos.
+Morton: What made you want to become a vegan all of those years ago?
+(Courtesy Photo)
+Spooner: I found out about factory farming. For me, I like to be politically consistent, and I don’t see the logic behind standing for gay rights, women’s rights, civil rights, and then eating a plate of baby back ribs. I believe if one is oppressed, then all are oppressed, so whatever I can do, I do.
+Morton: What does your clientele look like? Do you see a lot of African Americans?
+Spooner: Somewhere between 40 and 60 percent of my clientele are African Americans. I’ve always said my clientele is made up of either vegans, Blacks, or Black vegans. Because I’m in a private studio, people have to do research to find me.
+Morton: Let’s talk about mistakes tattoo artists make when they’re doing a tattoo on a person with dark skin. What are the errors you often see?
+Spooner: Let’s say you have two dark lines that are close together and you have dark skin between those two lines. Well, now it just looks like one big line because the skin is dark, so you have to open everything up. But if a dark-skinned person gets American traditional tattooing – which is probably not as common as it should be for Black people – it’s great for dark skin because it’s full of bold lines, big empty space, black fill, and solid and saturated colors. It’s when people try to do all of these super detailed and nuanced pieces on really dark skin that you don’t get enough negative space, so I always try to keep that in mind.
+Morton: You talked about color choices. What are the best colors for dark-skinned people to get in a tattoo?
+Spooner: Dark-skinned people can get color, but some don’t work or look good. Stick to the warm side of the scale; reds are great, oranges can be good, even yellow can be good. Some greens can be good, but blues are usually not very good. The blue spectrum of purple pretty much always looks crappy. Having this expectation and knowing what the limitations are allow you to thrive within those limitations. Don’t go in there thinking I want these pastel pink and purple tiny roses. That’s going to look bad and it won’t heal well.
+(Courtesy Photo)
+Morton: What are some mistakes you see clients make?
+ Spooner: A mistake I see a lot in [the Black community] is bargain shopping. There’s no such thing as a $20 tattoo. If you’re paying $20, that tattooer is probably making $8 after giving a cut to the shop and then paying for supplies. How much time, effort, or thought would you put into anything for $8? No one who knows how to tattoo well is going to do anything for $20. You wouldn’t hire a barber who will cut your hair for $5. You know if you want a good fade you’ve got to spend like $20 to $40 depending on where you live. And sure, maybe you have a cousin who can cut hair, but it doesn’t work the same way in tattooing. When you look at our community, at rappers and athletes, they have all the money in the world and they aren’t getting good tattoos. We have to raise the bar. You don’t have to settle, but you do have to pay what everyone else pays, there’s no reparations discount.
+(Courtesy Photo)
+Morton: Not yet, at least. Do you think perceptions of tattoos changing? Is it getting better?
+Spooner: For sure. All of these shows and everything have made it so that professionals are getting tattooed. I have a couple of clients who have full chest and back pieces – just one tattoo that goes from their neck to their abdomen – and they’re both lawyers. They clearly aren’t walking around with their shirts open at work, but when you have those kinds of tattoos, you perceive people with tattoos differently. When a person sits down to get tattooed by me, thirty years ago I might have assumed they were a part of a subculture of some kind, like punks or bikers. Now, I can’t ever assume anything. People in every profession are getting tattoos, so by the time that my kids are adults, I don’t think it’ll be weird to get a bank loan from someone who has a tattoo on their hand. It’ll probably just be a higher-quality tattoo hopefully because they have a job at the bank.
+(Courtesy Photo)
+Morton: Why might tattoo artists struggle on tattooing dark skin?
+Spooner: There are a lot of really great tattoo artists in Los Angeles, but even within them I have seen mistakes, or I’ve had questions asked of me about color choices. A lot of that comes down to experimenting. I found out purple sucks because I tattooed my friend who’s dark-skinned who didn’t really care what I tried. I found out what works and what doesn’t through experimenting. If you don’t have access to dark skin, then you’re not going to have the opportunity to experiment because you don’t necessarily want to experiment on your clients. Every tattooer has friends that let them experiment, but not every tattooer has Black friends.
+Morton: What is most important for Black people and dark-skinned folks to know when considering a tattoo?
+Spooner: Clients have to respect themselves enough to do research, and they have to look at portfolios. If you don’t see any Black skin on the tattooer’s portfolio, then that means one of two things: either they don’t tattoo Black people very often or they haven’t done tattoos on Black people that they’re proud enough of to put in their portfolio. If you don’t see examples of tattoos on dark skin, even if they’re amazing artists, it may not be the right fit for you.
+James Spooner tattoos from a private studio on the East Side, but you can find him on social media. His Instagram accounts are @monocletattoo and @spoonersnofun. Check out his portfolio and more at monocletattoo.com.
+        ADVERTISEMENT        
+		Categories: Business | Exclusive | Lifestyle | Local | News | News (Business) Tags: Dark Skin Tattoos | James Spooner | local | Los Angeles | Talley Morton | Tattoo Artist | Vegan Tattoo Artist		
+						Major AIDS Conference Aims to ‘Build Bridges’ Where Epidemic Still Surg...
+						Black Panther Party Co-founder Elbert “Big Man” Howard dies
+						As Zimbabwe Elections Draw Near, Opposition Voters Are Urged to Fast
+						Bill Pickett Invitational Rodeo Celebrates 34th Anniversary
+						LA County Approves Plan to Register More Voters in Jail, on Probation
+						LA County Offers $10,000 Reward in Carson Shooting
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

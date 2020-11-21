@@ -1,0 +1,240 @@
+  Skip to main contentSelect languageSkip to searchTechnologiesTechnologies OverviewHTMLCSSJavaScriptGraphicsHTTPAPIs / DOMBrowser ExtensionsMathMLReferences &amp; GuidesLearn web developmentTutorialsReferencesDeveloper GuidesAccessibilityGame development...more docsFeedbackSend FeedbackGet Firefox help 🌐Get web development help 🌐Join the MDN communityReport a content problem 🌐Report an issue 🌐Search MDNOpen search&lt;noscript&gt;See Web technology for developersSee HTML: HyperText Markup LanguageSee HTML elements reference&lt;noscript&gt;English▼CatalàDeutschEspañolFrançais日本語한국어Português (do Brasil)Русский中文 (简体)Add a translationOn this PageJump to sectionAttributesExamplesSpecificationsBrowser compatibilityRelated topics
+The HTML &lt;noscript&gt; element defines a section of HTML to be inserted if a script type on the page is unsupported or if scripting is currently turned off in the browser.
+   Content categories
+   Metadata content, flow content, phrasing content.
+   Permitted content
+   When scripting is disabled and when it is a descendant of the &lt;head&gt; element: in any order, zero or more &lt;link&gt; elements, zero or more &lt;style&gt; elements, and zero or more &lt;meta&gt; elements.
+    When scripting is disabled and when it isn't a descendant of the &lt;head&gt; element: any transparent content, but no &lt;noscript&gt; element must be among its descendants.
+    Otherwise: flow content or phrasing content.
+   Tag omission
+   None, both the starting and ending tag are mandatory.
+   Permitted parents
+   Any element that accepts phrasing content, if there are no ancestor &lt;noscript&gt; element, or in a &lt;head&gt; element (but only for an HTML document), here again if there are no ancestor &lt;noscript&gt; element.
+   Implicit ARIA role
+   No corresponding role
+   Permitted ARIA roles
+   No role permitted
+   DOM interface
+   HTMLElement
+Attributes
+This element only includes the global attributes.
+Examples
+&lt;noscript&gt;
+  &lt;!-- anchor linking to external file --&gt;
+  &lt;a href="https://www.mozilla.com/"&gt;External Link&lt;/a&gt;
+&lt;/noscript&gt;
+&lt;p&gt;Rocks!&lt;/p&gt;
+Result with scripting enabled
+Rocks!
+Result with scripting disabled
+External Link
+Rocks!
+Specifications
+   Specification
+   Status
+   Comment
+   HTML Living StandardThe definition of '&lt;noscript&gt;' in that specification.
+   Living Standard
+   HTML5The definition of '&lt;noscript&gt;' in that specification.
+   Recommendation
+   HTML 4.01 SpecificationThe definition of '&lt;noscript&gt;' in that specification.
+   Recommendation
+Browser compatibility
+The compatibility table in this page is generated from structured data. If you'd like to contribute to the data, please check out https://github.com/mdn/browser-compat-data and send us a pull request.
+Update compatibility data on GitHubDesktopMobileChromeEdgeFirefoxInternet ExplorerOperaSafariAndroid webviewChrome for AndroidFirefox for AndroidOpera for AndroidSafari on iOSSamsung InternetnoscriptChrome
+                Full support
+              YesEdge
+                Full support
+              12Firefox
+                Full support
+              1IE
+                Full support
+              YesOpera
+                Full support
+              YesSafari
+                Full support
+              YesWebView Android
+                Full support
+              YesChrome Android
+                Full support
+              YesFirefox Android
+                Full support
+              4Opera Android
+                Full support
+              YesSafari iOS
+                Full support
+              YesSamsung Internet Android
+                Full support
+              YesLegend
+                 Full support
+                Full supportMetadata Last modified: Apr 12, 2020, by MDN contributorsRelated Topics
+            &lt;canvas&gt;
+            &lt;noscript&gt;
+            &lt;script&gt;
+   HTML Elements
+   A
+  &lt;a&gt;
+  &lt;abbr&gt;
+  &lt;acronym&gt;
+  &lt;address&gt;
+  &lt;applet&gt;
+  &lt;area&gt;
+  &lt;article&gt;
+  &lt;aside&gt;
+  &lt;audio&gt;
+ B
+  &lt;b&gt;
+  &lt;base&gt;
+  &lt;basefont&gt;
+  &lt;bdi&gt;
+  &lt;bdo&gt;
+  &lt;bgsound&gt;
+  &lt;big&gt;
+  &lt;blink&gt;
+  &lt;blockquote&gt;
+  &lt;body&gt;
+  &lt;br&gt;
+  &lt;button&gt;
+ C
+  &lt;canvas&gt;
+  &lt;caption&gt;
+  &lt;center&gt;
+  &lt;cite&gt;
+  &lt;code&gt;
+  &lt;col&gt;
+  &lt;colgroup&gt;
+  &lt;content&gt;
+ D
+  &lt;data&gt;
+  &lt;datalist&gt;
+  &lt;dd&gt;
+  &lt;del&gt;
+  &lt;details&gt;
+  &lt;dfn&gt;
+  &lt;dialog&gt;
+  &lt;dir&gt;
+  &lt;div&gt;
+  &lt;dl&gt;
+  &lt;dt&gt;
+ E
+  &lt;em&gt;
+  &lt;embed&gt;
+ F
+  &lt;fieldset&gt;
+  &lt;figcaption&gt;
+  &lt;figure&gt;
+  &lt;font&gt;
+  &lt;footer&gt;
+  &lt;form&gt;
+  &lt;frame&gt;
+  &lt;frameset&gt;
+ G H
+  &lt;h1&gt;
+  &lt;h2&gt;
+  &lt;h3&gt;
+  &lt;h4&gt;
+  &lt;h5&gt;
+  &lt;h6&gt;
+  &lt;head&gt;
+  &lt;header&gt;
+  &lt;hgroup&gt;
+  &lt;hr&gt;
+  &lt;html&gt;
+ I
+  &lt;i&gt;
+  &lt;iframe&gt;
+  &lt;img&gt;
+  &lt;input&gt;
+  &lt;ins&gt;
+  &lt;isindex&gt;
+ J K
+  &lt;kbd&gt;
+  &lt;keygen&gt;
+ L
+  &lt;label&gt;
+  &lt;legend&gt;
+  &lt;li&gt;
+  &lt;link&gt;
+  &lt;listing&gt;
+ M
+  &lt;main&gt;
+  &lt;map&gt;
+  &lt;mark&gt;
+  &lt;marquee&gt;
+  &lt;menu&gt;
+  &lt;menuitem&gt;
+  &lt;meta&gt;
+  &lt;meter&gt;
+ N
+  &lt;nav&gt;
+  &lt;nobr&gt;
+  &lt;noframes&gt;
+  &lt;noscript&gt;
+ O
+  &lt;object&gt;
+  &lt;ol&gt;
+  &lt;optgroup&gt;
+  &lt;option&gt;
+  &lt;output&gt;
+ P
+  &lt;p&gt;
+  &lt;param&gt;
+  &lt;picture&gt;
+  &lt;plaintext&gt;
+  &lt;pre&gt;
+  &lt;progress&gt;
+ Q
+  &lt;q&gt;
+ R
+  &lt;rp&gt;
+  &lt;rt&gt;
+  &lt;rtc&gt;
+  &lt;ruby&gt;
+ S
+  &lt;s&gt;
+  &lt;samp&gt;
+  &lt;script&gt;
+  &lt;section&gt;
+  &lt;select&gt;
+  &lt;shadow&gt;
+  &lt;slot&gt;
+  &lt;small&gt;
+  &lt;source&gt;
+  &lt;spacer&gt;
+  &lt;span&gt;
+  &lt;strike&gt;
+  &lt;strong&gt;
+  &lt;style&gt;
+  &lt;sub&gt;
+  &lt;summary&gt;
+  &lt;sup&gt;
+ T
+  &lt;table&gt;
+  &lt;tbody&gt;
+  &lt;td&gt;
+  &lt;template&gt;
+  &lt;textarea&gt;
+  &lt;tfoot&gt;
+  &lt;th&gt;
+  &lt;thead&gt;
+  &lt;time&gt;
+  &lt;title&gt;
+  &lt;tr&gt;
+  &lt;track&gt;
+  &lt;tt&gt;
+ U
+  &lt;u&gt;
+  &lt;ul&gt;
+ V
+  &lt;var&gt;
+  &lt;video&gt;
+ W
+  &lt;wbr&gt;
+ X Y Z 
+  &lt;xmp&gt;
+  Learn the best of web developmentGet the latest and greatest from MDN delivered straight to your inbox.The newsletter is offered in English only at the moment.E-mailI’m okay with Mozilla handling my info as explained in this Privacy Policy.Sign up nowHide Newsletter Sign-upMDN Web DocsWeb TechnologiesLearn Web DevelopmentAbout MDNFeedbackAboutMDN Web Docs StoreContact UsFirefoxMDNMozilla© 2005-2020 Mozilla and individual contributors. Content is available under these licenses.TermsPrivacyCookies
+            Sign In
+    Sign in to enjoy the benefits of an MDN account. If you haven’t already created an account, you will be prompted to do so after signing in.
+        Sign in with Github
+        Sign in with Google
+            Close modal

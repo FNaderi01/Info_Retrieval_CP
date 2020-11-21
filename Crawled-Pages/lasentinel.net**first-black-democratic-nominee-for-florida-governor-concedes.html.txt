@@ -1,0 +1,333 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+First Black Democratic Nominee for Florida Governor Concedes            
+				By Gary Fineout and Brendan Farrington,  Associated Press                
+	                	                Published November 22, 2018
+		This combination of November 2018 photo shows Andrew Gillum, left, the Democratic candidate for governor, and Republican candidate Ron DeSantis. On Saturday, Nov. 17, 2018, Gillum ended his hard-fought campaign, just hours before counties must turn in their official results following days of recounting ballots. (AP Photo/Steve Cannon, Phelan M. Ebenhack)
+Andrew Gillum, who tried to energize Florida’s young and minority voters through a Democratic coalition seeking to end two decades of Republican control of the governor’s office, ended his hard-fought campaign Saturday as the state’s first black nominee for the post.
+Gillum, whose refrain had been “bring it home” as he recounted stories of growing up poor in the state, concluded his campaign with a Facebook video he recorded alongside his wife in a park.
+In his four-minute plus video, Gillum congratulated Republican Ron DeSantis and also vowed to remain politically active even though his term as mayor of the Florida capital of Tallahassee ends next week. Of his future plans, Gillum said: “stay tuned.”
+        ADVERTISEMENT        
+Gillum, just 39 years old, earned national attention and financial backing from well-known liberal billionaires with his first bid for statewide office. He ran on a liberal platform that included expanding Medicaid and raising taxes to spend more on education even though both ideas would have been hard to pass through the GOP-controlled Legislature.
+His final act as a candidate was less confrontational than that of another prominent African-American candidate in this year’s midterm elections: Stacy Abrams in neighboring Georgia ended her campaign for governor on Friday, ceding to a Republican with an unapologetically indignant tone establishing herself as a leading voting rights advocate.
+Democrat Andrew Gillum says he is ending his hard-fought race for Florida governor and has congratulated Republican Ron DeSantis (Nov. 17)
+“This has been the journey of our lives,” said Gillum, appearing in the video with his wife, R. Jai Gillum. “Although nobody wanted to be governor more than me that this was not just about an election cycle. This was about creating the type of change in this state that really allows for the voices of everyday people to show up again in our government, in our state, and in our communities. We know that this fight continues.”
+Gillum’s concession came hours before Florida’s counties must turn in their official results at noon Sunday after tense days of recounting ballots in both the gubernatorial and a U.S. Senate contest — two nationally watched midterm elections that have keep the presidential swing state on edge since Election Day.
+Gillum’s brief remarks came hours after President Donald Trump, who at one point in the campaign had sharply criticized Gillum, praised him for running a tough race.
+“He will be a strong Democrat warrior long into the future – a force to reckon with!” said Trump in a Twitter post.
+Gillum had initially conceded to DeSantis on election night, but he retracted it as the razor-thin margin between the two candidates narrowed. But he still trailed DeSantis by more than 30,000 votes following a legally required machine recount. Counties are wrapping up a hand recount this weekend and must submit their official results by noon Sunday.
+Gillum’s concession assures Florida Republicans will retain their grasp on the governor’s office since Jeb Bush’s term starting in 1999.
+DeSantis, 40, was considered an underdog before Trump tweeted his support for DeSantis in December, a month before DeSantis even entered the race. Trump campaigned to help push DeSantis to a primary victory in August and visited Florida two more times to help the Republican in the final days of the election.
+DeSantis’s campaign did not respond to Gillum’s remarks, pointing instead to a statement the former congressman put out two days ago.
+“Campaigns are meant to be vigorously debated contests of ideas and competing visions for the future,” DeSantis said. “The campaign for governor achieved this objective as evidenced by historic voter turnout from people of all parties across our state. But campaigns of ideas must give way to governing and bringing people together to secure Florida’s future. With the campaign now over, that’s where all of my focus will be.”
+DeSantis stumbled out of the gate after winning the Aug. 28 primary, telling Fox News that voters shouldn’t “monkey this up” by electing Gillum.
+Despite implications that DeSantis is racially insensitive — an idea he angrily disputed during a debate — he is poised to officially win the state that Trump carried in 2016. He has promised to keep intact many of the same policies on education and health care that have been in place by previous Republican governors.
+DeSantis ran as a political outsider despite serving three terms in Congress and running for the U.S. Senate in 2016 before dropping out of the race when Republican Sen. Marco Rubio decided to run for re-election.
+DeSantis is a former Navy officer who graduated from Yale University before getting his law degree at Harvard University.
+He gained name recognition during the primary with more than 100 appearances on Fox News, often to defend the president.
+DeSantis ran a largely negative campaign, calling Gillum a socialist and saying he oversaw one of the most corrupt and crime-ridden cities in the state. Trump joined in on the criticism, tweeting similar messages. The corruption allegation stemmed from a continuing FBI investigation into City Hall that Gillum has said he is not a target of and is cooperating with; the charge that Tallahassee had the state’s highest crime rate was false.
+Gillum portrayed DeSantis as racially divisive, repeatedly pointing out his “monkey this up” comment.
+“I’m not calling Mr. DeSantis a racist. I’m simply saying the racists believe he’s a racist,” Gillum said previously.
+Gillum’s announcement came as most Florida counties were winding down their hand recount in the state’s contentious U.S. Senate race. The smattering of results publicly posted Saturday showed that Democratic U.S. Sen. Bill Nelson was only gaining a few hundred votes in his bitter contest with outgoing Gov. Rick Scott, a Republican.
+State officials ordered a manual recount earlier in the week after a legally required machine recount showed that Scott led incumbent Democrat Bill Nelson by about 12,600 votes. More than 8 million voters cast ballots in the race.
+Nelson and Democrats filed several lawsuits following the close election, challenging everything from the state’s signature mismatch law to deadlines for mail-in ballots.
+If the 76-year-old Nelson loses, it would likely spell an end to a lengthy political career that stretches back four decades. Nelson was first elected to the U.S. Senate in 2000. A win for Scott would mark his third victory since the multimillionaire businessman launched his political career in 2010. In each race, Scott has barely edged his Democratic opponent.
+State law requires a machine recount in races where the margin is 0.5 percentage points or less. Once that recount was complete, if the differences in any of the races are 0.25 percentage points or less, a hand recount is ordered. Local canvassing boards only review ballots where a vote was not recorded by voting machines.
+		Categories: News | Political Tags: Andrew Gillum | Democrat | FBI | Fox News | Gov. Rick Scott | Harvard University | Jeb Bush | Legislature | navy | President Donald Trump | R. Jai Gillum | Republican | Ron DeSantis | Sen. Bill Nelson | Sen. Marco Rubio | Tallahassee | Twitter | U.S. Senate | Yale University		
+						Crenshaw Is Now Open, Crenshaw Line Expected to be Completed in 2020
+						BE INFORMED: Affordable Care Act / Obamacare Open Enrollment is Available N...
+						Oprah Winfrey’s Mother Vernita Lee Passes at 83
+						17-Year-Old Female Wanted in Fatal Baldwin Hills Stabbing
+						Teen Arrested in Killings of Sisters in Westchester
+						DNC on Andrea Stewart-Cousins Becoming the First Woman Majority Leader in t...
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

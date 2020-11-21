@@ -1,0 +1,264 @@
+      Skip to content
+                Sign up
+                    Why GitHub?
+                    Features →
+                      Code review
+                      Project management
+                      Integrations
+                      Actions
+                      Packages
+                      Security
+                      Team management
+                      Hosting
+                      Mobile
+                      Customer stories →
+                      Security →
+                Team
+                Enterprise
+                    Explore
+                      Explore GitHub →
+                    Learn &amp; contribute
+                      Topics
+                        Collections
+                      Trending
+                      Learning Lab
+                      Open source guides
+                    Connect with others
+                      Events
+                      Community forum
+                      GitHub Education
+                      GitHub Stars program
+                Marketplace
+                    Pricing
+                    Plans →
+                      Compare plans
+                      Contact Sales
+                      Nonprofit →
+                      Education →
+     -->
+        In this repository
+        All GitHub
+      ↵
+      Jump to
+      ↵
+    No suggested jump to results
+        In this repository
+        All GitHub
+      ↵
+      Jump to
+      ↵
+        In this repository
+        All GitHub
+      ↵
+      Jump to
+      ↵
+          Sign in
+              Sign up
+      {{ message }}
+      yarnpkg
+    /
+    yarn
+    Watch
+      598
+      Star
+      39.1k
+          Fork
+        2.6k
+📦🐈 Fast, reliable, and secure dependency management.
+          classic.yarnpkg.com
+            View license
+        39.1k
+        stars
+        2.6k
+        forks
+      Star
+    Watch
+            Code
+            Issues
+              2.3k
+            Pull requests
+              171
+            Actions
+            Projects
+              2
+            Security
+            Insights
+            More
+                    Code
+                    Issues
+                    Pull requests
+                    Actions
+                    Projects
+                    Security
+                    Insights
+          Dismiss
+        Join GitHub today
+        GitHub is home to over 50 million developers working together to host and review code, manage projects, and build software together.
+        Sign up
+      master
+      75
+      branches
+      162
+      tags
+    Go to file
+      Code
+  Clone
+       -->
+            HTTPS
+            GitHub CLI
+        Use Git or checkout with SVN using the web URL.
+      Work fast with our official CLI.
+      Learn more.
+                Open with GitHub Desktop
+                Download ZIP
+          Launching GitHub Desktop
+          If nothing happens, download GitHub Desktop and try again.
+          Go back
+          Launching GitHub Desktop
+          If nothing happens, download GitHub Desktop and try again.
+          Go back
+          Launching Xcode
+          If nothing happens, download Xcode and try again.
+          Go back
+          Launching Visual Studio
+          If nothing happens, download the GitHub extension for Visual Studio and try again.
+          Go back
+    Latest commit
+      arcanis
+          Update CHANGELOG.md
+      …
+      a4708b2
+        Sep 28, 2020
+        Update CHANGELOG.md
+      a4708b2
+        Git stats
+                    2,342
+                  commits
+  Files
+      Permalink
+    Failed to load latest commit information.
+        Type
+        Name
+        Latest commit message
+        Commit time
+            .circleci
+            .github
+            __tests__
+            bin
+            end_to_end_tests
+            flow-typed/npm
+            packages
+            resources
+            scripts
+            src
+            .babelrc
+            .dockerignore
+            .editorconfig
+            .eslintignore
+            .eslintrc.json
+            .flowconfig
+            .gitattributes
+            .gitignore
+            .npmignore
+            CHANGELOG.md
+            CODE_OF_CONDUCT.md
+            CONTRIBUTING.md
+            Dockerfile.dev
+            LICENSE
+            README.md
+            appveyor.yml
+            azure-pipelines.yml
+            gulpfile.js
+            jenkins_jobs.groovy
+            package.json
+            renovate.json
+            yarn.lock
+        View code
+        README.md
+  Fast, reliable, and secure dependency management.
+Fast: Yarn caches every package it has downloaded, so it never needs to download the same package again. It also does almost everything concurrently to maximize resource utilization. This means even faster installs.
+Reliable: Using a detailed but concise lockfile format and a deterministic algorithm for install operations, Yarn is able to guarantee that any installation that works on one system will work exactly the same on another system.
+Secure: Yarn uses checksums to verify the integrity of every installed package before its code is executed.
+Features
+Offline Mode. If you've installed a package before, then you can install it again without an internet connection.
+Deterministic. The same dependencies will be installed in the same exact way on any machine, regardless of installation order.
+Network Performance. Yarn efficiently queues requests and avoids request waterfalls in order to maximize network utilization.
+Network Resilience. A single request that fails will not cause the entire installation to fail. Requests are automatically retried upon failure.
+Flat Mode. Yarn resolves mismatched versions of dependencies to a single version to avoid creating duplicates.
+More emojis. 🐈
+Installing Yarn
+Read the Installation Guide on our website for detailed instructions on how to install Yarn.
+Using Yarn
+Read the Usage Guide on our website for detailed instructions on how to use Yarn.
+Contributing to Yarn
+Contributions are always welcome, no matter how large or small. Substantial feature requests should be proposed as an RFC. Before contributing, please read the code of conduct.
+See Contributing.
+Prior art
+Yarn wouldn't exist if it wasn't for excellent prior art. Yarn has been inspired by the following projects:
+Bundler
+Cargo
+npm
+Credits
+Thanks to Sam Holmes for donating the npm package name!
+            About
+📦🐈 Fast, reliable, and secure dependency management.
+        classic.yarnpkg.com
+  Topics
+  yarn
+  npm
+  package-manager
+  javascript
+  Resources
+      Readme
+  License
+        View license
+    Releases
+      162
+        1.22.10
+          Latest
+      Oct 1, 2020
+        + 161 releases
+    Packages 0
+        No packages published 
+        Used by 5,000+
+            + 51,464
+    Contributors 522
+      + 511 contributors
+              Languages
+        JavaScript
+        98.7%
+        Other
+        1.3%
+        © 2020 GitHub, Inc.
+          Terms
+          Privacy
+  Cookie Preferences
+          Security
+          Status
+          Help
+          Contact GitHub
+          Pricing
+        API
+        Training
+          Blog
+          About
+    You can’t perform that action at this time.
+    You signed in with another tab or window. Reload to refresh your session.
+    You signed out in another tab or window. Reload to refresh your session.
+  We use optional third-party analytics cookies to understand how you use GitHub.com so we can build better products.
+              Learn more.
+              Accept
+              Reject
+  We use optional third-party analytics cookies to understand how you use GitHub.com so we can build better products.
+              You can always update your selection by clicking Cookie Preferences at the bottom of the page.
+              For more information, see our Privacy Statement.
+              Essential cookies
+              We use essential cookies to perform essential website functions, e.g. they're used to log you in. 
+                Learn more
+              Always active
+              Analytics cookies
+              We use analytics cookies to understand how you use our websites so we can make them better, e.g. they're used to gather information about the pages you visit and how many clicks you need to accomplish a task. 
+                Learn more
+                Accept
+                Reject
+            Save preferences

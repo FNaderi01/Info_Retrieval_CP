@@ -1,0 +1,326 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+California Leaders, Activists Praise Kamala Harris’ “Reform First” Criminal Justice Plan            
+				By Tanu Henry, California Black Media                
+	                	                Published September 27, 2019
+		Democratic presidential candidate Sen. Kamala Harris, D-Calif. marches with her supporters at the Polk County Democrats Steak Fry, in Des Moines, Iowa, Saturday, Sept. 21, 2019. (AP Photo/Nati Harnik)
+Several political leaders as well as activists in California shared their reactions to U.S. presidential candidate and U.S. Sen. Kamala Harris’ criminal justice reform plan.
+It calls for ending mandatory minimum sentences, legalizing marijuana, expunging marijuana convictions and shutting down for-profit prisons, among a number of other proposals, that could have a positive impact on African American communities across California.
+Other policies in the plan to overhaul the country’s criminal justice system include introducing a national standard for police use of force; providing incentives for states to get rid of mandatory minimums; equalizing sentencing for possession and distribution of crack and cocaine; mandating prisons to offer educational courses, vocational training as well as mental health and addiction treatment. Harris also wants to end federal laws that prohibit formerly incarcerated people from accessing housing2, loans, food stamps and other public services.
+        ADVERTISEMENT        
+“By ending mass incarceration, holding police accountable, and keeping families intact, Kamala would fundamentally transform public safety and protect our children,” said California Superintendent of Public Instruction Tony Thurmond who oversees the state’s 977 school districts that enroll more than six million students. Thurmond says he’s excited by the focus on prevention and rehabilitation in Harris’ plan because one of his own top priorities is keeping kids safe, enrolled in school, and out of prisons.
+Harris announced her plan earlier this month. According to her campaign it “replicates and nationalizes” programs she introduced during her law enforcement career in California.
+“This plan uses my experience and unique capability to root out failures within the justice system,” she said. “We can end mass incarceration and combat the bias and racism that fuels it. We can ensure accountability for all parts of the system to build foundations of trust in our communities. We can stop profit from incarceration and stop criminalizing poverty. As president, I’ll fix this broken system to make it fairer and more accountable for communities across the country.”
+Lateefah Simon is a civil rights activist who runs the Akonadi Foundation, a social and racial justice organization in Oakland. She believes Harris is best equipped to lead reforms because she understands how the justice system works.
+“As a lifelong activist, I don’t say this lightly,” said Simon. “Her career is proof that you can fight to rectify what’s broken from the inside. Her plans for our country prove that she has a lot of fight left. We need a leader like Kamala in the White House to ensure that we end private prisons and give Black and Brown families their lives back.”
+Simon is also a California State University Trustee and the San Francisco Bay Area Rapid Transportation Board Director.
+Billie Mizell, former executive Director of Insight Prison Project based in San Quentin, says she’s not surprised by the progressive policies in Harris’ plan.
+Democratic presidential candidate Sen. Kamala Harris, D-Calif. speaks at the Polk County Democrats Steak Fry, in Des Moines, Iowa, Saturday, Sept. 21, 2019. (AP Photo/Nati Harnik)
+“Kamala Harris first earned my respect over 15 years ago when I was working for people sentenced to death,” said Mizell. “To the surprise of many of us in the abolition community back then, DA Harris refused to seek a death verdict, despite enormous political pressure. Before ‘progressive prosecutor’ was a trendy term, Kamala was fighting to be in spaces historically dominated by White men so that she could be a game-changer.”
+Most Democrats have reacted favorably to Harris’ criminal justice reform plan. But other critics have been attacking her record as prosecutor and California’s top cop since she announced her candidacy for President of the United States in January.
+“Time after time, when progressives urged her to embrace criminal justice reforms as a district attorney and then the state’s attorney general, Ms. Harris opposed them or stayed silent,” wrote
+Lara Bazelon, a law professor, in the New York Times. Bazelon is the former director of the Loyola Law School Project for the Innocent in Los Angeles.
+Defending her record, Harris said “I was swimming against the current, and thankfully the currents have changed. She made the statement in an interview with the New York Times just before releasing her plan. “The winds are in our sails. And I’m riding that just like everybody else is – because it’s long overdue.”
+“I know the system from the inside out,” Harris continued. . “So trust me when I say we have a problem with mass incarceration in America. Trust me when I say we have a problem with accountability. Trust me when I say we have to take the profit out of criminal justice.”
+Harris points to a program she started in 2005 when she was district attorney. Called “Back on Track,” the initiative provided jobs for young people arrested the first time for drug offenses. She also hired more women, people of color and LGBTQ people in an effort to increase diversity on her staff, according to her campaign.
+In the presidential race, Harris seems to be losing steam. She is polling at only 5 percent in Iowa, the first State in the Democratic primaries, according to a Focus on Rural America survey.  She has dropped more than 13 points over the last two months.
+Among African American Democrats, most polls place her third after Joe Biden and Bernie Sanders.
+“As someone who has seen the flaws in our criminal justice firsthand, I have long appreciated Kamala’s commitment to reforming it,” said San Francisco Mayor London Breed. “Her plans to end mandatory minimum sentencing, money bail, and the death penalty exemplify why her platform is so important. She is a trailblazer through and through.”
+		Categories: News | Political Tags: Akonadi Foundation | Bernie Sanders | Billie Mizell | California State University Trustee | civil rights activist | Democrats | Des Moines | Focus on Rural America | Insight Prison Project | Iowa | Joe Biden | Lara Bazelon | Lateefah Simon | LGBTQ | Loyola Law School Project for the Innocent | Oakland | Polk County Democrats Steak Fry | President of the United States | San Francisco Bay Area Rapid Transportation Board Director | San Francisco Mayor London Breed | San Quentin | Tony Thurmond | U.S. Sen. Kamala Harris		
+						Man Exonerated in 1998 California Murder Case Files Lawsuit
+						Race Relations Coalition Moves Toward Office of Racial Equality in Los Ange...
+						Jessye Norman, international opera star, dead at 74
+						Enough is Enough, Dems Back Trump Impeachment Inquiry
+						Jackson Celebrates 78th Birthday Honoring Service of Others
+						LaTisha Nixon: ‘I Want Ed Buck to Know I’m Never Going Away’
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

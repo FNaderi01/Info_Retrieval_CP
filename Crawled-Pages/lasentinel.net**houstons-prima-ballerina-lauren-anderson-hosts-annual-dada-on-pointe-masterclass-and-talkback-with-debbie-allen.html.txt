@@ -1,0 +1,334 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Houston’s Prima Ballerina Lauren Anderson hosts Annual ‘DADA On Pointe’ Masterclass and Talkback with Debbie Allen            
+				By Shonassee Shaver                
+	                	                Published April 20, 2017
+		Anderson is one of the few African American ballerinas in the world to be the head of a major ballet company. (Courtesy Photo)
+The former Houston Ballet principal shares her journey on becoming a ballerina while discussing individuality, giving back and her passion for ballet and education and pockets of hope at this year’s DADA on Pointe’ ballet Intensive.
+The Debbie Allen Dance Academy (DADA) presented the annual ‘DADA On Pointe’ Ballet Intensive from April 8th – April 12th in the heart of downtown’s Grand Arts High School –Concert Hall. Prima Ballerina Lauren Anderson joined the 5-day engagement hosting the Masterclass and Talkback session with Debbie Allen.
+ This is Allen’s 6th ‘DADA On Pointe’ Ballet Intensive and her 2nd Talkback. Last year the annual event featured a Talkback with ballet sensation Misty Copeland. Anderson instructed and educated ballet dancers from ages 8-25 years-old in DADA’s six-hour daily program, including a total of four classes. Ballet hopefuls were given the opportunity to study with unrivaled world class ballet masters from Russia and the United States in Ballet, Pointe, Character, Men’s Technique, Variations, Modern, Graham, Jazz and Contemporary Repertoire, as well as Ballet History. 
+        ADVERTISEMENT        
+The Houston native started dancing at a young age and was influenced by parents Lawrence Anderson, a school administrator, and Doris Parker-Morales, a classical piano teacher. She trained at Houston Ballet’s Ben Stevenson Academy at the age of seven. Anderson danced with Houston Ballet from 1983 to 2006, performing leading roles in all the great classical ballets, appearing across the world to critical acclaim audience, and in the process, becoming one of Houston Ballet’s most beloved stars. She joined Houston Ballet in 1983 as a Corps de Ballet, in 1987 was promoted to Soloist and in 1990 became the first African American to be promoted to principal dancer at Houston Ballet. She is also one of the few African-American ballerinas at the head of a major ballet company anywhere in the world. Anderson retired from performance in 2006. In January 2007, she assumed a new role in the Houston Ballet’s Education and Community Engagement program where she conducts master classes at area schools, and lectures to students on dance and her historic career as one of America’s most distinguished African-American ballerinas. In the spring of 2016, she will be a permanent exhibit in the Smithsonian’s National Museum of African American History and Culture in Washington, D.C.
+Los Angeles Sentinel: How was it to be a part of this year’s ‘DADA On Pointe’ Talkback session with Debbie Allen?
+Lauren Anderson: She’s awesome. It’s nice to work with someone that I feel has a certain passion and a certain energy. I think we believe in the same thing; I just get her. She is someone who has inspired me throughout my entire career and has supported me from afar.
+LAS: How was it to speak at this year’s Talkback session?
+LA: The Talkback was neat and very informal. Students were there to ask questions. Debbie was the moderator and she asked me a couple of things which is great because when she is moderating she will ask interesting questions that people want to know, instead of me just spouting out a bunch of stuff. It was well attended and there were some board members there too/as well.
+LAS: You started dancing at seven years-old. Did you know at such a young age that you had a passion to become a ballerina?
+LA: I went to a dance performance and that was great. I found out that my dad was an assistant principal to the high school of performing and visual arts. He was hiring dance teachers from Houston Ballet. “I got this overactive daughter what should do with her…we’ll put her in ballet.” It was kind of double edged. I played the violin and I danced. I had to choose one because my parents couldn’t afford the extra lessons, so I chose dance.
+LAS: Given that you started dancing at earlier age and continued throughout your youth and adulthood, what is the motivation that kept your career thriving as a veteran Prima Ballerina and Educator?
+LA: Pockets of hope are what kept me going. When I was, I was going to quit dancing.  A dance instructor made it possible for me to continue by coming in the studio and helping me, there was that pocket of hope. When I was 13, I was told my body was not the right body for ballet and that I should go into musical theatre to become a dancer. I had these little pockets of hope that came along when I thought I was going to quit for whatever reason, but I stuck with it. It’s almost like don’t quit before the miracle. It’s not anything profound, but it’s kind of what kept me going, dealing with all the crap throughout life. When real life happens, you make it through.
+LAS: Similar to music, acting and dancing is a skill of the arts. However, dancing is a form of movement. Unlike acting and music, dancing carries less of a dialogue with the audience, but communicates and connects with audience through movement. What are your thoughts on the unspoken dialogue of a dancer?
+LA: I think it’s the same. The words are the words, the feelings are the feelings, it’s the same, is just the movement. If you think to yourself about being in love with someone, those feeling and thoughts penetrate through dancing and is conveyed to the crowd. What I think about, is the dialogue of the story.  If it is a technique or tap set, that may be different, however doing a story about the narrative of love is powerful. When you think about those things, it comes to your body. There is a dialogue going on in your head just like a singer. I saw Audra McDonald (“A Raisin In The sun: TV Movie”) the other night.  She was doing one of the songs on Broadway, she was acting in it as well as singing. If you have a dialogue going, it comes through.
+LAS: Do you ever pick up new ideas or techniques while traveling, educating and performing?
+LA: If there any niches, new teaching techniques, new combinations or a new dance album, I will take them back with me. We’re always borrowing from each other. I get whatever I can from where ever I can and take it to the next place.
+LAS: Living in such a progressive society, would you consider Black female ballerinas and dancers to be unlimited and unstoppable?
+LA: Things are different and I guess that is a change of sorts. Have things changed as much as they should? No, they haven’t. We have social media, where we are more aware of things that are going on, we see people lives unfold in front of us. I think there is more opportunity, more knowledge and more awareness of certain things. However, the industry dynamics are not that different, but they are changing and that’s good.
+LAS: How have you maintain your position as a veteran prima ballerina?
+LA: There is not another me. I tell these kids there won’t be another me. There is only one Lauren Anderson, Debra Austin and one Misty Copeland.
+LAS: Copeland and yourself are two distinct and successful Black Prima Ballerinas, what makes a ballerina stand out? What makes the industry take notice?
+LA: That’s a good question. What makes people come back to the ballet to see certain people dance? I don’t know. I tell the truth when I’m on stage.  I’m passionate about my craft, I love what I do.
+LAS: What advice do you have for up-in-coming ballerinas and dancers of color?
+LA: Just do you. You have to be yourself and be honest. No one is going to do you like you, because in this world as women, we’re constantly being compared to each other. In the dance world, you’re really compared, all we’re taught about is how we look and the learn the technique. You can teach someone the technique, but you can’t teach someone how to have a heart and soul. We have feet, legs, arms and hands, if we’re blessed, we have all of those things. We can take as many classes and learn the steps, but what you bring to the art form and to the table is you, that is what makes you individual. Stop comparing yourself to people, just be the best that you can be within that technique.”
+LAS: How important is it to give back to budding ballerinas that were once where you were?
+LA: It dies if you don’t give back. Art dies if you don’t give back. What I do now is much more important than what I was doing when I was dancing. Being a teacher is more important than being an entertainer. I want people to say she was a damn good dancer and incredible teacher.
+LAS: You are a former Houston Ballet principal. How important is for art, music and dance programs to be incorporated schools?
+LA: An artist of whatever, whether it be performing or visual, we need it, kids need it. They need to work both sides of the brain. It is absolutely necessary. We want to teach and grow complete children, not partial children or ‘tested’ children [students being taught for a test-taking].  If you want to have a complete community, there has to be complete people in the community. For it to grow you have to have children in that community to become the next whatever. If you don’t teach the complete child, you won’t have a complete community and that’s what we’re trying to do here. The arts are very important and I’m so blessed.
+My job is to go into under-served communities and bring the arts, dance and core curriculum subjects together in a high quality dance and education form. That’s my job. I’m the program manager of that department. That’s my main focus, besides dancing all over the world. This my passion at the moment.
+		Categories: Entertainment | National Tags: Ballerina | entertainment | Lauren Anderson | National | Shonassee Shaver | The Debbie Allen Dance Academy		
+						Holman United Hosts US Senator Kamala Harris at Packed Town Hall
+						NNPA Newswire Exclusive: Bill Cosby Finally Breaks His Silence
+						Charlie Murphy Remembered by Fellow Comedians at Funeral
+						Sylvia Moy: Motown’s First Female Record Producer Passes
+						Common &amp; Nelson George Talk Social Justice, Hip-Hop Roots at 2017 Tribe...
+						Make Way for Dulé!
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

@@ -1,0 +1,328 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+The HBCU Community Needs Bipartisan Support            
+				By Dr. Harry L. Williams  President and CEO, Thurgood Marshall College Fund                
+	                	                Published April 5, 2018
+		Johnny C. Taylor, Jr., outgoing president and CEO of TMCF, says that Dr. Harry L. Williams (pictured), the president of Delaware State University, is the right person to lead TMCF into the future. (Delaware State University)
+Direct Engagement with President Trump and the GOP is paying off for the HBCU community
+A few months ago, the Thurgood Marshall College Fund (TMCF) was proud to welcome the presidents and chancellors from 30 Historically Black Colleges and Universities (HBCUs) and Predominantly Black Institutions (PBIs) to Washington, D.C. for the second annual HBCU Fly-In held in conjunction with the leadership of Senator Tim Scott (R-S.C.) and Representative Mark Walker (R-N.C.), who are both members of the very important, bipartisan HBCU Caucus.
+        ADVERTISEMENT        
+My experience as a former HBCU president and now leader of TMCF, working on behalf of our 47 publicly-supported HBCUs, gives me a broad perspective on the federal government’s partnership with HBCUs, as delivered through this event’s multiple listening sessions and direct engagement opportunities with members of Congress and senior leadership within the Trump Administration. Thanks to the commitment of dozens of our HBCU presidents and chancellors who attended our inaugural convening and this year’s fly-in, we’re beginning to see major developments from several federal agencies looking to increase support for HBCUs and to create more opportunities for our scholars.
+Thanks to our collective advocacy, several HBCUs that were devastated by Hurricane Katrina in 2005 received total forgiveness of outstanding loans awarded for the restoration of their campuses in the hurricane’s aftermath. Southern University at New Orleans, Dillard University, Xavier University, and Tougaloo College are free of their repayment obligations on more than $300 million in federal loans, because of direct engagement with and action from this administration and congressional leadership on issues of critical importance to our HBCU’s, like this one.
+Perhaps the most significant indicator of our growing partnership has been the achievement of level funding in the President’s FY’ 2019 budget proposal and within the recent Omnibus Appropriations Bills. For example, the FY’ 2018 Omnibus Appropriations bill had major wins for HBCUs:
+Pell Grant Maximum Award
+FY’17 Funding Level: $5,920 (per student)
+FY’18 Funding Level: $6,095 (+$175/increase of 2.96 percent)
+Title III, Part B and F, Strengthening HBCUs Undergraduate Programs
+FY’17 Funding Level: $244.6 million
+FY’18 Funding Level: $279.6 million (+$34 million/increase of 14.3 percent)
+Title III, Part B, Strengthening HBCUs Graduate Programs
+FY’17 Funding Level: $63.2 million
+FY’18 Funding Level: $72.3 million (+$9 million/increase of 14.3 percent)
+Title III, Part A, Strengthening PBI Program
+FY’17 Funding Level: $9.9 million
+FY’18 Funding Level: $11.3 million (+$1.4 million/increase of 14.3 percent)
+Title VII, Masters Degree Program at HBCUs and PBIs
+FY’17 Funding Level: $7.5 million
+FY’18 Funding Level: $8.5million (+$1 million/increase of 14.3 percent)
+We are cognizant that many lawmakers in the majority in Congress favor fiscal austerity to address budgetary issues, but in a legislative environment dominated by talks of budget cuts, critical HBCU funding lines were increased, which is a demonstrable return on our collective investment in bipartisan engagement.
+Indeed, TMCF’s decision not to resist, but instead engage in a strategic way and bipartisan fashion on behalf of our nearly 300,000 HBCU students who need a voice in Congress and with the Trump Administration has borne fruit at many levels. I am optimistic that many of our presidents and chancellors departed the nation’s capital with a clearer sense of the propriety of this strategy given our mutual goals, and now having the benefit to witness the rewards of this advocacy effort. TMCF will not stop engaging with all of our federal partners, because bipartisan advocacy with the Congress and engagement with the Trump Administration is paying dividends for our nation’s HBCUs.
+Dr. Harry L. Williams is the president &amp; CEO of Thurgood Marshall College Fund (TMCF), the largest organization exclusively representing the Black College Community. Prior to joining TMCF, he spent eight years as president of Delaware State University. Follow him on Twitter at @DrHLWilliams.
+		Categories: Education | Op-Ed | Opinion Tags: commentary | Dillard University | Dr. Harry L. Williams | Dr. Harry L. Williams op-ed and Trump Administration | HBCU funding and Trump | HBCUs and Republicans | HBCUs and Trump Administration | Omnibus Appropriations Bills | Southern University at New Orleans | Thurgood Marshall College Fund | Xavier University		
+						LAPD Chief Charlie Beck, Actor Forest Whitaker to Receive Honorary USC Degr...
+						Libraries Are Still A Needed Community Resource
+						Student Athlete of the Week: Elliott Smith
+						Success On “The Way”… Ask Dr. Jeanette: “Don’t Waste Your Life”
+						Resurrection and Righteous Renewal: Insights from Kemet, Garvey and Muhamma...
+						We Must All Invest In Our At Promise Youth
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

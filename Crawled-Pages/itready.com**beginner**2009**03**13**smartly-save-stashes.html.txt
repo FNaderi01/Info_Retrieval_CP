@@ -1,0 +1,128 @@
+      git ready
+      learn git one commit at a time
+      by Nick Quaranto
+    smartly save stashes
+  committed 13 Mar 2009
+  I seem to be using stashing more and more, and I’ve found that seeing the stash list output looking like this isn’t very helpful:
+$ git stash list
+stash@{0}: WIP on feature1: b50788b... First pass...
+stash@{1}: WIP on master: b50788b... First pass...
+stash@{2}: WIP on shoulda: e783fb0... Upgrading the rest...
+Sure, it’s got the commit SHA and message that your work was based off of, but if you’re anything like me, you forgot what you worked on the moment you stashed the changes and opened up that dreaded bug ticket that took hours to finish.
+Instead, stashing like this is a lot better when you’re trying to figure out what you actually threw in there:
+git stash save "your message here"
+Now, your stashes will look a lot cleaner and hopefully help you save some time when pulling information out of there.
+$ git stash list
+stash@{0}: On shoulda: Updating instructions
+stash@{1}: On master: started merge but need to fix #104 first
+stash@{2}: On feature1: Adding some stuff
+If you need to see what’s been changed for a certain stash, you can simply pass in the treeish for the stash, given in the git stash list output. The stash@{&lt;number&gt;} part shows you how to reference that changeset. Simply pass it into git diff to figure out what was changed:
+$ git diff stash@{0}
+diff --git a/TODO b/TODO
+index b0ecaeb..4ca398c 100644
+--- a/TODO
++++ b/TODO
+@@ -1,4 +1,3 @@
+ [ ] Easier configuration of Maruka and blahtex directories [mdreid]
+ [ ] Accurate "related posts" calculator
+-[ ] Autobuild
+-[ ] Add more awesome.
++[ ] Autobuild
+\ No newline at end of file
+You could also use git show to see the commit it was based off of as well. If you’ve got more stash related tips or others that you can think of, let us know!
+    View the discussion thread.blog comments powered by Disqus
+      beginner
+        smartly save stashes
+        remote tracking branches
+        ignoring doesn't remove a file
+        where to find the git community
+        finding who committed what
+        what git is not
+        how git stores your data
+        converting from svn
+        tagging
+        push and delete remote branches
+        installing git
+        branching and merging
+        pushing and pulling
+        ignoring files
+        the staging area
+        cleaning up untracked files
+        reverting files
+        stashing your changes
+      intermediate
+        interactive rebase status
+        find unmerged commits
+        find ancestor commits
+        restoring a directory from history
+        rolling back changes with revert
+        pick out individual commits
+        get a file from a specific revision
+        temporarily ignoring files
+        list remote branches
+        easily fetching upstream changes
+        reflog, your safety net
+        helpful command aliases
+        intro to rebase
+        finding what has been changed
+        exporting your repository
+        text-based graph
+        sharing your changes
+        count your commits
+        interactive adding
+        visualizing your repo
+        checkout tracked remote branch
+      advanced
+        gpg-sign releases
+        ribbon/catchup: reading new commits
+        tig, the ncurses front-end to Git
+        what's inside your .git directory
+        reorder commits with rebase
+        easily manage git remote branches
+        keep either file in merge conflicts
+        convert git-svn tag branches to real tags
+        pull with rebase
+        squashing commits with rebase
+        bash auto completion
+        push to only bare repositories
+        zsh git status
+        bash git status
+        bend logs to your will
+        restoring lost commits
+        piecemeal staging
+        fixing broken commit messages
+      resources
+      Git Community Book
+      GitHub Guides
+      GitWiki
+      Git for everyone
+      Git-SVN Crash Course
+      $ cheat git
+      Why Git is Better Than X
+      Git for Computer Scientists
+      Git Magic
+      Gitology
+      gitguru
+      Pro Git Book
+      Git Reference
+      A tour of git: the basics
+      Git Immersion
+      Git Guys
+        about
+        code
+        submit a tip
+        rss
+        twitter
+        available in:
+        dutch |
+        french |
+        german |
+        hebrew |
+        italian |
+        japanese |
+        korean |
+        portuguese |
+        spanish |
+        swedish |
+        russian |
+        your language?

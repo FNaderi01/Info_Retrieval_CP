@@ -1,0 +1,327 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Howard University’s Celebrates Anniversary with Its Celebrity Journalists            
+				By Victoria Jones, Howard University News Service                
+	                	                Published September 14, 2016
+		From lwft, National Urban League CEO Marc Morial, CNN anchor Fredricka Whitfield, CBS National Correspondent Michelle Miller, and Dr. Gracie Lawson-Borders, dean of the Howard University School of Communications at Howard U. School of Communication’s 45 Anniversary, Saturday, September 10. (Paul Holston/ The Hilltop)
+WASHINGTON — Fredricka Whitfield and Victor Blackwell of CNN.  Michelle Miller of CBS. Pulitzer Prize winner Keith Alexander of the Washington Post.  Stan Verrett of ESPN.  D’Artagnan Bebel, vice president, general manager for Fox Television. Michelle Hord-White, vice president at NBC Universal.  Pulitzer Prize winner and renowned author Isabel Wilkerson.
+All of those people are graduates of the prestigious Howard University School of Communications.
+The school, born out of the riots that swept America in the mid- and late-1960s, celebrated 45 years of achievement over the weekend with an evening of awards and honors at the Newseum in Washington.
+        ADVERTISEMENT        
+More than 300 of the school’s students, faculty, staff and alumni from across the nation came together, network, and celebrate the success of its graduates.
+Five alumni were recognized for their excellence in their respected field, Bebel,  Christopher Cathcart, president and founder of OneDiaspora Group; Johnetta Davis, associate dean emeritus for student affairs at University of Maryland and emeritus professor at Howard University; Constance Cannon Frazier, chief operating officer at American Advertising Federation, and Whitfield of CNN.
+In addition, Hord-White was awarded the Corporate Partner Award.  The event was hosted by alumni Miller and her husband, Urban League President Marc Morial.
+The school, like journalism programs at all historically black colleges and universities, was created following the 1965 and 1967 riots that rocked America.
+Courtesy Photo
+President Lyndon Johnson appointed a commission, later known as the Kerner Commission, to answer three questions, “What happened? Why did it happen? What can be done to prevent it from happening again and again?”  One of the major culprits, the commission concluded, was the media.  As a result, black colleges and universities established journalism schools to supply the nation’s future black journalist.
+Many of the honorees thanked their favorite professor.  One professor was frequently mentioned by many of the honorees – Lawrence Kaggwa.
+Kaggwa, a journalism professor emeritus and the publisher of the District Chronicles, was recognized for his excellence and influence on so many lives.
+Kaggwa, who is originally from Uganda, is a pillar of the school, coming to Howard in the armed with three degrees not long after starting Norfolk State University journalism program in 1974.
+He said he was proud to see so many former students become successful.
+“With mentioning me in their speech that’s not that big a deal, but being as successful as they are that’s what we’re hired to do,” he said.  “When you walk out of my classes, and you graduate from Howard, and you come from Howard, nobody is going to tell you that you’re not qualified for anything that you have applied for.”
+Alum Martin A. Smith, who graduated in 1992 as a legal communications major, said she thinks Howard has one of the best media programs in the country.
+“If you’re going to start in communications,” she said, “and with the research people in media have to do, there’s no better place than having the Library of Congress here, all the federal government agencies that are here, so it puts you in an area where everything is at your fingertips.”
+George Sting Appiah, who graduated in print journalism in 2008 and is now a federal investigator of the United States Office of Personnel Management, wanted to come to the 45th Anniversary Soirée to support Howard and the School of Communications.
+Appiah believes that the curriculum is what really makes the School of Communications an excellent school and prepares you for the real world.
+“It was challenging,” he said.  “It’s not going to be easy because it’s not easy in the real world, and that’s one of the things I appreciated about it.  A lot of these schools are just pushing these students through…but Howard’s not like that.  They want to make sure that you’re learning and you’re equipped to go out into the field and apply your trade.”
+Sherry Soanes, a 1988 graduate in legal communications, is now a lawyer with the Department of Justice.  She believes that Howard is the perfect place to be if you want to be successful.
+Soanes said that School of Communications really prepared her for her career today and is the foundation of everything she does.
+“I have to communicate my position to opposing counsels, to the client, and to the judge,” she said.  “So, communication is at the center and the foundation for everything I do and I got that foundation at Howard.”
+		Categories: National | News Tags: Black journalists | CNN | Howard University | Isabel Wilkerson | Lawrence Kaggwa | Marc Morial | Michelle Miller | National Urban League | NBC | School of Communications | Victor Blackwell		
+						Federal Courts Blunt Voter Suppression Efforts in Five States
+						Family of Marcus Garvey Seeks Support for Posthumous Presidential Pardon of...
+						Brown Named Executive VP of Lagrant and Chair of Health And Wellness Practi...
+						LAAAWPPI HONORS WOMEN IN ACTION
+						Federal government halts work on part of pipeline project
+						JPMorgan Chase Awards Brotherhood Crusade $115,000 Grant
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

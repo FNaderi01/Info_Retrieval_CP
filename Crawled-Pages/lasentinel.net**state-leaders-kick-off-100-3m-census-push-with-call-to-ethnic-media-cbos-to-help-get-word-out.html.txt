@@ -1,0 +1,335 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+State Leaders Kick Off $100.3M Census Push With Call to Ethnic Media, CBOs to Help Get Word Out            
+				By Tanu Henry, California Black Media                
+	                	                Published April 4, 2019
+		California isn’t playing around in its effort to avoid an undercount in the 2020 Census.
+That determination was clear April 2 when the California Complete Count (CCC) office assembled a mixed group of stakeholders – advocates, state officials, legislative leaders and community members – to kick off an anticipated $154 million statewide public information campaign. The event was held exactly one year away from Census Day 2020.
+“California is determined to ensure we achieve a complete census count. We’ve started early and are committing more resources than any other state on a robust outreach and engagement effort to reach all Californians,” said Ditas Katague, Director, California Complete Count – Census 2020. “Our collaborative partnerships throughout the state will make a difference in 2020, which may be the most difficult Census count yet for California.”
+        ADVERTISEMENT        
+To reach the high mark its setting for itself, the CCC is encouraging ethnic media, community based organizations and other groups they are calling “trusted messengers” to apply for bids in a third round of funding as it finalizes its Census 2020 communication push. The office says the new contracts will be funded from a $22.9 million pot allotted to designated groups called Administrative Community Based Organizations in 10 regions of the state. The second source of funding, $26.6 million, will be channeled through county administrations.
+So far, the state has invested $100.3 million to support its overall Census outreach. Gov. Gavin Newsom has proposed an additional $54 million in the 2019-2020 budget.
+Last month, during its second round of funding, CCC announced it selected California Calls, an LA-based community organization comprised of 31 local grassroots groups, to lead its African-American outreach ahead of next year’s national Census.
+“My district and California as a whole have some of the hardest to count populations in the country, but we’re going to make sure everyone counts,” said Speaker of the California State Assembly Anthony Rendon who represents an electoral area in southeastern Los Angeles. “The Census is coming and it’s important. We all need to use our good reputations to remind everyone in every community to participate.”
+California Calls joined 13 other local community groups from across the state in the $4 million partnership with CCC. They are tasked with reaching out to ethnic minorities and other hard-to-count groups to ensure maximum participation.
+The US Census has always undercounted African Americans and the reasons are mostly economic. Correctly counting all the individuals in households with multiple or multigenerational families called “sub families” is a major factor. Other variables like families without permanent housing, incarceration, homelessness, homes without broadband subscriptions and low literacy can all come into play.
+During the last national survey in 2010 alone, US Census field representatives missed nearly 800,000 Blacks across the country and overlooked roughly seven percent of all Black children. Other racial and ethnic minorities have been similarly undercounted as well.
+“I represent one of the most undercounted census districts in California,” said Assemblymember Reggie Jones Sawyer (D-Los Angeles).  “It is imperative that we work to change the chronic undercounting of my district and many other disadvantaged communities throughout the state.”
+On March 29, CCC held a bidders’ conference in Sacramento to share information about the state’s Census 2020 priorities, the proposal process, application requirements and project deliverables with interested contractors and sub-contractors.  People who attended could show up in person or patch in through a teleconference line.
+CCC told interested organizations to submit strategic plans by May 2019. Their proposals should include details of how they would spread the word about the 2020 decennial to the least-likely-to-respond people in the state and lay out the ways they would motivate them to participate.
+Regina Brown Wilson, executive director of California Black Media, says she is encouraged by the steps the governor’s office is taking to address the “solvable” undercount problem.
+“We Black community leaders and media professionals – are committed,” she said.  “We are looking ahead and we are ready to do everything on the front-end, with all the tools that we have available to us, to prevent yet another undercount in the 2020 Census.”
+Inaccurate Census counts can lead to billions lost in federal funding for states. Those decreases can be far-reaching in disadvantaged communities that need the cash for things like social programs, infrastructure or schools.  The number of Representatives a state is allotted in the US Congress is also determined by the Census count.
+An undercount in California in 2020 could mean the loss of one seat in the US Congress. The state has the largest population in the United States and the highest number of seats – 53 – in the United States House of Representatives.
+“The 2020 Census will shape California’s future for the next decade,” said Assemblymember Marc Berman, chair of the Assembly Select Committee on the Census. “California is a big, bold, beautiful, diverse state – and because of that, we’re also the hardest to count in the country.”
+Research about past undercounts found that two demographic groups – immigrants and young, usually poor, unmarried women with children of all races – are overlooked the most.
+The 10 regional administrative community foundations that the CCC announced at its quarterly meeting March 12 will be tasked with working with the local County Complete Count Committees, local community-based and grassroots organizations to help and get the word out.
+Here’s a list of those foundations and regions:
+Sacramento Region Community Foundation
+United Way of the Wine Country
+United Way of the Bay Area
+Faith in Action Network
+Ventura County Community Foundation
+Sierra Health Foundation: Center for Health Project Management
+The Community Foundation
+California Community Foundation
+Charitable Ventures of Orange County
+United Way of San Diego
+		Categories: Business | Local | News | News (Business) | Political Tags: #Sacramento | Administrative Community Based Organizations | Anthony Rendon | Assemblymember Marc Berman | Assemblymember Reggie Jones-Sawyer | California | California Black Media | California Calls | California Community Foundation | California Complete Count (CCC) | Census Day 2020 | Charitable Ventures of Orange County | County Complete Count Committees | Ditas Katague | Faith in Action Network | Los Angeles | Regina Brown Wilson | Sacramento Region Community Foundation | Sierra Health Foundation: Center for Health Project Management | The Community Foundation | United States House of Representatives | United Way of San Diego | United Way of the Bay Are | United Way of the Wine Country | US Congress | Ventura County Community Foundation		
+						Rebates Now Doubled for Popular Turf Replacement Program that Promotes Outd...
+						85,000 Kaiser Permanente Workers in 7 States Eager to Resume Negotiations a...
+						Charter School CEO: Avoid Black Kids Becoming the New Cotton Harvested for ...
+						South L.A. City Councilman Marqueece Harris-Dawson Declares Intersection ...
+						A Letter to My Homie Nipsey Hussle…”Rest In Power”
+						Magic Johnson Steps Down As Lakers President Of Basketball Operations
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

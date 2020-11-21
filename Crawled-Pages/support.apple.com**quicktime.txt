@@ -1,0 +1,81 @@
+					Global Nav Open Menu
+					Global Nav Close Menu
+					Apple
+						Shopping Bag
+					+
+								Search Support
+							Cancel
+						Apple
+						Mac
+						iPad
+						iPhone
+						Watch
+						TV
+						Music
+						Support
+							Shopping Bag
+					+
+									Cancel
+                                  .as-banner-image.as-banner-image--top {
+                                      background-image: url("/content/dam/edam/applecare/images/en_US/psp/psp-hero-banner-quicktime.image.large_2x.jpg");
+                                      }
+                                  .as-banner-image.as-banner-image--top:before {
+                                      content: "";
+                           		   display: block;
+                                      }
+                                  @media only screen and (max-width: 735px) {
+                                       .as-banner-image.as-banner-image--top {
+                                           background-image: url("/content/dam/edam/applecare/images/en_US/psp/psp-hero-banner-quicktime.image.small_2x.jpg");
+                                           }
+                                        }
+        	QuickTime Player Support
+							Get help opening a file
+							Get help with movie playback
+			Featured topics
+                       			 QuickTime Player helpIn QuickTime Player, you can play video or audio files. QuickTime Player uses onscreen controls similar to a CD or DVD player.		    
+                            			Learn about controls		
+		Search for more topics
+						 Search Support 
+							Clear Search
+                       			 Have a question about QuickTime? Ask everyone.The members of our Apple Support Community can help answer your question. Or, if someone’s already asked, you can search for the best answer.		    
+                            			Ask now		
+                       			 Tell us how we can helpAnswer a few questions and we'll help you find a solution.		    
+                            			Get support		
+            		Apple Footer
+                        
+                        Apple 
+                            Support
+			QuickTime Player
+			Get Support+
+           				iPhone Support
+           				iPad Support
+           				Watch Support
+           				Mac Support
+           				Music Support
+           				Apple ID Support
+           				Apps Support
+           				Support Site Map
+			Service &amp; Repair+
+           				Apple Repair Options
+           				Service and Repair Information
+           				AppleCare Products
+           				Hardware Warranties
+           				Software License Agreements
+           				Complimentary Support
+			Resources+
+           				Downloads &amp; Updates
+           				Manuals
+           				Tech Specs
+           				Accessibility
+           				Education
+           				Business
+           				Apple Support Videos
+			Connect+
+           				Contact Us
+           				Phone Numbers
+           				My Support
+           				Apple Support App
+           				Apple Support Communities
+                United States 
+                Copyright © 2020 Apple Inc. All rights reserved.
+                 Privacy Policy Terms of Use Sales and Refunds                    Site Map 

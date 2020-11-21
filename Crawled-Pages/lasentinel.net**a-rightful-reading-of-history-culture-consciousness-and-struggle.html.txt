@@ -1,0 +1,316 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+A Rightful Reading of History: Culture, Consciousness and Struggle            
+				By Dr. Maulana Karenga                
+	                	                Published May 5, 2016
+		Dr. Maulana Karenga
+A rightful reading of history and the signs our times unavoidably evokes concerns and calls for a critical assessment of where we are and to what tasks we should direct our attention and efforts in our ongoing quest for a free and empowered community, a just and good society and a good and sustainable world. In our assessment we are of necessity directed toward the continuing struggle to free ourselves both socially and culturally. In fact, the two struggles are linked in an unbreakable bond. For in order to free ourselves socially, we must build a consciousness, cohesion and sense of specialness in community only our own culture can give us. But in order to bring forth the best of our culture, we must struggle to clear social space for its recovery, reception and development. It is in this context that our organization Us (Us, African people) argued in the Sixties and continues to argue that the key challenge in Black life is the cultural challenge. And this challenge is essentially to break beyond the boundaries and catechism of impossibilities of the established-order culture, bring forth the best of our own culture and ourselves and effectively address the fundamental questions of our world and our times.
+The task, as Us perceived it then and contends now, is to forge and embrace a culture which both prepares the people for the struggle and sustains them in the process of the struggle for a world of social justice, human freedom and human flourishing. This meant then and continues to mean selecting and stressing elements of Black culture which represent the best of African and human values, values which protect and promote human life, human freedom and maximum human development and of necessity, extend to rightful concern for the well-being of the world. It means embracing values, views and practices which open up new ways of seeing and approaching the world, that reinforce and raise up the people, support and sustain the struggle and point toward the new world we work and struggle to bring into being.
+Key to this process of deepening cultural consciousness and expanding struggle is the ongoing dialog with African culture. Kawaida, the philosophy of our organization Us, defines this dialog as the constant practice of asking questions and seeking answers from African culture to the fundamental and enduring concerns of the African and human community. At the heart of this project is the continuing quest to free ourselves and be ourselves, live full and meaningful lives and become the best of what it means to be both African and human. In a word, it is to come “into the fullness of ourselves, as Marcus Garvey taught us. Moreover, it involves an ongoing search for models of excellence and possibilities within our culture, speaking our own special cultural truth to the world and making our own unique contribution to the forward flow of human history.
+        ADVERTISEMENT        
+To truly dialog with African culture means, first of all, using it as a resource rather than a mere reference. To simply use African culture as a reference is to mention it to make a point without grounding or developing it, and never using it to answer questions, solve problems and produce and pursue paradigms of excellence and possibility in thought and practice. Moreover, to dialog with African culture is to constantly engage its oral, written and living-practice texts, its worldview and values, its understanding of itself and the world, in an ongoing search for ever better answers to the fundamental questions and challenges of our time.
+We must always recognize and respect the fact that our culture cultivates in us our own special way of being human in the world and that this particular African way of being human in the world provides a pathway to the universal. Ours is a history of struggle, creativity, achievement and constant concern for the right, the just and the good.
+And it is within the context of this rich and most ancient of histories and cultures, that we must work our way on and in the world, imagine excellence and achieve it, conceive good and pursue it. This ongoing search for solutions and models of human excellence and possibilities must occur, Kawaida contends, in every area of human life, but especially in the seven core areas of culture: history; religion (spirituality and ethics); social organization; economic organization; political organization; creative production (art, music, literature, dance, etc.) and ethos, the collective self-consciousness achieved as a result of activity in the other six areas.
+In the area of history, Us maintains, we must study history to learn its lessons, absorb its spirit of possibility, extract and emulate its models of excellence and possibility and honor the moral obligation to remember. Moreover, we must measure ourselves in the mirror of the best of our history and constantly ask ourselves how can we use the past as a foundation to inform, improve and enrich our present and expand the horizons and promise of our future. For indeed this is our duty: to know our past and honor it; to engage our present and improve it; and to imagine a whole new future and forge it in the most ethical, effective and expansive ways.
+In the area of religion (spirituality and ethics), we must uphold our most ancient spiritual and ethical traditions that stress social justice and struggle, introduced the concept of humans as possessors of dignity and divinity as early as 2140 B.C.E. (before the common era) and spoke audaciously to the world saying, “speak truth, do justice, care for the vulnerable, honor your elders and ancestors, cherish and challenge your children, maintain a rightful relationship with the environment, constantly struggle against evil and injustice and always raise up, praise and pursue the good.”
+Our social organization must be constantly concerned with values and practice that affirm and strengthen family, community and culture, especially the Nguzo Saba, the Seven Principles which aid us in building a peaceful and harmonious togetherness and in our struggle for freedom, justice, peace and human flourishing in the world. In the area of economics, our culture teaches us the principle of ujamaa which in its most expansive sense means shared work and wealth rooted in a profound sense of kinship with other humans and respect the environment as sacred space. And it teaches us to care for the poor and needy and aid them in their struggles to reduce and end poverty and build a good and flourishing life we all want and deserve.
+Our culture teaches us also to view politics as a collective vocation to create a just and good society and advance human good in the world. It teaches us to seek power with others not over them, power to free ourselves and be ourselves in the most ethical and expansive ways. And the best of African culture teaches that our creative production or art is at its best functional, collective and committing, celebrating not only the transcendent and awesome, but also the ordinary, revealing the beauty and sacredness of everyday people and their struggles to live dignity-affirming and fulfilling lives. Finally, our culture provides us with an ethos, a self-understanding that undergirds and instructs our self-assertion in the world, and fosters human excellence, social justice and ceaseless struggle for good in and for the world.
+Dr. Maulana Karenga, Professor and Chair of Africana Studies, California State University-Long Beach; Executive Director, African American Cultural Center (Us); Creator of Kwanzaa; and author of Kwanzaa: A Celebration of Family, Community and Culture and Essays on Struggle: Position and Analysis, www.AfricanAmericanCulturalCenter-LA.org; www.OfficialKwanzaaWebsite.org; www.MaulanaKarenga.org.
+		Categories: Dr. Maulana Karenga | Opinion Tags: consciousness | culture | Dr Maulana Karenga		
+						The Importance of Detecting Children and Families Trauma Early
+						Black Love: A Complementary and Species-Compelling Need
+						21st CENTURY CHALLENGES REQUIRE NEW MINDSETS AND NEW BEHAVIOR
+						Dialogue, not disruption, is the path to LAPD reform
+						It’s Time to Talk; Brother-to-Brother
+						Malcolm, Jihad and Racial Justice Reaffirming African Liberation Day
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

@@ -1,0 +1,241 @@
+  You are using an outdated browser. Please upgrade your browser to improve your experience.
+      Menu
+                Our Work 
+                      Supporting Schools
+                      Increasing Student Opportunity
+                About 
+                      Team
+                      Board
+                      Mission
+                      Contact Us
+                News 
+                      Press Statements
+                      Media Contact
+                Donate
+            Attend an Upcoming Event
+            Apply for a Grant
+            Español
+          Our Work 
+                Supporting Schools
+                Increasing Student Opportunity
+          About 
+                Team
+                Board
+                Mission
+                Contact Us
+          News 
+                Press Statements
+                Media Contact
+          Donate
+Search
+            Español
+  @font-face{font-family:flexslider-icon;src:url('https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.3.0/fonts/flexslider-icon.eot');src:url('https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.3.0/fonts/flexslider-icon.eot?#iefix') format('embedded-opentype'),url('https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.3.0/fonts/flexslider-icon.woff') format('woff')
+      , format('truetype'),url('https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.3.0/fonts/flexslider-icon.svg#flexslider-icon') format('svg');font-weight:400;font-style:normal}.flex-container a:focus,.flex-container a:hover,.flex-slider a:focus,.flex-slider a:hover{outline:0}.flex-control-nav,.flex-direction-nav,.slides{margin:0;padding:0;list-style:none}.flex-pauseplay span{text-transform:capitalize}.flexslider{padding:0}.flexslider .slides>li{display:none;-webkit-backface-visibility:hidden}.flexslider .slides img{width:100%;display:block}.flexslider .slides:after{content:"\0020";display:block;clear:both;visibility:hidden;line-height:0;height:0}html[xmlns] .flexslider .slides{display:block}* html .flexslider .slides{height:1%}.no-js .flexslider .slides>li:first-child{display:block}.flexslider{margin:0 0 60px;background:#fff;border:4px solid #fff;position:relative;zoom:1;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;-webkit-box-shadow:'' 0 1px 4px rgba(0,0,0,.2);-moz-box-shadow:'' 0 1px 4px rgba(0,0,0,.2);-o-box-shadow:'' 0 1px 4px rgba(0,0,0,.2);box-shadow:'' 0 1px 4px rgba(0,0,0,.2)}.flexslider .slides{zoom:1}.flex-viewport{max-height:2000px;-webkit-transition:all 1s ease;-moz-transition:all 1s ease;-ms-transition:all 1s ease;-o-transition:all 1s ease;transition:all 1s ease}.loading .flex-viewport{max-height:300px}.carousel li{margin-right:5px}.flex-direction-nav a{text-decoration:none;display:block;width:40px;height:40px;margin:-20px 0 0;position:absolute;top:50%;z-index:10;overflow:hidden;opacity:0;cursor:pointer;color:rgba(0,0,0,.8);text-shadow:1px 1px 0 rgba(255,255,255,.3);-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-ms-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out}.flex-direction-nav a:before{font-family:flexslider-icon;font-size:40px;display:inline-block;content:'\f001'}.flex-direction-nav a.flex-next:before{content:'\f002'}.flex-direction-nav .flex-prev{left:-50px}.flex-direction-nav .flex-next{right:-50px;text-align:right}.flexslider:hover .flex-direction-nav .flex-prev{opacity:.7;left:10px}.flexslider:hover .flex-direction-nav .flex-prev:hover{opacity:1}.flexslider:hover .flex-direction-nav .flex-next{opacity:.7;right:10px}.flexslider:hover .flex-direction-nav .flex-next:hover{opacity:1}.flex-direction-nav .flex-disabled{opacity:0!important;filter:alpha(opacity=0);cursor:default}.flex-pauseplay a{display:block;width:20px;height:20px;position:absolute;bottom:5px;left:10px;opacity:.8;z-index:10;overflow:hidden;cursor:pointer;color:#000}.flex-pauseplay a:before{font-family:flexslider-icon;font-size:20px;display:inline-block;content:'\f004'}.flex-pauseplay a:hover{opacity:1}.flex-pauseplay a .flex-play:before{content:'\f003'}.flex-control-nav{width:100%;position:absolute;bottom:-40px;text-align:center}.flex-control-nav li{margin:0 6px;display:inline-block;zoom:1}.flex-control-paging li a{width:11px;height:11px;display:block;background:#666;background:rgba(0,0,0,.5);cursor:pointer;text-indent:-9999px;-webkit-box-shadow:inset 0 0 3px rgba(0,0,0,.3);-moz-box-shadow:inset 0 0 3px rgba(0,0,0,.3);-o-box-shadow:inset 0 0 3px rgba(0,0,0,.3);box-shadow:inset 0 0 3px rgba(0,0,0,.3);-webkit-border-radius:20px;-moz-border-radius:20px;border-radius:20px}.flex-control-paging li a:hover{background:#333;background:rgba(0,0,0,.7)}.flex-control-paging li a.flex-active{background:#000;background:rgba(0,0,0,.9);cursor:default}.flex-control-thumbs{margin:5px 0 0;position:static;overflow:hidden}.flex-control-thumbs li{width:25%;float:left;margin:0}.flex-control-thumbs img{width:100%;display:block;opacity:.7;cursor:pointer;-webkit-transition:all 1s ease;-moz-transition:all 1s ease;-ms-transition:all 1s ease;-o-transition:all 1s ease;transition:all 1s ease}.flex-control-thumbs img:hover{opacity:1}.flex-control-thumbs .flex-active{opacity:1;cursor:default}@media screen and (max-width:860px){.flex-direction-nav .flex-prev{opacity:1;left:10px}.flex-direction-nav .flex-next{opacity:1;right:10px}}
+  .home-hero {
+    position: relative;
+    height: 80vh;
+  }
+  #home-slider {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 0;
+  }
+  #home-slider ul {
+    height: 100%;
+  }
+  .flexslider.slides {
+    border: 0px;
+  }
+  #home-slider li {
+    height: 100%;
+  }
+    @media screen and (min-width: 860px) {
+                        .flex-direction-nav .flex-prev {
+                            opacity:1;
+                            left: 10px
+                        }
+                        .flex-direction-nav .flex-next {
+                            opacity: 1;
+                            right: 10px
+                        }
+                    }
+              Success Stories
+              Click here to find out more.
+              Join Us!
+              I'm in.
+      Join
+        Optional email code
+      Statement
+      As an immigrant mother to a Black boy who will grow up to be a Black man in America, I am heartbroken and outraged at the blatant anti-Black racism entrenched in our society.  We at GPSN know that many of the families we serve experience racial injustices as a result of systemic racism and violence from law enforcement. We know that these tragedies are part of centuries of oppression that has robbed Black people of the chance at equality and justice.
+We as a society must all do better, and we need to make our community and country better by standing together against anti-Black racism (or standing with and behind the Black community). It is time for us to reflect and learn how to be effective allies demanding racial justice in our communities and our country. I am listening and growing as an ally and mother committed to a different tomorrow for my son and all Black children in Los Angeles.  
+GPSN stands in solidarity with Black communities, and we will continue to focus on educational equity as a foundational right for every Black youth and Black family. We pledge to assess ourselves to improve our own practices, as well as to work with all our partners to create a better public school system and society. 
+-Ana F. Ponce
+Executive Director, Great Public Schools Now
+    Check out our latest video! 
+      See all videos
+    -->
+        Why Now
+            88 percent of Los Angeles residents support making sure every student in a district with an underperforming public school has a choice of attending a higher performing public school.
+            More than 130,000 LAUSD students choose to attend great public magnet and charter schools each year.
+            More than 41,000 students were on waitlists for public charter schools in the greater Los Angeles area in 2015.
+            87 percent of Angelenos support reforming the local public school system
+        * Results based on a telephone poll conducted from September 20 to October 1 of 1,150 voters throughout communities within the Los Angeles Unified School District. The margin of error of the poll was ±2.9 percent
+  -->
+  section#why-now {
+    margin-top: 60px;
+    margin-bottom: 80px;
+  }
+  .yellow-line {
+    margin: 20px 0;
+    width: 40px;
+    height: 6px;
+    background-color: #f2d13b
+  }
+  section.why-now h2 {
+    margin-bottom: -30px;
+    text-align: center;
+  }
+  section.why-now p {
+    font-weight: 300;
+  }
+  .charts {
+    margin-top: 50px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-justify-content: space-around;
+    -ms-flex-pack: distribute;
+    justify-content: space-around
+  }
+  .chart {
+    width: 350px;
+    margin-bottom: 60px;
+  }
+  .chart p {
+    font-size: 18px;
+    line-height: 1.3
+  }
+  p.source {
+    margin: 0 auto;
+    width: 80%;
+    line-height: 1.4;
+    text-align: center;
+    font-style: italic;
+    font-weight: 300;
+    font-size: 16px
+  }
+Success Stories
+Click here to find out more.
+Read More
+Join Us!
+I'm in.
+Read More
+            Action Center
+            Get Engaged. Here's how?
+              Join
+                Attend an Upcoming Event
+                Apply for a Grant
+            Connect
+            Join us on social media!
+               Twitter
+               Facebook
+               YouTube
+section#search-block {
+  background: #072a44;
+  padding: 60px 3% 65px;
+}
+  input#signup_email {
+  color: white;
+}
+  #search-block h3 {
+    margin-bottom:3px;
+  }
+  #search-block h3 i {  
+    margin-right: 10px;
+  vertical-align: middle;
+  }
+  p.search-caption {
+    color: #577e9a;
+    margin-top: -12px;
+    font-size: 85%;
+}
+  .gsc-control-cse {
+  font-family: Arial, sans-serif;
+  border-color: transparent;
+  background-color: transparent;
+}
+  .gsc-input-box {
+  border: none;
+  background: #fff;
+  height: 50px;
+  border-radius: 3px;
+  box-shadow: 0 1px 35px rgba(0,0,0,0.4);
+  padding: 0 5px;
+}
+  .gsib_a, .gsib_b {
+  height: 60px;
+}
+  input.gsc-search-button {
+  background-image: none;
+    background:#f3d13b;
+        box-shadow: 0 1px 35px rgba(0,0,0,0.4);
+  filter: none;
+  width: initial;
+  border-radius: 3px;
+    margin:0;
+  padding: 0px;
+  border: none;
+    vertical-align:middle;
+    padding: 17px 30px;
+    height: 50px;
+    transition:.2s;
+}
+  input.gsc-search-button:hover, input.gsc-search-button:focus {
+  background:#ccaa19;
+  }
+  td.gsc-search-button {
+  background: #f3d13b;
+  border-radius: 3px;
+}
+  .gsc-search-box-tools .gsc-search-box .gsc-input {
+    padding-right: 5px;
+}
+  .gsc-webResult.gsc-result {
+    margin-bottom: 19px;
+}
+  .gsc-modal-background-image {
+      background-color: #072a44;
+  }
+.gsc-table-result, .gsc-thumbnail-inside, .gsc-url-top {
+    padding-left:0;
+  }
+  .gsc-result .gs-title {
+    height: initial;
+    line-height: 1.2;
+    margin-bottom: 5px;
+}
+  .gsc-results-wrapper-overlay {
+      width: 75%;
+    left:12.5%;
+        line-height: 1.5;
+  }
+  @media screen and (max-width:768px) {
+    .gsc-results-wrapper-overlay {
+      width: 90%;
+    left:5%;
+  }
+  }
+      Search
+        Enter search term above
+        Created by Veracity Media on NationBuilder
+    Like us on Facebook!
+  input#signup_email {
+color: #333;
+}

@@ -1,0 +1,360 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+The Dream Continues: 2019 Los Angeles Training Camp            
+				By Sentinel News Service                
+	                	                Published June 28, 2019
+		(Courtesy photo)
+Fans Must Sign Up for Free Tickets at therams.com/trainingcamp
+The Los Angeles Rams announced today their complete 2019 Training Camp schedule, which will feature 7 open practices at the University of California, Irvine. Rookies report to UCI on Wednesday, July 24 and the remainder of the team will report to camp on Friday, July 26 (player arrival and availability information will be shared with the media at a later date).
+2019 Rams Training Camp Schedule:
+        ADVERTISEMENT        
+DAY
+DATE
+TIME
+PRACTICE HIGHLIGHTS
+Sat
+Jul 27
+4 p.m.
+Kickoff Festival
+Giveaway: 2019 Rams Schedule Magnet 
+Sun
+Jul 28
+4 p.m.
+Vamos Rams Day
+Giveaway: Rams Knit Scarf
+Exclusive sale of “Vamos Rams” merchandise &amp; live performance from a Latin band
+Mon
+Jul 29
+4 p.m.
+Legends Reunion Day
+Giveaway: Poster featuring Rams Legends &amp; limited NFL 100 merchandise
+More than 50 former players representing six decades of Rams will be in attendance. A special discussion panel with Legends will be featured.
+Tues
+Jul 30
+4 p.m.
+Youth Sports Day
+Giveaway: Rams Compression Arm Sleeve 
+Rams will celebrate student-athletes and the stars of today and tomorrow.  
+Fri
+Aug 2
+2 p.m.
+Everyday Heroes – Honoring Military Members, First Responders and their Families
+Giveaway: Rams Challenge Coin with Bottle Opener
+Sat
+Aug 3
+4 p.m.
+Family Day
+Giveaway: Rams Shoelaces
+This day will feature a practice with the Los Angeles Chargers.  
+Sun
+Aug 4
+2 p.m.
+Training Camp Finale
+Giveaway: 2019 Rams Schedule Magnet 
+Additionally, as part of a Training Camp tradition, the full roster will be available for a limited time after practice for autographs.
+Note: All giveaways will be distributed to Training Camp attendees while supplies last. 
+Tickets are required for each day of Camp. While Training Camp is free and open to the public, all attendees must possess a valid ticket for entry. Fans must register for a free ticket at therams.com/trainingcamp or on the Rams Mobile App. (Note: Ticket registrations also will be available onsite.)
+The fan activation area will open two hours prior to every practice. Gates to practice will open 90 minutes before and select players and position groups will sign autographs after all open practices.
+All practices are free and open to the public and will feature live entertainment, an interactive look at the Rams’ new home to open in 2020, daily giveaways, Alumni autograph opportunities, family-friendly activations and more! Tickets will be required to receive giveaways (while supplies last).
+The team will host a “Kickoff Festival” for fans on Saturday, July 27 and the day will include interactive games, giveaways and appearances from Rams Cheerleaders, Legends, and team mascot Rampage.
+Additional training camp information plus details on the themed practices, registration for player autograph signings, Rams Rookie program, giveaways and the booster club tailgate are available at www.therams.com/trainingcamp. Weather and field conditions are evaluated daily, so all dates and times provided are subject to change, including autograph sessions.
+Fan Parking Information and Prohibited Items
+Parking will be available to fans in the Mesa Parking Structure (next to the Bren Events Center) and nearby lots 14, 5 and 70 (located near the intersection of Bison Ave and California Ave). Fans are encouraged to purchase parking passes in advance at a discounted rate of $13 per vehicle online at www.parking.uci.edu/rams. Parking purchased in-person on the day of practice will cost $16 per vehicle. Fans cannot bring alcohol, food (exceptions for special dietary needs), pets (service animals are permitted), video cameras or weapons. Please be aware that UCI is also a smoke and tobacco free community.
+		Categories: Football | Sports Tags: Irvine | The Los Angeles Rams | University of California		
+						Las Vegas Aces Fold to the L.A. Sparks
+						Durant, Irving make Nets the talk of the town in New York
+						L.A. Sports Council: Athletic Industry Generated $6.3 Billion in 2018
+						WATCH: In the Dugout with Dodgers Manager Dave Roberts – Pt. 1
+						WATCH: In the Dugout with Dodgers Manager Dave Roberts – Pt. 2
+						WATCH: In the Dugout with Dodgers Manager Dave Roberts – Pt. 3
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

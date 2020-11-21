@@ -1,0 +1,150 @@
+     category > maptopic > article -->
+    GitHub Docs
+    All products
+  GitHub Insights
+          安装和配置
+              安装和更新 GitHub Insights
+                  关于 GitHub Insights
+                  GitHub Insights 系统概述
+                  安装 GitHub Insights
+                  更新 GitHub Insights
+              配置 GitHub Insights
+                  配置 GitHub Insights 与 GitHub Enterprise 之间的连接
+                  管理 GitHub Insights 中的权限
+                  启用 GitHub Insights 与 GitHub Enterprise 之间的链接
+              管理 GitHub Insights 中的数据
+                  关于 GitHub Insights
+                  管理可用指标和报告
+                  管理贡献者和团队
+                  管理仓库
+                  管理组织
+                  管理目标
+                  管理事件
+          了解使用情况
+          GitHub Insights 可用的指标
+          查看关键指标和报告
+          设置 GitHub Insights 的时区
+          在 GitHub Enterprise 与 GitHub Insight 之间导航
+  我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问英文文档。如果此页面上的翻译有问题，请告诉我们。
+        GitHub Docs
+                按产品浏览
+                      GitHub Insights
+                       GitHub.com
+                       Enterprise Administrators
+                       GitHub Actions
+                       GitHub Packages
+                       Developers
+                       REST API
+                       GraphQL API
+                       GitHub Insights
+                       GitHub Desktop
+                       Atom
+                       Electron
+                            简体中文 (Simplified Chinese)
+                              English
+                              简体中文 (Simplified Chinese)
+                              日本語 (Japanese)
+                              Español (Spanish)
+                              Português do Brasil (Portuguese)
+      文章版本： Enterprise Server 2.22
+      Enterprise Server 2.22
+      Enterprise Server 2.21
+      Enterprise Server 2.20
+      Enterprise Server 2.19
+    GitHub Insights
+      文章版本： Enterprise Server 2.22
+      Enterprise Server 2.22
+      Enterprise Server 2.21
+      Enterprise Server 2.20
+      Enterprise Server 2.19
+        GitHub Insights 文档
+        通过 GitHub Insights 的数据了解和改进软件交付过程。 您可以从 GitHub Enterprise 查看基于数据的自定义报告。
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        必选
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        可选
+      Can we contact you if we have more questions?
+        可选
+      发送​​
+    谢谢！您的反馈已提交。
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  或, learn how to contribute.
+        入门指南
+  关于 GitHub Insights→
+  GitHub Insights 提供指标和分析报告，帮助工程团队了解和改进其软件交付流程。
+  GitHub Insights 系统概述→
+  GitHub Insights 是一款与 GitHub Enterprise 交互的独立应用程序。
+  安装 GitHub Insights→
+  您可以安装 GitHub Insights 并将独立应用程序连接到 GitHub Enterprise Server。
+  查看关键指标和报告→
+  您可以查看和过滤关键指标和报告，帮助了解并改进通过数据交付软件的过程。
+        热门文章
+  关于 GitHub Insights→
+  GitHub Insights 指标中包含的数据可高度自定义。
+  GitHub Insights 可用的指标→
+  GitHub Insights 包括各种指标，便于您了解团队的软件交付流程。
+  安装和配置 GitHub Insights→
+您可以通过安装和配置应用程序开始使用 GitHub Insights。
+  了解 GitHub Enterprise 的使用情况→
+您可以使用指标和报告来了解并改进通过数据交付软件的过程。
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        必选
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        可选
+      Can we contact you if we have more questions?
+        可选
+      发送​​
+    谢谢！您的反馈已提交。
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  或, learn how to contribute.
+      Still need help?
+      Ask the GitHub community
+      联系支持
+        产品
+          功能
+          安全
+          企业
+          案例研究
+          定价
+          资源
+        平台
+          开发者 API
+          合作伙伴
+          Atom
+          Electron
+          GitHub Desktop
+        支持
+          帮助
+          社区论坛
+          培训
+          状态
+          联系 GitHub
+        公司
+          关于
+          博客
+          招聘
+          新闻
+          商店
+        © 2020 GitHub, Inc.
+        条款 
+        隐私 

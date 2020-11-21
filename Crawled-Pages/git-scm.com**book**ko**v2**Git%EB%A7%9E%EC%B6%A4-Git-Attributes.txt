@@ -1,0 +1,471 @@
+        About
+            Branching and Merging
+            Small and Fast
+            Distributed
+            Data Assurance
+            Staging Area
+            Free and Open Source
+            Trademark
+        Documentation
+            Reference
+            Book
+            Videos
+            External Links
+        Downloads
+            GUI Clients
+            Logos
+        Community
+This book is available in
+  English.
+  Full translation available in
+    български език,
+    Deutsch,
+    Español,
+    Français,
+    Ελληνικά,
+    日本語,
+    한국어,
+    Nederlands,
+    Русский,
+    Slovenščina,
+    Tagalog,
+    Українська
+    简体中文,
+  Partial translations available in
+    Čeština,
+    Македонски,
+    Polski,
+    Српски,
+    Ўзбекча,
+    繁體中文,
+  Translations started for
+    azərbaycan dili,
+    Беларуская,
+    فارسی,
+    Indonesian,
+    Italiano,
+    Bahasa Melayu,
+    Português (Brasil),
+    Português (Portugal),
+    Svenska,
+    Türkçe.
+The source of this book is  hosted on GitHub.
+Patches, suggestions and comments are welcome.
+  Chapters ▾
+  1. 시작하기
+          1.1
+          버전 관리란? 
+          1.2
+          짧게 보는 Git의 역사 
+          1.3
+          Git 기초 
+          1.4
+          CLI 
+          1.5
+          Git 설치 
+          1.6
+          Git 최초 설정 
+          1.7
+          도움말 보기 
+          1.8
+          요약 
+  2. Git의 기초
+          2.1
+          Git 저장소 만들기 
+          2.2
+          수정하고 저장소에 저장하기 
+          2.3
+          커밋 히스토리 조회하기 
+          2.4
+          되돌리기 
+          2.5
+          리모트 저장소 
+          2.6
+          태그 
+          2.7
+          Git Alias 
+          2.8
+          요약 
+  3. Git 브랜치
+          3.1
+          브랜치란 무엇인가 
+          3.2
+          브랜치와 Merge 의 기초 
+          3.3
+          브랜치 관리 
+          3.4
+          브랜치 워크플로 
+          3.5
+          리모트 브랜치 
+          3.6
+          Rebase 하기 
+          3.7
+          요약 
+  4. Git 서버
+          4.1
+          프로토콜 
+          4.2
+          서버에 Git 설치하기 
+          4.3
+          SSH 공개키 만들기 
+          4.4
+          서버 설정하기 
+          4.5
+          Git 데몬 
+          4.6
+          스마트 HTTP 
+          4.7
+          GitWeb 
+          4.8
+          GitLab 
+          4.9
+          또 다른 선택지, 호스팅 
+          4.10
+          요약 
+  5. 분산 환경에서의 Git
+          5.1
+          분산 환경에서의 워크플로 
+          5.2
+          프로젝트에 기여하기 
+          5.3
+          프로젝트 관리하기 
+          5.4
+          요약 
+  6. GitHub
+          6.1
+          계정 만들고 설정하기 
+          6.2
+          GitHub 프로젝트에 기여하기 
+          6.3
+          GitHub 프로젝트 관리하기 
+          6.4
+          Organization 관리하기 
+          6.5
+          GitHub 스크립팅 
+          6.6
+          요약 
+  7. Git 도구
+          7.1
+          리비전 조회하기 
+          7.2
+          대화형 명령 
+          7.3
+          Stashing과 Cleaning 
+          7.4
+          내 작업에 서명하기 
+          7.5
+          검색 
+          7.6
+          히스토리 단장하기 
+          7.7
+          Reset 명확히 알고 가기 
+          7.8
+          고급 Merge 
+          7.9
+          Rerere 
+          7.10
+          Git으로 버그 찾기 
+          7.11
+          서브모듈 
+          7.12
+          Bundle 
+          7.13
+          Replace 
+          7.14
+          Credential 저장소 
+          7.15
+          요약 
+  8. Git맞춤
+          8.1
+          Git 설정하기 
+          8.2
+          Git Attributes 
+          8.3
+          Git Hooks 
+          8.4
+          정책 구현하기 
+          8.5
+          요약 
+  9. Git과 여타 버전 관리 시스템
+          9.1
+          Git: 범용 Client 
+          9.2
+          Git으로 옮기기 
+          9.3
+          요약 
+  10. Git의 내부
+          10.1
+          Plumbing 명령과 Porcelain 명령 
+          10.2
+          Git 개체 
+          10.3
+          Git Refs 
+          10.4
+          Packfile 
+          10.5
+          Refspec 
+          10.6
+          데이터 전송 프로토콜 
+          10.7
+          운영 및 데이터 복구 
+          10.8
+          환경변수 
+          10.9
+          요약 
+  A1. Appendix A: 다양한 환경에서 Git 사용하기
+          A1.1
+          GUI 
+          A1.2
+          Visual Studio 
+          A1.3
+          Eclipse 
+          A1.4
+          Bash 
+          A1.5
+          Zsh 
+          A1.6
+          Git in Powershell 
+          A1.7
+          요약 
+  A2. Appendix B: 애플리케이션에 Git 넣기
+          A2.1
+          Git 명령어 
+          A2.2
+          Libgit2 
+          A2.3
+          JGit 
+          A2.4
+          go-git 
+  A3. Appendix C: Git 명령어
+          A3.1
+          설치와 설정 
+          A3.2
+          프로젝트 가져오기와 생성하기 
+          A3.3
+          스냅샷 다루기 
+          A3.4
+          Branch와 Merge 
+          A3.5
+          공유하고 업데이트하기 
+          A3.6
+          보기와 비교 
+          A3.7
+          Debugging 
+          A3.8
+          Patch 하기 
+          A3.9
+          Email 
+          A3.10
+          다른 버전 관리 시스템 
+          A3.11
+          관리 
+          A3.12
+          Plumbing 명령어 
+      2nd Edition
+    8.2 Git맞춤 - Git Attributes
+Git Attributes
+디렉토리와 파일 단위로 다른 설정을 적용할 수도 있다. 이렇게 경로별로 설정하는 것을 Git Attribute 라고 부른다.
+이 설정은 .gitattributes 라는 파일에 저장하고 아무 디렉토리에나 둘 수 있지만, 보통은 프로젝트 최상위 디렉토리에 둔다. 그리고 이 파일을 커밋하고 싶지 않으면 .gitattributes 가 아니라 .git/info/attributes 로 파일을 만든다.
+이 Attribute로 Merge는 어떻게 할지, 텍스트가 아닌 파일은 어떻게 Diff 할지, checkin/checkout 할 때 어떻게 필터링할지 정해줄 수 있다.
+이 절에서는 설정할 수 있는 Attribute가 어떤 것이 있는지, 그리고 어떻게 설정하는지 배우고 예제를 살펴본다.
+바이너리 파일
+이 Attribute로 어떤 파일이 바이너리 파일인지 Git에게 알려줄 수 있다. 기본적으로 Git은 어떤 파일이 바이너리 파일인지 알지 못한다. 하지만, Git에는 파일을 어떻게 다뤄야 하는지 알려주는 방법이 있다.
+텍스트 파일 중에서 프로그램이 생성하는 파일에는 바이너리 파일과 진배없는 파일이 있다. 이런 파일은 diff 할 수 없으니 바이너리 파일이라고 알려줘야 한다. 반대로 바이너리 파일 중에서 취급 방법을 Git에 알려주면 diff 할 수 있는 파일도 있다.
+이어지는 내용으로 어떻게 설정할 수 있는지 살펴보자.
+바이너리 파일로 설정
+사실 텍스트 파일이지만 만든 목적과 의도를 보면 바이너리 파일인 것이 있다.
+예를 들어 Mac의 Xcode는 .pbxproj 파일을 만든다. 이 파일은 IDE 설정 등을 디스크에 저장하는 파일로 JSON 포맷이다.
+모든 것이 ASCII인 텍스트 파일이지만 실제로는 간단한 데이터베이스이기 때문에 텍스트 파일처럼 취급할 수 없다. 그래서 여러 명이 이 파일을 동시에 수정하고 Merge 할 때 diff가 도움이 안 된다.
+이 파일은 프로그램이 읽고 쓰는 파일이기 때문에
+바이너리 파일처럼 취급하는 것이 옳다.
+모든 pbxproj 파일을 바이너리로 파일로 취급하는 설정은 아래와 같다. .gitattributes 파일에 넣으면 된다.
+*.pbxproj binary
+이제 pbxproj 파일은 CRLF 변환이 적용되지 않는다. git show 나 git diff 같은 명령을 실행할 때도 통계를 계산하거나 diff를 출력하지 않는다.
+바이너리 파일 Diff 하기
+Git은 바이너리 파일도 Diff 할 수 있다.
+Git Attribute를 통해 Git이 바이너리 파일을 텍스트 포맷으로 변환하고 그 결과를 diff 명령으로 비교하도록 하는 것이다.
+먼저 이 기술을 인류에게 알려진 가장 귀찮은 문제 중 하나인 Word 문서를 버전 관리하는 상황을 살펴보자.
+모든 사람이 Word가 가장 끔찍한 편집기라고 말하지만 애석하게도 모두 Word를 사용한다.
+Git 저장소에 넣고 이따금 커밋하는 것만으로도 Word 문서의 버전을 관리할 수 있다.
+그렇지만 git diff 를 실행하면 아래와 같은 메시지를 볼 수 있을 뿐이다.
+$ git diff
+diff --git a/chapter1.docx b/chapter1.docx
+index 88839c4..4afcb7c 100644
+Binary files a/chapter1.docx and b/chapter1.docx differ
+직접 파일을 하나하나 까보지 않으면 두 버전이 뭐가 다른지 알 수 없다.
+Git Attribute를 사용하면 이를 더 좋게 개선할 수 있다.
+.gitattributes 파일에 아래와 같은 내용을 추가한다.
+*.docx diff=word
+이것은 *.docx 파일의 두 버전이 무엇이 다른지 Diff 할 때 “word” 필터를 사용하라고 설정하는 것이다.
+그럼 “word” 필터는 뭘까?
+이 “word” 필터도 정의해야 한다.
+Word 문서에서 사람이 읽을 수 있는 텍스트를 추출해주는 docx2txt 프로그램을 사용하여 Diff에 이용한다.
+우선 docx2txt 프로그램을 설치해야 하는데 http://docx2txt.sourceforge.net 사이트에서 다운로드 할 수 있다.
+INSTALL 부분의 설치과정을 참고하여 설치하고 쉘에서 실행할 수 있도록 설정한다.
+그리고 Git에서 잘 쓸 수 있도록 Wrapper 스크립트를
+docx2txt 라는 이름으로 아래와 같이 작성한다.
+#!/bin/bash
+docx2txt.pl "$1" -
+chmod a+x 로 실행권한을 설정해두고
+아래와 같이 Git 설정을 추가한다.
+$ git config diff.word.textconv docx2txt
+이제 Git은 확장자가 .docx 인 파일의 스냅샷을 Diff 할 때 “word” 필터로 정의한 docx2txt 프로그램을 사용한다.
+이 프로그램은 Word 파일을 텍스트 파일로 변환해 주기 때문에 Diff 할 수 있다.
+이 책의 1장을 Word 파일로 만들어서 Git에 넣고 나서 단락 하나를 수정하고 저장하는 예를 살펴본다.
+새로 단락을 하나 추가하고 나서
+git diff 를 실행하면 어디가 달려졌는지 확인할 수 있다.
+$ git diff
+diff --git a/chapter1.docx b/chapter1.docx
+index 0b013ca..ba25db5 100644
+--- a/chapter1.docx
++++ b/chapter1.docx
+@@ -2,6 +2,7 @@
+ This chapter will be about getting started with Git. We will begin at the beginning by explaining some background on version control tools, then move on to how to get Git running on your system and finally how to get it setup to start working with. At the end of this chapter you should understand why Git is around, why you should use it and you should be all setup to do so.
+ 1.1. About Version Control
+ What is "version control", and why should you care? Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. For the examples in this book you will use software source code as the files being version controlled, though in reality you can do this with nearly any type of file on a computer.
++Testing: 1, 2, 3.
+ If you are a graphic or web designer and want to keep every version of an image or layout (which you would most certainly want to), a Version Control System (VCS) is a very wise thing to use. It allows you to revert files back to a previous state, revert the entire project back to a previous state, compare changes over time, see who last modified something that might be causing a problem, who introduced an issue and when, and more. Using a VCS also generally means that if you screw things up or lose files, you can easily recover. In addition, you get all this for very little overhead.
+ 1.1.1. Local Version Control Systems
+ Many people's version-control method of choice is to copy files into another directory (perhaps a time-stamped directory, if they're clever). This approach is very common because it is so simple, but it is also incredibly error prone. It is easy to forget which directory you're in and accidentally write to the wrong file or copy over files you don't mean to.
+git diff 명령의 결과를 보면 “Testing: 1, 2, 3.” 부분이 추가된 것을 확인할 수 있다.
+물론 텍스트 형식 같은 완전한 정보는 아니지만 어쨌든 유용하다.
+이 방법으로 이미지 파일도 Diff 할 수 있다.
+필터로 EXIF 정보를 추출해서 이미지 파일을 비교한다. EXIF 정보는 대부분의 이미지 파일에 들어 있는 메타데이터다.
+exiftool 프로그램을 설치하고 이미지 파일에서 메타데이터 텍스트를 추출한다. 그리고 그 결과를 Diff 해서 무엇이 달라졌는지 본다.
+다음 내용을 .gitattributes 파일로 저장한다.
+*.png diff=exif
+Git에서 위 설정을 사용하려면 다음과 같이 설정한다.
+$ git config diff.exif.textconv exiftool
+프로젝트에 들어 있는 이미지 파일을 변경하고 git diff 를 실행하면 아래와 같이 보여준다.
+diff --git a/image.png b/image.png
+index 88839c4..4afcb7c 100644
+--- a/image.png
++++ b/image.png
+@@ -1,12 +1,12 @@
+ ExifTool Version Number         : 7.74
+-File Size                       : 70 kB
+-File Modification Date/Time     : 2009:04:21 07:02:45-07:00
++File Size                       : 94 kB
++File Modification Date/Time     : 2009:04:21 07:02:43-07:00
+ File Type                       : PNG
+ MIME Type                       : image/png
+-Image Width                     : 1058
+-Image Height                    : 889
++Image Width                     : 1056
++Image Height                    : 827
+ Bit Depth                       : 8
+ Color Type                      : RGB with Alpha
+이미지 파일의 크기와 해상도가 달라진 것을 쉽게 알 수 있다.
+키워드 치환
+SVN이나 CVS에 익숙한 사람들은 해당 시스템에서 사용하던 키워드 치환(Keyword Expansion) 기능을 찾는다.
+Git에서는 이것이 쉽지 않다.
+Git은 먼저 체크섬을 계산하고 커밋하기 때문에 그 커밋에 대한 정보를 가지고 파일을 수정할 수 없다.
+하지만, Checkout 할 때 그 정보가 자동으로 파일에 삽입되도록 했다가 다시 커밋할 때 삭제되도록 할 수 있다.
+파일 안에 $Id$ 필드를 넣으면 Blob의 SHA-1 체크섬을 자동으로 삽입한다.
+이 필드를 파일에 넣으면 Git은 앞으로 Checkout 할 때 해당 Blob의 SHA-1 값으로 교체한다.
+여기서 꼭 기억해야 할 것이 있다. 교체되는 체크섬은 커밋의 것이 아니라 Blob 그 자체의 SHA-1 체크섬이다.
+다음 내용을 .gitattributes 파일로 저장한다.
+*.txt ident
+테스트 할 파일에 $Id$ 레퍼런스를 넣고 저장한다.
+$ echo '$Id$' &gt; test.txt
+Git은 이 파일을 Checkout 할 때마다 SHA-1 값을 삽입해준다.
+$ rm test.txt
+$ git checkout -- test.txt
+$ cat test.txt
+$Id: 42812b7653c7b88933f8a9d6cad0ca16714b9bb3 $
+하지만, 이것은 별로 유용하지 않다.
+CVS나 SVN의 키워드 치환(Keyword Substitution)을 써봤으면 날짜(Datestamp)도 가능했다는 것을 알고 있을 것이다. SHA는 그냥 해시이고 식별할 수 있을 뿐이지 다른 것을 알려주진 않는다. SHA만으로는 예전 것보다 새것인지 오래된 것인지는 알 수 없다.
+Commit/Checkout 할 때 사용하는 필터를 직접 만들어 쓸 수 있다.
+방향에 따라 “clean” 필터와 “smudge” 필터라고 부른다.
+".gitattributes" 파일에 설정하고 파일 경로마다 다른 필터를 설정할 수 있다. Checkout 할 때 파일을 처리하는 것이 “smudge” 필터이고(“smudge” 필터는 Checkout 할 때 실행됨.) 커밋할 때 처리하는 필터가 “clean” (“clean” 필터는 파일을 Stage 할 때 실행됨.) 필터이다.
+이 필터로 할 수 있는 일은 무궁무진하다.
+Figure 144. “smudge” 필터는 Checkout 할 때 실행됨.
+Figure 145. “clean” 필터는 파일을 Stage 할 때 실행됨.
+이 기능은 사실 커밋 메시지를 위한 기능이었지만 응용한다면 커밋하기 전에 indent 프로그램으로 C 코드 전부를 필터링하는 기능을 만들 수 있다.
+*.c 파일에 대해 indent 필터를 거치도록 .gitattributes 파일에 설정한다.
+*.c filter=indent
+아래처럼 “indent” 필터의 smudge와 clean이 무엇인지 설정한다.
+$ git config --global filter.indent.clean indent
+$ git config --global filter.indent.smudge cat
+*.c 파일을 커밋하면 indent 프로그램을 통해서 커밋되고 Checkout 하면 cat 프로그램을 통해 Checkout된다.
+cat 은 입력된 데이터를 그대로 다시 내보내는 사실 아무것도 안 하는 프로그램이다.
+이렇게 설정하면 모든 C 소스 파일은 indent 프로그램을 통해 커밋된다.
+이제 RCS처럼 $Date$ 를 치환하는 예제를 살펴보자.
+이 기능을 구현하려면 간단한 스크립트가 하나 필요하다. 이 스크립트는 $Date$ 필드를 프로젝트의 마지막 커밋 일자로 치환한다. 표준 입력을 읽어서 $Date$ 필드를 치환한다.
+아래는 Ruby로 구현한 스크립트다.
+#! /usr/bin/env ruby
+data = STDIN.read
+last_date = `git log --pretty=format:"%ad" -1`
+puts data.gsub('$Date$', '$Date: ' + last_date.to_s + '$')
+git log 명령으로 마지막 커밋 정보를 얻고 표준 입력(STDIN)에서 $Date$ 스트링을 찾아서 치환한다. 스크립트는 자신이 편한 언어로 만든다.
+이 스크립트의 이름을 expand_date 라고 짓고 실행 경로에 넣는다.
+그리고 dater 라는 Git 필터를 정의한다.
+Checkout시 실행하는 smudge 필터로 expand_date 를 사용하고 커밋할 때 실행하는 clean 필터는 Perl을 사용한다.
+$ git config filter.dater.smudge expand_date
+$ git config filter.dater.clean 'perl -pe "s/\\\$Date[^\\\$]*\\\$/\\\$Date\\\$/"'
+이 Perl 코드는 $Date$ 스트링에 있는 문자를 제거해서 원래대로 복원한다.
+이제 필터가 준비됐으니 $Date$ 키워드가 들어 있는 파일을 만들고 Git Attribute를 설정하고 새 필터를 시험해보자.
+date*.txt filter=dater
+$ echo '# $Date$' &gt; date_test.txt
+커밋하고 파일을 다시 Checkout 하면 해당 키워드가 적절히 치환된 것을 볼 수 있다.
+$ git add date_test.txt .gitattributes
+$ git commit -m "Testing date expansion in Git"
+$ rm date_test.txt
+$ git checkout date_test.txt
+$ cat date_test.txt
+# $Date: Tue Apr 21 07:26:52 2009 -0700$
+이 기능은 매우 강력해서 입맛대로 프로젝트를 맞춤 설정할 수 있다.
+.git attributes 파일은 커밋하는 파일이기 때문에 필터 드라이버(여기서는 dater) 설정이 되지 않은 사람에게도 배포된다. 물론 dater 설정이 안 돼 있는 사람에게는 에러가 난다.
+필터를 만들 때 이런 예외 상황도 고려해서 항상 잘 동작하게 해야 한다.
+저장소 익스포트하기
+프로젝트를 익스포트해서 아카이브를 만들 때도 Git Attribute가 유용하다.
+export-ignore
+아카이브를 만들 때 제외할 파일이나 디렉토리가 무엇인지 설정할 수 있다.
+특정 디렉토리나 파일을 프로젝트에는 포함하고 아카이브에는 포함하고 싶지 않을 때 export-ignore Attribute를 사용한다.
+예를 들어 test/ 디렉토리에 테스트 파일이 있다고 하자. 보통 tar 파일로 묶어서 익스포트할 때 테스트 파일은 포함하지 않는다.
+Git Attribute 파일에 아래 라인을 추가하면 테스트 파일은 무시된다.
+test/ export-ignore
+git archive 명령으로 tar 파일을 만들면 test 디렉토리는 아카이브에 포함되지 않는다.
+export-subst
+아카이브를 만들어서 배포할 때도 git log 같은 포맷 규칙을 적용할 수 있다. export-subst Attribute로 설정한 파일들의
+키워드가 치환된다.
+git archive 명령을 실행할 때 자동으로 마지막 커밋의 메타데이터가 자동으로 삽입되게 할 수 있다. 예를 들어 .gitattributes 파일과 LAST_COMMIT 파일을 아래와 같이 만든다.
+LAST_COMMIT export-subst
+$ echo 'Last commit date: $Format:%cd by %aN$' &gt; LAST_COMMIT
+$ git add LAST_COMMIT .gitattributes
+$ git commit -am 'adding LAST_COMMIT file for archives'
+git archive 명령으로 아카이브를 만들고 나서 이 파일을 열어보면 아래와 같이 보인다.
+$ git archive HEAD | tar xCf ../deployment-testing -
+$ cat ../deployment-testing/LAST_COMMIT
+Last commit date: Tue Apr 21 08:38:48 2009 -0700 by Scott Chacon
+이 키워드 치환 기능으로 커밋 메시지와 Git 노트, Git Log도 넣을 수 있다. 어렵지 않다.
+$ echo '$Format:Last commit: %h by %aN at %cd%n%+w(76,6,9)%B$' &gt; LAST_COMMIT
+$ git commit -am 'export-subst uses git log'\''s custom formatter
+git archive uses git log'\''s `pretty=format:` processor
+directly, and strips the surrounding `$Format:` and `$`
+markup from the output.
+'
+$ git archive @ | tar xfO - LAST_COMMIT
+Last commit: 312ccc8 by Jim Hill at Fri May 8 09:14:04 2015 -0700
+       export-subst uses git log's custom formatter
+         git archive uses git log's `pretty=format:` processor directly, and
+         strips the surrounding `$Format:` and `$` markup from the output.
+이 아카이브 기능은 개발할 때가 아니라 배포할 때 좋다.
+Merge 전략
+파일마다 다른 Merge 전략을 사용하도록 설정할 수 있다.
+Merge 할 때 충돌이 날 것 같은 파일이 있다고 하자. Git Attrbute로 이 파일만 항상 타인의 코드 말고 내 코드를 사용하도록 설정할 수 있다.
+이 설정은 다양한 환경에서 운영하려고 만든 환경 브랜치를 Merge 할 때 좋다. 이때는 환경 설정과 관련된 파일은 Merge 하지 않고 무시하는 게 편리하다.
+브랜치에 database.xml 이라는 데이터베이스 설정파일이 있는데 이 파일은 브랜치마다 다르다. Database 설정 파일은 Merge 하면 안된다.
+Attribute를 아래와 같이 설정하면 이 파일은 그냥 두고 Merge 한다.
+database.xml merge=ours
+ours merge 전략을 다음과 같이 정의한다.
+$ git config --global merge.ours.driver true
+다른 브랜치로 이동해서 Merge를 실행했을 때 database.xml 파일에 대해 충돌이 발생하는 대신 아래와 같은 메시지를 보게 된다.
+$ git merge topic
+Auto-merging database.xml
+Merge made by recursive.
+Merge 했지만 database.xml 파일은 원래 가지고 있던 파일 그대로다.
+prev | next
+    About this site
+    Patches, suggestions, and comments are welcome.
+    Git is a member of Software Freedom Conservancy

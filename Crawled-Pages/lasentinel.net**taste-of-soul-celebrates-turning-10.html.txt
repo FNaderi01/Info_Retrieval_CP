@@ -1,0 +1,321 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Taste of Soul Celebrates Turning 10            
+				By Brian W. Carter, Staff Writer                
+	                	                Published October 14, 2015
+Photo by Robert Torrence
+What started in 2005 was a vision of a community united in love, peace and brotherhood—it was Taste of Soul. Danny Bakewell Sr. and the late Brenda Marsh-Mitchell along with city officials, community partners and friends created an idea that has grown into something special. This year will mark the 10th anniversary of Taste of Soul upholding that vision and establishing itself as the largest family festival in Los Angeles on Saturday, October 17.
+Crenshaw Blvd comes to life with a variety of vendors from all over Southern California, world renowned entertainment and a community that loves and respects each other. Over the past 10 years, TOS has remained one of the most peaceful festivals in South L.A. with the positive presence of law enforcement, the Nation of Islam and emergency units such as Explorer One Ambulance.
+Collage by Brian W. Carter
+Over the years, the festival’s fans, affectionately dubbed TOS Nation, have come to sample food from vendors from local restaurants, eateries and bakeries. Returning TOS vendors include Harold &amp; Belles, The Kobbler King and Mee Ma’s Gumbo Bricks. Other vendors include BBQ Smokehouse, Fighting Fish Co., Gwen’s Specialty Cakes and Try My T. It’s sure to be a foodie’s paradise as just about every kind of cuisine will be at the festival. TOS is more than food however, as there will be non-food vendors such as ordained minister and author John Watts with his book the “Missing Years of Baby Jesus” and teacher and author Latrice Slaughter with her book “I Love Me: Building Self-Esteem in Children.”
+TOS always has the best in entertainment thanks to wonderful partners such as Radio Free KJLH and 94.7 The Wave. This year will be no different. Both stages will be featuring longtime R&amp;B and funk favorites. KJLH-Buffalo Wild Wings Stage will see the return of TOS Celebrity Alum Angie Stone, who performed at Taste of Soul in 2007. Other artists featured on the stage this year include Monica, Joe and Mint Condition. The 94.7 WAVE Stage welcomes back TOS Celebrity Alums DW3, and will also welcome the sounds of Jon B., Lakeside and Zapp.
+        ADVERTISEMENT        
+The Brenda Marsh- Mitchell Gospel Stage returns honoring the memory of the longtime president of TOS, who passed away in August of 2014. This year the Gospel Stage welcomes McDonalds as a sponsor bringing the Inspiration Celebration Gospel Tour, which will include gospel artist Yolanda Adams, music director and songwriter Donald Lawrence and Dorinda Clark-Cole . Being one of the co-founders, the late Marsh-Mitchell also designed and managed the gospel stage at every TOS and arranged for appearances by both local and national artists.
+In 2012, StarQuest debuted at the 7th Annual TOS Festival, a creation of the Los Angeles Sentinel and Bakewell Media and has become a staple in showcasing local talent. The first StarQuest resulted in 12 semi-finalists, who were chosen to perform on the StarQuest stage during the TOS festival. In 2013, StarQuest added a kids’ competition to give youth a chance at stardom. The StarQuest 4 Kids competition features youth ages 5-17 in addition to the adult competition. In 2014, Mothership was the winner of the adult competition and Tim Jr. won the kids competition. As a result, StarQuest winners have been put on a path of success. Many are performing at multiple venues and some have already released music. Tim Jr. can be seen singing to the recent Apple Watch Ad commercial.
+TOS has utilized social media with an impressive turnout on Facebook where posts, pictures, shares, likes, tags, etc. were viewed 3.1 million times by 1.2 million people in the month of October 2014. Over the years, vendors, businesses and mom-and-pop shops have become a part of TOS nation. TOS’ broad appeal allows for Black businesses to come face-to-face with their consumers and new customers. Corporate sponsors have been lured back over and over again by the sheer over powering numbers of individuals with whom they could not reach otherwise.
+Collage by Brian W. Carter
+This year TOS will launch the Taste of Beauty Pavilion featuring the beauty industry’s top stylists and educators including Neeko, Kim Kimble, DaRico Jackson, Patric Bradley and 729 BEaUty. The Taste of Beauty Pavilion will offer live demonstrations and showcase an array of the latest hair care systems and products. Celebrating over 40 years in business, Mr. and Mrs. Jerry White of Kizure will be honored at this year’s festival.
+TOS’ partners and sponsors are valued contributors and have helped make the festival a 10-year success. Some of those sponsors include: AT&amp;T, South Coast Air Quality Management District (SCAQMD), Bank of America, California Endowment, Charles R. Drew University, JPMorgan Chase Co., Comerica, County of Los Angeles, Easy Choice Health Plan (HMO), Fox Audience Strategy, Buick, L.A. City Workforce Investment Board (WIB), Metro, Metropolitan Water District, Nestle Waters, Nielsen, California Resources Corporation, SEIU Local 2015, Southern California Edison, Southern California Gas Company, US Bank, Verizon Foundation, Walmart, Walsh/Shea, Watts Healthcare and Wells Fargo. TOS partners include: Radio Free 102.3 KJLH and 94.7 The Wave, CBS2-TV, Brotherhood Crusade, Metro, Ivie, McNeill and Wyatt, CHP, LAPD and AAUC.
+TOS would like to thanks this year’s chairs and co-chairs for their participation and support. Chairs this year are Mayor Eric Garcetti, Council President, Herb Wesson, Councilmember Marqueece Harris-Dawson and L.A. County Supervisor Mark Ridley-Thomas. Co-chairs include Congressmember Karen Bass, Senator Isadore Hall, III, Councilmember Curren Price, Assemblymember Reggie Jones-Sawyer, Assemblymember Autumn Burke, LAUSD District 1: Dr. George McKenna, KCBS-Channel 2, Pat Harvey and law firm Ivie, McNeill &amp; Wyatt.
+Metro makes sure transportation via the Metro Expo/Crenshaw light-rail station is available to those who wish to come to the festival every year. The Crenshaw/LAX light-rail line project continues making its way down Crenshaw Blvd. but will once again cease thanks to Walsh/Shea Corridor Constructors for TOS 10th Anniversary.
+Collage by Brian W. Carter
+For more information, visit www.tasteofsoulla.org. Don’t forget to download the Taste of Soul App which can also be found on the Taste of Soul website. Please visit and like Taste of Soul on Facebook, Twitter and Instagram. Don’t forget to download the Taste of Soul mobile App for the up-to-date information, prizes, giveaways, vendor locations, food and entertainment throughout the day.
+brian@lasentinel.net
+		Categories: A Taste of Soul | Crenshaw &amp; Around | Local | News | Uncategorized Tags: 10th annual Taste of Soul | Crenshaw Blvd | festival | South L.A. | South Los Angeles | Southern California		
+						Hall Releases Video Highlighting Barragan’s Dream of Buying a Home in...
+						Steve Bradford Inducted Into Gardena Wall of Fame
+						The Turnaround Story at Compton’s Schools
+						9th District Councilman Curren Price Receives Top Honor
+						Southern California McDonald’s® Announces Community Partnership and Loca...
+						West Basin Celebrates 20 Years of Water Recycling at Annual Water Harvest F...
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

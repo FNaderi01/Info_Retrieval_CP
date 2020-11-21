@@ -1,0 +1,233 @@
+            Account name:
+            Password
+        (OpenID?)
+        (Forgot it?)
+            Remember Me
+  You're viewing rhialto's journal
+  Create a Dreamwidth Account  Learn More
+Interest
+Region
+Site and Account
+FAQ
+Email
+IM Info
+  Reload page in style:  light
+    Cetero censeo "authored" delendam esse(it is "written")
+Recent Entries
+Archive
+Reading
+Tags
+Memories
+Profile
+    Previous 20
+        inner -->
+CoronavirusMar. 6th, 2020 11:17 pm
+If I look at the interactive corona virus map at interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/ I don't get the impression "oh, there are almost no cases in the USA", but rather "they are really really bad at detecting it in the USA"...
+Add Memory
+Share This Entry
+Link
+1 comment
+Reply
+Happy 2020!Jan. 1st, 2020 04:34 pm
+I wish everybody a happy 2020, and may the last year of this decade be less bad than is to be expected[*]![*] because of the climate disaster, brexit disaster, trump disaster, etc...
+Add Memory
+Share This Entry
+Link
+0 comments
+Reply
+Firefox people can't stand some criticism, it seemsMay. 5th, 2019 07:53 pm
+I filed a bug report with Firefox for the enormous add-on cock-up this weekend. I wanted to point out that I consider the way they designed the add-on signing to be a time-bomb in Firefox, and as such unacceptable. I may have used the word "stupid" to describe the situation (because nobody can call the way it is working "smart" or "clever"; very strongly the opposite).I noticed that my bug was marked "invalid". Obviously I disagree. Wanting to look up any comments that were made, I noticed that the text on the bug report seems to have disappeared... see https://bugzilla.mozilla.org/show_bug.cgi?id=1549102Not only that, it seems that they dislike criticism so much that they suspended my account. Tsss..I really, really want another browser. All the ones I know about are crap.
+Add Memory
+Share This Entry
+Link
+4 comments
+Reply
+Weird behaviour from an external diskFeb. 16th, 2019 09:52 pm
+Recently I bought a new external disk (for doing backups on). [1] When I got it I started with zeroing it out completely, as a simple test that it is actually working. This went with a nice speed (something like 60-80 MB/s). This speed is probably limited by the USB connection, not the actual disk speed.Then I started to make the actual first backup onto it. That went very strangely: at first it too went at decent speed (it doesn't reach peak speeds if you copy small files of course), but at some point, it became slow. As in between 5 and 6 MB/s slow. The speed was very consistent. iostat showed me it was doing 85 or 86 transfers of 64 KB per second... steadily even when writing big files.So I tried the disk with another computer and a different operating system. Also slow! (albeit about 8 MB/s or so).We had a second disk of this type at hand that wasn't in use yet. So I tried making the backup on that one. I think I did not zero it out beforehand. Maybe that is important, but it seems the only difference in what I did. This second disk was plenty fast.So I sent back the first disk, and ordered an identical one from a different shop. With the third disk I did the same things as with the first.... and it too became slow. I think it was later in the backup process, though. And while keeping an eye on the speed, it managed to go fast for 10 seconds or so, while I was watching, and then it became slow again.This is so weird! I can believe that one disk is broken in some difficult to understand way, but two? The problem can't be the computer or its operating system, since the problem didn't vary with that. So the only thing I can think of is some weird firmware bug in the drive, that for some reason decides to start throttling the write speed...Weird...I think I'll have to send this one back too, and order a "desk model" of the same size... I have several of those in different sizes and they are all fine (so far).[1] It is a Western Digital 4 TB USB-3 2,5" disk. They call it "Elements" and "portable". The model number (from its SMART info) is WDC WD40 NMZW-11GZ6S1. Weirdly it is sold as model WDBU6Y0040BBK-WESN, and that is on the outside of the packaging. This is the case for all 3 of the disks.
+Add Memory
+Share This Entry
+Link
+5 comments
+Reply
+In Edinmumble for EuroPy(th)(C)onJul. 20th, 2018 10:33 pm
+So next week the EuroPython is happening. It looks like I'll have a free day on monday. I am carefully studying the weather forecasts and the predictions for when it will rain and when it will not are still changing... I do hope monday will be nice. It will certainly be cold, though, around 20°C, when at the same time it will be more like 30°C in Berlin...
+Add Memory
+Share This Entry
+Link
+0 comments
+Reply
+In Edinmumble for EuroPy(th)(C)onMay. 31st, 2018 08:12 pm
+My work is paying for going to Edinburgh for a week! I'm going to EuroPython which is a whole week from  July 23-29. I will be there from sunday to sunday (that would be July 22-29 if I'm seeing that correctly).My company has a policy about hotel fees, and so we (that is, 3 colleagues and me) ended up in Pollock Halls, which I remember quite well from previous occasions :-)
+Add Memory
+Share This Entry
+Link
+0 comments
+Reply
+Our black male cat NikoMar. 28th, 2018 09:50 pm
+Our black male cat Niko suffered from bad kidneys. He was already some unknown age, estimated at least 10 years.Some weeks ago, he had less appetite during the day and during "treat play" (where we throw little treats to the kitties and they run and jump after them). In the weekend, he started to throw up almost everything he ate. During the week this didn't improve, despite the stomach calming stuff we were giving him. Niko kept trying to eat and drink though, but he got weaker and weaker. And despite everything he kept being well-behaved and kept using the litterbox.All the while it was not an option to bring him to the vet. He never liked being approached with hands (and that is mildly put) and he still walked away from that. We remember the sheer fright and stress his one and only vet visit caused him. We didn't want to do that to him again, for questionable gains. Maybe he might live another 6 months after a drastic treatment, but the kidney problems would inevitably return.And so we also couldn't even comfort him by stroking him. That was so sad...So, after the next weekend he fell down while walking (probably had his heart attack) and was unconscious. We put him as comfortable as possible on a blanket and (how cynical) finally could comfortingly stroke him (at least we hoped that it comforted him, that it was only his fear of hands that played a role, not an active dislike of touch).He died during the night while he was next to my bed.Lotta, in the mean time, hasn't shown any sign of missing him. We already thought they weren't really a pair and this strengthens our doubts.Niko and Lotta's dating page at the animal shelter( Picture... )
+Add Memory
+Share This Entry
+Link
+6 comments
+Reply
+Finally an ages-old Amazon order arrivesNov. 7th, 2017 08:52 pm
+Once upon a time, I ordered this book: Commodore: The Amiga Years. Actually, it was this kickstarter but I don't like kickstarters any more. (It's all the risk of investing in a start-up without even the reward of owning part of the company). I was happier to order it via Amazon. However, due to the kickstarter nature, delivery got delayed, and delayed, and delayed... eventually, Amazon canceled the whole order. Somehow there was a very similar replacement book (which is the one I linked to above). That was in September 2016, a year and 2 months ago. And it got delayed and delayed, and then a date was announced, and retracted again. Meanwhile I had moved to Berlin, so I tried to change the shipping address. Somehow the Amazon website doesn't like to change shipping addresses of back-ordered goods. I just managed to do it during the one day when they thought they knew it was finally in stock.And now I finally have this book! I can't even look up when I placed the canceled order but it must be 2 or 3 years ago... so miracles sometimes do happen.
+Add Memory
+Share This Entry
+Link
+2 comments
+Reply
+With 164 km/h down the Autobahn.Aug. 16th, 2017 06:43 pm
+Finally I publicly moved to Berlin! With 164 km/h down the Autobahn. Yes, we were reasonably sticking to all speed limits, where they existed.I have actually lived in Berlin since late last year (I moved in with my girlfriend), while most of my things were still staying in Nijmegen. I did it that way as a plan B in case things went horribly wrong and I wanted to return. In Germany the probation period in new jobs tends to be 6 months, and you can easily be fired in that period, for instance.I didn't mention this before in public, because of the principle that you should not announce to the Internet that your belongings are unguarded and ripe for the picking.
+Current Mood:   accomplished
+Add Memory
+Share This Entry
+Link
+1 comment
+Reply
+(no subject)Jun. 13th, 2017 10:40 pm
+Livejournal has sunk so low as to empty my friends list....perhaps because so far I have refused to agree to these new russian terms and conditions...
+Add Memory
+Share This Entry
+Link
+2 comments
+Reply
+I never wrote more about the kitty...Dec. 23rd, 2016 11:08 pm
+but unfortunately, he didn't make it very long after the previous post. He ate but kept losing weight slowly, and it became difficult for him to get up or lie down. So we put him to sleep before he really began suffering. It was a very sad day.But we got new kitties from the shelter! We chose two kitties who were no longer the youngest and who were unappreciated the whole time they were at the shelter. Niko is so black you can hardly make pictures of him :-)( See picture... )
+Crossposts: http://rhialto.livejournal.com/76973.html
+Add Memory
+Share This Entry
+Link
+1 comment
+Reply
+Actual email from a bankDec. 23rd, 2016 10:40 pm
+Actual letter from a bank that I am (was!) trying to become a client of:Dear  Sir´[Name]Thank you for your enquiry.Communication with our organisation is limited to the German language.It would be appreciated if you could send us your request or enquiries inGerman to allow us to process it as efficiently as possible.??We apologize for any inconvenience this may cause and thankyou for your assistance.Kind regardsIhre DKBThis after an exchange of several emails (in German from them, in English from me) where they suddenly demanded more paperwork than normal, some of which simply wasn't possible due to non-existence of the sort of paper they were asking for. And after I was pointing out that, as I understand what has been told to me, they are legally required to give all comers a bank account.
+Crossposts: http://rhialto.livejournal.com/76643.html
+Add Memory
+Share This Entry
+Link
+0 comments
+Reply
+The state of the kittyMar. 29th, 2016 08:59 pm
+The kitty is eating well now for some weeks. The trigger seemed to be force-giving him a particular antibiotic. Unfortunately he is not gaining any weight. And by now it is pretty clear that he does have some kind of malignant swelling. You can see that his face is swollen and the side of his neck is also visibly thicker. The eye on that side has that weird white film, which is covering it for a fairly large part now, and it is reddish. It even seems to bulge somewhat... all together it looks a lot bigger than on the other side. I haven't included a picture since it is a bit scary actually if you suddenly see it. That eye was already a different colour when my gf found the kitty, nearly 2 years ago. Maybe it was already a symptom?Anyway, despite all this, he is in good spirits. He eats eagerly (even though the antibiotic was stopped a few weeks ago, when we finally dared to try it), and does things he never did before such as climbing on top of people. He even eats all food he never liked. But he is clearly weak and sometimes his balance is clearly lacking. And he still doesn't play with cat toys, even not with laser pointers.
+Crossposts: http://rhialto.livejournal.com/76365.html
+Add Memory
+Share This Entry
+Link
+0 comments
+Reply
+KittyFeb. 2nd, 2016 07:56 pm
+It's up and down with kitty. Some days he eats relatively well, not on other days. His nose still seems blocked and he still has the swelling to the side of his nose (possibly part of blocking the nose). He also still has the weird thing that there seems to be something stuck in his mouth that he can't get out. Sometimes he even tries to claw it away (to no avail, since there is nothing visible).At least he is FIV-negative. But his liver function is still bad. It's more or less the same as around new year when we[1] started going to the vet with him...In theory they could do an ultrasound, but that is super stressful, since his belly would need to be shaven, and he doesn't like to be touched there.Another new weird thing is that he doesn't want to lie down on his side any more; he keeps sitting down on his paws (and often even keeps his belly off the pillows he is sitting on).In other things he is mostly still very normal, asking for food, cuddles, and headbutting.We alternate in optimism and pessimism, but we do fear we'll have to "make him go asleep" when he starts suffering from clear pain...[1] kitty lives with my gf in BerlinIn other news, my ADSL connection has been down now for nearly a week and that is very annoying for all mail addressed to my mailbox at my domain...
+Crossposts: http://rhialto.livejournal.com/76044.html
+Add Memory
+Share This Entry
+Link
+0 comments
+Reply
+Cute kittyJan. 23rd, 2016 01:16 pm
+After more vet visits, I hope he makes it... still unclear what it is he has but it could be FIV... but kitty is now flagged for pallative care and that doesn't sound good to me...Next weekend I'll be visiting kitty and I hope he makes it to that at least...
+Crossposts: http://rhialto.livejournal.com/75860.html
+Add Memory
+Share This Entry
+Link
+1 comment
+Reply
+How do you get a cat to eat?Jan. 15th, 2016 12:58 am
+How do you get a cat to eat, who clearly is hungry and wants to eat, but doesn't recognize the food that is put in front of him as food?He has a blocked nose due to cat flu (or something) so he doesn't smell anything properly. He was always a picky cat anyway where eating is concerned.Due to this not eating, he has already lost 3 of his 6 kg of weight... and feels really skinny. We are getting really desperate... help?
+Crossposts: http://rhialto.livejournal.com/75650.html
+Add Memory
+Share This Entry
+Link
+2 comments
+Reply
+Open hardware is fun while it lastsJun. 19th, 2015 03:59 pm
+It seemed so much fun, an open hardware computer, designed by the famous Bunnie and xobs. Even with an FPGA.After paying a year ago, I received my package in march, after months and months of anticipation. Of course, customs screwed me over on the 21% VAT to be paid on import. Since the dollar had become more expensive in the mean time, they made me pay import duties over a significantly higher number of Euros than I had actually paid almost a year earlier.The machine had to be assembled a bit, but after doing that... it crashed almost every time within 10 seconds of turning it on. One time it worked for an hour, until I looked at it wrong...I mailed with the customer service of Crowd Supply (the crowd funding company) and after some to-and-fro they sent a package with a replacement motherboard, having determined that it was likely there were some bad cold-solder points. Unfortunately, they sent it in such a way that the customs wanted another pile of money from me (EUR 107 to be approximate). Clearly I didn't accept that. I mailed (for the nth time) that Crowd Supply should do something about this, somehow. But they never did. And after 3 weeks, the replacement package was sent back automatically.So now I have shipped the whole thing back. And I'll be trying to get refunds, both from Crowd Supply and the customs. I fear that trying the latter is like trying to squeeze blood out of a stone..Bah.But at least I have strawberries with whipped cream today :-)
+Crossposts: http://rhialto.livejournal.com/75357.html
+Add Memory
+Share This Entry
+Link
+1 comment
+Reply
+5 years ago already...Mar. 18th, 2015 09:50 pm
+Time goes fast. Today it was already 5 years ago that Isabelle passed away. As a ritual, I'm burning a bit of incense.A lot has happened in that time, it seems. My luck with jobs seems to have gone as well; I have had several in these years.But there is some very good news :-) Through the magic of "The Internet" I met a lovely new girlfriend. I didn't really expect it, and I didn't expect where I found her either: S. lives in Berlin. Not that a long distance is strange for me ("wat je van ver haalt is lekkerder"), but it is the direction this time which is new for me.So I'm in Berlin this weekend (the train connections are very good) and saturday we can celebrate that it is 6 months ago that she sent me her first message :-)
+Current Mood:   loved
+Crossposts: http://rhialto.livejournal.com/75142.html
+Add Memory
+Share This Entry
+Link
+0 comments
+Reply
+An email exchange with a security expert at KLM.com (In Dutch)Nov. 6th, 2014 09:09 pm
+First, my initial email which is very similar to what I previously wrote on my Dreamwidth/Livejournal.
+( Mail one )Some time passed... apart from a receipt nothing happens. I decide to push a bit for a reply.
+( Reminder... )
+Then finally, more than two months after my initial mail, comes this infuriating non-reply. "Your privacy is very important to us." Well, you know what it means when some company writes that.
+On Tue 28 Oct 2014 at 08:37:11 +0000, Xxxxxxx, R (SPLAV) - KLM wrote:
+( Your privacy is very important to us... )I decide to be "a bit" more explicit in my reply. It is impossible that a large company could be so stupid, but what other conclusion can I draw? They really really have to fix this!
+( Hopefully this will shake them awake a bit... )
+Current Mood:   annoyed
+Crossposts: http://rhialto.livejournal.com/74878.html
+Add Memory
+Share This Entry
+Link
+0 comments
+Reply
+(no subject)Oct. 24th, 2014 12:33 pm
+Grrr last  sunday night when I came back to the train station to collect my  bicycle, some (&amp;&amp;(#@$ idiot had stolen my saddle! I had to find a  bike shop open on mondays to buy a new one, and the saddle pin too...﻿What use is a loose saddle to a thief?I think that possibly this vandalism was a revenge for my bike being too well attached to the rack so they couldn't steal the whole thing... 
+Current Mood:   aggravated
+Crossposts: http://rhialto.livejournal.com/74737.html
+Add Memory
+Share This Entry
+Link
+1 comment
+Reply
+    Previous 20
+        inner -->
+        inner-->
+Profile
+rhialto
+March 2020
+S
+M
+T
+W
+T
+F
+S
+12345 67
+891011121314
+15161718192021
+22232425262728
+293031    
+Syndicate
+Most Popular Tags
+nieuws - 1 use
+writer's block - 1 use
+Page Summary
+Coronavirus
+Happy 2020!
+Firefox people can't stand some criticism, it seems
+Weird behaviour from an external disk
+In Edinmumble for EuroPy(th)(C)on
+In Edinmumble for EuroPy(th)(C)on
+Our black male cat Niko
+Finally an ages-old Amazon order arrives
+With 164 km/h down the Autobahn.
+(no subject)
+I never wrote more about the kitty...
+Actual email from a bank
+The state of the kitty
+Kitty
+Cute kitty
+How do you get a cat to eat?
+Open hardware is fun while it lasts
+5 years ago already...
+An email exchange with a security expert at KLM.com (In Dutch)
+(no subject)
+Style Credit
+Base style: Sunday Morning by regna
+Theme: NNWM 2009 by zvi
+Expand Cut Tags
+No cut tags
+Powered by Dreamwidth Studios
+        Top of page

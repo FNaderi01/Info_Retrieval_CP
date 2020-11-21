@@ -1,0 +1,204 @@
+      Skip to main content
+        Help Center
+  Header navigation
+                  General
+                  Business
+  Header navigation - actions
+        Search
+  Header navigation - anonymous
+        Log in
+        Pinterest home
+  Open menu
+          General
+          Account access and safety
+          Trouble with Pinterest
+          Legal &amp; Privacy
+          Manage your account
+          Pins and boards
+          Business
+          Ads measurement
+          Ads reporting
+          Build your organic presence on Pinterest
+          Manage your business profile
+          Shopping on Pinterest
+          Promoted Pins billing and payment
+          Advertise on Pinterest
+            Account access and safety
+            Trouble with Pinterest
+            Legal &amp; Privacy
+            Manage your account
+            Pins and boards
+            Ads measurement
+            Ads reporting
+            Build your organic presence on Pinterest
+            Manage your business profile
+            Shopping on Pinterest
+            Promoted Pins billing and payment
+            Advertise on Pinterest
+              Remove the Pinterest tag from a Shopify site
+            Heads up! It looks like you're seeing this article from a country where the Shopify Pinterest app isn't available yet.
+  Learn more
+            If you installed the Pinterest tag yourself and want to use the Shopify app instead, you should remove any tags you installed before setting up Shopify.
+Make sure to remove the base code, checkout code, and addtocart code.
+Remove base code
+From your Shopify admin, click Online Store, and then Themes​
+Navigate to the theme you want to edit and click Actions then Edit Code
+Click theme.liquid
+Scroll until you see “ &lt;/head&gt;” and find this code (you can also command+F for “pintrk” to locate it): 
+&lt;script type="text/javascript"&gt;
+!function(e){if(!window.pintrk){window.pintrk=function()
+{window.pintrk.queue.push(Array.prototype.slice.call(arguments))};var
+n=window.pintrk;n.queue=[],n.version="3.0";var
+t=document.createElement("script");t.async=!0,t.src=e;var
+r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(t,r)}}
+("https://s.pinimg.com/ct/core.js"); 
+pintrk('load','YOUR_TAG_ID', { em: '{{ customer.email }}', });
+pintrk('page');
+&lt;/script&gt; 
+&lt;noscript&gt; 
+&lt;img height="1" width="1" style="display:none;" alt=""
+src="https://ct.pinterest.com/v3/?tid=YOUR_TAG_ID&amp;noscript=1" /&gt; 
+&lt;/noscript&gt;
+Remove checkout code
+From your Shopify admin, click Settings and then click Checkout
+In the “Order processing” section, find the “Additional scripts ” text box
+Find the following tracking code in the text box; if there is more code in this box, make sure to only remove this code:
+{% if first_time_accessed %}
+&lt;script type="text/javascript"&gt;
+!function(e){if(!window.pintrk){window.pintrk=function()
+{window.pintrk.queue.push(Array.prototype.slice.call(arguments))};var
+n=window.pintrk;n.queue=[],n.version="3.0";var
+t=document.createElement("script");t.async=!0,t.src=e;var
+r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(t,r)}}
+("https://s.pinimg.com/ct/core.js");
+pintrk('load','YOUR_TAG_ID', { em: '{{ customer.email }}', }); 
+pintrk('page'); 
+&lt;/script&gt; 
+&lt;noscript&gt; 
+&lt;img height="1" width="1" style="display:none;" alt=""
+src="https://ct.pinterest.com/v3/?tid=YOUR_TAG_ID&amp;noscript=1" /&gt; 
+&lt;/noscript&gt;
+&lt;script&gt;
+pintrk('track', 'checkout',{
+value: {{ total_price | money_without_currency }}, 
+currency: '{{ currency }}',
+order_quantity: 1,
+order_id: {{ checkout.id }}
+});
+&lt;/script&gt;
+&lt;noscript&gt;
+&lt;img height="1" width="1" style="display:none;" alt=""
+src="https://ct.pinterest.com/v3/?tid=YOUR_TAG_ID&amp;event=checkout&amp;noscript=1"/&gt;
+&lt;/noscript&gt;
+{% endif %}
+Remove addtocart code
+You may know exactly where your addtocart event tag already is. If not, here’s some guidance to find it:
+From your Shopify admin, click Online Store, and then Themes​
+In the current theme you’re using,  click Actions then Edit Code
+Under ‘Templates’ look for code files named “product.liquid”, or “product-template.liquid”, or “product-form.liquid” and open it. Note that this may vary depending on the theme you have installed, but it’s most common to see add to cart button code in the products.liquid file or equivalent.
+Search the file for "addtocart" by pressing and holding command+f on Mac or control+f on PC.
+Find and remove the following code - it should be at the ending caret of the &lt;button&gt; or &lt;input&gt; element onclick="pintrk('track', 'addtocart');" 
+Click Save in the top right corner.
+  Other articles
+  Skip Other articles Links
+      Pinterest Tag
+                        Add your event codes
+                                Base code
+                                Enhanced match
+            See more
+                                Event code
+                                Event code examples
+                                Examples of combined base and event codes
+                                IMG tag
+                                Install the base code
+                                Install, remove or restore the Pinterest tag
+                                Pinterest Tag Helper Chrome extension
+                                Pinterest tag parameters and cookies
+                                Test Pinterest tag events
+                                Track conversions with Pinterest tag
+                                Verify the Pinterest tag
+      Pinterest tag integrations
+                        Add the Pinterest tag using Shopify
+                                Link your Shopify and Pinterest accounts
+                                Manually add the Pinterest tag to Shopify
+            See more
+                                Remove the Pinterest tag from a Shopify site
+                                Send multiple product IDs with Floodlight
+                                Shopify app troubleshooting
+      Third-party tracking
+                        Third-party and dynamic tracking
+                                Track a collections ad
+      Conversions
+                        Upload conversions for measurement
+                                Upload conversions with Ads Manager
+                                Upload conversions with LiveRamp
+  End of Other articles Links
+            Still need help?
+                Contact us
+    User feedback
+              Was this article helpful?
+        happy
+        sad
+        collection_fields
+        How can we make this article better?
+      Additional Response
+      Leave this field blank
+        Pinterest is using cookies to help give you the best experience we can.
+        Got it!
+    Skip Footer Menu
+    Select language
+                      English (US)
+                              Bahasa Indonesia
+                              Čeština
+                              Dansk
+                              Deutsch
+                              English (UK)
+                              Español
+                              Français
+                              Italiano
+                              Magyar
+                              Nederlands
+                              Norsk bokmål
+                              Polski
+                              Português (Brasil)
+                              Português (Europeu)
+                              Română
+                              Slovenčina
+                              Suomi
+                              Svenska
+                              Filipino
+                              Tiếng Việt
+                              Türkçe
+                              Ελληνικά
+                              Русский
+                              Ukrainian
+                              ภาษาไทย
+                              简体中文
+                              繁體中文
+                              한국어
+                              日本語
+            About us
+                    Impressum
+                    What's Pinterest
+                    Our Pinterest page
+                    Engineering blog
+                    Brand guidelines
+                    Careers
+                    Help Center
+                    Pinterest Labs
+            Our policies
+                    Copyright
+                                          &amp;
+                            trademark
+                    Personalized ads
+                    Terms of service
+                    Privacy
+                                          &amp;
+                            cookies
+            More info
+                    For businesses
+                    For developers
+                    For press
+                    For investors
+                    End of Footer
+    © Pinterest 2020

@@ -1,0 +1,343 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Charles R. Drew and L.A. County Collaborate on a New Psychiatry Residency Program            
+				By Dr. Lance A. Williams                
+	                	                Published April 26, 2019
+		(Photo: CDU Psychiatry Residents)
+The Charles R. Drew University of Medicine and Science (CDU) and the County of Los Angeles Department of Health Services have collaborated on an innovative medical residency program designed to address one of the most important yet under the radar issues affecting south Los Angeles residents: effective culturally-appropriate mental health treatment.
+The initiative was sponsored by 2ndDistrict Supervisor Mark Ridley-Thomas and 4thDistrict Supervisor Janice Hahn. The program launched in the Summer of 2018.
+According to Dr. Deborah Prothrow-Stith, Dean of the CDU College of Medicine, this initiative is timely and in alignment with the University’s mission of bringing the highest quality of services to the area’s underserved residents. “The area’s physician shortage got a lot worse after the hospital was closed in 2007. The County and CDU have made a significant investment in restarting this medical residency program,” she noted.
+        ADVERTISEMENT        
+Service Planning Area (SPA) 6, a wide swath of county territory of one million-plus people that reaches from Inglewood to Paramount and includes South Los Angeles, is the primary service area. Kedren Community Mental Health Center and Acute Psychiatric Hospital in South Los Angeles is the primary Psychiatry Residency site.
+The Psychiatry Residency program represents an important step forward, according to Dr. Prothrow-Stith. “We have the opportunity to train health care leaders who are from this community, to serve this community. We know from experience that when you train as a medical resident in a particular service area, it is highly likely that you will stay and practice in that area.”
+All six of the current first-year Psychiatry Residents are persons of color. They have either been raised and educated in the local area or attended medical schools that have a specialization offering aspiring physicians the opportunity to train and work in underserved communities.
+Kedren’s role as the primary training and clinical site is central to the residency program. The facility is a federally qualified health center that also features a primary care medical rotation. The Residents train and practice in an array of inpatient and outpatient services. Secondary site Rancho Los Amigos in Downey offers neurology services. The Harbor UCLA facility offers emergency services.
+CDU provides a unique, culturally competent approach to medical education that is now being adopted at other topflight medical schools. This approachoffers a patient centered team based approach to the health care of under-resourced patients; trauma-informed assessment and care; an emphasis on community violence as a public health problem; incorporating socio-environmental determinants of health, illness, and health disparities; assessing the health needs and resources of immigrant communities, proactively responding to the healthcare needs of jail and transitioning populations; and a commitment to the healthcare of homeless youth, adults and families.
+Side by side with this unique focus on cultural competency, the CDU graduate medical education programs operate under the rigorous scrutiny of the Accreditation Council for Graduate Medical Education (ACGME). According to Dr. Prothrow-Stith, “The ACGME accreditation is our lifeblood. We would not be able to attract talented physicians for training without it.”
+According to Dr. Denese Shervington, Chair of the CDU Department of Psychiatry, the restart of the medical residency program is an important opportunity for the University. “There is great value in the program. Traditionally, teaching residents and medical students is the job of the medical school. Training a new generation of talented physicians continues this tradition and adds value to our work,” she noted.
+The CDU Psychiatry Residents were chosen through a national recruitment system culminating annually on March 15th, with Match Day. The day is devoted to the National Resident Matching Program (NRMP) releasing results to applicants seeking a medical residency in a school of their choice.
+The CDU Residency program is an important tool to recruit highly qualified medical school graduates who match the University mission. “We recruit people interested in social justice and the mission of the University,” noted Dr. Shervington. “There are very few schools in the country that offer such an important training opportunity. Candidates must know the challenges associated with working in underserved communities. If they are interested and passionate about this work, they will be attracted to this program.”
+Dr. Prothrow-Stith sees the Psychiatry Residency program as a bridge to CDU’s blueprint for an independent four-year medical school on the Watts-Willowbrook campus. “Our plan for the four-year medical school rests squarely on the foundation of medical residency and training,” she said.
+“It is through the development of the Residency program that we will develop the skilled faculty and the clinical experience that we need. There is a process associated with building a team of qualified faculty and trainers available when we start the four-year medical school,” she noted.
+According to a recent community health assessment by the County Health Department, 79% of white adults state that they receive sufficient social and emotional support compared to 61% for blacks, 57% for Asian and Pacific Islanders, and 56% for Latinos.
+The 2017 Martin Luther King Community Hospital’s annual Community Health Needs Assessment highlighted a range of quality of life concerns in SPA 6. They included homelessness and instability of living conditions, drug abuse, poverty and limited access to jobs and long-term employment; multiple family issues, and victimization by crime.
+The study also identifiedan overall shortage of over 1,200 full-time physicians trained in primary medical and surgical specialties. Such quality of life concerns in SPA 6 leads to a shortage of professional psychiatric services. A contributing factor is the inadequate amount of health insurance coverage.
+Only 48.3 percent of adults in SPA 6 are employed. 9.9 percent of SPA 6 adults have reported being homeless or not having their own home in the past five years. Only 40.3 percent of SPA 6 residents believe that their neighborhood is safe from crime. 30.6 percent of adults in SPA 6 report their health to be fair or poor.
+55.7 percent of adults feel that they have the social and emotional support that they need. By contrast, 74.8 percent of SPA 5 Westside residents feel they have the requisite support. Within each category, the SPA 6 statistics stand at or near the most acute conditions in all of Los Angeles County.
+According to Dr. Gul Ebrahim, Kedren Medical Director and Program Director of the CDU Psychiatric Residency program, the new program offers new found hope. “In training Psychiatry Residents coming out of medical school, there is the opportunity to provide fresh clinical expertise,” he said.
+Regarding the value of employing physicians who look like their patients, Dr. Ebrahim commented that, “It can make a difference if the person treating the patient looks like the client. It may make it easier. Both people are on the same page and the origins of the problem can be brought out with effective communication.”
+Adds Dr. Prothrow-Stith, “Because they are from this community or a similar community, the Residents know how to negotiate a lot of the difficulties that their patients ultimately will have to navigate. These Residents have a lived experience that they themselves have encountered. The micro and macro incidents of racism; working in places where the resources are not enough, or working in places where government institutions are just too difficult to deal with.”
+CDU Psychiatry Resident Profile
+Dr. Kwaku Oppongwas born in Ghana but grew up in Milwaukee. He came to the US when his father completed graduate studies in Sociology at the University of Wisconsin. Dr. Oppong is the father of seven children.
+Two are his natural offspring and he and his wife have foster adopted the other five. There are two sets of twins in the family. “My wife and I, even prior to the birth of our natural children, thought it would be a good idea to reach out and take on children who aren’t our own. We thought that giving children a chance that were not as fortunate or well off as we were would help society as a whole,” he noted.
+The adopted children have all been diagnosed with special needs. Four of the five have autism. One of them is non-verbal. “So that’s another layer of challenges that we have been working hard to manage,” he observed. “Two of the five came to us all at once, then we learned of the other three.”
+This experience has been integral to Dr. Oppong’s outlook regarding his work. “Having gone through medical school, I’m learning a lot more about how the body functions. It’s opened my eyes about physiology, and how state of mind affects physiology. Studying Psychiatry adds to the knowledge level that you have as a parent, then as a caregiver,” he added.
+He attended a medical school on the island of Antigua. “Nobody ever knew where my school was. And when I said it was in the Caribbean, the judgment was that I had attended a lesser school,” he said. “But what kept me going was the idea that the heart still has four chambers, whether you’re in South America, Russia, the US, Mexico, England, or France,” he said.
+ Dr. Nancy Rodriguez McGinley’sPeruvian-American family saved funds and sent her to a Pasadena private school for academic training. She attended Duke University and graduated in Psychology with a minor in Anthropology. Later, she earned a Master’s degree in Public Health from George Washington University. She completed medical training at the University of Illinois Chicago’s urban medicine program.
+She recalled a particularly compelling experience from graduate school. A routine field trip to a clinic in SE Washington, DC took her to one of the most rundown buildings she’d ever seen. “The lights were flickering in the hallways, with cracks everywhere.
+“It really struck me that there were African American and Hispanic patients in their 30s and 40s  being treated for hypertension and diabetes. These things shouldn’t be happening until patients are much older.”
+The Residents discussed the stigma associated with their patients receiving a mental health diagnosis. Long-held perceptions support resistance. Some of it is fear, some of it is denial. Some of it is based on an attitude of what neighbors, friends and family will think.
+“There’s this saying, ‘You wash your dirty clothes at home,’ ” said Psychiatry Resident Dr. Jacob Gutierrez.One of his young female patients was diagnosed with bipolar disorder and the family was in denial. “The girl was shamed and her neighbors began to walk on the other side of the street when she approached. It’s so terrible and isolating,” said Dr. Gutierrez.
+Dr. McGinley feels the best way to overcome stigma is to confront it. “It’s so prevalent in this community. When there’s a new mental health diagnosis, the parents have an extremely hard time with it for multiple reasons,” she said.
+“I remember a mother crying to me, saying, ‘Que diran? What will they say?’ And I said, who? She said, ‘Everybody.’ It’s the idea in the community that you don’t want to show that there’s any kind of negativity and you want to look like everything’s OK. ‘Esta para locos. It’s for crazy people,’ ” she said.
+Psychiatry Resident Dr. Joshua Cenido felt an acute tie to the stigma of mental illness when his grandmother in the Philippines contracted Alzheimer’s disease. At first, his phone conversations with her didn’t alarm him. “But finally I went to visit her. Every ten minutes I’d have to remind her of who I was,” he said.
+Dr. Oppong noted that mere family interest in receiving psychiatric services could be stigmatizing. “In my experience, if you’re looking at it through the lens of education and knowledge, you know that mental health problems are caused by diseases. Just like the body can get sick – the mind can get sick, also. We really have to educate people that if mental health issues can be dealt with early enough, it can be managed and the person can go on to live a successful and productive life.”
+Charles R. Drew University ranks second nationally as a leading private nonprofit educational institution for its diversity, according to the Chronicle of Higher Education. The University is also designated as a minority-serving institution by the US Office of Civil Rights and recognized by the Department of Education under Title III Part B as a Historically Black Graduate Institution. CDU is also a charter member of the organization Hispanic Serving Health Professions Schools.
+		Categories: Health | News Tags: Accreditation Council for Graduate Medical Education (ACGME) | Charles R. Drew | Community Health Needs Assessment | County of Los Angeles Department of Health Services | Dr. Deborah Prothrow-Stith | Dr. Denese Shervington | Dr. Joshua Cenido | Dr. Nancy Rodriguez McGinley | England | Harbor-UCLA | Historically Black Graduate Institution | Janice Hahn | Kedren Community Mental Health Center and Acute Psychiatric Hospital | L.A. County | Mark Ridley-Thomas | Martin Luther King Community Hospital | Mexico | National Resident Matching Program (NRMP) | Russia | Service Planning Area (SPA) 6 | South America | the US | University of Wisconsin		
+						ALERT: Over 1,000 Quarantined in Measles Scare at LA Universities
+						Rep. Elijah Cummings Releases Report on the Soaring Prices of Diabetes Drug...
+						California Inches Toward 40M People, but Growth Rate Slows
+						Uplifting Black Youth through the Retelling of Past and Present Pan African...
+						TEC Leimert Brings ‘TecYoSelf’ to South L.A.
+						Watts Clean Air and Energy Committee Host “Watts Hearts Earth Celebra...
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

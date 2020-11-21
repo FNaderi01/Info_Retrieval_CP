@@ -1,0 +1,227 @@
+     category > maptopic > article -->
+    GitHub Docs
+    All products
+  REST API
+          Overview
+          Resources in the REST API
+          Media types
+          Other authentication methods
+          Troubleshooting
+          API previews
+          Libraries
+          Endpoints available for GitHub Apps
+          Reference
+          Activity
+          Apps
+          Checks
+          Codes of conduct
+          Emojis
+          GitHub Enterprise administration
+          Gists
+          Git database
+          Gitignore
+          Issues
+          Licenses
+          Markdown
+          Meta
+          OAuth Authorizations
+          Organizations
+          Projects
+          Pulls
+          Rate limit
+          Reactions
+          Repositories
+          Search
+          Teams
+          Users
+          Permissions required for GitHub Apps
+          Guides
+          Getting started with the REST API
+          Basics of authentication
+          Discovering resources for a user
+          Delivering deployments
+          Rendering data as graphs
+          Working with comments
+          Traversing with pagination
+          Building a CI server
+          Best practices for integrators
+          Getting started with the Git Database API
+          Getting started with the Checks API
+        GitHub Docs
+                Explore by product
+                      REST API
+                       GitHub.com
+                       Enterprise Administrators
+                       GitHub Actions
+                       GitHub Packages
+                       Developers
+                       REST API
+                       GraphQL API
+                       GitHub Insights
+                       GitHub Desktop
+                       Atom
+                       Electron
+                            English
+                              English
+                              简体中文 (Simplified Chinese)
+                              日本語 (Japanese)
+                              Español (Spanish)
+                              Português do Brasil (Portuguese)
+          This version of GitHub Enterprise will be discontinued on
+          This version of GitHub Enterprise was discontinued on
+        2020-11-12.
+      No patch releases will be made, even for critical security issues. For better performance, improved security, and new features, upgrade to the latest version of GitHub Enterprise.
+For help with the upgrade, contact GitHub Enterprise support.
+      Article version: Enterprise Server 2.19
+      Free, Pro, and Team
+      Enterprise Server 2.22
+      Enterprise Server 2.21
+      Enterprise Server 2.20
+      Enterprise Server 2.19
+    REST API
+    Reference
+    Rate limit
+      Article version: Enterprise Server 2.19
+      Free, Pro, and Team
+      Enterprise Server 2.22
+      Enterprise Server 2.21
+      Enterprise Server 2.20
+      Enterprise Server 2.19
+        Rate limit
+        In this article
+          Understanding your rate limit status
+      Get rate limit status for the authenticated user
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        Required
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        Optional
+      Can we contact you if we have more questions?
+        Optional
+      Send
+    Thank you! Your feedback has been submitted.
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  Or, learn how to contribute.
+      The REST API overview documentation describes the rate limit rules. You can check your current rate limit status at any time using the Rate Limit API described below.
+Understanding your rate limit status
+The Search API has a custom rate limit, separate from the rate limit governing the rest of the REST API. The GraphQL API also has a custom rate limit that is separate from and calculated differently than rate limits in the REST API.
+For these reasons, the Rate Limit API response categorizes your rate limit. Under resources, you'll see four
+objects:
+The core object provides your rate limit status for all non-search-related resources in the REST API.
+The search object provides your rate limit status for the Search API.
+The graphql object provides your rate limit status for the GraphQL API.
+The integration_manifest object provides your rate limit status for the GitHub App Manifest code conversion endpoint.
+For more information on the headers and values in the rate limit response, see "Rate limiting."
+      Get rate limit status for the authenticated user
+    Note: Accessing this endpoint does not count against your REST API rate limit.
+Note: The rate object is deprecated. If you're writing new API client code or updating existing code, you should use the core object instead of the rate object. The core object contains the same information that is present in the rate object.
+  get /rate_limit
+        Code samples
+              Shell
+          curl \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/rate_limit
+              JavaScript (@octokit/core.js)
+          await octokit.request('GET /rate_limit')
+      Default response
+      Status: 200 OK
+      {
+  "resources": {
+    "core": {
+      "limit": 5000,
+      "remaining": 4999,
+      "reset": 1372700873
+    },
+    "search": {
+      "limit": 30,
+      "remaining": 18,
+      "reset": 1372697452
+    },
+    "graphql": {
+      "limit": 5000,
+      "remaining": 4993,
+      "reset": 1372700389
+    },
+    "integration_manifest": {
+      "limit": 5000,
+      "remaining": 4999,
+      "reset": 1551806725
+    },
+    "code_scanning_upload": {
+      "limit": 500,
+      "remaining": 499,
+      "reset": 1551806725
+    }
+  },
+  "rate": {
+    "limit": 5000,
+    "remaining": 4999,
+    "reset": 1372700873
+  }
+}
+      Not modified
+      Status: 304 Not Modified
+      Resource not found
+      Status: 404 Not Found
+      Notes
+        Works with GitHub Apps
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        Required
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        Optional
+      Can we contact you if we have more questions?
+        Optional
+      Send
+    Thank you! Your feedback has been submitted.
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  Or, learn how to contribute.
+      Still need help?
+      Ask the GitHub community
+      Contact support
+        Product
+          Features
+          Security
+          Enterprise
+          Case Studies
+          Pricing
+          Resources
+        Platform
+          Developer API
+          Partners
+          Atom
+          Electron
+          GitHub Desktop
+        Support
+          Help
+          Community Forum
+          Training
+          Status
+          Contact GitHub
+        Company
+          About
+          Blog
+          Careers
+          Press
+          Shop
+        © 2020 GitHub, Inc.
+        Terms 
+        Privacy 

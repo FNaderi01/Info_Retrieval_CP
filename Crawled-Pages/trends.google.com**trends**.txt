@@ -1,0 +1,5 @@
+Oturum açınDesteklenmeyen tarayıcı kullanıyorsunuz. Bazı özellikler doğru şekilde çalışmayabilir. Google Chrome gibi modern bir tarayıcı sürümüne geçin.Google Arama Trendleri bu cihazda desteklenmeyen yeni bir sürüme geçirildi.kapat
+    .unsupported {
+      display: block !important;
+    }
+  HesapAramaHaritalarYouTubePlayHaberlerGmailMeetKişilerDriveTakvimÇeviriFotoğraflarDuoChromeDokümanlarE-TablolarSlaytlarBloggerHangoutsKeepJamboardEarthKoleksiyonlarSanat ve KültürGoogle AdsPodcastsGoogle'ın diğer ürünleriGoogle uygulamaları

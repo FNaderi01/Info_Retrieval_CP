@@ -1,0 +1,132 @@
+      git ready
+      learn git one commit at a time
+      by Nick Quaranto
+    remote tracking branches
+  committed 09 Mar 2009
+  Confused about what exactly a remote tracking branch is? Don’t worry, it’s not just you. Basically, there’s two types of branches: local, and remote-tracking. Local branches are pretty run of the mill, they’re just another path in the DAG that you can commit to. Remote-tracking branches have a few different purposes:
+	They’re used to link what you’re working on locally compared to what’s on the remote.
+	They will automatically know what remote branch to get changes from when you use git pull or git fetch.
+	Even better, git status will recognize him how many commits you are in front of the remote version of the branch.
+Luckily, the git branch command gives us some insight to what branch is what. For most normal, freshly cloned repositories, you’ll see this output:
+$ git branch
+* master
+This just shows the default local branch, the master branch. If you wanted to see remote branches:
+$ git branch -r
+  origin/HEAD
+  origin/master
+And finally, if you wanted to see them all:
+$ git branch -a
+* master
+  origin/HEAD
+  origin/master
+When branches are created using the --track option, they will be set up to linked to the remote branch. For example, if you wanted to create a new branch from the master branch from the origin remote, using this would set it up so it would pull from the remote and branch automatically:
+$ git branch --track feature1 origin/master
+Branch feature1 set up to track remote branch refs/remotes/origin/master.
+From here you can git checkout the branch and work with it, and since it’s tracking the remote branch, it will know where to bring in changes from when you fetch or pull.
+Local branches can also be created from any start point, be it a remote tracking branch or any treeish passed in. Here are some examples:
+$ git branch --no-track feature2 origin/master 
+$ git branch --no-track feature3 HEAD~4
+$ git branch --no-track feature4 f21e886
+Now, in these examples the --no-track option was specified. This was done to ensure that the branches did not derive from a remote tracking branch. You can tweak how this works through your ~/.gitconfig file. As the Git Cheat Sheet says:
+git config branch.autosetupmerge true
+tells git-branch and git-checkout to setup new branches so that git-pull(1)
+will appropriately merge from that remote branch.  Recommended.  Without this,
+you will have to add —track to your branch command or manually merge remote
+tracking branches with “fetch” and then “merge”.
+Hopefully this post has cleared up some confusion you may have had regarding branches and what exactly remote-tracking does. If you have more ideas on how to explain this better or related resources let us know in the comments or submit a tip!
+    View the discussion thread.blog comments powered by Disqus
+      beginner
+        smartly save stashes
+        remote tracking branches
+        ignoring doesn't remove a file
+        where to find the git community
+        finding who committed what
+        what git is not
+        how git stores your data
+        converting from svn
+        tagging
+        push and delete remote branches
+        installing git
+        branching and merging
+        pushing and pulling
+        ignoring files
+        the staging area
+        cleaning up untracked files
+        reverting files
+        stashing your changes
+      intermediate
+        interactive rebase status
+        find unmerged commits
+        find ancestor commits
+        restoring a directory from history
+        rolling back changes with revert
+        pick out individual commits
+        get a file from a specific revision
+        temporarily ignoring files
+        list remote branches
+        easily fetching upstream changes
+        reflog, your safety net
+        helpful command aliases
+        intro to rebase
+        finding what has been changed
+        exporting your repository
+        text-based graph
+        sharing your changes
+        count your commits
+        interactive adding
+        visualizing your repo
+        checkout tracked remote branch
+      advanced
+        gpg-sign releases
+        ribbon/catchup: reading new commits
+        tig, the ncurses front-end to Git
+        what's inside your .git directory
+        reorder commits with rebase
+        easily manage git remote branches
+        keep either file in merge conflicts
+        convert git-svn tag branches to real tags
+        pull with rebase
+        squashing commits with rebase
+        bash auto completion
+        push to only bare repositories
+        zsh git status
+        bash git status
+        bend logs to your will
+        restoring lost commits
+        piecemeal staging
+        fixing broken commit messages
+      resources
+      Git Community Book
+      GitHub Guides
+      GitWiki
+      Git for everyone
+      Git-SVN Crash Course
+      $ cheat git
+      Why Git is Better Than X
+      Git for Computer Scientists
+      Git Magic
+      Gitology
+      gitguru
+      Pro Git Book
+      Git Reference
+      A tour of git: the basics
+      Git Immersion
+      Git Guys
+        about
+        code
+        submit a tip
+        rss
+        twitter
+        available in:
+        dutch |
+        french |
+        german |
+        hebrew |
+        italian |
+        japanese |
+        korean |
+        portuguese |
+        spanish |
+        swedish |
+        russian |
+        your language?

@@ -1,0 +1,126 @@
+      /* TODO: Include this css via templating or webpack */
+      /*
+        The placeholder enhances the perceived loading time, it also permits people who are using an outdated browser or
+        who don't have JS enabled to see at least the header and not a total blank page.
+        Once the JS application is started this and everything else in #app gets overwritten
+      */
+      .header {
+        width: 100%;
+        background: #333;
+        height: 46px;
+      }
+      .header__logo {
+        background: #333;
+      }
+      .header__logoLink {
+        background: transparent url(https://a-v2.sndcdn.com/assets/images/header/cloud-e365a472bf.png) no-repeat 12px 11px;
+        background-size: 48px 22px;
+        display: block;
+        height: 46px;
+        width: 69px;
+      }
+      .header__logoLink:focus {
+        background-color: rgba(255, 72, 0, 0.8);
+        outline: 0;
+      }
+      #header__loading {
+        margin: 13px auto 0;
+        width: 16px;
+        background: url(https://a-v2.sndcdn.com/assets/images/loader-dark-45940ae3d4.gif) center no-repeat;
+        background-size: 16px 16px;
+      }
+      @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx) {
+        .header__logoLink {
+          background-image: url(https://a-v2.sndcdn.com/assets/images/header/cloud@2x-e5fba4606d.png);
+        }
+      }
+            SoundCloud
+      /* TODO: Include this css via templating or webpack */
+      .errorPage__inner {
+        width: 580px;
+        margin: 0 auto;
+        position: relative;
+        padding-top: 460px;
+        background: url(https://a-v2.sndcdn.com/assets/images/errors/500-e5a180b7a8.png) no-repeat 50% 80px;
+        text-align: center;
+        transition: all 1s linear;
+      }
+      .errorTitle {
+        margin-bottom: 10px;
+        font-size: 30px;
+      }
+      .errorText {
+        line-height: 28px;
+        color: #666;
+        font-size: 20px;
+      }
+      .errorButtons {
+        margin-top: 30px;
+      }
+      #updateBrowserMessage {
+        width: 600px;
+        margin: 0 auto;
+        position: relative;
+        padding-top: 410px;
+        background: url(https://a-v2.sndcdn.com/assets/images/errors/browser-9cdd4e6df7.png) no-repeat 50% 130px;
+        text-align: center;
+        display: none;
+      }
+      #updateBrowserMessage .messageText {
+        line-height: 26px;
+        font-size: 20px;
+        margin-bottom: 5px;
+      }
+      #updateBrowserMessage .downloadLinks {
+        margin-top: 0;
+      }
+      @media (max-width:1280px){
+        .errorPage__inner {
+          background-size: 80%;
+        }
+      }
+    JavaScript is disabled
+    You need to enable JavaScript to use SoundCloud
+      Show me how to enable it
+    Ep. 157 - Sept. 8, 2020 - Research Links School Vouchers and Reduction in Criminal Activity
+    by The Education Exchange
+    published on 2020-09-04T17:37:10Z
+    Recommended tracks
+          Ep. 161 - Oct. 5, 2020 - Preparing Better Teachers
+          by The Education Exchange
+          published on 2020-10-05T13:09:07Z
+          Ep 160 - Sept. 28, 2020 - Stanford's Dr. Bendavid on Effect of Stricter Coronavirus Lockdowns
+          by The Education Exchange
+          published on 2020-09-28T13:00:51Z
+          Ep. 159 - Sept. 21, 2020 -A $14 Trillion Loss from Coronavirus-Related School Closures
+          by The Education Exchange
+          published on 2020-09-17T13:37:16Z
+          Ep. 158 - Sept. 14, 2020 - Student Achievement Growing More Rapidly in Charters
+          by The Education Exchange
+          published on 2020-09-14T13:33:01Z
+          Replay - Aug. 31, 2020 - Condoleezza Rice on the "Deep Visceral Wounds of Slavery"
+          by The Education Exchange
+          published on 2020-08-28T16:08:55Z
+          Ep. 156 - Aug. 24, 2020 - Populism in Education Policy—"A Suspicion of Elites"
+          by The Education Exchange
+          published on 2020-08-21T21:02:33Z
+          Ep. 155 - Aug. 17, 2020 - How Charter Schools in South Carolina Are Reopening
+          by The Education Exchange
+          published on 2020-08-17T15:50:09Z
+          Ep. 154 - Aug. 10, 2020 - Richard Komer on Espinoza Decision and Possibilities for School Choice
+          by The Education Exchange
+          published on 2020-07-20T19:07:39Z
+          Ep. 153 - Aug. 3, 2020 - The Pandemic Is Killing Standardized Testing and Accountability
+          by The Education Exchange
+          published on 2020-07-20T14:57:51Z
+        Users who like Ep. 157 - Sept. 8, 2020 - Research Links School Vouchers and Reduction in Criminal Activity
+        Users who reposted Ep. 157 - Sept. 8, 2020 - Research Links School Vouchers and Reduction in Criminal Activity
+        Playlists containing Ep. 157 - Sept. 8, 2020 - Research Links School Vouchers and Reduction in Criminal Activity
+        More tracks like Ep. 157 - Sept. 8, 2020 - Research Links School Vouchers and Reduction in Criminal Activity
+    Your current browser isn't compatible with SoundCloud. 
+    Please download one of our supported browsers. Need help?
+    Chrome | Firefox | Safari | Internet Explorer
+  Sorry! Something went wrong
+    Is your network connection unstable or browser outdated?
+    I need help
+  Popular searches

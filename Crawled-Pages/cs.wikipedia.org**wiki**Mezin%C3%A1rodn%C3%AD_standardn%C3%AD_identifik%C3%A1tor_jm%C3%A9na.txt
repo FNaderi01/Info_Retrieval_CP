@@ -1,0 +1,116 @@
+	Mezinárodní standardní identifikátor jména
+		Z Wikipedie, otevřené encyklopedie
+		Skočit na navigaci
+		Skočit na vyhledávání
+		Mezinárodní standardní identifikátor jména (anglicky International Standard Name Identifier, francouzsky Code international normalisé des noms, zkráceně ISNI) je trvalý Identifikátor určený k jednoznačné a globální identifikaci tzv. „veřejných identit“, tj. jmen fyzických osob (včetně fiktivních osob) a korporací, které jsou v roli tvůrců, producentů, vydavatelů, distributorů nebo správců intelektuálních obsahů (děl).
+Identifikátor ISNI je kodifikován mezinárodní normou ISO 27729 (20. 7. 2010 byl zveřejněn návrh mezinárodní normy ISO/DIS 27729, 24. 11. 2011 byla publikována oficiálně první verze normy a 6. 3. 2012 zatím poslední verze [1] ).
+Mezinárodní norma byla původně od roku 2006 připravována pod názvem Mezinárodní standardní identifikátor strany (angl. International Standard Party Identifier, zkráceně ISPI), v roce 2007 však došlo s ohledem na zpřesnění identifikovaných entit ke změně na název ISNI. Norma byla připravena pracovní skupinou (WG 6) příslušné Technické komise a subkomise (TC 46/SC 9) Mezinárodní organizace pro normalizaci (zkráceně ISO).
+Obsah
+1 Identifikované entity
+2 Struktura a syntax identifikátoru
+3 Hlavní principy přidělování identifikátoru
+4 Registrační systém ISNI
+4.1 Registrační autorita (Mezinárodní agentura ISNI)
+4.2 Registrační agentury ISNI
+4.3 Verifikační agentury ISNI
+5 Registrační metadata
+6 Referenční databáze systému ISNI
+7 Citace
+8 Bibliografické reference
+9 Externí odkazy
+Identifikované entity[editovat | editovat zdroj]
+Identifikátor ISNI trvale identifikuje tzv. „veřejné identity“ nějaké strany. Veřejnou identitou (angl. Public identity) se rozumí jméno, pod kterým strana je nebo v minulosti byla veřejně známa. Většina reálných osob má jednu jedinou veřejnou identitu (jediné jméno), některé jich ale mohou mít více. Stranou (angl. Party) se rozumí fyzická osoba nebo právnická osoba nebo také skupina fyzických a právnických osob, které jsou zahrnuty do tvorby, rozšiřování a správy intelektuálních obsahů. Jméno (angl. Name) je definováno jako řetězec znaků, pod kterým strana je nebo v minulosti byla obvykle uváděna.
+Veřejné identity budou identifikovány pomocí identifikátorů ISNI napříč různými obory tvorby obsahů.
+Struktura a syntax identifikátoru[editovat | editovat zdroj]
+Identifikátor ISNI je číslem nevýznamovým. Původně se měl skládat z písmenného prefixu ISNI a dalších 13 znaků (12 hexadecimálních číslic a 1 kontrolní znak). V rámci příprav normy bylo ale nakonec v roce 2009 s ohledem na plánovaný velký objem identifikátorů v budoucnosti rozhodnuto, že celkový počet znaků bude 16 (kromě písmenného prefixu ISNI 15 hexadecimálních číslic a jeden poslední znak jako kontrolní). Příklady zápisu čísla ISNI (uvedené hodnoty jsou od ledna 2012 reálné):
+ISNI 0000 0001 2127 202X (Karel Čapek, 1890–1938)
+ISNI 0000 0000 8091 155X (Jaroslav Seifert, 1901–1986)
+ISNI 0000 0001 0844 7446 (Tomáš Garrigue Masaryk, 1850–1937)
+ISNI 0000 0001 2321 5475 (Václav Havel, 1936–2011)
+ISNI 0000 0001 2138 9690 (Antonín Dvořák, 1841–1904)
+ISNI 0000 0001 2126 8987 (Ludwig van Beethoven, 1770–1827)
+ISNI 0000 0001 2129 6144 (René Descartes, 1596–1650)
+ISNI 0000 0001 0884 0416 (Jan Amos Komenský, 1592–1670)
+ISNI 0000 0001 2134 3289 (Božena Němcová, 1820–1862)
+ISNI 0000 0001 1619 3773 (Jiří Cejpek, 1928–2005)
+ISNI 0000 0001 2186 288X (Kongresová knihovna)
+ISNI 0000 0001 2160 811X (Univerzita Karlova v Praze)
+Pro potřeby zobrazování, tištění nebo jiné prezentace identifikátoru ISNI je doporučeno oddělení prefixu ISNI od dalších číslic jednou mezerou. Celkový počet 16 číslic je rozdělen do bloků po čtyřech číslicích. Jednotlivé bloky jsou odděleny také jednou mezerou. Poslední kontrolní číslici může tvořit buď hexadecimální číslice nebo znak „X“. Kontrolní číslice bude vypočítávána na základě předcházejících číslic v souladu s normou ISO/IEC 7064:2003 [2] v modu 11-2.
+Hlavní principy přidělování identifikátoru[editovat | editovat zdroj]
+Návrh mezinárodní normy ISO/DIS 27729 stanovuje následující hlavní principy přidělování identifikátorů ISNI:
+Identifikátor ISNI přiděluje registrační agentura (zkráceně RAG) na základě požadavku žadatele (autora, skladatele, vydavatele, distributora, knihovníka nebo jiné právnické osoby aj.)
+Jeden identifikátor ISNI může být přidělen jenom jedné veřejné identitě nějaké strany
+Při přidělování identifikátorů se nepřihlíží k alternativní zápisu jména jediné identity (např. Shakespeare a Shakespear), k alternativní prezentaci (např. ONU a United Nations), k variacím zapisovaných znaků (např. Günther Graß a Guenther Grass), k transliteracím jména (např. Anton Pavlovič Čehov a Антон Павлович Чехов) a k lingvistickým variacím jména (např. Anton Tchekhoff a Anton Pavlovitch Tchekhov)
+Jedné straně může být ale přiděleno více identifikátorů ISNI, například z důvodu užívání pseudonymů (dva identifikátory ISNI tak například získal český spisovatel Miloslav Švandrlík (ISNI 0000 0000 8386 8008) (viz jeho záznam v databázi systému VIAF), protože užíval také pseudonymu Rudolf Kefalín (ISNI 0000 0000 8401 491X) (viz jeho záznam v databázi systému VIAF)
+Po přidělení identifikátoru ISNI jej nebude možné užít znova
+Podrobné zásady a pokyny k registraci bude schvalovat a vydávat Mezinárodní agentura ISNI.
+Registrační systém ISNI[editovat | editovat zdroj]
+Organizaci systému ISNI tvoří tři subsystémy:
+Registrační autorita provozovaná Mezinárodní agenturou ISNI
+Registrační agentury zajišťující služby uživatelům
+Verifikační agentury zajišťující specializované služby pro registrační autoritu ISNI
+Registrační autorita (Mezinárodní agentura ISNI)[editovat | editovat zdroj]
+Registrační autorita (angl. Registration authority, zkráceně RA) systému ISNI byla v roce 2010 schválena na plenárním zasedání ISO. Podle tiskové zprávy – neplatný odkaz ! z 22. 1. 2011 byla 22. prosince 2010 v Londýně založena jako nevýdělečná organizace Mezinárodní agentura ISNI (angl. ISNI International Agency, zkráceně ISNI-IA). Její hlavní úlohou je vytvoření a údržba centrální referenční databáze ISNI. Počáteční databáze byla vytvořena na základě již existujících výchozích databází zakládajících členů. Síť OCLC, která se stala také členem konsorcia ISNI-IA, zároveň podepsala další dílčí smlouvu, na jejímž základě bude plnit specifickou roli Přidělující agentury (angl. Assignment Agency). Registrační autorita – ISNI-IA bude v souladu s normou ISNI koordinovat, monitorovat a kontrolovat celý systém ISNI, jeho politiku a všechny procesy a operace a bude reprezentovat zájmy celé komunity ISNI navenek u jiných organizací.
+Mezinárodní agentura ISNI je oficiálně tvořena konsorciem 6 členů, kteří reprezentují více než 300 společností pro správu autorských práv a 26 000 knihoven z celého světa. Patří k nim:
+Mezinárodní konfederace společností autorů a skladatelů (angl. Confédération Internationale des Sociétés d’Auteurs et de Compositeurs, zkráceně CISAC)
+Mezinárodní federace organizací pro reprodukční práva (angl. International Federation of Reproduction Rights Organisations, zkráceně IFRRO)
+Rada společností pro kolektivní správu práv výkonných umělců (angl. Societies' Council for the Collective Management of Performers' Rights, zkráceně SCAPR)
+Vydavatelská společnost ProQuest (ProQuest)
+Síť OCLC (angl. Online Computer Library Center)
+Konference evropských národních knihovníků (angl. Conference of European National Librarians, zkráceně CENL), reprezentovaná Britskou knihovnou BL (angl. British Library, zkráceně BL) a Národní knihovnou Francie (fr. Bibliothèque nationale de France, zkráceně BnF)
+Registrační agentury ISNI[editovat | editovat zdroj]
+Registrační agentury systému ISNI (angl. Registration Agencies, zkráceně RAGs) budou ustanovovány registrační autoritou, tj. Mezinárodní agenturou ISNI. První agentury budou ustanoveny ve třetím čtvrtletí 2011. Registrační agenturou ISNI se může stát libovolná obchodní korporace s prověřeným zájmem o oblast ISNI. Může jí být organizace reprezentující nějaké území nebo obchodní oblast, jako je knižní vydavatelský průmysl, hudební průmysl aj. Registrační agentury budou zajišťovat rozhraní mezi uživateli a registrační autoritou (ISNI-IA). RAGS budou vyřizovat přidělování čísel ISNI na základě žádostí žadatelů.
+Verifikační agentury ISNI[editovat | editovat zdroj]
+Verifikační agentury ISNI (angl. Verification Agencies) jsou ustanovovány Registrační autoritou ISNI. Mají roli specializovaných porovnávacích služeb pro registrační autoritu – ISNI-IA a jí budovanou referenční databázi (roli zajišťuje síť OCLC). Verifikační agentury jsou nominovány registrační autoritou na základě důkladného kontrolního procesu.
+Registrační metadata[editovat | editovat zdroj]
+Registrační agentury budou povinně zasílat do centrální referenční databáze také popisná metadata.
+Kompletní metadatový záznam by měl zahrnovat přidělené číslo ISNI a dále  povinné prvky: jméno veřejné identity (pod kterým je strana známa), typ strany (např. fyzická osoba, právnická osoba), URI seznamů s třídami tvůrčích děl a rolemi tvůrců (připraví je RA), třídy tvůrčích děl (hudební dílo, literární dílo, audiovizuální dílo aj.), role tvůrců (autor, režisér, vydavatel aj.). Budou-li k dispozici další údaje, lze uvádět nepovinně: datum a typ data (datum narození nebo registrace společnosti, datum úmrtí nebo likvidace společnosti), místo a typ místa (např. země narození / úmrtí, působení tvůrce aj.). Připojit lze také údaje o souvisejícím ISNI (jiné veřejné identity stejné strany) a typu vztahu (např. je pseudonym). Připojit bude možné i další údaje (např. URI podrobnějších informací o veřejné identitě), které budou specifikovány a definitivně zveřejněny registrační autoritou.
+Referenční databáze systému ISNI[editovat | editovat zdroj]
+Každý ze zakládajících členů konsorcia Mezinárodní agentury ISNI udržuje nějakou vlastní databázi záznamů tvůrců včetně identifikátorů lokálního charakteru, v řadě případů jde o neveřejné identifikátory soukromého charakteru. Na základě dohody mezi členy konsorcia bylo nejdříve do provozu uvedeno prvotní jádro centrální referenční databáze ISNI. Využity byly zejména 3 hlavní zdrojové databáze:
+Neveřejná databáze IPI (provozuje ji švýcarská společnost SUISA pod vedením CISAC), zahrnuje přibližně 3 000 000 záznamů tvůrců děl
+Veřejně dostupná databáze systému VIAF, zahrnuje přibližně 18 400 000 zdrojových autoritních záznamů, z toho 14 500 000 klastrů VIAF těchto záznamů
+Neveřejná specifická databáze Asociace Mezinárodní databáze výkonných umělců IPDA, zahrnuje přibližně 400 000 záznamů výkonných umělců
+Informace z databáze ISNI jsou již v současné době dostupné nejenom členům konsorcia a prvním ustanoveným registračním agenturám, ale také široké veřejnosti. Databáze zpřístupňuje k roku 2014 již 7 490 000 záznamů veřejných identit, z toho je 7 000 000 záznamů fyzických osob a 490 000 záznamů korporací. Databáze je dostupná ze specifické webové stránky rozhraní pro vyhledávání. Záznamy databáze ISNI jsou propojeny se záznamy databáze systému VIAF a opačně. Systém ISNI a jeho agentury jsou v provozu na základě stanovených poplatků, registrační agentury platí roční předplatné a poplatek za každou přijatou žádost o přidělení čísla ISNI.
+Systém ISNI, jeho databáze a hlavně jeho trvalý identifikátor byly navrženy jako tzv. „most“ spojující jiné systémy, jejich databáze a jejich identifikátory, často soukromého charakteru. Systém a databáze ISNI tudíž nebudou sloužit k vyhledávání všech informací, které potřebují specializované uživatelské sektory. Databáze ISNI je registrem zajišťujícím jednoznačnou službu a spojení (vazbu) k záznamům na metadata bohatší databáze. I z tohoto důvodu systém ISNI bude v databázi udržovat jenom minimum metadat.
+Citace[editovat | editovat zdroj]
+↑ ISO 27729
+↑ ISO/IEC 7064:2003
+Bibliografické reference[editovat | editovat zdroj]
+ISO 27729:2012. Information and documentation – International Standard Name Identifier. Geneva: International Organization for Standardization, 2012-03-06. 15 s. International Standard
+Mezinárodní agentura ISNI. ISNI : International Standard Name Identifier [online]. London: ISNI International Agency, [2011-] [cit. 2014-04-04]. Dostupný z: http://isni.org/
+HAKALA, Juha. International Standard Name Identifier : An introduction [online]. February 3rd, 2010 [cit. 2014-04-04]. Standards in Metadata and interoperability. Dostupný z: https://web.archive.org/web/20110317235951/http://metadaten-twr.org/2010/02/03/international-standard-name-identifier-an-introduction/
+BRATKOVÁ, Eva. Systém globální identifikace tvůrců, výrobců a distributorů obsahů zahajuje svoji činnost. In INFORUM 2011: 17. ročník konference o profesionálních informačních zdrojích, Praha, 24.–26. 5. 2011 [online]. Praha : Albertina icome Praha, 2011 [cit. 2014-04-04], [s. 1–19]. ISSN 1801-2213. Dostupný z: http://www.inforum.cz/pdf/2011/bratkova-eva.pdf
+Externí odkazy[editovat | editovat zdroj]
+ Wikidata používají Mezinárodní standardní identifikátor jména jako vlastnost P213 (použití)
+.mw-parser-output div/**/#portallinks a{font-weight:bold}Portály: Informační věda a knihovnictví      
+Citováno z „https://cs.wikipedia.org/w/index.php?title=Mezinárodní_standardní_identifikátor_jména&amp;oldid=17424445“
+		Kategorie: Standardy ISO podle jménaIdentifikátoryIdentifikátory informačních entit
+	Navigační menu
+		Osobní nástroje
+		Nejste přihlášen(a)DiskusePříspěvkyVytvoření účtuPřihlášení
+		Jmenné prostory
+		ČlánekDiskuse
+		Varianty
+		Zobrazení
+		ČístEditovatEditovat zdrojZobrazit historii
+		Další
+		Hledání
+		Navigace
+		Hlavní stranaNápovědaPotřebuji pomocNejlepší článkyNáhodný článekPoslední změnyKomunitní portálPod lípouPodpořte Wikipedii
+		Nástroje
+		Odkazuje semSouvisející změnyNačíst souborSpeciální stránkyTrvalý odkazInformace o stránceCitovat stránkuPoložka Wikidat
+		Tisk/export
+		Vytvořit knihuStáhnout jako PDFVerze k tisku
+		V jiných jazycích
+		العربيةمصرىAsturianuБългарскиभोजपुरीCatalàCymraegDanskDeutschΕλληνικάEnglishEsperantoEspañolEuskaraفارسیSuomiFrançaisNordfriiskGàidhligGalegoעבריתहिन्दीHrvatskiMagyarBahasa IndonesiaIlokanoItaliano日本語한국어MalagasyМакедонскиमराठीBahasa MelayuNederlandsOccitanPolskiPortuguêsRomânăРусскийScotsSrpskohrvatski / српскохрватскиSimple EnglishSlovenčinaSlovenščinaSvenskaTürkçeУкраїнськаTiếng Việt中文Bân-lâm-gú
+		Upravit odkazy
+		 Stránka byla naposledy editována 23. 6. 2019 v 03:46.
+		Text je dostupný pod licencí Creative Commons Uveďte autora – Zachovejte licenci, případně za dalších podmínek. Podrobnosti naleznete na stránce Podmínky užití.
+		Ochrana osobních údajů
+		O Wikipedii
+		Vyloučení odpovědnosti
+		Kontaktujte Wikipedii
+		Mobilní verze
+		Vývojáři
+		Statistiky
+		Prohlášení o cookies

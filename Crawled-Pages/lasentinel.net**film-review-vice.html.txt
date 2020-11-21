@@ -1,0 +1,317 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+FILM REVIEW: Vice            
+				By Dwight Brown, NNPA News Wire Film Critic                
+	                	                Published January 12, 2019
+		(From L to R) Amy Adams as Lynne Cheney, Christian Bale as Dick Cheney, Sam Rockwell as George W. Bush, and Andrea Wright as Laura Busch in Adam McKay’s VICE, an Annapurna Pictures release. Credit : Matt Kennedy / Annapurna Pictures2018 © Annapurna Pictures, LLC. All Rights Reserved.
+It was an historic power grab. Not the Republicans taking back the White House after a controversial, razor-thin win by George W. Bush over Al Gore. It was the vice president-elect, Dick Cheney, out-maneuvering George Jr. and becoming the puppet master. Cheney: “No one has shown the world the true power of the presidency.” If one quarter of this searing and satirical film is true, the filmmakers may have made a mistake titling the film Vice. Some viewers may think this bio/drama should have been called Dick.
+Writer/director Adam McKay is no stranger to politics and news-related projects. He won a Best Adapted Screenplay Oscar for The Big Short, a comic exposé on the mortgage scandal that brought on the 2007 recession. As a former writer on Saturday Night Live, he turned current events into biting satire. That skill comes in handy with his innate handling of a bleak period in time that most people would like to forget but are still curious about the behind-the-scenes scoop. With a well-researched script, Adams tackles the sordid details of a cunning, ambitious man who ran the country into the ground.
+Hats off to McKay and the casting director (Francine Maisler, The Revenant) for assembling a stellar ensemble: Chameleon actor Christian Bale (The Machinist, Rescue Dawn, The Dark Knight) embodies Richard Bruce “Dick” Cheney in every frame. Yes, he gained the weight, grayed his hair and donned the glasses. But the full effect of his uncanny portrayal is in his low, gravelly voice, the bent over head, slouching posture and very deliberate walk that evoke the film’s central figure in the eeriest way. It’s an impressive transformation, not to be confused with being an impersonation. For many audience members, Bale’s uncanny Cheney aura is the image of the VP that will linger.
+        ADVERTISEMENT        
+Though Sam Rockwell (Three Billboards Outside Ebbing, Missouri and Moon) doesn’t look like George W. Bush, his interpretation of the party boy turned governor and gullible president is dead-on. The friendly Texas accent and accommodating demeanor sets him up to be the naïve rooster who invites a fox into his henhouse. Amy Adams gives certain power to the very demanding, king-maker wife Lynne Cheney. Steve Carell’s depiction of Donald Rumsfeld—businessman, congressman, White House Chief of Staff, Secretary of Defense and co-architect of wars in Afghanistan and Iraq—rings true.
+The rest of the key players in the Nixon/Ford/Bush administrations are recreated with distinct performances aided by McKay’s instinctual direction: Condoleezza Rice (LisaGay Hamilton); Scooter Libby (Justin Kirk); Gerald Ford (Bill Camp); Rush Limbaugh (Bob Stephenson); Roger Ailes (Kyle S. More); Liz Cheney (Lily Rabe), Mary Cheney (Alison Pill) and Colin Powell (Tyler Perry).
+If that long list of characters seems vaguely familiar but you don’t quite remember who was zooming who, then Vice will set you straight. Not only does it give a closeup view of Dick Cheney and his agenda, it threads together all the people and machinations that led the country into a misguided war in the aftermath of 9/11 and a severe financial crisis.
+McKay’s script is clear. It’s easy enough to follow the trail of lies, deceit and power plays. Easy to track Cheney’s backstory and the high and low points in his life: flunked out of Yale, a blue-collar job, an internship in Nixon administration, heart attacks, adjusting to having a lesbian daughter and a stint as the CEO of Halliburton, the company that received a billions-of-dollars no-bid contract for reconstruction work in Iraq.
+McKay’s wink and nod direction makes a trainload of facts, figures and individuals easy to digest. Even if what he is presenting is obviously one-sided and almost as pitiless as the main character. The writer/director’s very smirky comic touch adds a teaspoon of sugar to some very bitter medicine.
+Looking over McKay’s shoulder is the very skilled editor Hank Corwin (The Big Short) who masterfully pieces together humorous, dramatic and informative scenes with cutaways to provocative images (e.g. a heart beating on its own) into a visually engaging montage.
+The artful photography is courtesy of cinematographer Greig Fraser’s (Lion) discerning eye. Susan Matheson’s (The Big Short) costume design screams Republican: She must have depleted Brooks Brothers entire stash of dowdy gray suits. In the few moments when the proceedings lose verve, Nicholas Britell’s (Moonlight) over-the-top musical score pipes in and raises the energy level back to mild hysteria.
+Red state audiences will yawn. Blue state audiences will be outraged and see parallels with the current administration. What both sides of the aisle will witness is a barrage of revealing information about politicians and events that significantly changed history—not necessarily for the better.
+Visit NNPA News Wire Film Critic Dwight Brown at DwightBrownInk.com and BlackPressUSA.com. 
+		Categories: Entertainment | TV Tags: 9/11 | Adam McKay | Afghanistan | Alison Pill | Amy Adams | Bill Camp | Bob Stephenson | Christian Bale | Colin Powell | Condoleezza Rice | Dick Cheney | Donald Rumsfeld | Dwight Brown | film review | financial crisis | George W. Bush | Gerald Ford | Halliburton | Iraq | Justin Kirk | Kyle S. More | Lily Rabe | LisaGay Hamilton | Liz Cheney | Lynne Cheney | Mary Cheney | Nixon administration | Nixon/Ford/Bush administrations | Roger Ailes | Rush Limbaugh | Sam Rockwell | Saturday Night Live | Scooter Libby | Steve Carell | Tyler Perry | Vice		
+						Adults Were Silent About R. Kelly’s Pattern of Abuse
+						Kane Brown to Be Honored with Breakthrough Artist Award at Music Biz 2019
+						Fifteen-Time Grammy® Winner Alicia Keys to Host The 61st Annual Grammy Aw...
+						Kam’s Kapsules: Weekly Previews That Make Choosing a Film Fun
+						27th Annual Pan-African Film and Arts Festival To Screen Aretha Franklin...
+						Big Boi, Travis Scott To Join Maroon 5 In Super Bowl Show
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

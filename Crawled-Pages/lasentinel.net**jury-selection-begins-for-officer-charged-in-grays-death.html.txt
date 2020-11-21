@@ -1,0 +1,334 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Jury selection begins for officer charged in Gray’s death            
+				By Associated Press                
+	                	                Published December 2, 2015
+		Protestors gather outside Clarence M. Mitchell Jr. Courthouse, Monday, Nov. 30, 2015, in Baltimore, after the arrival of William Porter, one of six Baltimore city police officers charged in connection to the death of Freddie Gray. Porter, whose trial jury selection began Monday, faces charges of manslaughter, assault, reckless endangerment and misconduct in office. (AP Photo/Patrick Semansky)
+BALTIMORE (AP) — Jury selection for the first police officer to go to trial in Freddie Gray’ s death began Monday with a judge questioning potential jurors about their knowledge of the explosive case, which led to widespread protests and rioting and added fuel to the Black Lives Matter movement.
+Baltimore Circuit Court Judge Barry Williams conducted initial questioning in a courtroom but planned to interview at least 66 prospective jurors in a private conference room. The large pool of people suggested how difficult the selection process could be.
+William Porter is one of six officers charged in the death of Gray, a 25-year-old black man who died April 19 of a severe spinal injury he suffered while in police custody.
+        ADVERTISEMENT        
+Porter, who is also black, is accused of failing to get medical help for Gray during several stops made by the police van that carried Gray on a 45-minute trip. At the end, officers found Gray unresponsive. He was taken to a hospital and died a week later.
+The officer is being tried first in part because prosecutors want to use him as a witness in the trials of several other officers. He is charged with manslaughter, assault, misconduct and reckless endangerment.
+The judge asked 75 potential jurors whether anyone had not heard about the case, the citywide curfew imposed after Gray’s death or the settlement paid to his family. No one responded.
+By standing in response to the judge’s questions, 12 jurors indicated they had family members in law enforcement. Thirty-eight indicated they had been a victim or a suspect in a crime, had been to jail or had charges pending against them.
+Protestors gather outside Clarence M. Mitchell Jr. Courthouse, Monday, Nov. 30, 2015, in Baltimore, after the arrival of William Porter, one of six Baltimore city police officers charged in connection to the death of Freddie Gray. Porter, whose trial jury selection began Monday, faces charges of manslaughter, assault, reckless endangerment and misconduct in office. (AP Photo/Patrick Semansky)
+Twenty-six people indicated they had strong feelings about the charges against Porter.
+Williams read aloud more than 200 names of possible witnesses, a list that included more than 100 Baltimore police officers, lawyers and prosecutors.
+A small group of protesters gathered outside the courthouse. Their chants of “All night, all day, we will fight for Freddie Gray,” could be heard throughout the morning proceedings.
+One prospective juror was taken to a hospital after tripping on courthouse stairs. Court spokeswoman Terri Charles said the woman suffered a knee injury.
+A verdict is likely to set the tone for the city. If Porter is acquitted, there could be protests and possibly more unrest. A conviction could send shock waves through the city’s troubled police department.
+“Everything is at stake. The future of the city is at stake,” Police Commissioner Kevin Davis has said.
+The first group of 75 possible jurors was sent home Monday night and court spokeswoman Terri Charles said that some would be notified before Wednesday that they had been dismissed. A new panel of about 75 potential jurors will be called into court Tuesday.
+The judge said he expects the trial to wrap up by Dec. 17.
+Two other officers are black and the three additional officers are white. They will be tried separately beginning in January. Their trials are expected to last until the spring.
+Gray was initially handcuffed. Later during his van ride, his legs were shackled and he was not put in a seat belt, a violation of department policy, prosecutors have said.
+Porter told police investigators that arresting Gray “was always a big scene,” according to a pretrial filing by defense attorneys. Porter indicated that he knew of a previous arrest in which Gray allegedly tried to kick out the windows of a police vehicle.
+“You know, so he was always, always, like, banging around,” Porter said in the statement excerpted in the filing. “It was always a big scene whenever you attempted to arrest Freddie Gray.”
+Defense attorneys say that helps explain Porter’s actions during Gray’s arrest.
+The Rev. C.D. Witherspoon, president of the Baltimore chapter of the Southern Christian Leadership Conference, speaks during a protest on Thursday, Sept. 10, 2015, at the Baltimore courthouse. (AP Photo/Brian Witte)
+For several days after Gray died, the demonstrations were mostly peaceful. But on the day he was buried, looting and rioting started, and businesses were burned down. The unrest resulted in millions of dollars in property damage.
+The turmoil forced an incumbent mayor to drop out of a re-election campaign and toppled the career of a reform-minded police chief who was unceremoniously fired. The homicide rate soared, and the blood continues to spill on Baltimore’s streets at a pace unseen in decades.
+Davis stepped in as police chief in July amid a crime spike that saw 45 homicides in a single month — a 43-year high.
+An independent review of the police response to the rioting revealed “major shortcomings,” and painted a portrait of an overwhelmed and under-prepared department.
+Hours before Police Commissioner Anthony Batts was fired in July, the police union issued its own scathing report. Its president called for Batts to “step up.”
+The U.S. Justice Department is conducting a probe into the department stemming from allegations that officers hassled people and used excessive force.
+Republican Gov. Larry Hogan said Monday that Maryland has been preparing for any disturbances related to the trials ever since he called in the National Guard to help restore order in April. He said his administration’s security team has been meeting on an almost weekly basis.
+		Categories: National | News Tags: Freddie Gray | NYPD | police brutality | Protesting | racial inequality		
+						Students return to Washington campus after racial threats
+						Strategic Power of the Black Press in 2016
+						Colleges grapple with best ways to address race incidents
+						Beyond the Rhetoric: Is Barack Obama The Most Reluctant President in Histor...
+						Lawndale Elementary School District Wins State Grant, Will Collaborate With...
+						In DC, public housing tenants forced out, then homes flipped
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

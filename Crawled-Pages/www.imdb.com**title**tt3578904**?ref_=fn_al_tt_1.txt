@@ -1,0 +1,249 @@
+/* sc-component-id: NavLogo-e02kni-0 */
+.ddqdtC{-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;margin-left:0.25rem;margin-right:auto;-webkit-order:1;-ms-flex-order:1;order:1;position:relative;} @media screen and (min-width:1024px){.ddqdtC{margin-left:auto;margin-right:0.5rem;-webkit-order:0;-ms-flex-order:0;order:0;padding-left:0;}} @media (hover:hover) and (pointer:fine){.ddqdtC:focus{outline:1px dashed currentColor;}.ddqdtC:focus:active{outline:0;}.ddqdtC:before,.ddqdtC:after{border-radius:10%;bottom:0;content:'';height:100%;left:0;margin:auto;opacity:0;position:absolute;right:0;top:0;-webkit-transition:opacity .2s cubic-bezier(1,1,1,1);transition:opacity .2s cubic-bezier(1,1,1,1);width:100%;}}
+/* sc-component-id: SearchTypeahead-sc-112a48v-0 */
+.OQYVG li:first-child > ._3CzPBqlWRmSAoWxtvQQ5Eo{border-top:none;}
+/* sc-component-id: FlyoutMenu-xq6xx0-0 */
+.crQfrC{position:relative;} .crQfrC.navbar__flyout__text-button-after-mobile,.crQfrC .navbar__flyout__text-button-after-mobile{display:none;} .crQfrC .navbar__flyout__text-button-after-mobile > div{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;} .crQfrC .navbar__flyout--menu{top:100%;position:absolute;margin-top:.25rem;} .crQfrC.crQfrC.navbar__flyout--positionLeft .navbar__flyout--menu{left:0;right:auto;} @media screen and (min-width:600px){.crQfrC.navbar__flyout--breakpoint-m .navbar__flyout__icon-on-mobile{display:none;}.crQfrC.navbar__flyout--breakpoint-m .navbar__flyout__text-button-after-mobile{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;}} @media screen and (min-width:1024px){.crQfrC.navbar__flyout--breakpoint-l .navbar__flyout__icon-on-mobile{display:none;}.crQfrC.navbar__flyout--breakpoint-l .navbar__flyout__text-button-after-mobile{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;}} @media screen and (min-width:1280px){.crQfrC.navbar__flyout--breakpoint-xl .navbar__flyout__icon-on-mobile{display:none;}.crQfrC.navbar__flyout--breakpoint-xl .navbar__flyout__text-button-after-mobile{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;}} .crQfrC .navbar__flyout__button-pointer{-webkit-transition:-webkit-transform 0.2s;-webkit-transition:transform 0.2s;transition:transform 0.2s;-webkit-transform:rotateX(0);-ms-transform:rotateX(0);transform:rotateX(0);} .crQfrC.navbar__flyout--isVisible .navbar__flyout__button-pointer{-webkit-transform:rotateX(180deg);-ms-transform:rotateX(180deg);transform:rotateX(180deg);}
+/* sc-component-id: SearchCategorySelector__StyledContainer-sc-18f40f7-0 */
+.dKTgZt .search-category-selector__opener{border-radius:2px 0 0 2px;padding:0 0 0 0.5rem;min-height:32px;height:20px;border-right:1px solid rgba(0,0,0,0.3);} .dKTgZt _1L5qcXA4wOKR8LeHJgsqja{cursor:pointer;}
+/* sc-component-id: SearchForm-dxsip9-0 */
+.gTFTwO{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex:1;-webkit-flex-grow:1;-ms-flex-positive:1;flex-grow:1;margin:0;padding:0;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;} @media screen and (min-width:600px){.gTFTwO{-webkit-transition:border 0.2s,background-color 0.2s,box-shadow 0.2s;transition:border 0.2s,background-color 0.2s,box-shadow 0.2s;}} .gTFTwO .nav-search__search-input-container{width:100%;padding-right:3.5rem;} .gTFTwO ._1-XI3_I8iwubPnQ1mmvW97{position:absolute;right:.35rem;min-width:2rem;cursor:pointer;top:.35rem;-webkit-transition:all 0.2s;transition:all 0.2s;} @media screen and (min-width:600px){.gTFTwO.q2gp5sSzXI30d2n_razRe ._1-XI3_I8iwubPnQ1mmvW97{background:transparent;opacity:1;}} .gTFTwO .imdb-header-search__input{background:transparent;-webkit-box-flex:1;-webkit-flex-grow:1;-ms-flex-positive:1;flex-grow:1;outline:none;padding:1rem 1rem 1rem .75rem;width:100%;} @media screen and (min-width:600px){.gTFTwO .imdb-header-search__input{padding:.375em 0 .375rem .5rem;}} .gTFTwO .imdb-header-search__input::-ms-clear{display:none;}
+/* sc-component-id: SearchBar-sc-1nweg6x-0 */
+.hOXnzb{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;left:0;margin:0;min-height:3.5rem;opacity:0;-webkit-transform:translateY(-10px);-ms-transform:translateY(-10px);transform:translateY(-10px);-webkit-transition:none;transition:none;-webkit-order:3;-ms-flex-order:3;order:3;pointer-events:none;position:absolute;top:0;visibility:hidden;width:100%;z-index:1;} .hOXnzb .imdb-header-search__state-closer{-webkit-transform:scale(0.5);-ms-transform:scale(0.5);transform:scale(0.5);-webkit-transition:-webkit-transform 0.2s 0.1s;-webkit-transition:transform 0.2s 0.1s;transition:transform 0.2s 0.1s;display:inline;margin:.25rem;position:absolute;right:0;top:0;} .hOXnzb .imdb-header-search__state,.hOXnzb .imdb-header-search__input,.hOXnzb .nav-search__search-submit{-moz-appearance:none;-webkit-appearance:none;-webkit-appearance:none;-moz-appearance:none;appearance:none;border:none;} @media screen and (min-width:600px){.hOXnzb{-webkit-box-flex:1;-webkit-flex-grow:1;-ms-flex-positive:1;flex-grow:1;margin:0 0.5rem;padding:0;min-height:2.25rem;-webkit-order:3;-ms-flex-order:3;order:3;opacity:1;visibility:visible;pointer-events:auto;position:relative;-webkit-transform:translateY(0);-ms-transform:translateY(0);transform:translateY(0);}.hOXnzb .imdb-header-search__state,.hOXnzb .nav-search__search-submit{padding:0;}.hOXnzb .nav-search__search-submit:focus{outline:var(--ipt-focus-outline-on-base);outline-offset:1px;}.hOXnzb .imdb-header-search__state-closer{display:none;}}
+/* sc-component-id: SearchBar__SearchLauncherButton-sc-1nweg6x-1 */
+.hjoCyi{-webkit-transition:all 0.3s;transition:all 0.3s;opacity:1;-webkit-transform:scale(1);-ms-transform:scale(1);transform:scale(1);-webkit-order:3;-ms-flex-order:3;order:3;} @media screen and (min-width:600px){.hjoCyi{-webkit-order:3;-ms-flex-order:3;order:3;}.hjoCyi.imdb-header-search__state-opener{display:none;}}
+/* sc-component-id: SearchBar__MobileSearchStateToggle-sc-1nweg6x-2 */
+.cIKARP:checked ~ .nav-search__search-container{opacity:1;-webkit-transform:scale(1);-ms-transform:scale(1);transform:scale(1);-webkit-transition:opacity 0.2s,-webkit-transform 0.2s;-webkit-transition:opacity 0.2s,transform 0.2s;transition:opacity 0.2s,transform 0.2s;visibility:visible;pointer-events:auto;z-index:100;} .cIKARP:checked ~ .nav-search__search-container .nav-search__search-select,.cIKARP:checked ~ .nav-search__search-container .nav-search__search-submit{display:none;} .cIKARP:checked ~ .nav-search__search-container .imdb-header-search__state-closer{-webkit-transform:scale(1);-ms-transform:scale(1);transform:scale(1);} .cIKARP:checked ~ .nav-search__search-container ~ .SearchBar__SearchLauncherButton-sc-1nweg6x-1{-webkit-transform:scale(0.5);-ms-transform:scale(0.5);transform:scale(0.5);-webkit-transition:all 0.3s 0.3s;transition:all 0.3s 0.3s;opacity:0;}
+/* sc-component-id: Drawer__StyledContainer-sc-1h7cs9y-0 */
+.bkeTFm._14--k36qjjvLW3hUWHDPb_{bottom:0;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;left:0;overflow:hidden;-webkit-perspective:70vh;-moz-perspective:70vh;-ms-perspective:70vh;perspective:70vh;pointer-events:none;position:fixed;right:0;top:0;visibility:hidden;z-index:100;} .bkeTFm .iRO9SK-8q3D8_287dhn28{box-shadow:none;box-sizing:border-box;height:100%;overflow-x:hidden;overflow-y:auto;position:relative;-webkit-transform:translateX(calc(-100% - 36px));-ms-transform:translateX(calc(-100% - 36px));transform:translateX(calc(-100% - 36px));-webkit-transform-origin:right center;-ms-transform-origin:right center;transform-origin:right center;-webkit-transition:all 0.3s,box-shadow 0s;transition:all 0.3s,box-shadow 0s;width:280px;z-index:2;-webkit-overflow-scroll:touch;} .bkeTFm ._1iCYg55DI6ds7d3KVrdYBX{box-sizing:border-box;display:block;height:100%;left:0;opacity:0;position:absolute;top:0;-webkit-transition:opacity 0.3s;transition:opacity 0.3s;visibility:hidden;width:100%;will-change:opacity;z-index:1;} .bkeTFm ._3rHHDKyPLOjL8tGKHWMRza{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;box-sizing:border-box;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:end;-webkit-justify-content:flex-end;-ms-flex-pack:end;justify-content:flex-end;min-height:3.5rem;margin-bottom:0.5rem;padding:0.25rem;} .bkeTFm ._2RzUkzyrsjx_BPIQ5uoj5s{-webkit-touch-callout:none;-webkit-tap-highlight-color:transparent;} ._146x-LuQBSfM9yosRvjSGF:checked ~ .bkeTFm._14--k36qjjvLW3hUWHDPb_{pointer-events:auto;visibility:visible;} ._146x-LuQBSfM9yosRvjSGF:checked ~ .bkeTFm._14--k36qjjvLW3hUWHDPb_ > .iRO9SK-8q3D8_287dhn28{-webkit-transform:translateX(0);-ms-transform:translateX(0);transform:translateX(0);box-shadow:0px 11px 15px -7px rgba(var(--ipt-baseAlt-rgb),0.2),0px 24px 38px 3px rgba(var(--ipt-baseAlt-rgb),0.14),0px 9px 46px 8px rgba(var(--ipt-baseAlt-rgb),0.12);} ._146x-LuQBSfM9yosRvjSGF:checked ~ .bkeTFm._14--k36qjjvLW3hUWHDPb_ > ._1iCYg55DI6ds7d3KVrdYBX{opacity:0.5;visibility:visible;} @media screen and (min-width:1024px){.bkeTFm .iRO9SK-8q3D8_287dhn28{width:100%;-webkit-transform:translateY(calc(-100%));-ms-transform:translateY(calc(-100%));transform:translateY(calc(-100%));padding:2rem 0;}.bkeTFm ._3rHHDKyPLOjL8tGKHWMRza{background:none;max-width:1024px;margin:auto;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;padding:0 1rem;}.bkeTFm ._3bRJYEaOz1BKUQYqW6yb29{max-width:1024px;margin:auto;}.bkeTFm .WNY8DBPCS1ZbiSd7NoqdP{display:inline;}}
+/* sc-component-id: NavLink-sc-19k0khm-0 */
+.LrpYY .ipc-icon{opacity:0.5;-webkit-transition:opacity 0.2s;transition:opacity 0.2s;} .LrpYY:hover .ipc-icon{opacity:1;} @media screen and (max-width:479px){.LrpYY.nav-link--hideXS{display:none;}} @media screen and (min-width:480px) and (max-width:599px){.LrpYY.nav-link--hideS{display:none;}} @media screen and (min-width:600px) and (max-width:1023px){.LrpYY.nav-link--hideM{display:none;}} @media screen and (min-width:1024px) and (max-width:1279px){.LrpYY.nav-link--hideL{display:none;}} @media screen and (min-width:1280px){.LrpYY.nav-link--hideXL{display:none;}}
+/* sc-component-id: NavLinkCategory__StyledContainer-sc-1zvm8t-0 */
+.eWjUDO ._2vjThdvAXrHx6CofJjm03w{cursor:pointer;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;border-top:1px solid transparent;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;height:3rem;margin:0;padding:0 1rem;-webkit-transition:color 0.1s ease-in,border-color 0.1s ease-in,opacity 0.12s ease-in;transition:color 0.1s ease-in,border-color 0.1s ease-in,opacity 0.12s ease-in;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;} .eWjUDO ._2vjThdvAXrHx6CofJjm03w:focus{outline:var(--ipt-focus-outline-on-baseAlt);outline-offset:1px;} .eWjUDO ._1tLXJMH37mh4UmvfVF8swF{padding-right:0.75rem;} .eWjUDO ._2aunAih-uMfbdgTUIjnQMd{-webkit-box-flex:1;-webkit-flex-grow:1;-ms-flex-positive:1;flex-grow:1;overflow:hidden;padding-right:0.75rem;text-overflow:ellipsis;white-space:nowrap;} .eWjUDO ._2BeDp2pKthfMnxArm4lS0T{-webkit-transform:rotate(90deg);-ms-transform:rotate(90deg);transform:rotate(90deg);} .eWjUDO ._1tLXJMH37mh4UmvfVF8swF,.eWjUDO ._2BeDp2pKthfMnxArm4lS0T{opacity:0.5;-webkit-transition:all 0.2s;transition:all 0.2s;} .eWjUDO ._2vjThdvAXrHx6CofJjm03w:focus ._2BeDp2pKthfMnxArm4lS0T,.eWjUDO ._2vjThdvAXrHx6CofJjm03w:hover ._2BeDp2pKthfMnxArm4lS0T,.eWjUDO ._2vjThdvAXrHx6CofJjm03w:focus ._1tLXJMH37mh4UmvfVF8swF,.eWjUDO ._2vjThdvAXrHx6CofJjm03w:hover ._1tLXJMH37mh4UmvfVF8swF{opacity:1;} .eWjUDO ._1S9IOoNAVMPB2VikET3Lr2{overflow:hidden;border-bottom:1px solid transparent;-webkit-transition:border-color 0.1s ease-in,height 0.2s;transition:border-color 0.1s ease-in,height 0.2s;} .eWjUDO .s6lVaL5MYgQM-fYJ9KWp7:checked ~ span ._2vjThdvAXrHx6CofJjm03w ._1tLXJMH37mh4UmvfVF8swF{opacity:1;} .eWjUDO .s6lVaL5MYgQM-fYJ9KWp7:checked ~ span ._2vjThdvAXrHx6CofJjm03w ._2BeDp2pKthfMnxArm4lS0T{-webkit-transform:rotate(-90deg);-ms-transform:rotate(-90deg);transform:rotate(-90deg);} .eWjUDO .s6lVaL5MYgQM-fYJ9KWp7:checked ~ span ._1S9IOoNAVMPB2VikET3Lr2{display:block;} .eWjUDO:nth-of-type(1) ._2vjThdvAXrHx6CofJjm03w{border-top:none;} @media screen and (min-width:1024px){.eWjUDO.noMarginItem ._2vjThdvAXrHx6CofJjm03w{margin-top:0;}} @media screen and (min-width:1024px){.eWjUDO{-webkit-flex-basis:33%;-ms-flex-preferred-size:33%;flex-basis:33%;}.eWjUDO ._2vjThdvAXrHx6CofJjm03w{pointer-events:none;margin-top:1.5rem;height:3rem;border:none;}.eWjUDO .s6lVaL5MYgQM-fYJ9KWp7:checked ~ ._2Q0QZxgQqVpU0nQBqv1xlY ._2vjThdvAXrHx6CofJjm03w ._2aunAih-uMfbdgTUIjnQMd{color:inherit;}.eWjUDO ._1S9IOoNAVMPB2VikET3Lr2{visibility:inherit;height:auto !important;border:0;}.eWjUDO ._2BeDp2pKthfMnxArm4lS0T{display:none;}.eWjUDO ._1tLXJMH37mh4UmvfVF8swF{color:var(--ipt-on-baseAlt-accent1-color);opacity:1;}.eWjUDO .ipc-list__item{height:2rem;}.eWjUDO .ipc-list--baseAlt .ipc-list__item:hover{background:none;-webkit-text-decoration:underline;text-decoration:underline;}} @media screen and (max-width:479px){.eWjUDO._2BpsDlqEMlo9unX-C84Nji--hideXS{display:none;}} @media screen and (min-width:480px) and (max-width:599px){.eWjUDO._2BpsDlqEMlo9unX-C84Nji--hideS{display:none;}} @media screen and (min-width:600px) and (max-width:1023px){.eWjUDO._2BpsDlqEMlo9unX-C84Nji--hideM{display:none;}} @media screen and (min-width:1024px) and (max-width:1279px){.eWjUDO._2BpsDlqEMlo9unX-C84Nji--hideL{display:none;}} @media screen and (min-width:1280px){.eWjUDO._2BpsDlqEMlo9unX-C84Nji--hideXL{display:none;}}
+/* sc-component-id: NavDynamicCategoryList__CategoryGroupContainer-f186ms-0 */
+@media screen and (min-width:1024px){.dzfmPm{-webkit-flex-basis:33%;-ms-flex-preferred-size:33%;flex-basis:33%;}}
+/* sc-component-id: NavDynamicCategoryList__EmptyContainer-f186ms-1 */
+@media screen and (min-width:1024px){.dFDExU{-webkit-flex-basis:33%;-ms-flex-preferred-size:33%;flex-basis:33%;}}
+/* sc-component-id: NavLinkCategoryList__StyledContainer-sc-13vymju-0 */
+.diDBNJ ._1cBEhLbHn9YeCkfPvo9USU{list-style:none;margin:0.5rem 0;opacity:0.2;} .diDBNJ ._3xW8qYlqcCPv5fOHeXBer5{margin-bottom:3rem;margin-top:1.5rem;padding:1rem;height:auto;} @media screen and (min-width:1024px){.diDBNJ{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;}.diDBNJ ._1BC0pBnjYqz3wST1u3CwmG{display:none;}.diDBNJ ._3xW8qYlqcCPv5fOHeXBer5{-webkit-align-self:flex-start;-ms-flex-item-align:start;align-self:flex-start;display:none;}.diDBNJ:focus{outline:var(--ipt-focus-outline-on-baseAlt);outline-offset:1px;}}
+/* sc-component-id: NavLinkCategoryList__LogoNavLink-sc-13vymju-1 */
+.RQLCk{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}
+/* sc-component-id: NavLinkCategoryList__TextNavLink-sc-13vymju-2 */
+.YOYgO{margin-top:.25rem;}
+/* sc-component-id: HamburgerMenu-k5mvoq-0 */
+.erYeKd{-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-order:0;-ms-flex-order:0;order:0;} .erYeKd.desktop{display:none;} @media screen and (min-width:1024px){.erYeKd{-webkit-order:1;-ms-flex-order:1;order:1;}.erYeKd.mobile{display:none;}.erYeKd.desktop{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}}
+/* sc-component-id: UserMenu-sc-1poz515-0 */
+.eIWOUD{-webkit-order:6;-ms-flex-order:6;order:6;} @media screen and (min-width:600px){.eIWOUD .navbar__user-menu__username-divider,.eIWOUD .navbar__user-menu__username{display:none;}} @media screen and (min-width:1024px){.eIWOUD{-webkit-order:7;-ms-flex-order:7;order:7;}} .eIWOUD .navbar__user-menu-toggle__button{padding-right:0.25rem;} .eIWOUD .navbar__user-name{max-width:160px;text-overflow:ellipsis;white-space:nowrap;overflow:hidden;}
+/* sc-component-id: NavWatchlistButton-sc-1b65w5j-0 */
+.kaVyhF{-webkit-order:5;-ms-flex-order:5;order:5;display:none;} @media screen and (min-width:1024px){.kaVyhF{-webkit-order:6;-ms-flex-order:6;order:6;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;}} .kaVyhF .imdb-header__watchlist-button-count{margin-left:0.5rem;background:var(--ipt-on-base-accent1-color);color:var(--ipt-on-accent1-color);padding:0 0.4rem;border-radius:10px;text-align:center;} .kaVyhF .ipc-button__text{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;}
+/* sc-component-id: NavProFlyout-sc-1cjctnc-0 */
+.hoAGyu{-webkit-order:4;-ms-flex-order:4;order:4;} @media screen and (min-width:1024px){.hoAGyu{-webkit-order:4;-ms-flex-order:4;order:4;}} .hoAGyu .navbar__imdbpro-menu-toggle__name{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;} .hoAGyu .navbar__imdbpro-content .navbar__flyout--menu{background-image:url(//m.media-amazon.com/images/G/01/imdb/images/navbar/imdbpro_navbar_menu_bg-3083451252._V_.png);background-size:cover;padding-left:17px;padding-bottom:25px;padding-top:25px;color:white;font-weight:bold;} .hoAGyu .navbar__imdbpro-imdb-pro-ad{background-repeat:no-repeat;color:white;cursor:pointer;width:573px;overflow:hidden;border-radius:8px;left:initial;} .hoAGyu .navbar__imdbpro-imdb-pro-ad .imdb-pro-ad__content,.hoAGyu .navbar__imdbpro-imdb-pro-ad .imdb-pro-ad__image{display:inline-block;} .hoAGyu .navbar__imdbpro-imdb-pro-ad .imdb-pro-ad__title{color:white;line-height:1.3em;margin-bottom:10px;} .hoAGyu .navbar__imdbpro-imdb-pro-ad .imdb-pro-ad__line{cursor:inherit;} .hoAGyu .navbar__imdbpro-imdb-pro-ad .imdb-pro-ad__link{display:inline-block;-webkit-text-decoration:none;text-decoration:none;vertical-align:middle;} .hoAGyu .navbar__imdbpro-imdb-pro-ad .imdb-pro-ad__content,.hoAGyu .navbar__imdbpro-imdb-pro-ad .imdb-pro-ad__image{vertical-align:top;} .hoAGyu .navbar__imdbpro-imdb-pro-ad .imdb-pro-ad__content{font-family:'Arial';margin-left:15px;width:400px;} .hoAGyu .navbar__imdbpro-imdb-pro-ad .imdb-pro-ad__content .imdb-pro-ad__line{display:list-item;font-size:12px;list-style-position:inside;list-style-type:disc;margin:0px;padding:.1rem 0;} .hoAGyu .navbar__imdbpro-imdb-pro-ad .imdb-pro-ad__content .imdb-pro-ad__title{font-size:15px;} .hoAGyu .navbar__imdbpro-imdb-pro-ad .imdb-pro-new__button{margin-top:15px;} .hoAGyu .navbar__imdbpro-imdb-pro-ad .imdb-pro-new__button text{fill:#111111;font-size:13px;font-weight:normal;} .hoAGyu .navbar__imdbpro-imdb-pro-ad .imdb-pro-new__button svg:hover rect,.hoAGyu .navbar__imdbpro-imdb-pro-ad .imdb-pro-new__button text:hover rect{fill:#f7dd95;} .hoAGyu .navbar__imdbpro-content .sub_nav{background-color:#f2f2f2;border-bottom-left-radius:10px;border-bottom-right-radius:10px;box-shadow:0 2px 5px rgba(0,0,0,0.6);color:#999;height:325px;} .hoAGyu .navbar__imdbpro-content .sub_nav h5{color:#A58500;margin:20px 0 10px;position:relative;}
+/* sc-component-id: LegacyLoginNode-sc-1oajtws-0 */
+.iwkRT{display:none;}
+/* sc-component-id: Root__Header-sc-7p0yen-0 */
+.gwOpQB{padding:0.25rem;margin:0;position:relative;z-index:1000;min-height:3.5rem;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;width:100%;} .gwOpQB a{color:inherit;} .gwOpQB .navbar__inner{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;width:100vw;margin:0;} @media screen and (min-width:600px){.gwOpQB .navbar__inner{padding:0 .75rem;}} @media screen and (min-width:1024px){.gwOpQB .navbar__inner{width:100%;margin:0 auto;}} .gwOpQB label{margin-bottom:0;}
+/* sc-component-id: Root__Separator-sc-7p0yen-1 */
+.cECatH{border:1px solid rgba(var(--ipt-on-baseAlt-rgb),.16);-webkit-order:5;-ms-flex-order:5;order:5;width:1px;height:2rem;margin:0 .5rem;} @media screen and (max-width:600px){.cECatH{display:none;-webkit-order:7;-ms-flex-order:7;order:7;}}
+       MenuMoviesRelease CalendarDVD &amp; Blu-ray ReleasesTop Rated MoviesMost Popular MoviesBrowse Movies by GenreTop Box OfficeShowtimes &amp; TicketsShowtimes &amp; TicketsIn TheatersComing SoonComing SoonMovie NewsIndia Movie SpotlightTV ShowsWhat's on TV &amp; StreamingWhat's on TV &amp; StreamingTop Rated ShowsMost Popular ShowsBrowse TV Shows by GenreTV NewsIndia TV SpotlightWatchWhat to WatchLatest TrailersIMDb OriginalsIMDb PicksIMDb PodcastsAwards &amp; EventsOscarsBest Picture WinnersBest Picture WinnersGolden GlobesEmmysSTARmeter AwardsSan Diego Comic-ConNew York Comic-ConSundance Film FestivalToronto Int'l Film FestivalAwards CentralFestival CentralAll EventsCelebsBorn TodayMost Popular CelebsMost Popular CelebsCelebrity NewsCommunityHelp CenterContributor ZonePollsFor Industry ProfessionalsAllAllTitlesTV EpisodesCelebsCompaniesKeywordsAdvanced SearchWatchlistSign In
+         FULL CAST AND CREW |
+         TRIVIA |
+         USER REVIEWS |
+      IMDbPro
+        |
+            MORE
+           LESS
+0Check in    
+        X
+        I'm Watching This!
+            Keep track of everything you watch; tell your friends.
+                Error Please try again!
+                Added to Your Check-Ins. View
+                Check in
+                    you enable Facebook sharing!
+-->
+        DETAILS
+Full Cast and Crew            
+Release Dates            
+Official Sites            
+Company Credits            
+Filming &amp; Production            
+Technical Specs            
+        TV
+Episode List            
+        STORYLINE
+Taglines            
+Plot Summary            
+Synopsis            
+Plot Keywords            
+Parents Guide            
+        RELATED ITEMS
+News            
+External Sites            
+        OPINION
+Awards            
+FAQ            
+User Reviews            
+User Ratings            
+External Reviews            
+Metacritic Reviews            
+        PHOTO &amp; VIDEO
+Photo Gallery            
+Trailers and Videos            
+        DID YOU KNOW?
+Trivia            
+Goofs            
+Crazy Credits            
+Quotes            
+Alternate Versions            
+Connections            
+Soundtracks            
+6.5/10                    
+                    227
+                                6 user
+            Rate This
+Extreme Car Hoarders             
+                Lords of the Car Hoards (original title)
+Reality-TV
+    |
+TV Series (2014– )
+Episode Guide
+12 episodes
+            0:21 | Trailer
+                        1 VIDEO
+    |        13 IMAGES
+                    This could be the last chance for car guru Rick Dore and ex WWE wrestler Chuck Palumbo to rebuild the lives of the hoarders they work for, and to find the type of success that eluded them ...
+                    See full summary »
+        Stars:
+Rick Dore, Chuck Palumbo, Jason Hildebrandt            |
+See full cast &amp; crew »
+    Added to Watchlist
+    Add to Watchlist
+        Reviews
+                   6 user                   
+View production, box office, &amp; company info
+    Scary Good British Horror Movies to Keep You Up at Night                       From Saint Maud to The Wicker Man here are some British horror movies that are certain to keep you looking over your shoulder for weeks to come.  See the full gallery    
+   Around The Web  |   Powered by ZergNet            
+                    Create a list »
+                User Lists
+                Related lists from IMDb users
+Vinnie
+            a list of 48 titles
+            created 27 May 2019
+engineering
+            a list of 45 titles
+            created 05 Feb 2018
+series
+            a list of 41 titles
+            created 27 Aug 2016
+Peliculas Vistas
+            a list of 689 titles
+            created 05 Dec 2013
+Car Shows
+            a list of 16 titles
+            created 18 Mar 2017
+                    See all related lists »
+            Share this Rating
+                Title:
+                Extreme Car Hoarders
+                (2014– )
+                6.5/10                
+            Want to share IMDb's rating on your own site? Use the HTML below.
+                        You must be a registered user to use the IMDb rating plugin.
+                        Login
+                Show HTML
+                View more styles
+    Episodes
+                Seasons
+                Years
+                                                    2  
+                                                    1  
+                                                                                         2015  
+                                                            2014  
+                        Unknown  
+            Videos
+ See all 1 video
+ »
+                Photos
+ See all
+13 photos »                    
+            Edit
+        Cast
+  Series cast summary:
+ Rick Dore
+              ...
+         Self
+         / ...  
+                  7 episodes, 2014-2015
+ Chuck Palumbo
+              ...
+         Self
+                  7 episodes, 2014-2015
+ Jason Hildebrandt
+              ...
+         Narrator
+                  7 episodes, 2014-2015
+ Joe Petralia
+              ...
+         Joe the Hat
+         / ...  
+                  3 episodes, 2014
+            See full cast »
+View production, box office, &amp; company info
+            Edit
+        Storyline
+                    This could be the last chance for car guru Rick Dore and ex WWE wrestler Chuck Palumbo to rebuild the lives of the hoarders they work for, and to find the type of success that eluded them the last time out. Whether transforming a 1936 Ford Coupe for an almond farmer, or customizing a 1937 Zephr for a demanding millionaire, renovating cars for hoarders is a risky proposition.
+                Plot Summary
+    |
+        Add Synopsis
+            Plot Keywords:
+ car restoration
+                        |
+ classic car
+            | See All (2) »
+            Genres:
+ Reality-TV
+        Parents Guide:
+ Add content advisory for parents »
+        User Reviews
+                    Back-ground music..."Isn"t"
+                        21 March 2014 | by smokeykavon
+                        – See all my reviews
+                        I just watched your show a few hours ago in my shop with several auto restoration friends. We thought it was pretty good. I liked the concept of finding a bunch of items then taking it all instead of just a few items. The Corvair 'chopped' look was great. The reason I gave you a low view rating was because your "back-ground" music was front-ground noise. Not only me, my friends said the same thing. Heavy 'metal' type of music tends to be more on the louder side and has a tendency to play on the eardrums differently. We could hardly hear what was said. Good luck with your show. Thank you...Bob, Jeff, Randy, Steve, Josh, &amp; Eli the Dog.
+                0 of 3 people found this review helpful. 
+                Was this review helpful to you?
+                    Yes
+                    No
+                        | Report this
+                Review this title
+            |
+            See all 6 user reviews »
+        Frequently Asked Questions
+This FAQ is empty. Add the first question. 
+            Edit
+        Details
+    Language:
+        English
+    Release Date: 17 March 2014 (USA)
+      See more »
+      Also Known As: Rusted Development
+        See more »
+  Company Credits
+    Production Co:
+ Discovery Studios, New Entertainment Research &amp; Design (NERD)      
+        See more »
+  Show more on
+  IMDbPro »
+  Technical Specs
+    Color:
+        Color
+  See full technical specs »
+Getting Started
+            |
+Contributor Zone »
+        Contribute to This Page
+                            Edit page
+                Add episode
+    Your Next Binge Watch Awaits    Looking for something to watch? Choose an adventure below and discover your next favorite movie or TV show.                  October Streaming Picks                   What to Watch if You Miss the "Game of Thrones" Cast                   Back to School Picks            Visit our What to Watch page    
+                                Clear your history
+                            Recently Viewed
+       Get the IMDb AppGet the IMDb AppView Full SiteHelpSite IndexIMDbProBox Office MojoIMDb DeveloperPress RoomAdvertisingJobsConditions of UsePrivacy PolicyInterest-Based Ads© 1990-2020 by IMDb.com, Inc.

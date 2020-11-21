@@ -1,0 +1,826 @@
+        About
+            Branching and Merging
+            Small and Fast
+            Distributed
+            Data Assurance
+            Staging Area
+            Free and Open Source
+            Trademark
+        Documentation
+            Reference
+            Book
+            Videos
+            External Links
+        Downloads
+            GUI Clients
+            Logos
+        Community
+This book is available in
+  English.
+  Full translation available in
+    български език,
+    Deutsch,
+    Español,
+    Français,
+    Ελληνικά,
+    日本語,
+    한국어,
+    Nederlands,
+    Русский,
+    Slovenščina,
+    Tagalog,
+    Українська
+    简体中文,
+  Partial translations available in
+    Čeština,
+    Македонски,
+    Polski,
+    Српски,
+    Ўзбекча,
+    繁體中文,
+  Translations started for
+    azərbaycan dili,
+    Беларуская,
+    فارسی,
+    Indonesian,
+    Italiano,
+    Bahasa Melayu,
+    Português (Brasil),
+    Português (Portugal),
+    Svenska,
+    Türkçe.
+The source of this book is  hosted on GitHub.
+Patches, suggestions and comments are welcome.
+  Chapters ▾
+  1. Erste Schritte
+          1.1
+          Was ist Versionsverwaltung? 
+          1.2
+          Kurzer Überblick über die Historie von Git 
+          1.3
+          Was ist Git? 
+          1.4
+          Die Kommandozeile 
+          1.5
+          Git installieren 
+          1.6
+          Git Basis-Konfiguration 
+          1.7
+          Hilfe finden 
+          1.8
+          Zusammenfassung 
+  2. Git Grundlagen
+          2.1
+          Ein Git-Repository anlegen 
+          2.2
+          Änderungen nachverfolgen und im Repository speichern 
+          2.3
+          Anzeigen der Commit-Historie 
+          2.4
+          Ungewollte Änderungen rückgängig machen 
+          2.5
+          Mit Remotes arbeiten 
+          2.6
+          Taggen 
+          2.7
+          Git Aliases 
+          2.8
+          Zusammenfassung 
+  3. Git Branching
+          3.1
+          Branches auf einen Blick 
+          3.2
+          Einfaches Branching und Merging 
+          3.3
+          Branch-Management 
+          3.4
+          Branching-Workflows 
+          3.5
+          Remote-Branches 
+          3.6
+          Rebasing 
+          3.7
+          Zusammenfassung 
+  4. Git auf dem Server
+          4.1
+          Die Protokolle 
+          4.2
+          Git auf einem Server einrichten 
+          4.3
+          Erstellung eines SSH-Public-Keys 
+          4.4
+          Einrichten des Servers 
+          4.5
+          Git-Daemon 
+          4.6
+          Smart HTTP 
+          4.7
+          GitWeb 
+          4.8
+          GitLab 
+          4.9
+          Von Drittanbietern gehostete Optionen 
+          4.10
+          Zusammenfassung 
+  5. Verteiltes Git
+          5.1
+          Verteilter Arbeitsablauf 
+          5.2
+          An einem Projekt mitwirken 
+          5.3
+          Ein Projekt verwalten 
+          5.4
+          Zusammenfassung 
+  6. GitHub
+          6.1
+          Einrichten und Konfigurieren eines Kontos 
+          6.2
+          Mitwirken an einem Projekt 
+          6.3
+          Ein Projekt betreuen 
+          6.4
+          Verwalten einer Organisation 
+          6.5
+          Skripte mit GitHub 
+          6.6
+          Zusammenfassung 
+  7. Git Tools
+          7.1
+          Revisions-Auswahl 
+          7.2
+          Interaktives Stagen 
+          7.3
+          Stashen und Bereinigen 
+          7.4
+          Ihre Arbeit signieren 
+          7.5
+          Suchen 
+          7.6
+          Den Verlauf umschreiben 
+          7.7
+          Reset entzaubert 
+          7.8
+          Fortgeschrittenes Merging 
+          7.9
+          Rerere 
+          7.10
+          Debuggen mit Git 
+          7.11
+          Submodule 
+          7.12
+          Bundling 
+          7.13
+          Replace (Ersetzen) 
+          7.14
+          Anmeldeinformationen speichern 
+          7.15
+          Zusammenfassung 
+  8. Git einrichten
+          8.1
+          Git Konfiguration 
+          8.2
+          Git-Attribute 
+          8.3
+          Git Hooks 
+          8.4
+          Beispiel für Git-forcierte Regeln 
+          8.5
+          Zusammenfassung 
+  9. Git und andere Systeme
+          9.1
+          Git als Client 
+          9.2
+          Migration zu Git 
+          9.3
+          Zusammenfassung 
+  10. Git Interna
+          10.1
+          Basisbefehle und Standardbefehle (Plumbing and Porcelain) 
+          10.2
+          Git Objekte 
+          10.3
+          Git Referenzen 
+          10.4
+          Packdateien (engl. Packfiles) 
+          10.5
+          Die Referenzspezifikation (engl. Refspec) 
+          10.6
+          Transfer Protokolle 
+          10.7
+          Wartung und Datenwiederherstellung 
+          10.8
+          Zusammenfassung 
+  A1. Appendix A: Git in anderen Umgebungen
+          A1.1
+          Grafische Schnittstellen 
+          A1.2
+          Git in Visual Studio 
+          A1.3
+          Git in Visual Studio Code 
+          A1.4
+          Git in Eclipse 
+          A1.5
+          Git in IntelliJ / PyCharm / WebStorm / PhpStorm / RubyMine 
+          A1.6
+          Git in Sublime Text 
+          A1.7
+          Git in Bash 
+          A1.8
+          Git in Zsh 
+          A1.9
+          Git in PowerShell 
+          A1.10
+          Zusammenfassung 
+  A2. Appendix B: Git in Ihre Anwendungen einbetten
+          A2.1
+          Die Git-Kommandozeile 
+          A2.2
+          Libgit2 
+          A2.3
+          JGit 
+          A2.4
+          go-git 
+          A2.5
+          Dulwich 
+  A3. Appendix C: Git Kommandos
+          A3.1
+          Setup und Konfiguration 
+          A3.2
+          Projekte importieren und erstellen 
+          A3.3
+          Einfache Snapshot-Funktionen 
+          A3.4
+          Branching und Merging 
+          A3.5
+          Projekte gemeinsam nutzen und aktualisieren 
+          A3.6
+          Kontrollieren und Vergleichen 
+          A3.7
+          Debugging 
+          A3.8
+          Patchen bzw. Fehlerkorrektur 
+          A3.9
+          E-mails 
+          A3.10
+          Externe Systeme 
+          A3.11
+          Administration 
+          A3.12
+          Basisbefehle 
+      2nd Edition
+    9.2 Git und andere Systeme - Migration zu Git
+Migration zu Git
+Wenn Sie eine bestehende Quelltext-Basis in einem anderen VCS haben, aber sich für die Verwendung von Git entschieden haben, müssen Sie Ihr Projekt auf die eine oder andere Weise migrieren.
+Dieser Abschnitt geht auf einige Importfunktionen für gängige Systeme ein und zeigt dann, wie Sie Ihren eigenen benutzerdefinierten Importeur entwickeln können.
+Sie lernen, wie man Daten aus einigen der größeren, professionell genutzten SCM-Systeme importiert. Sie werden von der Mehrheit der Benutzer, die wechseln wollen genutzt. Für diese Systeme sind oft hochwertige Migrations-Tools verfügbar.
+Subversion
+Wenn Sie den vorherigen Abschnitt über die Verwendung von git svn gelesen haben, können Sie die Anweisungen zu git svn clone leicht dazu benutzen, um ein Repository zu klonen. Beenden Sie dann die Verwendung des Subversion-Servers, pushen Sie zu einem neuen Git-Server und starten Sie dessen Nutzung.
+Der Verlauf kann in diesem Fall aus dem Subversion-Server gezogen werden (was einige Zeit in Anspruch nehmen kann – abhängig von der Geschwindigkeit, mit der Ihr SVN-Server die Historie ausliefern kann).
+Allerdings ist der Import nicht perfekt. Da er aber so lange dauert, können Sie ihn genauso gut auch richtig machen.
+Das erste Problem sind die Autoreninformationen.
+In Subversion hat jede Person, die einen Commit durchführt, auch einen Benutzer-Account auf dem System, der in den Commit-Informationen erfasst wird.
+Die Beispiele im vorherigen Abschnitt zeigen an einigen Stellen schacon, wie z.B. der blame Output und das git svn log.
+Wenn Sie diese auf bessere Git-Autorendaten abbilden möchten, benötigen Sie eine Zuordnung der Subversion-Benutzer zu den Git-Autoren.
+Erstellen Sie eine Datei mit Namen users.txt, die diese Zuordnung in einem solchen Format vornimmt:
+schacon = Scott Chacon &lt;schacon@geemail.com&gt;
+selse = Someo Nelse &lt;selse@geemail.com&gt;
+Um eine Liste der Autorennamen zu erhalten, die SVN verwendet, können Sie diesen Befehl ausführen:
+$ svn log --xml --quiet | grep author | sort -u | \
+  perl -pe 's/.*&gt;(.*?)&lt;.*/$1 = /'
+Das erzeugt die Protokollausgabe im XML-Format, behält nur die Zeilen mit Autoreninformationen, verwirft Duplikate und entfernt die XML-Tags.
+Natürlich funktioniert das nur auf einem Computer, auf dem grep, sort und perl installiert sind.
+Leiten Sie diese Ausgabe dann in Ihre users.txt Datei um, damit Sie die entsprechenden Git-Benutzerdaten neben jedem Eintrag hinzufügen können.
+Note
+Wenn Sie dies auf einem Windows-Computer versuchen, treten an dieser Stelle Probleme auf.
+Microsoft hat unter https://docs.microsoft.com/en-us/azure/devops/repos/git/perform-migration-from-svn-to-git einige gute Ratschläge und Beispiele bereitgestellt.
+Sie können diese Datei an git svn übergeben, um die Autorendaten genauer abzubilden.
+Außerdem können Sie git svn anweisen, die Metadaten, die Subversion normalerweise importiert, nicht zu berücksichtigen. Dazu übergeben Sie --no-metadata an den clone oder init Befehl.
+Die Metadaten enthalten eine git-svn-id in jeder Commit-Nachricht, die Git während des Imports generiert.
+Dies kann Ihr Git-Log aufblähen und es möglicherweise etwas unübersichtlich machen.
+Note
+Sie müssen die Metadaten beibehalten, wenn Sie im Git-Repository vorgenommene Commits wieder in das ursprüngliche SVN-Repository spiegeln möchten.
+Wenn Sie die Synchronisierung nicht in Ihrem Commit-Protokoll möchten, können Sie den Parameter --no-metadata weglassen.
+Dadurch sieht Ihr import Befehl so aus:
+$ git svn clone http://my-project.googlecode.com/svn/ \
+      --authors-file=users.txt --no-metadata --prefix "" -s my_project
+$ cd my_project
+Nun sollten Sie einen passenderen Subversion-Import in Ihrem my_project Verzeichnis haben.
+Anstelle von Commits, die so aussehen
+commit 37efa680e8473b615de980fa935944215428a35a
+Author: schacon &lt;schacon@4c93b258-373f-11de-be05-5f7a86268029&gt;
+Date:   Sun May 3 00:12:22 2009 +0000
+    fixed install - go to trunk
+    git-svn-id: https://my-project.googlecode.com/svn/trunk@94 4c93b258-373f-11de-
+    be05-5f7a86268029
+sehen diese jetzt so aus:
+commit 03a8785f44c8ea5cdb0e8834b7c8e6c469be2ff2
+Author: Scott Chacon &lt;schacon@geemail.com&gt;
+Date:   Sun May 3 00:12:22 2009 +0000
+    fixed install - go to trunk
+Nicht nur das Autorenfeld sieht viel besser aus, auch die git-svn-id ist nicht mehr vorhanden.
+Sie sollten auch eine gewisse Bereinigung nach dem Import durchführen.
+Zum einen sollten Sie die seltsamen Referenzen bereinigen, die git svn eingerichtet hat.
+Verschieben Sie zuerst die Tags so, dass sie echte Tags und nicht merkwürdige Remote-Branches darstellen. Dann verschieben Sie den Rest der Branches auf lokale Tags.
+Damit die Tags zu richtigen Git-Tags werden, starten Sie:
+$ for t in $(git for-each-ref --format='%(refname:short)' refs/remotes/tags); do git tag ${t/tags\//} $t &amp;&amp; git branch -D -r $t; done
+Dabei werden die Referenzen, die Remote-Branches waren und mit refs/remotes/tags/ begonnen haben zu richtigen (leichten) Tags gemacht.
+Als nächstes verschieben Sie den Rest der Referenzen unter refs/remotes in lokale Branches:
+$ for b in $(git for-each-ref --format='%(refname:short)' refs/remotes); do git branch $b refs/remotes/$b &amp;&amp; git branch -D -r $b; done
+Es kann vorkommen, dass Sie einige zusätzliche Branches sehen, die durch @xxx ergänzt sind (wobei xxx eine Zahl ist), während Sie in Subversion nur einen Branch sehen.
+Es handelt sich hierbei um eine Subversion-Funktion mit der Bezeichnung „peg-revisions“, für die Git einfach kein syntaktisches Gegenstück hat.
+Daher fügt git svn einfach die SVN-Versionsnummer zum Branch-Namen hinzu, genau so, wie Sie es in SVN geschrieben hätten, um die peg-Revision dieses Branchs anzusprechen.
+Wenn Sie sich nicht mehr um die peg-Revisionen sorgen wollen, entfernen Sie diese einfach:
+$ for p in $(git for-each-ref --format='%(refname:short)' | grep @); do git branch -D $p; done
+Jetzt sind alle alten Branches echte Git-Branches und alle alten Tags sind echte Git-Tags.
+Da wäre noch eine letzte Sache zu klären.
+Leider erstellt git svn einen zusätzlichen Branch mit dem Namen trunk, der auf den Standard-Branch von Subversion gemappt wird, aber die trunk Referenz zeigt auf die gleiche Position wie master.
+Da master in Git eher idiomatisch ist, hier die Anleitung zum Entfernen des extra Branchs:
+$ git branch -d trunk
+Das Letzte, was Sie tun müssen, ist, Ihren neuen Git-Server als Remote hinzuzufügen und zu ihm zu pushen.
+Hier ist ein Beispiel für das hinzufügen Ihres Servers als Remote:
+$ git remote add origin git@my-git-server:myrepository.git
+Um alle Ihre Branches und Tags zu aktualisieren, können Sie jetzt diese Anweisungen ausführen:
+$ git push origin --all
+$ git push origin --tags
+Alle Ihre Branches und Tags sollten sich nun auf Ihrem neuen Git-Server in einem schönen, sauberen Import befinden.
+Mercurial
+Da Merkurial und Git haben ziemlich ähnliche Modelle für die Darstellung von Versionen.
+Außerdem ist Git etwas flexibler, so dass die Konvertierung eines Repositorys von Merkurial nach Git ziemlich einfach ist.
+Dazu wird ein Tool mit der Bezeichnung „hg-fast-export“ verwendet, von dem Sie eine Kopie benötigen:
+$ git clone https://github.com/frej/fast-export.git
+Der erste Schritt bei der Umstellung besteht darin, einen vollständigen Klon des zu konvertierenden Mercurial-Repository zu erhalten:
+$ hg clone &lt;remote repo URL&gt; /tmp/hg-repo
+Der nächste Schritt ist die Erstellung einer Autor-Mapping-Datei.
+Mercurial ist etwas toleranter als Git für das, was es in das Autorenfeld für Changesets stellt. Das ist daher ein guter Zeitpunkt, um das ganze Projekt zu bereinigen.
+Das generieren Sie mit einem einzeiligen Befehl in einer bash Shell:
+$ cd /tmp/hg-repo
+$ hg log | grep user: | sort | uniq | sed 's/user: *//' &gt; ../authors
+Das dauert nur ein paar Sekunden, abhängig davon, wie umfangreich der Verlauf Ihres Projekts ist. Danach wird die Datei /tmp/authors in etwa so aussehen:
+bob
+bob@localhost
+bob &lt;bob@company.com&gt;
+bob jones &lt;bob &lt;AT&gt; company &lt;DOT&gt; com&gt;
+Bob Jones &lt;bob@company.com&gt;
+Joe Smith &lt;joe@company.com&gt;
+In diesem Beispiel hat die gleiche Person (Bob) Changesets unter vier verschiedenen Namen erstellt, von denen einer tatsächlich korrekt aussieht und einer für einen Git-Commit völlig ungültig wäre.
+Mit hg-fast-export können wir das beheben. Jede Zeile wird in eine Regel umgewandelt: "&lt;input&gt;"="&lt;output&gt;", wobei ein &lt;input&gt; auf einen &lt;output&gt; abgebildet wird.
+Innerhalb der Zeichenketten &lt;input&gt; und &lt;output&gt; werden alle Escape-Sequenzen unterstützt, die von Python string_escape Encoding verstanden werden.
+Wenn die Autor-Mapping-Datei keinen passenden &lt;input&gt; enthält, wird dieser Autor unverändert an Git übergeben.
+Wenn alle Benutzernamen korrekt aussehen, werden wir diese Datei überhaupt nicht brauchen.
+In diesem Beispiel soll unsere Datei so aussehen:
+"bob"="Bob Jones &lt;bob@company.com&gt;"
+"bob@localhost"="Bob Jones &lt;bob@company.com&gt;"
+"bob &lt;bob@company.com&gt;"="Bob Jones &lt;bob@company.com&gt;"
+"bob jones &lt;bob &lt;AT&gt; company &lt;DOT&gt; com&gt;"="Bob Jones &lt;bob@company.com&gt;"
+Die gleiche Art von Mapping-Datei kann zum Umbenennen von Branches und Tags verwendet werden, wenn der Mercurial-Name in Git nicht zulässig ist.
+Der nächste Schritt ist die Erstellung unseres neuen Git-Repository und das Ausführen des Exportskripts:
+$ git init /tmp/converted
+$ cd /tmp/converted
+$ /tmp/fast-export/hg-fast-export.sh -r /tmp/hg-repo -A /tmp/authors
+Das -r Flag informiert hg-fast-export darüber, wo das Mercurial-Repository zu finden ist, das wir konvertieren möchten. Das -A Flag sagt ihm, wo es die Autor-Mapping-Datei findet (Branch- und Tag-Mapping-Dateien werden jeweils durch die -B und -T Flags definiert).
+Das Skript analysiert Mercurial Change-Sets und konvertiert sie in ein Skript für Gits „fast-import“ Funktion (auf die wir später noch näher eingehen werden).
+Das dauert ein wenig (obwohl es viel schneller ist, als wenn es über das Netzwerk laufen würde). Der Output ist ziemlich umfangreich:
+$ /tmp/fast-export/hg-fast-export.sh -r /tmp/hg-repo -A /tmp/authors
+Loaded 4 authors
+master: Exporting full revision 1/22208 with 13/0/0 added/changed/removed files
+master: Exporting simple delta revision 2/22208 with 1/1/0 added/changed/removed files
+master: Exporting simple delta revision 3/22208 with 0/1/0 added/changed/removed files
+[…]
+master: Exporting simple delta revision 22206/22208 with 0/4/0 added/changed/removed files
+master: Exporting simple delta revision 22207/22208 with 0/2/0 added/changed/removed files
+master: Exporting thorough delta revision 22208/22208 with 3/213/0 added/changed/removed files
+Exporting tag [0.4c] at [hg r9] [git :10]
+Exporting tag [0.4d] at [hg r16] [git :17]
+[…]
+Exporting tag [3.1-rc] at [hg r21926] [git :21927]
+Exporting tag [3.1] at [hg r21973] [git :21974]
+Issued 22315 commands
+git-fast-import statistics:
+---------------------------------------------------------------------
+Alloc'd objects:     120000
+Total objects:       115032 (    208171 duplicates                  )
+      blobs  :        40504 (    205320 duplicates      26117 deltas of      39602 attempts)
+      trees  :        52320 (      2851 duplicates      47467 deltas of      47599 attempts)
+      commits:        22208 (         0 duplicates          0 deltas of          0 attempts)
+      tags   :            0 (         0 duplicates          0 deltas of          0 attempts)
+Total branches:         109 (         2 loads     )
+      marks:        1048576 (     22208 unique    )
+      atoms:           1952
+Memory total:          7860 KiB
+       pools:          2235 KiB
+     objects:          5625 KiB
+---------------------------------------------------------------------
+pack_report: getpagesize()            =       4096
+pack_report: core.packedGitWindowSize = 1073741824
+pack_report: core.packedGitLimit      = 8589934592
+pack_report: pack_used_ctr            =      90430
+pack_report: pack_mmap_calls          =      46771
+pack_report: pack_open_windows        =          1 /          1
+pack_report: pack_mapped              =  340852700 /  340852700
+---------------------------------------------------------------------
+$ git shortlog -sn
+   369  Bob Jones
+   365  Joe Smith
+Das ist so ziemlich alles, was es dazu zu sagen gibt.
+Alle Mercurial-Tags wurden in Git-Tags umgewandelt, und Mercurial-Branches und -Lesezeichen wurden in Git-Branches umgewandelt.
+Jetzt können Sie das Repository in das neue serverseitige System pushen:
+$ git remote add origin git@my-git-server:myrepository.git
+$ git push origin --all
+Bazaar
+Bazaar ist ein DVCS-Tool ähnlich wie Git. Deshalb ist es relativ unkompliziert, ein Bazaar-Repository in ein Git-Repository zu konvertieren.
+Um dieses Ziel zu erreichen, müssen Sie das bzr-fastimport Plugin einlesen.
+Das bzr-fastimport Plugin herunterladen
+The procedure for installing the fastimport plugin is different on UNIX-like operating systems and on Windows.
+In the first case, the simplest is to install the bzr-fastimport package that will install all the required dependencies.
+Zum Beispiel, mit Debian (und seinen Derivaten), würden Sie folgendes tun:
+$ sudo apt-get install bzr-fastimport
+Mit RHEL würden Sie folgendes tun:
+$ sudo yum install bzr-fastimport
+Bei Fedora, seit Release 22, heißt der neue Paketmanager dnf:
+$ sudo dnf install bzr-fastimport
+Falls kein Packet verfügbar ist, können Sie es als Plugin installieren:
+$ mkdir --parents ~/.bazaar/plugins     # creates the necessary folders for the plugins
+$ cd ~/.bazaar/plugins
+$ bzr branch lp:bzr-fastimport fastimport   # imports the fastimport plugin
+$ cd fastimport
+$ sudo python setup.py install --record=files.txt   # installs the plugin
+Damit dieses Plugin funktioniert, benötigen Sie auch das fastimport Python-Modul.
+Sie können überprüfen, ob es vorhanden ist oder nicht und es dann mit den folgenden Befehlen installieren:
+$ python -c "import fastimport"
+Traceback (most recent call last):
+  File "&lt;string&gt;", line 1, in &lt;module&gt;
+ImportError: No module named fastimport
+$ pip install fastimport
+Wenn es nicht vorhanden ist, können Sie es unter der Adresse https://pypi.python.org/pypi/fastimport/ herunterladen.
+Im zweiten Fall (unter Windows) wird bzr-fastimport automatisch mit der Standalone-Version und der Default-Installation auf Ihrem Computer mit installiert (alle Kontrollkästchen aktiviert lassen).
+Deshalb haben Sie in diesem Fall nichts weiter zu tun.
+An dieser Stelle unterscheidet sich die Vorgehensweise beim Import eines Bazaar-Repositorys dahingehend, ob Sie einen einzelnen Branch haben oder mit einem Repository arbeiten, das mehrere Branches hat.
+Projekt mit einer einzigen Branch
+Wechseln Sie jetzt mit cd in das Verzeichnis, das Ihr Bazaar-Repository enthält, und initialisieren Sie das Git-Repository:
+$ cd /path/to/the/bzr/repository
+$ git init
+Nun können Sie Ihr Bazaar-Repository einfach exportieren und mit dem folgenden Befehl in ein Git-Repository konvertieren:
+$ bzr fast-export --plain . | git fast-import
+Abhängig von der Größe des Projekts wird Ihr Git-Repository in einer Zeitspanne von wenigen Sekunden bis einigen Minuten erstellt.
+Projekt mit einem Hauptbranch und einem Arbeitsbranch
+Sie können auch ein Bazaar-Repository importieren, das Branches enthält.
+Angenommen, Sie haben zwei Branches: Einer repräsentiert den Hauptzweig (myProject.trunk), der andere ist der Arbeitszweig (myProject.work).
+$ ls
+myProject.trunk myProject.work
+Erstellen Sie das Git-Repository und wechseln Sie jetzt mit cd in dieses:
+$ git init git-repo
+$ cd git-repo
+Den master Branch zu Git pullen:
+$ bzr fast-export --export-marks=../marks.bzr ../myProject.trunk | \
+git fast-import --export-marks=../marks.git
+Den Arbeits-Branch zu Git pullen:
+$ bzr fast-export --marks=../marks.bzr --git-branch=work ../myProject.work | \
+git fast-import --import-marks=../marks.git --export-marks=../marks.git
+Jetzt zeigt Ihnen git branch sowohl den master Branch als auch den work Branch.
+Überprüfen Sie die Protokolle, um sicherzustellen, dass sie vollständig sind, und entfernen Sie die Dateien marks.bzr und marks.git.
+Die Staging-Area synchronisieren
+Unabhängig von der Anzahl der Branches und der verwendeten Importmethode ist Ihre Staging-Area nicht mit HEAD synchronisiert, und beim Import mehrerer Branches ist auch Ihr Arbeitsverzeichnis nicht synchronisiert.
+Diese Situation lässt sich mit dem folgenden Befehl leicht lösen:
+$ git reset --hard HEAD
+Mit .bzrignore ignorierte Dateien auslassen
+Werfen wir nun einen Blick auf die zu ignorierenden Dateien.
+Zuerst müssen Sie .bzrignore in .gitignore umbenennen.
+Wenn die Datei .bzrignore eine oder mehrere Zeilen enthält, die mit „!!“ oder „RE:“ beginnen, müssen Sie sie ändern und vielleicht mehrere .gitignore Dateien anlegen, um genau die gleichen Dateien zu ignorieren, die Bazaar ignoriert hat.
+Schließlich ist ein Commit zu erstellen, der diese Änderung für die Migration enthält:
+$ git mv .bzrignore .gitignore
+$ # modify .gitignore if needed
+$ git commit -am 'Migration from Bazaar to Git'
+Ihr Repository an den Server übertragen
+Hier wären wir!
+Jetzt können Sie das Repository auf seinen neuen Zielserver pushen:
+$ git remote add origin git@my-git-server:mygitrepository.git
+$ git push origin --all
+$ git push origin --tags
+Ihr Git-Repository ist einsatzbereit.
+Perforce
+Bei dem nächsten System, aus dem Sie importieren können, handelt es sich um Perforce.
+Wie bereits erwähnt, gibt es zwei Möglichkeiten, wie Git und Perforce miteinander kommunizieren können: git-p4 und Perforce Git Fusion.
+Perforce Git Fusion
+Git Fusion macht diesen Prozess relativ unkompliziert.
+Konfigurieren Sie einfach Ihre Projekteinstellungen, Benutzerzuordnungen und Branches mit Hilfe einer Konfigurationsdatei (wie in Git Fusion beschrieben) und klonen Sie das Repository.
+Git Fusion bietet Ihnen ein natives Git-Repository, mit dem Sie nach Belieben auf einen nativen Git-Host wechseln können.
+Sie können Perforce sogar als Ihren Git-Host verwenden, wenn Sie möchten.
+Git-p4
+Git-p4 kann auch als Import-Tool fungieren.
+Als Beispiel werden wir das Jam-Projekt aus dem Perforce Public Depot importieren.
+Um Ihren Client einzurichten, müssen Sie die Umgebungsvariable P4PORT exportieren und auf das Perforce-Depot verweisen:
+$ export P4PORT=public.perforce.com:1666
+Note
+Zur weiteren Bearbeitung benötigen Sie ein Perforce-Depot, mit dem Sie sich verbinden können.
+Wir werden das öffentliche Depot unter public.perforce.com für unsere Beispiele verwenden. Sie können aber jedes Depot nutzen, zu dem Sie Zugang haben.
+Führen Sie den Befehl git p4 clone aus, um das Jam-Projekt vom Perforce-Server zu importieren, wobei Sie das Depot, den Projektpfad und den Pfad angeben, in den Sie das Projekt importieren möchten:
+$ git-p4 clone //guest/perforce_software/jam@all p4import
+Importing from //guest/perforce_software/jam@all into p4import
+Initialized empty Git repository in /private/tmp/p4import/.git/
+Import destination: refs/remotes/p4/master
+Importing revision 9957 (100%)
+Dieses spezielle Projekt hat nur einen Branch, aber wenn Sie Branches haben, die mit Branch Views (oder nur einer Gruppe von Verzeichnissen) eingerichtet sind, können Sie ergänzend zum Befehl git p4 clone das Flag --detect-branches  verwenden, um alle Branches des Projekts zu importieren.
+Siehe Branching für ein paar weitere Details.
+In diesem Moment sind Sie fast fertig.
+Wenn Sie in das Verzeichnis p4import wechseln und git log ausführen, können Sie Ihr importiertes Projekt sehen:
+$ git log -2
+commit e5da1c909e5db3036475419f6379f2c73710c4e6
+Author: giles &lt;giles@giles@perforce.com&gt;
+Date:   Wed Feb 8 03:13:27 2012 -0800
+    Correction to line 355; change &lt;/UL&gt; to &lt;/OL&gt;.
+    [git-p4: depot-paths = "//public/jam/src/": change = 8068]
+commit aa21359a0a135dda85c50a7f7cf249e4f7b8fd98
+Author: kwirth &lt;kwirth@perforce.com&gt;
+Date:   Tue Jul 7 01:35:51 2009 -0800
+    Fix spelling error on Jam doc page (cummulative -&gt; cumulative).
+    [git-p4: depot-paths = "//public/jam/src/": change = 7304]
+Sie können sehen, dass git-p4 in jeder Commit-Nachricht eine Kennung hinterlassen hat.
+Es ist gut, diese Kennung dort zu behalten, falls Sie später auf die Perforce-Änderungsnummer verweisen müssen.
+Wenn Sie den Identifier jedoch entfernen möchten, ist es jetzt der richtige Zeitpunkt – bevor Sie mit der Arbeit am neuen Repository beginnen.
+Sie können git filter-branch verwenden, um die Identifikations-Strings in großer Anzahl zu entfernen:
+$ git filter-branch --msg-filter 'sed -e "/^\[git-p4:/d"'
+Rewrite e5da1c909e5db3036475419f6379f2c73710c4e6 (125/125)
+Ref 'refs/heads/master' was rewritten
+Wenn Sie git log ausführen, können Sie sehen, dass sich alle SHA-1-Prüfsummen für die Commits geändert haben, aber die git-p4 Zeichenketten sind nicht mehr in den Commit-Nachrichten enthalten:
+$ git log -2
+commit b17341801ed838d97f7800a54a6f9b95750839b7
+Author: giles &lt;giles@giles@perforce.com&gt;
+Date:   Wed Feb 8 03:13:27 2012 -0800
+    Correction to line 355; change &lt;/UL&gt; to &lt;/OL&gt;.
+commit 3e68c2e26cd89cb983eb52c024ecdfba1d6b3fff
+Author: kwirth &lt;kwirth@perforce.com&gt;
+Date:   Tue Jul 7 01:35:51 2009 -0800
+    Fix spelling error on Jam doc page (cummulative -&gt; cumulative).
+Ihr Import ist bereit, um ihn auf Ihren neuen Git-Server zu pushen.
+TFS
+Wenn Ihr Team seine Versionskontrolle von TFVC nach Git umwandelt, werden Sie die bestmögliche Konvertierung benötigen, die Sie erhalten können.
+Das bedeutet, dass wir, während wir sowohl git-tfs als auch git-tf für den Interop-Bereich abgedeckt haben, nur git-tfs für diesen Teil behandeln werden, da git-tfs Branches unterstützt, was bei der Verwendung von git-tf äußerst schwierig ist.
+Note
+Das ist eine Ein-Weg-Konvertierung.
+Das so entstandene Git-Repository kann sich nicht mit dem ursprünglichen TFVC-Projekt verbinden.
+Als erstes müssen Sie die Benutzernamen zuordnen.
+TFVC ist ziemlich großzügig mit dem, was in das Autorenfeld für Change-Sets aufgenommen wird. Aber Git will einen benutzerfreundlichen Namen und eine E-Mail-Adresse.
+Sie können diese Informationen vom tf Befehlszeilen-Client erhalten, so wie hier:
+PS&gt; tf history $/myproject -recursive &gt; AUTHORS_TMP
+Dadurch werden alle Change-Sets im Verlauf des Projekts erfasst und in die Datei AUTHORS_TMP geschrieben. Wir werden diese Datei verarbeiten, um die Daten der Spalte 'User' (die zweite) zu extrahieren.
+Öffnen Sie die Datei und finden Sie heraus, an welchen Zeichen die Spalte beginnt und endet und ersetzen Sie in der folgenden Befehlszeile die Werte 11-20 des cut Befehls durch die gefundenen:
+PS&gt; cat AUTHORS_TMP | cut -b 11-20 | tail -n+3 | sort | uniq &gt; AUTHORS
+Der Befehl cut berücksichtigt nur die Zeichen zwischen 11 und 20 aus jeder Zeile.
+Der Befehl tail überspringt die ersten beiden Zeilen, die Feld-Header und ASCII-artige Unterstriche sind.
+Das Resultat davon wird an sort und uniq weitergeleitet, um Duplikate zu eliminieren und in der Datei AUTHORS gespeichert.
+Der nächste Schritt erfolgt manuell. Damit git-tfs diese Datei effektiv nutzen kann, muss jede Zeile in diesem Format vorliegen:
+DOMAIN\username = User Name &lt;email@address.com&gt;
+Der linke Teil ist das Feld „User“ von TFVC und auf der rechten Seite des Gleichheitszeichens ist der Benutzername, der für Git Commits verwendet wird.
+Sobald Sie diese Datei haben, ist der nächste Schritt, einen vollständigen Klon des TFVC-Projekts zu erstellen, an dem Sie interessiert sind:
+PS&gt; git tfs clone --with-branches --authors=AUTHORS https://username.visualstudio.com/DefaultCollection $/project/Trunk project_git
+Als nächstes sollten Sie die git-tfs-id Abschnitte unten in den Commit-Nachrichten bereinigen.
+Die folgende Anweisung erledigt das:
+PS&gt; git filter-branch -f --msg-filter 'sed "s/^git-tfs-id:.*$//g"' '--' --all
+Der verwendete sed Befehl aus der Git-bash-Umgebung ersetzt jede Zeile, die mit „git-tfs-id:“ beginnt, durch Leerzeichen, die Git dann ignoriert.
+Sobald das alles erledigt ist, können Sie einen neuen Remote hinzufügen, alle Ihre Branches nach oben pushen und Ihr Team aus Git heraus arbeiten lassen.
+Benutzerdefinierter Import
+Wenn Ihr System nicht zu den vorgenannten gehört, sollten Sie online nach einer Import-Schnittstelle suchen – hochwertige Importer sind für viele andere Systeme verfügbar, darunter CVS, Clear Case, Visual Source Safe, sogar für ein Verzeichnis von Archiven.
+Wenn keines dieser Tools für Sie geeignet ist, Sie ein obskures Tool haben oder anderweitig einen benutzerdefinierten Importprozess benötigen, sollten Sie git fast-import verwenden.
+Dieser Befehl liest die einfachen Anweisungen von „stdin“ aus, um bestimmte Git-Daten zu schreiben.
+Es ist viel einfacher, Git-Objekte auf diese Weise zu erstellen, als die Git-Befehle manuell auszuführen oder zu versuchen, Raw-Objekte zu erstellen (siehe Kapitel 10, Git Interna für weitere Informationen).
+Auf diese Weise können Sie ein Import-Skript schreiben, das die notwendigen Informationen aus dem System liest, aus dem Sie importieren, und Anweisungen direkt auf „stdout“ ausgibt.
+Sie können dann dieses Programm ausführen und seine Ausgaben über git fast-import pipen.
+Um das kurz zu demonstrieren, schreiben Sie eine einfache Import-Anweisung.
+Angenommen, Sie arbeiten im current Branch, Sie sichern Ihr Projekt, indem Sie das Verzeichnis gelegentlich in ein mit Zeitstempel versehenes back_YYYY_MM_DD Backup-Verzeichnis kopieren und dieses in Git importieren möchten.
+Ihre Verzeichnisstruktur sieht wie folgt aus:
+$ ls /opt/import_from
+back_2014_01_02
+back_2014_01_04
+back_2014_01_14
+back_2014_02_03
+current
+Damit Sie ein Git-Verzeichnis importieren können, müssen Sie sich ansehen, wie Git seine Daten speichert.
+Wie Sie sich vielleicht erinnern, ist Git im Grunde genommen eine verknüpfte Liste von Commit-Objekten, die auf einen Schnappschuss des Inhalts verweisen.
+Alles, was Sie tun müssen, ist fast-import mitzuteilen, worum es sich bei den Content-Snapshots handelt, welche Commit-Datenpunkte zu ihnen gehören und in welcher Reihenfolge sie in den jeweiligen Ordner gehören.
+Ihre Strategie besteht darin, die Snapshots einzeln durchzugehen und Commits mit dem Inhalt jedes Verzeichnisses zu erstellen. Dabei wird jeder Commit mit dem vorherigen verknüpft.
+Wie wir es in Kapitel 8, Beispiel für Git-forcierte Regeln getan haben, werden wir das in Ruby schreiben, denn damit arbeiten wir normalerweise und es ist eher leicht zu lesen.
+Sie können dieses Beispiel sehr leicht in jedem Editor schreiben, den Sie kennen – er muss nur die entsprechenden Informationen nach stdout ausgeben können.
+Unter Windows müssen Sie besonders darauf achten, dass Sie am Ende Ihrer Zeilen keine Zeilenumbrüche einfügen – git fast-import ist da sehr empfindlich, wenn es darum geht, nur Zeilenvorschübe (LF) und nicht die von Windows verwendeten Zeilenvorschübe (CRLF) zu verwenden.
+Zunächst wechseln Sie in das Zielverzeichnis und identifizieren jene Unterverzeichnisse, von denen jedes ein Snapshot ist, den Sie als Commit importieren möchten.
+Sie wechseln in jedes Unterverzeichnis und geben die für den Export notwendigen Befehle aus.
+Ihre Hauptschleife sieht so aus:
+last_mark = nil
+# loop through the directories
+Dir.chdir(ARGV[0]) do
+  Dir.glob("*").each do |dir|
+    next if File.file?(dir)
+    # move into the target directory
+    Dir.chdir(dir) do
+      last_mark = print_export(dir, last_mark)
+    end
+  end
+end
+Führen Sie print_export in jedem Verzeichnis aus, das das Manifest und die Markierung des vorherigen Snapshots enthält und das Manifest und die Markierung dieses Verzeichnisses zurückgibt; auf diese Weise können Sie sie richtig verlinken.
+„Mark“ ist der fast-import Begriff für eine Kennung, die Sie einem Commit mitgeben. Wenn Sie Commits erstellen, geben Sie jedem eine Markierung, mit dem Sie ihn von anderen Commits aus verlinken können.
+Daher ist das Wichtigste in Ihrer print_export Methode, eine Markierung aus dem Verzeichnisnamen zu erzeugen:
+mark = convert_dir_to_mark(dir)
+Sie werden dazu ein Array von Verzeichnissen erstellen und den Indexwert als Markierung verwenden, eine Markierung muss nämlich eine Ganzzahl (Integer) sein.
+Ihre Methode sieht so aus:
+$marks = []
+def convert_dir_to_mark(dir)
+  if !$marks.include?(dir)
+    $marks &lt;&lt; dir
+  end
+  ($marks.index(dir) + 1).to_s
+end
+Nachdem Sie nun eine ganzzahlige Darstellung Ihres Commits haben, benötigen Sie ein Datum für die Commit-Metadaten.
+Das Datum wird im Namen des Verzeichnisses ausgewiesen, daher werden Sie es auswerten.
+Die nächste Zeile in Ihrer print_export Datei lautet:
+date = convert_dir_to_date(dir)
+wobei convert_dir_to_date definiert ist als:
+def convert_dir_to_date(dir)
+  if dir == 'current'
+    return Time.now().to_i
+  else
+    dir = dir.gsub('back_', '')
+    (year, month, day) = dir.split('_')
+    return Time.local(year, month, day).to_i
+  end
+end
+Das gibt einen ganzzahligen Wert für das Datum jedes Verzeichnisses zurück.
+Die letzte Meta-Information, die Sie für jeden Commit benötigen, sind die Committer-Daten, die Sie in einer globalen Variable hartkodieren:
+$author = 'John Doe &lt;john@example.com&gt;'
+Damit sind Sie startklar für die Ausgabe der Commit-Daten für Ihren Importer.
+Die ersten Informationen beschreiben, dass Sie ein Commit-Objekt definieren und in welchem Branch es sich befindet, gefolgt von der Markierung, die Sie generiert haben, den Committer-Informationen und der Commit-Beschreibung und dann, falls vorhanden, der vorherige Commit.
+Der Code sieht jetzt so aus:
+# print the import information
+puts 'commit refs/heads/master'
+puts 'mark :' + mark
+puts "committer #{$author} #{date} -0700"
+export_data('imported from ' + dir)
+puts 'from :' + last_mark if last_mark
+Sie können die Zeitzone (-0700) hartkodieren, da das einfach ist.
+Wenn Sie sie aus einem anderen System importieren, müssen Sie die Zeitzone als Offset angeben.
+Die Commit-Beschreibung muss in einem speziellen Format ausgegeben werden:
+data (size)\n(contents)
+Das Format besteht aus den Wortdaten, der Größe der zu lesenden Daten, einer neuen Zeile und schließlich den Daten.
+Da Sie später das gleiche Format verwenden müssen, um den Datei-Inhalt festzulegen, erstellen Sie mit export_data eine Hilfs-Methode:
+def export_data(string)
+  print "data #{string.size}\n#{string}"
+end
+Das ist einfach, denn Sie haben jeden in einem eigenen Verzeichnis. Sie können den Befehl deleteall ausgeben, gefolgt vom Inhalt jeder Datei im Verzeichnis.
+Git zeichnet dann jeden Schnappschuss entsprechend auf:
+puts 'deleteall'
+Dir.glob("**/*").each do |file|
+  next if !File.file?(file)
+  inline_data(file)
+end
+Hinweis: Da viele Systeme ihre Revisionen als Änderungen von einem Commit zum anderen betrachten, kann fast-import auch Befehle mit jedem Commit übernehmen, um anzugeben, welche Dateien hinzugefügt, entfernt oder geändert wurden und was die neuen Inhalte sind.
+Sie könnten die Unterschiede zwischen den Snapshots berechnen und nur diese Daten bereitstellen, aber das ist komplizierter – in diesem Fall sollten Sie Git alle Daten übergeben und sie auswerten lassen.
+Sollte diese Option für Ihre Daten besser geeignet sein, informieren Sie sich in der fast-import Man-Page, wie Sie Ihre Daten auf diese Weise bereitstellen können.
+Das Format für die Auflistung des neuen Datei-Inhalts oder die Angabe einer modifizierten Datei mit dem neuen Inhalt lautet wie folgt:
+M 644 inline path/to/file
+data (size)
+(file contents)
+Im Beispiel ist es der Modus 644 (wenn Sie ausführbare Dateien haben, müssen Sie stattdessen 755 ermitteln und festlegen), und inline besagt, dass der Inhalt unmittelbar nach dieser Zeile aufgelistet wird.
+Das Verfahren inline_data sieht so aus:
+def inline_data(file, code = 'M', mode = '644')
+  content = File.read(file)
+  puts "#{code} #{mode} inline #{file}"
+  export_data(content)
+end
+Bei der Wiederverwendung der Methode export_data, die Sie zuvor definiert hatten, handelt es sich um das gleiche Verfahren wie bei der Angabe Ihrer Commit-Message-Daten.
+Als Letztes müssen Sie die aktuelle Markierung an das System zurückgeben, damit sie an die nächste Iteration weitergegeben werden kann:
+return mark
+Note
+Wenn Sie unter Windows arbeiten, müssen Sie unbedingt einen zusätzlichen Arbeitsschritt hinzufügen.
+Wie bereits erwähnt, verwendet Windows CRLF für Zeilenumbrüche, während git fast-import nur LF erwartet.
+Um dieses Problem zu umgehen und git fast-import zufrieden zu stellen, müssen Sie Ruby anweisen, LF anstelle von CRLF zu verwenden:
+$stdout.binmode
+Das war' s.
+Das Skript ist jetzt komplett:
+#!/usr/bin/env ruby
+$stdout.binmode
+$author = "John Doe &lt;john@example.com&gt;"
+$marks = []
+def convert_dir_to_mark(dir)
+    if !$marks.include?(dir)
+        $marks &lt;&lt; dir
+    end
+    ($marks.index(dir)+1).to_s
+end
+def convert_dir_to_date(dir)
+    if dir == 'current'
+        return Time.now().to_i
+    else
+        dir = dir.gsub('back_', '')
+        (year, month, day) = dir.split('_')
+        return Time.local(year, month, day).to_i
+    end
+end
+def export_data(string)
+    print "data #{string.size}\n#{string}"
+end
+def inline_data(file, code='M', mode='644')
+    content = File.read(file)
+    puts "#{code} #{mode} inline #{file}"
+    export_data(content)
+end
+def print_export(dir, last_mark)
+    date = convert_dir_to_date(dir)
+    mark = convert_dir_to_mark(dir)
+    puts 'commit refs/heads/master'
+    puts "mark :#{mark}"
+    puts "committer #{$author} #{date} -0700"
+    export_data("imported from #{dir}")
+    puts "from :#{last_mark}" if last_mark
+    puts 'deleteall'
+    Dir.glob("**/*").each do |file|
+        next if !File.file?(file)
+        inline_data(file)
+    end
+    mark
+end
+# Loop through the directories
+last_mark = nil
+Dir.chdir(ARGV[0]) do
+    Dir.glob("*").each do |dir|
+        next if File.file?(dir)
+        # move into the target directory
+        Dir.chdir(dir) do
+            last_mark = print_export(dir, last_mark)
+        end
+    end
+end
+Wenn Sie dieses Skript ausführen, werden Inhalte mit ähnlichem Aussehen angezeigt:
+$ ruby import.rb /opt/import_from
+commit refs/heads/master
+mark :1
+committer John Doe &lt;john@example.com&gt; 1388649600 -0700
+data 29
+imported from back_2014_01_02deleteall
+M 644 inline README.md
+data 28
+# Hello
+This is my readme.
+commit refs/heads/master
+mark :2
+committer John Doe &lt;john@example.com&gt; 1388822400 -0700
+data 29
+imported from back_2014_01_04from :1
+deleteall
+M 644 inline main.rb
+data 34
+#!/bin/env ruby
+puts "Hey there"
+M 644 inline README.md
+(...)
+Um den Importer aufzurufen, übergeben Sie diese Output-Pipe an git fast-import, während Sie sich in dem Git-Verzeichnis befinden, in das Sie importieren wollen.
+Sie können ein neues Verzeichnis erstellen und dort git init für einen Anfangspunkt ausführen und danach Ihr Skript ausführen:
+$ git init
+Initialized empty Git repository in /opt/import_to/.git/
+$ ruby import.rb /opt/import_from | git fast-import
+git-fast-import statistics:
+---------------------------------------------------------------------
+Alloc'd objects:       5000
+Total objects:           13 (         6 duplicates                  )
+      blobs  :            5 (         4 duplicates          3 deltas of          5 attempts)
+      trees  :            4 (         1 duplicates          0 deltas of          4 attempts)
+      commits:            4 (         1 duplicates          0 deltas of          0 attempts)
+      tags   :            0 (         0 duplicates          0 deltas of          0 attempts)
+Total branches:           1 (         1 loads     )
+      marks:           1024 (         5 unique    )
+      atoms:              2
+Memory total:          2344 KiB
+       pools:          2110 KiB
+     objects:           234 KiB
+---------------------------------------------------------------------
+pack_report: getpagesize()            =       4096
+pack_report: core.packedGitWindowSize = 1073741824
+pack_report: core.packedGitLimit      = 8589934592
+pack_report: pack_used_ctr            =         10
+pack_report: pack_mmap_calls          =          5
+pack_report: pack_open_windows        =          2 /          2
+pack_report: pack_mapped              =       1457 /       1457
+---------------------------------------------------------------------
+Wie Sie sehen können, gibt es nach erfolgreichem Abschluss eine Reihe von Statistiken über den erreichten Status.
+In diesem Fall haben Sie 13 Objekte mit insgesamt 4 Commits in einen Branch importiert.
+Jetzt können Sie git log ausführen, um Ihre neue Historie zu sehen:
+$ git log -2
+commit 3caa046d4aac682a55867132ccdfbe0d3fdee498
+Author: John Doe &lt;john@example.com&gt;
+Date:   Tue Jul 29 19:39:04 2014 -0700
+    imported from current
+commit 4afc2b945d0d3c8cd00556fbe2e8224569dc9def
+Author: John Doe &lt;john@example.com&gt;
+Date:   Mon Feb 3 01:00:00 2014 -0700
+    imported from back_2014_02_03
+So ist es richtig – ein ordentliches, sauberes Git-Repository.
+Es ist wichtig zu beachten, dass nichts ausgecheckt ist – Sie haben zunächst keine Dateien in Ihrem Arbeitsverzeichnis.
+Um sie zu erhalten, müssen Sie Ihren Branch auf den aktuellen master zurücksetzen:
+$ ls
+$ git reset --hard master
+HEAD is now at 3caa046 imported from current
+$ ls
+README.md main.rb
+Mit dem fast-import Tool können Sie viel mehr anfangen – bearbeiten von unterschiedlichen Modi, binären Daten, multiplen Branches und Merges, Tags, Verlaufsindikatoren und mehr.
+Eine Reihe von Beispielen für komplexere Szenarien finden Sie im contrib/fast-import Verzeichnis des Git-Quellcodes.
+prev | next
+    About this site
+    Patches, suggestions, and comments are welcome.
+    Git is a member of Software Freedom Conservancy

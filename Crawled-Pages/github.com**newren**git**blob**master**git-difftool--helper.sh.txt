@@ -1,0 +1,234 @@
+      Skip to content
+                Sign up
+                    Why GitHub?
+                    Features →
+                      Code review
+                      Project management
+                      Integrations
+                      Actions
+                      Packages
+                      Security
+                      Team management
+                      Hosting
+                      Mobile
+                      Customer stories →
+                      Security →
+                Team
+                Enterprise
+                    Explore
+                      Explore GitHub →
+                    Learn &amp; contribute
+                      Topics
+                        Collections
+                      Trending
+                      Learning Lab
+                      Open source guides
+                    Connect with others
+                      Events
+                      Community forum
+                      GitHub Education
+                      GitHub Stars program
+                Marketplace
+                    Pricing
+                    Plans →
+                      Compare plans
+                      Contact Sales
+                      Nonprofit →
+                      Education →
+     -->
+        In this repository
+        All GitHub
+      ↵
+      Jump to
+      ↵
+    No suggested jump to results
+        In this repository
+        All GitHub
+      ↵
+      Jump to
+      ↵
+        In this repository
+        All GitHub
+      ↵
+      Jump to
+      ↵
+          Sign in
+              Sign up
+      {{ message }}
+      newren
+    /
+    git
+    forked from git/git
+    Watch
+      1
+      Star
+      1
+          Fork
+        20k
+            Code
+            Pull requests
+              0
+            Actions
+            Projects
+              0
+            Security
+            Insights
+            More
+                    Code
+                    Pull requests
+                    Actions
+                    Projects
+                    Security
+                    Insights
+    Permalink
+          Dismiss
+        Join GitHub today
+        GitHub is home to over 50 million developers working together to host and review code, manage projects, and build software together.
+        Sign up
+      master
+        git/git-difftool--helper.sh
+        Go to file
+                Go to file
+                T
+                  Go to line
+                  L
+                Copy path
+          Cannot retrieve contributors at this time
+      executable file
+      105 lines (95 sloc)
+    2.18 KB
+      Raw
+        Blame
+        #!/bin/sh
+        # git-difftool--helper is a GIT_EXTERNAL_DIFF-compatible diff tool launcher.
+        # This script is typically launched by using the 'git difftool'
+        # convenience command.
+        #
+        # Copyright (c) 2009, 2010 David Aguilar
+        TOOL_MODE=diff
+        . git-mergetool--lib
+        # difftool.prompt controls the default prompt/no-prompt behavior
+        # and is overridden with $GIT_DIFFTOOL*_PROMPT.
+        should_prompt () {
+        	prompt_merge=$(git config --bool mergetool.prompt || echo true)
+        	prompt=$(git config --bool difftool.prompt || echo $prompt_merge)
+        	if test "$prompt" = true
+        	then
+        		test -z "$GIT_DIFFTOOL_NO_PROMPT"
+        	else
+        		test -n "$GIT_DIFFTOOL_PROMPT"
+        	fi
+        }
+        # Indicates that --extcmd=... was specified
+        use_ext_cmd () {
+        	test -n "$GIT_DIFFTOOL_EXTCMD"
+        }
+        launch_merge_tool () {
+        	# Merged is the filename as it appears in the work tree
+        	# Local is the contents of a/filename
+        	# Remote is the contents of b/filename
+        	# Custom merge tool commands might use $BASE so we provide it
+        	MERGED="$1"
+        	LOCAL="$2"
+        	REMOTE="$3"
+        	BASE="$1"
+        	# $LOCAL and $REMOTE are temporary files so prompt
+        	# the user with the real $MERGED name before launching $merge_tool.
+        	if should_prompt
+        	then
+        		printf "\nViewing (%s/%s): '%s'\n" "$GIT_DIFF_PATH_COUNTER" \
+        			"$GIT_DIFF_PATH_TOTAL" "$MERGED"
+        		if use_ext_cmd
+        		then
+        			printf "Launch '%s' [Y/n]? " \
+        				"$GIT_DIFFTOOL_EXTCMD"
+        		else
+        			printf "Launch '%s' [Y/n]? " "$merge_tool"
+        		fi
+        		read ans || return
+        		if test "$ans" = n
+        		then
+        			return
+        		fi
+        	fi
+        	if use_ext_cmd
+        	then
+        		export BASE
+        		eval $GIT_DIFFTOOL_EXTCMD '"$LOCAL"' '"$REMOTE"'
+        	else
+        		run_merge_tool "$merge_tool"
+        	fi
+        }
+        if ! use_ext_cmd
+        then
+        	if test -n "$GIT_DIFF_TOOL"
+        	then
+        		merge_tool="$GIT_DIFF_TOOL"
+        	else
+        		merge_tool="$(get_merge_tool)"
+        	fi
+        fi
+        if test -n "$GIT_DIFFTOOL_DIRDIFF"
+        then
+        	LOCAL="$1"
+        	REMOTE="$2"
+        	run_merge_tool "$merge_tool" false
+        else
+        	# Launch the merge tool on each path provided by 'git diff'
+        	while test $# -gt 6
+        	do
+        		launch_merge_tool "$1" "$2" "$5"
+        		status=$?
+        		if test $status -ge 126
+        		then
+        			# Command not found (127), not executable (126) or
+        			# exited via a signal (&gt;= 128).
+        			exit $status
+        		fi
+        		if test "$status" != 0 &amp;&amp;
+        			test "$GIT_DIFFTOOL_TRUST_EXIT_CODE" = true
+        		then
+        			exit $status
+        		fi
+        		shift 7
+        	done
+        fi
+        exit 0
+            Copy lines
+            Copy permalink
+        View git blame
+       -->
+        Go
+        © 2020 GitHub, Inc.
+          Terms
+          Privacy
+  Cookie Preferences
+          Security
+          Status
+          Help
+          Contact GitHub
+          Pricing
+        API
+        Training
+          Blog
+          About
+    You can’t perform that action at this time.
+    You signed in with another tab or window. Reload to refresh your session.
+    You signed out in another tab or window. Reload to refresh your session.
+  We use optional third-party analytics cookies to understand how you use GitHub.com so we can build better products.
+              Learn more.
+              Accept
+              Reject
+  We use optional third-party analytics cookies to understand how you use GitHub.com so we can build better products.
+              You can always update your selection by clicking Cookie Preferences at the bottom of the page.
+              For more information, see our Privacy Statement.
+              Essential cookies
+              We use essential cookies to perform essential website functions, e.g. they're used to log you in. 
+                Learn more
+              Always active
+              Analytics cookies
+              We use analytics cookies to understand how you use our websites so we can make them better, e.g. they're used to gather information about the pages you visit and how many clicks you need to accomplish a task. 
+                Learn more
+                Accept
+                Reject
+            Save preferences

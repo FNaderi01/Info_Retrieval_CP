@@ -1,0 +1,150 @@
+	Infrared search and track
+		From Wikipedia, the free encyclopedia
+		  (Redirected from Infra-red search and track)
+		Jump to navigation
+		Jump to search
+		"IRST" redirects here. For Iran's time zone, see Iran Standard Time.
+  An IRST sensor on the Su-27.
+An infrared search and track (IRST) system (sometimes known as infrared sighting and tracking) is a method for detecting and tracking objects which give off infrared radiation (see Infrared signature) such as jet aircraft and helicopters.[1]
+IRST is a generalized case of forward looking infrared (FLIR), i.e. from forward-looking to all-round situation awareness. Such systems are passive (thermographic camera), meaning they do not give out any radiation of their own, unlike radar. This gives them the advantage that they are difficult to detect.
+However, because the atmosphere attenuates infrared to some extent (although not as much as visible light) and because adverse weather can attenuate it also (again, not as badly as visible systems), the range compared to a radar is limited. Within range, angular resolution is better than radar due to the shorter wavelength.
+Contents
+1 Early systems
+1.1 Technology
+2 Later systems
+3 Performance
+4 See also
+5 References
+5.1 Citations
+5.2 Bibliography
+6 External links
+Early systems[edit]
+  An F-8E of VMF(AW)-235 at Da Nang, in April 1966 showing the IRST in front of the canopy.
+The first use of an IRST system appears to be the F-101 Voodoo, F-102 Delta Dagger and F-106 Delta Dart interceptors. The F-106 had an early IRST mounting replaced in 1963 with a production retractable mount.[2] The IRST was also incorporated into the Vought F-8 Crusader (F-8E variant) which allowed passive tracking of heat emissions and was similar to the later Texas Instruments AAA-4 installed on early F-4 Phantoms.[3]
+  AN/AAA-4 IRST under nose of F-4 Phantom
+The F-4 Phantom had a Texas Instruments AAA-4 infrared seeker[4] under the nose of early production aircraft F-4B's and F-4C's and not installed on later F-4-D's due to limited capabilities,[5] but retained the bulge and indeed some F-4D's had the IRST receiver retrofitted in a modified form.[3]
+The F-4E eliminated the AAA-4 IRST bulge and received an internal gun mount which took up the area under the nose.[6] The F-4J which had a pulse-Doppler radar also eliminated the AAA-4 IRST receiver and bulge under the nose.[7]
+The first use of IRST in an Eastern European country was the Mikoyan-Gurevich MiG-23[8][9] The MiG-23 used the (TP-23ML) IRST and later versions used the (26SH1) IRST.[10] The Mikoyan-Gurevich MiG-25PD was also equipped with a small IRST under the nose.[11]
+The Swedish Saab J-35F2 Draken (1965) also used an IRST, a Hughes Aircraft Company N71.
+Technology[edit]
+These were fairly simple systems consisting of an infra-red sensor with a horizontally rotating shutter in front of it. The shutter was slaved to a display under the main interception radar display in the cockpit. Any IR light falling on the sensor would generate a "pip" on the display, in a fashion similar to the B-scopes used on early radars.
+The display was primarily intended to allow the radar operator to manually turn the radar to the approximate angle of the target, in an era when radar systems had to be "locked on" by hand. The system was considered to be of limited utility, and with the introduction of more automated radars they disappeared from fighter designs for some time.
+Later systems[edit]
+IRST systems re-appeared on more modern designs starting in the 1980s with the introduction of 2-D sensors, which cued both horizontal and vertical angle. Sensitivities were also greatly improved, leading to better resolution and range. In more recent years, new systems have entered the market. In 2015, Northrop Grumman introduced its OpenPod(TM) IRST pod,[12] which uses a sensor by Leonardo.[13]
+  Optronique secteur frontal (IRST) of the Dassault Rafale, below the cockpit and to the side of the refueling boom. On the left, the main IR sensor (100 km range), on the right a TV/IR identification sensor with laser rangefinder (40 km range)
+  Eurofighter Typhoon with PIRATE IRST
+The best known modern IRST systems are:
+ China
+Chengdu J-10B
+Shenyang J-11/15/16
+Chengdu J-20 (EORD-31 with 360 degree IRST coverage named Distributed aperture system)
+ France
+Dassault Rafale (Optronique secteur frontal OSF)[14]
+ Russia
+Su-27/30/35 Flanker (OEPS-27/30; OLS-35)[15]
+Mikoyan MiG-31(8TK)[16]
+MiG-29/35 (OEPS-29/OLS-13SM-1)[15]
+Sukhoi Su-57 (101KS-V)
+ Sweden
+Saab JAS 39 Gripen E/F (Selex ES Skyward-G)[17]
+ United Kingdom /  Germany /  Italy /  Spain
+Eurofighter Typhoon (EuroFIRST PIRATE[18])[19][14]
+ United States
+Grumman F-14 Tomcat (AN/AAS-42 IRST)[14]
+Boeing F-15K Slam Eagle
+Boeing F-15SG Strike Eagle
+Boeing F-15SA Advanced Eagle
+Boeing F-15QA Advanced Eagle
+Boeing F-15IA Advanced Eagle
+Boeing F-15EX Advanced Eagle
+Lockheed Martin F-16 E/F Block 60/62 (AN/AAQ-32 IFTS)
+Boeing F/A-18E/F Super Hornet (Block III)
+Lockheed Martin F-35 Lightning II (AN/AAQ-37 electro-optical Distributed Aperture System (DAS) with a 360 degree IRST, missile detection/warning, and day/night vision capabilities, designed and produced by Northrop Grumman Electronic Systems)
+These fighter aircraft carry the IRST systems for use instead of radar when the situation warrants it, such as when shadowing other aircraft, under the control of airborne early warning and control (AWACS) aircraft, or executing a ground-controlled interception (GCI), where an external radar is used to help vector the fighter to a target and the IRST is used to pick up and track the target once the fighter is in range.
+  MiG-29 nose showing radome and S-31E2 KOLS IRST
+With infrared homing or fire-and-forget missiles, the fighter may be able to fire upon the target without having to turn its radar sets on at all. Otherwise, the fighter can turn the radar on and achieve a lock immediately before firing if desired. The fighter could also close to within cannon range and engage that way.
+Whether or not they use their radar, the IRST system can still allow them to launch a surprise attack.
+An IRST system may also have a regular magnified optical sight slaved to it, to help the IRST-equipped aircraft identify the target at long range. As opposed to an ordinary forward looking infrared system, an IRST system will actually scan the space around the aircraft similarly to the way in which mechanically (or even electronically) steered radars work. The exception to the scanning technique is the F-35 JSF's DAS, which stares in all directions simultaneously, and automatically detects and declares aircraft and missiles in all directions, without a limit to the number of targets simultaneously tracked.
+When they find one or more potential targets they will alert the pilot(s) and display the location of each target relative to the aircraft on a screen, much like a radar. Again similarly to the way a radar works, the operator can tell the IRST to track a particular target of interest, once it has been identified, or scan in a particular direction if a target is believed to be there (for example, because of an advisory from AWACS or another aircraft).
+IRST systems can incorporate laser rangefinders in order to provide full fire-control solutions for cannon fire or launching missiles (Optronique secteur frontal). The combination of an atmospheric propagation model, the apparent surface of the target, and target motion analysis (TMA) IRST can calculate the range.
+The United States Air Force is currently seeking an IRST system for its F-15 aircraft.[20]
+Performance[edit]
+Detection range varies with
+clouds
+altitude
+air temperature
+target's attitude
+target's speed
+The higher the altitude, the less dense the atmosphere and the less infrared radiation it absorbs - especially at longer wavelengths. The effect of reduction in friction between air and aircraft does not compensate the better transmission of infrared radiation. Therefore, infrared detection ranges are longer at high altitudes.
+At high altitudes, temperatures range from −30 to −50 °C - which provide better contrast between aircraft temperature and background temperature.
+The Eurofighter Typhoon's PIRATE IRST can detect subsonic fighters from 50 km from front and 90 km from rear[21] - the larger value being the consequence of directly observing the engine exhaust, with an even greater increase being possible if the target uses afterburners.
+The range at which a target can be sufficiently confidently identified to decide on weapon release is significantly inferior to the detection range - manufacturers have claimed it is about 65% of detection range.
+See also[edit]
+Electro-optical targeting system
+AN/AAQ-37 electro-optical distributed aperture system
+References[edit]
+Citations[edit]
+^ Mahulikar, S.P., Sonawane, H.R., &amp; Rao, G.A.: (2007) "Infrared signature studies of aerospace vehicles", Progress in Aerospace Sciences,  v. 43(7-8), pp. 218-245.
+^ Kinzey 1983, p. 12.
+^ a b Sweetman 1987, p. 552.
+^ Sweetman 1987, p. 526.
+^ Sweetman 1987, p. 532.
+^ Sweetman 1987, p. 537.
+^ Eden 2004, p. 279.
+^ "MiG-23 Flogger"..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}
+^ https://www.globalsecurity.org/military/world/russia/mig-23.htm
+^ https://fas.org/nuke/guide/russia/airdef/mig-23.htm
+^ Peter G. Dancey(2015)Soviet Aircraft Industry,Fonthill Media
+^ "OpenPod™ IRST and OpenPod™ Targeting". Northrop Grumman. Retrieved 2016-11-03.
+^ Drew, Carey. "'Northrop unveils OpenPod as USAF seeks F-15 IRST". Flight Global. Retrieved 5 June 2015.
+^ a b c "Defense &amp; Security Intelligence &amp; Analysis: IHS Jane's | IHS". articles.janes.com.
+^ a b https://www.janes.com/images/assets/018/45018/Sky_searchers.pdf
+^ "MiG-31 dále rozvíjen - MagnetPress". www.vydavatelstvo-mps.sk.
+^ "Saab selects SELEX Galileo IRST for Gripen NG". February 22, 2010.
+^ http://www.leonardocompany.com/-/pirate_irst
+^ http://typhoon.starstreak.net/Eurofighter/sensors.html#Pirate Archived 2015-09-12 at the Wayback Machine
+^ "USAF taps Boeing to select new F-15 sensor supplier". Flightglobal.com. 2016-10-10. Retrieved 2016-11-03.
+^ "Der Eurofighter "Typhoon" (VII) - Radar und Selbstschutz". Österreicher Bundesheer. June 2008. Retrieved 2014-02-05.
+Bibliography[edit]
+Eden, Paul ed. The Encyclopedia of Modern Military Aircraft. London: Amber Books Ltd, 2004. ISBN 1-904687-84-9
+Kinzey, Bert. F-106 Delta Dart, in Detail &amp; Scale. Fallbrook, CA: Aero Publishers, 1983. ISBN 0-8168-5027-5.
+Sweetman, Bill and Bonds, Ray. The Great Book of Modern Warplanes. New York, New York: Crown Publishers, 1987. ISBN 0-517-63367-1
+External links[edit]
+Wikimedia Commons has media related to Infra-red search and track.
+Fraunhofer Institut IAF annual report 2006 German and English.
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Infrared_search_and_track&amp;oldid=977637531"
+		Categories: Targeting (warfare)Military aviationMilitary electronicsInfrared imagingHidden categories: Webarchive template wayback linksCommons category link is on Wikidata
+	Navigation menu
+		Personal tools
+		Not logged inTalkContributionsCreate accountLog in
+		Namespaces
+		ArticleTalk
+		Variants
+		Views
+		ReadEditView history
+		More
+		Search
+		Navigation
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		Contribute
+		HelpLearn to editCommunity portalRecent changesUpload file
+		Tools
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		Print/export
+		Download as PDFPrintable version
+		In other projects
+		Wikimedia Commons
+		Languages
+		CatalàDeutschEspañolفارسیFrançais한국어Italianoעברית日本語PortuguêsTiếng Việt
+		Edit links
+		 This page was last edited on 10 September 2020, at 01:57 (UTC).
+		Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+		Privacy policy
+		About Wikipedia
+		Disclaimers
+		Contact Wikipedia
+		Mobile view
+		Developers
+		Statistics
+		Cookie statement

@@ -1,0 +1,195 @@
+          Docs 
+            Apps
+            GitHub Actions
+            GitHub Marketplace
+            Webhooks
+            Partnerships
+            REST API v3
+            GraphQL API v4
+      Blog
+      Forum
+          Versions 
+            GitHub.com
+            GitHub Enterprise Server 2.21
+            GitHub Enterprise Server 2.20
+            GitHub Enterprise Server 2.19
+            GitHub Enterprise Server 2.18
+  Antiope preview graduation
+    October 1, 2020
+      benemdon
+The antiope preview is now an official part of the API. These preview headers are no longer required. The Checks API endpoints no longer require the antiope preview header.
+application/vnd.github.antiope-preview+json
+For more information, see the "Checks API."
+Thanks again to everyone that tried out these API features during the preview period.
+  Machine-man and sailor-v previews graduate
+    August 20, 2020
+      jakewilkins
+      gallexi
+Some API previews have graduated and are now an official part of the API. These preview headers are no longer required.
+machine-man preview graduates
+The GitHub App endpoints and endpoints that returned the performed_via_github_app property no longer require the machine-man preview.
+application/vnd.github.machine-man-preview+json
+For more information, see the "GitHub Apps REST API."
+sailor-v preview graduates
+To add and view a lock reason to an issue, you no longer need to use the sailor-v preview.
+application/vnd.github.sailor-v-preview+json
+For more information about the affected endpoints, see the "Pull Requests" and "Issues" REST APIs.
+Thanks again to everyone that tried out these API features during the preview period.
+  GitHub Actions API - Introducing workflow usage endpoints
+    May 15, 2020
+      gimenete
+GitHub Actions is available with GitHub Free, GitHub Pro, GitHub Free for organizations, GitHub Team, GitHub Enterprise Cloud, and GitHub One. GitHub Actions is not available for private repositories owned by accounts using legacy per-repository plans. For more information, see GitHub's products in the GitHub Help documentation.
+We've added two new endpoints to the GitHub Actions API that provide insight into the billable time used by your workflows.
+The following endpoints are now available for you to use:
+Get workflow usage
+Get workflow run usage
+We've released these endpoints into public beta. We may change aspects of these endpoints based on developer feedback.
+If we do, we will announce the changes here on the developer blog, but we will not provide any advance notice.
+If you have any questions or feedback, please let us know!
+  Introducing the skipped check run and check suite conclusion
+    May 8, 2020
+      joshmgross
+If a check run or suite is never started, you'll see the skipped conclusion. This is a common check run conclusion for GitHub Actions that have a job using an if condition.
+We created the skipped conclusion to help distinguish this type of scenario from when a check run or suite is cancelled. A check run or suite has the cancelled conclusion when the check run was planned or started but then stopped. For example, a conclusion can be cancelled due to manual intervention or possibly some service issues that cause the check run to stop.
+  Suspending GitHub App installations
+    May 1, 2020
+      tarebyte
+Before you could suspend a GitHub App, if an organization admin or user wanted to temporarily block an app's access to their repositories' resources, they could only uninstall the GitHub App completely. This has been particularly challenging for large organizations that may need thousands of people to reauthorize an app.
+Now you can suspend a GitHub App's access to your resources for as long as you need and unsuspend the app's access when you're ready. When you suspend a GitHub App you've installed, the app cannot access your resources, the GitHub API, or webhook events.
+The integrator who owns and maintains a GitHub app, also called a GitHub App owner, can suspend or unsuspend a GitHub App installation using these REST API endpoints with a JWT: 
+PUT /app/installations/:installation_id/suspended
+DELETE /app/installations/:installation_id/suspended
+People who have installed a GitHub App, also called installation owners, can suspend or unsuspend a GitHub App through their app's installation settings. Before people can suspend a GitHub app installation, the GitHub App owner must opt-in to the beta release. For more information, see "Suspending a GitHub App installation."
+  Expiring user-to-server access tokens for GitHub Apps
+    April 30, 2020
+      jakewilkins
+Starting today owners of GitHub Apps can choose to have their user-to-server access tokens expire after 8 hours. Expiring user-to-server access tokens help to enforce regular token rotation and reduce the impact of a compromised token.
+You can opt-in to this security feature in your App's Settings page under the Beta Features tab.
+Once enabled, GitHub will provide a refresh token when your app creates a user-to-server token.
+{
+  "access_token": "accesstoken",
+  "expires_in": "28800",
+  "refresh_token": "r1.refreshme",
+  "refresh_token_expires_in": "15811200",
+  "scope": "",
+  "token_type": "bearer"
+}
+This refresh token is valid for 6 months and can be exchanged for a fresh user-to-server access token (valid for another 8 hours) and a new refresh token:
+POST /login/oauth/access_token HTTP/1.1
+Host: github.com
+grant_type=refresh_token
+refresh_token=r1.refreshme
+&amp;client_id=xxxxxxxxxx
+&amp;client_secret=xxxxxxxxxx
+For more information, see "Refreshing user-to-server access tokens."
+  Replacing the GitHub Apps "Creating an installation access token" endpoint
+    April 15, 2020
+      jamesmartin
+      jakewilkins
+We are announcing the deprecation plan of the previously deprecated "Create an installation access token" endpoint: POST /installations/:installation_id/access_tokens.
+The supported replacement endpoint is named consistently with other GitHub Apps API endpoints and has been available since 2018.
+Deprecation Timeline
+Brownouts
+During a brownout, calls to the old version of this endpoint will temporarily fail. The goal is to trigger alerts (assuming there are any) on our customers' services to help find unmigrated endpoint calls.
+The brownouts are scheduled for:
+August 1 2020
+From 07:00 UTC to 10:00 UTC
+From 16:00 UTC to 19:00 UTC
+September 1 2020
+From 07:00 UTC to 10:00 UTC
+From 16:00 UTC to 19:00 UTC
+Removal Date
+The legacy "Create an installation access token" endpoint will be disabled at the earliest on October 1 2020.
+Changes to make
+Replace all uses of the deprecated endpoint for creating an installation token for a GitHub App with the new endpoint:
+POST /app/installations/:installation_id/access_tokens
+If you have any questions or feedback, please let us know!
+  Replacing the integration_installation and integration_installation_repositories webhook events
+    April 15, 2020
+      jakewilkins
+      jamesmartin
+We are announcing the deprecation of two legacy GitHub Apps-related webhook events:
+integration_installation
+integration_installation_repositories
+These events have been undocumented for some time and will be removed on the following timeline.
+Deprecation Timeline
+Brownouts
+During a brownout, the deprecated events will not be sent. The goal is to trigger alerts (assuming there are any) on our customers' services to help find unmigrated event subscriptions. If this brownout is causing significant disruptions for your service, please contact support.
+The brownouts are scheduled for:
+August 1 2020
+From 07:00 UTC to 10:00 UTC
+From 16:00 UTC to 19:00 UTC
+September 1 2020
+From 07:00 UTC to 10:00 UTC
+From 16:00 UTC to 19:00 UTC
+Removal date
+The legacy integration_installation and integration_installation_repositories events will no longer be sent after October 1 2020.
+Changes to make
+Replace all uses of the integration_installation and integration_installation_repositories events with the new events:
+installation
+installation_repositories
+If you have any questions or feedback, please let us know!
+  Expanding REST API support for triage and maintain roles
+    April 7, 2020
+      Oneill38
+We are expanding support for the triage and maintain permissions in the REST API. Users with the triage or maintain permissions can now use endpoints that reflect what they can do in a repository, such as adding a label to an issue. Additionally, these new permissions can now be granted and managed via the API and will show up as assigned roles in API responses.
+For more information about these roles, see "Repository permission levels for an organization" in the GitHub Help documentation.
+Endpoints you can access with the triage permission
+POST /repos/:owner/:repo/issues/:issue_number/labels
+DELETE /repos/:owner/:repo/issues/:issue_number/labels/:name
+POST /repos/:owner/:repo/issues/:issue_number/assignees
+DELETE /repos/:owner/:repo/issues/:issue_number/assignees
+POST /repos/:owner/:repo/pulls/:pull_number/requested_reviewers
+Endpoints you can access with the maintain permission
+PUT /repos/:owner/:repo/topics
+PUT /repos/:owner/:repo/interaction-limits
+All of the endpoints that you can use with the triage permission role:
+POST /repos/:owner/:repo/issues/:issue_number/labels
+DELETE /repos/:owner/:repo/issues/:issue_number/labels/:name
+POST /repos/:owner/:repo/issues/:issue_number/assignees
+DELETE /repos/:owner/:repo/issues/:issue_number/assignees
+POST /repos/:owner/:repo/pulls/:pull_number/requested_reviewers
+Endpoints to assign, update, or view permissions
+These endpoints will now work to manage the triage and maintain permissions.
+PUT /repos/:owner/:repo/collaborators/:username
+GET /repos/:owner/:repo/invitations
+PATCH /repos/:owner/:repo/invitations/:invitation_id
+GET /user/repository_invitations
+GET /orgs/:org/teams/:team_slug/repos/:owner/:repo
+PUT /orgs/:org/teams/:team_slug/repos/:owner/:repo
+GET /orgs/:org/teams/:team_slug/repos
+  Shadow-cat and Gambit previews graduate
+    April 7, 2020
+      skalnik
+      jpemberthy
+Some API previews have graduated and are now an official part of the API. These preview headers are no longer required.
+gambit preview graduates
+The "Delete an installation" endpoint no longer requires the gambit preview.
+ application/vnd.github.gambit-preview+json
+For more information about this endpoint, see the "Delete an installation for the authenticated app."
+shadow-cat preview graduates
+To create a draft pull request or see whether a pull request is in a draft state, you no longer need to use the shadow-cat preview.
+application/vnd.github.shadow-cat-preview+json
+For more information about the affected endpoints, see the "Pull Requests API."
+Thanks again to everyone that tried out these API features during the preview period.
+      1
+      2
+      3
+      …
+      30
+      31
+        Recent Posts
+  Antiope preview graduationOctober 1, 2020
+  Machine-man and sailor-v previews graduateAugust 20, 2020
+  GitHub Actions API - Introducing workflow usage endpointsMay 15, 2020
+  Introducing the skipped check run and check suite conclusionMay 8, 2020
+  Suspending GitHub App installationsMay 1, 2020
+  Expiring user-to-server access tokens for GitHub AppsApril 30, 2020
+  Replacing the GitHub Apps "Creating an installation access token" endpointApril 15, 2020
+  Replacing the integration_installation and integration_installation_repositories webhook eventsApril 15, 2020
+        Subscribe to the RSS feed
+    © 2020 GitHub Inc. All rights reserved.
+      Terms of service
+      Privacy
+      Security
+      Support

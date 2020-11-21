@@ -1,0 +1,331 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Holden’s Bill 1696 Clears the Way for Low Income Smokers to get Better Help            
+				By Jennifer Bihm                
+	                	                Published September 12, 2016
+		State Assemblyman Chris Holden’s bill 1696, which cleared the Senate Appropriation Committee last month, will make it easier for California’s low income residents to quit smoking.
+The bill requires tobacco cessation medications, counseling, and assessments to
+Asseblyman Chris Holden’s bill 1696 will allow Medi-Cal patients better access to quality smoking cessation programs (file photo)
+be covered for Medi-Cal patients.  Besides the detrimental health effects, smoking takes an $18.1 billion toll on California annually, according to a University of California, San Francisco study.
+“Smoking continues to be the leading preventable cause of the death in the United States” said Holden. “We have an opportunity to save lives and money with this bill.”
+        ADVERTISEMENT        
+According to the bill, Medi-Cal beneficiaries have a higher prevalence of tobacco use than the general California population. In the 2011-12 California Health Interview Survey, 16.1% of adult and teen Medi-Cal beneficiaries were current smokers, as compared to 12.1% of adults and teens not covered by Medi-Cal. In the 2013 Medi-Cal. In the Managed Care Consumer Assessment of Healthcare Providers and Systems survey, a median of 18.2% of respondents reported current smoking (with a range of 10% to 27% among Medi-Cal plans).
+1696’s passage comes at a seemingly crucial time for California’s low income smokers. Not only are smoke free laws preventing them from lighting up in many public places, laws are being implemented in the housing sector as well. The Department of Housing and Urban Development’s most recently proposed rule indicates that public housing tenants may not only be banned from smoking on the premises but also inside their own units.
+Under the coverage, Medi-Cal patients can receive products and services that are a part of all intervention recommendations, including at least four tobacco cessation counseling sessions per quit attempt that may be conducted in person or by telephone and individually or as part of a group, at the beneficiary’s option and prescription and over-the-counter medications.
+Coverage for underage tobacco users will “be provided in accordance with both the American Academy of Pediatrics Bright Futures periodicity schedule and anticipatory guidance as periodically updated, as well as services assigned a grade A or B by the United States Preventive Services Task Force,” according to the bill.
+“It’s hard to quit,” said South L.A. resident Donald Marshall, who added that some days he gets up to three packs a day.
+“Usually when I try to quit I feel a lot of anxiety. I get irritated a lot and I end up eating a lot more.”
+So far, the longest he has gone is about a week, he said.
+There’s a reason for that, according to medical experts from the World Health Organization.
+“Nicotine is classified as a stimulant drug, but many people who use it report decreased arousal,” they explain via their website.
+“Nicotine produces paradoxical effects, acting as both a stimulant and a depressant. As a stimulant, it has been shown to increase attention, memory, information processing, and learning. It has also been shown to alleviate anxiety, depression, and pain. For these reasons, smokers often report that smoking is a stress reliever and that they are more apt to smoke in response to stressful situations or negative moods…”
+Opponents of 1696 including the California Association of Health Plans are worried that it “will increase costs to the state by requiring Medi-Cal managed care plans to pay for tobacco cessation drugs in a manner that is inconsistent with policies of DHCS…”
+“Medi-Cal managed care plans already comply with the requirements of the DHCS policy letter, and that weakening prior authorization requirements designated to ensure the right care is delivered under appropriate circumstances will drive up costs,” said CAHP officials.
+Meanwhile, smoking cessation programs might be a high out of pocket cost and a deterrent for low income consumers. For instance, UCLA Health offers an eight session program as part of the American Lung Association’s Freedom From Smoking for about $150.00. Participants get the benefit of a “Lung Association-trained facilitator in a small-group setting (usually eight to 10 people), so participants receive personalized attention. At the same time, individuals benefit from the support of their peers, who are going through the same stages at the same time. The curriculum includes the latest research about nicotine replacement therapy (gum, inhalers, patches, lozenges and nasal spray) and other smoking cessation medications such as Zyban® and Chantix,” according to an ALA spokesperson.
+They also receive follow up materials like workbooks with group clinic lessons, which allow them “additional reinforcement, motivation and information they need to quit. The workbook format get smokers involved as they customize the book for their own reasons and motivations to quit, thus making it more effective…”
+Participants in the program are more likely to be smoke free one year later than those who quit on their own, says the ALA.
+AB 1696 will allow low income smokers who are motivated to quit access to the same quality services. Holden introduced the bill in response to ALA’s assignment of an “F” score to California’s tobacco control and spending. The state received a “D” in the area of access to cessation services, and the ALA, according to Holden, specifically recommended better access to programs for Medi-Cal patients.
+“California used to be a leader in tobacco control with programming that supported a healthier lifestyle, but with tobacco companies outspending the California Tobacco Control Program 15 to 1, more work needs to be done,” Holden said.
+State Assemblyman Chris Holden
+The most recent tobacco control spending information from California’s Department of Public Health shows about $70 million. That is compared to cigarette companies spending more than eight billion.
+Sponsors of the bill include the American Lung Association, American Cancer Society Cancer Action Network and both the American Heart and Stroke associations.
+“The American Heart Association is proud to co-sponsor AB 1696 to ensure that California’s most vulnerable will be able to access tobacco cessation programs, which have been shown to greatly increase the success rate for those trying to quit using tobacco,” said Dr. Diane Sobkowicz, Board President for the Sacramento division of the American Heart Association and Director of the Women’s Heart Program at Sutter Heart &amp; Vascular Institute. “Our state spends $3.5 billion each year treating tobacco-related diseases through Medi-Cal. Studies have shown that every $1 spent on cessation program costs results in $3 in medical savings, a return on investment that would substantially reduce our state’s tobacco-related medical expenditures.”
+This article was produced as a project for the USC Center for Health Journalism’s California Fellowship.
+		Categories: Family | Health Tags: AB 1096 | Chris Holden | low income | Medi-Cal | smoking cessation		
+						Service Set for Retired Judge Sherman Smith
+						George Mallory, South L.A. Doctor and Activist, Passes at 95
+						Assm. Sebastian Ridley-Thomas hosts telephone Town Hall on Zika Virus
+						Success On They Way: Who told you that you were Naked?… “Ask Dr...
+						Why Is a Home Inspection Necessary?
+						#GivingBloodMatters—It Truly Makes A Difference
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

@@ -1,0 +1,320 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Festivalgoers ‘Felt the Love’ at the 13th Annual Taste of Soul             
+				By Kimberlee Buck, Staff Writer                  
+	                	                Published October 25, 2018
+		Community members enjoy the 2018 Taste of Soul (Taste of Soul)
+Saturday, October 20, marked 13 years of the largest street festival in Southern California and the Taste of Soul (TOS) nation still hasn’t come down from the festival high! This year, more than 300,000 community leaders, city officials, Black business owners and local residents came out to Crenshaw Boulevard to “feel the love” and celebrate the return of the festival while basking in the ambiance of all things soulful.
+“I can dream and I can dream big, but never in my wildest dreams could I have imagined that Taste of Soul would turn into the institution it has now become,” said TOS Founder/Creator, Bakewell Media Founder and CEO Danny J. Bakewell, Sr., who calls the event a “party with a purpose.”
+This year, the Taste of Soul nation had the opportunity to experience music from the sounds of four different stages. First, the Hyundai Soundstage featured artist Ginuwine, Chante Moore, Kurtis Blow, Teddy Riley, Blackstreet, Melanie Fiona and the StarQuest Singing competition. The stage was hosted by Roland Martin with DJ B-Hen on the ones and twos. Attendees were also entertained by the 102.3 Radio Free KJLH Stage which featured artists Jussie Smollet, En Vogue, Macy Gray, Ready for the World and more. The third stage, sponsored by 94.7 the Wave featured Sister Sledge, Jody Watley, DW3, Chosen Gospel Recovery Group and more. Finally, the Brenda Marsh-Mitchell Gospel Stage sponsored by McDonald’s, brought praise and worship to the streets of Crenshaw with performances by local choirs, Donald Lawrence, Ricky Dillard, Deitrick Haddon and more.
+        ADVERTISEMENT        
+Let’s not forget the food. Festivalgoers were also able to purchase a large variety of different beverages, desserts and food including: African, BBQ, American, Creole and Jamaican, Seafood, Vegan food, pies, popcorn, funnel cakes, snow cones, banana pudding, cobblers, cotton candy, smoothies, teas, beer, lemonade, hot toddy’s and more!
+(Photo by Trarell Torrence/ L.A. Sentinel)
+Aside from the food and entertainment, festival sponsor Hyundai allowed people to enter for a chance to win a brand new 2018 Hyundai Kona at their Hyundai consumer tent. Additionally, people were able to purchase paintings, accessories and clothes, get haircuts, and buy books. One new addition to Taste of Soul was the LeadersUp Taste of Opportunity Pavilion which hosted a hiring fair. In the pavilion, event goers were able to interview for positions and submit applications at different business including UPS, FedEX, Target, Starbucks, the hotel industry, and the entertainment industry. The Taste of Soul also featured Children’s World. There, parents were able to drop off their children before heading over to the entertainment stages. This year, Children’s World had a free vision mobile clinic through Vision to Learn which gave out free pairs of glasses to children to help them thrive in the classroom. Additionally, Children’s World offered games, prizes, activities, and child-friendly entertainment.
+The Taste of Soul Family Festival was also a one-stop-shop for resources and health services. This year, attendees were able to receive mammograms, get tested for HIV, and check their blood pressure, amongst many other valuable health screenings.
+(Photo by Trarell Torrence/ L.A. Sentinel)
+ Bakewell Media would like to offer a special thanks to the festival’s chairs, co-chairs, partners and sponsors that played a key role in the success of Taste of Soul this year:
+Chairs: Los Angeles Mayor Eric Garcetti, Council President Herb J. Wesson Jr., Councilman Marqueece Harris-Dawson and Los Angeles County Supervisor Mark Ridley-Thomas.
+ Co-Chairs: Congresswoman Karen Bass, Councilman Curren Price, Assemblymember Reggie Jones-Sawyer, Assemblymember Autumn Burke, LAUSD School Board Member, George McKenna III, KCBS Pat Harvey, and Ivie McNeill &amp; Wyatt.
+Sponsors: Hyundai, LeadersUp, LA County, McDonald’s, Airbnb, Bank of America, LADWP, Chase Bank, Kaiser Permanente, Plenary Group, Walsh/Shea, South Coast Air Quality Management District, Lyft, City National Bank, Metropolitan Water District, West Basin Municipal Water District, One West Bank, California Resources Corporation, Californians for Energy Independence, Wells Fargo, Charles R. Drew University, AT&amp;T, US Bank, Martin Luther King Jr. Community Hospital, SEIU Local 2015, City of Hope, Southern California Gas Company, Watts Health, St. John’s, DaVita, Covered California, Good Samaritan Hospital, Easy Choice Health Plan, Brotherhood Crusade, Learn 4 Life, Cedars-Sinai, LA City Workforce Investment Board, Los Angeles World Airports, Comerica Bank, MetroPCS, South Hill Petroleum, and E&amp;B Natural Resources.
+Partners: Bakewell Media, Los Angeles Sentinel Newspaper, Mothers in Action, Brotherhood Crusade, City of Los Angeles, County of Los Angeles, CBS2/KCAL9, Radio FREE 102.3 KJLH, 94.7 The WAVE, AAUC, Metro (Taste of Soul’s official transportation partner) and law firm Ivie, McNeill &amp; Wyatt.
+Additionally, Bakewell Media would like to extend a thank you to all of the community members who continue to support the mission of Taste of Soul. See you all next year!
+Taste of Soul family festival (Taste of Soul)
+		Categories: A Taste of Soul | Crenshaw &amp; Around | Entertainment | Exclusive (Entertainment) | Family | Local | Music | News | News (Entertainment) | News (Family) Tags: 13th annual Taste of Soul | 94.7 The Wave | AAUC | Airbnb | and E&amp;B Natural Resources | Assemblymember Autumn Burke | Assemblymember Reggie Jones-Sawyer | AT&amp;T | Bakewell Media | Bank of America | Blackstreet | Brotherhood Crusade | California Resources Corporation | Californians for Energy Independence | CBS2/KCAL9 | Cedars-Sinai | Chante Moore | Charles R. Drew University | Chase Bank | City National Bank | City of Hope | City of Los Angeles | Comerica Bank | Congresswoman Karen Bass | Council President Herb J. Wesson Jr. | Councilman Curren Price | Councilman Marqueece Harris-Dawson and Los Angeles County Supervisor Mark Ridley-Thomas | County of Los Angeles | Covered California | DaVita | Easy Choice Health Plan | En Vogue. | George McKenna III | Ginuwine | Good Samaritan Hospital | Hyundai | Ivie | Jussie Smollet | Kaiser Permanente | KCBS Pat Harvey | Kimberlee Buck | Kurtis Blow | LA City Workforce Investment Board | LA County | LADWP | LAUSD School Board Member | LeadersUp | Learn 4 Life | Los Angeles Mayor Eric Garcetti | Los Angeles World Airports | lyft | Macy Gray | Martin Luther King Jr. Community Hospital | McDonald's | McNeill &amp; Wyatt | Melanie Fiona | Metro | MetroPCS | Metropolitan Water District | Mothers in Action | One West Bank | Plenary Group | Radio Free 102.3 KJLH | Ready for the World | SEIU Local 2015 | South Coast Air quality management District | South Hill Petroleum | Southern California Gas Company | St. John’s | Taste of Soul | Teddy Riley | US Bank | Walsh/Shea | Watts Health | Wells Fargo | West Basin Municipal Water District		
+						Councilwoman Martinez Recognizes Three-Year Anniversary of the LAPD Operati...
+						Wells Fargo and Habitat for Humanity of Greater Los Angeles Kick-Off Washin...
+						Bohemian Rhapsody: Film Review by Kam Williams
+						Pimp Found Guilty of Human Trafficking of Minors
+						Take Time to go Exploring Your Universe, UCLA’s Free Science Festival on ...
+						U.S. VETS-Inglewood ‘HOOPS FOR HEROES’ Event
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

@@ -1,0 +1,697 @@
+     category > maptopic > article -->
+    GitHub Docs
+    All products
+  GitHub.com
+          入门指南
+              快速入门
+                  设置 Git
+                  创建仓库
+                  复刻仓库
+                  社交化
+              了解 GitHub
+                  GitHub 的产品
+                  GitHub 帐户的类型
+                  GitHub Desktop
+                  GitHub 上的访问权限
+                  GitHub 词汇表
+                  Git 备忘清单
+                  Git 和 GitHub 学习资源
+              注册 GitHub
+                  设置 GitHub Enterprise Cloud 试用版
+                  设置 GitHub Enterprise Server 试用版
+              在 GitHub 上探索项目
+                  使用星标保存仓库
+                  关注他人
+              使用 GitHub
+                  支持的浏览器
+                  键盘快捷键
+          用户帐户
+              管理用户帐户设置
+                  关于个人仪表板
+                  更改 GitHub 用户名
+                  将用户转换为组织
+                  删除用户帐户
+                  用户帐户仓库的权限级别
+                  用户拥有的项目板的权限级别
+                  管理对用户帐户项目板的访问
+                  将 Jira 与个人项目集成
+              管理电子邮件首选项
+                  添加电子邮件地址到 GitHub 帐户
+                  更改主电子邮件地址
+                  设置备用电子邮件地址
+                  设置提交电子邮件地址
+                  记住您的 GitHub 用户名或电子邮件
+              管理对个人仓库的访问
+                  邀请协作者参加个人仓库
+                  从个人仓库中删除协作者
+                  从协作者的仓库中删除您自己
+              管理组织中的成员资格
+                  关于组织成员资格
+                  访问组织
+                  查看组织中人员的角色
+                  公开或隐藏组织成员关系
+                  从组织中删除自己
+          个人资料
+              自定义个人资料
+                  关于您的个人资料
+                  关于组织的资料
+                  个性化您的个人资料
+                  在个人资料中嵌入项目
+              管理个人资料中的贡献图
+                  在个人资料中查看贡献
+                  在个人资料中显示活动概览
+                  在个人资料中公开或隐藏您的私人贡献
+                  将 GitHub Enterprise Server 贡献发送给 GitHub.com 配置文件
+                  为什么我的贡献没有在我的个人资料中显示？
+                  对时间表上的提交进行故障排除
+          身份验证
+              保护帐户和数据安全
+                  关于向 GitHub 验证
+                  创建强密码
+                  更新 GitHub 访问凭据
+                  创建个人访问令牌
+                  审查 SSH 密钥
+                  审查您的部署密钥
+                  授权 OAuth 应用程序
+                  审查授权的集成
+                  连接第三方应用程序
+                  审查您的授权应用程序 (OAuth)
+                  审查您的安全日志
+                  从仓库中删除敏感数据
+                  Sudo 模式
+                  防止未授权的访问
+              使用双重身份验证 (2FA) 保护您的帐户
+                  关于双重身份验证
+                  配置双重身份验证
+                  配置双重身份验证恢复方法
+                  使用双重身份验证访问 GitHub
+                  丢失 2FA 凭据时恢复帐户
+                  禁用个人帐户的双重身份验证
+              使用 SSH 连接到 GitHub
+                  关于 SSH
+                  检查现有 SSH 密钥
+                  生成新 SSH 密钥并添加到 ssh-agent
+                  新增 SSH 密钥到 GitHub 帐户
+                  测试 SSH 连接
+                  使用 SSH 密钥密码
+              SSH 故障排除
+                  恢复 SSH 密钥密码
+                  错误：权限被拒绝（公钥）
+                  错误：文件编号错误
+                  错误：密钥已被使用
+                  错误：用户/仓库拒绝其他用户的权限
+                  错误：用户/仓库拒绝用户/其他仓库的权限
+                  错误：代理承认没有签署
+                  错误：ssh-add：非法选项 -- K
+                  错误：我们正在进行 SSH 密钥审核
+              管理提交签名验证
+                  关于提交签名验证
+                  检查现有 GPG 密钥
+                  生成新 GPG 密钥
+                  新增 GPG 密钥到 GitHub 帐户
+                  将您的签名密钥告知 Git
+                  将电子邮件与 GPG 密钥关联
+                  对提交签名
+                  对标记签名
+              对提交签名验证进行故障排除
+                  检查提交和标记签名验证状态
+                  更新过期的 GPG 密钥
+                  在 GPG 密钥中使用经验证的电子邮件地址
+          在 GitHub 上接收关于活动的通知
+              开始使用通知
+                  关于通知
+                  关于 web 通知
+                  关于电子邮件通知
+                  访问通知
+                  选择通知递送方式
+              管理通知
+                  将通知标记为已读
+                  保存通知以供稍后使用
+                  订阅和取消订阅通知
+                  列出您订阅的议题和拉取请求
+                  关注和取消关注仓库
+                  关注和取消关注仓库的发行版
+                  关注和取消关注团队讨论
+                  列出您关注的仓库
+          组织和团队
+              与组织中的团体协作
+                  关于组织
+                  关于组织仪表板
+                  从头开始创建新组织
+                  访问组织的设置
+                  关于组织的消息馈送
+              管理组织中的成员资格
+                  将人员添加到您的组织
+                  从组织中删除成员
+                  恢复组织的前成员
+              使用角色管理人们对您的组织的访问
+                  组织的权限级别
+                  保持组织的所有权连续性
+                  向组织成员授予“团队维护员”权限
+              将成员组织为团队
+                  关于团队
+                  创建团队
+                  设置团队的头像
+                  添加组织成员到团队
+                  重命名团队
+                  更改团队可见性
+                  在组织的层次结构中移动团队
+                  申请添加子团队
+                  申请添加或更改父团队
+                  从团队中删除组织成员
+                  禁用组织的团队讨论
+                  删除团队
+              管理对组织仓库的访问
+                  组织的仓库权限级别
+                  设置组织的基本权限
+                  查看具有仓库访问权限的人员
+                  管理个人对组织仓库的访问
+                  管理团队对组织仓库的访问
+                  添加外部协作者到组织的仓库
+                  从组织仓库中删除外部协作者
+                  将组织成员转换为外部协作者
+                  将外部协作者转换为组织成员
+                  恢复前外部协作者对组织的访问权限
+              管理对组织项目板的访问
+                  组织的项目板权限
+                  管理组织成员对项目板的访问
+                  管理团队对组织项目板的访问
+                  管理个人对组织项目板的访问
+                  添加外部协作者到组织的项目板
+                  从组织项目板删除外部协作者
+              管理对组织应用程序的访问
+                  为组织添加 GitHub 应用程序管理员
+                  从组织中删除 GitHub 应用程序管理员
+              管理组织设置
+                  重命名组织
+                  转让组织所有权
+                  限制在组织中创建仓库
+                  设置删除或转让仓库的权限
+                  限制在组织中更改仓库可见性
+                  管理组织的复刻政策
+                  设置添加外部协作者的权限
+                  允许人们删除组织中的议题
+                  设置组织中的团队创建权限
+                  管理组织中成员名称的显示
+                  删除组织帐户
+                  将组织转换为用户
+                  集成 Jira 与组织项目板
+              迁移到改进的组织权限
+                  将所有者团队转换为改进的组织权限
+                  将管理员团队转换为改进的组织权限
+                  将管理团队迁移到改进的组织权限
+              保护组织安全
+                  查看组织中的用户是否已启用 2FA
+                  准备在组织中要求双重身份验证
+                  您的组织中需要双重身份验证
+                  Reviewing the audit log for your organization
+                  审查组织安装的集成
+              管理对组织仓库的 Git 访问
+                  关于 SSH 认证中心
+                  管理组织的 SSH 认证中心
+          在 GitHub 上编写
+              开始在 GitHub 上编写和格式化
+                  关于在 GitHub 上编写和设置格式
+                  基本撰写和格式语法
+              使用高级格式
+                  使用表格组织信息
+                  创建和突显代码块
+                  自动链接的引用和 URL
+              使用已保存回复
+                  关于已保存回复
+                  创建已保存回复
+                  编辑已保存回复
+                  删除已保存回复
+                  使用已保存回复
+              编辑内容以及与 gist 共享内容
+                  创建 Gist
+                  复刻和克隆 Gist
+          创建、克隆和存档仓库
+              在 GitHub 上创建仓库
+                  关于仓库
+                  关于仓库可见性
+                  创建新仓库
+                  从模板创建仓库
+                  关于自述文件
+                  关于代码所有者
+                  关于仓库语言
+                  许可仓库
+                  创建模板仓库
+                  创建仅含议题的仓库
+                  限制查看仓库中的内容和差异
+                  复制仓库
+              从 GitHub 克隆仓库
+                  克隆仓库
+                  HTTPS 克隆错误
+                  错误：未找到仓库
+                  错误：远程 HEAD 引用不存在的 ref，无法检出
+              存档 GitHub 仓库
+                  关于存档仓库
+                  存档仓库
+                  备份仓库
+          使用 Git
+              Git 和 GitHub 使用入门
+                  在 Git 中设置用户名
+                  在 Git 中缓存 GitHub 凭据
+                  为什么 Git 总是询问我的密码？
+                  Updating credentials from the macOS Keychain
+              了解 Git
+                  Git 工作流程
+                  关联文本编辑器与 Git
+                  配置 Git 处理行结束符
+                  忽略文件
+              使用常见 Git 命令
+                  推送提交到远程仓库
+                  从远程仓库获取更改
+                  处理非快进错误
+              管理远程仓库
+                  关于远程仓库
+                  我应使用哪个远程 URL？
+                  添加远程
+                  更改远程仓库的 URL
+                  重命名远程
+                  删除远程
+              使用高级 Git 命令
+                  关于 Git 变基
+                  在命令行中使用 Git rebase
+                  解决 Git 变基后的合并冲突
+                  关于 Git 子树合并
+                  将子文件夹拆分成新仓库
+          提交对项目的更改
+              创建并编辑提交
+                  关于提交
+                  创建有多个作者的提交
+                  更改提交消息
+              查看和比较提交
+                  提交分支和标记标签
+                  比较提交
+                  提交视图之间的差异
+              提交疑难解答
+                  存在于 GitHub 上但不存在于本地克隆中的提交
+                  我的提交为什么链接到错误的用户？
+          使用议题和拉取请求进行协作
+              概览
+                  GitHub 流程
+                  关于协作开发模式
+                  关于 GitHub 中的对话
+              使用复刻
+                  关于复刻
+                  为复刻配置远程仓库
+                  同步复刻
+                  将上游仓库合并到复刻
+                  允许更改从复刻创建的拉取请求分支
+                  删除仓库或更改其可见性时，复刻会发生什么变化？
+              在具有代码质量功能的仓库上进行协作
+                  关于状态检查
+                  使用预接收挂钩
+              通过拉取请求提议工作更改
+                  关于分支
+                  创建和删除仓库中的分支
+                  关于拉取请求
+                  关于比较拉取请求中的分支
+                  创建拉取请求
+                  从复刻创建拉取请求
+                  更改拉取请求的阶段
+                  请求拉取请求审查
+                  更改拉取请求的基本分支
+                  将更改提交到从复刻创建的拉取请求分支
+              解决合并冲突
+                  关于合并冲突
+                  在 GitHub 上解决合并冲突
+                  使用命令行解决合并冲突
+              审查拉取请求中的更改
+                  关于拉取请求审查
+                  审查拉取请求中的建议更改
+                  过滤拉取请求中的文件
+                  在拉取请求中查找已更改的方法和函数
+                  评论拉取请求
+                  查看拉取请求审查
+                  在拉取请求中加入反馈
+                  批准需要审查的拉取请求
+                  忽略拉取请求审查
+                  本地检查拉取请求
+              合并拉取请求中的更改
+                  关于拉取请求合并
+                  合并拉取请求
+                  关闭拉取请求
+                  还原拉取请求
+          管理在 GitHub 上的工作
+              使用议题管理工作
+                  关于议题
+                  创建议题
+                  删除议题
+                  从评论打开议题
+                  从代码打开议题
+                  将议题转让给其他仓库
+                  将议题固定到仓库
+                  创建指向代码段的永久链接
+                  关于任务列表
+                  关于使用参数自动化议题和拉取请求
+                  议题和拉取请求中的文件附件
+                  分配议题和拉取请求到其他 GitHub 用户
+                  查看所有议题和拉取请求
+                  禁用议题
+                  将拉取请求链接到议题
+                  关于重复的议题和拉取请求
+              标记议题和拉取请求
+                  关于标签
+                  创建标签
+                  应用标签到议题和拉取请求
+                  编辑标签
+                  删除标签
+              管理项目板
+                  关于项目板
+                  创建项目板
+                  编辑项目板
+                  将仓库链接到项目板
+                  关于项目板的自动化
+                  配置项目板的自动化
+                  关闭项目板
+                  重新打开关闭的项目板
+                  删除项目板
+                  在仓库中禁用项目板
+                  删除组织中的项目板
+                  更改项目板可见性
+              使用项目板跟踪工作进度
+                  添加议题和拉取请求到项目板
+                  添加注释到项目板
+                  跟踪项目板上的进度
+                  过滤项目板上的卡
+                  存档项目板上的卡
+              使用里程碑跟踪工作进度
+                  关于里程碑
+                  创建和编辑议题及拉取请求的里程碑
+                  将里程碑与议题及拉取请求关联
+                  按里程碑过滤议题和拉取请求
+                  查看里程碑的进度
+              查找仓库中的信息
+                  过滤议题和拉取请求
+                  按受理人过滤议题和拉取请求
+                  按标签过滤议题和拉取请求
+                  按审查状态过滤拉取请求
+                  排序议题和拉取请求
+                  使用搜索过滤议题和拉取请求
+                  共享过滤器
+          建立强大的社区
+              设置项目的健康贡献
+                  设置仓库参与者指南
+                  添加许可到仓库
+                  将支持资源添加到项目
+                  创建默认社区健康文件
+              使用模板鼓励有用的议题和拉取请求
+                  关于议题和拉取请求模板
+                  为仓库配置议题模板
+                  为仓库创建拉取请求模板
+                  手动为仓库创建单一议题模板
+              调解评论和对话
+                  管理破坏性评论
+                  锁定对话
+                  跟踪评论中的更改
+              使用 wiki 为项目写文档
+                  关于 wikis
+                  添加或编辑 wiki 页面
+                  为 wiki 创建页脚或边栏
+                  编辑 wiki 内容
+                  查看 wiki 的更改历史记录
+                  更改对 wiki 的访问权限
+                  禁用 wiki
+              与您的团队协作
+                  关于团队讨论
+                  创建团队讨论
+                  编辑或删除团队讨论
+                  固定团队讨论
+          在 GitHub 上搜索信息
+              开始在 GitHub 上搜索
+                  关于在 GitHub 上搜索
+                  了解搜索语法
+                  搜索查询故障排除
+                  排序搜索结果
+                  在 GitHub Enterprise Server 中启用 GitHub.com 仓库搜索
+              在 GitHub 上搜索
+                  在 GitHub 上查找文件
+                  搜索仓库
+                  搜索主题
+                  搜索代码
+                  搜索提交
+                  搜索议题和拉取请求
+                  搜索用户
+                  搜索 wiki
+                  在复刻中搜索
+          导入项目
+              将源代码导入到 GitHub
+                  使用命令行导入 Git 仓库
+                  使用命令行添加现有项目到 GitHub
+                  源代码迁移工具
+              在 GitHub 上使用 Subversion
+                  Subversion 和 Git 有哪些区别？
+                  Subversion 客户端支持
+                  GitHub 支持的 Subversion 属性
+          管理仓库
+              管理仓库设置
+                  设置仓库可见性
+                  使用主题对仓库分类
+                  自定义更改的文件在 GitHub 中如何显示
+                  关于推送到仓库的电子邮件通知
+                  自定义仓库的社交媒体预览
+                  查看仓库的部署活动
+                  管理仓库的复刻政策
+                  启用仓库的匿名 Git 读取权限
+                  配置自动链接以引用外部资源
+                  重命名仓库
+                  转让仓库
+                  删除仓库
+              管理仓库中的分支
+                  Changing the default branch
+                  查看仓库中的分支
+                  删除和恢复拉取请求中的分支
+              配置拉取请求合并
+                  关于 GitHub 上的合并方法
+                  为拉取请求配置提交压缩
+                  为拉取请求配置提交变基
+                  管理分支的自动删除
+              定义拉取请求的可合并性
+                  关于受保护分支
+                  配置受保护分支
+                  关于必需状态检查
+                  必需状态检查的类型
+                  启用必需状态检查
+                  关于分支限制
+                  启用分支限制
+                  关于拉取请求的必需审查
+                  启用拉取请求的必需审查
+                  关于必需提交签名
+                  启用必需提交签名
+              在 GitHub 上发布项目
+                  关于发行版
+                  管理仓库中的发行版
+                  查看仓库的发行版和标记
+                  链接到发行版
+                  使用查询参数自动化发行版表单
+          通过图表可视化仓库数据
+              访问基本仓库数据
+                  关于仓库图
+                  查看仓库活动的摘要
+                  查看项目的贡献者
+              分析仓库内容的更改
+                  可视化仓库中的提交
+                  可视化仓库内容的添加和删除
+              了解仓库之间的连接
+                  查看仓库的网络
+                  列出仓库的复刻
+                  About the dependency graph
+                  Exploring the dependencies of a repository
+          管理安全漏洞
+              管理项目依赖项中的漏洞
+                  About alerts for vulnerable dependencies
+          管理仓库中的文件
+              在 GitHub 上管理文件
+                  创建新文件
+                  添加文件到仓库
+                  将文件移至新位置
+                  编辑仓库中的文件
+                  编辑其他用户仓库中的文件
+                  跟踪文件中的更改
+                  删除文件
+                  重命名文件
+                  创建文件的永久链接
+              使用命令行管理文件
+                  使用命令行提交文件到仓库
+                  使用命令行重命名文件
+                  使用命令行将文件移到新位置
+              使用非代码文件
+                  呈现图像和比较差异
+                  3D 文件查看器
+                  呈现 CSV 和 TSV 数据
+                  呈现 PDF 文档
+                  散文文档中的呈现差异
+                  GitHub 上的地图 geoJSON 文件
+                  在 GitHub 上使用 Jupyter Notebook 文件
+          管理大型文件
+              使用大文件
+                  大文件的条件
+                  从仓库的历史记录中删除文件
+                  分发大型二进制文件
+              大文件版本管理
+                  关于 Git Large File Storage
+                  安装 Git Large File Storage
+                  配置 Git Large File Storage
+                  协作处理 Git Large File Storage
+                  将仓库中的文件移至 Git Large File Storage
+                  从 Git Large File Storage 中删除文件
+                  解决 Git Large File Storage 上传失败
+          扩展 GitHub
+          开始使用 API
+          使用 OAuth 令牌实施 Git 自动化
+          关于 web 挂钩
+          GitHub Pages
+              GitHub Pages 使用入门
+                  关于 GitHub Pages
+                  创建 GitHub Pages 站点
+                  配置 GitHub Pages 站点的发布源
+                  为 GitHub Pages 站点创建自定义 404 页面
+                  取消发布 GitHub Pages 站点
+              使用 Jekyll 设置 GitHub Pages 站点
+                  关于 GitHub Pages 和 Jekyll
+                  使用 Jekyll 创建 GitHub Pages 站点
+                  使用 Jekyll 在本地测试 GitHub Pages 站点
+                  使用 Jekyll 向 GitHub Pages 站点添加内容
+                  使用 Jekyll 为 GitHub Pages 站点设置 Markdown 处理器
+                  使用 Jekyll 向 GitHub Pages 站点添加主题
+                  关于 GitHub Pages 站点的 Jekyll 构建错误
+                  排查 GitHub Pages 站点的 Jekyll 构建错误
+  我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问英文文档。如果此页面上的翻译有问题，请告诉我们。
+        GitHub Docs
+                按产品浏览
+                      GitHub.com
+                       GitHub.com
+                       Enterprise Administrators
+                       GitHub Actions
+                       GitHub Packages
+                       Developers
+                       REST API
+                       GraphQL API
+                       GitHub Insights
+                       GitHub Desktop
+                       Atom
+                       Electron
+                            简体中文 (Simplified Chinese)
+                              English
+                              简体中文 (Simplified Chinese)
+                              日本語 (Japanese)
+                              Español (Spanish)
+                              Português do Brasil (Portuguese)
+          此版本的 GitHub Enterprise 将停止服务
+          此版本的 GitHub Enterprise 已停止服务
+        2020-11-12.
+      即使针对重大安全问题，也不会发布补丁。 要获得更好的性能、改进的安全性和新功能，请升级到 GitHub Enterprise 的最新版本。 如需升级方面的帮助，请联系 GitHub Enterprise 支持。
+      文章版本： Enterprise Server 2.19
+      Free, Pro, and Team
+      Enterprise Server 2.22
+      Enterprise Server 2.21
+      Enterprise Server 2.20
+      Enterprise Server 2.19
+    GitHub.com
+    用户帐户
+    管理用户帐户设置
+    删除用户帐户
+      文章版本： Enterprise Server 2.19
+      Free, Pro, and Team
+      Enterprise Server 2.22
+      Enterprise Server 2.21
+      Enterprise Server 2.20
+      Enterprise Server 2.19
+        删除用户帐户
+        可随时删除 GitHub Enterprise 用户帐户。
+        本文内容
+          备份帐户数据
+          删除用户帐户
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        必选
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        可选
+      Can we contact you if we have more questions?
+        可选
+      发送​​
+    谢谢！您的反馈已提交。
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  或, learn how to contribute.
+      删除用户帐户会移除帐户所拥有的所有仓库、私有仓库分支、wiki、议题、拉取请求和页面。 在其他用户拥有的仓库中创建的议题和拉取请求以及所做的评论将不会被删除。
+如果您是组织的唯一所有者，则必须先将所有权转让给其他人或删除该组织，然后才能删除您的用户帐户。 如果组织中有其他所有者，则必须先从组织中删除自己，然后才能删除用户帐户。
+更多信息请参阅：
+“转让组织所有权”
+“删除组织帐户”
+“从组织中删除自己”
+备份帐户数据
+在删除用户帐户之前，请复制帐户拥有的所有仓库、私有分支、wiki、议题和拉取请求。
+警告：删除用户帐户后，GitHub 无法恢复您的内容。
+删除用户帐户
+在任何页面的右上角，单击您的个人资料照片，然后单击 Settings（设置）。 
+在左侧边栏中，单击 Account（帐户）。 
+在帐户设置页面底部，“Delete account（删除帐户）”下，单击 Delete your account（删除帐户）。 然后即可删除用户帐户。
+如果您是组织中的唯一所有者，则必须将所有权转让给其他人或删除您的组织。
+如果组织中有其他组织所有者，则必须将自己从组织中删除。 
+在“Make sure you want to do this（确保要执行此操作）”对话框中，完成以下步骤，以确认您了解删除帐户时会发生什么： 
+重新考虑一下，您帐户拥有的所有仓库、私有仓库分支、wiki、议题、提取请求和网页都将被删除，并且任何人将可在 GitHub Enterprise 上使用您的用户名。
+在第一个字段中，输入您的 GitHub Enterprise 用户名或电子邮件。
+在第二个字段中，键入提示短语。
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        必选
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        可选
+      Can we contact you if we have more questions?
+        可选
+      发送​​
+    谢谢！您的反馈已提交。
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  或, learn how to contribute.
+      Still need help?
+      Ask the GitHub community
+      联系支持
+        产品
+          功能
+          安全
+          企业
+          案例研究
+          定价
+          资源
+        平台
+          开发者 API
+          合作伙伴
+          Atom
+          Electron
+          GitHub Desktop
+        支持
+          帮助
+          社区论坛
+          培训
+          状态
+          联系 GitHub
+        公司
+          关于
+          博客
+          招聘
+          新闻
+          商店
+        © 2020 GitHub, Inc.
+        条款 
+        隐私 

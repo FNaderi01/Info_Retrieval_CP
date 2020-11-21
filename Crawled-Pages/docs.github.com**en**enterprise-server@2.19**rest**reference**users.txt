@@ -1,0 +1,1653 @@
+     category > maptopic > article -->
+    GitHub Docs
+    All products
+  REST API
+          Overview
+          Resources in the REST API
+          Media types
+          Other authentication methods
+          Troubleshooting
+          API previews
+          Libraries
+          Endpoints available for GitHub Apps
+          Reference
+          Activity
+          Apps
+          Checks
+          Codes of conduct
+          Emojis
+          GitHub Enterprise administration
+          Gists
+          Git database
+          Gitignore
+          Issues
+          Licenses
+          Markdown
+          Meta
+          OAuth Authorizations
+          Organizations
+          Projects
+          Pulls
+          Rate limit
+          Reactions
+          Repositories
+          Search
+          Teams
+          Users
+          Permissions required for GitHub Apps
+          Guides
+          Getting started with the REST API
+          Basics of authentication
+          Discovering resources for a user
+          Delivering deployments
+          Rendering data as graphs
+          Working with comments
+          Traversing with pagination
+          Building a CI server
+          Best practices for integrators
+          Getting started with the Git Database API
+          Getting started with the Checks API
+        GitHub Docs
+                Explore by product
+                      REST API
+                       GitHub.com
+                       Enterprise Administrators
+                       GitHub Actions
+                       GitHub Packages
+                       Developers
+                       REST API
+                       GraphQL API
+                       GitHub Insights
+                       GitHub Desktop
+                       Atom
+                       Electron
+                            English
+                              English
+                              简体中文 (Simplified Chinese)
+                              日本語 (Japanese)
+                              Español (Spanish)
+                              Português do Brasil (Portuguese)
+          This version of GitHub Enterprise will be discontinued on
+          This version of GitHub Enterprise was discontinued on
+        2020-11-12.
+      No patch releases will be made, even for critical security issues. For better performance, improved security, and new features, upgrade to the latest version of GitHub Enterprise.
+For help with the upgrade, contact GitHub Enterprise support.
+      Article version: Enterprise Server 2.19
+      Free, Pro, and Team
+      Enterprise Server 2.22
+      Enterprise Server 2.21
+      Enterprise Server 2.20
+      Enterprise Server 2.19
+    REST API
+    Reference
+    Users
+      Article version: Enterprise Server 2.19
+      Free, Pro, and Team
+      Enterprise Server 2.22
+      Enterprise Server 2.21
+      Enterprise Server 2.20
+      Enterprise Server 2.19
+        Users
+        In this article
+      Get the authenticated user
+      Update the authenticated user
+      List users
+      Get a user
+      Get contextual information for a user
+          Blocking users
+          Emails
+      List email addresses for the authenticated user
+      Add an email address for the authenticated user
+      Delete an email address for the authenticated user
+      List public email addresses for the authenticated user
+          Followers
+      List followers of the authenticated user
+      List the people the authenticated user follows
+      Check if a person is followed by the authenticated user
+      Follow a user
+      Unfollow a user
+      List followers of a user
+      List the people a user follows
+      Check if a user follows another user
+          Git SSH keys
+      List public SSH keys for the authenticated user
+      Create a public SSH key for the authenticated user
+      Get a public SSH key for the authenticated user
+      Delete a public SSH key for the authenticated user
+      List public keys for a user
+          GPG keys
+      List GPG keys for the authenticated user
+      Create a GPG key for the authenticated user
+      Get a GPG key for the authenticated user
+      Delete a GPG key for the authenticated user
+      List GPG keys for a user
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        Required
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        Optional
+      Can we contact you if we have more questions?
+        Optional
+      Send
+    Thank you! Your feedback has been submitted.
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  Or, learn how to contribute.
+      Many of the resources on the users API provide a shortcut for getting information about the currently authenticated user. If a request URL does not include a {username} parameter then the response will be for the logged in user (and you must pass authentication information with your request). Additional private information, such as whether a user has two-factor authentication enabled, is included when authenticated through basic auth or OAuth with the user scope.
+      Get the authenticated user
+    If the authenticated user is authenticated through basic authentication or OAuth with the user scope, then the response lists public and private profile information.
+If the authenticated user is authenticated through OAuth without the user scope, then the response lists only public profile information.
+  get /user
+        Code samples
+              Shell
+          curl \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/user
+              JavaScript (@octokit/core.js)
+          await octokit.request('GET /user')
+      Response with public and private profile information
+      Status: 200 OK
+      {
+  "login": "octocat",
+  "id": 1,
+  "node_id": "MDQ6VXNlcjE=",
+  "avatar_url": "https://github.com/images/error/octocat_happy.gif",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/octocat",
+  "html_url": "https://github.com/octocat",
+  "followers_url": "https://api.github.com/users/octocat/followers",
+  "following_url": "https://api.github.com/users/octocat/following{/other_user}",
+  "gists_url": "https://api.github.com/users/octocat/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/octocat/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/octocat/subscriptions",
+  "organizations_url": "https://api.github.com/users/octocat/orgs",
+  "repos_url": "https://api.github.com/users/octocat/repos",
+  "events_url": "https://api.github.com/users/octocat/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/octocat/received_events",
+  "type": "User",
+  "site_admin": false,
+  "name": "monalisa octocat",
+  "company": "GitHub",
+  "blog": "https://github.com/blog",
+  "location": "San Francisco",
+  "email": "octocat@github.com",
+  "hireable": false,
+  "bio": "There once was...",
+  "public_repos": 2,
+  "public_gists": 1,
+  "followers": 20,
+  "following": 0,
+  "created_at": "2008-01-14T04:33:35Z",
+  "updated_at": "2008-01-14T04:33:35Z",
+  "private_gists": 81,
+  "total_private_repos": 100,
+  "owned_private_repos": 100,
+  "disk_usage": 10000,
+  "collaborators": 8,
+  "two_factor_authentication": true,
+  "plan": {
+    "name": "Medium",
+    "space": 400,
+    "private_repos": 20,
+    "collaborators": 0
+  }
+}
+      Response with public profile information
+      Status: 200 OK
+      {
+  "login": "octocat",
+  "id": 1,
+  "node_id": "MDQ6VXNlcjE=",
+  "avatar_url": "https://github.com/images/error/octocat_happy.gif",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/octocat",
+  "html_url": "https://github.com/octocat",
+  "followers_url": "https://api.github.com/users/octocat/followers",
+  "following_url": "https://api.github.com/users/octocat/following{/other_user}",
+  "gists_url": "https://api.github.com/users/octocat/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/octocat/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/octocat/subscriptions",
+  "organizations_url": "https://api.github.com/users/octocat/orgs",
+  "repos_url": "https://api.github.com/users/octocat/repos",
+  "events_url": "https://api.github.com/users/octocat/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/octocat/received_events",
+  "type": "User",
+  "site_admin": false,
+  "name": "monalisa octocat",
+  "company": "GitHub",
+  "blog": "https://github.com/blog",
+  "location": "San Francisco",
+  "email": "octocat@github.com",
+  "hireable": false,
+  "bio": "There once was...",
+  "public_repos": 2,
+  "public_gists": 1,
+  "followers": 20,
+  "following": 0,
+  "created_at": "2008-01-14T04:33:35Z",
+  "updated_at": "2008-01-14T04:33:35Z"
+}
+      Not modified
+      Status: 304 Not Modified
+      Requires authentication
+      Status: 401 Unauthorized
+      Forbidden
+      Status: 403 Forbidden
+      Update the authenticated user
+    Note: If your email is set to private and you send an email parameter as part of this request to update your profile, your privacy settings are still enforced: the email address will not be displayed on your public profile or via the API.
+  patch /user
+        Code samples
+              Shell
+          curl \
+  -X PATCH \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/user \
+  -d '{"name":"name"}'
+              JavaScript (@octokit/core.js)
+          await octokit.request('PATCH /user', {
+  name: 'name'
+})
+      Default response
+      Status: 200 OK
+      {
+  "login": "octocat",
+  "id": 1,
+  "node_id": "MDQ6VXNlcjE=",
+  "avatar_url": "https://github.com/images/error/octocat_happy.gif",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/octocat",
+  "html_url": "https://github.com/octocat",
+  "followers_url": "https://api.github.com/users/octocat/followers",
+  "following_url": "https://api.github.com/users/octocat/following{/other_user}",
+  "gists_url": "https://api.github.com/users/octocat/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/octocat/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/octocat/subscriptions",
+  "organizations_url": "https://api.github.com/users/octocat/orgs",
+  "repos_url": "https://api.github.com/users/octocat/repos",
+  "events_url": "https://api.github.com/users/octocat/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/octocat/received_events",
+  "type": "User",
+  "site_admin": false,
+  "name": "monalisa octocat",
+  "company": "GitHub",
+  "blog": "https://github.com/blog",
+  "location": "San Francisco",
+  "email": "octocat@github.com",
+  "hireable": false,
+  "bio": "There once was...",
+  "public_repos": 2,
+  "public_gists": 1,
+  "followers": 20,
+  "following": 0,
+  "created_at": "2008-01-14T04:33:35Z",
+  "updated_at": "2008-01-14T04:33:35Z",
+  "private_gists": 81,
+  "total_private_repos": 100,
+  "owned_private_repos": 100,
+  "disk_usage": 10000,
+  "collaborators": 8,
+  "two_factor_authentication": true,
+  "plan": {
+    "name": "Medium",
+    "space": 400,
+    "private_repos": 20,
+    "collaborators": 0
+  }
+}
+      Not modified
+      Status: 304 Not Modified
+      Requires authentication
+      Status: 401 Unauthorized
+      Forbidden
+      Status: 403 Forbidden
+      Resource not found
+      Status: 404 Not Found
+      Validation failed
+      Status: 422 Unprocessable Entity
+      List users
+    Lists all users, in the order that they signed up on GitHub Enterprise Server. This list includes personal user accounts and organization accounts.
+Note: Pagination is powered exclusively by the since parameter. Use the Link header to get the URL for the next page of users.
+  get /users
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  Setting to application/vnd.github.v3+json is recommended.
+              since
+              string
+              query
+              Only show notifications updated after the given time. This is a timestamp in ISO 8601 format: YYYY-MM-DDTHH:MM:SSZ.
+              per_page
+              integer
+              query
+              Results per page (max 100)
+        Code samples
+              Shell
+          curl \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/users
+              JavaScript (@octokit/core.js)
+          await octokit.request('GET /users')
+      Default response
+      Status: 200 OK
+      [
+  {
+    "login": "octocat",
+    "id": 1,
+    "node_id": "MDQ6VXNlcjE=",
+    "avatar_url": "https://github.com/images/error/octocat_happy.gif",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/octocat",
+    "html_url": "https://github.com/octocat",
+    "followers_url": "https://api.github.com/users/octocat/followers",
+    "following_url": "https://api.github.com/users/octocat/following{/other_user}",
+    "gists_url": "https://api.github.com/users/octocat/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/octocat/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/octocat/subscriptions",
+    "organizations_url": "https://api.github.com/users/octocat/orgs",
+    "repos_url": "https://api.github.com/users/octocat/repos",
+    "events_url": "https://api.github.com/users/octocat/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/octocat/received_events",
+    "type": "User",
+    "site_admin": false
+  }
+]
+      Not modified
+      Status: 304 Not Modified
+      Notes
+        Works with GitHub Apps
+      Get a user
+    Provides publicly available information about someone with a GitHub account.
+GitHub Apps with the Plan user permission can use this endpoint to retrieve information about a user's GitHub Enterprise Server plan. The GitHub App must be authenticated as a user. See "Identifying and authorizing users for GitHub Apps" for details about authentication. For an example response, see "Response with GitHub Enterprise Server plan information."
+The email key in the following response is the publicly visible email address from your GitHub Enterprise Server profile page. When setting up your profile, you can select a primary email address to be “public” which provides an email entry for this endpoint. If you do not set a public email address for email, then it will have a value of null. You only see publicly visible email addresses when authenticated with GitHub Enterprise Server. For more information, see Authentication.
+The Emails API enables you to list all of your email addresses, and toggle a primary email to be visible publicly. For more information, see "Emails API".
+  get /users/{username}
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  Setting to application/vnd.github.v3+json is recommended.
+              username
+              string
+              path
+        Code samples
+              Shell
+          curl \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/users/USERNAME
+              JavaScript (@octokit/core.js)
+          await octokit.request('GET /users/{username}', {
+  username: 'username'
+})
+      Default response
+      Status: 200 OK
+      {
+  "login": "octocat",
+  "id": 1,
+  "node_id": "MDQ6VXNlcjE=",
+  "avatar_url": "https://github.com/images/error/octocat_happy.gif",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/octocat",
+  "html_url": "https://github.com/octocat",
+  "followers_url": "https://api.github.com/users/octocat/followers",
+  "following_url": "https://api.github.com/users/octocat/following{/other_user}",
+  "gists_url": "https://api.github.com/users/octocat/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/octocat/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/octocat/subscriptions",
+  "organizations_url": "https://api.github.com/users/octocat/orgs",
+  "repos_url": "https://api.github.com/users/octocat/repos",
+  "events_url": "https://api.github.com/users/octocat/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/octocat/received_events",
+  "type": "User",
+  "site_admin": false,
+  "name": "monalisa octocat",
+  "company": "GitHub",
+  "blog": "https://github.com/blog",
+  "location": "San Francisco",
+  "email": "octocat@github.com",
+  "hireable": false,
+  "bio": "There once was...",
+  "twitter_username": "monatheoctocat",
+  "public_repos": 2,
+  "public_gists": 1,
+  "followers": 20,
+  "following": 0,
+  "created_at": "2008-01-14T04:33:35Z",
+  "updated_at": "2008-01-14T04:33:35Z"
+}
+      Response with GitHub plan information
+      Status: 200 OK
+      {
+  "login": "octocat",
+  "id": 1,
+  "node_id": "MDQ6VXNlcjE=",
+  "avatar_url": "https://github.com/images/error/octocat_happy.gif",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/octocat",
+  "html_url": "https://github.com/octocat",
+  "followers_url": "https://api.github.com/users/octocat/followers",
+  "following_url": "https://api.github.com/users/octocat/following{/other_user}",
+  "gists_url": "https://api.github.com/users/octocat/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/octocat/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/octocat/subscriptions",
+  "organizations_url": "https://api.github.com/users/octocat/orgs",
+  "repos_url": "https://api.github.com/users/octocat/repos",
+  "events_url": "https://api.github.com/users/octocat/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/octocat/received_events",
+  "type": "User",
+  "site_admin": false,
+  "name": "monalisa octocat",
+  "company": "GitHub",
+  "blog": "https://github.com/blog",
+  "location": "San Francisco",
+  "email": "octocat@github.com",
+  "hireable": false,
+  "bio": "There once was...",
+  "twitter_username": "monatheoctocat",
+  "public_repos": 2,
+  "public_gists": 1,
+  "followers": 20,
+  "following": 0,
+  "created_at": "2008-01-14T04:33:35Z",
+  "updated_at": "2008-01-14T04:33:35Z",
+  "plan": {
+    "name": "pro",
+    "space": 976562499,
+    "collaborators": 0,
+    "private_repos": 9999
+  }
+}
+      Resource not found
+      Status: 404 Not Found
+      Notes
+        Works with GitHub Apps
+      Get contextual information for a user
+    Provides hovercard information when authenticated through basic auth or OAuth with the repo scope. You can find out more about someone in relation to their pull requests, issues, repositories, and organizations.
+The subject_type and subject_id parameters provide context for the person's hovercard, which returns more information than without the parameters. For example, if you wanted to find out more about octocat who owns the Spoon-Knife repository via cURL, it would look like this:
+ curl -u username:token
+  https://api.github.com/users/octocat/hovercard?subject_type=repository&amp;subject_id=1300192
+  get /users/{username}/hovercard
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  Setting to application/vnd.github.v3+json is recommended.
+              username
+              string
+              path
+              subject_type
+              string
+              query
+              Identifies which additional information you'd like to receive about the person's hovercard. Can be organization, repository, issue, pull_request. Required when using subject_id.
+              subject_id
+              string
+              query
+              Uses the ID for the subject_type you specified. Required when using subject_type.
+        Code samples
+              Shell
+          curl \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/users/USERNAME/hovercard
+              JavaScript (@octokit/core.js)
+          await octokit.request('GET /users/{username}/hovercard', {
+  username: 'username'
+})
+      Default response
+      Status: 200 OK
+      {
+  "contexts": [
+    {
+      "message": "Owns this repository",
+      "octicon": "repo"
+    }
+  ]
+}
+      Resource not found
+      Status: 404 Not Found
+      Validation failed
+      Status: 422 Unprocessable Entity
+Blocking users
+Emails
+Management of email addresses via the API requires that you authenticate through basic auth, or through OAuth with a correct scope for the endpoint.
+      List email addresses for the authenticated user
+    Lists all of your email addresses, and specifies which one is visible to the public. This endpoint is accessible with the user:email scope.
+  get /user/emails
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  Setting to application/vnd.github.v3+json is recommended.
+              per_page
+              integer
+              query
+              Results per page (max 100)
+              page
+              integer
+              query
+              Page number of the results to fetch.
+        Code samples
+              Shell
+          curl \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/user/emails
+              JavaScript (@octokit/core.js)
+          await octokit.request('GET /user/emails')
+      Default response
+      Status: 200 OK
+      [
+  {
+    "email": "octocat@github.com",
+    "verified": true,
+    "primary": true,
+    "visibility": "public"
+  }
+]
+      Not modified
+      Status: 304 Not Modified
+      Requires authentication
+      Status: 401 Unauthorized
+      Forbidden
+      Status: 403 Forbidden
+      Resource not found
+      Status: 404 Not Found
+      Add an email address for the authenticated user
+    This endpoint is accessible with the user scope.
+  post /user/emails
+        Code samples
+              Shell
+          curl \
+  -X POST \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/user/emails \
+  -d '{"emails":["octocat@github.com"]}'
+              JavaScript (@octokit/core.js)
+          await octokit.request('POST /user/emails', {
+  emails: [
+    'octocat@github.com'
+  ]
+})
+      Default response
+      Status: 201 Created
+      [
+  {
+    "email": "octocat@octocat.org",
+    "primary": false,
+    "verified": false,
+    "visibility": "public"
+  },
+  {
+    "email": "octocat@github.com",
+    "primary": false,
+    "verified": false,
+    "visibility": null
+  },
+  {
+    "email": "mona@github.com",
+    "primary": false,
+    "verified": false,
+    "visibility": null
+  }
+]
+      Not modified
+      Status: 304 Not Modified
+      Requires authentication
+      Status: 401 Unauthorized
+      Forbidden
+      Status: 403 Forbidden
+      Resource not found
+      Status: 404 Not Found
+      Validation failed
+      Status: 422 Unprocessable Entity
+      Delete an email address for the authenticated user
+    This endpoint is accessible with the user scope.
+  delete /user/emails
+        Code samples
+              Shell
+          curl \
+  -X DELETE \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/user/emails \
+  -d '{"emails":["octocat@github.com"]}'
+              JavaScript (@octokit/core.js)
+          await octokit.request('DELETE /user/emails', {
+  emails: [
+    'octocat@github.com'
+  ]
+})
+      Default Response
+      Status: 204 No Content
+      Not modified
+      Status: 304 Not Modified
+      Requires authentication
+      Status: 401 Unauthorized
+      Forbidden
+      Status: 403 Forbidden
+      Resource not found
+      Status: 404 Not Found
+      Validation failed
+      Status: 422 Unprocessable Entity
+      List public email addresses for the authenticated user
+    Lists your publicly visible email address, which you can set with the Set primary email visibility for the authenticated user endpoint. This endpoint is accessible with the user:email scope.
+  get /user/public_emails
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  Setting to application/vnd.github.v3+json is recommended.
+              per_page
+              integer
+              query
+              Results per page (max 100)
+              page
+              integer
+              query
+              Page number of the results to fetch.
+        Code samples
+              Shell
+          curl \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/user/public_emails
+              JavaScript (@octokit/core.js)
+          await octokit.request('GET /user/public_emails')
+      Default response
+      Status: 200 OK
+      [
+  {
+    "email": "octocat@github.com",
+    "verified": true,
+    "primary": true,
+    "visibility": "public"
+  }
+]
+      Not modified
+      Status: 304 Not Modified
+      Requires authentication
+      Status: 401 Unauthorized
+      Forbidden
+      Status: 403 Forbidden
+      Resource not found
+      Status: 404 Not Found
+Followers
+      List followers of the authenticated user
+    Lists the people following the authenticated user.
+  get /user/followers
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  Setting to application/vnd.github.v3+json is recommended.
+              per_page
+              integer
+              query
+              Results per page (max 100)
+              page
+              integer
+              query
+              Page number of the results to fetch.
+        Code samples
+              Shell
+          curl \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/user/followers
+              JavaScript (@octokit/core.js)
+          await octokit.request('GET /user/followers')
+      Default response
+      Status: 200 OK
+      [
+  {
+    "login": "octocat",
+    "id": 1,
+    "node_id": "MDQ6VXNlcjE=",
+    "avatar_url": "https://github.com/images/error/octocat_happy.gif",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/octocat",
+    "html_url": "https://github.com/octocat",
+    "followers_url": "https://api.github.com/users/octocat/followers",
+    "following_url": "https://api.github.com/users/octocat/following{/other_user}",
+    "gists_url": "https://api.github.com/users/octocat/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/octocat/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/octocat/subscriptions",
+    "organizations_url": "https://api.github.com/users/octocat/orgs",
+    "repos_url": "https://api.github.com/users/octocat/repos",
+    "events_url": "https://api.github.com/users/octocat/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/octocat/received_events",
+    "type": "User",
+    "site_admin": false
+  }
+]
+      Not modified
+      Status: 304 Not Modified
+      Requires authentication
+      Status: 401 Unauthorized
+      Forbidden
+      Status: 403 Forbidden
+      List the people the authenticated user follows
+    Lists the people who the authenticated user follows.
+  get /user/following
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  Setting to application/vnd.github.v3+json is recommended.
+              per_page
+              integer
+              query
+              Results per page (max 100)
+              page
+              integer
+              query
+              Page number of the results to fetch.
+        Code samples
+              Shell
+          curl \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/user/following
+              JavaScript (@octokit/core.js)
+          await octokit.request('GET /user/following')
+      Default response
+      Status: 200 OK
+      [
+  {
+    "login": "octocat",
+    "id": 1,
+    "node_id": "MDQ6VXNlcjE=",
+    "avatar_url": "https://github.com/images/error/octocat_happy.gif",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/octocat",
+    "html_url": "https://github.com/octocat",
+    "followers_url": "https://api.github.com/users/octocat/followers",
+    "following_url": "https://api.github.com/users/octocat/following{/other_user}",
+    "gists_url": "https://api.github.com/users/octocat/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/octocat/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/octocat/subscriptions",
+    "organizations_url": "https://api.github.com/users/octocat/orgs",
+    "repos_url": "https://api.github.com/users/octocat/repos",
+    "events_url": "https://api.github.com/users/octocat/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/octocat/received_events",
+    "type": "User",
+    "site_admin": false
+  }
+]
+      Not modified
+      Status: 304 Not Modified
+      Requires authentication
+      Status: 401 Unauthorized
+      Forbidden
+      Status: 403 Forbidden
+      Check if a person is followed by the authenticated user
+  get /user/following/{username}
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  Setting to application/vnd.github.v3+json is recommended.
+              username
+              string
+              path
+        Code samples
+              Shell
+          curl \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/user/following/USERNAME
+              JavaScript (@octokit/core.js)
+          await octokit.request('GET /user/following/{username}', {
+  username: 'username'
+})
+      Response if the person is followed by the authenticated user
+      Status: 204 No Content
+      Not modified
+      Status: 304 Not Modified
+      Requires authentication
+      Status: 401 Unauthorized
+      Forbidden
+      Status: 403 Forbidden
+      Response if the person is not followed by the authenticated user
+      Status: 404 Not Found
+      Follow a user
+    Note that you'll need to set Content-Length to zero when calling out to this endpoint. For more information, see "HTTP verbs."
+Following a user requires the user to be logged in and authenticated with basic auth or OAuth with the user:follow scope.
+  put /user/following/{username}
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  Setting to application/vnd.github.v3+json is recommended.
+              username
+              string
+              path
+        Code samples
+              Shell
+          curl \
+  -X PUT \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/user/following/USERNAME
+              JavaScript (@octokit/core.js)
+          await octokit.request('PUT /user/following/{username}', {
+  username: 'username'
+})
+      Default Response
+      Status: 204 No Content
+      Not modified
+      Status: 304 Not Modified
+      Requires authentication
+      Status: 401 Unauthorized
+      Forbidden
+      Status: 403 Forbidden
+      Resource not found
+      Status: 404 Not Found
+      Unfollow a user
+    Unfollowing a user requires the user to be logged in and authenticated with basic auth or OAuth with the user:follow scope.
+  delete /user/following/{username}
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  Setting to application/vnd.github.v3+json is recommended.
+              username
+              string
+              path
+        Code samples
+              Shell
+          curl \
+  -X DELETE \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/user/following/USERNAME
+              JavaScript (@octokit/core.js)
+          await octokit.request('DELETE /user/following/{username}', {
+  username: 'username'
+})
+      Default Response
+      Status: 204 No Content
+      Not modified
+      Status: 304 Not Modified
+      Requires authentication
+      Status: 401 Unauthorized
+      Forbidden
+      Status: 403 Forbidden
+      Resource not found
+      Status: 404 Not Found
+      List followers of a user
+    Lists the people following the specified user.
+  get /users/{username}/followers
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  Setting to application/vnd.github.v3+json is recommended.
+              username
+              string
+              path
+              per_page
+              integer
+              query
+              Results per page (max 100)
+              page
+              integer
+              query
+              Page number of the results to fetch.
+        Code samples
+              Shell
+          curl \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/users/USERNAME/followers
+              JavaScript (@octokit/core.js)
+          await octokit.request('GET /users/{username}/followers', {
+  username: 'username'
+})
+      Default response
+      Status: 200 OK
+      [
+  {
+    "login": "octocat",
+    "id": 1,
+    "node_id": "MDQ6VXNlcjE=",
+    "avatar_url": "https://github.com/images/error/octocat_happy.gif",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/octocat",
+    "html_url": "https://github.com/octocat",
+    "followers_url": "https://api.github.com/users/octocat/followers",
+    "following_url": "https://api.github.com/users/octocat/following{/other_user}",
+    "gists_url": "https://api.github.com/users/octocat/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/octocat/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/octocat/subscriptions",
+    "organizations_url": "https://api.github.com/users/octocat/orgs",
+    "repos_url": "https://api.github.com/users/octocat/repos",
+    "events_url": "https://api.github.com/users/octocat/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/octocat/received_events",
+    "type": "User",
+    "site_admin": false
+  }
+]
+      Notes
+        Works with GitHub Apps
+      List the people a user follows
+    Lists the people who the specified user follows.
+  get /users/{username}/following
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  Setting to application/vnd.github.v3+json is recommended.
+              username
+              string
+              path
+              per_page
+              integer
+              query
+              Results per page (max 100)
+              page
+              integer
+              query
+              Page number of the results to fetch.
+        Code samples
+              Shell
+          curl \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/users/USERNAME/following
+              JavaScript (@octokit/core.js)
+          await octokit.request('GET /users/{username}/following', {
+  username: 'username'
+})
+      Default response
+      Status: 200 OK
+      [
+  {
+    "login": "octocat",
+    "id": 1,
+    "node_id": "MDQ6VXNlcjE=",
+    "avatar_url": "https://github.com/images/error/octocat_happy.gif",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/octocat",
+    "html_url": "https://github.com/octocat",
+    "followers_url": "https://api.github.com/users/octocat/followers",
+    "following_url": "https://api.github.com/users/octocat/following{/other_user}",
+    "gists_url": "https://api.github.com/users/octocat/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/octocat/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/octocat/subscriptions",
+    "organizations_url": "https://api.github.com/users/octocat/orgs",
+    "repos_url": "https://api.github.com/users/octocat/repos",
+    "events_url": "https://api.github.com/users/octocat/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/octocat/received_events",
+    "type": "User",
+    "site_admin": false
+  }
+]
+      Notes
+        Works with GitHub Apps
+      Check if a user follows another user
+  get /users/{username}/following/{target_user}
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  Setting to application/vnd.github.v3+json is recommended.
+              username
+              string
+              path
+              target_user
+              string
+              path
+        Code samples
+              Shell
+          curl \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/users/USERNAME/following/TARGET_USER
+              JavaScript (@octokit/core.js)
+          await octokit.request('GET /users/{username}/following/{target_user}', {
+  username: 'username',
+  target_user: 'target_user'
+})
+      Response if the user follows the target user
+      Status: 204 No Content
+      Response if the user does not follow the target user
+      Status: 404 Not Found
+      Notes
+        Works with GitHub Apps
+Git SSH keys
+      List public SSH keys for the authenticated user
+    Lists the public SSH keys for the authenticated user's GitHub account. Requires that you are authenticated via Basic Auth or via OAuth with at least read:public_key scope.
+  get /user/keys
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  Setting to application/vnd.github.v3+json is recommended.
+              per_page
+              integer
+              query
+              Results per page (max 100)
+              page
+              integer
+              query
+              Page number of the results to fetch.
+        Code samples
+              Shell
+          curl \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/user/keys
+              JavaScript (@octokit/core.js)
+          await octokit.request('GET /user/keys')
+      Default response
+      Status: 200 OK
+      [
+  {
+    "key_id": "012345678912345678",
+    "key": "2Sg8iYjAxxmI2LvUXpJjkYrMxURPc8r+dB7TJyvv1234",
+    "id": 2,
+    "url": "https://api.github.com/user/keys/2",
+    "title": "ssh-rsa AAAAB3NzaC1yc2EAAA",
+    "created_at": "2020-06-11T21:31:57Z",
+    "verified": false,
+    "read_only": false
+  },
+  {
+    "key_id": "012345678912345608",
+    "key": "2Sg8iYjAxxmI2LvUXpJjkYrMxURPc8r+dB7TJy931234",
+    "id": 3,
+    "url": "https://api.github.com/user/keys/3",
+    "title": "ssh-rsa AAAAB3NzaC1yc2EAAB",
+    "created_at": "2020-07-11T21:31:57Z",
+    "verified": false,
+    "read_only": false
+  }
+]
+      Not modified
+      Status: 304 Not Modified
+      Requires authentication
+      Status: 401 Unauthorized
+      Forbidden
+      Status: 403 Forbidden
+      Resource not found
+      Status: 404 Not Found
+      Create a public SSH key for the authenticated user
+    Adds a public SSH key to the authenticated user's GitHub account. Requires that you are authenticated via Basic Auth, or OAuth with at least write:public_key scope.
+  post /user/keys
+        Code samples
+              Shell
+          curl \
+  -X POST \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/user/keys \
+  -d '{"key":"key"}'
+              JavaScript (@octokit/core.js)
+          await octokit.request('POST /user/keys', {
+  key: 'key'
+})
+      Default response
+      Status: 201 Created
+      {
+  "key_id": "012345678912345678",
+  "key": "2Sg8iYjAxxmI2LvUXpJjkYrMxURPc8r+dB7TJyvv1234",
+  "id": 2,
+  "url": "https://api.github.com/user/keys/2",
+  "title": "ssh-rsa AAAAB3NzaC1yc2EAAA",
+  "created_at": "2020-06-11T21:31:57Z",
+  "verified": false,
+  "read_only": false
+}
+      Not modified
+      Status: 304 Not Modified
+      Requires authentication
+      Status: 401 Unauthorized
+      Forbidden
+      Status: 403 Forbidden
+      Resource not found
+      Status: 404 Not Found
+      Validation failed
+      Status: 422 Unprocessable Entity
+      Get a public SSH key for the authenticated user
+    View extended details for a single public SSH key. Requires that you are authenticated via Basic Auth or via OAuth with at least read:public_key scope.
+  get /user/keys/{key_id}
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  Setting to application/vnd.github.v3+json is recommended.
+              key_id
+              integer
+              path
+              key_id parameter
+        Code samples
+              Shell
+          curl \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/user/keys/42
+              JavaScript (@octokit/core.js)
+          await octokit.request('GET /user/keys/{key_id}', {
+  key_id: 42
+})
+      Default response
+      Status: 200 OK
+      {
+  "key_id": "012345678912345678",
+  "key": "2Sg8iYjAxxmI2LvUXpJjkYrMxURPc8r+dB7TJyvv1234",
+  "id": 2,
+  "url": "https://api.github.com/user/keys/2",
+  "title": "ssh-rsa AAAAB3NzaC1yc2EAAA",
+  "created_at": "2020-06-11T21:31:57Z",
+  "verified": false,
+  "read_only": false
+}
+      Not modified
+      Status: 304 Not Modified
+      Requires authentication
+      Status: 401 Unauthorized
+      Forbidden
+      Status: 403 Forbidden
+      Resource not found
+      Status: 404 Not Found
+      Delete a public SSH key for the authenticated user
+    Removes a public SSH key from the authenticated user's GitHub account. Requires that you are authenticated via Basic Auth or via OAuth with at least admin:public_key scope.
+  delete /user/keys/{key_id}
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  Setting to application/vnd.github.v3+json is recommended.
+              key_id
+              integer
+              path
+              key_id parameter
+        Code samples
+              Shell
+          curl \
+  -X DELETE \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/user/keys/42
+              JavaScript (@octokit/core.js)
+          await octokit.request('DELETE /user/keys/{key_id}', {
+  key_id: 42
+})
+      Default Response
+      Status: 204 No Content
+      Not modified
+      Status: 304 Not Modified
+      Requires authentication
+      Status: 401 Unauthorized
+      Forbidden
+      Status: 403 Forbidden
+      Resource not found
+      Status: 404 Not Found
+      List public keys for a user
+    Lists the verified public SSH keys for a user. This is accessible by anyone.
+  get /users/{username}/keys
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  Setting to application/vnd.github.v3+json is recommended.
+              username
+              string
+              path
+              per_page
+              integer
+              query
+              Results per page (max 100)
+              page
+              integer
+              query
+              Page number of the results to fetch.
+        Code samples
+              Shell
+          curl \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/users/USERNAME/keys
+              JavaScript (@octokit/core.js)
+          await octokit.request('GET /users/{username}/keys', {
+  username: 'username'
+})
+      Default response
+      Status: 200 OK
+      [
+  {
+    "id": 1,
+    "key": "ssh-rsa AAA..."
+  }
+]
+      Notes
+        Works with GitHub Apps
+GPG keys
+The data returned in the public_key response field is not a GPG formatted key. When a user uploads a GPG key, it is parsed and the cryptographic public key is extracted and stored. This cryptographic key is what is returned by the APIs on this page. This key is not suitable to be used directly by programs like GPG.
+      List GPG keys for the authenticated user
+    Lists the current user's GPG keys. Requires that you are authenticated via Basic Auth or via OAuth with at least read:gpg_key scope.
+  get /user/gpg_keys
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  Setting to application/vnd.github.v3+json is recommended.
+              per_page
+              integer
+              query
+              Results per page (max 100)
+              page
+              integer
+              query
+              Page number of the results to fetch.
+        Code samples
+              Shell
+          curl \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/user/gpg_keys
+              JavaScript (@octokit/core.js)
+          await octokit.request('GET /user/gpg_keys')
+      Default response
+      Status: 200 OK
+      [
+  {
+    "id": 3,
+    "primary_key_id": 2,
+    "key_id": "3262EFF25BA0D270",
+    "public_key": "xsBNBFayYZ...",
+    "emails": [
+      {
+        "email": "mastahyeti@users.noreply.github.com",
+        "verified": true
+      }
+    ],
+    "subkeys": [
+      {
+        "id": 4,
+        "primary_key_id": 3,
+        "key_id": "4A595D4C72EE49C7",
+        "public_key": "zsBNBFayYZ...",
+        "emails": [],
+        "subkeys": [],
+        "can_sign": false,
+        "can_encrypt_comms": true,
+        "can_encrypt_storage": true,
+        "can_certify": false,
+        "created_at": "2016-03-24T11:31:04-06:00",
+        "expires_at": "2016-03-24T11:31:04-07:00"
+      }
+    ],
+    "can_sign": true,
+    "can_encrypt_comms": false,
+    "can_encrypt_storage": false,
+    "can_certify": true,
+    "created_at": "2016-03-24T11:31:04-06:00",
+    "expires_at": "2016-03-24T11:31:04-07:00",
+    "raw_key": "string"
+  }
+]
+      Not modified
+      Status: 304 Not Modified
+      Requires authentication
+      Status: 401 Unauthorized
+      Forbidden
+      Status: 403 Forbidden
+      Resource not found
+      Status: 404 Not Found
+      Create a GPG key for the authenticated user
+    Adds a GPG key to the authenticated user's GitHub account. Requires that you are authenticated via Basic Auth, or OAuth with at least write:gpg_key scope.
+  post /user/gpg_keys
+        Code samples
+              Shell
+          curl \
+  -X POST \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/user/gpg_keys \
+  -d '{"armored_public_key":"armored_public_key"}'
+              JavaScript (@octokit/core.js)
+          await octokit.request('POST /user/gpg_keys', {
+  armored_public_key: 'armored_public_key'
+})
+      Default response
+      Status: 201 Created
+      {
+  "id": 3,
+  "primary_key_id": 2,
+  "key_id": "3262EFF25BA0D270",
+  "public_key": "xsBNBFayYZ...",
+  "emails": [
+    {
+      "email": "mastahyeti@users.noreply.github.com",
+      "verified": true
+    }
+  ],
+  "subkeys": [
+    {
+      "id": 4,
+      "primary_key_id": 3,
+      "key_id": "4A595D4C72EE49C7",
+      "public_key": "zsBNBFayYZ...",
+      "emails": [],
+      "subkeys": [],
+      "can_sign": false,
+      "can_encrypt_comms": true,
+      "can_encrypt_storage": true,
+      "can_certify": false,
+      "created_at": "2016-03-24T11:31:04-06:00",
+      "expires_at": "2016-03-24T11:31:04-07:00"
+    }
+  ],
+  "can_sign": true,
+  "can_encrypt_comms": false,
+  "can_encrypt_storage": false,
+  "can_certify": true,
+  "created_at": "2016-03-24T11:31:04-06:00",
+  "expires_at": "2016-03-24T11:31:04-07:00",
+  "raw_key": "\"-----BEGIN PGP PUBLIC KEY BLOCK-----\\nVersion: GnuPG v2\\n\\n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\\nIts/HFYRLiFgDLmTlxo=\\n=+OzK\\n-----END PGP PUBLIC KEY BLOCK-----\""
+}
+      Not modified
+      Status: 304 Not Modified
+      Requires authentication
+      Status: 401 Unauthorized
+      Forbidden
+      Status: 403 Forbidden
+      Resource not found
+      Status: 404 Not Found
+      Validation failed
+      Status: 422 Unprocessable Entity
+      Get a GPG key for the authenticated user
+    View extended details for a single GPG key. Requires that you are authenticated via Basic Auth or via OAuth with at least read:gpg_key scope.
+  get /user/gpg_keys/{gpg_key_id}
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  Setting to application/vnd.github.v3+json is recommended.
+              gpg_key_id
+              integer
+              path
+              gpg_key_id parameter
+        Code samples
+              Shell
+          curl \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/user/gpg_keys/42
+              JavaScript (@octokit/core.js)
+          await octokit.request('GET /user/gpg_keys/{gpg_key_id}', {
+  gpg_key_id: 42
+})
+      Default response
+      Status: 200 OK
+      {
+  "id": 3,
+  "primary_key_id": 2,
+  "key_id": "3262EFF25BA0D270",
+  "public_key": "xsBNBFayYZ...",
+  "emails": [
+    {
+      "email": "mastahyeti@users.noreply.github.com",
+      "verified": true
+    }
+  ],
+  "subkeys": [
+    {
+      "id": 4,
+      "primary_key_id": 3,
+      "key_id": "4A595D4C72EE49C7",
+      "public_key": "zsBNBFayYZ...",
+      "emails": [],
+      "subkeys": [],
+      "can_sign": false,
+      "can_encrypt_comms": true,
+      "can_encrypt_storage": true,
+      "can_certify": false,
+      "created_at": "2016-03-24T11:31:04-06:00",
+      "expires_at": "2016-03-24T11:31:04-07:00"
+    }
+  ],
+  "can_sign": true,
+  "can_encrypt_comms": false,
+  "can_encrypt_storage": false,
+  "can_certify": true,
+  "created_at": "2016-03-24T11:31:04-06:00",
+  "expires_at": "2016-03-24T11:31:04-07:00",
+  "raw_key": "\"-----BEGIN PGP PUBLIC KEY BLOCK-----\\nVersion: GnuPG v2\\n\\nmQENBFayYZ0BCAC4hScoJXXpyR+MXGcrBxElqw3FzCVvkViuyeko+Jp76QJhg8kr\\nucRTxbnOoHfda/FmilEa/wxf9ch5/PSrrL26FxEoPHhJolp8fnIDLQeITn94NYdB\\nZtnnEKslpPrG97qSUWIchvyqCPtvOb8+8fWvGx9K/ZWcEEdh1X8+WFR2jMENMeoX\\nwxHWQoPnS7LpX/85/M7VUcJxvDVfv+eHsnQupmE5bGarKNih0oMe3LbdN3qA5PTz\\nSCm6Iudar1VsQ+xTz08ymL7t4pnEtLguQ7EyatFHCjxNblv5RzxoL0tDgN3HqoDz\\nc7TEA+q4RtDQl9amcvQ95emnXmZ974u7UkYdABEBAAG0HlNvbWUgVXNlciA8c29t\\nZXVzZXJAZ21haWwuY29tPokBOAQTAQIAIgUCVrJhnQIbAwYLCQgHAwIGFQgCCQoL\\nBBYCAwECHgECF4AACgkQMmLv8lug0nAViQgArWjI55+7p48URr2z9Jvak+yrBTx1\\nzkufltQAnHTJkq+Kl9dySSmTnOop8o3rE4++IOpYV5Y36PkKf9EZMk4n1RQiDPKE\\nAFtRVTkRaoWzOir9KQXJPfhKrl01j/QzY+utfiMvUoBJZ9ybq8Pa885SljW9lbaX\\nIYw+hl8ZdJ2KStvGrEyfQvRyq3aN5c9TV//4BdGnwx7Qabq/U+G18lizG6f/yq15\\ned7t0KELaCfeKPvytp4VE9/z/Ksah/h3+Qilx07/oG2Ae5kC1bEC9coD/ogPUhbv\\nb2bsBIoY9E9YwsLoif2lU+o1t76zLgUktuNscRRUKobW028H1zuFS/XQhrkBDQRW\\nsmGdAQgApnyyv3i144OLYy0O4UKQxd3e10Y3WpDwfnGIBefAI1m7RxnUxBag/DsU\\n7gi9qLEC4VHSfq4eiNfr1LJOyCL2edTgCWFgBhVjbXjZe6YAOrAnhxwCErnN0Y7N\\n6s8wVh9fObSOyf8ZE6G7JeKpcq9Q6gd/KxagfD48a1v+fyRHpyQc6J9pUEmtrDJ7\\nBjmsd2VWzLBvNWdHyxDNtZweIaqIO9VUYYpr1mtTliNBOZLUelmgrt7HBRcJpWMA\\nS8muVVbuP5MK0trLBq/JB8qUH3zRzB/PhMgzmkIfjEK1VYDWm4E8DYyTWEJcHqkb\\neqFsNjrIlwPaA122BWC6gUOPwwH+oQARAQABiQEfBBgBAgAJBQJWsmGdAhsMAAoJ\\nEDJi7/JboNJwAyAIALd4xcdmGbZD98gScJzqwzkOMcO8zFHqHNvJ42xIFvGny7c0\\n1Rx7iyrdypOby5AxE+viQcjG4rpLZW/xKYBNGrCfDyQO7511I0v8x20EICMlMfD/\\nNrWQCzesEPcUlKTP07d+sFyP8AyseOidbzY/92CpskTgdSBjY/ntLSaoknl/fjJE\\nQM8OkPqU7IraO1Jzzdnm20d5PZL9+PIwIWdSTedU/vBMTJyNcoqvSfKf1wNC66XP\\nhqfYgXJE564AdWZKA3C0IyCqiv+LHwxLnUHio1a4/r91C8KPzxs6tGxRDjXLd7ms\\nuYFGWymiUGOE/giHlcxdYcHzwLnPDliMQOLiTkK5AQ0EVuxMygEIAOD+bW1cDTmE\\nBxh5JECoqeHuwgl6DlLhnubWPkQ4ZeRzBRAsFcEJQlwlJjrzFDicL+lnm6Qq4tt0\\n560TwHdf15/AKTZIZu7H25axvGNzgeaUkJEJdYAq9zTKWwX7wKyzBszi485nQg97\\nMfAqwhMpDW0Qqf8+7Ug+WEmfBSGv9uL3aQC6WEeIsHfri0n0n8v4XgwhfShXguxO\\nCsOztEsuW7WWKW9P4TngKKv4lCHdPlV6FwxeMzODBJvc2fkHVHnqc0PqszJ5xcF8\\n6gZCpMM027SbpeYWCAD5zwJyYP9ntfO1p2HjnQ1dZaP9FeNcO7uIV1Lnd1eGCu6I\\nsrVp5k1f3isAEQEAAYkCPgQYAQIACQUCVuxMygIbAgEpCRAyYu/yW6DScMBdIAQZ\\nAQIABgUCVuxMygAKCRCKohN4dhq2b4tcCACHxmOHVXNpu47OvUGYQydLgMACUlXN\\nlj+HfE0VReqShxdDmpasAY9IRpuMB2RsGK8GbNP+4SlOlAiPf5SMhS7nZNkNDgQQ\\naZ3HFpgrFmFwmE10BKT4iQtoxELLM57z0qGOAfTsEjWFQa4sF+6IHAQR/ptkdkkI\\nBUEXiMnAwVwBysLIJiLO8qdjB6qp52QkT074JVrwywT/P+DkMfC2k4r/AfEbf6eF\\ndmPDuPk6KD87+hJZsSa5MaMUBQVvRO/mgEkhJRITVu58eWGaBOcQJ8gqurhCqM5P\\nDfUA4TJ7wiqM6sS764vV1rOioTTXkszzhClQqET7hPVnVQjenYgv0EZHNyQH/1f1\\n/CYqvV1vFjM9vJjMbxXsATCkZe6wvBVKD8vLsJAr8N+onKQz+4OPc3kmKq7aESu3\\nCi/iuie5KKVwnuNhr9AzT61vEkKxwHcVFEvHB77F6ZAAInhRvjzmQbD2dlPLLQCC\\nqDj71ODSSAPTEmUy6969bgD9PfWei7kNkBIx7s3eBv8yzytSc2EcuUgopqFazquw\\nFs1+tqGHjBvQfTo6bqbJjp/9Ci2pvde3ElV2rAgUlb3lqXyXjRDqrXosh5GcRPQj\\nK8Nhj1BNhnrCVskE4BP0LYbOHuzgm86uXwGCFsY+w2VOsSm16Jx5GHyG5S5WU3+D\\nIts/HFYRLiFgDLmTlxo=\\n=+OzK\\n-----END PGP PUBLIC KEY BLOCK-----\""
+}
+      Not modified
+      Status: 304 Not Modified
+      Requires authentication
+      Status: 401 Unauthorized
+      Forbidden
+      Status: 403 Forbidden
+      Resource not found
+      Status: 404 Not Found
+      Delete a GPG key for the authenticated user
+    Removes a GPG key from the authenticated user's GitHub account. Requires that you are authenticated via Basic Auth or via OAuth with at least admin:gpg_key scope.
+  delete /user/gpg_keys/{gpg_key_id}
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  Setting to application/vnd.github.v3+json is recommended.
+              gpg_key_id
+              integer
+              path
+              gpg_key_id parameter
+        Code samples
+              Shell
+          curl \
+  -X DELETE \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/user/gpg_keys/42
+              JavaScript (@octokit/core.js)
+          await octokit.request('DELETE /user/gpg_keys/{gpg_key_id}', {
+  gpg_key_id: 42
+})
+      Default Response
+      Status: 204 No Content
+      Not modified
+      Status: 304 Not Modified
+      Requires authentication
+      Status: 401 Unauthorized
+      Forbidden
+      Status: 403 Forbidden
+      Resource not found
+      Status: 404 Not Found
+      Validation failed
+      Status: 422 Unprocessable Entity
+      List GPG keys for a user
+    Lists the GPG keys for a user. This information is accessible by anyone.
+  get /users/{username}/gpg_keys
+        Parameters
+            Name
+            Type
+            In
+            Description
+            accept
+            string
+            header
+                  Setting to application/vnd.github.v3+json is recommended.
+              username
+              string
+              path
+              per_page
+              integer
+              query
+              Results per page (max 100)
+              page
+              integer
+              query
+              Page number of the results to fetch.
+        Code samples
+              Shell
+          curl \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/users/USERNAME/gpg_keys
+              JavaScript (@octokit/core.js)
+          await octokit.request('GET /users/{username}/gpg_keys', {
+  username: 'username'
+})
+      Default response
+      Status: 200 OK
+      [
+  {
+    "id": 3,
+    "primary_key_id": 2,
+    "key_id": "3262EFF25BA0D270",
+    "public_key": "xsBNBFayYZ...",
+    "emails": [
+      {
+        "email": "mastahyeti@users.noreply.github.com",
+        "verified": true
+      }
+    ],
+    "subkeys": [
+      {
+        "id": 4,
+        "primary_key_id": 3,
+        "key_id": "4A595D4C72EE49C7",
+        "public_key": "zsBNBFayYZ...",
+        "emails": [],
+        "subkeys": [],
+        "can_sign": false,
+        "can_encrypt_comms": true,
+        "can_encrypt_storage": true,
+        "can_certify": false,
+        "created_at": "2016-03-24T11:31:04-06:00",
+        "expires_at": "2016-03-24T11:31:04-07:00"
+      }
+    ],
+    "can_sign": true,
+    "can_encrypt_comms": false,
+    "can_encrypt_storage": false,
+    "can_certify": true,
+    "created_at": "2016-03-24T11:31:04-06:00",
+    "expires_at": "2016-03-24T11:31:04-07:00",
+    "raw_key": "string"
+  }
+]
+      Notes
+        Works with GitHub Apps
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        Required
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        Optional
+      Can we contact you if we have more questions?
+        Optional
+      Send
+    Thank you! Your feedback has been submitted.
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  Or, learn how to contribute.
+      Still need help?
+      Ask the GitHub community
+      Contact support
+        Product
+          Features
+          Security
+          Enterprise
+          Case Studies
+          Pricing
+          Resources
+        Platform
+          Developer API
+          Partners
+          Atom
+          Electron
+          GitHub Desktop
+        Support
+          Help
+          Community Forum
+          Training
+          Status
+          Contact GitHub
+        Company
+          About
+          Blog
+          Careers
+          Press
+          Shop
+        © 2020 GitHub, Inc.
+        Terms 
+        Privacy 

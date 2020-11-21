@@ -1,0 +1,312 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Miracle’s Young Adult Entrepreneur Program Brings 8 Small Businesses and 2 Nonprofit Agencies to Watts            
+				By Sentinel News Service                
+	                	                Published October 18, 2018
+		Miracle’s Young Adult Entrepreneur Program Grads Bring New Small Businesses Watts Area (LEFT TO RIGHT): Vanessa Kontokanis , “Bags, Blessings &amp; Shreds”, Tyranesha Holmes, Royal Hermanes, Matthew Carrillo “Marktown USA –California”, Madisun McNair, “MKM &amp; Associates”, Cimberlyn Noelle Kwan, “Delizioso Italian Soda”, Mark Carrillo, “Gato Grip Tape”, Melvin Farmer, “2 Hungry World”, Ronnise Simmons, “Ambitious Grind Enrichment Programs”, Yat Fung Kwan, “Pearl Chinese Music Radio”, and Tatiana Sweat, “Organic Sauce Apparel” (not pictured).
+The Entrepreneur Educational Center, Inc. (EECI) has released tangible positive outcomes from its pilot “Miracle’s Young Adult Entrepreneur Program” (MYAEP) conducted during this past summer’s L.A. County Parks After Dark (PAD) activities at Ted Watkins Park-Computer Training Center. Following 16 weeks of courses designed to assist and educate multi-cultural entrepreneurs between the ages of 16 and 26 on the ins and outs of how to start or expand a small business in the greatly underserviced community of Watts and surrounding areas. Commencement exercises were held to present 8 new business owners, and 2 nonprofit agencies, sponsored by EECI.
+During a festive graduation held in the park’s Edna Aliewine Room, certificates of Completion from 44th District Congresswoman Nanette Barragan were presented to the newly minted entrepreneurs. Local 33 IATSE literally transformed the room into a former Central Avenue Jazz Club for the event. Activities then moved to the Computer Training Center for a Vendor Faire, so their items could be purchased. Goods and services ranging from apparel to nutrition to entertainment and real estate were displayed.
+Businesses and services on display were: Mexican and Greek foods by Bags, Blessings and Shreds by Vanessa Kontokanis, Delizioso Italian Soda by Cimberlyn Kwan, Distressed Clothing by Melvin Farmer’s 2 Hungry World, Vintage Organic Clothing by Tatiana Sweat, Real Estate Opportunities by Madisun McNair of MKM &amp; Associates, Non-Profit Community Services by Matthew Carrillo’s Marktown USA and Ambitious Grinds Enrichment Programs by Ronnise Simmons, Skateboards accessories and art by Gato Grip Tape and Mark Carrillo, Womens Hair Tresses by Tyranesha Holmes and Royal Hermanas, and Pearl Chinese Music Station by Michael Kwan.
+        ADVERTISEMENT        
+“Introducing the benefits of small business, prepares these young adults to be future business leaders. Being introduced to business, often in high school, is critical so they can take business courses in college. It opens the opportunity to create employment, and to increase the dollars in the community”, said Barbara J. Stanton, EECI Senior Consultant. “EECI believes the outcomes of its courses will demonstrate the ability of these young adults to identify opportunities, explore their concept’s viability, develop preliminary business plans and become our next leaders in the business world”. Business should be introduced before leaving high school in order to prepare them for real world”, Stanton said.
+The MYAEP program is named in honor of 15 year old Watts native Miracle Treasure McGowan, a student at Ánimo College Prep Academy charter school on the David Jordan High school campus. She tragically lost her life in January 2018 to a random gunman while sitting in the family car with her mother who was wounded. “Miracle loved her community, was a tireless volunteer at Ted Watkins Park and had her heart set on attending college and using her skills to give-back and improve the neighborhood she grew up in,” according to Park Manager Tenesha Ware. “Miracle and I planned for her to work at the park while she went to college. Everyone loved Miracle, and her family feels that this program will represent the goodness and upward mobility they saw for her future”.
+EECI is a Watts-based non-profit 501(c)(3) corporation founded in 1989 by Dr. Richard H. Buskirk, the late world-renowned educator and Director of the USC Entrepreneur Program; Barbara J. Stanton, his Assistant and former USC Program Specialist, and Bernadette G. Robert, a Vice President at Mount St. Mary’s College. EECI is committed to designing and implementing educational and training programs aimed at economic and cultural development in the Watts, Willowbrook, Compton, Gardena, Southgate and Lynwood and Carson.
+The EECI-Miracle’s MYAEP is sponsored by Well Fargo Bank, Cathay Bank, First Republic Bank, Boston Private Bank and Trust, First Credit Bank, EverTrust Bank, Pacific Western Bank, Jenkins, Gales &amp; Martinez, McDonald’s – Patricia Williams franchisee, Popeye’s Chicken – Ed Rice franchisee, and Local 33 IATSE.
+		Categories: Business | Crenshaw &amp; Around | News (Business) Tags: #lasentinel | EECI | Entrepreneur Educational Center | Inc | L.A. County Parks After Dark | Miracle’s Young Adult Entrepreneur Program | MYAEP | PAD		
+						Mayor Butts’ Opponent Running Suspect Campaign, Say Supporters 
+						The StarQuest Singing Competition Closes Out on the Hyundai Soundstage Duri...
+						Brotherhood Crusade is Proud to Present the 50th Anniversary Pioneer of Afr...
+						Festivalgoers ‘Felt the Love’ at the 13th Annual Taste of Soul 
+						Dr. William J. Barber II, McArthur Genius Grant Recipient
+						Financial Literacy For Business Owners Workshop #102
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

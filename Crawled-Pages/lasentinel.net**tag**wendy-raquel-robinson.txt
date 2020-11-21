@@ -1,0 +1,244 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Wendy Raquel Robinson
+							Star Power for Taste of Soul Virtual Concert!
+					October 1, 2020Participants can access the Taste of Soul event via livestream at www.tasteofsoul.org. ... read more  »
+							LA Focus’ 22nd Annual First Ladies High Tea  An Elegant Affair
+					September 19, 2019Publisher Lisa Collins, LA Focus hosted the 22nd First Ladies High Tea at the Beverly Hilton Hotel. Apostle Beverly “Bam” Crawford and actress Wendy Raquel Robinson were the Mistress of Ceremonies and on a day when so many powerful and inspiring words were shared, one word captures the entire event most accurately: beautiful.  As Legacy Award Recipient Marla Gibbs quipped “This isn’t low tea, it’s HIGH tea!” ... read more  »
+							Star-Studded Presenters Scheduled for 28th Annual NAACP Theatre Awards
+					June 6, 2019The NAACP Beverly Hills/ Hollywood Branch announced the presenters for the 28th Annual NAACP Theatre Awards on Monday, June 17 ... read more  »
+        ADVERTISEMENT        
+							Amazing Grace Conservatory Presents “Our Westside Story”
+					April 25, 2019The school for the performing arts brings a classic musical with a twist to Los Angeles Southwest College. ... read more  »
+							WATCH: Hyundai Motor America Black History Month Employee Event With Doug E. Fresh
+					March 7, 2019Hyundai Motor America Black History Month Employee Event With Doug E. Fresh,Wendy Raquel Robinson,Danny Bakewell Sr. an many more celebrate African Americans and their contributions.
+ ... read more / watch video »
+							  Hyundai Hosts Annual ‘February Is Black History Month’ 
+					February 28, 2019Hyundai Motor America (North America) held its annual “February is Black History Month” celebration at their corporate facility in Costa Mesa, CA.   ... read more  »
+							WATCH: Hyundai Motor America Black History Month Employee Event With Doug E. Fresh
+					February 27, 2019Hyundai Motor America Black History Month Employee Event With Doug E. Fresh,Wendy Raquel Robinson,Danny Bakewell Sr. an many more celebrate African Americans and their contributions. ... read more / watch video »
+							Tank Speaks On Hosting Trumpet Awards and New Music
+					February 21, 2019 
+The 2019 Trumpet Awards kicked off Sunday Feb. 17 on Bounce TV. The show highlights the achievements of African Americans who are positively creating change in the world. ... read more  »
+							The 10th Annual AAFCA Awards celebrated music icon Quincy Jones
+					February 14, 2019AAFCA celebrated prolific producer Jason Blum and breakthrough filmmaker Aneesh Chaganty while handing out trophies to its AAFCA Award winners ... read more  »
+							Museum of African American Art 20th Annual Lighting of the Holiday Tree Celebration
+					December 13, 2018During the celebration, the event space at the MAAA was named the Carol Jackson Event Hall, in honor of Carol Jackson. ... read more  »
+							On the Road to Taste of Soul with Hyundai Makes a Stop at Wendy Raquel Robinson’s Amazing Grace Conservatory
+					September 13, 2018Hyundai, a Taste of Soul sponsor, presented AGC with a $2500.00 contribution for their community service to Los Angeles. ... read more  »
+							Black Inspirations of 2017 
+					December 28, 2017These Black men and women, through their passions, gave the community inspiration in 2017. ... read more  »
+							Wendy Raquel Robinson and Amazing Grace Conservatory Celebrate 20 Years  
+					November 2, 2017The actress talks about her career, making it in Hollywood and Amazing Grace Conservatory celebrating 20 years. ... read more  »
+							Debra Lee’s Exclusive “pre BET” Event Brings Out Black Hollywood’s Finest
+					June 29, 2017Throughout television history, BET has always been known to showcase and support the budding and advanced careers of artists in the Black community. 
+ ... read more  »
+							The Museum Of African American Art Presents Its Annual Lighting Of The Christmas Tree Celebration
+					November 17, 2016The Museum Of African American Art decorates their Christmas tree with originally created ornaments and invites a packed house of community members and artists ... read more  »
+        &lt;&lt; Older Posts
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->

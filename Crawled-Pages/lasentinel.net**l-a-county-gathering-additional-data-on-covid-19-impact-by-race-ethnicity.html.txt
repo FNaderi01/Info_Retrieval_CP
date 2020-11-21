@@ -1,0 +1,246 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+L.A. County Gathering Additional Data on COVID-19 Impact by Race, Ethnicity            
+				By ELIZABETH MARCELLINO     City News Service                
+	                	                Published April 16, 2020
+		(AP Photo)
+The Los Angeles County Board of Supervisors today pushed to expedite and expand data gathering on the effect of the coronavirus on minority and impoverished communities, as well as essential workers continuing to serve the public during the crisis.
+Supervisors Hilda Solis and Kathryn Barger co-authored a motion to review racial and ethnic demographic data on COVID-19 cases, including a breakdown by age group and socioeconomic status.
+“The fact that many communities of color fare poorly in health outcomes, and are more susceptible to COVID-19, is not an accident,” Solis said. “Decades of institutional racism have made our communities more vulnerable, so we must consider this reality in our policy solutions. We need our public health experts to keep robust data collection on COVID-19 patients to ensure resources are distributed equitably to high-need areas.”
+        ADVERTISEMENT        
+Department of Public Health Director Dr. Barbara Ferrer, who has been running point on the county’s health care response to the coronavirus, has already released some preliminary data showing a slightly higher rate of death among black county residents, but she highlighted the challenges involved in gathering good numbers.
+An analysis by the Los Angeles Times showed a higher rate of infection among affluent communities that public health officials thought might be related to skewed access to testing.
+“We’ve had very little success around gathering accurate information around testing,” Ferrer said. “The best we’ve been able to do to date is looking at zip code data.”
+The team has been collecting information for two weeks, but despite an order from the health officer obligating testing sites to maintain data on race and ethnicity, Ferrer said the county has little control over how forms are filled out at commercial testing labs recruited to help.
+“(We are) trying really hard to make sure that we’re not using the difficulty of getting data as an excuse for not understanding the issue,” Ferrer said.
+The department is working to gather data not only on access to testing, but also rates of hospitalization and mortality rates across racial and ethnic groups.
+Blacks, Latinos, Native Americans and Native Alaskans suffer from higher rates of chronic diseases like diabetes, hypertension, and asthma, making them more susceptible to contracting COVID-19 or requiring hospitalization once exposed to the virus.
+Immigrant families and others with few economic resources often live in close quarters that make it very difficult for anyone who is sick to self- isolate at home.
+Barger said the data would inform how resources are focused and said the county would likely build on health education and intervention campaigns already in place to help disproportionately impacted communities.
+“I believe that we are all in this together,” Barger said, noting that the first look at the numbers made “clear to us that this COVID-19 was impacting minorities far more than any other population.”
+The motion originally called for a report back in 30 days. After Supervisor Mark Ridley-Thomas asked for a seven-day turnaround and heard Ferrer’s comments on the work involved, the board settled on two weeks.
+Based on Ridley-Thomas’ motion, researchers will also seek data specific to essential employees who have continued to work with the public at critical businesses like grocery and drug stores.
+“We must have real-time demographic and socioeconomic data so that we can identify particularly vulnerable populations and allocate resources where they are needed most,” Ridley-Thomas said.
+A COVID-19 drive-up testing site at the Charles R. Drew University of Medicine and Science in Willowbrook became the first in the county to collect detailed demographic data from its inception, according to Ridley-Thomas.
+The university’s president said data gathering is critical.
+“The stakes are too high not to collect this data to inform public health interventions and health policy,” CDU President and CEO David M. Carlisle said.
+Ridley-Thomas asked that the county health department’s Center for Health Equity contextualize the numbers and called for partnerships with academic and community organizations to guide the analysis.
+He said the work is particularly important given the size of Los Angeles County. Given shifts in the earliest reported data, he urged everyone to avoid drawing conclusions until the results are in.
+“We send a significant signal in terms of what we do and how we report it,” he said.
+		Categories: COVID-19 | Health | Local | Political Tags: #lasentinel | #lasentinelnews | 85 Years of LA Sentinel | Black News | Black Press | Charles R. Drew University | City News Service | Coronavirus | COVID-19 | David M. Carlisle | Director Dr. Barbara Ferrer | ELIZABETH MARCELLINO | Kathryn Barger | Los Angeles County Board of Supervisors | Los Angeles Times | public health experts | Supervisor Mark Ridley-Thomas | Supervisors Hilda Solis		
+						Black Los Angeles Makes Demands in Light of COVID-19 and Rates of Black Dea...
+						LA Councilmember Marqueece-Harris Dawson Partners with Lyft to Help Thousan...
+						Assemblymembers Ask Governor Newsom to Establish New State Economic  Assist...
+						Los Angeles City Mayor Speaks with Experts from Medical and First Response ...
+						Video: Rep. Adams’ Women’s Symposium on Maternal Health Breaks Attendan...
+						L.A. District Attorney Cracks Down on Scammers and Price Gauging in the mid...
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->

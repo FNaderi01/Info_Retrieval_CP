@@ -1,0 +1,327 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Los Angeles Dodgers Foundation Partners With City Of Compton Parks &amp; Recreation Department To Expand Youth Baseball And Softball To 360 Additional Participants This Year            
+				By Sentinel News Service                
+	                	                Published March 29, 2019
+		2019 Dodgers RBI Program Will Serve 10,500 Youth Across 85 Locations With New Elements To Include College Preparation Workshops, Trauma Informed Coach Training, and Increased Law Enforcement Participation
+The Los Angeles Dodgers Foundation (LADF) announced today that it will partner with the City of Compton Parks &amp; Recreation Department to expand youth baseball and softball to an additional 360 participants this year. The City of Compton Parks &amp; Recreation Department will join 12 existing partners to implement LADF’s Dodgers RBI program to 10,500 youth at 85 locations in the neighborhoods of Compton, East Los Angeles, Northeast Los Angeles, Inglewood, Hawthorne, Harbor City, Cudahy, Florence-Firestone, South Los Angeles, Long Beach and Lynwood. Details for each location can be found at Dodgers.com/dodgersrbi.
+        ADVERTISEMENT        
+“It’s incredibly hard for youth from low income families to participate in sports. Sports participation matters because of the effects it has on the social, emotional and physical well-being of our youth. Dodgers RBI is all about offering youth who want to play, regardless of income, a chance,” said LADF Chief Executive Officer, Nichol Whiteman. “We know that cities like Compton benefit from our comprehensive sport, education and health programming and we are pleased to welcome them into our youth development family.”
+With an annual median income of $45,000 and 30% of families living below $20,000 a year, Compton is not only low for Los Angeles County, but also well below the United States median income. Children from households with incomes less than $25,000 annually are three times more likely to be physically inactive as kids from high-income homes. Baseball participation is 8% below the national average and the college graduation rate is below 10%. Compton has one of the highest African American populations in Los Angeles County (29.83%). Dodgers RBI places emphasis on increasing participation amongst African American youth, girls and youth ages 13-18.
+Trayce Thompson talks to a group od Dodgers RBI players(Jon SooHoo/ L.A. Dodgers).
+“The City of Compton is excited to partner with the Los Angeles Dodgers Foundation to provide Dodgers RBI to the youth of Compton,” said Marvin Hunt, Director Department of Parks &amp; Recreation. “The ongoing partnership will provide a revitalized program of baseball, tee-ball, and softball to Compton youth. This is a beautiful celebration of sportsmanship and a symbol of unity.”
+In addition to youth baseball and softball, Dodgers RBI helps increase access to education, literacy, health, wellness and recreational resources in underserved communities. New for 2019, the Dodgers RBI program will include college preparation workshops, trauma informed coach training and increased law enforcement participation. Twenty (20) college workshops for 9-12th graders will be customized to each grade level and feature separate parent and student components. In addition, LADF will be granting Dodgers RBI players a special opportunity to meet one-on-one with a college advisor to assist with college selection, preparation and financing. Coach trainings will not only outline the physical skills needed to teach baseball, but it will instill positive coaching methods and techniques appropriate for youth who have experienced any level of trauma. Over 150 law enforcement officials will participate in college workshops, clinics and more.
+In addition to Gold Sponsor Bank of America, 2019 partnering corporations and organizations include:
+·       Program Sponsors – 99 Cents Only Stores, ARCO, California Resources Corporation, IBEW Local 11, Southern California Pipe Trades, Helen and Will Webster Foundation, LA84 Foundation, Los Angeles County Department of Public Works, Los Angeles County Department of Water and Power, California Masonic Foundation, Under Armour Freedom Initiative, and UCLA Health
+·       Program Partners – American Heart Association, Cal Ripken, Sr. Foundation, California State University, Los Angeles, California State University, Northridge, Dasani, Farmer John, Gatorade, LeagueApps, Los Angeles Dodgers Training Academy, Los Angeles Lakers Youth Foundation, Loyola Marymount University, Pepperdine University, Pitch in For Baseball and Softball, Positive Coaching Alliance Los Angeles, Read Conmigo, State Farm, Up2Us Sports, University of Southern California, and Vision to Learn.
+Returning Dodgers RBI partners include:
+o   Boys &amp; Girls Club of West San Gabriel Valley (Includes Public Housing Developments)
+o   City of Hawthorne Recreation &amp; Community Service Department
+o   YMCA of Metropolitan Los Angeles
+o   City of Lynwood Recreation and Community Services Department
+o   City of Inglewood Parks, Recreation and Community Services
+o   City of Long Beach Department of Parks, Recreation, &amp; Marine
+o   City of Los Angeles Department of Recreation and Parks
+o   County of Los Angeles Department of Parks and Recreation East County Community Services Agency
+o   County of Los Angeles Department of Parks and Recreation South County Community Services Agency
+o   Hollywood Indies Little League (HILL)
+o   Los Angeles Boys &amp; Girls Club
+o   MLB Youth Academy in Compton
+		Categories: Baseball | Education | Family | Lifestyle | Sports Tags: baseball | Compton | Cudahy | Dodgers Foundation | east los angeles | Florence-Firestone | Harbor City | Hawthorne | inglewood | low income communities | Northeast Los Angeles | workshops		
+						Crossroads School Equity and Justice Institute to Host Helen Gym
+						WATCH: First Ladies of L.A. City Council Pt. 1
+						WATCH: First Ladies of L.A. City Council Pt. 2
+						WATCH: The First Ladies of L.A. City Council Pt. 3
+						WATCH: The First Ladies of L.A. City Council Pt. 4
+						Sprouts Farmers Market Hiring for New Los Angeles Store
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

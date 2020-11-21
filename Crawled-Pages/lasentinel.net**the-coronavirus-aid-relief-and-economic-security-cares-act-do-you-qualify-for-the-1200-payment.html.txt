@@ -1,0 +1,282 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+The Coronavirus Aid, Relief, and Economic Security (CARES) Act, Do You Qualify For the $1,200 Payment?            
+				By The Office of Congressmember Karen Bass                
+	                	                Published March 30, 2020
+Rep. Karen Bass (D-Calif.)
+On Friday, March 27, 2020, the bipartisan Coronavirus Aid, Relief, and Economic Security (CARES) Act was signed into law after the House of Representatives passed it earlier that day. The bill is the largest relief package signed into law in United States history and will impact nearly every person in this country.
+The Office of Congressmember Karen Bass will update this page with information about to how to apply for relief as information is made available. If you have any questions, please call (323) 965-1422.
+Frequently Asked Questions:
+Coronavirus Stimulus: Q&amp;A Related to Individuals
+Coronavirus Stimulus: Q&amp;A Related to Businesses 
+Coronavirus Stimulus: Q&amp;A Related to Health Care
+Coronavirus Stimulus: Q&amp;A Related to Education
+Coronavirus Stimulus: Q&amp;A Related to State, Local and Tribal Governments 
+Coronavirus Stimulus: Q&amp;A Related to Veterans 
+Find out how you will be impacted below:
+Direct Payments to Taxpayers
+In an effort to move as fast as possible to assist those whose jobs and businesses are affected by the pandemic, the stimulus will provide one-time payments to taxpayers. The stimulus will provide a one-time payment of $1,200 to qualifying adults with no annual income or incomes not exceeding $75,000 per year. A one-time payment of up to $2,400 will be provided to joint-filers with an annual income totaling less than $150,000. Families will also receive an additional $500 per child, in an attempt to create a safety net for those whose jobs and businesses are affected by the pandemic. Click here for answers to frequently asked questions regarding this direct payment.
+Employment
+The stimulus package includes a significant expansion of unemployment benefits that would extend jobless insurance payments by 13 weeks. It also includes a temporary four-month enhancement of benefits, called Federal Pandemic Unemployment Compensation (FPUC), which would boost the maximum unemployment benefit by $600 per week. FPUC will be paid in addition to, and in the same timeframe as, regular state or federal unemployment benefits. These payments will not affect eligibility for the Children’s Health Insurance Program (CHIP) or for MediCal.
+        ADVERTISEMENT        
+The unemployment benefits were broadened to include freelancers, furloughed employees, and gig workers such as rideshare drivers.  States will temporarily receive full federal funding if the state unemployment agency provides “work sharing” programs or Short-Time Compensation. At the insistence of Democrats, the program was broadened to include freelancers, furloughed employees and gig workers, such as rideshare drivers.  States will temporarily receive full federal funding for states that provide “work sharing” programs or Short-Time Compensation.
+You can find more information from the California Employment Development Department (EDD) about unemployment benefits, as well as disability benefits (if you are ill or quarantined due to the coronavirus) or paid family leave (if you are caring for a child home from school or  someone who is ill) here: https://edd.ca.gov/about_edd/coronavirus-2019/faqs.htm
+Housing
+The bill provides $4 billion for Emergency Solutions Grants, available to assist state and local agencies working with those who are either unhoused or at risk of becoming homeless.
+The previous Phase 2 bill ordered a prohibition of evictions from HUD-administered housing for 3 months. The new bill includes $3 billion for the Department of Housing and Urban Development to assist individuals to safely remain in their homes or access temporary housing assistance in response to economic and housing disruptions caused by COVID-19. This funding will help low-income and working class Americans avoid evictions and minimize impacts caused by loss of employment and child care, or other unforeseen circumstances related to COVID-19.
+Among other things, the bill provides:
+$1.9 billion to a$1.9 billion to allow public housing agencies (PHAs) to keep over 3.2 million Section 8 voucher and public housing households stably housed;
+$1 billion to allow the continuation of housing assistance contracts with private landlords for over 1.2 million Project-Based Section 8 households;
+$65 million for housing for the elderly and persons with disabilities, including rental assistance, service coordinators, and support services for the more than 144,000 households and low-income persons in those programs;
+$65 million for Housing Opportunities for Persons with AIDS;
+A moratorium on foreclosures on federally-backed mortgages for at least 60 days, with up to 180 days forbearance;  llow public housing agencies (PHAs) to keep over 3.2 million Section 8 voucher and public housing households stably housed.
+Small Businesses and Nonprofit Organizations
+The bill provides $350 billion in a new “Paycheck Protection Program” for small businesses and nonprofit organizations with fewer than 500 employees.  It is modeled after the existing SBA 7(a) loan program many businesses already know.  The assistance is in the form of zero cost, zero interest loans for six months, extendable to 12 months if certain conditions related to employee retention or re-hire are met.  The loans are aimed at supporting payroll costs (including healthcare), rent or mortgage payment, and utilities bills for the business or nonprofit.  The loans are 100% guaranteed by the federal government, so lenders have a strong incentive to move the money out quickly, and an amount up to 8 weeks of those operating costs (through June 30, 2020) can be forgiven and would not have to be repaid.  The bill also expands the Small Business Administration (SBA) Economic Injury Disaster Loan program.  Both programs now have relaxed the requirements to qualify.  Previous stimulus efforts signed into law in early March 2020 also put $50 billion aside for the Small Business Administration.
+These programs are designed to assist businesses to remain open and keep their employees on payroll or (even re-hire employees laid off) while responding to this emergency. And remember that employees whose hours are reduced due to the current emergency can remain on payroll while also filing for partial unemployment insurance.
+Additionally, the self-employed, sole proprietors, and freelance and gig economy workers are eligible to apply. Businesses, even without a personal guarantee or collateral, can get a loan as long as they were operational on February 15, 2020. For more information, contact our office.
+Food Assistance
+The stimulus includes $15.8 billion in additional funding for SNAP (known as CalFresh in California) to ensure all Americans, including seniors and children, receive the food they need. Child Nutrition Programs will receive an additional $8.8 billion to support students receiving meals while school is not in session. The Emergency Food Assistant Program (TEFAP) will receive $450 million to provide resources to food banks.
+These programs are administered by Los Angeles County, which can also help identify a nearby food bank or meal program. More info here: http://dpss.lacounty.gov/wps/portal/dpss/main/programs-and-services/calfresh/
+Testing
+Medicare and private insurers will be required to cover treatment and prevention. The bill includes $4.3 billion for the Centers for Disease Control and Prevention to support federal, state, and local public health agencies to prevent, prepare for, and respond to the coronavirus. The CARES Act includes $75 million for the National Science Foundation (NSF) to support research to better understand coronavirus genetics, modes of action, transmission, virulence and population dynamics, and $6 million for the National Institute of Standards and Technology to conduct research and measurement science to support testing and treatment of coronavirus. These funds are just a start on the massive investment in testing that will be required to fully address this emergency.
+Health Care Infrastructure
+The stimulus includes more than $100 billion for hospitals and health systems across the nation. It also includes billions more to increase testing supplies, furnish personal protective equipment (PPE) for health care workers, and support new construction to house patients. The package will also increase Medicare payment to all hospitals and providers. A few highlights listed here:
+$1.3 billion for Community Health Centers
+Extends funding for CHCs, National Health Services Corps, Teaching Centers, and Special Diabetes Program through November 30, 2020
+$1 billion to rapidly increase the manufacturing of medical supplies.
+Suspends cuts to Medicare until December 31, 2020
+Education Funding and Student Loans
+For elementary and secondary education, $13.5 billion will be available for formula-grants to states, which will then distribute 90 percent of funds to local educational agencies (school districts) to use for coronavirus-response activities, such as planning for and coordinating during long-term school closures; purchasing educational technology to support online learning for all students; and additional activities authorized by federal elementary and secondary education laws.
+$14.25 billion will be available for emergency relief to institutions of higher education to prevent, prepare for, and respond to coronavirus.  Funds may be used to defray expenses such as lost revenue, technology costs associated with a transition to distance education, and grants to students for food, housing, course materials, technology, health care, and child care.
+For Federal Direct Student Loan borrowers through the US Department of Education, payments are automatically suspended without interest for the 6 months following the signing of the stimulus into law. During this timeframe tax and wage garnishments related to defaults on federal student loans are also suspended. This does not apply to Perkins Loans or some Federal Family Education Loans (FFELs) that are held by private lenders.  Borrowers with excluded loans may be able to refinance into a Direct Student Loan in order to benefit from these provisions.  It is always wise to contact your lender.
+Foreign Affairs
+The stimulus includes $353 million for the United States Agency for International Development (USAID) operating expenses and international disaster assistance.  The bill provides $95 million for operational needs of USAID, including support for evacuations and ordered departures of overseas staff, surge support, increased technical support for remote functions, and other needs. It also provides $258 million for USAID to respond to the extraordinary needs in other countries that are under-equipped to respond to the pandemic.  The funding will prioritize populations affected by ongoing humanitarian crises, particularly displaced people, because of their heightened vulnerability, the elevated risk of severe outbreaks in camps and informal settlements, and anticipated disproportionate mortality in these populations.
+Paid Leave
+The “Phase 2” Families First Coronavirus Response Act, which was sThe “Phase 2” Families First Coronavirus Response Act, which was signed into law on March 18, 2020, included two new refundable payroll tax credits for small and mid-size employers, designed to immediately and fully reimburse them for the cost of providing Coronavirus-related leave to their employees.  It will reimburse, per employee, up to 80 hours of paid sick leave and expanded paid child care leave when employees’ children’s schools are closed or child care providers are unavailable.  Health insurance costs are also included in the credit. Self-employed individuals can receive an equivalent credit. Parents who have to stay home to care for their children amid widespread school closures are eligible for up to 12 weeks of paid family leave, generally administered through the state unemployment agency.
+Regarding Large Impacted Companies
+At the Senate’s insistence, the bill provides loans for distressed companies from a $454 billion fund controlled by the Federal Reserve. An additional $46 billion would be available for industry-specific loans, including to airlines, hotels and cargo carriers. Democrats successfully pressed for immediate disclosure of any loan recipients and stronger oversight, including installing an inspector general and Congressionally-appointed board to monitor the funds. Companies that benefit could not engage in stock buybacks while they received government assistance, and for an additional year after that. Democrats also secured a provision ensuring that Trump family businesses — or those of any other senior government officials — cannot receive loan money through that fund, though they could potentially still benefit from other parts of the bill.
+Criminal Justice
+The stimulus includes $850 million for state and local law enforcement as well as $100 million for the Federal Bureau of Prisons to respond to the coronavirus pandemic. This funding will be used to pay for overtime and to acquire resources to meet the urgent needs of those in custody, corrections officers, and other law enforcement personnel. These resources include testing kits, the purchase of personal protective equipment (PPE),  and other necessary medical resources.
+The Director of the Bureau of Prisons was also granted the authority to determine which low-risk offenders could be released to home confinement during this emergency. The usual consideration related to time served and time remaining on a sentence will not apply. Unfortunately, those in custody who are highly susceptible to COVID-19 such as pregnant women, people over the age of 55, or those living with serious chronic medical conditions were not given a priority for immediate release in this compromise.
+The bill also includes $55 million for the Federal Bureau of Investigation (FBI), Drug Enforcement Administration (DEA), U.S. Marshals Service, and U.S. Attorneys to respond to the coronavirus crisis and for information technology improvements.
+Local Relief
+The stimulus includes $150 billion for state and local governments to further assist their efforts in combatting this outbreak.
+More Information
+You can find more resources and answers to frequently asked questions here.
+		Categories: Business | COVID-19 | Health | Lifestyle | Local | National | News (Business) | News (Family) | Political Tags: (CARES) Act | and Economic Security | California Employment Development Department | Congresswoman Karen Bass | Coronavirus | coronavirus outbreak | Coronavirus pandemic | Coronavirus/COVID-19 | COVID-19 | Karen Bass | relief | The Coronavirus Aid		
+						10 L.A. First Responders contracted the COVID-19 virus, most recovered and ...
+						Census Day Is Here in Southern California  – Make It Count!
+						2020 Census Alert: A Message from Rep. Maxine Waters
+						L.A. COUNTY RECOGNIZES NATIONAL CENSUS DAY
+						L.A. Officials Apply Pressure to Participate in 2020 Census, Due to Heavy U...
+						Councilmember Harris-Dawson Launches Meal Program to Support South L.A Seni...
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->

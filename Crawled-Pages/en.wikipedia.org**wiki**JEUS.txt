@@ -1,0 +1,432 @@
+	JEUS
+		From Wikipedia, the free encyclopedia
+		Jump to navigation
+		Jump to search
+		This article relies largely or entirely on a single source. Please help improve this article by introducing citations to additional sources.Find sources: "JEUS" – news · newspapers · books · scholar · JSTOR  (March 2014)
+Not to be confused with Jesus.
+MR.worldwideDeveloper(s)TmaxSoftStable release8.0
+   /    August 2013 (2013-08)
+Operating systemCross-platformTypeApplication ServerLicenseProprietaryWebsitetmaxsoft.com
+JEUS (an abbreviation of Java Enterprise User Solution) is a Korean Web application server which is developed by TmaxSoft. JEUS provides the web application server component of TmaxSoft's middleware-tier framework solution. It has been widely adopted in Korea where it holds the largest (42.1%) share of the market.[1]
+TmaxSoft released JEUS 1.0 in 2000. In 2001, it received J2EE 1.2 certification for JEUS 3.0.,[2] In 2013, it received the world’s first Java EE 7 certification for JEUS 8.[3]
+Contents
+1 History
+2 Features
+3 WebtoB
+4 Java EE Certification
+5 Minimum Installation Requirements
+6 Edition
+7 Specifications support by version
+8 Competitor Products
+9 See also
+10 References
+History[edit]
+JEUS was launched in April 2000. The following table shows a list of versions and release dates:
+Product/Version
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+JEUS
+2000.04
+2001.02
+2002.05
+2003.03
+2005.05
+2007.06
+2012.06
+2013.08
+Features[edit]
+JEUS 7 provides the following features:
+Cloud Architecture Support
+Domain Architecture: (JEUS 7) supports a massive scale computing environment with lightweight and speedy distributed clustering.
+Dynamic Clustering: A core function that enables rapid elasticity which allows the administrator to easily add and delete idle resources as needed.
+Graceful Redeployment: When application redeployment is needed during operation, a continuous service environment is provided by guaranteeing the completion of processing of session requests prior to redeployment.
+Consolidated Caching
+Superior performance is provided for large-scale requests, by the improved caching function.
+Memory is managed efficiently by the use of an optimized LRU Processing Algorithm that improves performance.
+Stable Large Capacity Transaction Processing
+When connected to the WebtoB server, stable large-scale transaction processing ability is exhibited, due to Multiplexing I/O, Request Queuing, Dynamic Load Balancing, and Stream Pipe Communication
+Hot Swap
+By reloading only the modified class instead of the entire class, when a function is modified, development productivity is dramatically improved.
+WebtoB[edit]
+WebtoB is the web server component that complements JEUS as TmaxSoft's middleware-tier solution.[4] WebtoB uses a multi-thread architecture, which allows it to address multiple requests through a single process. Other features include disk and memory caching, load balancing, clustering, dynamic queuing and the ability to add additional nodes without interrupting operations, all of which help improve the server's speed and stability. WebtoB uses secure sockets layer and operates without open firewall ports, which inherently provides for stronger data security. Administrators can also configure access control lists.[5]
+Java EE Certification[edit]
+JEUS 3.0 : J2EE 1.2 certified, 2002[6]
+JEUS 4.0 : J2EE 1.3 certified, 2004[7]
+JEUS 5.0 : J2EE 1.4 certified, 2005[8]
+JEUS 6.0 : Java EE 5 certified, 2007[9]
+JEUS 7.0 : Java EE 6 certified, 2012[10]
+JEUS 8.0 : Java EE 7 certified[11]
+Minimum Installation Requirements[edit]
+The following shows the minimum installation requirements for JEUS[12]
+Windows 2000, 2003, XP, Vista
+500MB or more of Hard Disk Space
+128MB RAM
+Solaris, HP-UX, AIX, Linux
+500MB or more of Hard Disk space
+Edition[edit]
+There are two editions of JEUS available:
+Standard Edition
+Enterprise Edition
+Specifications support by version[edit]
+Specification
+Jeus 4.2
+Jeus 5
+Jeus 6
+Jeus 7
+J2EE
+J2EE 1.3
+J2EE 1.4
+Java EE 5
+Java EE 6
+HTTP
+1.0/1.1
+1.0/1.1
+1.0/1.1
+1.0/1.1
+CGI
+1.1
+1.1
+1.1
+1.1
+PHP
+3.x/4.x
+3.x/4.x
+3.x/4.x/5.x
+3.x/4.x/5.x
+SSL
+SSL2/SSL3/TLS1
+SSL2/SSL3/TLS1
+SSL2/SSL3/TLS1
+/SSL3/TLS1
+EJB
+2.0 (2.1 partially)
+2.1
+2.1
+3.1
+Java persistence API
+-
+-
+1.0
+2.0
+RMI-IOP
+Supported
+Supported
+Supported
+Supported
+Deployment API
+-
+1.1
+1.2
+1.2
+JSP
+1.2
+2.0
+2.1
+2.2
+Servlet
+2.3
+2.4
+2.5
+3.0
+JSF
+-
+-
+1.2
+2.0
+JSTL
+-
+-
+1.2
+1.2
+JTA
+1.0.1B
+1.0.1B
+1.1
+1.1
+JTS
+1.0
+1.0
+1.0
+1.0
+JMS
+1.1
+1.1
+1.1
+1.1
+JNDI
+1.2.1
+1.2.1
+1.2.1
+1.2.1
+JDBC
+3.0
+3.0
+3.0
+4.0
+JAAS
+1.0.1
+1.0.1
+1.0.1
+1.0.1
+JCA (Connector)
+1.0
+1.5
+1.5
+1.6
+SAAJ
+1.1/1.2
+1.1/1.2
+1.3
+1.3
+JACC
+N/A
+1.0
+1.0
+1.3
+SOAP
+1.1
+1.1/1.2
+1.1/1.2
+1.1/1.2
+WSDL
+1.1
+1.1
+1.1
+1.1
+UDDI
+2.0
+2.0/3.0
+2.0/3.0
+2.0/3.0
+JAX-RPC
+1.0
+1.1
+1.1
+1.1
+JAX-WS
+-
+-
+2.1
+2.2
+Web Service Metadata
+-
+-
+2.0
+2.1
+WS-Addressing
+-
+-
+1.0
+1.0
+WS-Reliable Messaging
+-
+-
+1.1
+1.1
+WS-Security
+-
+1.0
+1.0/1.1
+1.1
+WS-Policy
+-
+-
+1.0
+1.0
+WS-Security Policy
+-
+-
+1.2
+1.2
+WS-Trust
+-
+-
+1.3
+1.3
+WS-Secure Conversation
+-
+-
+1.3
+1.3
+WS-Policy Attachment
+-
+-
+1.0
+1.5
+JAF
+-
+1.0.2
+1.0.2
+1.1
+JAXB
+-
+1.0
+2.1
+2.2
+JAXP
+1.0
+1.2
+1.2
+included in Java SE 6
+JAXR
+-
+1.0
+1.0
+1.0
+XSLT
+1.0
+1.0
+1.0
+1.0
+Java IDL API
+-
+Supported
+Supported
+Supported
+OTS
+Not Supported
+Supported
+Supported
+Supported
+IDE Tool
+Supported
+Supported
+Supported
+Not Supported
+GUI Tool
+JManager
+JUESBuilder
+Not Supported
+Not Supported
+Web Tool
+WebManager
+WebManager
+WebManager
+WebAdmin
+J2EE Management
+-
+1.0
+1.1
+1.1
+Monitoring Tool
+Jmanager, WebManager Console Tool
+Console Tool, WebManager
+Console Tool, WebManager
+Console Tool, WebAdmin
+JDK
+1.3/1.4
+1.4/5.0
+5.0/6.0
+6.0/7.0
+Competitor Products[edit]
+WebLogic : produced by Oracle. United States
+WebSphere: produced by IBM. United States
+See also[edit]
+Web server
+Web application server
+TmaxSoft
+References[edit]
+^ 1. IDC Korea,2014 
+^ JavaEE 1.2 Certification. http://www.oracle.com/technetwork/java/javaee/1-142872.html
+^ “티맥스, '제우스8' 자바 EE7 인증”, ZDNet Korea, Created 2012-9-3. Retrieved 2013-9-6.
+^ "Middleware Products | JEUS | WebtoB | TmaxSoft". TmaxSoft. Retrieved 2017-11-15..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}
+^ "JEUS and WebtoB - JM Consulting &amp; Systems". jm-sys.com. Retrieved 2017-11-15.
+^ JavaEE 1.2 Certification. http://www.oracle.com/technetwork/java/javaee/1-142872.html
+^ JavaEE 1.3 Certification. http://www.oracle.com/technetwork/java/javaee/compatibility-1-139920.html
+^ JavaEE 1.4 Certification. http://www.oracle.com/technetwork/java/javaee/compatibility-1-138385.html
+^ 6.	Java EE Certification.  http://www.oracle.com/technetwork/java/javaee/licensees-138280.html
+^ Java Community Process Membership https://www.jcp.org/en/participation/members/T
+^ “티맥스, '제우스8' 자바 EE7 인증”, ZDNet Korea, Created 2012-9-3. Retrieved 2013-9-6.
+^ JEUS Brochure p5. Accessed Feb. 28 2014
+vteWeb server softwareComparisonsMost popular
+Apache
+Nginx
+IIS
+IIS Express
+LiteSpeed Web Server
+Other
+AOLserver
+Caddy
+Caudium
+Cherokee
+GlassFish
+Gunicorn
+H2O
+Hiawatha
+iPlanet
+Jetty
+JEUS
+Jexus
+JOnAS
+Lighttpd
+Mongoose
+Mongrel2
+Monkey
+NaviServer
+NetWeaver
+OpenResty
+Passenger
+Paste
+POCO
+Puma
+PyGopherd
+Resin
+Roxen
+thttpd
+Tomcat
+Tornado
+Traffic Server
+Twisted
+WebLogic
+WEBrick
+WebSphere
+WildFly
+Yaws
+Zope
+Retired
+Boa
+CERN httpd
+Mongrel
+NCSA HTTPd
+Xitami
+Zeus
+Retrieved from "https://en.wikipedia.org/w/index.php?title=JEUS&amp;oldid=913390802"
+		Categories: Java enterprise platformService-oriented architecture-related productsWeb server softwareHidden categories: Articles needing additional references from March 2014All articles needing additional references
+	Navigation menu
+		Personal tools
+		Not logged inTalkContributionsCreate accountLog in
+		Namespaces
+		ArticleTalk
+		Variants
+		Views
+		ReadEditView history
+		More
+		Search
+		Navigation
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		Contribute
+		HelpLearn to editCommunity portalRecent changesUpload file
+		Tools
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		Print/export
+		Download as PDFPrintable version
+		Languages
+		한국어ItalianoРусский
+		Edit links
+		 This page was last edited on 31 August 2019, at 20:14 (UTC).
+		Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+		Privacy policy
+		About Wikipedia
+		Disclaimers
+		Contact Wikipedia
+		Mobile view
+		Developers
+		Statistics
+		Cookie statement

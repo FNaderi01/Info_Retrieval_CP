@@ -1,0 +1,198 @@
+      Nhảy đến nội dung
+        Trung tâm Trợ giúp
+  Header navigation
+                  Tổng quan
+                  Doanh nghiệp
+  Header navigation - actions
+        Tìm kiếm
+  Header navigation - anonymous
+        Đăng nhập
+        Trang chủ Pinterest
+  Open menu
+          Tổng quan
+          An toàn và truy cập tài khoản
+          Sự cố với Pinterest
+          Pháp lý &amp; Quyền riêng tư
+          Quản lý tài khoản của bạn
+          Ghim và bảng
+          Doanh nghiệp
+          Ads measurement
+          Ads reporting
+          Build your organic presence on Pinterest
+          Quản lý hồ sơ doanh nghiệp của bạn
+          Shopping on Pinterest
+          Thanh toán và tính phí Ghim Quảng cáo
+          Quảng cáo trên Pinterest
+            An toàn và truy cập tài khoản
+            Sự cố với Pinterest
+            Pháp lý &amp; Quyền riêng tư
+            Quản lý tài khoản của bạn
+            Ghim và bảng
+            Ads measurement
+            Ads reporting
+            Build your organic presence on Pinterest
+            Quản lý hồ sơ doanh nghiệp của bạn
+            Shopping on Pinterest
+            Thanh toán và tính phí Ghim Quảng cáo
+            Quảng cáo trên Pinterest
+              Theo dõi chuyển động và bên thứ ba
+            Có vẻ như bạn đang xem nội dung này từ một khu vực mà Thẻ Pinterest chưa hoạt động. Xem các khu vực mà tài khoản Pinterest Business có thể sử dụng Thẻ Pinterest.
+  Tìm hiểu thêm
+            Bạn có thể thêm phần theo dõi bên thứ ba vào quảng cáo của mình để theo dõi hoạt động Pinterest của bạn thông qua các nền tảng khác. Ví dụ: bạn có thể theo dõi các nhấp chuột với URL của bên thứ ba, như trình quản lý chiến dịch trên Google DoubleClick (DCM) hoặc Kenshoo, để xác minh phân phối chiến dịch và thu thập dữ liệu báo cáo.
+Thêm theo dõi bên thứ ba vào quảng cáo của bạn
+Chúng tôi hỗ trợ theo dõi lượt hiển thị và hai hình thức theo dõi lượt nhấp: theo dõi lượt nhấp chuyển hướng chéo miền và theo dõi lượt nhấp song song.
+Theo dõi nhấp chuột của bên thứ 3 chéo miền (X-domain)
+Có một số nhà cung cấp bên thứ 3 cho dịch vụ theo dõi lượt nhấp: Google [DoubleClick], Adobe [DTM], Facebook, Flashtalking, v.v. Các URL này bắt đầu bằng miền của bên thứ 3 và chuyển hướng đến miền và trang đích của bạn. Trình duyệt của người dùng sẽ tải ngay một miền theo dõi của bên thứ 3 trước khi tải trang đích cuối cùng của bạn. Các vấn đề thường gặp là liên kết bị hỏng và các vấn đề mã hóa theo phần trăm.
+Các URL này được đặt trong trường "URL đích của quảng cáo" trong Trình quản lý quảng cáo hoặc cột trong trình chỉnh sửa hàng loạt.
+Theo dõi nhấp chuột song song
+Bằng tính năng theo dõi lượt nhấp song song, Pinterest ping URL theo dõi lượt nhấp song song với URL đích của quảng cáo. Điều này làm giảm thời gian từ lúc người dùng nhấp vào Pinterest tới khi trang đích của nhà quảng cáo tải. Các URL theo dõi lượt nhấp song song không được trình duyệt của người dùng tải và không chuyển hướng đến trang đích cuối cùng, các URL sẽ chỉ được ping để theo dõi sự kiện.
+Các URL theo dõi lượt nhấp song song được đặt trong cột "URL theo dõi bên thứ ba" trong trình chỉnh sửa hàng loạt cùng với các URL theo dõi lượt hiển thị.
+Theo dõi lượt hiển thị
+Với chức năng theo dõi lượt hiển thị, bạn có thể xác minh việc chạy quảng cáo của mình trên Pinterest. Chúng tôi hỗ trợ các đối tác theo dõi lượt hiển thị sau:
+Doubleclick (DCM)
+Atlas
+Sizmek
+Flashtalking
+Trueffect
+Bạn có thể thêm liên kết theo dõi lượt hiển thị vào chiến dịch của mình qua trường "URL theo dõi" khi tạo quảng cáo. Chọn "lượt hiển thị" và dán URL từ bên thứ ba của bạn vào hộp văn bản.
+Để thêm URL lượt hiển thị qua trình chỉnh sửa hàng loạt, hãy sử dụng cột 'URL theo dõi bên thứ ba của quảng cáo'.
+Thêm các tham số theo dõi động
+Bạn có thể thêm các tham số theo dõi động vào URL trực tiếp hoặc ngoài các URL theo dõi bên thứ ba của bạn. Chúng tôi cũng hỗ trợ các tham số theo dõi động, điều này cho phép các nhà quảng cáo thu thập thông tin bổ sung từ Pinterest khi nhấp vào mục đích theo dõi chiến dịch. Chúng là văn bản giữ chỗ bắt đầu và kết thúc trong dấu ngoặc nhọn và có thể được thêm vào URL.
+Các tham số động được hỗ trợ cho URL đích quảng cáo tiêu chuẩn:
+{campaignid}
+{campaign_name}, {campaignname}
+{adgroupid}
+{adgroup_name}, {adgroupname}
+{keyword}
+{keyword_id}
+{creative_id} - id quảng cáo ghim
+{adid} - ID quảng cáo ghim
+{device} - 't', 'c' hoặc 'm' cho máy tính bảng, máy tính hoặc điện thoại di động
+Các thông số động được hỗ trợ cho theo dõi lượt nhấp song song và theo dõi lượt hiển thị (phía máy chủ):
+{campaignid}, {campaign_id}
+{campaign_name}, {campaignname}
+{adgroupid}, {ad_group_id}
+{adgroupname}, {ad_group_name}
+{adid}, {ad_id}, {creativeid}, {creative_id}  - id quảng cáo ghim
+{itemid}, {iterm_id} - id mục của quảng cáo ghim
+{insertionid}, {insertion_id} - id chèn của quảng cáo ghim
+{creative_name} - tên quảng cáo ghim
+{device} - 't', 'c' hoặc 'm' cho máy tính bảng, máy tính hoặc điện thoại di động
+{device_platform} - loại thiết bị di động, ‘iOS’, ‘Android’ hoặc chuỗi trống
+{publisher} - được mã hóa cứng là ‘Pinterest’
+{timestamp}, {click_timestamp}, 
+Ví dụ: một URL đích được cung cấp bởi một nhà bán lẻ có thể trông như thế này: retailer.com/mens-clothing/?cid={campaignid}. Nếu ID chiến dịch của Pinterest là 1234, thì chúng tôi sẽ phân phối URL này là retailer.com/mens-clothing/?cid=1234.
+Các thông số động cụ thể cho Chiến dịch tìm kiếm:
+{keyword} - chuỗi từ khóa được mã hóa theo phần trăm (ví dụ: %20shoes chạy) khớp với quảng cáo tiêu chuẩn
+{keyword_id} - ID từ khóa khớp với quảng cáo tiêu chuẩn
+Các thông số động chúng tôi không hỗ trợ sẽ bị bỏ qua. Ví dụ: nếu nhà bán lẻ cung cấp URL retailer.com/mens-clothing/?cid={CAMPAIGN-ID}, chúng tôi sẽ bỏ qua các tham số theo dõi và chỉ sử dụng URL là retailer.com/mens-clothing/?cid={CAMPAIGN-ID}.
+Các thông số động cụ thể cho Chiến dịch mua sắm:
+{product_partition_id} - ID nhóm sản phẩm
+{Product_Id} - ID sản phẩm
+{lpurl} - Chỉ được sử dụng trong cấu trúc chiến dịch và sẽ được thay thế bằng URL từ trường “ad_link” hoặc “link” trong nguồn cấp dữ liệu. * {lpurl} sẽ tự động mã hóa, cũng như mã hóa các ký tự sau: ?, =,", #, \t, ', và [khoảng trống] khi đặt sau hoặc trong một URL theo dõi. ** Khi đặt trước URL theo dõi, {lpurl} sẽ không mã hóa.
+Ví dụ:
+URL liên kết:  http://hello.world.com/shoes-sneakers
+Theo dõi URL: https://ad.tracker.com
+(lpurl)? http://AD.tracker.com trở thành http://hello.World.com/Shoes-sneakers?https://AD.tracker.com
+https://ad.tracker.com?{lpurl} trở thành https://ad.tracker.com?http%3A%2F%2Fwww.helloworld.com%2Fshoes-sneakers
+(unescapedlpurl) - không mã hóa các URL liên kết hoặc bất kỳ ký tự bổ sung sau URL bất kể vị trí
+Vui lòng lưu ý rằng tham số {keyword} không được hỗ trợ để theo dõi liên kết trên bất kỳ quảng cáo nào.
+Các tham số động cụ thể cho quảng cáo bộ sưu tập:
+{organic_url} - toàn bộ URL được cung cấp khi tạo Ghim
+Để tìm hiểu thêm về URL đích và các tham số theo dõi cho quảng cáo bộ sưu tập, hãy đọc hướng dẫn của chúng tôi về cách Theo dõi quảng cáo bộ sưu tập.
+  Các bài viết khác
+  Skip Các bài viết khác Links
+      Thẻ Pinterest
+                        Cài đặt mã cơ sở
+                                Cài đặt, xóa hoặc khôi phục Thẻ Pinterest
+                                Kiểm tra các sự kiện Thẻ Pinterest
+            Xem thêm
+                                Mã cơ sở
+                                Mã IMG
+                                Mã sự kiện
+                                Thêm mã sự kiện
+                                Theo dõi chuyển đổi bằng thẻ Pinterest
+                                Tiện ích mở rộng Chrome Pinterest Tag Helper
+                                Triển khai thẻ Pinterest
+                                Ví dụ về các mã cơ sở và mã sự kiện kết hợp
+                                Ví dụ về mã sự kiện
+                                Đối sánh nâng cao
+      Tích hợp thẻ Pinterest
+                        Thêm thủ công thẻ Pinterest vào Shopify
+      Theo dõi bên thứ ba
+                        Theo dõi chuyển động và bên thứ ba
+                                Theo dõi quảng cáo bộ sưu tập
+      Conversions
+                        Tải lên lượt chuyển đổi bằng LiveRamp
+                                Tải lên lượt chuyển đổi với Trình quản lý quảng cáo
+                                Tải lên lượt chuyển đổi để đo lường
+  End of Các bài viết khác Links
+            Bạn vẫn cần trợ giúp?
+                Liên hệ
+    User feedback
+              Bài viết này có hữu ích không?
+        vui
+        buồn
+        collection_fields
+        Chúng tôi có thể cải thiện bài viết này bằng cách nào?
+      Additional Response
+      Leave this field blank
+        Pinterest sử dụng cookie để mang đến cho bạn trải nghiệm tốt nhất có thể.
+        Đã hiểu!
+    Skip Footer Menu
+    Chọn ngôn ngữ
+                      English (US)
+                              Bahasa Indonesia
+                              Čeština
+                              Dansk
+                              Deutsch
+                              English (UK)
+                              Español
+                              Français
+                              Italiano
+                              Magyar
+                              Nederlands
+                              Norsk bokmål
+                              Polski
+                              Português (Brasil)
+                              Português (Europeu)
+                              Română
+                              Slovenčina
+                              Suomi
+                              Svenska
+                              Filipino
+                              Tiếng Việt
+                              Türkçe
+                              Ελληνικά
+                              Русский
+                              Ukrainian
+                              ภาษาไทย
+                              简体中文
+                              繁體中文
+                              한국어
+                              日本語
+            Giới thiệu
+                    Impressum
+                    Pinterest là gì
+                    Trang Pinterest
+                    Blog kỹ thuật
+                    Hướng dẫn thương hiệu
+                    Nghề nghiệp
+                    Trung tâm Trợ giúp
+                    Pinterest Labs
+            Chính sách của chúng tôi 
+                    Bản quyền
+                                          và
+                            thương hiệu
+                    Quảng cáo được cá nhân hóa
+                    Điều khoản Dịch vụ
+                    Quyền riêng tư
+                                          và
+                            cookies
+            Thông tin khác
+                    Dành cho doanh nghiệp
+                    Dành cho nhà phát triển
+                    Dành cho báo chí
+                    Dành cho nhà đầu tư
+                    End of Footer
+    © Pinterest 2020

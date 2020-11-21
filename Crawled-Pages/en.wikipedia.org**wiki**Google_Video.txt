@@ -1,0 +1,427 @@
+	Google Video
+		From Wikipedia, the free encyclopedia
+		Jump to navigation
+		Jump to search
+		Free video hosting service from Google
+This article is about the defunct video hosting service. For the video search engine, see Google Videos.
+Not to be confused with YouTube.
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+      This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Google Video" – news · newspapers · books · scholar · JSTOR  (September 2015) (Learn how and when to remove this template message)
+The lead section of this article may need to be rewritten. Use the lead layout guide to ensure the section follows Wikipedia's norms and is inclusive of all essential details.  (June 2017) (Learn how and when to remove this template message)
+ (Learn how and when to remove this template message)
+Google VideoType of siteVideo hosting service, video search engineAvailable inMultilingualOwnerGoogleURLvideo.google.comCommercialYesRegistrationRecommendedLaunchedJanuary 25, 2005; 15 years ago (2005-01-25)Current statusDiscontinued after August 20, 2012
+Google Video was a free video hosting service from Google, similar to YouTube, that allowed video clips to be hosted on Google servers and embedded on to other websites. This allowed websites to host much video remotely without running into bandwidth or storage-capacity issues.
+The service was launched on January 25, 2005.[1] A year later, YouTube was acquired by Google, and Google Videos began its evolution into its current form as a video search engine. In 2009, Google Videos stopped accepting new video uploads,[2] and users had the opportunity to migrate their videos onto YouTube. Google Videos was ultimately shut down on August 20, 2012.[3]
+Thereafter, the web address video.google.com has been reused to host Google Videos search engine.
+Contents
+1 Video content
+2 Video distribution methods
+2.1 Uploading videos
+2.2 Website
+2.3 Flash video
+2.4 Google Video Player
+2.5 GVI format and conversion
+2.6 AVI and MP4
+2.7 Third-party download services
+3 Market adoption
+4 Shutdown
+5 See also
+6 References
+Video content[edit]
+Google Video was geared towards providing a large archive of freely searchable videos. Besides amateur media, Internet videos, viral ads, and movie trailers, the service also aimed to distribute commercial professional media, such as televised content and movies.
+A number of educational discourses by Google employees were recorded and made available for viewing via Google Video. The lectures were done mainly at the employees' former universities. The topics covered Google technologies and software engineering but also include other pioneering efforts by major players in the software engineering field.
+On January 6, 2009, the Google Video Store launched to sell downloads through Google Video. The service launched with independent films Aardvark'd: 12 Weeks with Geeks, and Waterborne, as well as content from media partners CBS, the NBA, The Charlie Rose Show, and Sony BMG.[4] Initially, the content of a number of broadcasting companies (such as ABC, NBC, CNN) was available as free-streaming content or stills with closed captioning. In addition, the U.S. National Archive used Google Video to make historic films available online, but this project was later discontinued.[5]
+Google Video also searched other non-affiliated video sites from web crawls. Sites searched by Google Video in addition to their own videos and YouTube included GoFish, ExposureRoom, Vimeo, Myspace, Biku, and Yahoo! Video.
+Video distribution methods[edit]
+Google Videos offered both free services and commercial videos, the latter controlled with digital rights management.
+Uploading videos[edit]
+Until 2009, users were able to upload videos either through the Google Video website (limited to 100 MB per file); or alternatively through the Google Video Uploader, available for Windows, Mac OS X and Linux.
+While the Video Uploader application was available as three separate downloads, the Linux version was written in Java, a cross-platform programming language, and would therefore also work on other operating systems without modifications, providing that the Java Runtime Environment (JRE) is installed. This Java executable (.jar) file was a standalone application that did not require installation. Consequently, it could be run from removable media such as USB flash drives, CD-ROMs, or network storage. This allowed users to upload video even if the computer terminal on which they were working would not allow them to install programs, such as a public library computer.
+Uploaded videos were saved as a .gvi files under the "Google Videos" folder in "My Videos" and reports of the video(s) details were logged and stored in the user account. The report sorted and listed the number of times that each of the user's videos had been viewed and downloaded within a specific time frame. These ranged from the previous day, week, month or the entire time the videos have been there. Totals were calculated and displayed and the information could be downloaded into a spreadsheet format or printed out.
+Website[edit]
+The basic way to watch the videos was through the Google Video website, video.google.com. Each video had a unique web address in the format of http://video.google.com/videoplay?docid=&lt;video_id&gt;, and that page contained an embedded Flash Video file which could be viewed in any Flash-enabled browser.
+Permalinks to a certain point in a video were also possible, in the format of http://video.google.com/videoplay?docid=&lt;video_id&gt;#XXhYYmZZs[6] (that is, with a fragment identifier containing a timestamp).
+Flash video[edit]
+The browser automatically cached the Flash file while it played, and it could be retrieved from the browser cache once it had fully played. There were also several tools and browser extensions to download the file. It could be then viewed in video players that could handle flash, for example VLC media player, Media Player Classic (with ffdshow installed), MPlayer or an FLV player.
+Google Video Player[edit]
+Google Video PlayerThe main windowDeveloper(s)GoogleStable release2.0.0.060608
+   / 2006-08-22
+Operating systemMac OS X, WindowsTypeVideo playerLicenseFreewareWebsitevideo.google.com 
+Google Video Player was another way to view Google videos; it ran on Windows and Mac OS X. The Google Video Player played back files in Google's own Google Video File (.gvi) media format and supported playlists in "Google Video Pointer" (.gvp) format. When users downloaded to their computers, the resulting file used to be a small .gvp (pointer) file rather than a .gvi file. When run, the .gvp file would download a .gvi (movie) file to the user's default directory.
+Google Video Player was discontinued on August 17, 2007. The option to download videos in GVI format was also removed, the only format available being MP4 format.
+While early versions of Google's in-browser video player code were based on the open source VLC Media Player, the last version of Google Video Player was not based on VLC, according to its readme file. However, it did include the OpenSSL cryptographic toolkit and some libraries from the Qt widget toolkit.[7]
+Google Videos and the Google Video Player were ultimately phased out due to Google's acquisition of YouTube.
+GVI format and conversion[edit]
+Google Video Files (.gvi), and latterly its .avi files, are modified Audio Video Interleave (.avi) files that have an extra list containing the FourCC "goog" immediately following the header. Audio Video Interleaved (also Audio Video Interleave), known by its initials AVI, is a multimedia container format introduced by Microsoft in November 1992 as part of its Video for Windows technology. The list can be removed with a hex editor to avoid playback issues with various video players.[8][9] The video is encoded in MPEG-4 ASP alongside an MP3 audio stream. MPEG-4 video players can render .gvi Google Video Files without format conversion (after changing the extension from .gvi to .avi, although this method of just renaming the file extension does not work with videos purchased with DRM to inhibit unauthorized copying). Among other software VirtualDub is able to read .gvi files and allows the user to convert them into different formats of choice. There are also privately developed software solutions, such as GVideo Fix, that can convert them to .avi format without recompression. MEncoder with "-oac copy -ovc copy" as parameters also suffices.
+AVI and MP4[edit]
+Besides GVI and Flash Video, Google provided its content through downloadable Audio Video Interleave (.avi) and MPEG-4 (.mp4) video files. Not all formats are available through the website's interface, however, depending on the user's operating system.
+Where available, Google's "save as" function for Windows/Mac produced an .avi file, while the "save as" function for iPod and PSP produced an .mp4 file.
+This .avi file was not in standard AVI format. To play the file in a popular media player such as Winamp or Windows Media Player, the file had to first be modified, using a hex editor to delete the first LIST block in the file header, which started at byte 12 (000C hex, first byte in file is byte 0) and ended at byte 63 (003F hex).[8][9] Optionally, the file length (in bytes 4 to 7, little endian) should also be amended, by subtracting 52 (3F hex – 0C hex = 33 hex).
+Winamp and Windows Media Player cannot play the unmodified .avi file because the non-standard file header corrupts the file. However, Media Player Classic, MPlayer, the VLC Media Player and GOM Player will play the unmodified .avi file, and the Google .mp4 file. Media Player Classic can do so only if an MPEG-4 DirectShow Filter, such as ffdshow, is installed. Most Linux media players (including xine, Totem, the Linux version of VLC Media Player, and Kaffeine) have no problem playing Google's .avi format.
+An mp4 video file will play in Winamp 5 if an MPEG-4/H.264 DirectShow Filter such as ffdshow and an MP4 Splitter such as Haali are installed, and the extension ;MP4 is added to the Extension List in the Winamp DirectShow decoder configuration.
+In the spring of 2008, the option to download files in .AVI format was removed. Files were henceforth only available as Flash video or .MP4 video. The same videos, when accessed through the companion YouTube.com site, were available only in Flash video format.
+Third-party download services[edit]
+Google offered users the means to save only some of the videos on the site, mostly for copyright reasons. Their documentation went so far as to claim that only these videos could be downloaded. However, since viewing a video requires downloading it to the computer, their software merely made saving videos less than trivially difficult, not impossible: a number of solutions, including external software and bookmarklets, have been developed.
+Market adoption[edit]
+Despite downloading being available in multiple formats, being less restrictive on video uploads, and Google being tremendously well-known, Google Videos had only a minor share from the online video market, amassing around 2.5 million videos uploaded.[citation needed]
+While initially only available in the United States, over time Google Videos had become available to users in more countries and could be accessed from many other countries, including the United Kingdom, France, Germany, Italy, Canada and Japan.
+Regardless of general availability, content providers were given the opportunity to limit access to video files to only users from certain countries of residence. However, methods of circumventing geographical filtering existed.
+Shutdown[edit]
+On October 9, 2006, Google bought former competitor YouTube. Google announced on June 13, 2007, that the Google Video search results would begin to include videos discovered by their web crawlers on other hosting services, in YouTube and user uploads.[10] Thereafter, search result links opened a frameset with a Google Video header at the top, and the original player page below it.
+As of August 2007, the DTO/DTR (download-to-own/rent) program ended. Users who previously purchased a video from Google Video were no longer able to view them. Credits for users were made available as values for Google Checkout and were valid for 60 days.[11][12]
+In 2009, Google ended the ability for users to upload videos to Google Video. Videos that were already uploaded continued to be hosted.[13] Later, other navigation features were retired, such as ability to cross-reference videos back to now-inactive user accounts, as well as selection of top videos.[citation needed]
+On April 15, 2011, Google announced that they would stop hosting user-uploaded videos. The plan would make videos unavailable for public viewing on April 29 and removed from users' accounts in 28 days.[14] On April 22, 2011, a week after the announcement, Google announced that due to feedback they would not be removing videos at this time. Instead they will start automatically migrating videos to YouTube, as well as providing easier tools for account holders to do so themselves.[15][14]
+On August 20, 2012, the video hosting service was ultimately shut down and the remaining Google Video content was automatically migrated to YouTube. By default, the videos were set to private but the original content owners could later publish them as public videos if they desired.[16]
+As of 2019, the video search engine continues to operate as Google Videos. The domain previously associated with Google Video is now internally used to store videos uploaded to Google Photos.
+See also[edit]
+.mw-parser-output .portal{border:solid #aaa 1px;padding:0}.mw-parser-output .portal.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portal.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portal>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portal>ul>li{display:table-row}.mw-parser-output .portal>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portal>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}
+Internet portal
+List of video hosting services
+Comparison of video hosting services
+References[edit]
+^ "Google Video Search Live". blogoscoped.com. Retrieved August 6, 2017..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}
+^ "Turning Down Uploads at Google Video". Retrieved August 6, 2017.
+^ Perez, Sarah. "Google Shutdowns Continue: iGoogle, Google Video, Google Mini &amp; Others Are Killed | TechCrunch". Retrieved August 6, 2017.
+^ Raman, Sanjay (August 8, 2005). "A New Year for Google Video". Retrieved April 22, 2011.
+^ National Archives and Google Launch Pilot Project (NARA press release, published on February 24, 2006)
+^ New Feature: Link within a Video, Official Google Video Blog, July 19, 2006
+^ Copyrights for Google Video Player, noting the inclusion of several open source libraries
+^ a b Removing the "goog" list from a Google Video file (tutorial video)
+^ a b Comprehensive FAQ related to video downloads
+^ Alex Chitu (June 13, 2007). "Google Frames a Video Search Engine".
+^ Cory Doctorow (August 10, 2007). "Google Video robs customers of the videos they "own"". boingboing.net.
+^ John C. Dvorak, "Google Pulls Plug, Everyone Misses Point". PC Magazine (online). August 14, 2007.
+^ Turning Down Uploads at Google Video, by Michael Cohen, Product Manager, January 14, 2009, Official Google Video Blog, accessed April 23, 2009
+^ a b TechCrunch (April 15, 2011). "Google Video Prepares To Enter The Deadpool For Good". TechCrunch.
+^ An update on Google Video – Finding an easier way to migrate Google Video content to YouTube
+^ "Google Video content moving to YouTube". Official YouTube Blog. July 3, 2012. Retrieved June 24, 2018.
+vteGoogle
+Alphabet Inc.
+History
+Outline
+List of products
+List of mergers and acquisitions
+CompanyCriticism
+2018 walkouts
+Censorship
+Criticism
+Dragonfly
+Litigation
+Privacy concerns
+Street View
+San Francisco tech bus protests
+Worker organization
+Events and initiatives
+Android
+Developer Challenge
+Developer Day
+Developer Lab
+Android list
+Doodle4Google
+Code-in
+Code Jam
+Developer Day
+Developers Live
+I/O
+Lunar XPRIZE
+Science Fair
+Summer of Code
+Talks at Google
+Initiatives/projects
+ATAP
+Dragonfly
+Made with Code
+Sunroof
+Cultural Institute
+People
+Al Gore
+Alan Eustace
+Alan Mulally
+Amit Singhal
+Ann Mather
+David Drummond
+Eric Schmidt
+Jeff Dean
+John Doerr
+John L. Hennessy
+Krishna Bharat
+Larry Page (Founder)
+Matt Cutts
+Patrick Pichette
+Paul Otellini
+Omid Kordestani
+Rachel Whetstone
+Rajen Sheth
+Ram Shriram
+Ray Kurzweil
+Ruth Porat (CFO)
+Salar Kamangar
+Sanjay Ghemawat
+Sergey Brin (Founder)
+Shirley M. Tilghman
+Sundar Pichai (CEO)
+Susan Wojcicki
+Urs Hölzle
+Vint Cerf
+Hal Varian
+Divisions and real estates
+Android
+Glass
+Google Ads
+Google AI
+Google Chrome
+Google Cloud
+Google Health
+Google Maps
+Google Nest
+Google Pixel
+Google Search
+YouTube
+Real estate
+111 Eighth Avenue
+Chelsea Market
+Googleplex
+Data centers
+DevelopmentOperating systems
+Android
+Automotive
+TV
+Wear
+Chrome OS
+Chromium OS
+Fuchsia
+Glass OS
+Libraries/frameworks
+AMP
+Angular
+Angular
+AngularJS
+ARCore
+APIs
+Charts
+Dialogflow
+Flutter
+Guava
+Guice
+Polymer
+Web Components
+Tango
+TensorFlow
+Tools
+Android Studio
+App Inventor (MIT)
+App Maker
+Closure Tools
+Gadgets API
+GData
+Lighthouse
+Native Client
+Octane
+OpenRefine
+PageSpeed
+reCAPTCHA
+Search Console
+Swiffy
+Web Toolkit
+Website Optimizer
+Search algorithms
+PageRank
+Hummingbird
+Panda
+Penguin
+Pigeon
+RankBrain
+Others
+Chrome Experiments
+Data Transfer Project
+Material Design
+OpenSocial
+Web Server
+Programming languages
+Dart
+Go
+Sawzall
+Platforms
+Cloud Platform
+App Engine
+Apps Script
+Firebase
+Gerrit
+Kubernetes
+ServicesEntertainment
+Chromecast
+Play
+Books
+Games
+Google TV
+Music
+Newsstand
+Podcasts
+Stadia
+Games
+Vevo
+YouTube
+Gaming
+Kids
+Music
+Communication
+Chat
+Contacts
+Duo
+Gmail
+Groups
+Hangouts
+IME
+Japanese
+Pinyin
+Inbox
+Meet
+Messages
+Spaces
+Talk
+Translate
+Voice
+Search
+Alerts
+Blog Search
+Books
+Dataset Search
+Dictionary
+Flights
+Finance
+Googlebot
+Images
+Maps
+News
+Patents
+Public Data
+Scholar
+Search
+Knowledge Graph
+Personalized
+SafeSearch
+Voice Search
+Shopping
+Trends
+Insights for Search
+Videos
+Organization
+Calendar
+Photos
+Google Drive
+Docs
+Sheets
+Slides
+Drawings
+Forms
+Keep
+Others
+Arts &amp; Culture
+Assistant
+Chrome
+Chromium
+Classroom
+Cloud Print
+Earth
+Express
+Fi
+Gboard
+Now
+Safe Browsing
+Station
+Business/finance
+AdMob
+Analytics
+Ad Grants
+Ad Manager
+Ads
+AdSense
+Business Groups
+Marketing Platform
+Pay
+Primer
+Tag Manager
+Images/photo
+Camera
+Lens
+Snapseed
+Photos
+Publishing
+Blogger
+Domains
+FeedBurner
+Sites
+Hardware
+Chromecast
+Chromebox
+Virtual reality/display
+Cardboard
+Daydream
+Contact Lens
+Glass
+Smartphones
+Nexus
+Pixel
+Google Nest
+Nest Protect
+Nest Learning Thermostat
+Nest WiFi
+Smart speakers
+Laptops and tablets
+Chromebook
+Pixelbook
+Chromebook Pixel
+Pixel Slate
+Related
+Documentaries
+Google: Behind the Screen
+Google: The Thinking Factory
+Google and the World Brain
+The Creepy Line
+Terms and phrases
+"Don't be evil"
+Gayglers
+Google (verb)
+Google bombing
+Google Developer Expert
+Googlization
+Italics indicate discontinued products and services
+ Category
+ Companies portal
+ Internet portal
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Google_Video&amp;oldid=973555161"
+		Categories: Former video hosting servicesInternet properties established in 2005Discontinued Google servicesInternet properties disestablished in 2009Internet properties disestablished in 2012Defunct American websitesHidden categories: Articles with short descriptionShort description is different from WikidataUse mdy dates from November 2017Articles needing additional references from September 2015All articles needing additional referencesWikipedia introduction cleanup from June 2017All pages needing cleanupArticles covered by WikiProject Wikify from June 2017All articles covered by WikiProject WikifyArticles with multiple maintenance issuesPages using deprecated image syntaxAll articles with unsourced statementsArticles with unsourced statements from June 2017Articles with unsourced statements from July 2011
+	Navigation menu
+		Personal tools
+		Not logged inTalkContributionsCreate accountLog in
+		Namespaces
+		ArticleTalk
+		Variants
+		Views
+		ReadEditView history
+		More
+		Search
+		Navigation
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		Contribute
+		HelpLearn to editCommunity portalRecent changesUpload file
+		Tools
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		Print/export
+		Download as PDFPrintable version
+		In other projects
+		Wikimedia Commons
+		Languages
+		العربيةAzərbaycancaБеларуская (тарашкевіца)‎CatalàČeštinaDanskEspañolفارسیFrançais한국어हिन्दीBahasa IndonesiaItalianoעבריתLietuviųമലയാളംNederlandsनेपाली日本語Norsk bokmålPolskiPortuguêsРусскийShqipSimple EnglishSrpskohrvatski / српскохрватскиSuomiSvenskaதமிழ்TürkçeУкраїнськаTiếng ViệtייִדישZazaki中文
+		Edit links
+		 This page was last edited on 17 August 2020, at 21:45 (UTC).
+		Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+		Privacy policy
+		About Wikipedia
+		Disclaimers
+		Contact Wikipedia
+		Mobile view
+		Developers
+		Statistics
+		Cookie statement

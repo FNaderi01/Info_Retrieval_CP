@@ -1,0 +1,326 @@
+      Nhảy đến nội dung
+        Trung tâm Trợ giúp
+  Header navigation
+                  Tổng quan
+                  Doanh nghiệp
+  Header navigation - actions
+        Tìm kiếm
+  Header navigation - anonymous
+        Đăng nhập
+        Trang chủ Pinterest
+  Open menu
+          Tổng quan
+          An toàn và truy cập tài khoản
+          Sự cố với Pinterest
+          Pháp lý &amp; Quyền riêng tư
+          Quản lý tài khoản của bạn
+          Ghim và bảng
+          Doanh nghiệp
+          Ads measurement
+          Ads reporting
+          Build your organic presence on Pinterest
+          Quản lý hồ sơ doanh nghiệp của bạn
+          Shopping on Pinterest
+          Thanh toán và tính phí Ghim Quảng cáo
+          Quảng cáo trên Pinterest
+            An toàn và truy cập tài khoản
+            Sự cố với Pinterest
+            Pháp lý &amp; Quyền riêng tư
+            Quản lý tài khoản của bạn
+            Ghim và bảng
+            Ads measurement
+            Ads reporting
+            Build your organic presence on Pinterest
+            Quản lý hồ sơ doanh nghiệp của bạn
+            Shopping on Pinterest
+            Thanh toán và tính phí Ghim Quảng cáo
+            Quảng cáo trên Pinterest
+              Tải lên lượt chuyển đổi bằng LiveRamp
+            Tải lượt chuyển đổi ngoại tuyến lên LiveRamp và ứng dụng này sẽ đối sánh những lượt chuyển đổi đó với ID Pinterest và gửi chúng đến Pinterest. Pinterest khớp các chiến dịch liên quan với những lượt chuyển đổi này và sau đó bạn có thể xuất báo cáo liên quan cho các lượt chuyển đổi đã tải lên này trong Trình quản lý quảng cáo
+Trước khi bạn bắt đầu
+Đảm bảo bạn có một chiến dịch đang hoạt động.
+Xác nhận tham gia với LiveRamp và chuyển ID Nhà quảng cáo Pinterest cụ thể cho LiveRamp.
+Nếu tài khoản nhà quảng cáo mẹ trên Pinterest chứa nhiều tài khoản con, hãy chuyển ID nhà quảng cáo duy nhất trên Pinterest cho mỗi tài khoản con đến LiveRamp. 
+Nhập dữ liệu của bạn vào LiveRamp
+Sau khi bạn cung cấp ID nhà quảng cáo trên Pinterest cho LiveRamp với, LiveRamp sẽ chuyển dữ liệu chuyển đổi trở lại Pinterest. Để được trợ giúp nhập dữ liệu của bạn vào LiveRamp, hãy xem trung tâm trợ giúp của LiveRamp.
+Tần suất: Tải lên với tần suất đều đặn, ít nhất mỗi tháng một lần hoặc thường xuyên hơn. Gửi dữ liệu chuyển đổi trong vòng 30 ngày kể từ khi mỗi lượt chuyển đổi xảy ra đến Pinterest hàng tháng hoặc thường xuyên hơn.
+Kích thước tập tin: Tập tin phải có kích thước dưới 5GB và chứa ít hơn 10 triệu hàng.
+Thời gian chuyển: LiveRamp xử lý và chuyển các sự kiện chuyển đổi cho Pinterest trong vòng 1-3 ngày. Dữ liệu chuyển đổi của bạn sẽ sẵn sàng 48 giờ sau đó.
+Phân tách tệp riêng biệt cho từng tài khoản: Đừng kết hợp các lượt chuyển đổi từ nhiều tài khoản con thành một tệp duy nhất. Tải lên lượt chuyển đổi riêng cho từng tài khoản con.
+            Thông số kỹ thuật của tập tin CSV
+            Các trường dữ liệu khách hàng
+Tên cột
+Mô tả
+Ví dụ
+Bắt buộc? 
+Email
+Tối đa 4 địa chỉ email (có thể có tối đa 4 cột với email tên tiêu đề hoặc email_1, email_2, email_3, email_4)
+Nếu hash SHA256, SHA1, MD5, hãy sử dụng các ký tự chữ thường và xóa các khoảng trắng thừa trước, sau hoặc giữa địa chỉ email.
+vidu [at] email.com 
+Bất kỳ hoặc tất cả các cách kết hợp những giá trị định danh liệt kê đều được chấp nhận. Bạn nên cung cấp dữ liệu càng nhiều càng tốt để tối ưu hóa chức năng đối sánh người dùng với cơ sở dữ liệu của LiveRamp.
+madid
+ID quảng cáo trên thiết bị di động
+ID quảng cáo Google 
+IDFA của Apple
+AECE52E7-03EE-455A-B3C4-E57283966239
+Bất kỳ hoặc tất cả các cách kết hợp những giá trị định danh liệt kê đều được chấp nhận. Bạn nên cung cấp dữ liệu càng nhiều càng tốt để tối ưu hóa chức năng đối sánh người dùng với cơ sở dữ liệu của LiveRamp.
+			TÊN
+Xem bài viết trợ giúp của LiveRamp "Định dạng tên và địa chỉ bưu điện" để biết thêm
+John
+Bất kỳ hoặc tất cả các cách kết hợp những giá trị định danh liệt kê đều được chấp nhận. Bạn nên cung cấp dữ liệu càng nhiều càng tốt để tối ưu hóa chức năng đối sánh người dùng với cơ sở dữ liệu của LiveRamp.
+HỌ
+Xem bài viết trợ giúp của LiveRamp "Định dạng tên và địa chỉ bưu điện" để biết thêm
+Smith
+Bất kỳ hoặc tất cả các cách kết hợp những giá trị định danh liệt kê đều được chấp nhận. Bạn nên cung cấp dữ liệu càng nhiều càng tốt để tối ưu hóa chức năng đối sánh người dùng với cơ sở dữ liệu của LiveRamp.
+ĐỊA CHỈ 1
+Xem bài viết trợ giúp của LiveRamp "Định dạng tên và địa chỉ bưu điện" để biết thêm
+400 Church St
+Bất kỳ hoặc tất cả các cách kết hợp những giá trị định danh liệt kê đều được chấp nhận. Bạn nên cung cấp dữ liệu càng nhiều càng tốt để tối ưu hóa chức năng đối sánh người dùng với cơ sở dữ liệu của LiveRamp.
+ĐỊA CHỈ 2
+Xem bài viết trợ giúp của LiveRamp "Định dạng tên và địa chỉ bưu điện" để biết thêm
+Apt 123
+Bất kỳ hoặc tất cả các cách kết hợp những giá trị định danh liệt kê đều được chấp nhận. Bạn nên cung cấp dữ liệu càng nhiều càng tốt để tối ưu hóa chức năng đối sánh người dùng với cơ sở dữ liệu của LiveRamp.
+THÀNH PHỐ
+Xem bài viết trợ giúp của LiveRamp "Định dạng tên và địa chỉ bưu điện" để biết thêm
+Quận 1
+Bất kỳ hoặc tất cả các cách kết hợp những giá trị định danh liệt kê đều được chấp nhận. Bạn nên cung cấp dữ liệu càng nhiều càng tốt để tối ưu hóa chức năng đối sánh người dùng với cơ sở dữ liệu của LiveRamp.
+Bang
+Xem bài viết trợ giúp của LiveRamp "Định dạng tên và địa chỉ bưu điện" để biết thêm
+Thành phố Hồ Chí Minh
+Bất kỳ hoặc tất cả các cách kết hợp những giá trị định danh liệt kê đều được chấp nhận. Bạn nên cung cấp dữ liệu càng nhiều càng tốt để tối ưu hóa chức năng đối sánh người dùng với cơ sở dữ liệu của LiveRamp.
+MÃ ZIP
+Xem bài viết trợ giúp của LiveRamp "Định dạng tên và địa chỉ bưu điện" để biết thêm
+70000
+Bất kỳ hoặc tất cả các cách kết hợp những giá trị định danh liệt kê đều được chấp nhận. Bạn nên cung cấp dữ liệu càng nhiều càng tốt để tối ưu hóa chức năng đối sánh người dùng với cơ sở dữ liệu của LiveRamp.
+ZIP4
+Xem bài viết trợ giúp của LiveRamp "Định dạng tên và địa chỉ bưu điện" để biết thêm
+1234
+Bất kỳ hoặc tất cả các cách kết hợp những giá trị định danh liệt kê đều được chấp nhận. Bạn nên cung cấp dữ liệu càng nhiều càng tốt để tối ưu hóa chức năng đối sánh người dùng với cơ sở dữ liệu của LiveRamp.
+SỐ ĐIỆN THOẠI 1
+Có thể là văn bản gốc hoặc giá trị hash, với hash SHA-1 được chấp nhận. Xem bài viết trợ giúp của LiveRamp "Định dạng số điện thoại" để biết thêm thông tin.
+Số điện thoại có thể dùng để đối sánh với bất kỳ PII bổ sung nào (hoặc không) và còn có thể dùng để đối sánh với tên và họ (tương tự NAP) để có độ chính xác cao hơn.
+Lưu ý: Tệp dữ liệu Châu Âu không thể chứa số điện thoại dạng hash.
+Các định dạng cho phép:
++1XXXXXXXXXX
++1 (XXX) XXX-XXXX
+(XXX) XXX-XXXX
+XXX-XXX-XXXX
+XXX XXX XXXX
+XXXXXXXXXX  (bạn phải sử dụng định dạng này nếu hash)
+Bất kỳ hoặc tất cả các cách kết hợp những giá trị định danh liệt kê đều được chấp nhận. Bạn nên cung cấp dữ liệu càng nhiều càng tốt để tối ưu hóa chức năng đối sánh người dùng với cơ sở dữ liệu của LiveRamp.
+CCID
+ID tùy chỉnh được gán cho người dùng theo một nền tảng cụ thể, chẳng hạn như Google hoặc Facebook. Xem bài viết trợ giúp của LiveRamp "Định dạng ID tùy chỉnh" để biết thêm thông tin. Lưu ý: Nếu ID tùy chỉnh liên kết với PII, thì ID đó được coi là "đã biết" và không "ẩn danh".
+Bất kỳ hoặc tất cả các cách kết hợp những giá trị định danh liệt kê đều được chấp nhận. Bạn nên cung cấp dữ liệu càng nhiều càng tốt để tối ưu hóa chức năng đối sánh người dùng với cơ sở dữ liệu của LiveRamp.
+cookie
+Dữ liệu do một trang web thiết lập khi trình duyệt của một người dùng cụ thể truy cập trang web đó. Xem bài viết trợ giúp "Định dạng cookie" của LiveRamp để biết thêm thông tin.
+Bất kỳ hoặc tất cả các cách kết hợp những giá trị định danh liệt kê đều được chấp nhận. Bạn nên cung cấp dữ liệu càng nhiều càng tốt để tối ưu hóa chức năng đối sánh người dùng với cơ sở dữ liệu của LiveRamp.
+IDL
+Giá trị định danh của LiveRamp liên kết với các thiết bị trong Biểu đồ định danh của LiveRamp. Xem bài viết trợ giúp của LiveRamp "Định dạng IdentityLinks" để biết thêm thông tin.
+Xem ví dụ về IdentityLinks (IDL).
+Bạn có thể chọn có bao gồm IDL hoặc không và giá trị này không thể kết hợp với bất kỳ Trường dữ liệu khách hàng hoặc PII (thông tin nhận dạng cá nhân) nào khác. 
+            Các trường dữ liệu sự kiện
+            Tên cột
+Mô tả
+Ví dụ
+Bắt buộc?
+event_time
+			(Vui lòng không biên dịch dữ liệu bằng Excel để tránh tự động sửa)
+Bạn nên dùng dấu thời gian Unix. Chúng tôi chấp nhận các định dạng sau:
+MM/dd/yyyy hh:mm:ss aa
+MM/dd/yyyy HH:mm:ss
+yyyy-MM-dd HH:mm:ss
+yyyy-MM-ddTHH:mm:ss
+yyyy-MM-dd HH:mm:ss+zzzz
+yyyy-MM-ddTHH:mm:ss+zzzz
+yyyy-MM-dd
+MM/dd/yyyy
+Dấu thời gian Unix
+			Dữ liệu giao dịch phải được tải lên trong vòng 14 ngày kể từ khi diễn ra lượt chuyển đổi
+08/14/2012
+hoặc
+08/14/2012 5:01:54 PM
+hoặc
+2019-08-14T12:32:42+0700
+Có
+event_type
+Bất kỳ loại sự kiện chuyển đổi tiêu chuẩn nào của chúng tôi:
+Signup
+Checkout
+Custom
+ViewCategory
+Tìm kiếm
+AddToCart
+WatchVideo
+Lead
+Nếu không được bao gồm thì sẽ mặc định là Checkout. 
+Checkout
+Không
+source_type
+Thêm loại nguồn sự kiện:
+offline
+app_android
+app_ios
+web
+Nếu không được bao gồm thì chúng tôi mặc định là offline.
+offline
+Có
+value
+Giá thành sản phẩm trên hàng
+500.00
+Có cho checkout
+order_id
+Một dữ liệu định danh lân cận cho giao dịch ngoại tuyến, giới hạn 64 ký tự
+X-151481
+Tùy chọn - ưu tiên cho các sự kiện checkout
+quantity
+Số lượng mặt hàng đã mua
+15
+Không
+product_id
+			Trường số mặt hàng có thể chứa giá trị chữ và số không có ký tự đặc biệt, ký hiệu tiền tệ hoặc dấu phẩy; trường này cho phép bạn chia một giao dịch thành nhiều sự kiện bằng cách sử dụng id sản phẩm duy nhất, tức là SKU, UPC, v.v., cho từng mặt hàng được liên kết với cùng một transaction-id
+108
+hoặc
+F28
+Không
+currency
+Đơn vị tiền tệ thanh toán
+USD
+CAD
+Không
+property
+Thuộc tính trang web mà mặt hàng được mua từ đó
+brandsite.com
+Không
+product_name
+Tên viết gọn của sản phẩm
+Ghế Gabrielle
+Không
+promo_code
+Khuyến mãi đã được sử dụng để mua hàng
+Winter 10
+Không
+product_category
+Danh mục cấp cao nhất của sản phẩm
+nội thất
+			Không
+product_sub_category
+Danh mục phụ của sản phẩm
+ghế
+			Không
+product_variant
+Bất kỳ dữ liệu định danh biến thể sản phẩm nào của sản phẩm
+đỏ
+hoặc
+da
+			Không
+product_brand
+Tên thương hiệu của sản phẩm
+Gabrielle
+			Không
+is_new_customer
+Khách hàng mới (Y)
+Khách hàng hiện tại (N)
+Y
+			Không
+            Khắc phục sự cố không chuyển được
+            Nếu dữ liệu không chuyển được, hãy nhấp vào hàng của dữ liệu đó trong Lịch sử tải lên chuyển đổi để xem lại danh sách thả xuống hiển thị thông tin về lý do không thành công.
+Nhấp vào Xem Lỗi dữ liệu để kiểm tra các giá trị dữ liệu không hợp lệ trong tệp chuyển. 
+Pinterest không có khả năng xem các tệp CSV gốc khi đã tải lên LiveRamp và chúng tôi xóa tệp khỏi LiveRamp sau 48 giờ theo chính sách lưu giữ dữ liệu. Để khắc phục sự cố, bạn nên liên hệ với LiveRamp và/hoặc xem các giá trị dữ liệu không hợp lệ trong tệp đã tải lên ban đầu.
+            Bước tiếp theo là gì?
+Tìm hiểu về báo cáo sự kiện chuyển đổi ngoại tuyến
+  Các bài viết khác
+  Skip Các bài viết khác Links
+      Thẻ Pinterest
+                        Cài đặt mã cơ sở
+                                Cài đặt, xóa hoặc khôi phục Thẻ Pinterest
+                                Kiểm tra các sự kiện Thẻ Pinterest
+            Xem thêm
+                                Mã cơ sở
+                                Mã IMG
+                                Mã sự kiện
+                                Thêm mã sự kiện
+                                Theo dõi chuyển đổi bằng thẻ Pinterest
+                                Tiện ích mở rộng Chrome Pinterest Tag Helper
+                                Triển khai thẻ Pinterest
+                                Ví dụ về các mã cơ sở và mã sự kiện kết hợp
+                                Ví dụ về mã sự kiện
+                                Đối sánh nâng cao
+      Tích hợp thẻ Pinterest
+                        Thêm thủ công thẻ Pinterest vào Shopify
+      Theo dõi bên thứ ba
+                        Theo dõi chuyển động và bên thứ ba
+                                Theo dõi quảng cáo bộ sưu tập
+      Conversions
+                        Tải lên lượt chuyển đổi bằng LiveRamp
+                                Tải lên lượt chuyển đổi với Trình quản lý quảng cáo
+                                Tải lên lượt chuyển đổi để đo lường
+  End of Các bài viết khác Links
+            Bạn vẫn cần trợ giúp?
+                Liên hệ
+    User feedback
+              Bài viết này có hữu ích không?
+        vui
+        buồn
+        collection_fields
+        Chúng tôi có thể cải thiện bài viết này bằng cách nào?
+      Additional Response
+      Leave this field blank
+        Pinterest sử dụng cookie để mang đến cho bạn trải nghiệm tốt nhất có thể.
+        Đã hiểu!
+    Skip Footer Menu
+    Chọn ngôn ngữ
+                      English (US)
+                              Bahasa Indonesia
+                              Čeština
+                              Dansk
+                              Deutsch
+                              English (UK)
+                              Español
+                              Français
+                              Italiano
+                              Magyar
+                              Nederlands
+                              Norsk bokmål
+                              Polski
+                              Português (Brasil)
+                              Português (Europeu)
+                              Română
+                              Slovenčina
+                              Suomi
+                              Svenska
+                              Filipino
+                              Tiếng Việt
+                              Türkçe
+                              Ελληνικά
+                              Русский
+                              Ukrainian
+                              ภาษาไทย
+                              简体中文
+                              繁體中文
+                              한국어
+                              日本語
+            Giới thiệu
+                    Impressum
+                    Pinterest là gì
+                    Trang Pinterest
+                    Blog kỹ thuật
+                    Hướng dẫn thương hiệu
+                    Nghề nghiệp
+                    Trung tâm Trợ giúp
+                    Pinterest Labs
+            Chính sách của chúng tôi 
+                    Bản quyền
+                                          và
+                            thương hiệu
+                    Quảng cáo được cá nhân hóa
+                    Điều khoản Dịch vụ
+                    Quyền riêng tư
+                                          và
+                            cookies
+            Thông tin khác
+                    Dành cho doanh nghiệp
+                    Dành cho nhà phát triển
+                    Dành cho báo chí
+                    Dành cho nhà đầu tư
+                    End of Footer
+    © Pinterest 2020

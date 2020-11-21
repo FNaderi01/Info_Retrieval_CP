@@ -1,0 +1,229 @@
+From mboxrd@z Thu Jan  1 00:00:00 1970
+Return-Path: 
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on
+	aws-us-west-2-korg-lkml-1.web.codeaurora.org
+X-Spam-Level: 
+X-Spam-Status: No, score=-3.6 required=3.0 tests=DKIM_SIGNED,DKIM_VALID,
+	DKIM_VALID_AU,FREEMAIL_FORGED_FROMDOMAIN,FREEMAIL_FROM,
+	HEADER_FROM_DIFFERENT_DOMAINS,INCLUDES_PATCH,MAILING_LIST_MULTI,SPF_HELO_NONE,
+	SPF_PASS,URIBL_BLOCKED autolearn=no autolearn_force=no version=3.4.0
+Received: from mail.kernel.org (mail.kernel.org [198.145.29.99])
+	by smtp.lore.kernel.org (Postfix) with ESMTP id C777FC2BA83
+	for ; Fri,  7 Feb 2020 17:53:05 +0000 (UTC)
+Received: from vger.kernel.org (vger.kernel.org [209.132.180.67])
+	by mail.kernel.org (Postfix) with ESMTP id 95C38214AF
+	for ; Fri,  7 Feb 2020 17:53:05 +0000 (UTC)
+Authentication-Results: mail.kernel.org;
+	dkim=pass (2048-bit key) header.d=gmail.com header.i=@gmail.com header.b="n8bCAgP3"
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+        id S1727011AbgBGRxE (ORCPT );
+        Fri, 7 Feb 2020 12:53:04 -0500
+Received: from mail-oi1-f193.google.com ([209.85.167.193]:35599 "EHLO
+        mail-oi1-f193.google.com" rhost-flags-OK-OK-OK-OK) by vger.kernel.org
+        with ESMTP id S1726900AbgBGRxE (ORCPT );
+        Fri, 7 Feb 2020 12:53:04 -0500
+Received: by mail-oi1-f193.google.com with SMTP id b18so2819559oie.2
+        for ; Fri, 07 Feb 2020 09:53:03 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to
+         :cc:content-transfer-encoding;
+        bh=tNdRp3zrqfhsmzdHhwKundNEXfruQUYmQD9kjbaGzt8=;
+        b=n8bCAgP3hOAi+JhUSpdHiukebiVQAYzX/j6s5FgJ0Tje+bKl9svdTlzp/YCWEFYnYs
+         8s7U7LHaiiQSjbjFAHH6mGh7n16om98R8kzJBPE0lwM8Uyl8j7QqXTEpD42zImBfkxC5
+         mYi0RnivOFgr2Hvz8d/pUtRRoSvIGXYqNQ6DNb2BNk0J4xQl2x8t+norBzsMcAOEgRmD
+         fEFjuf/iSSQzJ0S8HZdvJuOoNSLmJ61kUpb5uQhCXdwT6VjbGz59RJpWB4y4051nx0zR
+         GoGXFRDmVPoFwbM3sszmf62uJbmEn8ahDavPqW5QLr3ILkl4UQYBR1Soq5gDfWqG1Mfr
+         QE+g==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to:cc:content-transfer-encoding;
+        bh=tNdRp3zrqfhsmzdHhwKundNEXfruQUYmQD9kjbaGzt8=;
+        b=kNIMFs/sa+CyV7oaY+Kbj9vFz/o/2S0MN7rSOnG7XEd9gaIWKsIkdk6+R1FHONjiwZ
+         jBJlejPfebA3lA8jPj3Hk45+8Cia/ATmBISm0rlWqomH9nnxb5EvExZTDssh0D2nthaC
+         tUVnB/iNRndn1OhMQAWSsBuFqJfjz8xP7nSGjKZxUQl5EArD9p2QQoK28asXZWGE8hZK
+         WxyuUhunzB6GJDgJfCEXQQfZfJaM3elGA3UzdKKmRqk2Omvj71zWphc+uMVvYDl2DpH4
+         wlKDf1j54w1yJI1Pdn4T7snvN1f3IeI2TZQtN+r4kp/uE7O99EOIWISH4wcQMOZZjq2p
+         tkrA==
+X-Gm-Message-State: APjAAAWS/9HSOGfFPOiiG9yMkVXHiiESnH+LWypYyb1kL4UlmEJnj6Sw
+        m798x1FY3HUjxtWaNIvlq4iWqx9E52CdQ77b20o=
+X-Google-Smtp-Source: APXvYqztthDiWsxozw8IDPPCOJ0g+XQYdrM/TfB/PYzWf3+VkO2rDtE8LsASJ1a2CQE4jwXifvQL5C/CFzJXNJ8KW5A=
+X-Received: by 2002:aca:dc45:: with SMTP id t66mr2933964oig.39.1581097983169;
+ Fri, 07 Feb 2020 09:53:03 -0800 (PST)
+MIME-Version: 1.0
+References: &lt;20200207111008.GA2868@szeder.dev&gt; &lt;20200207114954.GB2868@szeder.dev&gt;
+ &lt;20200207132152.GC2868@szeder.dev&gt;
+In-Reply-To: &lt;20200207132152.GC2868@szeder.dev&gt;
+From:   Elijah Newren 
+Date:   Fri, 7 Feb 2020 09:52:51 -0800
+Message-ID: 
+Subject: Re: [BUG?] 'git rebase --abort' couldn't abort aborted rebase
+To:     =?UTF-8?Q?SZEDER_G=C3=A1bor?= 
+Cc:     Git Mailing List 
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Sender: git-owner@vger.kernel.org
+Precedence: bulk
+List-ID: 
+X-Mailing-List: git@vger.kernel.org
+Archived-At: 
+List-Archive: 
+List-Post: 
+On Fri, Feb 7, 2020 at 5:21 AM SZEDER G=C3=A1bor  wro=
+te:
+&gt;
+&gt; On Fri, Feb 07, 2020 at 12:49:54PM +0100, SZEDER G=C3=A1bor wrote:
+&gt; &gt; On Fri, Feb 07, 2020 at 12:10:08PM +0100, SZEDER G=C3=A1bor wrote:
+&gt; &gt; &gt; That's a good subject, isn't it? :)
+Indeed.  :-)
+&gt; &gt; &gt; So, to clarify: apparently it is possible to abort an ongoing 'git
+&gt; &gt; &gt; rebase' process with ctrl-C in just the right moment that a subsequen=
+t
+&gt; &gt; &gt; 'git rebase --abort' will refuse to clear it up.
+&gt; &gt; &gt;
+&gt; &gt; &gt; I somehow messed up the upstream and branch parameters of 'git
+&gt; &gt; &gt; rebase', and ended up trying to rebase a fairly recent (post v2.24.0)
+&gt; &gt; &gt; branch on top of v2.22.0.  Upon seeing the unexpectedly large number
+&gt; &gt; &gt; of patches I realized that something is wrong, hit ctrl-C right away,
+&gt; &gt; &gt; and this is what happened:
+&gt; &gt; &gt;
+&gt; &gt; &gt;   $ git rebase v2.22.0 
+&gt; &gt; &gt;   First, rewinding head to replay your work on top of it...
+&gt; &gt; &gt;   Generating patches: 100% (1108/1108), done.
+&gt; &gt; &gt;   Applying: send-email: move the read_config() function above getopts
+&gt; &gt; &gt;   Applying: send-email: rename the @bcclist variable for consistency
+&gt; &gt; &gt;   Applying: send-email: do defaults -&gt; config -&gt; getopt in that order
+&gt; &gt; &gt;   Using index info to reconstruct a base tree...
+&gt; &gt; &gt;   M       git-send-email.perl
+&gt; &gt; &gt;   M       t/t9001-send-email.sh
+&gt; &gt; &gt;   Falling back to patching base and 3-way merge...
+&gt; &gt; &gt;   Auto-merging t/t9001-send-email.sh
+&gt; &gt; &gt;   Auto-merging git-send-email.perl
+&gt; &gt; &gt;   ^C
+&gt; &gt; &gt;   ((5f07da12ac...) *|REBASE 3/1108)$ git rebase --abort
+&gt; &gt; &gt;   error: could not read '/home/szeder/src/git/.git/worktrees/WT/rebas=
+e-apply/head-name': No such file or directory
+&gt; &gt; &gt;
+&gt; &gt; &gt; "Fortunately" it was in a separate worktree, so I could easily get ou=
+t
+&gt; &gt; &gt; of the situation by forcibly deleting that worktree.  Unfortunately,
+&gt; &gt; &gt; that was exactly what I did, instead of securing the failed state for
+&gt; &gt; &gt; later analysis...  sorry.
+&gt; &gt;
+&gt; &gt; &gt; All this is with a git built from current 'next', with a bunch of
+&gt; &gt; &gt; unrelated (none of them touches rebase or the sequencer) patches on
+&gt; &gt; &gt; top.
+&gt; &gt;
+&gt; &gt; Trying to reproduce it is a hit or miss... well, mostly miss :)
+&gt; &gt;
+&gt; &gt; There is a rather short window when 'git rebase' applies patches
+&gt; &gt; before hitting a first merge conflict.  If the ctrl-C arrives before
+&gt; &gt; 'git rebase' starts applying patches, then it cleans everything up,
+&gt; &gt; and we are not rebasing, so there is no need for 'git rebase --abort'.
+&gt; &gt; Once 'git rebase' stops because of the merge conflict we get our shell
+&gt; &gt; back, and 'git rebase --abort' works as it should.  But after a good
+&gt; &gt; couple of tries I managed to hit ctrl-C while 'git rebase' was
+&gt; &gt; applying patches:
+&gt;
+&gt; This patch below increases the size of the window where a ctrl-C gets
+&gt; us into that problematic situation:
+&gt;
+&gt; diff --git a/builtin/am.c b/builtin/am.c
+&gt; index 8181c2aef3..5d62766000 100644
+&gt; --- a/builtin/am.c
+&gt; +++ b/builtin/am.c
+&gt; @@ -1737,6 +1737,14 @@ static void am_run(struct am_state *state, int res=
+ume)
+&gt;                         exit(1);
+&gt;
+&gt;                 say(state, stdout, _("Applying: %.*s"), linelen(state-&gt;ms=
+g), state-&gt;msg);
+&gt; +               {
+&gt; +                       int i;
+&gt; +                       for (i =3D 0; i &lt; 60; i++) {
+&gt; +                               fprintf(stderr, "sleeping... %d\r", i);
+&gt; +                               sleep(1);
+&gt; +                       }
+&gt; +                       fprintf(stderr, "\n");
+&gt; +               }
+&gt;
+&gt;                 apply_status =3D run_apply(state, NULL);
+&gt;
+&gt; And then we can reliably reproduce the issue even when rebasing only a
+&gt; single commit:
+&gt;
+&gt;   $ ./bin-wrappers/git rebase v2.25.0 9c8a294
+&gt;   First, rewinding head to replay your work on top of it...
+&gt;   Applying: sha1-file: remove OBJECT_INFO_SKIP_CACHED
+&gt;   ^Ceeping... 3
+&gt;   ((v2.25.0)|REBASE 1/1)$ ./bin-wrappers/git rebase --abort
+&gt;   error: could not read '.git/rebase-apply/head-name': No such file or di=
+rectory
+&gt;
+&gt; Note that the sleep() calls were added to 'builtin/am.c', i.e. this
+&gt; issue is present in the 'am' rebase backend.  I tried to break 'git
+&gt; rebase -m ...' by adding sleep()s to various places in pick_commits()
+&gt; in 'sequencer.c', but, FWIW, the subsequent 'git rebase --abort'
+&gt; always worked as expected.
+&gt;
+&gt; So we may have yet another reason to switch the default rebase backend
+&gt; from 'am' to 'merge'.
+&gt;
+&gt;
+&gt; &gt; Finally, note the 'v2.24.0^{commit}' parameter, in particular the
+&gt; &gt; '^{commit}' part.  That's important, because without it we stumble
+&gt; &gt; upon _another_ bug:
+&gt; &gt;
+&gt; &gt;   $ git rebase v2.22.0 v2.24.0
+&gt; &gt;   error: Object 1cc4bc0fcd93f816d514d77c29f2cc9ffdd8ae09 not a commit
+&gt; &gt;   First, rewinding head to replay your work on top of it...
+&gt; &gt;   Generating patches: 100% (1049/1049), done.
+&gt; &gt;   Applying: send-email: move the read_config() function above getopts
+&gt; &gt;   &lt; ... applying further patches and hitting a merge conflict ... &gt;
+&gt; &gt;   Resolve all conflicts manually, mark them as resolved with
+&gt; &gt;   "git add/rm ", then run "git rebase --continue".
+&gt; &gt;   You can instead skip this commit: run "git rebase --skip".
+&gt; &gt;   To abort and get back to the state before "git rebase", run "git reba=
+se --abort".
+&gt; &gt;   (detached HEAD *+|REBASE 7/1049)$ git rebase --abort
+&gt; &gt;   error: update_ref failed for ref 'HEAD': cannot update ref 'HEAD': tr=
+ying to write non-commit object 1cc4bc0fcd93f816d514d77c29f2cc9ffdd8ae09 to=
+ branch 'HEAD'
+&gt; &gt;
+&gt; &gt; So 'git rebase' shows an error right at the beginning when rebasing a
+&gt; &gt; tag, but then continues anyway.  However, 'git rebase --abort' can't
+&gt; &gt; restore the original state.
+&gt;
+&gt; Now let's rebase a tag with the 'merge' backend, and then try to abort
+&gt; it:
+&gt;
+&gt;   $ ./BUILDS/v2.25.0/bin/git rebase -m v2.22.0 v2.24.0
+&gt;   error: Object 1cc4bc0fcd93f816d514d77c29f2cc9ffdd8ae09 not a commit
+&gt;   Auto-merging t/t9001-send-email.sh
+&gt;   Auto-merging git-send-email.perl
+&gt;   CONFLICT (content): Merge conflict in git-send-email.perl
+&gt;   Auto-merging Documentation/git-send-email.txt
+&gt;   error: could not apply 3ff15040e2... send-email: fix regression in send=
+email.identity parsing
+&gt;   Resolve all conflicts manually, mark them as resolved with
+&gt;   "git add/rm ", then run "git rebase --continue".
+&gt;   You can instead skip this commit: run "git rebase --skip".
+&gt;   To abort and get back to the state before "git rebase", run "git rebase=
+ --abort".
+&gt;   Recorded preimage for 'git-send-email.perl'
+&gt;   Could not apply 3ff15040e2... send-email: fix regression in sendemail.i=
+dentity parsing
+&gt;   (detached HEAD *+|REBASE 7/1049)$ ./BUILDS/v2.25.0/bin/git rebase --abo=
+rt
+&gt;   ((v2.24.0))$
+&gt;
+&gt; So it prints the same error as the 'am' backend (or perhaps that error
+&gt; comes from the common, backend-independent parts of rebase?  I didn't
+&gt; look), and it continues all the same, but in the end '--abort' is
+&gt; capable to abort the operation.  So we do have yet another reason to
+&gt; switch the default backend.
+Ooh, interesting; thanks for investigating and providing a heads up.
+I should probably add a note about this to the "differences between
+backends"; I'll roll it into whatever changes I might need to make
+with Phillip's review of the series.

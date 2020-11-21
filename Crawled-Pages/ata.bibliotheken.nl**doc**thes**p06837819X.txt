@@ -1,0 +1,53 @@
+				Cassirer, Ernst (1874-1945)
+					http://data.bibliotheken.nl/id/thes/p06837819X  
+					an entity of type: Person
+					 -->
+					rdfs:label
+								Cassirer, Ernst (1874-1945) 
+					foaf:familyName
+							 Cassirer 
+					foaf:givenName
+							 Ernst 
+					foaf:name
+								Ernst Cassirer 
+					schema:deathDate
+							 1945 
+					schema:alternateName
+								Cassirer, Ernst Alfred 
+								Ensite, Kaxi'er 
+								Kassirer, Ė. 
+								Кассирер, Э. 
+								恩斯特・卡西尔 
+					schema:name
+								Cassirer, Ernst 
+					schema:birthDate
+							 1874 
+				rdf:type
+						schema:Person
+				owl:sameAs
+						&lt;http://www.wikidata.org/entity/Q57188&gt;
+				schema:sameAs
+						&lt;http://viaf.org/viaf/106965171&gt;
+				foaf:isPrimaryTopicOf
+				 _:2c65781b46684a88432183ba2d384ab6
+						blank nodes
+									foaf:isPrimaryTopicOf
+									 _:2c65781b46684a88432183ba2d384ab6
+					kbdef:ppn
+								06837819X 
+					schema:dateModified
+									xsd:date
+								2020-08-28 
+				rdf:type
+						foaf:Document
+				owl:sameAs
+						&lt;http://data.bibliotheken.nl/doc/thes/p06837819X&gt;
+				void:inDataset
+						&lt;http://data.bibliotheken.nl/id/dataset/persons&gt;
+				foaf:primaryTopic
+						&lt;http://data.bibliotheken.nl/id/thes/p06837819X&gt;
+				schema:license
+						&lt;https://opendatacommons.org/licenses/by/1-0/&gt;
+				data from the linked data cloud
+					data from: http://data.bibliotheken.nl/sparql
+			view as:  RDF, Turtle, N-Triples, JSON-LD

@@ -1,0 +1,87 @@
+	MediaWiki
+		From mediawiki.org
+		Jump to navigation
+		Jump to search
+		.mw-parser-output .mainpage_row{display:flex;flex-direction:row;flex-flow:row wrap;justify-content:space-between;padding:0;margin:0 -5px 0 -5px}.mw-parser-output .mainpage_box{flex:1;margin:5px;min-width:210px;border:1px solid #CCC;padding:0 10px 10px 10px;box-shadow:0 2px 2px rgba(0,0,0,0.1)}.mw-parser-output .mainpage_box h3{padding:0;margin:0.5em 0}.mw-parser-output .mainpage_box h3 .header_icon{float:left;margin-right:5px}.mw-parser-output .mainpage_box .items{border-top:1px solid #CCC;padding-top:0.5em}.mw-parser-output .mainpage_box p:last-child{margin-bottom:0}.mw-parser-output .mainpage_boxcontents_small{font-size:95%}.mw-parser-output .mw-pt-languages{display:block;background:none;border:1px solid #CCC;box-shadow:0 2px 2px rgba(0,0,0,0.1);width:auto}.mw-parser-output .mw-pt-languages-label{background:none;border-right:none}@media screen and (max-width:719px){.mw-parser-output .thumb{float:none}.mw-parser-output .thumb,.mw-parser-output .thumbinner{margin-left:auto;margin-right:auto}}
+MediaWiki is a collaboration and documentation platform brought to you by a vibrant community.
+  Photo of participants of the Wikimedia Hackathon 2019
+The MediaWiki software is used by tens of thousands of websites and thousands of companies and organizations.
+It powers Wikipedia and also this website.
+MediaWiki helps you collect and organize knowledge and make it available to people.
+It's powerful, multilingual, free and open, extensible, customizable, reliable, and free of charge.
+Find out more and if MediaWiki is right for you.
+		Set up and run MediaWiki
+Download, install and configure MediaWiki
+Add functionality by installing extensions
+Problems? See Errors and symptoms and FAQ
+Don't own a server? See Hosting services
+Get professional development and consulting 
+Join MediaWiki Stakeholders user group
+		Edit and use MediaWiki
+Learn how to navigate 
+Learn how to edit a page 
+Learn more about reading, editing, and personal customization 
+		Develop and extend code
+New to development? Start coding for a Wikimedia project 
+How to work on MediaWiki or extensions' code 
+Already a developer? Visit the developer hub
+Interact with content by using the Action API or Web API
+Read the developer docs
+		Get help and contribute
+Cannot find the answer to a problem with MediaWiki? Ask the Support desk!
+Get involved as a translator, designer, documentation writer, tester, tech ambassador, …
+Report wrong software behavior or a feature proposal 
+		News
+2020-09-25
+ MediaWiki 1.35.0 is now available.
+ MediaWiki 1.31.10 and 1.34.4 maintenance releases are now available.
+2020-09-24
+ MediaWiki 1.31.9 and 1.34.3 security releases are now available.
+2020-09-15
+ A proposal to explore GitLab for code review to supersede Gerrit welcomes your developer feedback.
+2020-11-24 to 2020-11-26
+ SMWCon Fall 2020 (online)
+2020-09-04
+ MediaWiki 1.35.0-rc.3 pre-release is now ready for testing.		
+		More news
+.mw-parser-output .nmbox{clear:both;background:#f8f9fa;border:1px solid #AAA;box-sizing:border-box;margin:2px 0;padding:0}.mw-parser-output .nmbox *{box-sizing:border-box}.mw-parser-output .nmbox-header{background:#eaecf0;padding:4px 0.5em;font-weight:bold;text-align:center;white-space:nowrap}.mw-parser-output .nmbox .mbox-image{display:inline-block}.mw-parser-output .nmbox-text{border-top:1px solid #AAA;width:100%;padding:4px 0.5em}@media screen and (min-width:768px){.mw-parser-output .nmbox-header{display:table-cell;border-right:1px solid #AAA;width:1%}.mw-parser-output .nmbox-text{border-top:none;display:table-cell}}
+Other languages: 
+English  • العربية • беларуская (тарашкевіца)‎ • বাংলা • bosanski • català • کوردی • čeština • dansk • Deutsch • español • فارسی • suomi • français • ગુજરાતી • עברית • हिन्दी • hrvatski • magyar • Bahasa Indonesia • italiano • 日本語 • Jawa • қазақша • 한국어 • Mirandés • Nederlands • polski • português • português do Brasil • română • русский • sardu • සිංහල • slovenčina • shqip • svenska • ไทย • Türkçe • українська • Tiếng Việt • 粵語 • 中文 • 中文（简体）‎ • 中文（繁體）‎
+Retrieved from "https://www.mediawiki.org/w/index.php?title=MediaWiki&amp;oldid=3878227"
+		Hidden category: Languages pages
+	Navigation menu
+		Personal tools
+		EnglishNot logged inTalkContributionsCreate accountLog in
+		Namespaces
+		Main pageDiscussion
+		Variants
+		Views
+		ReadView sourceView history
+		More
+		Search
+		Navigation
+		Main pageGet MediaWikiGet extensionsTech blogContribute
+		Support
+		User helpFAQTechnical manualSupport deskCommunication
+		Development
+		Bug trackerCode docsCode repositoryStatistics
+		MediaWiki.org
+		Community portalRecent changesTranslate contentRandom pageCurrent issuesSandbox
+		Tools
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		Print/export
+		Create a bookDownload as PDFPrintable version
+		In other projects
+		Wikimedia CommonsMeta-WikiWikispeciesWikibooksWikidataWikimaniaWikinewsWikipediaWikiquoteWikisourceWikiversityWikivoyageWiktionary
+		 This page was last edited on 26 May 2020, at 13:38.
+		Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+		Privacy policy
+		About MediaWiki.org
+		Disclaimers
+		Code of Conduct
+		Mobile view
+		Developers
+		Statistics
+		Cookie statement

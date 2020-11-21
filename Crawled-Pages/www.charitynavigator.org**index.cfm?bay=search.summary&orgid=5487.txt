@@ -1,0 +1,726 @@
+		Disable all preview features
+	div.preview-header {
+		display: none;
+	}
+  .donate-desktop-btn {
+    box-shadow: 0px 6px 6px -3px rgba(0, 0, 0, 0.2), 0px 10px 14px 1px rgba(0, 0, 0, 0.14), 0px 4px 18px 3px rgba(0, 0, 0, 0.12);
+    border-radius: 3px;
+  }
+  .donate-desktop-btn:hover {
+    box-shadow: 0px 10px 13px -6px rgba(0, 0, 0, 0.2), 0px 20px 31px 3px rgba(0, 0, 0, 0.14), 0px 8px 38px 7px rgba(0, 0, 0, 0.12);
+  }
+  body #toplogin .signed-in-user {
+    display: none;
+  }
+  body #toplogin .not-signed-in-user {
+    display: inline;
+  }
+  body.signed-in #toplogin .signed-in-user {
+    display: inline;
+  }
+  body.signed-in #toplogin .not-signed-in-user {
+    display: none;
+  }
+        For Charity Representatives
+        Welcome, 
+          |  
+        My Charities
+          |  
+        My Account
+          |  
+        Sign out
+        Sign in or Register
+           | 
+              0
+              Giving Basket              
+          Top Ten Lists
+            Charities with Perfect Scores
+              10 Most Followed Charities
+              10 Charities Expanding in a Hurry
+              10 Most Frequently Viewed Charities
+              10 Celebrity-Related Charities
+              10 Super-Sized Charities
+              10 Charities Overpaying their For-Profit Fundraisers
+              10 Charities with the Most Consecutive 4-Star Ratings
+              10 Highly Rated Charities Relying on Private Contributions
+              10 of the Best Charities Everyone's Heard Of
+              10 Charities Worth Watching
+          Hot Topics
+                    Indigenous Peoples &amp; Native-Led Nonprofits
+                    Breast Cancer Charities
+                    Suicide Prevention and Awareness
+                    Voting Rights and Election Laws
+                    Tropical Storm Marco and Hurricane Laura
+                    California and Pacific Northwest Wildfires
+                    Beirut Explosion
+                    Black-Founded Nonprofits
+                    COVID-19 Top Nonprofits
+                    Immigration and Refugees
+                    Protecting the Environment
+                    Humanitarian Crisis in Yemen
+                    Civil Rights
+                    Charities with Bold Solutions: MacArthur Foundation 100&amp;Change Grant Competition
+            Tips for Donors
+                  Avoiding Charity Scams: Questions to Ask &amp; Ways to Give
+                  Tips For Giving In Times Of Crisis
+                  Giving Statistics
+                  How to Protect Your Personal Data
+                  A Quick Guide to Deducting Your Donations
+                  Tax Benefits of Giving
+                  Five Steps to Informed Giving
+                  Questions To Ask Charities Before Donating
+                  Understanding Charitable State Registrations
+                  What To Do When A Charity Calls
+                  How To Manage Your Mailbox
+                  Protecting Yourself From Online Scams
+                  Evaluating Charities Not Currently Rated by Charity Navigator
+                  Guide To Donating Your Car
+                  Guide to Donating Noncash Items
+                  Guide To Volunteering
+                  Should You Buy that Charity Affiliated Product?
+                Sector Analyzer
+            Blog
+            Support Charity Navigator
+                Help Charity Navigator rate more organizations with your tax-deductible donation.
+                  Donate Now
+                  Other Ways To Give
+              0 
+          Menu  
+Name Only
+   |  Advanced
+     |  A-Z
+  Directory  
+     |  4-Star
+  Charities
+	Help Center
+.back-to-top {
+  font-weight: bold;
+  color: #096 !important;
+  position: relative;
+  margin-bottom: 10px;
+}
+.back-to-top:hover {
+    text-decoration: none !important;
+}
+.back-to-top.padding {
+  padding-left: 10px;
+}
+.arrow-up {
+    vertical-align: middle;
+    /*width: 0px;
+    height: 0px;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 5px solid #2f2f2f;*/
+}
+.arrow-up:hover {
+  text-decoration: none;
+}
+#charities-performing-similar-work {
+  background-color: #eee !important;
+  border: none !important;
+}
+#leftnavcontent h1 {
+  padding-bottom: 8px;
+}
+div.mobile-historical-ratings table td {
+  font-size: 0.9em;
+}
+    Arts, Culture, Humanities : Libraries, Historical Societies and Landmark Preservation 
+      George Washington's Mount Vernon
+      Preserving and managing George Washington's estate and educating the world about the life of George Washington.
+              three stars
+            89.03
+          3200 Mount Vernon Memorial Highway Mount Vernon, VA 22121
+            tel: (703) 780-2000 
+              Web Site  
+          EIN: 
+          54-0564701 
+        Board Leadership
+        Sarah Miller Coulson
+        Regent
+        CEO
+        Douglas Bradburn
+        President &amp; CEO
+                                Add to My Charities
+                            Donate to this Charity
+                    Print
+                    Share
+div.advisory-charity-response {
+	border: 1px solid #CCCCCC !important;
+	padding: 0;
+}
+          Rating Profile
+            Programs
+            Historical Ratings
+            IRS (Forms 990)
+                      Score (out of 100)
+                    Rating
+                    Overall Score &amp; Rating
+                    89.03
+                    three stars
+                      Financial 
+                    85.02
+                    three stars
+                      Accountability &amp; Transparency
+                    96.00
+                    four stars 
+              This rating was published 07/01/2020 and includes data from FY2018, the most recent 990 received at that time. 
+                Why isn't this based on more recent data?
+          Back to Top ▲
+                    Mission▲
+                    The Mission of the Mount Vernon Ladies' Association is to preserve, restore, and manage the estate of George Washington to the highest standards and to educate visitors and people throughout the world about the life and legacies of George Washington, so that his example of character and leadership will continue to inform and inspirefuture generations.
+                    Mission▲
+                    The Mission of the Mount Vernon Ladies' Association is to preserve, restore, and manage the estate of George Washington to the highest standards and to educate visitors and people throughout the world about the life and legacies of George Washington, so that his example of character and leadership will continue to inform and inspirefuture generations.
+            Back to Top ▲
+                Impact Information
+                ▲
+            Impact Information
+                        Looking for Impact Information?
+                            Charity Navigator is collaborating with
+                            GuideStar, 
+                            GlobalGiving, 
+                            Classy, 
+                            and ImpactMatters 
+                            to display impact-related information on our rated profile pages. Each partner collects this data directly from nonprofits and provides updates to Charity Navigator when available.
+                            If you are interested in seeing this charity provide its impact information, please click below. 
+                            This will indicate your interest and encourage the nonprofit to share data with partners that are currently collecting information.
+                            Request Impact Information
+        Back to Top ▲
+            Learn more about how we calculate the overall score and rating.
+            Rating Overview
+            ▲
+              Financial 
+              three stars
+              85.02
+              Accountability &amp; Transparency
+              four stars
+              96.00
+              This rating was published 07/01/2020 and includes data from FY2018, the most recent 990 received at that time. 
+                  Why isn't this based on more recent data?
+                  Learn more about how we calculate the overall score and rating.
+      Back to Top ▲
+          Financial Performance Metrics
+        ▲
+            Program Expenses
+            (Percent of the charity's total expenses spent on the programs 
+            and services it  delivers)
+             84.4%
+            Administrative Expenses
+              7.7%
+            Fundraising Expenses
+              7.8%
+            Fundraising Efficiency
+            $0.22
+            Working Capital Ratio (years) 
+            4.31
+            Program Expenses Growth
+              0.7%
+              Liabilities to Assets
+                8.8%
+            All data for Financial Performance Metrics calculations was provided by George Washington's Mount Vernon on recent 990s filed with the IRS.
+                   Joint Cost Allocation Adjustment applied. Learn more.
+        All data for Financial Performance Metrics calculations was provided by George Washington's Mount Vernon on recent 990s filed with the IRS.
+      Back to Top ▲
+      Accountability &amp; Transparency Performance Metrics▲
+        Information Provided on the Form 990
+        Independent Voting Board Members
+        No Material diversion of assets
+        Audited financials  prepared by independent accountant
+        Does Not Provide Loan(s) to or Receive Loan(s) From related parties
+        Documents Board Meeting Minutes
+        Provided copy of Form 990  to organization's governing body in advance of filing
+        Conflict of Interest  Policy
+        Whistleblower Policy
+        Records Retention and Destruction Policy
+        CEO listed with  salary
+        Process for determining  CEO compensation
+        Board Listed / Board Members Not Compensated
+        Is the following information easily accessible on the charity's website?
+        Donor Privacy  Policy
+        Board Members Listed
+        Audited Financials
+        Form 990 
+        Key staff listed 
+        Charities Performing Similar Types of Work▲
+Highly Rated		 
+                Charity
+                  Name &amp; State
+                Overall Score
+                Overall Rating
+                George Washington's Mount Vernon (VA)
+                89.03
+                three stars
+                  The Royal Oak Foundation (NY)
+                    92.23
+                    four stars 
+                  Archaeology Southwest (AZ)
+                    97.11
+                    four stars 
+                  Archaeological Conservancy (NM)
+                    89.88
+                    three stars 
+                  Blithewold (RI)
+                    85.07
+                    three stars 
+Compare These Charities (Highly Rated)
+        Back to Top ▲
+    Income Statement     (FYE 12/2018)▲
+        REVENUE
+            Contributions
+               Contributions, Gifts &amp; Grants
+            $23,618,909
+           Federated Campaigns
+        $0
+           Membership Dues
+        $1,546,835
+           Fundraising Events
+        $951,645
+           Related Organizations
+        $0
+           Government Grants
+        $0
+        Total Contributions
+        $26,117,389
+           Program Service Revenue
+        $15,687,415
+        Total Primary Revenue
+        $41,804,804
+           Other Revenue
+        $18,263,217
+        TOTAL REVENUE
+        $60,068,021
+        EXPENSES (Adjusted)
+           Program Expenses
+        $41,478,911
+           Administrative Expenses
+        $3,844,912
+           Fundraising Expenses
+        $4,359,358
+        TOTAL FUNCTIONAL EXPENSES
+        $49,683,181
+        Payments to Affiliates
+        $0
+        Excess (or Deficit) for the year 
+        $10,384,840
+        Net Assets
+        $260,659,226
+        Back to Top ▲
+        Financial Charts▲
+          Programs (FYE 12/2018)▲
+              Program names and associated costs are listed for the top programs as reported on the charity's most recently filed Form 990. The top programs displayed will include the largest three programs, or those programs covering at least 60% of the charity's total expenses, whichever comes first.
+        Program Name
+        Amount Spent        
+        % of Program Expenses
+            Education
+            $26,877,121 
+             63.6%
+            Historic Preservation and Collections
+            $15,392,439 
+             36.4%
+                Ratings History▲
+  Ratings History
+      table.ratings {
+        border-spacing: 0;
+      }
+      table.ratings td {
+        padding: 10px;
+      }
+        	Form 990 FYE
+          Date Published
+          Overall Score
+          Overall Rating
+                  CN 2.1
+                          2018-12 
+                07/01/2020 
+              89.03
+              three stars
+                          2017-12 
+                04/01/2019 
+              89.48
+              three stars
+                          2016-12 
+                06/01/2018 
+              92.91
+              four stars
+                          2015-12 
+                08/01/2017 
+              93.95
+              four stars
+                          2014-12 
+                06/01/2016 
+              93.32
+              four stars
+                  CN 2.0
+                          2013-12 
+                07/01/2015 
+              93.67
+              four stars
+                          2012-12 
+                04/01/2014 
+              93.75
+              four stars
+                          2011-12 
+                05/01/2013 
+              93.13
+              four stars
+	2011-12 
+                03/01/2013 
+              88.70
+              three stars
+                          2010-12 
+                04/01/2012 
+              89.07
+              three stars
+                          2009-12 
+                09/20/2011 
+              84.06
+              three stars
+                  CN 1.0
+                          2009-12 
+                04/01/2011 
+              83.17
+              three stars
+                          2008-12 
+                05/01/2010 
+              85.44
+              three stars
+                          2007-12 
+                07/01/2009 
+              84.15
+              three stars
+                          2006-11 
+                09/01/2008 
+              76.26
+              two stars
+                          2005-11 
+                03/01/2007 
+              73.38
+              two stars
+                          2004-11 
+                01/01/2006 
+              84.03
+              three stars
+                          2003-11 
+                02/01/2005 
+              88.20
+              three stars
+                          2002-11 
+                11/01/2003 
+              91.89
+              four stars
+                          2001-11 
+                10/15/2002 
+              75.44
+              two stars
+        Detailed side-by-side report
+                IRS Data/Forms 990▲
+          The data displayed on this tab is provided by the IRS in the form of Publication 78 and the Business Master File (BMF).
+      EIN
+      54-0564701
+      Name in IRS Master File
+      MOUNT VERNON LADIES ASSOCIATION OF THE UNION
+      NTEE Code
+      A80
+      NTEE Classification
+      Historical Societies, Related Historical Activities
+      NTEE Type
+      Arts, Culture and Humanities
+      Classification
+      Charitable Organization
+      Subsection
+      501(c)(3)  (View the list of codes)
+      Activities
+      (62) Historical site, records or reenactment 
+          (60) Museum, zoo, planetarium, etc. 
+      Foundation Status
+      Organization that normally receives no more than one-third of its support from gross investment income and unrelated business income and at the same time more than one-third of its support from contributions, fees, and gross receipts related to exempt purposes.  509(a)(2)
+      Deductibility
+      Contributions are deductible
+      Affiliation
+      Independent - the organization is an independent organization or an independent auxiliary (i.e., not affiliated with a National, Regional, or Geographic grouping of organizations).
+      Group Name
+      [Not Applicable]
+        Ruling Date
+        April, 1938
+      Filing Requirement
+      990 (all other) or 990EZ return
+      Fiscal Year End
+      December
+      IRS Forms 990 
+        (provided courtesy of Foundation Center)
+          (Log In or Register Now to View Forms 990!)
+        December, 2017
+        December, 2016
+        December, 2015
+        December, 2014
+        December, 2013
+    Back to Top ▲
+                Compensation of Leaders      (FYE 12/2018)▲
+                Compensation
+                % of Expenses
+                Paid to
+                Title
+                    $315,889 
+                    0.63% 
+                Douglas Bradburn
+                President, CEO
+                  Back to Top ▲
+        Charities Performing Similar Types of Work▲
+Highly Rated		 
+                Charity
+                  Name &amp; State
+                Overall Score
+                Overall Rating
+                George Washington's Mount Vernon (VA)
+                89.03
+                three stars
+                  American Society for Yad Vashem (NY)
+                    97.11
+                    four stars 
+                  Archaeological Conservancy (NM)
+                    89.88
+                    three stars 
+                  The Mount (MA)
+                    87.52
+                    three stars 
+                  Statue of Liberty-Ellis Island Foundation (NY)
+                    90.94
+                    four stars 
+Compare These Charities (Highly Rated)
+                Charity Representative Login▲
+              This charity has an official representative registered with Charity Navigator. 
+	div.pageFeedback {
+		margin: 10px 10px 0 10px;
+		padding: 0px; 
+		background-color: #efefef;
+		border: 2px solid #096;
+	}
+	.pageFeedback .accordion-item-bd.bordertop {
+		border-top:1px solid #096;
+	}
+	div.pageFeedback h3 {
+		padding: 0;
+	}
+	.feedbackbubble {
+		width:190px;
+		text-align:center;
+		border-left:2px solid #999;
+		height:100%;
+		line-height:46px;
+		margin: 0 0 0 10px;
+	}
+	div.pageFeedback form .label {
+		font-weight: bold;
+	}
+	.question .response {
+		display: inline;
+	}
+	.question .response label {
+		margin-left: 20px;
+	}
+	div.pageFeedback .submit-button {
+		text-align: center;
+		margin-top: 10px;
+	}
+	div.pageFeedback textarea.content {
+		height: 50px;
+		width: 90%;
+	}
+	form .spinner
+	, form .problem 
+	, form .error 
+	, div.pageFeedback .thanks
+	, div.pageFeedback.feedback-submitted form.feedback
+	, div.pageFeedback.feedback-submitted h3 div.provide-feedback
+	, div.pageFeedback div.done
+	, div.pageFeedback.contact-submitted form.contact-info
+	, div.pageFeedback.contact-submitted div.feedback-thanks
+	{
+		display: none;
+	}
+	form.submitting .spinner
+	, form.error .error 
+	, form.problem .problem 
+	, div.pageFeedback.feedback-submitted .thanks 
+	, div.pageFeedback h3 div.provide-feedback
+	, div.pageFeedback.contact-submitted .done 
+	{
+		display: block;
+	}
+    Charity Contact Info
+		    George Washington's Mount Vernon
+			3200 Mount Vernon Memorial Highway
+			Mount Vernon,
+			VA 22121
+			tel: (703) 780-2000 
+            EIN: 54-0564701
+Mail donations to:
+P.O. Box 110
+Mount Vernon, VA 22121
+			Visit Web Site
+          Board Leadership 
+        Sarah Miller CoulsonRegent
+      CEO
+      Douglas Bradburn
+      President &amp; CEO
+       Rating Profile Table of Contents
+            Overall Score &amp; Rating
+            Mission
+            Impact Information
+            Financial Performance Metrics
+            Accountability &amp; Transparency Performance Metrics
+            Income Statement
+            Financial Charts
+            Compensation of Leaders
+            Charities Performing Similar Types of Work
+	Share
+              I want to donate to
+              George Washington's Mount Vernon
+                  Designate this donation to: 
+                  $25
+                  $100
+                  $500
+                  Other
+                $
+          next 
+            Frequency
+              One Time
+              Monthly
+              Quarterly
+              Annual
+            Please share with this organization: 
+              My name and email address
+              My name, email, and postal address
+              Anonymous
+           back
+          next 
+                  Donate in honor or memory of a loved one
+                  Select
+                  In Honor Of          
+                  In Memory Of          
+                Would you like us to email someone and CC you?
+                This email identifies you as the donor but does not specify the amount of your gift.
+           back
+                        A donation of
+                         to
+                         has been added to your Giving Basket!
+                        Basket Total:
+                        Check Out Now
+                    or
+                    Continue Researching
+div.home-email-cta input {
+  -webkit-appearance: none;
+}
+.home-email-cta {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 15px;
+  background-color: #666;
+  clear:both;
+}
+.home-email-cta form h3 {
+  color: #FFF;
+  padding-bottom: 10px;
+  font-weight: normal;
+    font-size: 14px;
+}
+.home-email-cta form h2 {
+  color: #FFF;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+.labelText {
+  display:block;
+  padding-bottom:0px;
+  font-size:15px;
+  }
+.css-input-group {
+  display:inline-block;
+  margin-bottom: 15px;
+  }
+.css-input-group input,.css-input-group select {
+  padding: 8px;
+  font-size:16px;
+  border-radius: 5px;
+  border: 1px solid #DDD;
+  } 
+.large {
+  width:380px !important;}  
+input#mc-embedded-subscribe {
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  padding: 10px;
+  background-color: #096;
+  color: #FFF;
+  font-weight: bold;
+}
+div.home-email-cta div.after {
+  color: #fff;
+  padding: 50px;
+}
+            Join Our Mailing List
+            Join over 400,000 other informed givers and get updates on charity ratings, new features, hot topics, and tips for donating.
+      Thank you for your interest in Charity Navigator and Informed Giving
+As seen on 
+      About Us
+      ▲
+         Overview
+         Mission, Vision, and Goals
+         Rating Methodology
+         Financials and Policies
+         Our Staff
+         Our Board of Directors
+         Expert Groups
+        Products &amp; Services
+        ▲
+           Charity Navigator's API
+           Ratings in Print
+          Customized Charity Lists
+        Media
+        ▲
+           Press Room
+          Articles
+          Blog
+           Link to Us
+        Connect With Us
+        ▲
+           Join Our Team
+           Support Our Work
+           FAQ
+           Knowledge Base
+           Contact Us
+         Privacy Policy
+          |  
+         Terms of Use
+          |  
+         Donor Privacy Policy
+          |  
+         Copyright Notice
+            Follow us on Facebook
+            Follow us on Twitter
+            Follow us on Linkedin
+         Copyright ©2020
+          |  
+         299 Market Street Suite 250, Saddle Brook, NJ 07663
+          |  
+         EIN 13-4148824
+          |  
+         Bridge ID 3108588923
+     Charity Navigator
+      299 Market Street Suite 250
+      Saddle Brook, NJ 07663 
+      EIN: 13-4148824
+      BRIDGE ID: 3108588923
+     Terms of Use   Privacy Policy
+   Sign in
+            Support Charity Navigator
+    Other Ways To Give
+    My Charities
+    My Account
+    Top Ten Lists
+    Hot Topics
+    Tips for Donors
+    Blog

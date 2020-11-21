@@ -1,0 +1,239 @@
+        About
+            Branching and Merging
+            Small and Fast
+            Distributed
+            Data Assurance
+            Staging Area
+            Free and Open Source
+            Trademark
+        Documentation
+            Reference
+            Book
+            Videos
+            External Links
+        Downloads
+            GUI Clients
+            Logos
+        Community
+This book is available in
+  English.
+  Full translation available in
+    български език,
+    Deutsch,
+    Español,
+    Français,
+    Ελληνικά,
+    日本語,
+    한국어,
+    Nederlands,
+    Русский,
+    Slovenščina,
+    Tagalog,
+    Українська
+    简体中文,
+  Partial translations available in
+    Čeština,
+    Македонски,
+    Polski,
+    Српски,
+    Ўзбекча,
+    繁體中文,
+  Translations started for
+    azərbaycan dili,
+    Беларуская,
+    فارسی,
+    Indonesian,
+    Italiano,
+    Bahasa Melayu,
+    Português (Brasil),
+    Português (Portugal),
+    Svenska,
+    Türkçe.
+The source of this book is  hosted on GitHub.
+Patches, suggestions and comments are welcome.
+  Book
+      2nd Edition (2014)
+        Download Ebook
+  The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress, is available here. All content is licensed under the Creative Commons Attribution Non Commercial Share Alike 3.0 license. Print versions of the book are available on Amazon.com.&gt;
+    1. Начало
+              1.1
+              За Version Control системите
+              1.2
+              Кратка история на Git
+              1.3
+              Какво е Git
+              1.4
+              Конзолата на Git
+              1.5
+              Инсталиране на Git
+              1.6
+              Първоначална настройка на Git
+              1.7
+              Помощна информация в Git
+              1.8
+              Обобщение
+    2. Основи на Git
+              2.1
+              Създаване на Git хранилище
+              2.2
+              Запис на промени в хранилището
+              2.3
+              Преглед на историята на действията
+              2.4
+              Възстановяване на направени действия
+              2.5
+              Работа с отдалечени хранилища
+              2.6
+              Тагове в Git
+              2.7
+              Псевдоними в Git
+              2.8
+              Обобщение
+    3. Клонове в Git
+              3.1
+              Накратко за разклоненията
+              3.2
+              Основи на клоновете код и сливането
+              3.3
+              Управление на клонове
+              3.4
+              Стратегии за работа с клонове код
+              3.5
+              Отдалечени клонове
+              3.6
+              Пребазиране на клонове
+              3.7
+              Обобщение
+    4. Git на сървъра
+              4.1
+              Комуникационни протоколи
+              4.2
+              Достъп до Git на сървъра
+              4.3
+              Генериране на SSH публичен ключ
+              4.4
+              Настройка на сървъра
+              4.5
+              Git Daemon
+              4.6
+              Smart HTTP
+              4.7
+              GitWeb
+              4.8
+              GitLab
+              4.9
+              Други опции за хостване
+              4.10
+              Обобщение
+    5. Git в разпределена среда
+              5.1
+              Разпределени работни процеси
+              5.2
+              Как да сътрудничим в проект
+              5.3
+              Управление на проект
+              5.4
+              Обобщение
+    6. GitHub
+              6.1
+              Създаване и настройка на акаунт
+              6.2
+              Как да сътрудничим в проект
+              6.3
+              Управление на проект
+              6.4
+              Управление на организация
+              6.5
+              Автоматизиране с GitHub
+              6.6
+              Обобщение
+    7. Git инструменти
+              7.1
+              Избор на къмити
+              7.2
+              Интерактивно индексиране
+              7.3
+              Stashing и Cleaning
+              7.4
+              Подписване на вашата работа
+              7.5
+              Търсене
+              7.6
+              Манипулация на историята
+              7.7
+              Мистерията на командата Reset
+              7.8
+              Сливане за напреднали
+              7.9
+              Rerere
+              7.10
+              Дебъгване с Git
+              7.11
+              Подмодули
+              7.12
+              Пакети в Git (Bundling)
+              7.13
+              Заместване
+              7.14
+              Credential Storage система
+              7.15
+              Обобщение
+    8. Настройване на Git
+              8.1
+              Git конфигурации
+              8.2
+              Git атрибути
+              8.3
+              Git Hooks
+              8.4
+              Примерна Git-Enforced политика
+              8.5
+              Обобщение
+    9. Git и други системи
+              9.1
+              Git като клиент
+              9.2
+              Миграция към Git
+              9.3
+              Обобщение
+    10. Git на ниско ниво
+              10.1
+              Plumbing и Porcelain команди
+              10.2
+              Git обекти
+              10.3
+              Git референции
+              10.4
+              Packfiles
+              10.5
+              Refspec спецификации
+              10.6
+              Транспортни протоколи
+              10.7
+              Поддръжка и възстановяване на данни
+              10.8
+              Environment променливи
+              10.9
+              Обобщение
+    A1. Appendix A: Git в други среди
+              A1.1
+              Графични интерфейси
+              A1.2
+              Git във Visual Studio
+              A1.3
+              Git във Visual Studio Code
+              A1.4
+              Git в Eclipse
+              A1.5
+              Git in IntelliJ / PyCharm / WebStorm / PhpStorm / RubyMine
+              A1.6
+              Git в Sublime Text
+              A1.7
+              Git в Bash
+              A1.8
+              Git в Zsh
+              A1.9
+              Git в PowerShell
+    About this site
+    Patches, suggestions, and comments are welcome.
+    Git is a member of Software Freedom Conservancy

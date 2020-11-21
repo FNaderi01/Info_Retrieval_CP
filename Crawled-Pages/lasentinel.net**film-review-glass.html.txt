@@ -1,0 +1,319 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+FILM REVIEW: “Glass”            
+				By Dwight Brown NNPA News Wire Film Critic                
+	                	                Published January 24, 2019
+		After viewing Glass, there will be a great debate: Should M. Night Shyamalan stop writing scripts for his films? Should he refrain from directing them? Or maybe both! 
+Remember The Sixth Sense? Slow, odd movie with a very shocking ending? Shyamalan has gone back to that drawing board and sketched in a hybrid movie that pulls together plotlines from two of his previous films. Unbreakable from the year 2000: David Dunn (Bruce Willis), a security guard, is involved in a catastrophic train accident that kills all onboard, except him. A stranger, Elijah Prince (Samuel L. Jackson), aka Mr. Glass, swears the event was Dunn’s destiny. Split in 2016: Kevin Wendell Crumb (James McAvoy), an evil man with super strength and 23 personalities, kidnaps three girls. The most venomous of his inner demons, The Beast, is vile beyond redemption. 
+Fast forward to 2019, Philadelphia, PA., Dunn is a street vigilante with inordinate power and becomes clairvoyant when he brushes up against people. He wears a hooded raincoat to hide his identity as he stalks and annihilates criminals who prey on innocent victims. Cops hunt him. His son Joseph (Spencer Treat Clark) supports his efforts.  
+        ADVERTISEMENT        
+Prince, a supervillain mastermind with a genetic disorder that leaves his bones so brittle they break like potato chips, is a patient/captive at the Raven Hill Memorial Psychiatric Research Hospital. Crumb? Well he has kidnapped four high school cheerleaders and is toying with them as he summons up the devil inside for a massive slaughter. After some fights, brawls and power struggles, all three wind up at Raven Hill, under the supervision of Dr. Ellie Staple (Sarah Paulson), a psychiatrist who specializes in delusional behavior particularly with people who believe they have superpowers.  
+Bruce Willis as David Dunn/The Overseer in “Glass,” written and directed by M. Night Shyamalan. (Photo Courtesy Universal Pictures)
+Shyamalan combines the two previous storylines but never ups the ante. The theme in this new venture explores people who have extraordinary abilities and use them for good or evil, a subject that is only mildly intriguing. Instead of making this premise a source of inspiration, his very clunky, heavy-handed script belabors the point. At some juncture, audiences won’t welcome that silly unfulfilling thought pattern. Dunn says: “You can’t explain everything away.” 
+Then there’s the very illogical plot pieces and improbable events that lead to a surprising but limp conclusion. It’s dumb for Dr. Staple to put the three very combustible oddballs in the same facility. Dumber still to allow her staff easy access to their highly secured cells/rooms. Employees hand-deliver meals to the devious patients, fraternize and make small talk. They don’t sense impending danger. Also, if the three volatile men are in a true high-security facility, escaping would not be a cakewalk and pushing a panic alarm button would be the first line of defense, not the last one.  
+Samuel L. Jackson as Elijah Price/Mr. Glass and James McAvoy (background, in yellow) as Kevin Wendell Crumb/The Horde in “Glass,” written and directed by M. Night Shyamalan. (Photo Courtesy Universal Pictures)
+The overwritten script plods along at a snail’s pace. The first one hour and fifteen minutes are tedious enough to cause a group eye roll. Sloppy indecisive editing (Luke Ciarrocchi and Blu Murray) stymies any rhythm. Shyamalan’s spotty unimaginative direction and Mike Gioulakis’ dull cinematography make fight scenes a snore. None of the action is filmed from an interesting angle and the camera’s placement is often quite awkward. Scenes build to a finale where the audience expects a cataclysmic, visually arresting orgy of a battle. But there is none. Compare the style, direction, cinematography and special effects of The Avengers series, Wonder Woman, The Dark Knight, Deadpool and Black Panther to that in Glass, and the latter’s execution looks even more pitiful.  
+(from left) Samuel L. Jackson as Elijah Price/Mr. Glass and James McAvoy as Kevin Wendell Crumb/The Horde in “Glass,” written and directed by M. Night Shyamalan. (Photo Courtesy Universal Pictures)
+The three freaks are not all that engaging. Dunn is on the side of good, but with that constant scowl on Bruce Willis’ face, he is a buzzkill. Samuel L. Jackson acts like Samuel L. Jackson: He’s never met a piece of scenery he couldn’t chew up. The most curious performance is that of James McAvoy as the bizarre dude with freaky personalities. McAvoy shifts through them as smoothly as a Porsche gearbox going from park to neutral to drive, to turbo. Each character is distinct: the child, the woman, the hipster and the demon god from hell. McAvoy tries hard, but the direction doesn’t compliment his performance and his scenes drag on too long.  
+Paulson walks around comatose and is asked to say dumb things and disregard the way a real shrink would deal with patients. Even though what she is doing is a complete ruse, her Dr. Staples doesn’t act accordingly. Anya Taylor-Joy as a former Crumb victim and Charlayne Woodard as Price’s mom fill out the supporting cast without much conviction. 
+Two hours and nine minutes roll by, and the film is about as frustrating as standing in a TSA line at the airport. Fault the strained writing. Blame the lifeless direction. Question the injudicious editing. Abhor the clumsy cinematography. Condemn that lack of “wow” power special effects and dazzling action scenes.  
+Glass might cause a stir at Comic-Con. Other audiences will likely scratch their heads in unison and hope they don’t get trampled as viewers stampede towards the exits. 
+Visit NNPA News Wire Film Critic Dwight Brown at DwightBrownInk.com and BlackPressUSA.com.  
+		Categories: Entertainment | Movies | News (Entertainment) | Theater Tags: Bruce Willis | Comic-Con | Dwight Brown | film review | Glass | James McAvoy | Samuel L. Jackson | Sarah Paulson | Should M. Night Shyamalan | Spencer Treat Clark | Split | Unbreakable		
+						Kam’s Kapsules: Weekly Previews That Make Choosing a Film Fun
+						NBA 2K League to Host First International Qualifying Event
+						Forest Lawn Memorial Parks presents ‘An Evening of Gospel, Jazz, and ...
+						The Reverend Shawn Amos: A Night in Harlem
+						Black Lives + Antigone
+						Michael Jackson’s Estate Slams Abuse Documentary Debut at Sundance Film F...
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

@@ -1,0 +1,84 @@
+	Wikipedia:Canle de IRC
+		Na Galipedia, a Wikipedia en galego.
+		Saltar ata a navegación
+		Saltar á procura
+Atallo:
+  WP:IRC
+Referencia rápida
+Red:
+freenode
+Servidor:
+irc.freenode.net
+Canle:
+#wikipedia-gl(ligazón directa)
+Esta páxina intenta explicar como podes conectarte á canle de IRC da Wikipedia en galego para poder participar máis activamente na Wikipedia e que outros wikipedistas poidan solucionarche os problemas que poidas atopar.
+Índice
+1 Sobre IRC
+2 Obter un cliente IRC
+3 Rexistrar o teu nome e identificarte
+3.1 Comandos
+4 Que son eses caracteres raros que vexo? (problemas con UTF-8)
+5 Usuarios do IRC
+6 A canle #wikipedia-gl e a wikipedia
+Sobre IRC[editar a fonte]
+Chámaselle IRC (Internet Relay Chat) a unha rede de comunicación en tempo real na que podes falar cun grupo de usuarios ao mesmo tempo. Estes grupos de usuarios están conectados a unha das redes de IRC. A rede freenode [1] inclúe grupos de usuarios e canles que tratan sobre proxectos de software libre.
+Os grupos de usuarios concéntranse en canles; estas sempre levan o signo # diante do nome da canle. Por exemplo, a nosa canle chámase #wikipedia-gl e está dentro da rede freenode cuxa dirección é irc.freenode.net.
+Se usas o navegador Firefox tamén podes descargar a extensión (addon) Chatzilla para usar o IRC dende o teu navegador.
+Tamén podes conectarte a través de webchat a con esta ligazón.
+Obter un cliente IRC[editar a fonte]
+Para poder participar nunha canle de IRC o primeiro que necesitas é un cliente IRC, que simplemente é un programa co cal conectarse a unha destas redes.
+Hai moitos clientes, algúns máis complicados de utilizar que outros pero con máis características. Os máis interesantes son X-Chat, Pidgin, e mirC - IRcap, todos libres, moi sinxelos de usar e con versións para os sistemas operativos máis comúns.
+Rexistrar o teu nome e identificarte[editar a fonte]
+Se te conectas habitualmente á rede, deberías rexistrar o teu nome de usuario do mesmo xeito que o fas na Wikipedia para que os demais usuarios poidan identificarte e ninguén poida usurpar a túa personalidade. Ademais, isto permitirache enviar mensaxes privadas a outros usuarios, que segundo a configuración de freenode, están deshabilitados para usuarios non rexistrados. Existen canles na que é un requisito estar rexistrado para poder falar, pero ese non é o noso caso.
+Comandos[editar a fonte]
+Podes empregar estes comandos para cambiar de nick, rexistralo, identificarte ou recuperalo. Lémbrate de facelo sempre na ventá que pon "irc.freenode.net" e non na do canle, para que outros usuarios non poidan ver o teu contrasinal.
+ /nick **** 
+Serve para cambiar de nick. Substitúe os **** polo nick que queiras.
+ /msg nickserv register **** 
+Cando teñas posto o teu nick, escribe este comando para rexistralo, poñendo o contrasinal que queiras en vez de ****. Só fai falla rexistrar o nick a primeira vez que te conectes. O contrasinal que empreges debería ser diferente ao que utilizas na Wikipedia porque poderías escribir por erro o contrasinal na canle e poderíano ler todos os usuarios, aínda que non é habitual porque a maioría dos clientes permiten identificarte automaticamente.
+ /msg nickserv identify **** 
+Cada vez que entres no chat podes identificar o teu nick con este comando. Non é obrigatorio, mais si recomendable.
+ /msg nickserv set password **** 
+Serve para cambiar de contrasinal. Substitúe os **** polo novo contrasinal que queiras poñer.
+Que son eses caracteres raros que vexo? (problemas con UTF-8)[editar a fonte]
+No IRC utilizamos a codificación UTF-8 para charlar (a mesma que utiliza a Wikipedia).
+Na actualidade, a maioría dos clientes poden interpretar correctamente a codificación UTF-8, así que se ves caracteres estraños é moi probable que o teu cliente estea desactualizado ou mal configurado. Para solucionar iso hai moitos parches ou tI mesmo podes configuralo.
+Usuarios do IRC[editar a fonte]
+Se es un usuario habitual do canle IRC da Galipedia podes engadir na túa páxina o marcador {{Usuario IRC|nome}} para que o resto dos usuarios poidan identificarte coma tal.
+Este usuario conéctase á Canle de IRC da Galipedia #wikipedia-gl.O seu nick é exemplo.
+A canle #wikipedia-gl e a wikipedia[editar a fonte]
+A canle #wikipedia-gl en freenode é un lugar non oficial no que os colaboradores conversan mediante IRC. No que fai respecto á súa relación coa Wikipedia, o IRC é o equivalente a unha mensaxe por correo electrónico ou a parolar nun bar: son conversas privadas que, normalmente, non teñen influencia sobre como se debe desenvolver a Galipedia.
+Algúns usuarios conéctanse mentres traballan na Galipedia e observan as discusións de cando en vez para ver de que se está a falar ou para participar. Algúns programas alertan cando se produce actividade na canle para que os colaboradores non perdan nada. Frecuentemente, os usuarios acoden a #wikipedia-gl para realizar consultas rápidas ou para chamar a atención dos demais sobre algo en particular.
+Para debates oficiais, o lugar apropiado é A Taberna.
+Traído desde "https://gl.wikipedia.org/w/index.php?title=Wikipedia:Canle_de_IRC&amp;oldid=5061016"
+		Categoría: Wikipedia:Administración
+	Menú de navegación
+		Ferramentas persoais
+		Non accedeu ao sistemaConversaContribuciónsCrear unha contaAcceder ao sistema
+		Espazos de nomes
+		WikipediaConversa
+		Variantes
+		Vistas
+		LerEditar a fonteVer o historial
+		Máis
+		Procura
+		Navegación
+		PortadaPortal da comunidadeA TabernaActualidadeCambios recentesArtigos de calidadePáxina aleatoriaAxudaDoazóns
+		Ferramentas
+		Páxinas que ligan con estaCambios relacionadosPáxinas especiaisLigazón permanenteInformación da páxinaElemento de Wikidata
+		Imprimir/exportar
+		Crear un libroDescargar como PDFVersión para imprimir
+		Noutros proxectos
+		Wikimedia CommonsMeta-WikiWikidata
+		Outras linguas
+		AfrikaansAlemannischالعربيةঅসমীয়াAzərbaycancaБеларуская (тарашкевіца)‎БългарскиবাংলাBosanskiCatalàНохчийнČeštinaDanskDeutschΕλληνικάEnglishEsperantoEspañolEuskaraفارسیSuomiFrançaisעבריתहिन्दीHrvatskiMagyarBahasa IndonesiaItaliano日本語한국어RipoarischമലയാളംमराठीBahasa MelayuNapulitanoPlattdüütschNedersaksiesNederlandsNorsk nynorskNorsk bokmålOccitanଓଡ଼ିଆPolskiPortuguêsRomânăTarandíneРусскийSrpskohrvatski / српскохрватскиSimple EnglishSlovenčinaSlovenščinaShqipСрпски / srpskiSundaSvenskaไทยTürkçeУкраїнськаاردوVènetoTiếng Việt吴语ייִדיש中文文言粵語
+		Editar as ligazóns
+		 A última edición desta páxina foi o 12 de febreiro de 2019 ás 19:51.
+		Todo o texto está dispoñible baixo a licenza Creative Commons recoñecemento compartir igual 3.0; pódense aplicar termos adicionais. Consulte os termos de uso para obter máis información.Wikipedia® é unha marca rexistrada da Wikimedia Foundation, Inc., unha organización sen fins lucrativos.
+		Política de protección de datos
+		Acerca de Wikipedia
+		Advertencias
+		Vista móbil
+		Desenvolvedores
+		Estatísticas
+		Declaración de cookies

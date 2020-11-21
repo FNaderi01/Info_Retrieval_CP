@@ -1,0 +1,330 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Supervisor Ridley-Thomas and Partners Host Sneak Peek of $70m Magic Johnson Park Renovation and Community Drive-Thru Tour            
+				By Sentinel News Service                
+	                	                Published October 8, 2020
+		Supervisor Mark Ridley Thomas and Earvin “Magic” Johnson Courtesy photo
+Highlight Park Improvements and Distribute Resources to South Los Angeles Community
+Supervisor Mark-Ridley-Thomas in collaboration with the LA County Department of Parks and Recreation and a number of community partners, hosted a socially-distanced, sneak peek of Earvin “Magic” Johnson Park’s new building facilities and myriad of amenities followed by a “drive-thru” tour of the park and resource distribution for 2,500 community members.
+The $70 million project, the largest park investment by LA County in recent history, features improvements that include a 20,000 square foot event center to host conferences and other large gatherings, a dedicated outdoor wedding pavilion, a splash pad, children’s play areas, and a completely redesigned southern lake which has a half-mile walking trail, enhanced lighting, fitness equipment and other amenities. The park also has an innovative water system to address water conservation and quality. Under the new system, water will be diverted from nearby Compton Creek, cleaned, and then used to fill the lower lake and irrigate the park—creating a wetland experience for park-goers. The initial phase of the project has been designed by AHBE | MIG and Paul Murdoch Architects. Overall, 30 acres of the park have been improved.
+        ADVERTISEMENT        
+Over the past five years, Supervisor Mark-Ridley-Thomas has led efforts to revitalize Earvin “Magic” Johnson Park with the understanding that parks generate economic, physical, and social benefits, in addition to creating stronger community ties. “What you see before you today, represents the dreams and vision of many members of this community,” said Supervisor Ridley-Thomas. “Now more than ever, our communities deserve investments in our public spaces to make them centers for gathering, learning, and respite. Magic Johnson Park has experienced a true transformation. My sincere appreciation goes out to all of the partners who have played an indispensable role in the revitalization and rebirth of this park.”
+“Thanks to a tremendous partnership with Supervisor Mark Ridley-Thomas, the County of Los Angeles and other community organizations, we now have a state-of-the-art facility, and high-quality amenities for the South Los Angeles community,” said Chairman and CEO of Magic Johnson Enterprises, Earvin “Magic” Johnson, the park’s namesake. “I applaud the County of Los Angeles for their commitment to making this park the best in LA County, and I can’t wait to see what’s to come.”
+The park will also be home to a unique collaboration between the County Parks and Recreation Department, Department of Arts and Culture, and the Los Angeles County Museum of Art, which plan to collaborate on ongoing art classes and programming, exhibits, and artist residencies at the facility.
+Supervisor Mark Ridley-Thomas at Magic Johnson Park.  (Courtesy)
+“The renovated Magic Johnson Park and its new amenities are a wonderful resource for the surrounding community. LACMA is so pleased to deepen our decade-long relationship with Willowbrook through arts programming at the new events center this fall, and we look forward to getting to know more families, schoolchildren, and educators,” said Michael Govan, executive director of LACMA.
+“I want to acknowledge the significant investment and leadership by Supervisor Mark Ridley-Thomas in Willowbrook and South Los Angeles,” said the Los Angeles County Department of Parks and Recreation Director, Norma E. García-González. “We are motivated by our mission to serve historically underserved communities with extraordinary projects such as the Magic Johnson Park, through the Park Needs Assessment and our partnership with the Regional Park and Open Space District’s Measure A program.  The real magic is how neighbors, partners, and officials collectively worked together to transform a contaminated site, once used as an oil tank farm, to a model of sustainability; a park by the people for the people.”
+“Magic Johnson Park sets a new standard for public space in Los Angeles County, and for the kinds of community engagement that the County can bring to its residents,” said Kristin Sakoda, director of the Department of Arts and Culture. “We are thrilled to have commissioned Carla J. Harris to create the original civic artwork for the park’s amazing event center, and we are excited to work with our colleagues at the Department of Parks and Recreation and LACMA to develop a new program of community-driven and culturally relevant arts and cultural events, classes, and activities at the park that will seek to engage, inspire, and uplift through creative expression.”
+Last month, the County initiated the second phase of improvements on 16 additional acres at the park, on the land formerly known as the Ujima Village site. $10 million will be invested to transform the eastern side of the park into an outdoor oasis, with a large outdoor open space, amphitheater, play mounds, a native butterfly garden, a fitness loop/walking path, and an off-leash dog park. The second phase of improvements is anticipated to be complete in 2021.
+“This project perfectly reflects LACDA’s mission of Building Better Lives and Better Neighborhoods.  The end result will be a jewel within the community that will provide a haven for recreation, art, and cultural events.  We’re incredibly proud of our partnership with the Departments of Parks and Recreation, Arts and Culture, Public Works and the leadership of Supervisor Mark Ridley-Thomas, who ensured that the County delivered a project that will be enjoyed for generations to come,” said Emilio Salas, Acting Executive Director of Los Angeles County Development Authority.
+“As the County’s builder, Public Works is constantly looking for ways to improve a community’s quality of life through investments in public infrastructure,” Los Angeles County Public Works Director Mark Pestrella said. “This latest phase of park improvements includes a $28 million investment in water resiliency, including biofiltration gardens and an engineered-treatment wetland that will clean neighborhood runoff using nature-based solutions.”
+“I am happy to be a part of such a wonderful event. We must continue to work together for the common good of our community,” said Rafer Owens, Senior Pastor, Faith Inspirational Church.
+“The Rivers and Mountains Conservancy remains committed to moving projects forward, especially during these unprecedented times, to continue to allocate State bond funds to bring parks and open space to underserved communities throughout the region. Parks serve, day-in and day-out, as the primary green spaces for many people, and this regional park will bring much-needed access to recreation, exercise, and environmental enhancements,” said Mark Stanley, executive officer for San Gabriel and Lower Los Angeles Rivers and Mountains Conservancy.
+Following the sneak peek of the park for invited guests, the Supervisor also partnered with the Special Needs Network, the Southside Coalition of Community Health Centers, Let’s Be Whole, and LA’s sports network—which include the LA Lakers, LA Rams, Los Angeles Lakers, LA Dodgers Foundation, LA Football Club, and Play Equity—LACMA, Health Net, Blue Shield of CA, Molina Healthcare, Kilroy Realty Corporation, the California Community Foundation, The Olson Company, Anthem Blue Cross, LA Care Health Plan, and UCLA Health to supply 2,500 residents from the surrounding community with fresh, organic produce, dry food items, backpacks, school supplies, sports paraphernalia, and art kits as they tour the park improvements.
+Guests also had the opportunity to take pictures of movie characters, such as: Disney’s Princess Tiana, Marvel’s Black Panther, Universal’s Minions, as well as LAFC’s Falcon, and the LA Rams’ Rampage, all from the safety and comfort of their own vehicles. Festivities will end this evening with a free community drive-in screening of Moana at back at the Magic Johnson Park.
+Architect, Jeffrey Biben (middle) accepts certificate of recognition from Supervisor Mark Ridley-Thomas (left). (Courtesy)
+“While this pandemic may have forced us to showcase this park in a different way, I am thrilled that the South Los Angeles Community had the opportunity to see the transformation first-hand from the safety and comfort of their cars,” said Supervisor Mark Ridley-Thomas. “Magic Johnson is a leader and visionary for our community like no other – and we are so pleased that all of the sports teams that he is involved with, came together to celebrate this day with the Willowbrook Community. This collaboration truly embodies the best of Los Angeles’ civic spirit.”
+“Every year, Special Needs Network has an opportunity to bring thousands of kids and families together for a fun-filled day with live entertainment, outdoor activities and lots of healthy food at our annual back to school event.  Each kid has an opportunity to get a fresh haircut and go home with a backpack filled with school supplies. With the coronavirus pandemic and the restrictions on large gatherings, we had to be creative this year about how we could serve our community and comply with the CDC coronavirus safety guidelines. At a time when the needs of our community are greater than ever, we knew that we couldn’t abandon the event,” said Areva Martin, Founder and President, Special Needs Network. “Thanks to our many community partners, Special Needs Network was able to help reimagine the event in a way that safely meets the needs of thousands of families. As the founder and president of Special Needs Network, I couldn’t be more thrilled about being able to play a small part in easing the burden that thousands of families face during this dual pandemic.”
+“The Southside Coalition of Community Health Centers is pleased to continue our partnership with Supervisor Mark Ridley-Thomas and the Special Needs Network to provide the drive-thru “Back2School Drive-Thru” event for the community. The goal of this long-term partnership has always been to serve the community and we are thankful that we creatively restructured this event to present it to our communities,” said Southside Coalition of Community Health Centers Executive Director, Andrea Williams.
+“Communities have been significantly impacted during these uncertain times,” said Kellie Todd Griffin, Senior Director, Community and Provider Engagement, Blue Shield of California Promise Health Plan. “We are committed to helping to provide resources where they are needed the most. We are excited to be part of this great event to help to alleviate additional burdens.”
+Supervisor Mark Ridley-Thomas in collaboration with the LA County Department of Parks and Recreation and a number of community partners, hosted a socially-distanced, sneak peek of Earvin “Magic” Johnson Park’s new building facilities and myriad of amenities followed by a “drive-thru” tour of the park and resource distribution for 2,500 community members.               Courtesy photo
+“As the founder of Let’s Be Whole, I’m committed to providing quality groceries to under-resourced communities throughout Los Angeles County. We usually serve a few hundred families weekly so to have gathered enough food for 2500 families was a major feat. Partners like USC, Whole Foods, Trader Joe’s, Vesta Foods and Chefs End Hunger helped ensure that we were able to pull this massive food giveaway off,” stated Nina Womack, Founder of Let’s Be Whole.
+The new park amenities are anticipated to officially open in November with COVID-19 compliant community programming. For more information and updates, please visit https://ridley-thomas.lacounty.gov/
+		Categories: Local | News | Political Tags: Anthem Blue Cross | Blue Shield of CA | Building Better Lives and Better Neighborhoods | Health Net | Kilroy Realty Corporation | LA Care Health Plan | LA County Parks and Recreation | LA Dodgers Foundation | LA Football Club | LA Lakers | LA Rams | LACDA | LACMA | Los Angeles Lakers | Magic Johnson Park | Magic Johnson Theatre | Parks and Recreation | Play Equity | South Los Angeles | Supervisor Mark Ridley-Thomas | the California Community Foundation | The Olson Company | The Rivers and Mountains Conservancy | Willowbrook		
+						Los Angeles Sentinel 2020 Endorsement Slate
+						Senator Kamala Harris Makes History; First Black Woman to Participate in Vi...
+						Dodgers advance to 4th NLCS in 5 years with sweep of rival Padres
+						CD10 Candidate Grace Yoo Repeatably Violates Los Angeles City Ethics Commis...
+						Report: Black People Stopped, Arrested Three Times More Than Whites, Latino...
+						Air Quality Board Votes to Assist South Los Angeles with Pollution Issues
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

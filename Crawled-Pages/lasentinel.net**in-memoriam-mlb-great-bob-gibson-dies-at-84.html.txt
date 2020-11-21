@@ -1,0 +1,336 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+IN MEMORIAM: MLB Great Bob Gibson Dies at 84            
+				By Stacy M. Brown NNPA Newswire Senior National Correspondent                
+	                	                Published October 9, 2020
+In this March 1968 file photo, St. Louis Cardinals pitcher Bob Gibson is pictured during baseball spring training in Florida. Gibson, the dominating pitcher who won a record seven consecutive World Series starts and set a modern standard for excellence when he finished the 1968 season with a 1.12 ERA, died Friday, Oct. 2, 2020. He was 84. (AP Photo, File)
+Robert Gibson (born Pack Robert Gibson — in his father’s honor — November 9, 1935 – October 2, 2020) played his entire career with the St. Louis Cardinals. Gibson was arguably the greatest African American hurler in baseball history and certainly the greatest pitcher ever to play with the Cardinals. He announced in July 2019 that he had pancreatic cancer and died on October 2 at 84.
+Ironically, Gibson’s death came 52 years to the day he dominated the Detroit Tigers in Game 1 of the 1968 World Series, striking out a record 17 batters. All but four of those batters went down on “swings and misses.”
+Bob Gibson quite literally changed the game of baseball.
+He was a fierce competitor and beloved by Cardinal Nation.
+We will miss him dearly.
+Rest in peace, Gibby ❤️ pic.twitter.com/TQDT21c6wU
+— St. Louis Cardinals (@Cardinals) October 3, 2020
+Over 17 electrifying big-league seasons, Gibson won 251 games, compiled a career 2.91 earned run average and 3,117 strikeouts – not counting the World Series record 17 K’s against the Detroit Tigers in the 1968 Fall Classic.
+Bob Gibson, a member of the St. Louis Cardinals’ 1967 World Series championship team, takes part in a ceremony honoring the 50th anniversary of the victory before the start of a baseball game between the St. Louis Cardinals and the Boston Red Sox Wednesday, May 17, 2017, in St. Louis. (AP Photo/Jeff Roberson)
+“Bob Gibson quite literally changed the game of baseball. He was a fierce competitor and beloved by Cardinal Nation,” the Cardinals wrote in a message posted on the organization’s official Twitter feed. “We will miss him dearly.”
+Elected to the National Baseball Hall of Fame in 1981, Gibson earned a profusion of awards, including two Cy Youngs, two World Series Most Valuable Player trophies, nine Gold Gloves and a league Most Valuable Player award.
+His best year came in 1968 when the hard-throwing right-hander turned in one of the greatest seasons ever produced from a starting pitcher. Gibson went 22-9, boasting a surreal 1.12 earned run average (ERA). He recorded 28 complete games and 13 shutouts.
+Gibson’s performance served as the catalyst for Major League Baseball’s decision to shorten the pitcher’s mound by five inches in height, lowering it from 15 inches to 10 inches.
+MLB Network mourns the passing of St. Louis Cardinals legend and Hall of Famer Bob Gibson. pic.twitter.com/mAbU5voIcH
+— MLB Network (@MLBNetwork) October 3, 2020
+On August 14, 1971, Gibson recorded his only career no-hitter against the Pittsburgh Pirates. During that game Gibson fanned 10 Bucs, leading the Cardinals to an 11-0 victory. “This was the greatest game I’ve pitched anywhere,” Gibson declared at the time. “I didn’t think I’d ever throw a no-hitter.”
+Born November 9, 1935 in Omaha, Nebraska, Gibson overcame childhood illness to excel in youth sports, particularly basketball and baseball. At Creighton University, he starred on the hardwood and later signed with the Harlem Globetrotters.
+After briefly playing under contract to both the Harlem Globetrotters basketball team and the St. Louis Cardinals organization (the Cardinals offered him a contract in 1957), Gibson decided to continue playing only baseball professionally.
+In this Oct. 2, 1968, file photo, St. Louis Cardinals’ Bob Gibson watches a pitch to the Detroit Tigers in Game 1 of baseball’s World Series at Busch Stadium in St. Louis. (AP Photo. File)
+Gibson emerged as a raw, but immensely talented rookie who would not be denied stardom. He became a full-time starting pitcher in July 1961 and earned his first All-Star appearance in 1962. Gibson won two of three games he pitched in the 1964 World Series, then won 20 games in a season for the first time in 1965. Gibson also pitched three complete game victories in the 1967 World Series.
+He is regarded as one of the most intimidating pitchers to ever take the mound, known for pounding the inside part of the plate and, at times, staring down sluggers who believed he had intentionally brushed them back.
+“Don’t dig in against Bob Gibson; he’ll knock you down,” Home Run King Hank Aaron reportedly warned Los Angeles Dodgers star Dusty Baker.
+“He’d knock down his own grandmother if she dared to challenge him. Don’t stare at him, don’t smile at him, don’t talk to him. He doesn’t like it. If you happen to hit a home run, don’t run too slow, don’t run too fast. If you happen to want to celebrate, get in the tunnel first. And if he hits you, don’t charge the mound, because he’s a Gold Glove boxer.”
+Before Gibson won his first Cy Young Award in 1968, Dodgers ace Don Newcombe stood as the only Black player to earn such honors.
+Vida Blue of the Oakland A’s, Ferguson Jenkins of the Chicago Cubs, Dwight Gooden of the New York Mets, CC Sabathia of the Cleveland Indians, and David Price of the Tampa Bay Rays would later join Newcombe and Gibson as African Americans who’ve won the award.
+Gibson stood with other athletes, like Muhammad Ali, Jackie Robinson, and others who expressed strong support for the civil rights movement.
+He credited the Cardinals for the team’s diversity and praised them for not forcing Black players to live in segregated housing during the baseball season.
+After retiring as a player in 1975, Gibson later served as pitching coach for his former teammate Joe Torre. At one time a special instructor coach for the St. Louis Cardinals, Gibson was later selected for the Major League Baseball All-Century Team in 1999. Gibson was the author of the memoir Pitch by Pitch, with Lonnie Wheeler.
+Gibson’s death came weeks after the death of his former teammate and fellow Hall of Fame member Lou Brock, and one month after another baseball legend and former Gibson rival, Tom Seaver of the New York Mets.
+“Bob Gibson is the luckiest pitcher I ever saw,” retired Cardinal catcher Tim McCarver once said. “He always pitches when the other team doesn’t score any runs.”
+Gibson is survived by three children: Anette, Chris and Renee, and his widow, Wendy.
+Hall of Fame baseball player Bob Gibson at Roger Dean Stadium during 2010 Spring Training for the St. Louis Cardinals. (Wikimedia Commons / Monowi)
+		Categories: Baseball | Celebration of Life | National | News (Sports) | Sports Tags: #dodgers | 1964 World Series | 1967 World Series | Anette | Cardinal Nation | CC Sabathia | Chicago Cubs | Chris | civil rights movement | Cleveland Indians | Creighton University | Cy Young Award | David Price | Don Newcombe | Dusty Baker | Dwight Gooden | Ferguson Jenkins | Gold Glove boxer | greatest African American hurler in baseball history | hall of fame | Hank Aaron | Harlem Globetrotters | Jackie Robinson | Joe Torre | Lonnie Wheeler | Los Angeles Dodgers | Lou Brock | Major League Baseball | Major League Baseball All-Century Team | Muhammad Ali | National Baseball Hall of Fame | New York Mets | NNPA Newswire | Oakland A's | Omaha Nebraska | Pack Robert Gibson | pancreatic cancer | Pitch by Pitch | Renee | Robert Gibson | St. Louis Cardinals | Stacy M. Brown | Tampa Bay Rays | three children | Tim McCarver | Tom Seaver | Vida Blue | Wendy		
+						Heat Survive Lakers 111-108, Force Game 6
+						Dodgers advance to 4th NLCS in 5 years with sweep of rival Padres
+						Senator Kamala Harris Makes History; First Black Woman to Participate in Vi...
+						Lakers, Heat are Desperate to Win Game 5 of NBA Finals
+						Trump Promises “Platinum Plan” for Black Americans
+						Sparks Coach Derek Fisher Reflects on 2020 Season
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

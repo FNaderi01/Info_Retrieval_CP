@@ -1,0 +1,412 @@
+        About
+            Branching and Merging
+            Small and Fast
+            Distributed
+            Data Assurance
+            Staging Area
+            Free and Open Source
+            Trademark
+        Documentation
+            Reference
+            Book
+            Videos
+            External Links
+        Downloads
+            GUI Clients
+            Logos
+        Community
+This book is available in
+  English.
+  Full translation available in
+    български език,
+    Deutsch,
+    Español,
+    Français,
+    Ελληνικά,
+    日本語,
+    한국어,
+    Nederlands,
+    Русский,
+    Slovenščina,
+    Tagalog,
+    Українська
+    简体中文,
+  Partial translations available in
+    Čeština,
+    Македонски,
+    Polski,
+    Српски,
+    Ўзбекча,
+    繁體中文,
+  Translations started for
+    azərbaycan dili,
+    Беларуская,
+    فارسی,
+    Indonesian,
+    Italiano,
+    Bahasa Melayu,
+    Português (Brasil),
+    Português (Portugal),
+    Svenska,
+    Türkçe.
+The source of this book is  hosted on GitHub.
+Patches, suggestions and comments are welcome.
+  Chapters ▾
+  1. Erste Schritte
+          1.1
+          Was ist Versionsverwaltung? 
+          1.2
+          Kurzer Überblick über die Historie von Git 
+          1.3
+          Was ist Git? 
+          1.4
+          Die Kommandozeile 
+          1.5
+          Git installieren 
+          1.6
+          Git Basis-Konfiguration 
+          1.7
+          Hilfe finden 
+          1.8
+          Zusammenfassung 
+  2. Git Grundlagen
+          2.1
+          Ein Git-Repository anlegen 
+          2.2
+          Änderungen nachverfolgen und im Repository speichern 
+          2.3
+          Anzeigen der Commit-Historie 
+          2.4
+          Ungewollte Änderungen rückgängig machen 
+          2.5
+          Mit Remotes arbeiten 
+          2.6
+          Taggen 
+          2.7
+          Git Aliases 
+          2.8
+          Zusammenfassung 
+  3. Git Branching
+          3.1
+          Branches auf einen Blick 
+          3.2
+          Einfaches Branching und Merging 
+          3.3
+          Branch-Management 
+          3.4
+          Branching-Workflows 
+          3.5
+          Remote-Branches 
+          3.6
+          Rebasing 
+          3.7
+          Zusammenfassung 
+  4. Git auf dem Server
+          4.1
+          Die Protokolle 
+          4.2
+          Git auf einem Server einrichten 
+          4.3
+          Erstellung eines SSH-Public-Keys 
+          4.4
+          Einrichten des Servers 
+          4.5
+          Git-Daemon 
+          4.6
+          Smart HTTP 
+          4.7
+          GitWeb 
+          4.8
+          GitLab 
+          4.9
+          Von Drittanbietern gehostete Optionen 
+          4.10
+          Zusammenfassung 
+  5. Verteiltes Git
+          5.1
+          Verteilter Arbeitsablauf 
+          5.2
+          An einem Projekt mitwirken 
+          5.3
+          Ein Projekt verwalten 
+          5.4
+          Zusammenfassung 
+  6. GitHub
+          6.1
+          Einrichten und Konfigurieren eines Kontos 
+          6.2
+          Mitwirken an einem Projekt 
+          6.3
+          Ein Projekt betreuen 
+          6.4
+          Verwalten einer Organisation 
+          6.5
+          Skripte mit GitHub 
+          6.6
+          Zusammenfassung 
+  7. Git Tools
+          7.1
+          Revisions-Auswahl 
+          7.2
+          Interaktives Stagen 
+          7.3
+          Stashen und Bereinigen 
+          7.4
+          Ihre Arbeit signieren 
+          7.5
+          Suchen 
+          7.6
+          Den Verlauf umschreiben 
+          7.7
+          Reset entzaubert 
+          7.8
+          Fortgeschrittenes Merging 
+          7.9
+          Rerere 
+          7.10
+          Debuggen mit Git 
+          7.11
+          Submodule 
+          7.12
+          Bundling 
+          7.13
+          Replace (Ersetzen) 
+          7.14
+          Anmeldeinformationen speichern 
+          7.15
+          Zusammenfassung 
+  8. Git einrichten
+          8.1
+          Git Konfiguration 
+          8.2
+          Git-Attribute 
+          8.3
+          Git Hooks 
+          8.4
+          Beispiel für Git-forcierte Regeln 
+          8.5
+          Zusammenfassung 
+  9. Git und andere Systeme
+          9.1
+          Git als Client 
+          9.2
+          Migration zu Git 
+          9.3
+          Zusammenfassung 
+  10. Git Interna
+          10.1
+          Basisbefehle und Standardbefehle (Plumbing and Porcelain) 
+          10.2
+          Git Objekte 
+          10.3
+          Git Referenzen 
+          10.4
+          Packdateien (engl. Packfiles) 
+          10.5
+          Die Referenzspezifikation (engl. Refspec) 
+          10.6
+          Transfer Protokolle 
+          10.7
+          Wartung und Datenwiederherstellung 
+          10.8
+          Zusammenfassung 
+  A1. Appendix A: Git in anderen Umgebungen
+          A1.1
+          Grafische Schnittstellen 
+          A1.2
+          Git in Visual Studio 
+          A1.3
+          Git in Visual Studio Code 
+          A1.4
+          Git in Eclipse 
+          A1.5
+          Git in IntelliJ / PyCharm / WebStorm / PhpStorm / RubyMine 
+          A1.6
+          Git in Sublime Text 
+          A1.7
+          Git in Bash 
+          A1.8
+          Git in Zsh 
+          A1.9
+          Git in PowerShell 
+          A1.10
+          Zusammenfassung 
+  A2. Appendix B: Git in Ihre Anwendungen einbetten
+          A2.1
+          Die Git-Kommandozeile 
+          A2.2
+          Libgit2 
+          A2.3
+          JGit 
+          A2.4
+          go-git 
+          A2.5
+          Dulwich 
+  A3. Appendix C: Git Kommandos
+          A3.1
+          Setup und Konfiguration 
+          A3.2
+          Projekte importieren und erstellen 
+          A3.3
+          Einfache Snapshot-Funktionen 
+          A3.4
+          Branching und Merging 
+          A3.5
+          Projekte gemeinsam nutzen und aktualisieren 
+          A3.6
+          Kontrollieren und Vergleichen 
+          A3.7
+          Debugging 
+          A3.8
+          Patchen bzw. Fehlerkorrektur 
+          A3.9
+          E-mails 
+          A3.10
+          Externe Systeme 
+          A3.11
+          Administration 
+          A3.12
+          Basisbefehle 
+      2nd Edition
+    7.2 Git Tools - Interaktives Stagen
+Interaktives Stagen
+In diesem Abschnitt werden Sie einige interaktive Git-Befehle kennenlernen, mit denen Sie Ihre Commits so gestalten können, dass sie nur bestimmte Kombinationen und Teile von Dateien enthalten.
+Diese Tools sind nützlich, um zu entscheiden, ob eine Vielzahl von umfassend modifizierten Dateien in mehrere gezielte Commits aufgeteilt oder in einem großen unübersichtlichen Commit übertragen werden sollen.
+Auf diese Weise können Sie sichergehen, dass Ihre Commits in logisch getrennten Changesets vorliegen, die von Ihren Entwicklern leicht überprüft werden können.
+Wenn Sie git add mit der Option -i oder --interactive ausführen, wechselt Git in einen interaktiven Shell-Modus, der so etwas wie das folgende anzeigt:
+$ git add -i
+           staged     unstaged path
+  1:    unchanged        +0/-1 TODO
+  2:    unchanged        +1/-1 index.html
+  3:    unchanged        +5/-1 lib/simplegit.rb
+*** Commands ***
+  1: [s]tatus     2: [u]pdate      3: [r]evert     4: [a]dd untracked
+  5: [p]atch      6: [d]iff        7: [q]uit       8: [h]elp
+What now&gt;
+Sie können erkennen, dass dieser Befehl Ihnen eine ganz neue Darstellung Ihrer Staging-Area zeigt, als Sie es gewohnt sind – im Grunde genommen zeigt sie die gleichen Informationen, die Sie mit git status erhalten, aber etwas kompakter und informativer.
+Es listet auf der linken Seite die gestagten und auf der rechten Seite die nicht gestagten Änderungen auf.
+Danach folgt der Bereich „Commands“ (Befehle), in dem Sie eine Reihe von Aktionen ausführen können, wie z.B. Staging und Unstaging von Dateien, Staging von Teilen von Dateien, Hinzufügen von nicht getrackten Dateien und das Anzeigen von Diffs (Unterschieden) der zuvor gestagten Dateien.
+Staging und Unstaging von Dateien
+Wenn Sie u oder 2 (für Update) an der Eingabeaufforderung What now&gt; eingeben, werden Sie aufgefordert die Dateien anzugeben, die Sie zur Staging-Area hinzufügen möchten:
+What now&gt; u
+           staged     unstaged path
+  1:    unchanged        +0/-1 TODO
+  2:    unchanged        +1/-1 index.html
+  3:    unchanged        +5/-1 lib/simplegit.rb
+Update&gt;&gt;
+Um die Dateien TODO und index.html zu stagen, können Sie die entsprechenden Ziffern eingeben:
+Update&gt;&gt; 1,2
+           staged     unstaged path
+* 1:    unchanged        +0/-1 TODO
+* 2:    unchanged        +1/-1 index.html
+  3:    unchanged        +5/-1 lib/simplegit.rb
+Update&gt;&gt;
+Das * (Sternchen) neben den Dateien bedeutet, dass die Datei zum Stagen ausgewählt wurde.
+Wenn Sie die Enter-Taste drücken, ohne dass Sie an der Eingabeaufforderung nach Update&gt;&gt; etwas eingegeben haben, übernimmt Git alles, was ausgewählt war und stagt es für Sie:
+Update&gt;&gt;
+updated 2 paths
+*** Commands ***
+  1: [s]tatus     2: [u]pdate      3: [r]evert     4: [a]dd untracked
+  5: [p]atch      6: [d]iff        7: [q]uit       8: [h]elp
+What now&gt; s
+           staged     unstaged path
+  1:        +0/-1      nothing TODO
+  2:        +1/-1      nothing index.html
+  3:    unchanged        +5/-1 lib/simplegit.rb
+Jetzt können Sie sehen, dass die Dateien TODO und index.html gestagt sind und die Datei simplegit.rb noch nicht zur Staging-Area hinzugefügt ist.
+Wenn Sie die TODO`Datei an dieser Stelle unstagen wollen, verwenden Sie die Option `r oder 3 (für revert/rückgängig):
+*** Commands ***
+  1: [s]tatus     2: [u]pdate      3: [r]evert     4: [a]dd untracked
+  5: [p]atch      6: [d]iff        7: [q]uit       8: [h]elp
+What now&gt; r
+           staged     unstaged path
+  1:        +0/-1      nothing TODO
+  2:        +1/-1      nothing index.html
+  3:    unchanged        +5/-1 lib/simplegit.rb
+Revert&gt;&gt; 1
+           staged     unstaged path
+* 1:        +0/-1      nothing TODO
+  2:        +1/-1      nothing index.html
+  3:    unchanged        +5/-1 lib/simplegit.rb
+Revert&gt;&gt; [enter]
+reverted one path
+Wenn Sie sich Ihren Git-Status noch einmal ansehen, sehen Sie, dass Sie die Datei TODO nicht mehr der Staging-Area hinzugefügt ist:
+*** Commands ***
+  1: [s]tatus     2: [u]pdate      3: [r]evert     4: [a]dd untracked
+  5: [p]atch      6: [d]iff        7: [q]uit       8: [h]elp
+What now&gt; s
+           staged     unstaged path
+  1:    unchanged        +0/-1 TODO
+  2:        +1/-1      nothing index.html
+  3:    unchanged        +5/-1 lib/simplegit.rb
+Um den Diff von dem zu sehen, was Sie gestagt haben, können Sie den Befehl d oder 6 (für diff) verwenden.
+Er zeigt Ihnen eine Liste Ihrer gestagten Dateien an, aus der Sie auswählen können, für welche Dateien Sie die gestagte Differenz sehen möchten.
+Das ist so ähnlich wie die Angabe von git diff --cached auf der Kommandozeile:
+*** Commands ***
+  1: [s]tatus     2: [u]pdate      3: [r]evert     4: [a]dd untracked
+  5: [p]atch      6: [d]iff        7: [q]uit       8: [h]elp
+What now&gt; d
+           staged     unstaged path
+  1:        +1/-1      nothing index.html
+Review diff&gt;&gt; 1
+diff --git a/index.html b/index.html
+index 4d07108..4335f49 100644
+--- a/index.html
++++ b/index.html
+@@ -16,7 +16,7 @@ Date Finder
+ &lt;p id="out"&gt;...&lt;/p&gt;
+-&lt;div id="footer"&gt;contact : support@github.com&lt;/div&gt;
++&lt;div id="footer"&gt;contact : email.support@github.com&lt;/div&gt;
+ &lt;script type="text/javascript"&gt;
+Mit diesen grundlegenden Befehlen können Sie den interaktiven Einfügen-Modus nutzen, um Ihre Staging-Area etwas komfortabler zu verwalten.
+Staging von Patches
+Es ist auch möglich, dass Git nur bestimmte Teile der Dateien stagt, ohne die restlichen Teile.
+Wenn Sie beispielsweise zwei Änderungen an Ihrer Datei simplegit.rb vornehmen und eine davon stagen möchten und die andere nicht, so ist das in Git sehr einfach.
+Geben Sie auf der gleichen interaktiven Eingabeaufforderung, die im vorherigen Abschnitt erläutert wurde, p oder 5 (für Patch) ein.
+Git wird Sie fragen, welche Dateien Sie teilweise stagen möchten; dann zeigt es für jeden Abschnitt der ausgewählten Dateien Diffs an und fragt Sie nacheinander, Stück für Stück, was Sie stagen möchten:
+diff --git a/lib/simplegit.rb b/lib/simplegit.rb
+index dd5ecc4..57399e0 100644
+--- a/lib/simplegit.rb
++++ b/lib/simplegit.rb
+@@ -22,7 +22,7 @@ class SimpleGit
+   end
+   def log(treeish = 'master')
+-    command("git log -n 25 #{treeish}")
++    command("git log -n 30 #{treeish}")
+   end
+   def blame(path)
+Stage this hunk [y,n,a,d,/,j,J,g,e,?]?
+Sie haben an dieser Stelle viele Möglichkeiten.
+Die Eingabe von ? zeigt eine Auflistung aller Aktionen, die durchführbar sind:
+Stage this hunk [y,n,a,d,/,j,J,g,e,?]? ?
+y - stage this hunk
+n - do not stage this hunk
+a - stage this and all the remaining hunks in the file
+d - do not stage this hunk nor any of the remaining hunks in the file
+g - select a hunk to go to
+/ - search for a hunk matching the given regex
+j - leave this hunk undecided, see next undecided hunk
+J - leave this hunk undecided, see next hunk
+k - leave this hunk undecided, see previous undecided hunk
+K - leave this hunk undecided, see previous hunk
+s - split the current hunk into smaller hunks
+e - manually edit the current hunk
+? - print help
+Im Allgemeinen tippen Sie y oder n, wenn Sie die einzelnen Abschnitte stagen möchten, aber auch das Staging aller Abschnitte in bestimmten Dateien oder das Überspringen einer Abschnitts bis zu einem späteren Zeitpunkt kann sinnvoll sein.
+Wenn Sie einen Teil der Datei stagen und einen anderen Teil nicht, sieht die Ausgabe Ihres Status so aus:
+What now&gt; 1
+           staged     unstaged path
+  1:    unchanged        +0/-1 TODO
+  2:        +1/-1      nothing index.html
+  3:        +1/-1        +4/-0 lib/simplegit.rb
+Der Status der Datei simplegit.rb ist sehr interessant.
+Es zeigt Ihnen, dass ein paar Zeilen gestagt sind und andere nicht.
+Sie haben diese Datei teilweise zur Staging-Area hinzugefügt.
+An diesem Punkt können Sie das interaktive Einfüge-Skript verlassen und git commit ausführen, um die teilweise bereitgestellten Dateien zu übertragen.
+Sie brauchen auch nicht im interaktiven Einfüge-Modus zu sein, um mit einem Teil der Datei Staging durchzuführen – Sie können das gleiche Skript starten, indem Sie git add -p oder git add --patch auf der Kommandozeile verwenden.
+Darüber hinaus können Sie den Patch-Modus verwenden, um Dateien mit dem Befehl git reset --patch teilweise zurückzusetzen, um Teile von Dateien mit dem Befehl git checkout --patch auszuchecken und um Teile von Dateien mit dem Befehl git stash save --patch zu speichern.
+Wir werden auf jeden dieser Befehle näher eingehen, wenn wir zu komplexeren Anwendungen dieser Befehle kommen.
+prev | next
+    About this site
+    Patches, suggestions, and comments are welcome.
+    Git is a member of Software Freedom Conservancy

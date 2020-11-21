@@ -1,0 +1,338 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+When the Dems Win, Gov. Newsom Must Pick an African American to Replace Kamala Harris            
+				By Hardy Brown Special to California Black Media                
+	                	                Published August 20, 2020
+		(L-R) Congresswoman Maxine Waters, City Councilmember, Herb Wesson, Assemblymember Shirley Weber, Mayor London Breed, Congresswoman Karen Bass. Board of Equalization Member Malia Cohen, Superintendent Tony Thurmond, Congresswoman Barbara Lee, State Senator Holly Mitchell.
+U.S. Senator Kamala Harris, the first Black woman to serve on a major party’s presidential ticket, made history last week when Joe Biden, the Democratic party’s presumptive nominee, announced that she would serve as his running mate.  While much of the national and local news centered around the selection of Senator Harris, California political insiders were having a different conversation. Almost immediately after Biden’s announcement, the politicos in the Golden State began formulating predictions on who Gov. Gavin Newsom would select to serve the balance of Senator Harris’s term in the U.S. Senate, which ends in January 2023.
+The opportunity to see the celebrated rise of a member of another ethnic minority, whether it be the Latino community, API community, or other group, should not come at the expense of California’s Black community.
+        ADVERTISEMENT        
+Political insiders in Sacramento report that Newsom is already being pressured by outside groups to make history by appointing a Latino to replace Harris.  With close to 40% or more of the state population being Latino, the governor will be under pressure to deliver to such a large constituency.  However, according to some capital insiders and news reports, discussions have already been had with the governor to appoint California Secretary of State Alex Padilla to the U.S. Senate, should Sen. Dianne Feinstein decide to retire before her term ends in 2024.
+Black women and men have poured decades of work, blood, sweat, tears and sacrifice into the Democratic party, and Gov. Newsom must recognize that. Black voters are not the Democratic party’s mules; they should not have to put the histories of other groups’ oppression on their backs and step aside so someone else can walk through the political door that Senator Harris has opened. To prevent what would be a consequential snub; the Governor should be intentional about acknowledging the important role that Black people have in California politics, and the trail that has been blazed by Kamala Harris, by choosing among California’s Black elected officials to replace her in the U.S. Senate. Fortunately, California has an impressive list for the Governor to consider:
+Congressional Members
+ Congresswoman Barbara Lee
+Congresswoman Barbara Lee (D-CA-13), former Chair of the Congressional Black Caucus and the Congressional Progressive Caucus, was an early supporter of Gov. Newsom and is beloved by her Bay area constituency.  Though she is in her 13th term as a Congresswoman and may not want to give up the seniority she’s earned in the House, Lee would garner support from progressives and African Americans statewide, and be a force in the U.S. Senate.
+Congresswoman Karen Bass
+It is likely that Governor Newsom has already added Representative Karen Bass (D-CA-37) to his shortlist of candidates to fill Senator Harris’s seat.  A 10-year veteran in the House of Representatives, Congresswoman Bass, the current chair of the Congressional Black Caucus and former Speaker of the California Assembly, possesses both the leadership skills and the acumen to serve in the U.S. Senate in this historic moment.
+Congresswoman Maxine Waters
+ Affectionately called “Auntie Maxine” by fans from all backgrounds and ages, Congresswoman Maxine Waters (D-CA-43) has been a member of the U.S. Congress for almost 30 years. She is both loved and loathed for her no-nonsense, in-your-face politicking and sharp criticism of political opponents, including republican Presidents George W. Bush and Donald Trump. Waters served 14 years in the California Assembly before being elected to the U.S. House of Representatives, where she is the current chair of the House Financial Services Committee. 
+Constitutional Officers
+Superintendent Tony Thurmond
+Tony Thurmond became California’s State Superintendent of Public Instruction after successfully defeating a well-funded opponent statewide.  Prior to this position, he served as a state Assemblymember, a member of the Richmond City Council and a member of the West Contra Costa County Unified School District.  Superintendent Thurmond has enjoyed national attention in the wake of COVID-19 with innovative plans to initiate distance learning and to reopen public schools.
+ Board of Equalization Member Malia Cohen 
+Board Member Malia Cohen, a native of the vote-rich Bay area, is no stranger to Gov. Newsom and is a tested and proven viable statewide vote getter, having garnered 72 percent of the vote in her 23-county Board of Equalization District, representing over 10 million Californians. She was elected the first Black woman to chair the BOE, which administers the $70 billion property tax system. Prior to her election to Constitutional Office, BOE Chair Cohen served two terms on the San Francisco Board of Supervisors and as president of the Board.
+State Legislators
+State Senator Holly Mitchell.  Senator Holly Mitchell (D-Los Angles), who serves as the Chair of the California State Senate Budget Committee, is one of the most well respected, and powerful policy makers in California.  Senator Mitchell has developed a close working relationship with Gov. Newsom which has served the state well. They have pursued policies that align with their respective agendas on homelessness, criminal justice reform, early childhood development, seniors etc.
+Assemblymember Shirley Weber
+Assemblymember Shirley Weber (D-Sam Diego) serves as the Chair of the California Legislative Black Caucus.  She is one of the most effective and respected policymakers serving in the California legislature.  She passed landmark legislation establishing a new reasonable force standard in the wake of the death of Stephon Clark by Sacramento law enforcement officers.  This year she championed the Assembly Constitutional Amendment 5, which placed on the November ballot Proposition16. If voters approve, Prop 16 would overturn anti-affirmative action Proposition 209, which passed in 1996.
+Local Elected Officials
+ City Council Member Herb Wesson
+ Los Angeles city council member Herb Wesson is former speaker of the state assembly, former president of the Los Angeles City Council and is currently a candidate for Los Angeles County supervisor. He is well-known around the state and is widely regarded as a persuasive and effective deal maker.
+Supervisor Mark Ridley-Thomas
+Supervisor Mark Ridley-Thomas is one of the most effective policymakers in the state of California.  Ridley-Thomas previously served in both the California State Assembly and the California Senate, and served as the chair of the California Legislative Black Caucus.  He was a strong supporter of Gavin Newsom in his race to become Governor, and Ridley-Thomas has worked closely with the governor to address homelessness in Los Angeles county and statewide.
+Mayor London Breed
+Mayor London Breed, the first African American woman to serve as Mayor of San Francisco, made a splash on the national political stage this year because of her pro-active response to the COVID-19 pandemic.  Prior to serving as Mayor of San Francisco, Breed served as the president of the San Francisco Board of Supervisors.  Breed, who was appointed to the San Francisco Fire Commission by then-Mayor Gavin Newsom, enjoys a close working relationship with the governor and has the experience of running a major metropolitan city.
+When coming up with this list, I did a poll check and talked to both young and older veterans in the political space.
+Chaya Crowder, an African American Political Science Professor at Loyola Marymount University in Los Angeles, said, “Black women continue to be the most loyal voting block within the Democratic Party.  The Democratic party cannot continue to rely on Black women as voters without having Black women represented in elected office.”
+Danny J. Bakewell, Sr., publisher of the Los Angeles Sentinel and producer of Taste of Soul, the largest street festival in California, said, “At a time that we say Black lives matter, Black people must be considered for this and other positions.”
+Gov. Newsom has been confronted with a plethora of difficult decisions in 2020, ranging from the management of COVID-19 to balancing a budget in the middle of a severe recession.  After the general election, if the Democrats win, the governor would be charged with an equally important decision — who to choose to serve out the remaining two-and-a-half years of Senator Harris’s term. Our advice to the Governor is to be thoughtful in his deliberations and understand that his decision will speak very loudly to Black communities throughout California and the nation.
+About the Author
+Hardy Brown is Publisher Emeritus of the Black Voice News in Riverside and Founder of California Black Media.
+		Categories: National | News | Op-Ed | Political Tags: Assemblymember Shirley Weber | Board of Equalization Member Malia Cohen | City Council Member Herb Wesson | Congressional Members | Congresswoman Barbara Lee | Congresswoman Karen Bass | Congresswoman Maxine Waters | Hardy Brown | Mayor London Breed | State Senator Holly Mitchell | Superintendent Tony Thurmond | Supervisor Mark Ridley-Thomas | U.S. Senator Kamala Harris		
+						Keisha Lance Bottoms’ Full Remarks at the 2020 Democratic National Co...
+						Senator Cory Booker’s Full Remarks at the 2020 Democratic National Co...
+						Judge Mulls Motion by Pilot in Kobe Bryant Suit to Move Case to OC
+						A PIVOTAL TIME: 15 TO 9
+						Suspect in Jam Master Jay killing pleads not guilty
+						Learning to be fearless: How mentorship can propel you into a top-tier coll...
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

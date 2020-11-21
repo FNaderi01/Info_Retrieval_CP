@@ -1,0 +1,757 @@
+        #root_content_position_position-par_flex > .dexter-FlexContainer-Items > *:nth-child(1) {
+            flex: 1 1 1%; max-width: 100%; 
+            min-height: auto;
+            }
+    #root_content_position_position-par_flex_items_flex_891506393_copy > .dexter-FlexContainer-Items {
+        min-height: 450px;
+    }
+        #root_content_position_position-par_flex_items_flex_891506393_copy > .dexter-FlexContainer-Items > *:nth-child(1) {
+            flex: 1 1 1%; max-width: 100%; 
+            min-height: auto;
+            }
+        #root_content_position_position-par_flex_items_flex_891506393_copy {
+        }
+        @media screen and (min-width: 600px) {
+            #root_content_position_position-par_flex_items_flex_891506393_copy {
+                    background-color: transparent; 
+                    background-image: unset;
+            }
+        }
+        @media screen and (min-width: 1200px) {
+            #root_content_position_position-par_flex_items_flex_891506393_copy {
+                    background-image: unset;
+            }
+        }
+        #root_content_position_position-par_flex_items_flex_891506393_copy {
+        color: #000000; 
+        }
+        @media screen and (min-width: 600px) {
+            #root_content_position_position-par_flex_items_flex_891506393_copy {
+                color: #000000; 
+            }
+        }
+    @media screen and (min-width: 600px) {
+        #root_content_position_position-par_flex_items_flex_891506393_copy > .dexter-FlexContainer-Items {
+            min-height: 500px;
+        }
+    }
+    @media screen and (min-width: 1200px) {
+        #root_content_position_position-par_flex_items_flex_891506393_copy > .dexter-FlexContainer-Items {
+            min-height: 650px;
+        }
+    }
+        #id-6c2a7b475d01ad756f220d31f47be63d > .dexter-FlexContainer-Items > *:nth-child(1) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            order: 1;}
+        #id-6c2a7b475d01ad756f220d31f47be63d > .dexter-FlexContainer-Items > *:nth-child(2) {
+            flex: 0 0 auto; max-width: 100%; width: auto; 
+            min-height: auto;
+            order: 2;}
+        @media screen and (min-width: 1200px) {
+            #id-6c2a7b475d01ad756f220d31f47be63d {
+                        background-image: url(\2f content\2f dam\2foffers-homepage\2fus\2f en\2fhomepage\2f dotcom-images\2f cc\2f CC_overview_bg.desktop.1440x650.jpg.img.jpg); background-size: cover; 
+                    background-position: 50% 50%; 
+            }
+        }
+    @media screen and (min-width: 600px) {
+        #id-6c2a7b475d01ad756f220d31f47be63d > .dexter-FlexContainer-Items {
+        }
+        #id-6c2a7b475d01ad756f220d31f47be63d > .dexter-FlexContainer-Items > *:nth-child(1) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            order: 1;
+        }
+        #id-6c2a7b475d01ad756f220d31f47be63d > .dexter-FlexContainer-Items > *:nth-child(2) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            order: 2;
+        }
+        #id-6c2a7b475d01ad756f220d31f47be63d > .dexter-FlexContainer-Items > *:nth-child(3) {
+            flex: 0 0 auto; max-width: 100%; width: auto; 
+            min-height: auto;
+            order: 3;
+        }
+    }
+    @media screen and (min-width: 1200px) {
+        #id-6c2a7b475d01ad756f220d31f47be63d > .dexter-FlexContainer-Items {
+        }
+        #id-6c2a7b475d01ad756f220d31f47be63d > .dexter-FlexContainer-Items > *:nth-child(1) {
+            width: 50%; max-width: 50%; flex: 1 1 auto;
+            min-height: auto;
+            order: 1;
+        }
+        #id-6c2a7b475d01ad756f220d31f47be63d > .dexter-FlexContainer-Items > *:nth-child(2) {
+            width: 50%; max-width: 50%; flex: 1 1 auto;
+            min-height: auto;
+            order: 2;
+        }
+        #id-6c2a7b475d01ad756f220d31f47be63d > .dexter-FlexContainer-Items > *:nth-child(3) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+        }
+    }
+        #id-3d24c9d49bc7f2e2d540db75635e2b69 { width:auto; }
+        @media (min-width: 600px) {
+            #id-3d24c9d49bc7f2e2d540db75635e2b69 { width:auto; }
+        }
+        @media (min-width: 1200px) {
+            #id-3d24c9d49bc7f2e2d540db75635e2b69 { width:auto; }
+        }
+        #id-48d3890e164a8d250c7c18d0dc428682 { width:auto; }
+        @media (min-width: 600px) {
+            #id-48d3890e164a8d250c7c18d0dc428682 { width:auto; }
+        }
+        #id-6bcaef9ada302f9ceac4373a298ea357 { width:auto; }
+        @media (min-width: 1200px) {
+            #id-6bcaef9ada302f9ceac4373a298ea357 { width:auto; }
+        }
+    #id-4d47af03d2c3e1015c63e261cae03b1e > .dexter-FlexContainer-Items {
+        min-height: 125px;
+    }
+        #id-4d47af03d2c3e1015c63e261cae03b1e > .dexter-FlexContainer-Items > *:nth-child(1) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            order: 1;}
+        #id-4d47af03d2c3e1015c63e261cae03b1e {
+        color: #000000; 
+        }
+    @media screen and (min-width: 600px) {
+        #id-4d47af03d2c3e1015c63e261cae03b1e > .dexter-FlexContainer-Items {
+        }
+        #id-4d47af03d2c3e1015c63e261cae03b1e > .dexter-FlexContainer-Items > *:nth-child(1) {
+            flex: 0 0 auto; max-width: 100%; width: auto; 
+            min-height: auto;
+            order: 1;
+        }
+    }
+    @media screen and (min-width: 1200px) {
+        #id-4d47af03d2c3e1015c63e261cae03b1e > .dexter-FlexContainer-Items {
+            min-height: 445px;
+        }
+        #id-4d47af03d2c3e1015c63e261cae03b1e > .dexter-FlexContainer-Items > *:nth-child(1) {
+            width: 575px; max-width: 575px;
+            min-height: auto;
+        }
+    }
+        #id-b8e9901b411af53a0e94facdbce34d8f {
+        color: #000000; 
+        }
+        #id-5c62e92ccac4fd0de296fdd8c218221f {
+        color: #000000; 
+        }
+    Work better together. Wherever.
+    Work better together. Wherever.
+    Adobe Creative Cloud has the apps and services you need to create, connect, and collaborate from anywhere.
+        #id-286835880e1bc5153446da19bca9a52c > .dexter-FlexContainer-Items > *:nth-child(1) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            }
+        #id-286835880e1bc5153446da19bca9a52c > .dexter-FlexContainer-Items > *:nth-child(2) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            }
+    @media screen and (min-width: 1200px) {
+        #id-286835880e1bc5153446da19bca9a52c > .dexter-FlexContainer-Items {
+            margin: -5px;
+        }
+        #id-286835880e1bc5153446da19bca9a52c > .dexter-FlexContainer-Items > * {
+            border: 0 solid transparent; border-width: 5px;
+        }
+        #id-286835880e1bc5153446da19bca9a52c > .dexter-FlexContainer-Items > *:nth-child(1) {
+            flex: 0 0 auto; max-width: 100%; width: auto; 
+            min-height: auto;
+        }
+        #id-286835880e1bc5153446da19bca9a52c > .dexter-FlexContainer-Items > *:nth-child(2) {
+            flex: 0 0 auto; max-width: 100%; width: auto; 
+            min-height: auto;
+        }
+    }
+            Start free trial
+            Learn more
+            Learn more
+        #id-081fec07b37eb9df91af46bd1d95e6ca {
+        color: #000000; 
+        }
+    Work better together. Wherever.
+    Work better together. Wherever.
+    Adobe Creative Cloud has the apps and services you need to create, connect, and collaborate from anywhere.
+        #id-45df2e66ec4362d8d79a07181da8f1e4 > .dexter-FlexContainer-Items > *:nth-child(1) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            }
+        #id-45df2e66ec4362d8d79a07181da8f1e4 > .dexter-FlexContainer-Items > *:nth-child(2) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            }
+    @media screen and (min-width: 1200px) {
+        #id-45df2e66ec4362d8d79a07181da8f1e4 > .dexter-FlexContainer-Items {
+            margin: -5px;
+        }
+        #id-45df2e66ec4362d8d79a07181da8f1e4 > .dexter-FlexContainer-Items > * {
+            border: 0 solid transparent; border-width: 5px;
+        }
+        #id-45df2e66ec4362d8d79a07181da8f1e4 > .dexter-FlexContainer-Items > *:nth-child(1) {
+            flex: 0 0 auto; max-width: 100%; width: auto; 
+            min-height: auto;
+        }
+        #id-45df2e66ec4362d8d79a07181da8f1e4 > .dexter-FlexContainer-Items > *:nth-child(2) {
+            flex: 0 0 auto; max-width: 100%; width: auto; 
+            min-height: auto;
+        }
+    }
+            Start free trial
+            Learn more
+            Learn more
+        #id-8c7dc9c6da13220d708130ee2d61b4f9 > .dexter-FlexContainer-Items > *:nth-child(1) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            }
+        #id-8c7dc9c6da13220d708130ee2d61b4f9 {
+        color: #000000; 
+        }
+    @media screen and (min-width: 1200px) {
+        #id-8c7dc9c6da13220d708130ee2d61b4f9 > .dexter-FlexContainer-Items {
+        }
+        #id-8c7dc9c6da13220d708130ee2d61b4f9 > .dexter-FlexContainer-Items > *:nth-child(1) {
+            flex: 0 0 auto; max-width: 100%; width: auto; 
+            min-height: auto;
+        }
+    }
+    #id-8c7dc9c6da13220d708130ee2d61b4f9 {
+        border-bottom: solid 1px #eaeaea; 
+    }
+        #id-8d5c3e28ad575e0e9a0c32b97a08a639 > .dexter-FlexContainer-Items > *:nth-child(1) {
+            flex: 0 0 auto; max-width: 100%; width: auto; 
+            min-height: auto;
+            }
+    @media screen and (min-width: 1200px) {
+        #id-8d5c3e28ad575e0e9a0c32b97a08a639 > .dexter-FlexContainer-Items {
+        }
+    }
+    Creative Cloud for:
+    Individuals
+    Students &amp; Teachers
+    Business
+        #root_content_position_position-par_flex_copy_copy_copy__1198321498 > .dexter-FlexContainer-Items > *:nth-child(1) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            }
+        #root_content_position_position-par_flex_copy_copy_copy__1198321498 > .dexter-FlexContainer-Items > *:nth-child(2) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            }
+        #root_content_position_position-par_flex_copy_copy_copy__1198321498 > .dexter-FlexContainer-Items > *:nth-child(3) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            }
+        #root_content_position_position-par_flex_copy_copy_copy__1198321498 {
+        color: #FFFFFF; 
+        }
+    @media screen and (min-width: 600px) {
+        #root_content_position_position-par_flex_copy_copy_copy__1198321498 > .dexter-FlexContainer-Items {
+        }
+    }
+    @media screen and (min-width: 1200px) {
+        #root_content_position_position-par_flex_copy_copy_copy__1198321498 > .dexter-FlexContainer-Items {
+        }
+        #root_content_position_position-par_flex_copy_copy_copy__1198321498 > .dexter-FlexContainer-Items > *:nth-child(1) {
+            width: 33.333333%; max-width: 33.333333%; flex: 1 1 auto;
+            min-height: auto;
+        }
+        #root_content_position_position-par_flex_copy_copy_copy__1198321498 > .dexter-FlexContainer-Items > *:nth-child(2) {
+            width: 33.333333%; max-width: 33.333333%; flex: 1 1 auto;
+            min-height: auto;
+        }
+        #root_content_position_position-par_flex_copy_copy_copy__1198321498 > .dexter-FlexContainer-Items > *:nth-child(3) {
+            width: 33.333333%; max-width: 33.333333%; flex: 1 1 auto;
+            min-height: auto;
+        }
+    }
+    @media screen and (min-width: 600px) {
+        #root_content_position_position-par_flex_copy_copy_copy__1198321498_items_flex > .dexter-FlexContainer-Items {
+        }
+    }
+    @media screen and (min-width: 1200px) {
+        #root_content_position_position-par_flex_copy_copy_copy__1198321498_items_flex > .dexter-FlexContainer-Items {
+        }
+    }
+    #id-fe0b135eef2dec79cf82376283e260f7 > .dexter-FlexContainer-Items {
+        min-height: 450px;
+    }
+    @media screen and (min-width: 600px) {
+        #id-fe0b135eef2dec79cf82376283e260f7 > .dexter-FlexContainer-Items {
+            min-height: 500px;
+        }
+    }
+            #id-c0b5af4c9715583d213f81e7dd4f2e31 {
+                        background-image: url(https:\2f\2fs7d1.scene7.com\2fis\2fimage\2fTitanProd\2fHomepage.Premiere_Pro_promo.5494x3840@2x?$pjpeg$\26jpegSize=100\26wid=599); background-size: cover; 
+                    background-position: 50% 50%; 
+            }
+        @media screen and (min-width: 600px) {
+            #id-c0b5af4c9715583d213f81e7dd4f2e31 {
+                        background-image: url(https:\2f\2fs7d1.scene7.com\2fis\2fimage\2fTitanProd\2fHomepage.Premiere_Pro_promo.5494x3840@2x?$pjpeg$\26jpegSize=200\26wid=1199); background-size: cover; 
+                    background-position: 50% 50%; 
+            }
+        }
+        @media screen and (min-width: 1200px) {
+            #id-c0b5af4c9715583d213f81e7dd4f2e31 {
+                        background-image: url(https:\2f\2fs7d1.scene7.com\2fis\2fimage\2fTitanProd\2fHomepage.Premiere_Pro_promo.5494x3840@2x?$pjpeg$\26jpegSize=300\26wid=1920); background-size: cover; 
+                    background-position: 50% 50%; 
+            }
+        }
+            Video editing that’s always a cut above.
+        #id-8331c7752906b12a3a410632f2585ad7 {
+        color: #000000; 
+        }
+    Video editing that's always a cut above.
+    Create amazing videos with the power of Premiere Pro and the portability of Premiere Rush.
+    #id-6fea60473275c2a657503e57331699d3 {
+        z-index: 2; 
+    }
+            Learn more
+#id-f655c363709da131241737afc02687ea {
+    height: 250px;
+}
+        #root_content_position_position-par_flex_copy_copy_copy__1198321498_items_flex_898295737 {
+        color: #FFFFFF; 
+        }
+    @media screen and (min-width: 600px) {
+        #root_content_position_position-par_flex_copy_copy_copy__1198321498_items_flex_898295737 > .dexter-FlexContainer-Items {
+        }
+    }
+    @media screen and (min-width: 1200px) {
+        #root_content_position_position-par_flex_copy_copy_copy__1198321498_items_flex_898295737 > .dexter-FlexContainer-Items {
+        }
+    }
+    #id-7c28f4333c199e583f7c516f9fec35c8 > .dexter-FlexContainer-Items {
+        min-height: 450px;
+    }
+    @media screen and (min-width: 600px) {
+        #id-7c28f4333c199e583f7c516f9fec35c8 > .dexter-FlexContainer-Items {
+            min-height: 500px;
+        }
+    }
+            #id-deef0885dfe4c6b82f0c7f5c9fa4cc30 {
+                        background-image: url(https:\2f\2fs7d1.scene7.com\2fis\2fimage\2fTitanProd\2fPS-homepage.pod.mobile.300x450.DM?$pjpeg$\26jpegSize=100\26wid=599); background-size: cover; 
+                    background-position: 53% 63%; 
+            }
+        @media screen and (min-width: 600px) {
+            #id-deef0885dfe4c6b82f0c7f5c9fa4cc30 {
+                        background-image: url(https:\2f\2fs7d1.scene7.com\2fis\2fimage\2fTitanProd\2fPS-homepage.pod.tablet.668x500.DM?$pjpeg$\26jpegSize=200\26wid=1199); background-size: cover; 
+                    background-position: 59% 32%; 
+            }
+        }
+        @media screen and (min-width: 1200px) {
+            #id-deef0885dfe4c6b82f0c7f5c9fa4cc30 {
+                        background-image: url(https:\2f\2fs7d1.scene7.com\2fis\2fimage\2fTitanProd\2fPS-homepage-pod-darker.420x500@2x?$pjpeg$\26jpegSize=200\26wid=840); background-size: cover; 
+                    background-position: 97% 40%; 
+            }
+        }
+            Make. Believe. Photoshop. 
+        #id-d998937c9036c9dd760ca2162146eafa {
+        color: #000000; 
+        }
+    Make. Believe. Photoshop. 
+    Go wherever your imagination takes you.
+    #id-fa6a8b25a1b4549d74ea6f915db077dc {
+        z-index: 2; 
+    }
+            Learn more
+        #root_content_position_position-par_flex_copy_copy_copy__1198321498_items_flex_1779653455 {
+        color: #FFFFFF; 
+        }
+    @media screen and (min-width: 600px) {
+        #root_content_position_position-par_flex_copy_copy_copy__1198321498_items_flex_1779653455 > .dexter-FlexContainer-Items {
+        }
+    }
+    @media screen and (min-width: 1200px) {
+        #root_content_position_position-par_flex_copy_copy_copy__1198321498_items_flex_1779653455 > .dexter-FlexContainer-Items {
+        }
+    }
+    #id-b15fb9fae47b18ca0fd5f3a9d3bdcb97 > .dexter-FlexContainer-Items {
+        min-height: 450px;
+    }
+    @media screen and (min-width: 600px) {
+        #id-b15fb9fae47b18ca0fd5f3a9d3bdcb97 > .dexter-FlexContainer-Items {
+            min-height: 250px;
+        }
+    }
+    @media screen and (min-width: 1200px) {
+        #id-b15fb9fae47b18ca0fd5f3a9d3bdcb97 > .dexter-FlexContainer-Items {
+            min-height: 500px;
+        }
+    }
+        #id-0bad1b2bfcc7fc6948e3eb8f892eebc1 {
+                background-color: #80F2E1; 
+        }
+        #id-41085498888288897e9198bb3fc2fa45 > .dexter-FlexContainer-Items > *:nth-child(1) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            }
+        #id-41085498888288897e9198bb3fc2fa45 > .dexter-FlexContainer-Items > *:nth-child(2) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            }
+        #id-41085498888288897e9198bb3fc2fa45 {
+        color: #000000; 
+        }
+    @media screen and (min-width: 600px) {
+        #id-41085498888288897e9198bb3fc2fa45 > .dexter-FlexContainer-Items {
+        }
+        #id-41085498888288897e9198bb3fc2fa45 > .dexter-FlexContainer-Items > *:nth-child(1) {
+            flex: 1 1 1%; max-width: 100%; 
+            min-height: auto;
+        }
+        #id-41085498888288897e9198bb3fc2fa45 > .dexter-FlexContainer-Items > *:nth-child(2) {
+            flex: 1 1 1%; max-width: 100%; 
+            min-height: auto;
+        }
+    }
+    @media screen and (min-width: 1200px) {
+        #id-41085498888288897e9198bb3fc2fa45 > .dexter-FlexContainer-Items {
+        }
+        #id-41085498888288897e9198bb3fc2fa45 > .dexter-FlexContainer-Items > *:nth-child(1) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+        }
+        #id-41085498888288897e9198bb3fc2fa45 > .dexter-FlexContainer-Items > *:nth-child(2) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+        }
+    }
+    #id-6223314d710ed0c77665cf83758093bf {
+        z-index: 4; 
+    }
+    Explore Creative Cloud
+            Start a free trial
+            See plans &amp; pricing
+    #id-9787a47e21d05bea61ecf149c78b6b6d {
+        z-index: 4; 
+    }
+    See what you can do
+            Photography
+            Graphic design
+            Video
+            Illustration
+            UI and UX
+            3D and AR
+            Social media
+        #root_content_position_position-par_flex_copy_copy_copy__1069150531 > .dexter-FlexContainer-Items > *:nth-child(1) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            }
+        #root_content_position_position-par_flex_copy_copy_copy__1069150531 > .dexter-FlexContainer-Items > *:nth-child(2) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            }
+        #root_content_position_position-par_flex_copy_copy_copy__1069150531 {
+        color: #FFFFFF; 
+        }
+    @media screen and (min-width: 600px) {
+        #root_content_position_position-par_flex_copy_copy_copy__1069150531 > .dexter-FlexContainer-Items {
+        }
+    }
+    @media screen and (min-width: 1200px) {
+        #root_content_position_position-par_flex_copy_copy_copy__1069150531 > .dexter-FlexContainer-Items {
+        }
+        #root_content_position_position-par_flex_copy_copy_copy__1069150531 > .dexter-FlexContainer-Items > *:nth-child(1) {
+            width: 66.666667%; max-width: 66.666667%; flex: 1 1 auto;
+            min-height: auto;
+        }
+        #root_content_position_position-par_flex_copy_copy_copy__1069150531 > .dexter-FlexContainer-Items > *:nth-child(2) {
+            width: 33.333333%; max-width: 33.333333%; flex: 1 1 auto;
+            min-height: auto;
+        }
+    }
+    @media screen and (min-width: 600px) {
+        #root_content_position_position-par_flex_copy_copy_copy__1069150531_items_flex > .dexter-FlexContainer-Items {
+        }
+    }
+        #root_content_position_position-par_flex_copy_copy_copy__1069150531_items_flex_1779653455 {
+        color: #FFFFFF; 
+        }
+    @media screen and (min-width: 600px) {
+        #root_content_position_position-par_flex_copy_copy_copy__1069150531_items_flex_1779653455 > .dexter-FlexContainer-Items {
+        }
+    }
+    @media screen and (min-width: 1200px) {
+        #root_content_position_position-par_flex_copy_copy_copy__1069150531_items_flex_1779653455 > .dexter-FlexContainer-Items {
+        }
+    }
+        #root_content_position_position-par_flex_copy_524341076__1743256555 > .dexter-FlexContainer-Items > *:nth-child(1) {
+            flex: 1 1 1%; max-width: 100%; 
+            min-height: auto;
+            }
+        #root_content_position_position-par_flex_copy_524341076__1743256555_items_flex_891506393_copy > .dexter-FlexContainer-Items > *:nth-child(1) {
+            flex: 1 1 1%; max-width: 100%; 
+            min-height: auto;
+            }
+        #root_content_position_position-par_flex_copy_524341076__1743256555_items_flex_891506393_copy {
+        }
+        @media screen and (min-width: 600px) {
+            #root_content_position_position-par_flex_copy_524341076__1743256555_items_flex_891506393_copy {
+                    background-color: transparent; 
+                    background-image: unset;
+            }
+        }
+        @media screen and (min-width: 1200px) {
+            #root_content_position_position-par_flex_copy_524341076__1743256555_items_flex_891506393_copy {
+                    background-image: unset;
+            }
+        }
+        #root_content_position_position-par_flex_copy_524341076__1743256555_items_flex_891506393_copy {
+        color: #000000; 
+        }
+        @media screen and (min-width: 600px) {
+            #root_content_position_position-par_flex_copy_524341076__1743256555_items_flex_891506393_copy {
+                color: #000000; 
+            }
+        }
+    @media screen and (min-width: 600px) {
+        #root_content_position_position-par_flex_copy_524341076__1743256555_items_flex_891506393_copy > .dexter-FlexContainer-Items {
+        }
+    }
+    @media screen and (min-width: 1200px) {
+        #root_content_position_position-par_flex_copy_524341076__1743256555_items_flex_891506393_copy > .dexter-FlexContainer-Items {
+        }
+    }
+        #root_content_position_position-par_flex_copy_copy_copy__917276174 > .dexter-FlexContainer-Items > *:nth-child(1) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            }
+        #root_content_position_position-par_flex_copy_copy_copy__917276174 > .dexter-FlexContainer-Items > *:nth-child(2) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            }
+        #root_content_position_position-par_flex_copy_copy_copy__917276174 > .dexter-FlexContainer-Items > *:nth-child(3) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            }
+        #root_content_position_position-par_flex_copy_copy_copy__917276174 {
+        color: #FFFFFF; 
+        }
+    @media screen and (min-width: 600px) {
+        #root_content_position_position-par_flex_copy_copy_copy__917276174 > .dexter-FlexContainer-Items {
+        }
+    }
+    @media screen and (min-width: 1200px) {
+        #root_content_position_position-par_flex_copy_copy_copy__917276174 > .dexter-FlexContainer-Items {
+        }
+        #root_content_position_position-par_flex_copy_copy_copy__917276174 > .dexter-FlexContainer-Items > *:nth-child(1) {
+            width: 33.333333%; max-width: 33.333333%; flex: 1 1 auto;
+            min-height: auto;
+        }
+        #root_content_position_position-par_flex_copy_copy_copy__917276174 > .dexter-FlexContainer-Items > *:nth-child(2) {
+            width: 33.333333%; max-width: 33.333333%; flex: 1 1 auto;
+            min-height: auto;
+        }
+        #root_content_position_position-par_flex_copy_copy_copy__917276174 > .dexter-FlexContainer-Items > *:nth-child(3) {
+            width: 33.333333%; max-width: 33.333333%; flex: 1 1 auto;
+            min-height: auto;
+        }
+    }
+    @media screen and (min-width: 600px) {
+        #root_content_position_position-par_flex_copy_copy_copy__917276174_items_flex > .dexter-FlexContainer-Items {
+        }
+    }
+    @media screen and (min-width: 1200px) {
+        #root_content_position_position-par_flex_copy_copy_copy__917276174_items_flex > .dexter-FlexContainer-Items {
+        }
+    }
+        #root_content_position_position-par_flex_copy_copy_copy__917276174_items_flex_898295737 {
+        color: #FFFFFF; 
+        }
+    @media screen and (min-width: 600px) {
+        #root_content_position_position-par_flex_copy_copy_copy__917276174_items_flex_898295737 > .dexter-FlexContainer-Items {
+        }
+    }
+    @media screen and (min-width: 1200px) {
+        #root_content_position_position-par_flex_copy_copy_copy__917276174_items_flex_898295737 > .dexter-FlexContainer-Items {
+        }
+    }
+        #root_content_position_position-par_flex_copy_copy_copy__917276174_items_flex_1779653455 {
+        color: #FFFFFF; 
+        }
+    @media screen and (min-width: 600px) {
+        #root_content_position_position-par_flex_copy_copy_copy__917276174_items_flex_1779653455 > .dexter-FlexContainer-Items {
+        }
+    }
+    @media screen and (min-width: 1200px) {
+        #root_content_position_position-par_flex_copy_copy_copy__917276174_items_flex_1779653455 > .dexter-FlexContainer-Items {
+        }
+    }
+        #root_content_position_position-par_flex_copy_524341076_ > .dexter-FlexContainer-Items > *:nth-child(1) {
+            flex: 1 1 1%; max-width: 100%; 
+            min-height: auto;
+            }
+    @media screen and (min-width: 600px) {
+        #root_content_position_position-par_flex_copy_524341076_ > .dexter-FlexContainer-Items {
+        }
+    }
+    @media screen and (min-width: 1200px) {
+        #root_content_position_position-par_flex_copy_524341076_ > .dexter-FlexContainer-Items {
+        }
+    }
+        #root_content_position_position-par_flex_copy_524341076__items_flex_891506393_copy > .dexter-FlexContainer-Items > *:nth-child(1) {
+            flex: 1 1 1%; max-width: 100%; 
+            min-height: auto;
+            }
+        #root_content_position_position-par_flex_copy_524341076__items_flex_891506393_copy {
+        }
+        @media screen and (min-width: 600px) {
+            #root_content_position_position-par_flex_copy_524341076__items_flex_891506393_copy {
+                    background-color: transparent; 
+                    background-image: unset;
+            }
+        }
+        @media screen and (min-width: 1200px) {
+            #root_content_position_position-par_flex_copy_524341076__items_flex_891506393_copy {
+                    background-image: unset;
+            }
+        }
+        #root_content_position_position-par_flex_copy_524341076__items_flex_891506393_copy {
+        color: #000000; 
+        }
+        @media screen and (min-width: 600px) {
+            #root_content_position_position-par_flex_copy_524341076__items_flex_891506393_copy {
+                color: #000000; 
+            }
+        }
+    @media screen and (min-width: 600px) {
+        #root_content_position_position-par_flex_copy_524341076__items_flex_891506393_copy > .dexter-FlexContainer-Items {
+        }
+    }
+    @media screen and (min-width: 1200px) {
+        #root_content_position_position-par_flex_copy_524341076__items_flex_891506393_copy > .dexter-FlexContainer-Items {
+        }
+    }
+        #root_content_position_position-par_flex_copy_copy_copy__340136028 > .dexter-FlexContainer-Items > *:nth-child(1) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            }
+        #root_content_position_position-par_flex_copy_copy_copy__340136028 > .dexter-FlexContainer-Items > *:nth-child(2) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            }
+        #root_content_position_position-par_flex_copy_copy_copy__340136028 > .dexter-FlexContainer-Items > *:nth-child(3) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            }
+        #root_content_position_position-par_flex_copy_copy_copy__340136028 {
+        color: #FFFFFF; 
+        }
+    @media screen and (min-width: 600px) {
+        #root_content_position_position-par_flex_copy_copy_copy__340136028 > .dexter-FlexContainer-Items {
+        }
+    }
+    @media screen and (min-width: 1200px) {
+        #root_content_position_position-par_flex_copy_copy_copy__340136028 > .dexter-FlexContainer-Items {
+        }
+        #root_content_position_position-par_flex_copy_copy_copy__340136028 > .dexter-FlexContainer-Items > *:nth-child(1) {
+            width: 33.333333%; max-width: 33.333333%; flex: 1 1 auto;
+            min-height: auto;
+        }
+        #root_content_position_position-par_flex_copy_copy_copy__340136028 > .dexter-FlexContainer-Items > *:nth-child(2) {
+            width: 33.333333%; max-width: 33.333333%; flex: 1 1 auto;
+            min-height: auto;
+        }
+        #root_content_position_position-par_flex_copy_copy_copy__340136028 > .dexter-FlexContainer-Items > *:nth-child(3) {
+            width: 33.333333%; max-width: 33.333333%; flex: 1 1 auto;
+            min-height: auto;
+        }
+    }
+    @media screen and (min-width: 600px) {
+        #root_content_position_position-par_flex_copy_copy_copy__340136028_items_flex > .dexter-FlexContainer-Items {
+        }
+    }
+        #root_content_position_position-par_flex_copy_copy_copy__340136028_items_flex_898295737 {
+        color: #FFFFFF; 
+        }
+    @media screen and (min-width: 600px) {
+        #root_content_position_position-par_flex_copy_copy_copy__340136028_items_flex_898295737 > .dexter-FlexContainer-Items {
+        }
+    }
+    @media screen and (min-width: 1200px) {
+        #root_content_position_position-par_flex_copy_copy_copy__340136028_items_flex_898295737 > .dexter-FlexContainer-Items {
+        }
+    }
+        #root_content_position_position-par_flex_copy_copy_copy__340136028_items_flex_1779653455 {
+        color: #FFFFFF; 
+        }
+    @media screen and (min-width: 600px) {
+        #root_content_position_position-par_flex_copy_copy_copy__340136028_items_flex_1779653455 > .dexter-FlexContainer-Items {
+        }
+    }
+    @media screen and (min-width: 1200px) {
+        #root_content_position_position-par_flex_copy_copy_copy__340136028_items_flex_1779653455 > .dexter-FlexContainer-Items {
+        }
+    }
+                Language Navigation
+                Language Navigation
+        Choose your region
+        Selecting a region changes the language and/or content on Adobe.com.
+            Americas
+                        Brasil
+                        Canada - English
+                        Canada - Français
+                        Latinoamérica
+                        México
+                        United States
+            Europe, Middle East and Africa
+                        Africa - English
+                        België - Nederlands
+                        Belgique - Français
+                        Belgium - English
+                        Česká republika
+                        CIS - English
+                        Cyprus - English
+                        Danmark
+                        Deutschland
+                        Eesti
+                        España
+                        France
+                        Greece - English
+                        Ireland
+                        Israel - English
+                        Italia
+                        Latvija
+                        Lietuva
+                        Luxembourg - Deutsch
+                        Luxembourg - English
+                        Luxembourg - Français
+                        Magyarország
+                        Malta - English
+                        Middle East and North Africa - English
+                        Nederland
+                        Norge
+                        Österreich
+                        Polska
+                        Portugal
+                        România
+                        Schweiz
+                        Slovenija
+                        Slovensko
+                        Suisse
+                        Suomi
+                        Sverige
+                        Svizzera
+                        Türkiye
+                        United Kingdom
+                        България
+                        Россия
+                        СНГ – русский
+                        Україна
+                        الشرق الأوسط وشمال أفريقيا - اللغة العربية
+                        ישראל - עברית
+            Asia Pacific
+                        Australia
+                        Hong Kong SAR of China
+                        India - English
+                        New Zealand
+                        Southeast Asia (Includes Indonesia, Malaysia, Philippines, Singapore, Thailand, and Vietnam) - English
+                        中国
+                        中國香港特別行政區
+                        台灣地區
+                        日本
+                        한국

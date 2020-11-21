@@ -1,0 +1,125 @@
+	*{font-family:"微软雅黑"}
+	#channelHead{ width:100%; background:#f1f1f1; border-bottom:1px #999 solid;}
+	.headtopNav{ width:1000px; margin:0 auto; padding:4px 0; height:24px; line-height:24px; _padding-bottom:0;}
+	.headtopNav span{ margin:0 5px;color:#bb2737;}
+	.channeLogin{float:left; height:24px; line-height:24px;text-align: right;width: 550px;}
+	.headLogin{ width:80px; height:18px; border:1px #ccc solid;}
+	.headSubLog{ width:50px; height:24px; margin-right:4px;}
+	.whereGo li{ width:100px; height:24px; background:#fff; border:1px #999 solid; float:right; text-align:center; list-style:none; cursor:pointer;}
+	.whereGo{ margin-right:9px;}
+	.whereGo li a{ font-size:12px; color:#000; line-height:24px;}
+	.whereGo li ul{ display:none;}
+	.whereGo li ul li{ border-top:none; position:relative; z-index:2; left:1px; top:1px; background:#f2f2f2;}
+	.whereGo li ul a:hover li{ background:#bb2737; color:#fff;}
+	.whereGo li:hover ul{ display:block;}
+	.navBg{ width:100%; background:#fff;}
+	.channelNav{ width:1000px; text-align:center; margin:0 auto; clear:both; height:24px; line-height:24px; position:relative; z-index:1; padding-top:6px; background:#fff;}
+	.channelNav li{ padding:0 11px; list-style:none; float:left; border-right:1px #ccc solid; font-size:12px; color:#000; line-height:14px;}
+	.channelNav li a{ color:#000;}
+	.channelNav li a:hover{ color:#bb2737;}
+	.lightgrey12{ font-size:12px; color:#ccc;}
+	#back_top{ display:none;}
+	.footLine{ width:1000px; margin:0 auto; height:0; font-size:0; border-bottom:1px #999 solid;}
+	.ad_index_top_full_01,.ad_index_top_full_02,.ad_index_pop {position:relative;}
+               English
+			载入中...
+			-->
+				您想去哪里？
+						光明图片
+						我要投稿
+			时政国际时评理论文化科技教育经济生活法治军事卫生养生女人文娱电视图片游戏光明报系更多&gt;&gt;
+﻿
+      时政频道&gt; 国内&gt; 正文
+      外交部12位部领导全部公布婚育状况
+      2016-11-12 08:50　来源：封面新闻　
+    我有话说
+	  2016-11-12 08:50:48来源：封面新闻作者：责任编辑：孙满桃
+      229490652016-11-12 08:50:48.0外交部12位部领导全部公布婚育状况婚育,外交部部长,官网,王毅,中央纪委29840国内/enpproperty-->　　日前，外交部官网领导栏进行了更新，十八届中央纪委委员谢杭生，正式出任中央纪委驻外交部纪检组长。
+　　封面新闻（thecover.cn）记者注意到，在外交部官网上，谢杭生的简历底部，特别注明了一条信息——“已婚，有一子”。
+　　外交部官网截图
+　　封面新闻记者了解到，自王毅出任外交部部长后，从2013年开始，部长助理以上的外交部主要官员都公布了自己的婚育情况。而通过官网公布部领导的婚育信息，目前在国务院25个组成部门中还是唯一的一个。
+　　2012年，在中共十八届中央政治局常委履新一个月之际，新华社自当年12月23日起连续3天播发了“中共高层新阵容”人物特稿及相关图片。在那组报道中，首次详细披露了现任领导人的个人经历与家庭情况。
+　　当时，有媒体评价称，首次详细披露领导人的个人经历与家庭情况，可视为领导人新作风的又一体现。
+　　在外交部官网上，封面新闻记者注意到，一共公布了包括部长王毅在内的12名主要领导的婚育情况，分别是：
+　　王毅：部长，1953年10月生，已婚，有一女。
+　　张业遂：副部长，1953年10月生，已婚，有一女。
+　　李保东：副部长，1955年4月生，已婚，有一子。
+　　王 超：副部长，1960年4月生，已婚，有一子。
+　　谢杭生：中央纪委驻外交部纪检组组长，1955年1月生，已婚，有一子。
+　　刘振民：副部长，1955年8月生，已婚。
+　　张明：副部长，1957年6月生，已婚，有一子。
+　　郑泽光：副部长，1963年10月生，已婚，有一子。
+　　钱洪山：部长助理，1963年5月生，已婚，有一子。
+　　李惠来：部长助理，1960年3月生，已婚，有一子。
+　　孔铉佑：部长助理，1959年7月生，已婚，有一女。
+　　刘海星：部长助理，1963年4月生，已婚，有一女。
+　　（王国平）[责任编辑:孙满桃]
+ -->
+			版权声明：转载须经版权人书面授权并注明来源
+#SOHUCS #SOHU_MAIN #SOHU-comment-main .section-cbox-w .post-login-w ul li .login-wrap-other-w a,.user-login-wrapper-dw .cont-login-dw ul li .login-wrap-other-w a{padding:0;width:117px;height:40px;background-image:url("http://img.gmw.cn/pic/img_117x40.jpg");background-repeat:no-repeat;background-position:0 0}#SOHUCS #SOHU_MAIN #SOHU-comment-main .section-cbox-w .post-login-w ul li .login-wrap-other-w a:hover,.user-login-wrapper-dw .cont-login-dw ul li .login-wrap-other-w a:hover{background-image:url("http://img.gmw.cn/pic/img_117x40_hover.jpg");background-repeat:no-repeat;background-position:0 0}#SOHUCS #SOHU_MAIN #SOHU-comment-main .section-cbox-w .post-login-w ul li .login-wrap-other-w span.wrap-icon-w,.user-login-wrapper-dw .cont-login-dw ul li .login-wrap-other-w span.wrap-icon-w{display:none}#SOHUCS #SOHU_MAIN #SOHU-comment-main .section-cbox-w .post-login-w ul li .login-wrap-other-w span.wrap-name-w,.user-login-wrapper-dw .cont-login-dw ul li .login-wrap-other-w span.wrap-name-w{display:none}#changyan_floatbar_wrapper #bottombar-wrap-w .wrap-cont-w .cont-login-w .logout-wrap-w ul li.login-wrap-w,#changyan_floatbar_wrapper #bottombar-wrap-w .wrap-cont-w .cont-login-w .logout-wrap-w ul li img{width:30px!important}
+-->
+.contentPicTxt_right{padding:5px;}
+.contentPicTxt_right img{ margin:0 5px 0 0; float:left;}
+/* 右侧侧Tab01  3个栏目*/
+ul#contentTabs_right01{width:308px;}
+ul#contentTabs_right01 li{ float:left;}
+ul#contentTabs_right01 li a{display:block;width:102px;border-bottom:1px solid #ccc;border-right:1px solid #ccc;height:30px; line-height:30px; text-align:center;text-decoration:none;outline:none;background:#f9f9f9;}
+ul#contentTabs_right01 li a.current{background:#fff; border-bottom:none; font-weight:bold;}
+ul#contentTabs_right01 li a.current:hover{text-decoration:none;cursor: default;}
+ul#contentOutput_right01,ul#contentOutput_right01 li{width:308px; height:280px;overflow:hidden;}
+/* 右侧侧Tab02 2个栏目*/
+ul#contentTabs_right02{width:308px;}
+ul#contentTabs_right02 li{ float:left;}
+ul#contentTabs_right02 li a,ul#contentTabs_right01 li a{display:block;width:298px;border-bottom:1px solid #222;height:30px; line-height:30px; text-align:left; padding:0 5px;text-decoration:none;outline:none;background:#f9f9f9; font-weight:bold; color:#000;}
+ul#contentTabs_right02 li a.current{background:#fff; border-bottom:none; font-weight:bold;}
+ul#contentTabs_right02 li a.current:hover{text-decoration:none;cursor: default;}
+ul#contentOutput_right02,ul#contentOutput_right02 li{width:308px; height:280px;overflow:hidden;}
+/* 右侧排行*/
+.rankRight p{ display:block; height:24px; margin:0; padding:0; border-bottom:1px dotted #cecece; clear:both;}
+.rankRight p span{ display:block; float:left; height:24px; line-height:24px;}
+.rankRight p span.rankRightTit{ width:220px; overflow:hidden;}
+.rankRight p span.clickRate{ width:55px;color:#666;}
+.rankRight p span.r1,.rankRight p span.r2{ width:18px; height:18px; line-height:18px;margin:3px 5px 0 0; text-align:center; font-size:12px;}
+.rankRight p span.r1{ color:#c00;}
+.contentRight{background:none;}
+#searchText{width:140px; height:20px; line-height:20px; border:1px #ccc solid;}
+#selectId{width:96px; height:22px; border:1px #ccc solid;}
+#submitS{background:#123377; border:1px #ccc solid; width:50px; height:22px; line-height:22px; color:#fff; font-size:12px; cursor:pointer;}
+/*独家策划*/
+.tab_title{margin-bottom:10px;}
+.tab_title a{font-size:14px;}
+.sub_times{font-size:12px; color:#707070; margin-top:5px;}
+.zhaiyao{line-height:20px; text-indent:2em;}
+.original_hd {overflow:hidden;}
+.original_hd h2 {float:left;font-size:14px;}
+.original_hd .more {float:right;font-size:12px;font-weight:400;}
+.original_hd .more a {color:#000;}
+.layer1{padding:10px 10px 0 10px;}
+.divlist{border-top:1px dashed #c9c9c9; padding:15px 0;overflow:hidden;}
+.divlist:first-child{border-top:none; padding:0 0 15px 0;}
+.tab_title {font-size:16px;line-height:24px;}
+.img1 {float:left;margin-right:10px;}
+.tab_title a {color:#000;}
+.zhaiyao {font-size:12px;line-height:24px;}
+#searchBar{padding-bottom:2px;width:240px;}
+#searchText{width:140px; height:20px; line-height:20px; border:1px #ccc solid;}
+#selectId{width:96px; height:22px; border:1px #ccc solid;}
+#submitS{background:#123377; border:1px #ccc solid; width:50px; height:24px; line-height:20px; color:#fff; font-size:12px; cursor:pointer;}
+			[值班总编推荐]
+			  瑞德西韦三期数据为抗疫注入新力量
+			[值班总编推荐]
+			  光明日报: 人脸识别，要方便更要安全
+			[值班总编推荐]
+			  为全球减贫贡献伟力的中国实践
+			独家策划
+				  	如何破解新冠肺炎疫情对人权影响问题		中国代表在会议上呼吁各国将人民的生命和健康放在首位，共同反对将公共卫生问题政治化。想了解更多内容？戳下图↓一图速览！		习近平经济社会领域专家座谈会金句速览		中共中央总书记、国家主席、中央军委主席习近平8月24日下午在中南海主持召开经济社会领域专家座谈会并发表重要讲话。		微视频｜清雅风韵 一围青碧绕彭城		徐州市一张蓝图绘到底，以生动的实践在绿水青山与金山银山间画出优美的“等号”，向社会呈现出丰富立体的徐州样本。		徐连林：彰显“红船精神”的时代价值		由光明日报社、浙江省委宣传部和嘉兴市委联合主办的2020“红船论坛”，于8月3日至4日在浙江嘉兴举行。	
+				光明图片库
+				纪　实-->
+				  	室内灵芝喜丰收	应急救援安全教育进校园	大学生田园劳动实践教育	南海归来鱼满舱
+						大栅栏街道拆除楼顶违建	京沈高铁朝阳隧道贯通	一个孩子的幼儿园	“隧道女神”是怎样炼成的
+回到顶部 -->
+	手机光明网
+	光明网版权所有
+		光明日报社概况 | 关于光明网 | 报网动态 | 联系我们 | 法律声明 | 光明员工 | 光明网邮箱 | 网站地图
+		光明网版权所有
+.onlyYSP{ display:none;}

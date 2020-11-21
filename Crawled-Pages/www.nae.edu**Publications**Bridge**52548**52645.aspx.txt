@@ -1,0 +1,291 @@
+		XS
+		SM
+		MD
+		LG
+				×
+				Login
+							Keep me signed in
+						Create New Account
+        Giving
+        About
+        Contact
+        Media Room
+						NAE Members
+							Login
+	NAE Login
+		To avoid system errors, if Chrome is your preferred browser, please update to the latest version of Chrome (81 or higher) or use an alternative browser.
+					Members Only
+						Click here to login if you're an NAE Member
+					Login
+					Forgot Username or Password
+						Recover Your Account Information
+					Reset Password
+				Non-NAE Members
+										Login
+												Keep me signed in
+							Membership Inquiries
+									202-334-2198
+									NAEMembershipOffice@nae.edu
+-->
+								Toggle navigation
+						Homepage
+					Publications
+					Publications
+										Publications Overview
+								Reports
+								NAE Reports
+								Annual Reports
+								The Bridge
+								Bridge Articles
+					Members
+					Members
+										Members Overview
+								Members Overview
+								Members Directory
+								Engineering Sections
+								Memorial Tributes
+								Recently Deceased Members
+					Events
+					Events
+										Events Overview
+								Calendar 
+								Annual Meetings
+								National and Regional Meetings
+					Activities
+					Activities
+										Activities Overview
+								Activities Overview
+								Projects
+								Awards
+								Fellowships
+								Competitiveness Projects
+								Diversity Projects
+								Education Projects
+								Education Events
+								Energy Projects
+								Environment Projects
+								Ethics Projects
+								Ethics Events
+								Healthcare Projects
+								Honoring Engineers Projects
+								Media and Journalism Projects
+								Understanding Engineering Projects
+        Giving
+        About
+        Contact
+        Media Room
+	Follow us on: 
+	NAE Login
+		To avoid system errors, if Chrome is your preferred browser, please update to the latest version of Chrome (81 or higher) or use an alternative browser.
+					Members Only
+						Click here to login if you're an NAE Member
+					Login
+					Forgot Username or Password
+						Recover Your Account Information
+					Reset Password
+				Non-NAE Members
+										Login
+												Keep me signed in
+							Membership Inquiries
+									202-334-2198
+									NAEMembershipOffice@nae.edu
+-->
+						Homepage
+					Publications
+					Publications
+										Areas of Interest
+								Reports
+								NAE Reports
+								Annual Reports
+								The Bridge
+								Bridge Articles
+					Members
+					Members
+										Areas of Interest
+								Members Overview
+								Members Directory
+								Engineering Sections
+								Memorial Tributes
+								Recently Deceased Members
+					Events
+					Events
+										Areas of Interest
+								Calendar 
+								Annual Meetings
+								National and Regional Meetings
+					Activities
+					Activities
+										Areas of Interest
+								Activities Overview
+								Projects
+								Awards
+								Fellowships
+								Competitiveness Projects
+								Diversity Projects
+								Education Projects
+								Education Events
+								Energy Projects
+								Environment Projects
+								Ethics Projects
+								Ethics Events
+								Healthcare Projects
+								Honoring Engineers Projects
+								Media and Journalism Projects
+								Understanding Engineering Projects
+            Home
+            Publications
+            The Bridge
+            Fall Issue of The Bridge on Agriculture and Information Technology
+            The Impact of Mechanization on Agriculture
+Explore
+							Publications
+						Reports
+						NAE Reports
+						The Bridge
+									Bridge Articles
+									Fall Issue of The Bridge on Agriculture and Information Technology
+												The Impact of Mechanization on Agriculture
+                In This Issue
+                            Multiscale Sensing and Modeling Frameworks: Integrating Field to Continental Scales
+                            Agriculture and Smarter Food Systems
+                            The Impact of Mechanization on Agriculture
+                            How Smart-IT Systems are Revolutionizing Agriculture
+                            Information Technology and Agriculture: Global Challenges and Opportunities
+                                    See More Items
+                        Multiscale Sensing and Modeling Frameworks: Integrating Field to Continental Scales
+                        Agriculture and Smarter Food Systems
+                        The Impact of Mechanization on Agriculture
+                        How Smart-IT Systems are Revolutionizing Agriculture
+                        Information Technology and Agriculture: Global Challenges and Opportunities
+                        Innovation and Urgency: Toward a New Green Revolution
+                        Agriculture and Information Technology
+				Download PDF
+					Fall Issue of The Bridge on Agriculture and Information Technology
+						September 15, 2011
+						Volume 41
+						Issue 3
+    The Impact of Mechanization on Agriculture
+    Thursday, September 15, 2011
+		Author: John F. Reid
+         In the future, agricultural machines will become data-rich sensing and monitoring systems.
+Significant challenges will have to be overcome to achieve the level of agricultural productivity necessary to meet the predicted world demand for food, fiber, and fuel in 2050. Although agriculture has met significant challenges in the past, targeted increases in productivity by 2050 will have to be made in the face of stringent constraints—including limited resources, less skilled labor, and a limited amount of arable land, among others.
+The metric used to measure such progress is total factor productivity (TFP)—the output per unit of total resources used in production. According to some predictions, agricultural output will have to double by 2050 (GHI, 2011), with simultaneous management of sustainability. This will require increasing TFP from the current level of 1.4 for agricultural production systems to a consistent level of 1.75 or higher. To reach that goal, we will need significant achievements in all of the factors that impact TFP.
+Mechanization is one factor that has had a significant effect on TFP since the beginning of modern agriculture. Mechanized harvesting, for example, was a key factor in increasing cotton production in the last century (Figure 1). In the future, mechanization will also have to contribute to better management of inputs, which will be critical to increasing TFP in global production systems that vary widely among crop types and regional economic status.
+Figure 1
+For example, a scarce, basic resource that will have to be managed much better is water, a critical input in agricultural production. Both the efficiency and effectiveness of water use will have to improve dramatically.
+Today, approximately 70 percent of withdrawals of fresh water are used for agriculture (Postel et al., 1996). By 2025, 1.8 billion people are expected to be living in areas with absolute water scarcity (UN FAO, 2007), and two-thirds of the world population will live in water-stressed areas. Improving water management will have to be achieved by more efficient irrigation technology and higher efficiencies in whatever technologies farmers are currently using.
+In this article, I define the current state of agricultural systems productivity and demonstrate how information and communication technologies (ICT) are being integrated into agricultural systems. I also describe how the integration of ICT will create opportunities for increasing agricultural-system productivity and influencing productivity beyond the agriculture value chain.
+The Impact of Mechanization on Productivity
+Agricultural mechanization, one of the great achievements of the 20th century (NAE, 2000), was enabled by technologies that created value in agricultural production practices through the more efficient use of labor, the timeliness of operations, and more efficient input management (Table 1) with a focus on sustainable, high-productivity systems. Historically, affordable machinery, which increased capability and standardization and measurably improved productivity, was a key enabler of agricultural mechanization. Figure 2 shows some major developments since the mid-1800s by John Deere, a major innovator and developer of machinery technology.
+Figure 2
+In the 19th century, as our society matured, a great many innovations transformed the face of American agriculture. Taking advantage of a large labor base and draft animals, farmers had been able to manage reasonable areas of land. This form of agriculture was still practiced in some places until the middle of the 20th century.
+Early innovations were implements and tools that increased the productivity of draft animals and assisted farmers in preparing land for cultivation, planting and seeding, and managing and harvesting crops. The origins of the John Deere Company, for example, were based on the steel-surfaced plow developed by its founder. This important innovation increased the productivity of farmers working in the sticky soils of the Midwest.
+A major turning point occurred when tractors began to replace draft animals in the early decades of the 20th century. Tractors leveraged a growing oil economy to significantly accelerate agricultural productivity and output. Early harvesting methods had required separate process operations for different implements. With tractors, the number of necessary passes in a field for specific implements was reduced, and eventually, those implements were combined through innovation into the “combination” or combine harvester.
+For most of the 20th century, four key factors influenced increases in the rate of crop production: more efficient use of labor; the timeliness of operations; more efficient use of inputs; and more sustainable productions systems (Table 1). These four drivers played out at different rates in different crop production systems, but always led to more efficient systems with lower input costs. Technological innovations generally increased mechanization by integrating functional processes in a machine or crop production system and by making it possible for a farmer to manage increasingly large areas of land.
+Table 1
+By the late 20th century, electronically controlled hydraulics and power systems were the enabling technologies for improving machine performance and productivity. With an electronically addressable machine architecture, coupled with public access to global navigation satellite system (GNSS) technology in the mid-1990s, mechanization in the last 20 years has been focused on leveraging information, automation, and communication to advance ongoing trends in the precision control of agricultural production systems.
+In general, advances in machine system automation have increased productivity, increased convenience, and reduced skilled labor requirements for complex tasks. Moreover, benefits have been achieved in an economical way and increased overall TFP.
+From Mechanization to Cyber-Physical Systems
+Today’s increasingly automated agricultural production systems depend on the collection, transfer, and management of information by ICT to drive increased productivity. What was once a highly mechanical system is becoming a dynamic cyber-physical system (CPS) that combines the cyber, or digital, domain with the physical domain. The examples of CPS reviewed below suggest the future potential of ICT for achieving the target TFP of 1.75 and beyond.
+Precision Agriculture
+Precision agriculture, or precision farming, is a systems approach for site-specific management of crop production systems. The foundation of precision farming rests on geospatial data techniques for improving the management of inputs and documenting production outputs.
+As the size of farm implements and machines increased, farmers were able to manage larger land areas. At first, these large machines typically used the same control levels across the width of the implement, even though this was not always best for specific portions of the landscape that might have different spatial and other characteristics (Sevila and Blackmore, 2001).
+A key technology enabler for precision farming resulted from the public availability of GNSS, a technology that emerged in the mid-1990s. GNSS provided meter, and eventually decimeter, accuracy for mapping yields and moisture content. A number of ICT approaches were enabled by precision agriculture, but generally, its success is attributable to the design of machinery with the capacity for variable-rate applications. Examples include precision planters, sprayers, fertilizer applicators, and tillage instruments.
+The predominant control strategies for these systems are based on management maps developed by farmers and their crop consultants. Typically, mapping is done using a geographic information system (GIS), based on characteristics of crops, landscape, and prior harvest operations.
+Sources of data for site-specific maps can be satellite imaging, aerial remote sensing, GIS mapping, field mapping, and derivatives of these technologies. Some novel concepts being explored suggest that management strategies can be derived from a combination of geospatial terrain characteristics and sensed information (Hendrickson, 2009). All of these systems are enabled by ICT.
+A competitive technology for map-based precision farming is on-the-go sensing systems, based on the concept of machine-based sensing of agronomic properties (plant health, soil properties, presence of disease or weeds, etc). The immediate use of these data drives control systems for variable-rate applications. These sensor capabilities essentially turn the agricultural vehicle into a mobile recording system of crop attributes measured across the landscape. In fact, current production platforms are increasingly becoming tools for value-added applications through ICT.
+Precision Guidance
+Around the turn of the 21st century, GNSS technology had become so precise and accurate that it had outpaced the requirement for the early phases of precision farming and become commercially viable for enabling a number of automatic-guidance applications (Han et al., 2004). Advances in GNSS technologies include decimeter to centimeter accuracy by using signals from a geospatially known reference point to correct satellite signals. One premium example is a real-time kine-matic global positioning system (RTK-GPS) technology (Figure 3a) that reduces fatigue and lowers the skill level required to achieve high-performance accuracy in field operations.
+Figure 3
+In short, in less than 20 years, GPS technology went from being an emergent technology to a robust, mature technology that has optimal capabilities for production agriculture. A number of solutions are emerging today (Figure 3a) for achieving high-precision accuracy through various reference-signal configurations (e.g., RTK-GPS, multiple satellite systems, sensor fusion with complementary sensors, and multiple sources of corrections).
+Operator-guidance aids that provide feedback to the operator about required steering corrections through audio and visual cues were the first systems on the market for precision guidance. This feature allowed a vehicle system to follow paths parallel to prior operations across a field. These types of systems worked well at decimeter accuracy and required no major control-system integration into the vehicle.
+The major benefits of these systems were to reduce overlap/underlap in field operations with extremely wide implements, typically for spraying chemicals and fertilizers. The decrease in overlap meant the parsimonious use of resources. The decrease in underlap meant that chemicals and fertilizers were applied to every part of the field.
+On the next level of evolution, automatic guidance systems appeared that managed steering for an operator through automatic control. Automatic guidance systems enabled precision operations depending on the type of GNSS signal and how it was integrated into the requirements of the agricultural operations.
+GNSS technology enabled the management of inputs such as seed, pesticides, and fertilizers with precision across the field. For example, the chemical application to buffer zones and grassy waterways was reduced based on sensing of the field location of these features. John Deere’s software product, SwathControl Pro (Figure 3b), enabled farmers to manage the definition and execution of this capability.
+GNSS technology provided the reference signal that enabled accurate vehicle location at the GNSS sensor, but precision control of the machine required several additions to the system (e.g., attitude correction, inertial sensors, implement control). With these features, a mobile CPS could correct the attitude of the vehicle on uneven terrain and manage the vehicle system path for precision in the execution of complex functions.
+The ultimate in un-manned automation is the capability of driving complete field patterns under autonomous management of the tractor-implement functions without frequent operator intervention. Figure 3c shows one commercial example of the execution of this concept. The figure shows a very rudimentary form of path planning, integrated with automatic guidance, that can increase productivity by managing the paths a vehicle must follow. Path management can be programmed to reduce time loss caused by navigation (e.g., turning around) and implement management.
+Like precision agriculture, precision guidance creates data from its precision operations that could be used in crop management. Examples of these data include information on the “as-applied” state of operations, vehicle paths, and operational state variables. The data can then be used to meet the needs of other ICT in systems automation and optimization.
+System Automation and Control
+Until recently, automation has been focused on functions that depend on GNSS or direct sensing. However, processes that lend themselves to control based on the attributes of soil and crop properties are also being investigated. Some initial applications of these, which were coupled with GPS, mapped the yield and moisture of harvested crop operations.
+It is also possible to use sensing of soil or crop properties—such as controlling the cut-length of a self-propelled forage harvester (SPFH)—as part of a combination of techniques to increase machine system productivity. In this example, the cut-length is the section length into which a tree, or forage plant, is cut. When an SPFH is operated with static cutting settings, independent of the size of the forage plant, it can consume a significant amount of energy in cutting forage for ensiling (storage in silos).
+HarvestLab™, a sensing technology, uses near infrared (NIR) reflectance sensing to detect the moisture content of forage and adjust the cut-length of harvested material (Figure 3d). This control strategy can significantly reduce the energy consumption for harvesting forage with no degradation in the ensiling process. The results are a significant reduction in fuel consumption in the harvest operation and a high-quality cut, which enables proper forage preservation.
+NIR sensing has often been used in the laboratory and in grain processing and storage to measure properties (e.g., moisture oil and protein content) of biological materials, which contributes to value-added uses of corn, cereal grains, and forage. As these technologies mature, ICT has the potential to connect information about constituent properties to downstream processes.
+Machine Communications
+The automation methods described above generate massive amounts of data. However, the data are not limited to on-vehicle storage or even to on-the-go decision making. Inter-machine communication greatly increases the potential of these systems.
+In the last few years, the commercial application of telematics devices on machines has been increasing in agriculture, thus empowering a closer connection between farmers and dealers in managing machine uptime and maintenance services. Other applications for machine communication systems include fleet and asset management.
+In addition, inter-machine communications are expanding machine system data applications, such as diagnosing and prognosticating machine health. Inter-machine communications can also include implements and tools (e.g., monitoring seeding rate in tractor implement applications). Functionally, a modern, high-end agricultural machine system is effectively a mobile, geospatial data-collection platform with the capacity to receive, use, sense, store, and transmit data as an integral part of its operational performance.
+As we strive for higher TFP levels, these high-end applications are moving toward systems with increasingly advanced ICT capabilities, including data communication management from machine to off-machine data stores. Other ICT capabilities under development include vehicle-to-vehicle operations management in the field.
+It is clearly within the vision of the industry to develop advanced capabilities (such as those listed below) that leverage these ICT innovations:
+• machine knowledge centers that enable improved design, faster problem resolution, and higher system productivity, increased uptime, and lower operat-ing costs
+• stores of agronomic knowledge that can lead to optimization of farm-site production systems
+• stores of social knowledge related to customer or consumer value-drivers
+As ICT continues to penetrate production systems, a massive network is being developed of machine systems that are platforms for value creation—well beyond productivity from agricultural mechanization intended for the farmer or the farm site. These systems are collecting and managing information with potential value in downstream value-chain operations that use crop or drive systems to achieve environmental sustainability.
+Worksite and Value Chain Productivity
+The next step in automation and control is to move beyond individual vehicle systems to the optimization of production systems and farm worksites. To achieve this goal, we have developed the beginnings of vehicle and machine systems that can both sense and control with precision. These systems can be driven by data from a variety of sources to provide precision control. For example, they are capable of collecting, storing, and transferring information about the crop, field, and machine state at the time of field operation. They can also receive data from public and private data sources.
+Furthermore, data collected by machines can be transferred to farm-management systems as well as to public and private sources that require information about production management for quality, compliance, or value-added purposes. Thus, we are entering an era of emerging field and farm optimization systems that can drive up TFP of the worksite, including machines, geographies, and cropping systems.
+As intelligent mobile equipment for worksite solutions has evolved over the last 20 years, agricultural mechanization has also evolved from a bottom-up integration of the foundations of ICT applied to basic mechanization systems required for crop production. The primary machine capabilities of precision sensing, advanced control systems, and communications have created the potential for the emergence of CPS from production agricultural systems.
+Although these advanced technologies are not uniformly distributed among platforms and production systems, where they exist, there are opportunities to leverage ICT to increase production systems capabilities. Looking ahead, it is expected that the business value of ICT will expand to additional platforms.
+Technologies integrated on vehicles must work seamlessly with other systems. Drawbacks of some initial attempts for ICT capabilities have been the significant time required for setup or management, the lack of a common architecture, the lack of standardization among industries, and the lack of standardization with the farmer in mind as a user of ICT. Recently, several organizations have been working to develop standards, and some improvements have already been developed or are in process (ICT Standards Board, 2006; U.S. Access Board, 2010).1
+Centers that store machine, agronomic, and social knowledge will aggregate data to provide value-added services for machinery operation and farm management. Some of these data may be collected by farmers, and some will be provided by public and private sources of agricultural information. Some data sources, such as remote sensing, have been mentioned, but a number of others will emerge as the aggregated knowledge in efficient production agriculture increases.
+Centers with machine knowledge can help increase equipment uptime and anticipate machine system failures based on vehicle state variables in operation. Machine data that provide a better understanding of machine use can also lead to more efficient system designs that meet the needs of farmers. Agronomic data will create new opportunities for intensive modeling and simulation that can improve production efficiency by anticipating the impact of weather and various production methods.
+In the future, ICT will enable the development of new platforms that can provide more support to production agriculture by taking advantage of opportunities to connect farmers, the value chain, and society in ways that are beyond present capabilities. The German-funded iGreen project, for example, is working on location-based services and knowledge-sharing networks for combining distributed, heterogeneous public and private information sources as steps toward future ICT systems (iGreen, 2011). Today, we are extremely close to having true CPS and control systems for measuring the “pulse” of agricultural productivity on planet Earth.
+Conclusion
+Agricultural mechanization will be a key factor to achieving our TFP goals and feeding a growing planet. Looking ahead, agricultural machines will become data-rich sensing and monitoring systems that can map the performance of both machines and the environment they work on with precision resolution and accuracy, and this capability will unlock levels of information about production agriculture that were heretofore unavailable.
+References
+GHI (Global Harvest Initiative). 2011.  GHI website. Available online at http://www.globalharvestinitiative.org/.
+Han, S., G. Zhang, B. Ni, and J.F. Reid. 2004. A guidance directrix approach to vision-based vehicle guidance systems. Computers and Electronics in Agriculture 43(3): 179–195.
+Hendrickson, L. 2009. Landscape Position Zones and Reference Strips. PowerPoint Presentation. Available online at http://nue.okstate.edu/Nitrogen_Conference2009/Hendrickson. ppt.
+ICT Standards Board. 2006. . . . to coordinate the standardization activities in the field of Information and Communications Technology. Available online at http://www.ictsb.org/.
+iGreen. 2011. Welcome to iGreen! Available online at http://www.igreen-projekt.de/iGreen/.
+National Academy  of Engineering (NAE). 2000. Greatest Engineering Achievements of the 20th Century. Available online at http://www.greatachievements.org/.
+Postel, S.L., G.C. Daily, and P.R. Ehrlich. 1996. Human appropriation of renewable fresh water. Science 271(5250): 785.
+Sevila, F., and S. Blackmore. 2001. Role of ICTs for an Appropriate World Market Development. Presentation at the 12th Members Meeting, Club of Bologna, Bologna, Italy, November 18–19, 2001. Available online at http://www.clubofbologna.org/ew/documents/Proc2001.pdf. 
+UN FAO (United Nations Food and Agriculture Organization). 2007. Coping with Water Scarcity: Challenge of the Twenty-First Century. Available online at http://www.fao.org/nr/water/docs/escarcity.pdf.
+U.S. Access Board. 2010. Draft Information and Communication Technology (ICT) Standards and Guidelines. Available online at http://www.access-board.gov/sec508/refresh/draft-rule. htm.
+ FOOTNOTES
+1 See also http://asabe.org/, http://aem.org/, http://www.sae.org/, and http://www.iso.org/iso/home.html.
+	About the Author:John F. Reid is director, Product Technology and Innovation, John Deere Moline Technology Innovation Center.
+						Home
+						Terms of Use
+						Privacy Statement
+						DMCA Policy
+								Low Graphics
+				       National Academy of Engineering      500 Fifth Street, NW | Washington, DC 20001 | T. 202.334.3200 | F. 202.334.2290  
+				    Copyright © 2020 National Academy of Sciences on behalf of the National Academy of Engineering.                    
+						Publications
+						Reports
+						NAE Reports
+						Annual Reports
+						The Bridge
+						Bridge Articles
+						Members
+						Members Directory
+						Engineering Sections
+						NAE Member Election
+						Elections Calendar
+						Memorial Tributes
+						Recently Deceased Members
+						Events
+						Calendar
+						Annual Meetings
+						National and Regional Meetings
+						Activities
+						Projects
+						Awards
+						Fellowships
+						Giving
+						About
+						Our Study Process
+						Becoming a Member
+						Leadership
+						Staff Directory
+						Contact
+						Media Room
+		Share
+		Print
+	.optanon-alert-box-wrapper a { background-color: transparent; }
+	.optanon-alert-box-wrapper { background: rgba(52, 50, 47, 0.98) !important; color: #fff; }
+	.optanon-alert-box-wrapper .optanon-alert-box-bg p { color: #fff !important; }
+	.optanon-alert-box-wrapper{padding: 15px 0;}
+	.optanon-alert-box-wrapper .accept-cookie-container{padding:0;background:none!important;border:none!important;}
+	.optanon-alert-box-wrapper .accept-cookie-container .accept-cookies-button{padding:8px 18px; border:1px solid #fff;}

@@ -1,0 +1,340 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Still Pleading Our Own Cause: The Black Press Celebrates 190 Years            
+				By Stacy M. Brown, NNPA News Wire Contributor                
+	                	                Published March 22, 2017
+		A display wall showcases the front pages of the nation’s Black newspapers. (Travis Riddick/NNPA)
+The oldest Black business industry in America began 190 years ago today.
+On March 16, 1827, the first edition of the “Freedom’s Journal” was published, thrusting African-Americans into the bustling publishing business.
+At the time, Blacks in America weren’t even considered citizens, most were slaves and forbidden to read or write.
+        ADVERTISEMENT        
+However, John Russwurm and Reverend Samuel Cornish rose up bravely declaring that, “We wish to plead our own cause. Too long have others spoken for us.”
+Dorothy Leavell, publisher of the historic “Chicago Crusader” newspaper which celebrated its 75th anniversary in 2015, said that when Russwurm and Cornish established the Black Press by publishing the “Freedom’s Journal,” they wanted to provide a voice for Black people. The Black Press became one of the only means of communication between Black people.
+“Black men and women were vilified in the New York press in the 1800s,” said Leavell. “Some White newspaper publishers sought to defend the dignity, honor and character of Black people, however, Russwurm and Cornish said they, ‘wish to plead our own cause.’”
+Without the Black Press, genuine stories of African-Americans would go untold, said Robert W. Bogle, the publisher of the “The Philadelphia Tribune.”
+Bogle said that only Black people can tell their stories accurately.
+“We are as relevant today as we were when the ‘Freedom’s Journal’ said they wanted to tell our story in our words,” said Bogle.
+Denise Rolark-Barnes, the chair of the NNPA and publisher of “The Washington Informer,” said she studied the history of the Black Press and used the 190-year milestone to reflect on the legacy of Black newspapers.
+“[What I discovered] help me understand how the Black Press played a vital role in fighting for human rights, abolishing slavery and outlawing lynching,” Rolark Barnes said. “The lesson for us, as publishers, is that we must remain important in our communities and continue to be the voice for victims and spotlight those who have achieved success.”
+While mainstream media seems distracted by the current political atmosphere, Rolark Barnes said that it’s vital that the Black Press continue to focus on telling the stories that are relevant to the Black community and recording Black history.
+NNPA President and CEO Dr. Benjamin F. Chavis Jr., said that March 16, 2017 is a sacred historical day in the long, multidimensional freedom struggle of African people in America and throughout the world, because of the courage of John Brown Russwurm and Samuel Cornish who dared first to publish the “Freedom’s Journal.”
+Chavis said that the Black Press in America has been on the frontlines of social change in the United States for 190 years.
+“Today, more than ever, the Black Press remains the trusted and audacious voice of Black America,” said Chavis. “Today, the NNPA continues this irrepressible tradition of publishing truth to power. Our freedom fighting publishers are all united as we reaffirm the vital importance and relevance of the Black Press now and into the future.”
+Jacqueline Miles, publisher of the half-century-old “Pensacola Press” in Florida said that i t’s important to note that the Black Press has become the source of information for jobs, weddings, births, deaths and even entertainment.
+“Today, the Black Press still serves the African-American community with news that is vital to them,” said Miles. “We still endeavor to bring about news that will educate and keep our communities aware of what’s going on.”
+Further, Miles said, with the term “fake news” emanating regularly from the White House and the new administration, it’s imperative that the Black Press remains vigilant.
+“We must be the glue to hold our community together and encourage togetherness, in business and economically, in this new Donald Trump era,” Miles said.
+Harry Colbert Jr. recently summarized the importance of the Black Press in a column for “Insight News,” an NNPA member newspaper, where he touted the achievements of many that were noted only through the pages of the Black Press.
+Margot Lee Shetterly, the author of “Hidden Figures,” said if not for the archives of the Black Press such as the “Norfolk Journal and Guide” and the “Pittsburgh Courier,” the inspiring story of Black women geniuses at NASA would not have been possible to tell.
+If not for the “Florida Sun” newspaper in Orlando, the story of the great training in science and technology taking place at Bethune-Cookman University—one of the nation’s historically Black universities—would go untold and unnoticed, Colbert said.
+Colbert continued: “In Baton Rouge, it may have been a citizen’s lens that captured the senseless killing of Alton Sterling at the hands of police, but it is ‘The Drum’ that keeps Sterling’s memory alive and is shining the white-hot spotlight on those responsible for his homicide.”
+Hiram Jackson, the publisher of Real Times Media in Michigan said that it’s important to note the significance of Russwurm and Cornish’s words.
+“‘We wish to plead our own cause.’ Words that continue to be as inspirational today as the movement they declared on the front pages of ‘Freedom’s Journal,’” Jackson said. “Looking at those words today, I am awe-struck at the vision of the Black Press forefathers and I’m heartened knowing that this statement continues to shine as our collective beacon.
+Jackson continued: “The voice of the Black Press is as important today as it has ever been. In today’s political climate, we cannot afford to miss any opportunity to educate, enlighten, and inform our community on the issues that our very lives depend on.”
+Journalist, author, activist and Black Press historian A. Peter Bailey said the NNPA has always provided a great service to African-Americans through the pages of its newspapers.
+An adjunct professor at the University of District of Columbia, Bailey said it’s also vital that coverage continues to spotlight Black economics.
+Bailey said that, according to Black author Lionel Barrow, there are four basic functions of the Black Press: to act as a watchdog for the Black community; to answer attacks on the Black community; to preserve Black culture and to present a different viewpoint.
+“I believe the Black Press is doing okay on those, but we could do better by working more closely together and it would really help if the [NNPA] would dedicate a reporter to the United Nations, who could send news to its member papers, and a reporter on Wall Street, because economics are the most important thing that the Black Press can report on for Black people.”
+Editors of the “Pasadena Journal” noted that Black-owned and operated media has been ﬁlled with the stories of trailblazers, pioneers and forerunners that helped get us to where we are today, with 48 Black elected United States Congressmen and women.
+In the aftermath of the Plessy vs. Ferguson Supreme Court ruling in 1896 that said that no Black man has any rights that a White man must honor, there came a ﬂood of Black publications that advocated for Black rights and protested the wrongs done to Blacks. Newspapers like “Freedom’s Journal,” the “Tri- State Defender” and the “Chicago Defender” paved the way for freedom, justice and equality.
+Brenda Andrews, the publisher of “The New Journal and Guide,” said that after 190 years, the primary challenge facing the Black Press remains its limited human and financial resources needed to continue to tell news from the perspective of being Black in America
+“It is a mission that, at times, can seem like making bricks without sand; tying shoes without strings; pulling yourself up by your bootstraps without boots,” Andrews said. “But, for me it’s a personally fulfilling mission that has been guided for the past 35 years by my deep spiritual faith.”
+Andrews continued: “To keep aiming to thrive, rather than occupying a posture of survival, for me, requires immense faith in the destiny of Black America and a passion to ensure the American story includes the perspective of its Black citizens.”
+		Categories: National | News Tags: Black Press | Freedom’s Journal | National Newspaper Publishers Association | NNPA		
+						New Look for Africa on ‘Corrected’ Boston School Maps
+						South Africa Seeks Legal Change to Allow Taking of White-Owned Land
+						Angolan Women Protest Harsh Bill Criminalizing Abortion
+						Women’s Month:  Why I Pledged
+						Nigerians Put the Brakes on Superhighway Cutting through Rainforest
+						Movie Review: Power Rangers
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

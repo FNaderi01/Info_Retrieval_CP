@@ -1,0 +1,320 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+NFL Confident of Memorable Super Bowl at Inglewood Stadium            
+				By Associated Press -GREG BEACHAM                
+	                	                Published July 31, 2019
+INGLEWOOD, Calif. (AP) — The NFL committed the 2022 Super Bowl to the Los Angeles area back when the 298-acre stadium complex in Inglewood was still mostly a waterlogged hole in the ground.
+That hole has long since been filled by the skeleton of a massive arena, and thousands of workers are making rapid weekly progress toward its grand opening in July 2020.
+        ADVERTISEMENT        
+The league is feeling great about its decision to bring the Super Bowl back to its original home as quickly as possible, and a visit to the site by league officials Tuesday only amplified the NFL’s faith in the people building its newest showpiece.
+“We just couldn’t be more excited to have this stage for our biggest game,” said Peter O’Reilly, the NFL’s executive vice president of club business and league events. “It absolutely blows you away, the scale and the way this entire district will come to life. Today’s conversations really show that they’ve got the experts and the people here who understand what it takes to put on major events. We have incredible faith that the team here really understands what it means to put on a Super Bowl.”
+The Los Angeles Rams and the Los Angeles Chargers will begin play in Inglewood next year, and the Super Bowl will follow the teams’ second season of residence. By that time, the league and the two teams plan to have every wrinkle ironed out of their operations when they welcome the entire pro football world back to LA.
+“As the two teams learn from every event, we’ll be learning as well,” O’Reilly said. “Certainly sitting here today, unlike in a stadium that’s built, we can’t fully lock every little plan in. But that’s OK. It is 100% worth the wait.”
+The Packers beat the Chiefs in the first Super Bowl in 1967 at Los Angeles’ venerable Coliseum, a mere 8 miles northeast of the Inglewood project. The NFL has played seven Super Bowls around the LA area, but none since 1993 — less than two years before the Rams and Los Angeles Raiders simultaneously left town and ushered in a 21-year professional football drought in the nation’s second-largest metropolitan area.
+“There’s so much history in Los Angeles around the Super Bowl,” O’Reilly said. “It was clear that once this stadium was out of the ground, (the Super Bowl) was going to come back here, and we have to do right by it.”
+Most of those plans are still in the preliminary stages. The NFL could hold Super Bowl week events in the coastal Pacific cities, in bustling downtown Los Angeles or at numerous points elsewhere in the sprawling LA metroplex.
+“We’ve got a lot of good variables,” O’Reilly said. “What’s probably changed the most since ’93 is that the Super Bowl is now a nine-day festival environment with all these components. You want to find ways for all the people who aren’t fortunate enough to be in here to experience the Super Bowl in their own way. That’s what we’re looking at.”
+The Super Bowl is just one of many landmark events headed to Inglewood in the next decade. College football’s national championship game will be there in January 2023, followed by the opening and closing ceremonies of the 2028 Olympics. Along with two full slates of NFL games annually, the stadium will host a college football Los Angeles Bowl starting next year — and they’re also hoping to land World Cup matches in 2026.
+Despite its incredible scope, the stadium already is roughly 75% complete, with most of the physical structure in place. Most of the remaining work is considered “finishes,” with hundreds of workers spending the next full year adding every detail necessary to open for business in 12 months.
+“It never ceases to amaze me how much can be accomplished in a week when you dedicate the kind of resources and the manpower that they have here,” said Fred Maas, the Chargers’ chief of staff. “It’s amazing. I don’t think there’s been a construction project of this scale and magnitude since the Great Pyramids.”
+That might be a slight exaggeration, but the entire multi-billion-dollar complex is twice as big as Vatican City and 3 ½ times bigger than Disneyland. Most of it should be complete in time for the Super Bowl, from the expansive outdoor mall to the league offices and studios amid eight acres of parks and a man-made lake.
+The stylish roof, the seats and the enormous Oculus video board will be installed over the next several months.
+“Every time you come here, you can’t believe how different it is from even a month ago,” said Kevin Demoff, the Rams’ chief operating officer. “At this point, you can really get a sense for what this building is going to be like.”
+		Categories: Daily Briefs Tags: Black News | Black Press | inglewood | LA Rams | LA Sentinel News | Mayor James T Butts		
+						WATCH: James Baldwin on Being Black in America, Today James Baldwin would b...
+						Donald Trump Rhetoric Fuels Tragic Mass Shootings, White Domestic Terrorism...
+						Black and Brown Communities Targeted by White Supremacist over the Weekend,...
+						Communities of Color Targeted in 2 Mass Shootings in Less than 24 Hours
+						Mother, Daughter Suspected of California Housing Fraud Scam
+						WATCH: 2020 Democrats Lay Blame on Trump’s Rhetoric for Shootings
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

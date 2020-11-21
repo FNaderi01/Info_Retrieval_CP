@@ -1,0 +1,724 @@
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+                  success
+          fail
+		  Mar
+		  APR
+		  Sep
+		  23
+		  2010
+		  2011
+		  2012
+	      	      63 captures
+	      23 Apr 2011 - 09 Aug 2020
+       About this capture
+    COLLECTED BY
+		Organization: Internet Archive
+	  The Internet Archive discovers and captures web pages through many different web crawls.
+At any given time several distinct crawls are running, some for months, and some every day or longer.
+View the web archive through the Wayback Machine.
+		Collection: Wide Crawl started March 2011
+	  Web wide crawl with initial seedlist and crawler configuration from March 2011.  This uses the new HQ software for distributed crawling by Kenji Nagahashi.
+What’s in the data set:
+Crawl start date: 09 March, 2011
+Crawl end date: 23 December, 2011
+Number of captures: 2,713,676,341
+Number of unique URLs: 2,273,840,159
+Number of hosts: 29,032,069
+The seed list for this crawl was a list of Alexa’s top 1 million web sites, retrieved close to the crawl start date.  We used Heritrix (3.1.1-SNAPSHOT) crawler software and respected robots.txt directives.  The scope of the crawl was not limited except for a few manually excluded sites.  
+However this was a somewhat experimental crawl for us, as we were using newly minted software to feed URLs to the crawlers, and we know there were some operational issues with it.  For example, in many cases we may not have crawled all of the embedded and linked objects in a page since the URLs for these resources were added into queues that quickly grew bigger than the intended size of the crawl (and therefore we never got to them).  We also included repeated crawls of some Argentinian government sites, so looking at results by country will be somewhat skewed.  
+We have made many changes to how we do these wide crawls since this particular example, but we wanted to make the data available “warts and all” for people to experiment with.  We have also done some further analysis of the content.
+If you would like access to this set of crawl data, please contact us at info at archive dot org and let us know who you are and what you’re hoping to do with it.  We may not be able to say “yes” to all requests, since we’re just figuring out whether this is a good idea, but everyone will be considered.
+    TIMESTAMPS
+miércoles 6 de abril de 2011
+Paolina, la limpita (?)
+Abuela Kico:Tenés que estar lista PaolinaCapitana:¿Lista para qué abuela?Abuela Kico:Para ser una buena ama de casaCapitana:BuenoAbuela Kico:Vos  te reís siempre de todo. Pero tengo razón. Tenés que saber cocinar  porque a los hombres les gusta llegar de trabajar y que esté la comida  lista. O que te despiertes a la mañana para prepararles el desayuno y  plancharles la camisa, porque no es lo mismo si la planchás el día  anterior. Y sobre todo, la casa siempre tiene que estar limpia.Capitana:¿Algo más?Abuela Kico:Seguí jodiendo, se te va a ir.Capitana:¿A dónde?Abuela Kico:A una casa limpia.Esta  conversación es atemporal, porque se repitió tantas veces que no podría  encasillarla en una sola fecha del calendario. Mi abuela insiste en que  Muchacho me va a dejar porque no le plancho su ropa: "¿Cómo ese chico  se plancha sus propias remeras?". Pero lo cierto es que mis tiempos no  son los mismos que los que tuvo ella cuando apenas se casó, igual por  más que se lo explique, no lo comprende.El sábado vino a mi casa a  cenar y me tiró el primer aliento en mi breve carrera como ama de casa:  "Por lo menos sos limpita". Por eso cuando la gente de Cif me envió su nuevo comercial, con Cenicienta como protagonista, me acordé de este episodio.Lo  que mi abuela no sabe es que sólo limpié los ambientes del piso de  abajo, donde iban a estar los invitados, y que lo hice en pocos minutos  gracias a ese líquido blanco adictivo del que ya he hablado en otros  post. Todos contentos.¿Y ustedes, qué cosas odian hacer y desearían que otros hagan por ustedes?
+Publicado por
+Capitana del Espacio
+en
+10:00
+17
+comentarios
+Etiquetas:
+Abuela Kico,
+Convivencia,
+muchacho en cuestión
+lunes 4 de abril de 2011
+4 de abril
+Hace nueve años, un día como hoy, le estaba dando un beso y un abrazo a mi abuelo. Estaba en la cama de un sanatorio, en un estado terminal y era su cumpleaños. Los médicos habían bajado los brazos, pero él no. Preguntaba qué le pasaba, me pedía que le charlara y de a ratos, me mandaba a mi casa a dormir: "Andá a descansar Paolina, mañana tenés que ir a trabajar". Yo no me movía de su lado, si eran sus últimos días de vida, no tenía nada más importante que hacer en mis ratos libres que quedarme con él.Cada día, podía ser el último. Cada noche mientras él descansaba, yo lo "velaba": lo miraba en silencio y lloraba evitando que me viera y preguntándome por qué el cáncer elige víctimas arbitrariamente y se las lleva así, de sopetón y sin demasiado tiempo para cerrar sus círculos y despedirse de sus amores.En fin, el 4 de abril de 2002 como decía, fue su cumpleaños. Esperó que todos lleguemos a saludarlo, agradeció el último llamado unos minutos antes de las 12 de la noche y cerró los ojos. Ya no los volvió a abrir y los medicamentos tampoco se lo permitieron. Trece días después, el pronóstico de los médicos se hacía efectivo y a nosotros se nos destruía el corazón.Desde ése día me pregunto qué pasa con las fechas de cumpleaños cuando la personas ya no están. Muchas veces me contestaron que ya no cuentan, que son fechas que caducaron, que no tienen sentido, pero yo no puedo evitar todos los 4 de abril recordar que era su cumpleaños.Así que, donde quiera que estés abuelo, que los cumplas feliz...
+Publicado por
+Capitana del Espacio
+en
+18:33
+23
+comentarios
+Etiquetas:
+Familia
+viernes 1 de abril de 2011
+¿Me devuelven mi infancia?
+Los 31 vinieron con algunos golpes duros que hablan de un pasado dudoso. Tengo que hacerme cargo y resetear, sino todo puede empeorar.Caso IEl día posterior a mi cumpleaños, hace unos quince días, mi madre contó en el festejo familiar que yo era FANATICA de Valeria Lynch. "Me acuerdo perfecto que nosotros escuchábamos el cassette y vos cantabas a los gritos Señor amanteeeeee", dijo. Mi papá, que está separado de mi madre pero para esto se pusieron de acuerdo sin discutir, sumó sus recuerdos: "Claro, agarraba una cartuchera o cualquier cosa con forma de micrófono y cantaba frente al espejo, armaba coreografías". Mi paciencia se acababa, pero siguieron: "También cantaba temas de Lerner: y todo a pulmón, todo a pulmóooooon". "Peor cuando decía que su novio era Pablito Ruiz", aportó la abuela Kico... ¿Para qué invité a esta gente a comer a mi casa?Caso IIDurante mi infancia amé a Kevin Arnold, el protagonista de Aquellos años felices. Soñaba con cruzármelo con su bicicleta por las calles de Quilmes. Era demasiado tierno, el novio ideal. Veinte años después, me pasan una página, me encuentro con esto:Kevin tiene 34 años y no lo toco ni con el chorro de soda. Destruí mi recuerdo para siempre.Caso IIIAcabo de ganar un concurso en un blog que se llama Manual de perdedores, justamente, por contar una historia de mi infancia en la que me rompieron el corazón. Ganó por ser la más perdedora. No sé si alegrarme por el voto de la gente o llorar.No me den más noticias ni toquemos el arcón de los recuerdos hasta el año que viene. ¡Gracias!
+Publicado por
+Capitana del Espacio
+en
+20:02
+13
+comentarios
+Etiquetas:
+Abuela Kico,
+Familia
+lunes 28 de marzo de 2011
+Esperando EL llamado...
+Madre:Tu hermano nos quiere dar una noticia, ¿vos sabés algo?Capitana:No tengo idea.Madre:¿Qué será: mudanza, embarazo, qué?Capitana:No tengo idea.Madre:Espero que venga pronto, ¿qué será?Capitana:No tengo idea.Todavía no sé nada, me encantaría que mi cuñada esté embarazada pero esa bella noticia despertaría a un monstruo. De convertirme en tía, sonaría mi teléfono sin parar. Ring ring ring. Adivinen quién es... ¿Ya adivinaron? La conversación sería más o menos esta:Abuela Kico:Paolina, ¿por qué le hacés esto a la abuela?Capitana:Hola abuela.Abuela Kico:¿Por qué hacés esto?Capitana:¿Qué hice ahora?Abuela Kico:¿Por qué tu hermano, que es más chico que vos, va a tener un hijo y vos no? ¿Qué esperás?Capitana:Tener ganas de abandonar mi vida para ocuparme 24x7 de otra persona, querer limpiar vómitos, olvidarme de lo que era una charla adulta, conseguir quién me lo cuide....Abuela Kico:(Interrumpiendo)Me quedan pocos años, y a vos también. No te hagas la pendeja.Dios, que llame pronto mi hermano para contarme que se ganó la lotería, que asaltó un Banco, que cambió el auto o que ganó el pozo acumulado del Gran DT. Temo por mi salud mental.
+Publicado por
+Capitana del Espacio
+en
+20:47
+17
+comentarios
+Etiquetas:
+Abuela Kico,
+Familia
+jueves 17 de marzo de 2011
+La crisis: a un día de los 31
+Se acaban de ir mis amigas y no me puedo dormir. Estoy inquieta. No es el alcohol, decidí no tomar cuando de todo el menú del delivery elegí el sandwich con más calorías, rebalsado de queso cheddar, panceta y salsa barbacoa. Compensar le dicen... no sentirse tan culpable, le digo yo. Pero qué rico estaba. Tampoco fumé, ni tomé café ni consumí ninguna sustancia que altere el sueño. De hecho, estoy cansada y no paro de bostezar, aún así, no logro conciliar el sueño.Repaso una y otra vez la conversación y me pregunto: ¿en qué momento dejamos de hablar de hombres, de tamaños, de salidas, de lugares espectaculares donde divertirse para pasar a recomendarnos mercados económicos para hacer la compra mensual de mercadería? Lo pienso y me da un odio tremendo: ¿qué tratamiento puede mejorar mi celulitis?; ¿Cuántos kilos querés bajar, yo creo que con bajar 10 estoy bien, y vos?; Fui a comprar un kilo de zapallitos, estaba diez pesos, me enojé con la verdulera por el aumento desmedido y no compré nada; Llego a casa tan cansada que no me dan ni ganas de curtirme a mi novio. Ahhhhhhhhhhhhhhhhhhhhhh. Odio crecer. Quiero romper todo.¿Ya les dije que me pegaron peor estos 31 que voy a cumplir que los 30 del año pasado?
+Publicado por
+Capitana del Espacio
+en
+02:37
+16
+comentarios
+Etiquetas:
+amigos,
+Los 30,
+Los tiempos cambiaron...,
+Odios irrefrenables
+jueves 10 de marzo de 2011
+A mal sueño... ¡mala cara!
+Me despierto angustiada y sé perfectamente cuál es el motivo: una pesadilla asquerosa. Un viejo dicho asegura que contar los malos sueños en ayunas, sin desayuno previo, hace que se cumplan pero no me importa, ya no puedo aguantar mi furia asesina. El responsable del mal momento se mueve al lado mio, en el otro extremo de la cama. Tiene que pagar por lo que me hizo, pero claro, aún no lo sabe.Alguien tiene que informarle que en mi sueño se comía a un bicho canasto y que en mi propia cara, interactuaba con ella y acordaban un punto de encuentro para más tarde, cuando yo ya no esté. Y que cuando le reclamaba por su falta de respeto, se daba el siguiente diálogo:Muchacho:¿Qué tiene de malo mi amor, si se la cogen todos?Capitana:.....Muchacho:No sabía que te podía molestar, me la voy a coger menos y listo.¿Ustedes se preguntarán qué culpa tiene el pobre tipo que se despierta para ir a trabajar como todos los días y se tiene que fumar a una novia desenfrenada sólo porque tuvo una pesadilla no? Lo siento, lo hubiera pensado antes de comerse al bicho, ahora estoy enojada.¿Qué me miran como si estuviera loca, nunca les pasó despertarse de un mal sueño y quedarse todo el día prendido de una imagen como si fuese real?
+Publicado por
+Capitana del Espacio
+en
+13:18
+14
+comentarios
+Etiquetas:
+Capitana,
+muchacho en cuestión,
+Odios irrefrenables
+miércoles 23 de febrero de 2011
+¿Ya se hizo la fulminante?
+Viven comparando a Gran hermano con la vida misma, dicen que el reality es un reflejo de la sociedad, que como se comportan esos 19 mocosos, la mayoría de ellos muy maleducados, nos comportamos todos y bla bla. Pero ésa es otra discusión. Lo que me quita el sueño es una idea maravillosa que se me ocurrió mientras desayunaba.Hoy me desperté con lluvia, un día medio raro, caluroso y con humedad. Para colmo, a dieta. Obviamente, de mal humor y me obsesioné con algo. Puede que sea una boludez pero voy a proponerlo, capaz pica, alguien groso con poderes lo lee, se prende, y lo podemos llevar a cabo.Necesito extraer una idea de ése programa de entretenimientos y aplicarla a la vida real: necesito la fulminante. Esa posibilidad de, con sólo solicitarlo, exterminar a una persona y ponerla a consideración del voto popular. Yo quiero que sea más sangriento en el mundo real: necesito que la persona que marque con mi dedo, desaparezca de la faz de la tierra. ¿No dicen que hay vida en Marte? Muy bien, hasta allá pueden ir los fulminados, en pos de poblar el planeta vecino.Entonces, cada vez que alguien nos moleste demasiado, al extremo de hacer nuestras vidas imposibles tendríamos la opción de usar la nominación fulminante. Llamamos al Gran Hermano de turno (personaje a definir, no puedo estar en todo tampoco) y se lo comunicamos. Obviamente la persona no tiene derecho a apelar, tiene que tomar sus cosas y retirarse de este mundo.¿Una sola vez se puede usar la fulminante durante el programa? Mmm en la vida real me huele a poco. Debería correspondernos una por año, para que no actuemos en caliente y echemos a todo el mundo, tampoco podemos quedarnos viviendo solos. Intentemos ser tolerantes.Bueno, ¿quién se prende en esta iniciativa? ¿A quién exterminarían?Yo ya tengo un número fijo...
+Publicado por
+Capitana del Espacio
+en
+12:44
+16
+comentarios
+Etiquetas:
+Odios irrefrenables,
+Servicio a la comunidad
+Entradas antiguas
+Página principal
+Suscribirse a:
+Entradas (Atom)
+¡Ya está en las librerías!
+Un pequeño acto de justicia...
+Premio Oblogo!
+Gracias a todos por sus votos...
+Si tenés un ex en el zapato...
+Pisalo hasta destruirlo!!
+Viajan conmigo por el espacio...
+Mis visitantes
+Aquí la Capitana!
+Por Facebook:
+Capitana del espacio
+Por Twitter:@paoflorio
+Por mail:
+capitanitadelespacio@gmail.com
+¿Y ésta quién es?
+Ver todo mi perfil
+Dejaron su punto de vista...
+ Widget by Ayuda para Blog 
+Archivo del blog
+▼ 
+2011
+(10)
+▼ 
+abril
+(3)
+Paolina, la limpita (?)
+4 de abril
+¿Me devuelven mi infancia?
+          ► 
+marzo
+(3)
+Esperando EL llamado...
+La crisis: a un día de los 31
+A mal sueño... ¡mala cara!
+          ► 
+febrero
+(3)
+¿Ya se hizo la fulminante?
+Y al tercer año, resucitó entre los muertos...
+Concurso!!
+          ► 
+enero
+(1)
+Autobombo, ¿y qué?
+          ► 
+2010
+(95)
+          ► 
+diciembre
+(3)
+2011, el año del árbol....
+A pocas horas de la presentación del libro, mi pri...
+Se viene Matemos a los ex...
+          ► 
+noviembre
+(3)
+3 largos años...
+Adelanto de tapa: Matemos a los ex...
+El día más temido llegó...
+          ► 
+octubre
+(3)
+Miles de censista, ¿cuál me toca a mi?
+Kico, crítica literaria...
+¡Aprendan giles, HOY muchacho rulea!
+          ► 
+septiembre
+(3)
+Una postal no tan lejana...
+Ni se te ocurra abrir la boca...
+Un dulce...
+          ► 
+agosto
+(10)
+Qué triste...
+Cartón lleno...
+Malditos, ¡los odio!
+Por dos días locos...
+Pobre, ¿ya te la creíste?
+Un abogado por favor: necesito un recurso de ampar...
+No te subas las medias, la foto es 4x4...
+Sigue la fama, vuelven las encuestas (?)
+La abuela Kico piensa, siente y dice...
+¡La noticia de la semana!
+          ► 
+julio
+(13)
+Y llegó el día nomás...
+Ya aparecieron los primeros boludos...
+Crónica de una noche mediática...
+¡La Capitana es mediática!
+Nos vemos en agosto...
+Siempre del bando perdedor...
+A ver quién es un verdadero amigo...
+Despertame en diciembre...
+Pobre Muchacho...
+Despedida de soltera: ¡las imágenes!
+¿Desististe Capitana?
+Me ahorré la sesión de terapia...
+Es un hecho...
+          ► 
+junio
+(3)
+Sabio destino
+Día de furia...
+Enfrentando al diablo...
+          ► 
+mayo
+(10)
+Almuerzan hoy con la Sra Mirtha Legrand...
+?
+          ► 
+abril
+(13)
+          ► 
+marzo
+(9)
+          ► 
+febrero
+(12)
+          ► 
+enero
+(13)
+          ► 
+2009
+(132)
+          ► 
+diciembre
+(5)
+          ► 
+noviembre
+(8)
+          ► 
+octubre
+(10)
+          ► 
+septiembre
+(13)
+          ► 
+agosto
+(9)
+          ► 
+julio
+(15)
+          ► 
+junio
+(10)
+          ► 
+mayo
+(9)
+          ► 
+abril
+(14)
+          ► 
+marzo
+(10)
+          ► 
+febrero
+(15)
+          ► 
+enero
+(14)
+          ► 
+2008
+(109)
+          ► 
+diciembre
+(17)
+          ► 
+noviembre
+(15)
+          ► 
+octubre
+(15)
+          ► 
+septiembre
+(19)
+          ► 
+agosto
+(11)
+          ► 
+julio
+(13)
+          ► 
+junio
+(9)
+          ► 
+mayo
+(4)
+          ► 
+marzo
+(2)
+          ► 
+enero
+(4)
+          ► 
+2007
+(8)
+          ► 
+diciembre
+(3)
+          ► 
+noviembre
+(5)
+¿Perdonarías una infidelidad?
+¿Vas al cabarulo?
+Para todos, si te enterás que tu pareja asistió a uno de estos lugares vos...
+¿Sexo en la primera cita?
+¿Qué momento del día preferís para tener sexo?
+¿Qué depilado femenino prefieren?
+¿Los hombres deben depilarse sus partes íntimas?
+Para ellos, ¿Te importa la ropa interior?
+Para ellas, ¿qué ropa interior preferis? 
+¿De qué disfrazamos a la abuela Kico?
+Premio mejor post del año!
+Gracias amiga!
+Otro gran Capitán!
+Gracias al talento y la generosidad de Rami Argañaraz que diseñó ésta y todas las imágenes de mi blog. No dejen de visitarlo en: ww.ramirolamuestra.blogspot.com - www.polisemia-fotos.blogspot.com
+Mi mejor premio
+Gracias Enmascarado Briks
+Si ellas lo dicen...
+Gracias Tribunal Oral 69
+EL PREMIO.... excelenteeee!!
+Gracias Mi nombre sabe a hierba (mi bello papá virtual)
+Salió sin planearlo...
+Pero, ¿no soy parecida?
+Un gran premio
+Gracias Marina
+Premio ¿hot?
+Gracias Titox!!
+Qué así sea...
+Gracias Je!
+Premio
+Gracias amiga Gringa!
+Premio
+Gracias Sandri
+Premio
+Gracias Sil
+Premio
+Gracias Dakko
+Premio
+Gracias Gringuis
+Premio
+Otro de la Gringa...
+Premio x 2
+Gracias Germanico y Mamarracho!
+Premio x 5
+Gracias Siltro, Gringuita, Marina, Blonda y Malena!!
+Premio x 3
+Gracias Estrella Altair, Gilda y Marina
+Premio
+Gracias Pato
+Premio
+Gracias Silvia
+Un mimo
+Gracias Pato!
+Premio
+Gracias Aleluuu!!
+Premio Amistoso
+Gracias Mariela!!
+Para la falta de monedas...
+Gracias Jor!!
+Un hermoso premio!
+Gracias Murcielaguito!!
+Premio rosarino
+Gracias Mariela!!
+Premio
+Gracias Paula de Bera!
+Premio artesanal
+Gracias Rafa!
+Premio para levantar el ánimo...
+Gracias Any!!
+Premio desde Venezuela...
+Gracias Menganita!!
+A un año de vida...
+Mamarracho nos saluda!
+Premio Gatuno
+Gracias Marina y Bruno Alexis
+Premio desde Bera!
+Gracias Pau!
+Desde Bera
+Gracias Paula
+Desde Bera II
+Gracias Pau
+Un mimo aniversario
+Gracias Silvia
+Premio por el voto del público
+Gracias Mamarracho
+Premio desde la felicidad
+Gracias Lau!
+Desde Neuronas en fuga...
+Gracias chicos!!
+Premio amiga de internet
+Gracias Solcito!
+Otras estaciones espaciales
+Jorgelina
+Dia mundial del libro.
+Hace 2 horas
+El Bachural
+EL Batifante
+Hace 10 horas
+Lic Jasper
+Ya lo decia mi vieja: esos dibujos de mierda son peor que el faso!
+Hace 1 día
+Mariela
+Otro que no sabe leer
+Hace 1 día
+Mamarracho
+Donde quieran que estén
+Hace 1 día
+Blonda
+Miguitas de pan
+Hace 1 día
+Tía Elsa
+Historias mínimas
+Hace 2 días
+Luis
+Los recreos de Sarmiento
+Hace 2 días
+Fantasma
+Filosofía barata y zapatos de goma
+Hace 3 días
+Jota
+Test de Felicidad 2.0
+Hace 3 días
+Libreta de flores
+Hace 5 días
+Fede
+Hecho Irrefutable #9
+Hace 5 días
+Hierbita
+Mi otro yo, el hombre que tuvo infancia
+Hace 1 semana
+Paula de Bera
+Delicias de la vida ¿conyugal?
+Hace 1 semana
+Matemos a los ex
+¿Libertad o libertinaje?
+Hace 1 semana
+Milecy
+Chernobyl - Fukushima - Milecy
+Hace 1 semana
+Kitty
+Y ahora, quien podrá defenderme?
+Hace 1 semana
+Orsai
+Excusas
+Hace 1 semana
+Eva
+Llanto
+Hace 1 semana
+Sole
+Un lindo paisaje...
+Hace 2 semanas
+La TucuMala
+Primera vez...
+Hace 2 semanas
+Mercadito
+Hace 2 semanas
+Silvia
+Fundación Un milagro para Agustin
+Hace 2 semanas
+Corre ambulancias
+2 de abril
+Hace 2 semanas
+Paula
+Cómo darte cuenta si estás enamorada
+Hace 3 semanas
+La candorosa
+Ciclo lectivo…
+Hace 1 mes.
+Las flores del mal
+No se lo que quiero, pero lo quiero ya.
+Hace 1 mes.
+Punk!
+Contracciones
+Hace 1 mes.
+Je!
+1.
+Hace 1 mes.
+Deyanira
+VOLVER...
+Hace 2 meses
+Mariann
+Soy linda
+Hace 3 meses
+Minerva
+The X-Files
+Hace 4 meses
+El Capitan de su calle
+TESTIMONIOS
+Hace 4 meses
+Ahora cine!
+Nuevo trailer de videojuego de “TRON: Legacy”
+Hace 5 meses
+Germanico
+ARGENTINA DE LUTO POR LA MUERTE DEL EX PRESIDENTE NESTOR KIRCHNER
+Hace 5 meses
+El club!!
+Almuerzo 76º Aniversario
+Hace 6 meses
+Cameron
+Rios de baba.
+Hace 6 meses
+Mari
+Y colorín colorado...
+Hace 8 meses
+Sandra
+La Canon, la Lumix, la Sony o la rpmqlp! (y no olvido la Nikon, eh!)
+Hace 8 meses
+Briks
+CRIATURITAS DE DIOS
+Hace 8 meses
+Directora de Orquesta
+frends chu bi frends
+Hace 9 meses
+Nati
+Nuestro haz de luna!
+Hace 9 meses
+Nanys
+Volver al futuro...
+Hace 10 meses
+Calavera
+¡Muchas Gracias a Todos!
+Hace 11 meses
+Maragena
+Casa nueva, amigas nuevas
+Hace 11 meses
+VOLVER A EMPEZAR ...
+SE TERMINÓ ..
+Hace 11 meses
+Andy
+Hoy...
+Hace 11 meses
+Alelu
+Hace 1 año.
+Blue
+CONEJITA LIZZIE - PASCUAS
+Hace 1 año.
+Ojo
+Orgullo
+Hace 1 año.
+Killer
+Pongan  PLAY y lean....
+Hace 1 año.
+Inti
+Chismes y la ciudad de los prejuicios...
+Hace 1 año.
+Ana
+Aviso a la comunidad
+Hace 1 año.
+Tus hermanas te buscan...
+Nuestra historia en los medios...
+Hace 1 año.
+Gringa
+Hace 1 año.
+M@rs
+Llegaron las vacaciones!
+Hace 1 año.
+Mi Princesa
+NUEVA DIRECCION DEL BLOG DE AINHOA
+Hace 1 año.
+Roberto y Dana
+Despedida
+Hace 2 años
+Etiquetas
+A la tevé
+(2)
+Abuela Kico
+(54)
+Ahora también soy coleccionista
+(1)
+amigos
+(53)
+Andres Ciro
+(2)
+Bebu
+(6)
+Capitana
+(264)
+Capitán
+(1)
+Concurso
+(10)
+Concurso de Tatoos
+(4)
+Convivencia
+(27)
+Cruzada: Un novio para la abuela Kico
+(2)
+Despedida de la locura
+(5)
+Dieta YA
+(33)
+Domingos
+(8)
+El amor de la abuela Kico
+(1)
+El Capi-mec-hogar
+(6)
+El casamiento de la abuela Kico
+(1)
+el club
+(6)
+el hincha de racing
+(3)
+El verdadero secreto
+(2)
+El viajar es un placer
+(9)
+En plena renovación
+(23)
+Encuesta
+(15)
+Familia
+(49)
+Fiestas
+(7)
+Guillermo Nima
+(1)
+La cocina intenta atraparme pero no lo logrará
+(6)
+la nefasta ex de muchacho
+(11)
+Libro Matemos a los ex
+(8)
+Listas
+(16)
+Llegaron los calores
+(5)
+Los 30
+(19)
+Los misterios de FB
+(4)
+Los nuevos tiempos
+(47)
+Los tiempos cambiaron
+(9)
+Los tiempos cambiaron...
+(8)
+Los viejos tiempos
+(37)
+Maldito invierno
+(15)
+Maldito invierno- Domingos
+(5)
+Malditos bichos
+(1)
+Me limaron
+(8)
+Mi abuelo Wilson
+(3)
+Mi adicción al Gancia Batido preocupa
+(3)
+mi ex
+(20)
+Mis amigos están creciendo..
+(1)
+muchacho en cuestión
+(138)
+novio tres
+(1)
+novio uno
+(4)
+Odios irrefrenables
+(19)
+Parecidos
+(1)
+Peliculas
+(6)
+Periodismo
+(26)
+Por fuera de las etiquetas
+(7)
+Premios
+(9)
+Servicio a la comunidad
+(27)
+Sindrome Rachel
+(3)
+Sí quiero... dormir la siesta
+(2)
+Yo me quiero casar  y usted?
+(2)
+Yo me quiero casar y usted?
+(2)
+Yo también voy a la esteticista
+(6)
+¿A quién le puede gustar hacer deportes?
+(5)
+¿Adicta yo?
+(8)
+Lucha contra el cáncer de mamas
+Pinchá la imagen para más info
+Categoría 1- Voto positivo!
+Categoría 2- Votá para que se decida...
+Categoria 1: ¿Cuál te gusta más?
+Categoría 2: A ver si se animan a hacérselos...

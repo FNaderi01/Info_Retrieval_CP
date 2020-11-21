@@ -1,0 +1,321 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Sen. Kamala Harris Gives Props to Black Press at 75th Anniversary of San Francisco Sun-Reporter            
+				By Tank Henry, California Black Media                
+	                	                Published May 16, 2019
+Amelia Ashley Ward, Publisher of the Sun Reporter stands with Sen. Kamala Harris and San Francisco Mayor London Breed at the 75th Anniversary of the Sun Reporter May 9, 2019. (Photo By Alain McLaughlin)
+“Throughout the course of our history, there have been many moments in time where truth must be spoken. Truth that oftentimes make people uncomfortable, but truth that must be acknowledged so people can be seen and be heard,” said Sen. Kamala Harris (D-CA), who announced her bid to run for President of the United States in late January.
+        ADVERTISEMENT        
+“Truth must be spoken from a voice that is trusted,” she continued. “And we know therefore the value, significance and need for the Black press in America.
+Harris, who was born in Oakland and served as California Attorney General from 2011 to 2017, was speaking at the 75th anniversary of the San Francisco Sun-Reporter, the city’s oldest African-American newspaper.
+More than 800 people, including San Francisco first African American woman mayor London Breed, attended the event. Several leaders and journalists from the state’s Black and ethnic media – including the Sun-Reporter’s current publisher, Amelia Ashley Ward – were also on hand to celebrate the legacy and contribution of the paper at the Hyatt Regency Hotel downtown San Francisco.
+The Sun-Reporter was founded in 1944 at a time when Blacks migrated in large numbers to major cities in the north and west to escape Jim Crow laws in the south and seek better employment opportunities.
+Many African-Americans came to San Francisco and other parts of the Bay Area during that time to work at World War II military shipyard.
+Like many historically Black dailies and weeklies across California and the rest of the country, the Sun-Reporter became a social and political advocate for African Americans on issues like civil rights, discrimination, housing and education as well as a vital source of information at a time when there was little media coverage of Blacks in the mass media.
+“The Sun-Reporter is an example of the significance of the Black press in America,” Harris said. “There are issues that are unique to the Black community, and until we have true diversity in the press, we must rely on papers like the Sun-Reporter.”
+Carlton B. Goodlett, a physician and activist who once ran for Governor of California and served as editor of Howard University’s Hillltop newspaper, acquired his first publication, The Sun newspaper, through a poker game, according to the Sun-Reporter’s website. The publication, as we know it today, was born out of a merger between the Sun newspaper, which Goodlett owned, and another African-American publication, the Reporter, which was edited and published by his close friend, Thomas C. Fleming.
+Goodlett served as publisher of the paper until shortly before his death in 1997. Since then, Ward, a former reporter and photojournalist who started her career as an intern at the Sun-Reporter, has run the publication guided by the wisdom and vision of its founder.
+Harris says when she decided to run for San Francisco District Attorney in November 2002, no one believed in her candidacy except Ward.
+“There were many, many – friends and those who were not friends – who said it can not be done. Wait your turn. They are not ready for you,” said Harris. “But one voice spoke loudly and said, ‘I know it is your time, Kamala, and I will have your back.’ And that was Amelia Ashley-Ward.”
+Harris also used the opportunity to talk about the climate of hatred and bigotry prevalent across the country right now, and tell the audience that the majority of Americans have more in common with each other than the things that “separate us.”
+She also shared policy specifics about some of the things she would prioritize if she is elected President of the United States next fall. They included mandating the Bureau of Alcohol Tobacco and Firearms to require dealers who sell more than five guns a year to do background checks and a $13,500 annual federal investment to increase each teacher’s salary.
+To achieve those things, Harris said, Americans must have honest conversations about problems the country is facing.
+“We must speak truth each and every day,” she said. “We must fight for the best that we can be.”
+		Categories: National | News | News (Business) | Political Tags: 85 Years of LA Sentinel | Black News | Black Press | San Francisco Sun-Reporter | Sen. Kamala Harris		
+						Popular Cash-For-Grass Incentive Returns
+						Chase bank coaches African American young adults on financial health
+						MAY 18 WLAC Open House Highlights $0 Tuition, Prep for $60K+ Careers  &amp;...
+						WATCH LIVE: House Democrats Read Full Redacted Mueller Report in Marathon S...
+						Two Sentenced for Deadly Leimert Park Shooting
+						Son, Father Dead in Apparent Murder-Suicide in South L.A.
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

@@ -1,0 +1,253 @@
+     category > maptopic > article -->
+    GitHub Docs
+    All products
+  Developers
+          Overview
+          About GitHub's APIs
+          Managing deploy keys
+          Using SSH agent forwarding
+          Replacing GitHub Services
+          Webhooks and events
+              Webhooks
+                  About webhooks
+                  Creating webhooks
+                  Configuring your server to receive payloads
+                  Testing webhooks
+                  Securing your webhooks
+                  Webhook events and payloads
+              Events
+                  GitHub event types
+                  Issue event types
+          Apps
+              Getting started with apps
+                  About apps
+                  Differences between GitHub Apps and OAuth Apps
+                  Migrating OAuth Apps to GitHub Apps
+                  Setting up your development environment to create a GitHub App
+              Building GitHub Apps
+                  Creating a GitHub App
+                  Setting permissions for GitHub Apps
+                  Authenticating with GitHub Apps
+                  Identifying and authorizing users for GitHub Apps
+                  Rate limits for GitHub Apps
+                  Creating a GitHub App from a manifest
+                  Creating a GitHub App using URL parameters
+                  Creating a custom badge for your GitHub App
+              Managing GitHub Apps
+                  Installing GitHub Apps
+                  Modifying a GitHub App
+                  Editing a GitHub App's permissions
+                  Making a GitHub App public or private
+                  Transferring ownership of a GitHub App
+                  Deleting a GitHub App
+              Building OAuth Apps
+                  Creating an OAuth App
+                  Authorizing OAuth Apps
+                  Scopes for OAuth Apps
+                  Creating a custom badge for your OAuth App
+              Managing OAuth Apps
+                  Modifying an OAuth App
+                  Transferring ownership of an OAuth App
+                  Troubleshooting authorization request errors
+                  Troubleshooting OAuth App access token request errors
+                  Deleting an OAuth App
+              Guides
+                  Using the GitHub API in your app
+                  Using content attachments
+                  Creating CI tests with the Checks API
+        GitHub Docs
+                Explore by product
+                      Developers
+                       GitHub.com
+                       Enterprise Administrators
+                       GitHub Actions
+                       GitHub Packages
+                       Developers
+                       REST API
+                       GraphQL API
+                       GitHub Insights
+                       GitHub Desktop
+                       Atom
+                       Electron
+                            English
+                              English
+                              简体中文 (Simplified Chinese)
+                              日本語 (Japanese)
+                              Español (Spanish)
+                              Português do Brasil (Portuguese)
+          This version of GitHub Enterprise will be discontinued on
+          This version of GitHub Enterprise was discontinued on
+        2020-11-12.
+      No patch releases will be made, even for critical security issues. For better performance, improved security, and new features, upgrade to the latest version of GitHub Enterprise.
+For help with the upgrade, contact GitHub Enterprise support.
+      Article version: Enterprise Server 2.19
+      Free, Pro, and Team
+      Enterprise Server 2.22
+      Enterprise Server 2.21
+      Enterprise Server 2.20
+      Enterprise Server 2.19
+    Developers
+    Apps
+    Building OAuth Apps
+    Authorizing OAuth Apps
+      Article version: Enterprise Server 2.19
+      Free, Pro, and Team
+      Enterprise Server 2.22
+      Enterprise Server 2.21
+      Enterprise Server 2.20
+      Enterprise Server 2.19
+        Authorizing OAuth Apps
+        You can enable other users to authorize your OAuth App.
+        In this article
+          Web application flow
+          Non-Web application flow
+          Redirect URLs
+          Creating multiple tokens for OAuth Apps
+          Directing users to review their access
+          Troubleshooting
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        Required
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        Optional
+      Can we contact you if we have more questions?
+        Optional
+      Send
+    Thank you! Your feedback has been submitted.
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  Or, learn how to contribute.
+      GitHub Enterprise's OAuth implementation supports the standard authorization code grant type.
+If you want to skip authorizing your app in the standard way, such as when testing your app, you can use the non-web application flow.
+For standard apps that run in the browser, use the web application flow to obtain an authorization code and exchange it for a token. (The implicit grant type is not supported.)
+Web application flow
+Note: If you are building a GitHub App, you can still use the OAuth web application flow, but the setup has some important differences. See "Identifying and authorizing users for GitHub Apps" for more information.
+The web application flow to authorize users for your app is:
+Users are redirected to request their GitHub identity
+Users are redirected back to your site by GitHub
+Your app accesses the API with the user's access token
+1. Request a user's GitHub identity
+GET http(s)://[hostname]/login/oauth/authorize
+When your GitHub App specifies a login parameter, it prompts users with a specific account they can use for signing in and authorizing your app.
+Parameters
+NameTypeDescriptionclient_idstringRequired. The client ID you received from GitHub when you registered.redirect_uristringThe URL in your application where users will be sent after authorization. See details below about redirect urls.loginstringSuggests a specific account to use for signing in and authorizing the app.scopestringA space-delimited list of scopes. If not provided, scope defaults to an empty list for users that have not authorized any scopes for the application. For users who have authorized scopes for the application, the user won't be shown the OAuth authorization page with the list of scopes. Instead, this step of the flow will automatically complete with the set of scopes the user has authorized for the application. For example, if a user has already performed the web flow twice and has authorized one token with user scope and another token with repo scope, a third web flow that does not provide a scope will receive a token with user and repo scope.statestringAn unguessable random string. It is used to protect against cross-site request forgery attacks.allow_signupstringWhether or not unauthenticated users will be offered an option to sign up for GitHub during the OAuth flow. The default is true. Use false when a policy prohibits signups.
+2. Users are redirected back to your site by GitHub
+If the user accepts your request, GitHub Enterprise redirects back to your site with a temporary code in a code parameter as well as the state you provided in the previous step in a state parameter. The temporary code will expire after 10 minutes. If the states don't match, then a third party created the request, and you should abort the process.
+Exchange this code for an access token:
+POST http(s)://[hostname]/login/oauth/access_token
+Parameters
+NameTypeDescriptionclient_idstringRequired. The client ID you received from GitHub Enterprise for your GitHub App.client_secretstringRequired. The client secret you received from GitHub Enterprise for your GitHub App.codestringRequired. The code you received as a response to Step 1.redirect_uristringThe URL in your application where users are sent after authorization.statestringThe unguessable random string you provided in Step 1.
+Response
+By default, the response takes the following form:
+access_token=e72e16c7e42f292c6912e7710c838347ae178b4a&amp;token_type=bearer
+You can also receive the content in different formats depending on the Accept
+header:
+Accept: application/json
+{"access_token":"e72e16c7e42f292c6912e7710c838347ae178b4a", "scope":"repo,gist", "token_type":"bearer"}
+Accept: application/xml
+&lt;OAuth&gt;
+  &lt;token_type&gt;bearer&lt;/token_type&gt;
+  &lt;scope&gt;repo,gist&lt;/scope&gt;
+  &lt;access_token&gt;e72e16c7e42f292c6912e7710c838347ae178b4a&lt;/access_token&gt;
+&lt;/OAuth&gt;
+3. Use the access token to access the API
+The access token allows you to make requests to the API on a behalf of a user.
+Authorization: token OAUTH-TOKEN
+GET http(s)://[hostname]/api/v3/user
+For example, in curl you can set the Authorization header like this:
+curl -H "Authorization: token OAUTH-TOKEN" http(s)://[hostname]/api/v3/user
+Non-Web application flow
+Non-web authentication is available for limited situations like testing. If you need to, you can use Basic Authentication to create a personal access token using your Personal access tokens settings page. This technique enables the user to revoke access at any time.
+Note: When using the non-web application flow to create an OAuth2 token, make sure to understand how to work with
+two-factor authentication if
+you or your users have two-factor authentication enabled.
+Redirect URLs
+The redirect_uri parameter is optional. If left out, GitHub will
+redirect users to the callback URL configured in the OAuth Application
+settings. If provided, the redirect URL's host and port must exactly
+match the callback URL. The redirect URL's path must reference a
+subdirectory of the callback URL.
+CALLBACK: http://example.com/path
+GOOD: http://example.com/path
+GOOD: http://example.com/path/subdir/other
+BAD:  http://example.com/bar
+BAD:  http://example.com/
+BAD:  http://example.com:8080/path
+BAD:  http://oauth.example.com:8080/path
+BAD:  http://example.org
+Localhost redirect urls
+The optional redirect_uri parameter can also be used for localhost URLs. If the application specifies a localhost URL and a port, then after authorizing the application users will be redirected to the provided URL and port. The redirect_uri does not need to match the port specified in the callback url for the app.
+For the http://localhost/path callback URL, you can use this redirect_uri:
+   http://localhost:1234/path
+Creating multiple tokens for OAuth Apps
+You can create multiple tokens for a user/application/scope combination to create tokens for specific use cases.
+This is useful if your OAuth App supports one workflow that uses GitHub for sign-in and only requires basic user information. Another workflow may require access to a user's private repositories. Using multiple tokens, your OAuth App can perform the web flow for each use case, requesting only the scopes needed. If a user only uses your application to sign in, they are never required to grant your OAuth App access to their private repositories.
+There is a limit to the number of tokens that are issued per user/application/scope combination. If your application requests enough tokens to go over one of the limits, older tokens with the same scope being requested will stop working.
+Warning: Revoking all permission from an OAuth App deletes any SSH keys the application generated on behalf of the user, including deploy keys.
+Directing users to review their access
+You can link to authorization information for an OAuth App so that users can review and revoke their application authorizations.
+To build this link, you'll need your OAuth Apps client_id that you received from GitHub when you registered the application.
+http(s)://[hostname]/settings/connections/applications/:client_id
+Tip: To learn more about the resources that your OAuth App can access for a user, see "Discovering resources for a user."
+Troubleshooting
+"Troubleshooting authorization request errors"
+"Troubleshooting OAuth App access token request errors"
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        Required
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        Optional
+      Can we contact you if we have more questions?
+        Optional
+      Send
+    Thank you! Your feedback has been submitted.
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  Or, learn how to contribute.
+      Still need help?
+      Ask the GitHub community
+      Contact support
+        Product
+          Features
+          Security
+          Enterprise
+          Case Studies
+          Pricing
+          Resources
+        Platform
+          Developer API
+          Partners
+          Atom
+          Electron
+          GitHub Desktop
+        Support
+          Help
+          Community Forum
+          Training
+          Status
+          Contact GitHub
+        Company
+          About
+          Blog
+          Careers
+          Press
+          Shop
+        © 2020 GitHub, Inc.
+        Terms 
+        Privacy 

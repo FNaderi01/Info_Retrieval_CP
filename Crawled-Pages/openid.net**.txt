@@ -1,0 +1,297 @@
+            Skip to content
+        The Internet Identity Layer      	
+              		The Internet Identity LayerMembership
+OpenID Foundation 
+	Membership Benefits &amp; Join
+	About Us
+	Sponsoring Members
+	Leadership
+	Intellectual Property
+	Presentations &amp; Videos
+	OpenID Foundation Policies
+	OpenID Foundation Calendar
+	Chapters
+	Contact
+	Member Sign-in
+Intellectual Property 
+	OpenID IPR Policy, Contribution Agreement and Process Document
+	Executed Contribution Agreements
+	Software Grant and Contribution License Agreement
+	OpenID® Copyright License
+	OpenID® Trademark and Service Mark License
+	OpenID® Logo Guidelines
+Current Working Groups 
+	How do working groups work?
+	AB/Connect Working Group
+	eKYC and Identity Assurance WG
+	Enhanced Authentication Profile (EAP) Working Group
+	Fast Federation (FastFed) WG
+	Financial-grade API (FAPI) WG
+	HEART (Health Relationship Trust) WG
+	International Government Assurance Profile (iGov) WG
+	MODRNA (Mobile Operator Discovery, Registration &amp; autheNticAtion) WG
+	Research &amp; Education (R&amp;E) WG
+	Shared Signals and Events WG
+Specs &amp; Dev Info 
+	Specifications
+	Libraries, Products, and Tools
+	Libraries for Obsolete Specifications
+OpenID® Certification 
+	OpenID Certification Frequently Asked Questions (FAQ)
+	OpenID Certification Instructions
+	OpenID Certification Fee Schedule
+	OpenID Certified Mark
+	Featured Certified Implementations for Developers
+Resources 
+	OpenID Connect FAQ and Q&amp;As
+	Learn More About Open Banking &amp; Financial-grade API (FAPI)
+Workshops 
+	OIDF Virtual Workshop – May 21, 2020
+	OpenID Foundation and the UK Open Banking Implementation Entity Conformance and Certification Workshop — April 27, 2020
+	OIDF Workshop at Verizon Media – September 30, 2019
+	OIDF Workshop at 2019 European Identity Conference – May 14, 2019
+	OIDF Workshop at Verizon Media – April 29, 2019
+	OIDF Workshop at VMware – October 22, 2018
+	OIDF Workshop at EIC 2018 – May 15, 2018
+	OIDF Workshop at Oracle – April 2, 2018
+	Open Banking Workshop Hosted by OpenID Foundation and Open Identity Exchange – March 21, 2018
+	OIDF’s RISC Work Group Data Sharing Agreement Workshop – January 31, 2018
+	Open Banking Workshop Hosted by OpenID Foundation and Open Identity Exchange – January 30, 2018
+	OpenID Foundation &amp; Open Banking Workshop:  The Implications for the Banking Industry – November 6, 2017
+	OIDF Workshop at PayPal – October 16, 2017
+    Learn More About Open Banking &amp; Financial-Grade API (FAPI) New to OpenID and FAPI? Start here to learn how FAPI is driving global open banking initiatives including valuable developer resources. Visit openid.net/fapi    
+    OpenID Workshops Network, educate, and help influence standards Next workshops    
+    Shared Signals &amp; Events Working Group enable the sharing of security events, state changes, and other signals between related and/or dependent systems. Learn more    
+    OpenID Latest Presentations &amp; Videos see our honored speakers and download valuable event presentations Latest Presentations    
+    Mobile Operator Discovery, Registration &amp; Authentication (MODRNA) Working Group developing a profile OpenID Connect for use by mobile network operators (MNOs) providing identity services to RPs and for RPs in consuming those services Learn more    
+    Join the OpenID Foundation to develop and promote OpenID technologies Join    
+    The Foundation of Internet Identity a brief history of OpenID Connect Read more    
+    Financial-Grade API (FAPI) Working Group developing a REST/JSON model protected by OAuth Learn more    
+    OpenID Connect Enables Trusted Transactions A simple identity layer on top of OAuth 2.0 Learn more    
+    OpenID Certification Program a self-certification program that drives adoption and promotes high-quality OpenID Connect implementations Learn more    
+    eKYC &amp; Identity Assurance Working Group develops OpenID specifications for providing Relying Parties with identity information, i.e. verified claims Learn more    
+      ‹›
+          The OpenID Foundation and the UK Open Banking Implementation Entity Hosting a Workshop Focused on Financial-grade API (FAPI) and Third Party Providers (TPPs)        
+        The OpenID Foundation (OIDF) and our development partner, the UK Open Banking Implementation Entity (OBIE), continue our collaboration in outreach to the fintech community via workshops in hosting another workshop on Tuesday, October 13, 2020 at 1pm UTC. This next event builds on a prior joint workshop in focusing on […]
+          OpenID Foundation Deepens Partnership with Financial Data Exchange on Adoption of New Security Standards        
+        OpenID Foundation Chairman, Nat Sakimura, presented a keynote at the Financial Data Exchange’s (FDX) Global Summit Fall 2020. Nat’s keynote, “Global Adoption of FAPI Among Open Banking Standards… And Beyond”, highlighted the growing adoption momentum of the Foundation’s Financial-grade API (FAPI) security profile and the high quality of self-certified implementations […]
+          Important Announcement about OpenID Foundation Transitions        
+        Dear OpenID Foundation Members: It is with a heavy heart to share this news with you. Don Thibeau, after many years of his excellent service, informed the OpenID Board of his intention to move on from his position as the Executive Director at the end of 2020 to pursue other […]
+          OpenID Foundation Continues to Evolve in 2021        
+        Dear OpenID Foundation Members:  After 10 years I’ve decided to move on from my position as Executive Director of the OpenID Foundation at the end of 2020. It’s been an honor to serve the Board, members of the Foundation and the community at large.  It has been a privilege and […]
+          Registration Open for OpenID Foundation Virtual Workshop — Wednesday, October 28, 2020        
+        Workshop Overview OpenID Foundation Workshops provide technical insight and influence on current Internet identity standards. This virtual workshop is a reschedule of the planned face-to-face workshop prior to IIW Fall 2020. This workshop includes a panel discussion on the Foundation’s ongoing relationship and efforts with the Financial Data Exchange focused […]
+          The eKYC &amp; IDA Working Group Welcomes the Proposal of the European Commission to Extend the Scope of eIDAS Trust Services        
+        The eKYC and Identity Assurance Working Group (eKYC &amp; IDA WG) of the OpenID Foundation welcomes the proposal of the Commission to extend the scope of eIDAS trust services by introducing a new trust service for identification, authentication and for the provision of attributes, credentials and attestations and allowing the […]
+          Open Digital Trust Initiative: A Proposal for Financial Institutions to Use an Open Standards Protocol to Verify Identity, Protect Privacy and Build Trust        
+        In the digital space, people need new solutions to know the identity of who they are dealing with and whether or not they can trust them. A number of initiatives are working on the future of digital identity. Some of them are government-led while others are linked to specific private […]
+          OpenID Certification Program – Last Call for Testing OpenID Connect Implementations on Python Platform        
+        The OpenID Foundation has made a considerable investment in 2020 in transitioning the certification program’s conformance test suite to a single, Java-based system. The Financial-grade API (FAPI) tests have been Java-based since early 2019 and now we are preparing to finish transitioning the OpenID Connect tests to the Java-based conformance […]
+          The OpenID Foundation and Financial Data Exchange Host Workshop Focused on Fintech Standards and Certification        
+        The OpenID Foundation (OIDF) and Financial Data Exchange hosted a joint workshop on July 21, 2020 to share information on their respective standards and certification programs. OIDF Chairman, Nat Sakimura provided a global view of the state of financial APIs followed by FDX Managing Director, Don Cardinal, who described FDX’s […]
+          OpenID Foundation and Open Banking Implementation Entity Continue Collaboration with Conformance and Certification Workshop at OAuth Security Workshop 2020        
+        The OpenID Foundation (OIDF) and the UK Open Banking Implementation Entity (OBIE), continue our collaboration efforts building on the success of our recent workshop focused on Financial-grade API (FAPI) conformance and certification. It was a deep dive into the technical interface of our open, international standard with the OBIE’s functional […]
+					Search for:
+			News Archives		News Archives
+			Select Month
+				 September 2020  (6)
+	 August 2020  (2)
+	 July 2020  (3)
+	 June 2020  (1)
+	 May 2020  (1)
+	 April 2020  (4)
+	 March 2020  (4)
+	 February 2020  (3)
+	 January 2020  (3)
+	 December 2019  (5)
+	 November 2019  (5)
+	 October 2019  (4)
+	 September 2019  (3)
+	 August 2019  (4)
+	 July 2019  (1)
+	 June 2019  (2)
+	 May 2019  (2)
+	 April 2019  (2)
+	 March 2019  (3)
+	 February 2019  (4)
+	 January 2019  (5)
+	 December 2018  (1)
+	 October 2018  (3)
+	 September 2018  (2)
+	 August 2018  (2)
+	 July 2018  (4)
+	 June 2018  (4)
+	 May 2018  (2)
+	 March 2018  (1)
+	 February 2018  (2)
+	 January 2018  (4)
+	 November 2017  (1)
+	 October 2017  (2)
+	 August 2017  (1)
+	 July 2017  (6)
+	 June 2017  (4)
+	 May 2017  (3)
+	 April 2017  (3)
+	 March 2017  (3)
+	 February 2017  (6)
+	 January 2017  (3)
+	 December 2016  (1)
+	 November 2016  (1)
+	 September 2016  (2)
+	 August 2016  (2)
+	 July 2016  (1)
+	 May 2016  (1)
+	 February 2016  (4)
+	 January 2016  (2)
+	 December 2015  (1)
+	 November 2015  (2)
+	 October 2015  (1)
+	 September 2015  (2)
+	 August 2015  (1)
+	 July 2015  (2)
+	 May 2015  (3)
+	 April 2015  (4)
+	 February 2015  (4)
+	 January 2015  (3)
+	 November 2014  (2)
+	 October 2014  (5)
+	 September 2014  (3)
+	 August 2014  (1)
+	 May 2014  (2)
+	 April 2014  (1)
+	 March 2014  (2)
+	 February 2014  (9)
+	 December 2013  (1)
+	 November 2013  (2)
+	 September 2013  (1)
+	 August 2013  (1)
+	 July 2013  (5)
+	 June 2013  (3)
+	 February 2013  (1)
+	 January 2013  (2)
+	 December 2012  (2)
+	 October 2012  (2)
+	 August 2012  (1)
+	 July 2012  (2)
+	 May 2012  (1)
+	 April 2012  (2)
+	 March 2012  (4)
+	 February 2012  (4)
+	 January 2012  (2)
+	 December 2011  (2)
+	 October 2011  (4)
+	 September 2011  (1)
+	 August 2011  (2)
+	 July 2011  (1)
+	 May 2011  (3)
+	 April 2011  (3)
+	 March 2011  (2)
+	 February 2011  (1)
+	 January 2011  (2)
+	 December 2010  (2)
+	 November 2010  (4)
+	 October 2010  (3)
+	 September 2010  (3)
+	 March 2010  (7)
+	 January 2010  (3)
+	 December 2009  (5)
+	 November 2009  (3)
+	 October 2009  (2)
+	 September 2009  (3)
+	 August 2009  (3)
+	 July 2009  (1)
+	 May 2009  (1)
+	 April 2009  (2)
+	 February 2009  (2)
+	 January 2009  (2)
+	 December 2008  (5)
+	 November 2008  (3)
+	 October 2008  (4)
+	 September 2008  (2)
+	 August 2008  (2)
+	 July 2008  (1)
+	 May 2008  (4)
+	 April 2008  (3)
+	 February 2008  (2)
+	 January 2008  (2)
+	 December 2007  (3)
+	 October 2007  (2)
+			CategoriesCategories
+	Select Category
+	Case Studies  (7)
+	Certification  (21)
+	Certification Team  (3)
+	Chapters  (3)
+	   Japan  (3)
+	Code  (2)
+	FAPI  (3)
+	Foundation  (91)
+	   Election  (21)
+	   Summit Events  (10)
+	   Technology Events  (16)
+	government  (9)
+	Guest Blog  (1)
+	Marketing  (3)
+	News  (209)
+	   Press Releases  (13)
+	Security  (7)
+	Seminars  (4)
+	   Enterprise  (1)
+	Specs  (112)
+	   Implementer’s Draft  (23)
+	   OpenID Connect  (15)
+	Uncategorized  (32)
+	Working Group  (65)
+		Recent Posts
+					The OpenID Foundation and the UK Open Banking Implementation Entity Hosting a Workshop Focused on Financial-grade API (FAPI) and Third Party Providers (TPPs)
+					OpenID Foundation Deepens Partnership with Financial Data Exchange on Adoption of New Security Standards
+					Important Announcement about OpenID Foundation Transitions
+					OpenID Foundation Continues to Evolve in 2021
+					Registration Open for OpenID Foundation Virtual Workshop — Wednesday, October 28, 2020
+		Tagsadoption
+board election
+board elections
+Certification
+certification program
+CIBA
+connect
+developers
+Don Thibeau
+election
+events
+FAPI
+federation
+Final Specification
+Financial-grade API
+Foundation
+google
+government
+HEART
+Identity Assurance
+iGov
+Implementer's Draft
+MODRNA
+Nat Sakimura
+OBIE
+oidf
+OIDF workshop
+open banking
+open banking implementation entity
+openid
+openid certification program
+OpenID Connect
+openid foundation
+Public Review
+RISC
+security
+spec
+specification
+summit
+usability
+user experience
+vote
+working groups
+working group updates
+workshop
+					    · © 2020 OpenID · Powered by  · Designed with the Customizr theme  ·	      			
+		This website uses cookies to allow us to provide you the best experience while visiting our website. By continuing to use the site, you are agreeing to our use of cookies. You can change your cookie settings at any time but if you do, you may lose some functionality. More information may be found in our Privacy Policy.Confirm

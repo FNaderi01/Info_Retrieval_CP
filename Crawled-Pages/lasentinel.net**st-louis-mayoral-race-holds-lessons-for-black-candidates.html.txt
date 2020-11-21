@@ -1,0 +1,331 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+St. Louis mayoral race holds lessons for Black Candidates            
+				By ERRIN HAINES WHACK and JIM SALTER                
+	                	                Published March 16, 2017
+		Marc Morial, president of the National Urban League and former mayor of New Orleans, said the lesson from St. Louis is that blacks must act more strategically if the election of an African-American mayor is important to them.
+ST. LOUIS (AP) – A generation after St. Louis elected its first African-American mayor, many in the black community are convinced that unchecked egos cost them the chance to regain leadership of the racially divided city.
+        ADVERTISEMENT        
+Lyda Krewson, 64, a white alderwoman, defeated black city Treasurer Tishaura Jones by fewer than 900 votes in Tuesday’s all-important Democratic primary. St. Louis is heavily Democratic, and Krewson will be the overwhelming favorite in the April 4 general election.
+Krewson dominated in mostly white south St. Louis, while Jones and two other black candidates split the vote on the predominantly black north side, an outcome that holds an all-too-familiar lesson for black political hopefuls in major U.S. cities: Pitting African-Americans against each other can jeopardize the chances of any one of them winning against a strong white contender.
+“Overall I felt like ego, patriarchy and sexism were the things that were leading the other candidates not to want to get out of the race,” Jones said in an interview. “At some point we have to stop fighting each other and try to come together because now we are looking at four more years of policies that we all claim that we didn’t want.”
+Krewson was the favorite all along and was endorsed by four-term Mayor Francis Slay, who is white and chose not to seek a fifth term. Jones, 45, surged over the campaign’s final days, thanks in part to celebrity endorsements from the likes of actresses Jada Pinkett Smith and Issa Rae, and a scathing letter rejecting an interview request from the St. Louis Post-Dispatch and decrying racism in the city.
+In the end, Krewson carried 32 percent of the vote in the seven-person race to Jones’ 30 percent. Aldermanic President Lewis Reed was third with 18 percent, followed by Alderman Antonio French with 16 percent. Reed and French are black. Blacks make up 49 percent of St. Louis’ 316,000 residents, whites 44 percent.
+St. Louis University political scientist Ken Warren said that if just one of the competitive black candidates had dropped out, Jones would have won, perhaps easily.
+“The fact that the black community did not rally around one candidate makes it clear they spoiled their chances of being represented by a black mayor,” Warren said.
+To thin the field of candidates, a city needs an influential black political elite capable of discouraging weaker contenders from running, said Emory University political scientist Michael Leo Owens.
+“Evidently, in a place like St. Louis, that’s clearly absent,” Owens said.
+Some African-American leaders saw early on that unity was their best hope. In December, Donald Suggs, publisher of the St. Louis American, a black weekly newspaper, called a meeting of the black candidates and urged them to unite behind a single candidate. The appeal had little effect.
+St. Louis has had two black mayors, the first one elected in 1993, the second in 1997.
+Marc Morial – Mayor of New Orleans; 1994 – 2002
+Around the U.S., it is difficult for black politicians to win statewide elections, and often the highest job they can aspire to with any hope of success is mayor or congressman. As a result, such contests are often crowded with black candidates.
+But large black populations don’t always translate into black leadership – a situation attributed in part to voters’ habit of casting their ballots along racial lines.
+Chicago, the city that gave rise to President Barack Obama and has a black population of about 900,000, has had only one black mayor, Harold Washington Jr., in the 1980s. In 2015, Memphis elected its first white mayor in 24 years. Detroit and New Orleans, which are 82 percent and 67 percent black respectively, have white mayors.
+Conversely, Baltimore, which is 64 percent black, has elected three black women as mayor in the past decade. Washington, D.C., which is 60 percent black, has chosen a black mayor in every election since 1974. Similarly, Atlanta, which is 55 percent black, has had an unbroken line of black mayors stretching back four decades.
+“There is a framework here and there are a group of individuals who have been involved on a consistent basis in the politics of Atlanta,” said Mayor Kasim Reed, who was first elected in 2007, when he defeated a white woman by just 715 votes.
+Reed pointed to longtime political lions Andrew Young – who also served as mayor – and Rep. John Lewis as among those who enjoy popularity and influence and are courted by black candidates for their crucial endorsements.
+“That does lend a stability and an order,” Reed said.
+Marc Morial, president of the National Urban League and former mayor of New Orleans, said the lesson from St. Louis is that blacks must act more strategically if the election of an African-American mayor is important to them.
+“There’s got to be some political give-and-take and compromises made,” Morial said. “A candidate who’s serious has to have the political skills to clear the field – or at least diminish it.”
+Jones agreed.
+“This is insane,” she said. “We cannot continue to tear each other down and expect a different result.”
+___
+Errin Haines Whack, who covers urban affairs for The Associated Press, reported from Philadelphia. Follow her work at http://www.twitter.com/emarvelous . Jim Salter is the AP correspondent in St. Louis
+		Categories: Larry Aubry | National | News | Opinion | Political Tags: A Black Perspective | Black Mayors | Errin Haines Whack and Jim Salter | Marc Morial | opinion		
+						Chuck Berry Dies at 90
+						Free Community Clean Up
+						ESSA Law Must Provide Necessary Investments for Success, Educators Say
+						Still Pleading Our Own Cause: The Black Press Celebrates 190 Years
+						Mass Deportation Would Cost U.S. Economy Billions, Experts Say
+						Brickson Diamond Talks Blazing A Trail For Black Creatives At Film Festival...
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

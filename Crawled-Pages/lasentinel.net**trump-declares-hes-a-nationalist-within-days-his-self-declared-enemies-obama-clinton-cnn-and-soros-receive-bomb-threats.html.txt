@@ -1,0 +1,414 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Trump Declares He’s a Nationalist, Within Days his Self-Declared Enemies Obama, Clinton, CNN and Soros Receive Bomb Threats            
+				By Associated Press                
+	                	                Published October 24, 2018
+WASHINGTON (AP) — The Latest on possible explosive devices sent to former President Barack Obama and Hillary Clinton (all times local):
+2:40 p.m.
+        ADVERTISEMENT        
+President Donald Trump says “acts or threats of political violence have no place in the United States.” He’s addressing the suspicious packages sent to former President Barack Obama, the Clintons, CNN and others.
+Trump says he received a briefing from federal officials earlier Wednesday on what he called the “despicable acts.” He says that “a major federal investigation” is now underway.
+And he’s calling on the nation to come together, saying: in these times “we have to unify.”
+Trump did not mention any of the recipients of the packages in his remarks.
+But he says, “We’re extremely angry, upset, unhappy about what we witnessed this morning and we will get to the bottom of it.”
+Trump’s comments came at the top of remarks discussing his administration’s efforts to combat the opioid crisis.
+2:30 p.m.
+New York City police say a suspicious package found at the New York City office of Gov. Andrew Cuomo did not contain a bomb.
+Department spokesman J. Peter Donald said on Twitter that the item had been “cleared by NYPD personnel” and was unrelated to pipe bombs mailed to high-profile Democrats and CNN’s hub in the city.
+A spokesman for Cuomo said the package contained computer files related to a far-right political group that has been in the news lately over a brawl with protesters.
+Cuomo had initially said during a news conference Wednesday that he had received a “device” at his office.
+Later, Cuomo told reporters outside his office that it had been a “hectic” morning. Earlier in the day, his office had denied receiving any suspicious packages.
+___
+2:20 p.m.
+Senate Majority Leader Mitch McConnell says he condemns “today’s attempted acts of domestic terrorism” after explosives were sent to the homes of Hillary Clinton and former President Barack Obama.
+McConnell thanked law enforcement and first responders “who protect our leaders and public figures from such unconscionable acts.”
+The crude pipe bombs targeting Clinton, Obama and the TV network CNN were intercepted Tuesday night and Wednesday.
+1:20 p.m.
+NYPD’s chief of counterterrorism says the explosive device sent to CNN’s headquarters in New York appeared to be sent by the same person who mailed pipe bombs to George Soros, Hillary Clinton and former President Barack Obama.
+John Miller and FBI officials said a news conference the devices all appeared to be crude pipe bombs. The New York device was black and had wires.
+Miller says it started on Monday night with the device sent to Soros. He says they’re looking at the devices as a pattern, and they have not made any arrests.
+No one was injured by any of the devices.
+Gov. Andrew Cuomo said during the new conference he would not be surprised if more devices were uncovered. He said his office received one and it was being dealt with.
+———
+1:05 p.m.
+New York City’s police commissioner says a package sent to CNN’s offices in New York contained what appeared to be a live explosive and an envelope containing white powder.
+At a briefing near Manhattan’s Time Warner Center, Commissioner James O’Neill pledged to bring the perpetrators to justice.
+The police department’s top counterterrorism official, John Miller, said the substance was being tested to see if it is dangerous.
+New York Gov. Andrew Cuomo said at the briefing that “we will not allow these terrorist thugs to change the way we live our lives.”
+Investigators said the device appeared to be similar to explosives sent to former President Barack Obama, Hillary Clinton and billionaire George Soros
+1 p.m.
+Hillary Clinton says at a Florida fundraiser that “we are fine” and is thanking the U.S. Secret Service for intercepting an explosive device in a package “long before it made its way to our home.”
+Clinton was speaking at a Coral Gables fundraiser for Democratic congressional candidate Donna Shalala, a former health and human services secretary.
+The former secretary of state says her family is grateful for the Secret Service’s “service and commitment and obviously never more than today.”
+The Secret Service says the package addressed to the Clinton’s suburban New York home was identified as a potential explosive device during routine mail screening procedures. The Clintons didn’t receive the package and were not at risk of receiving it.
+———
+12:55 p.m.
+First lady Melania Trump is condemning “all forms of threats and violence” after explosive devices were sent to the homes of Hillary Clinton and former President Barack Obama and CNN in New York.
+The first lady’s office says in a statement that, “Mrs. Trump condemns all forms of threats and violence” and “thanks law enforcement for their heroic efforts.”
+The U.S. Secret Service said Wednesday it intercepted a bomb addressed to Clinton and also discovered a possible explosive sent to Obama. Also Wednesday, a police bomb squad was sent to CNN’s offices in New York City and the newsroom was evacuated because of a suspicious package.
+White House spokeswoman Sarah Huckabee Sanders tweeted that Trump and the administration are monitoring the situation closely. She says these “cowardly acts are unacceptable and won’t be tolerated.”
+———
+12:50 p.m.
+In Florida, the Broward Sheriff’s Office is using a bomb squad robot in the investigation of a suspicious package at the office of Rep. Deborah Wasserman Schultz, the former chairwoman of the Democratic National Committee.
+Police are also investigating the suspicious package near Wasserman Schultz’s office on the Sawgrass Corporate Parkway in Sunrise, which is near Fort Lauderdale.
+The congresswoman was in Coral Gables, along with Hillary Clinton, at a campaign event for Donna Shalala on Wednesday morning.
+Miami FBI spokesman Mike Leverock says the agency is aware that a suspicious package was mailed to Wasserman Schultz’ office in Sunrise and agents are on the scene.
+———
+12:15 p.m.
+President Donald Trump is echoing his vice president’s condemnation of explosives sent to the homes of Hillary Clinton and former President Barack Obama.
+Trump retweeted a message from Vice President Mike Pence Wednesday, adding “I agree wholeheartedly!” In his tweet, Pence condemned “attempted attacks against fmr Pres Obama, the Clintons, @CNN &amp; others.”
+The U.S. Secret Service said Wednesday that it intercepted a bomb that was addressed to Clinton and also discovered a possible explosive sent to Obama. Also Wednesday, a police bomb squad was sent to CNN’s offices in New York City and the newsroom was evacuated because of a suspicious package.
+White House spokeswoman Sarah Huckabee Sanders tweeted that Trump and his administration were monitoring the situation, adding that their condemnation “certainly includes threats made to CNN as well as current or former public servants.”
+——
+12:01 p.m.:
+House Republican leaders say that the person or people who sent explosives to the homes of Hillary Clinton and former President Barack Obama should be brought to justice.
+House Speaker Paul Ryan said they were “reprehensible acts” and “we cannot tolerate any attempt to terrorize public figures.”
+The U.S. Secret Service said Wednesday that it intercepted a bomb that was addressed to Clinton and also discovered a possible explosive sent to Obama.
+Louisiana Rep. Steve Scalise, the No. 3 Republican in the House, said “this is a dangerous path and it cannot become the new normal.” He said the attempted attacks are “pure terror.”
+Scalise survived life-threatening injuries after he was shot at a congressional baseball practice in 2017. He tweeted that he’s experienced “first-hand the effects of political violence.”
+——
+11:43 a.m.
+Two law enforcement officials say a suspicious package that prompted an evacuation of CNN’s offices in New York City is believed to contain a pipe bomb.
+The officials said the CNN bomb was crude but operational and was addressed to former CIA Director John Brennan, who appears on air on other broadcast and cable outlets.
+The officials say the device discovered Wednesday appeared to be similar to explosives sent to former President Barack Obama, Hillary Clinton and billionaire George Soros.
+A separate law enforcement official told The Associated Press that the explosive discovered at Soros’ suburban New York compound on Monday was a pipe bomb.
+All three officials spoke on condition of anonymity because they weren’t authorized to discuss the investigation publicly.
+The Secret Service hasn’t provided details about the devices that were sent to Clinton and Obama.
+— By Associated Press writers Colleen Long and Michael Balsamo in Washington
+——
+11:30 a.m.
+Vice President Mike Pence is condemning “attempted attacks” against former President Barack Obama, Hillary Clinton and CNN.
+Pence tweeted Wednesday: “These cowardly actions are despicable &amp; have no place in this Country.”
+He thanked law enforcement and added: “Those responsible will be brought to justice.”
+The U.S. Secret Service said Wednesday that it had intercepted a bomb that was addressed to Hillary Clinton and also discovered a possible explosive that was sent to Obama. Also Wednesday, a police bomb squad was sent to CNN’s offices in New York City and the newsroom was evacuated because of a suspicious package.
+——
+11:16 a.m.
+The U.S. Secret Service says media reports that it has intercepted a suspicious package bound for the White House “are incorrect.”
+The law enforcement agency tasked with protecting the president and other dignitaries says it has intercepted two packages in Washington and New York. The packages were respectively addressed to the residences of former President Barack Obama in Washington and Hillary Clinton in Chappaqua, N.Y.
+The Secret Service says neither was at risk of receiving the packages.
+——
+10:33 a.m.
+CNN says its offices in Manhattan have been evacuated because of a suspicious package.
+The news network reported on Wednesday morning that a police bomb squad was at its offices.
+The U.S. Secret Service says agents have intercepted packages containing “possible explosive devices” addressed to former President Barack Obama and Hillary Clinton.
+Law enforcement officials say the CNN package was discovered in the mail room. It’s not clear yet if it’s related to the other packages.
+——
+10:25 a.m.
+Hillary Clinton was campaigning for Democrats in Florida and wasn’t at the family’s suburban New York residence when a suspicious package addressed to her was seized by the Secret Service.
+Former President Bill Clinton was at the family’s Chappaqua, New York, home when the package was intercepted at a Westchester County, N.Y., facility. That’s according to a person familiar with his schedule who spoke on condition of anonymity and wasn’t authorized to speak publicly.
+The person says the device was screened at the Westchester facility and never reached the Clintons’ home.
+The Secret Service says the package was identified during routine mail screening procedures and the Clintons weren’t at risk of receiving it.
+Hillary Clinton is headlining a fundraiser Wednesday for Florida congressional candidate Donna Shalala.
+—By Ken Thomas.
+——
+10:18 a.m.
+The White House is condemning attempted attacks made against former President Barack Obama, former President Bill Clinton and Hillary Clinton.
+White House spokeswoman Sarah Huckabee Sanders says in a statement Wednesday: “These terrorizing acts are despicable, and anyone responsible will be held accountable to the fullest extent of the law.” She adds: “The United States Secret Service and other law enforcement agencies are investigating and will take all appropriate actions to protect anyone threatened by these cowards.”
+The U.S. Secret Service said Wednesday that agents have intercepted packages containing “possible explosive devices” addressed to former President Barack Obama and Hillary Clinton.
+The agency says neither Clinton nor Obama received the packages, and neither was at risk of receiving them because of screening procedures.
+——
+10:11 a.m.
+The U.S. Secret Service says agents have intercepted packages containing “possible explosive devices” addressed to former President Barack Obama and Hillary Clinton.
+The agency says neither Clinton nor Obama received the packages, and neither was at risk of receiving them because of screening procedures.
+It says the devices were discovered late Tuesday and early Wednesday.
+A U.S. official tells The Associated Press that a “functional explosive device” was found during screening at Bill and Hillary Clintons’ suburban New York home.
+The official says investigators believe the explosive is linked to one found Monday at the compound of liberal billionaire George Soros.
+The Secret Service says a second package was addressed to Obama and was intercepted in Washington.
+		Categories: Daily Briefs | News Tags: 85 Years of LA Sentinel | Black News | Donal Trump		
+						Danny Bakewell Sr. Statement Regarding Maxine Waters Bomb Threats
+						Mayor Butts’ Opponent Running Suspect Campaign, Say Supporters 
+						The National Association of Minority Contractors Southern California Celebr...
+						Brotherhood Crusade is Proud to Present the 50th Anniversary Pioneer of Afr...
+						GLAAACC Presents Transportation Transformation Town Hall Meeting
+						Singer Chaka Khan to be Grand Marshal of Rose Parade
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

@@ -1,0 +1,240 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Dwight Brown
+							FILM REVIEW –  ‘John Lewis: Good Trouble’
+					July 2, 2020“I feel lucky and blessed that I’m serving in the Congress… But there is a force that is trying to take us back to another time and another dark period,” warns congressman John Lewis. And he’d know.   
+Since age 17, this brave crusader has been at the forefront of the civil rights movement. Now at age 80, he’s an elder statesmen. Following his path lets audiences retrace the steps of an activism that has led to social change, even in the midst of great oppression. For that alone, former trial lawyer turned documentarian Dawn Porter’s (Trapped, Gideon’s Army) homage to one of our greatest heroes is a blessing and an inspiring lesson in American history.   ... read more  »
+							FILM REVIEW: ‘Blue Story’
+					May 14, 2020First-time feature filmmaker Rapman has schooled Generation Z with a cautionary urban tale that is both raw and affecting. ... read more  »
+							FILM REVIEW: Premature
+					February 20, 2020"Premature," as a film, is a tight indie art piece.  ... read more  »
+        ADVERTISEMENT        
+							FILM REVIEW: “Underwater”
+					January 16, 2020If tension, fear and good performances were all it took to make a satisfying thriller, “Underwater” would be complete. ... read more  »
+							FILM REVIEW: ‘Les Misérables’
+					January 2, 2020Ladj Ly‘s stark realism, also exemplified by his documentary-style filmmaking, is fairly evocative for 102 minutes and gives the film a soul.  ... read more  »
+							Film Review: ‘Queen &amp; Slim’
+					November 28, 2019Police aggression in the Black community ignites a journey that’s laced with intrigue, thrills, narrow escapes, family drama and a romance that goes from highly unlikely to sensual bliss. ... read more  »
+							FILM REVIEW: Brian Banks
+					August 8, 2019The real Brian Banks, the subject of this movie, lived through an ordeal that was tragic, inspiring and often profound, something is lost in this one-dimensional retelling of his life experiences. Something turns his extraordinary story of resilience into a decent but ordinary made-for-TV-like movie.
+ ... read more  »
+							FILM REVIEW: Toni Morrison: The Pieces I Am
+					July 11, 2019When she helped school her white editors on the power of her works and viewpoints on African American culture and experiences, she faced the same challenge that many African Americans encounter when dealing with their white counterparts in business, education, politics, etc. Resistance. As she recounts her experiences, Morrison is poised, resolved and reflective. Somewhat akin to an intelligent philosopher or an academic who patiently teaches a class of inquisitive but slow-learning freshmen. ... read more  »
+							FILM REVIEW: Tyler Perry’s A Madea Family Funeral
+					March 7, 2019[Editors note: Warning. Spoilers ahead!] “Perry’s script relies on infidelity, rivalries, bawdy language, lust and the usual dollop of betrayal. In other circumstances, the turmoil would be funny and engaging. Not so much here…” ... read more  »
+							FILM REVIEW: “Glass”
+					January 24, 2019Two hours and nine minutes roll by, and the film is about as frustrating as standing in a TSA line at the airport. Fault the strained writing. Blame the lifeless direction.  ... read more  »
+							FILM REVIEW: Vice
+					January 12, 2019It was an historic power grab. Not the Republicans taking back the White House after a controversial, razor-thin win by George W. Bush over Al Gore. It was the vice president-elect, Dick Cheney, out-maneuvering George Jr. and becoming the puppet master. ... read more  »
+							BEST FILMS OF 2018
+					December 27, 2018In 2018, the stories told, talent-on-view, compelling characters, emotions expressed, and genres stretched were just amazing. It was more than enough to make viewers track films from the theaters to streaming services. Or vice versa.  ... read more / view gallery »
+							Film Review: I Am Not Your Negro
+					January 4, 2017James Baldwin left behind some biting and enlightening words about racism and the status of the Black community that are just as relevant today in this age of the Black Lives Matter movement. ... read more  »
+							The Best Films of 2016
+					December 28, 2016It's a perfect time to reflect on the most inspiring films, performances and artistic achievements of this last year ... read more  »
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->

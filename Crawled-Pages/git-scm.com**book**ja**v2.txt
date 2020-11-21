@@ -1,0 +1,267 @@
+        About
+            Branching and Merging
+            Small and Fast
+            Distributed
+            Data Assurance
+            Staging Area
+            Free and Open Source
+            Trademark
+        Documentation
+            Reference
+            Book
+            Videos
+            External Links
+        Downloads
+            GUI Clients
+            Logos
+        Community
+This book is available in
+  English.
+  Full translation available in
+    български език,
+    Deutsch,
+    Español,
+    Français,
+    Ελληνικά,
+    日本語,
+    한국어,
+    Nederlands,
+    Русский,
+    Slovenščina,
+    Tagalog,
+    Українська
+    简体中文,
+  Partial translations available in
+    Čeština,
+    Македонски,
+    Polski,
+    Српски,
+    Ўзбекча,
+    繁體中文,
+  Translations started for
+    azərbaycan dili,
+    Беларуская,
+    فارسی,
+    Indonesian,
+    Italiano,
+    Bahasa Melayu,
+    Português (Brasil),
+    Português (Portugal),
+    Svenska,
+    Türkçe.
+The source of this book is  hosted on GitHub.
+Patches, suggestions and comments are welcome.
+  Book
+      2nd Edition (2014)
+        Download Ebook
+  The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress, is available here. All content is licensed under the Creative Commons Attribution Non Commercial Share Alike 3.0 license. Print versions of the book are available on Amazon.com.&gt;
+    1. 使い始める
+              1.1
+              バージョン管理に関して
+              1.2
+              Git略史
+              1.3
+              Gitの基本
+              1.4
+              コマンドライン
+              1.5
+              Gitのインストール
+              1.6
+              最初のGitの構成
+              1.7
+              ヘルプを見る
+              1.8
+              まとめ
+    2. Git の基本
+              2.1
+              Git リポジトリの取得
+              2.2
+              変更内容のリポジトリへの記録
+              2.3
+              コミット履歴の閲覧
+              2.4
+              作業のやり直し
+              2.5
+              リモートでの作業
+              2.6
+              タグ
+              2.7
+              Git エイリアス
+              2.8
+              まとめ
+    3. Git のブランチ機能
+              3.1
+              ブランチとは
+              3.2
+              ブランチとマージの基本
+              3.3
+              ブランチの管理
+              3.4
+              ブランチでの作業の流れ
+              3.5
+              リモートブランチ
+              3.6
+              リベース
+              3.7
+              まとめ
+    4. Gitサーバー
+              4.1
+              プロトコル
+              4.2
+              サーバー用の Git の取得
+              4.3
+              SSH 公開鍵の作成
+              4.4
+              サーバーのセットアップ
+              4.5
+              Git デーモン
+              4.6
+              Smart HTTP
+              4.7
+              GitWeb
+              4.8
+              GitLab
+              4.9
+              サードパーティによる Git ホスティング
+              4.10
+              まとめ
+    5. Git での分散作業
+              5.1
+              分散作業の流れ
+              5.2
+              プロジェクトへの貢献
+              5.3
+              プロジェクトの運営
+              5.4
+              まとめ
+    6. GitHub
+              6.1
+              アカウントの準備と設定
+              6.2
+              プロジェクトへの貢献
+              6.3
+              プロジェクトのメンテナンス
+              6.4
+              組織の管理
+              6.5
+              スクリプトによる GitHub の操作
+              6.6
+              まとめ
+    7. Git のさまざまなツール
+              7.1
+              リビジョンの選択
+              7.2
+              対話的なステージング
+              7.3
+              作業の隠しかたと消しかた
+              7.4
+              作業内容への署名
+              7.5
+              検索
+              7.6
+              歴史の書き換え
+              7.7
+              リセットコマンド詳説
+              7.8
+              高度なマージ手法
+              7.9
+              Rerere
+              7.10
+              Git によるデバッグ
+              7.11
+              サブモジュール
+              7.12
+              バンドルファイルの作成
+              7.13
+              Git オブジェクトの置き換え
+              7.14
+              認証情報の保存
+              7.15
+              まとめ
+    8. Git のカスタマイズ
+              8.1
+              Git の設定
+              8.2
+              Git の属性
+              8.3
+              Git フック
+              8.4
+              Git ポリシーの実施例
+              8.5
+              まとめ
+    9. Gitとその他のシステムの連携
+              9.1
+              Git をクライアントとして使用する
+              9.2
+              Git へ移行する
+              9.3
+              まとめ
+    10. Gitの内側
+              10.1
+              配管（Plumbing）と磁器（Porcelain）
+              10.2
+              Gitオブジェクト
+              10.3
+              Gitの参照
+              10.4
+              Packfile
+              10.5
+              Refspec
+              10.6
+              転送プロトコル
+              10.7
+              メンテナンスとデータリカバリ
+              10.8
+              環境変数
+              10.9
+              まとめ
+    A1. Appendix A: その他の環境でのGit
+              A1.1
+              グラフィカルインタフェース
+              A1.2
+              Visual StudioでGitを使う
+              A1.3
+              EclipseでGitを使う
+              A1.4
+              BashでGitを使う
+              A1.5
+              ZshでGitを使う
+              A1.6
+              PowershellでGitを使う
+              A1.7
+              まとめ
+    A2. Appendix B: Gitをあなたのアプリケーションに組み込む
+              A2.1
+              Gitのコマンドラインツールを使う方法
+              A2.2
+              Libgit2を使う方法
+              A2.3
+              JGit
+    A3. Appendix C: Gitのコマンド
+              A3.1
+              セットアップと設定
+              A3.2
+              プロジェクトの取得と作成
+              A3.3
+              基本的なスナップショット
+              A3.4
+              ブランチとマージ
+              A3.5
+              プロジェクトの共有とアップデート
+              A3.6
+              検査と比較
+              A3.7
+              デバッグ
+              A3.8
+              パッチの適用
+              A3.9
+              メール
+              A3.10
+              外部システム
+              A3.11
+              システム管理
+              A3.12
+              配管コマンド
+    About this site
+    Patches, suggestions, and comments are welcome.
+    Git is a member of Software Freedom Conservancy

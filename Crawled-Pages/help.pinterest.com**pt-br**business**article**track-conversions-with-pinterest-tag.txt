@@ -1,0 +1,182 @@
+      Pular para o conteúdo principal
+        Central de Ajuda
+  Header navigation
+                  Geral
+                  Empresa
+  Header navigation - actions
+        Pesquisar
+  Header navigation - anonymous
+        Entrar
+        Página inicial do Pinterest
+  Open menu
+          Geral
+          Acesso à conta e segurança
+          Problemas com o Pinterest
+          Assuntos legais e privacidade
+          Gerenciar sua conta
+          Pins e pastas
+          Empresa
+          Ads measurement
+          Ads reporting
+          Build your organic presence on Pinterest
+          Gerencie o seu perfil comercial
+          Shopping on Pinterest
+          Cobrança e pagamento de Pins patrocinados
+          Anuncie no Pinterest
+            Acesso à conta e segurança
+            Problemas com o Pinterest
+            Assuntos legais e privacidade
+            Gerenciar sua conta
+            Pins e pastas
+            Ads measurement
+            Ads reporting
+            Build your organic presence on Pinterest
+            Gerencie o seu perfil comercial
+            Shopping on Pinterest
+            Cobrança e pagamento de Pins patrocinados
+            Anuncie no Pinterest
+              Rastrear conversões com a tag do Pinterest
+            Parece que você está visualizando isso de uma região onde a tag do Pinterest ainda não está disponível. Veja onde a tag do Pinterest está disponível para contas do Pinterest Business.
+  Saiba mais
+            A tag do Pinterest é um trecho de código que você coloca no seu site para reunir informações de conversão e definir públicos-alvo com base nas ações que eles realizam no seu site.
+Saiba como configurar a sua tag do Pinterest com este guia. Se usar a tag do Pinterest, você precisará informar sobre o uso de rastreamento de conversão no seu site, conforme descrito em nossos Padrões de Publicidade.
+Se você é um usuário destes sites, clique no nome do site para ver seu guia específico:
+Gerenciador de tags do Google
+Tealium
+Shopify
+Squarespace
+BigCommerce
+Ensighten (faça login no Ensighten para ver instruções)
+Segment
+WooCommerce via plugin PixelYourSite ou plugin Premmerce
+Magento via plugin Apptrian
+Ecwid
+Weebly (faça login no Weebly para ver instruções)
+Wordpress via plugin PixelYourSite
+            Rastrear conversões com a tag do Pinterest
+É possível definir um evento de conversão por uma ação específica que alguém toma em seu site, como inscrever-se para seu boletim ou comprar um produto. Você pode obter relatórios de conversão para nove tipos de atividade em seu site.
+PageVisit: registre visualizações de páginas principais, como páginas de produtos e páginas de artigos
+ViewCategory: registre visualizações de páginas de categorias
+Search: registre pesquisas no seu site
+AddToCart: registre quando itens forem adicionados a carrinhos de compras
+Checkout: registre transações finalizadas
+WatchVideo: registre visualizações de vídeo
+Signup: registre inscrições para seus produtos ou serviços
+Lead: registre o interesse por um produto ou serviço
+Custom: use esse nome de evento para rastrear um evento especial que você queira incluir em seus relatórios de conversão.
+Veja o guia de implementação completo sobre como configurar eventos específicos na sua tag do Pinterest. Verifique se o código de base e o código de evento correspondente estão em cada página onde você queira rastrear conversões e se o código de base é acionado antes do código de evento. Após os códigos serem adicionados, dê 5 minutos e, em seguida, confirme no Gerenciador de Conversão se as tags foram implementadas corretamente.
+            Verificar o tráfego
+Clique na sua tag do Pinterest em https://ads.pinterest.com/conversion_tags/. À esquerda, você verá uma seção de "Histórico de eventos da tag". Aqui você verá todos os códigos de evento que foram adicionados corretamente. Ao lado do código de evento, você verá quantas vezes a tag foi acionada nas últimas 24 horas e a hora exata do acionamento de evento mais recente no horário UTC. Os dados do histórico de eventos da tag são atualizados a cada 5 minutos.
+Lembre-se de que essa métrica são o total de acionamentos da tag. Toda vez que alguém carrega a página onde sua tag foi colocada, a tag deve ser acionada e um evento deve ser contado. Essa métrica não necessariamente representa conversões do Pinterest, pois as conversões só podem ser contadas em acionamentos de tag que foram feitos por usuários do Pinterest que podemos identificar com base em seu respectivo cookie do Pinterest ou por meio da correspondência avançada.
+Assim, se você não receber visitas todos os dias nas páginas onde colocou a tag do Pinterest, a contagem das últimas 24 horas pode ser 0 para alguns dias. Você ainda pode confirmar a última vez que o código de evento foi acionado na última coluna à direita.
+            Correspondência avançada
+Um complemento opcional para o código de base é o nosso recurso Correspondência Avançada, que foi melhorado recentemente: um parâmetro de e-mail com hash adicional que você pode acrescentar à sua tag do Pinterest e faz a correspondência dos dados de conversão com o usuário do Pinterest responsável. Dessa forma, você envia e-mails com hash ao Pinterest para fazer a correspondência de eventos do site quando não há um cookie presente. Como resultado, você conseguirá ver mais conversões com precisão em relatórios do Gerenciador de Anúncios. Novos recursos baseados em cookie complementarão os recursos sem cookie da Correspondência Avançada.
+Por privacidade, os e-mails têm uma hash e são excluídos no prazo de 24 horas.
+O guia da Correspondência Avançada mostra como implementar a correspondência avançada e aborda preocupações de segurança/privacidade que você possa ter.
+            Recursos adicionais de visibilidade
+A tag do Pinterest cria e acessa cookies em um contexto primário no seu domínio, proporcionando melhor visibilidade do tráfego do Pinterest que você está recebendo no seu site.
+Usando a Correspondência Inteligente (sinais do navegador), podemos usar cookies de forma mais eficaz para correspondência, a fim de aumentar o alcance e a precisão.
+O Pinterest tem parcerias de dados que ajudam na correspondência das suas conversões com os usuários do Pinterest. Por exemplo, se um usuário estiver navegando no seu site em seu respectivo telefone, mas escolher comprar o seu produto no navegador da Web, o nosso software de back-end será capaz de conectar os dispositivos entre si e capturar melhor as conversões que você estiver recebendo em qualquer dispositivo.
+Para aceitar esses recursos:
+Novo cookie (primeira pessoa): nenhuma ação necessária
+Correspondência entre dispositivos: nenhuma ação necessária
+Correspondência avançada: envie estas instruções para a sua equipe de desenvolvedores
+Conversões no aplicativo: consulte a sua equipe de conta do Pinterest
+Correspondência Inteligente: nenhuma ação necessária
+Estamos empenhados em melhorar continuamente o nosso algoritmo de correspondência e refinar nossos modelos para fornecer uma visão mais precisa das conversões que as suas campanhas estão gerando. Se tiver dúvidas ou preocupações, fale com a sua equipe de conta ou entre em contato conosco.
+  Outros artigos
+  Skip Outros artigos Links
+      Tag do Pinterest
+                        Adicionar seus códigos de evento
+                                Código de base
+                                Código do evento
+            Veja mais pastas, buscas, perfis ou Pins desta coleção
+                                Configurar a tag do Pinterest
+                                Correspondência avançada
+                                Exemplos de código do evento
+                                Exemplos de códigos de base e do evento combinados
+                                Extensão Pinterest Tag Helper do Chrome
+                                Implementação de tag do Pinterest
+                                Instalar o código de base
+                                Rastrear conversões com a tag do Pinterest
+                                Tag IMG
+                                Testar eventos de tag do Pinterest
+      Integrações da tag do Pinterest
+                        Adicionar a tag do Pinterest ao Shopify manualmente
+      Rastreamento de terceiros
+                        Rastreamento dinâmico e de terceiros
+                                Rastrear um anúncio de coleções
+      Conversions
+                        Carregar conversões com a LiveRamp
+                                Carregar conversões com o Gerenciador de Anúncios
+                                Carregar conversões para mensuração
+  End of Outros artigos Links
+            Ainda precisa de ajuda?
+                Fale conosco
+    User feedback
+              Este artigo foi útil?
+        feliz
+        triste
+        collection_fields
+        Como podemos melhorar este artigo?
+      Additional Response
+      Leave this field blank
+        O Pinterest está usando cookies para ajudar a proporcionar a melhor experiência possível.
+        Entendi!
+    Skip Footer Menu
+    Escolha uma língua
+                      English (US)
+                              Bahasa Indonesia
+                              Čeština
+                              Dansk
+                              Deutsch
+                              English (UK)
+                              Español
+                              Français
+                              Italiano
+                              Magyar
+                              Nederlands
+                              Norsk bokmål
+                              Polski
+                              Português (Brasil)
+                              Português (Europeu)
+                              Română
+                              Slovenčina
+                              Suomi
+                              Svenska
+                              Filipino
+                              Tiếng Việt
+                              Türkçe
+                              Ελληνικά
+                              Русский
+                              Ukrainian
+                              ภาษาไทย
+                              简体中文
+                              繁體中文
+                              한국어
+                              日本語
+            Sobre nós
+                    Impressum
+                    O que é o Pinterest
+                    Nossa página do Pinterest
+                    Blog de engenharia
+                    Diretrizes da marca
+                    Carreiras
+                    Central de Ajuda
+                    Pinterest Labs
+            Nossas políticas
+                    Copyright
+                                          &amp;
+                            marca
+                    Anúncios personalizados
+                    Termos de Serviço
+                    Privacidade
+                                          &amp;
+                            cookies
+            Mais informações
+                    Para empresas
+                    Para desenvolvedores
+                    Para a imprensa
+                    Para investidores
+                    End of Footer
+    © Pinterest 2020

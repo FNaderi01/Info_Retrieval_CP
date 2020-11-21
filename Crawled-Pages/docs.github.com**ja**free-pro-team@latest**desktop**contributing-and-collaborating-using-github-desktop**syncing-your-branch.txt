@@ -1,0 +1,182 @@
+     category > maptopic > article -->
+    GitHub Docs
+    All products
+  GitHub Desktop
+          インストールと設定
+              概要
+                  GitHub Desktop を使ってみる
+                  Creating your first repository
+                  Supported operating systems
+                  キーボードショートカット
+                  Launching from the command line
+              GitHub Desktopのインストールと認証
+                  Setup
+                  インストール
+                  認証
+                  About connections to GitHub
+                  GitHub Desktopの更新方法
+                  GitHub Desktopのアンインストール方法
+              GitHub Desktopの設定とカスタマイズ
+                  Configuring Git
+                  ベーシック設定
+                  デフォルトエディタの設定方法
+                  GitHub Desktop用のテーマ設定方法
+                  Git LFS について
+          コントリビューションとコラボレーション
+              リポジトリの追加とクローン
+                  ローカルコンピュータからGitHubデスクトップへのリポジトリの追加
+                  GitHub Desktopを介してのGitHubへの既存プロジェクト追加
+                  GitHub Desktopからのリポジトリのクローンとフォーク
+                  GitHubからのGitHub Desktopへのリポジトリのクローン方法
+              ブランチでの変更
+                  ブランチを管理する
+                  プロジェクトへの変更のコミットやレビュー
+                  変更をプッシュする
+                  コミットの打ち消し
+                  タグを管理する
+                  ブランチ履歴の表示
+              GitHub、またはGitHub Enterpriseでのリモートリポジトリの操作
+                  Issueもしくはプルリクエストの作成
+                  プルリクエストを表示する
+                  GitHub DesktopからのリモートのURL変更
+              ローカルリポジトリと GitHub の同期を維持する
+                  ブランチの同期
+  ドキュメントには頻繁に更新が加えられ、その都度公開されています。本ページの翻訳はまだ未完成な部分があることをご了承ください。最新の情報については、英語のドキュメンテーションをご参照ください。本ページの翻訳に問題がある場合はこちらまでご連絡ください。
+        GitHub Docs
+                製品で調べる
+                      GitHub Desktop
+                       GitHub.com
+                       Enterprise Administrators
+                       GitHub Actions
+                       GitHub Packages
+                       Developers
+                       REST API
+                       GraphQL API
+                       GitHub Insights
+                       GitHub Desktop
+                       Atom
+                       Electron
+                            日本語 (Japanese)
+                              English
+                              简体中文 (Simplified Chinese)
+                              日本語 (Japanese)
+                              Español (Spanish)
+                              Português do Brasil (Portuguese)
+    GitHub Desktop
+    コントリビューションとコラボレーション
+    ローカルリポジトリと GitHub の同期を維持する
+    ブランチの同期
+        ブランチの同期
+        コミットは GitHub のプロジェクトにプッシュされるため、リモートリポジトリからプルすることにより、プロジェクトのローカルコピーを同期した状態に保つことができます。
+            Mac
+            Windows
+            Linux
+            All
+        ここには以下の内容があります:
+          ブランチの同期について
+          リモートからローカルブランチにプルする
+          プロジェクトブランチに他のブランチをマージする
+          プロジェクトブランチを他のブランチにリベースする
+          参考リンク
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        必須
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        任意
+      Can we contact you if we have more questions?
+        任意
+      送信
+    ありがとうございます。フィードバックが送信されました。
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  OR, learn how to contribute.
+      ブランチの同期について
+最後に同期してから GitHub のブランチに追加されたコミットをプルすることにより、ローカルブランチをリモートリポジトリと同期できます。 別のデバイスからコミットする場合、または複数のユーザがプロジェクトに貢献する場合は、ローカルブランチを同期してブランチを更新し続ける必要があります。
+ローカルブランチにプルすると、リポジトリのローカルコピーのみを更新します。 GitHub のブランチを更新するには、変更をプッシュする必要があります。 詳しい情報については、「GitHub への変更をプッシュする」を参照してください。
+あるブランチから別のブランチへの変更を追加するには、ブランチをマージします。 同じリポジトリ内の別のブランチからブランチに変更を適用するには、他のブランチを GitHub Desktop のブランチにマージします。 ブランチからの変更を、同じリポジトリまたはネットワーク内の別のリポジトリにある別のブランチにマージするようにリクエストするには、GitHub Desktop でプルリクエストを作成します。 詳しい情報については、「プロジェクトブランチに他のブランチを結合する」および「プルリクエストについて 」を参照してください。
+一部のワークフローでは、マージではなくリベースが必要または役立つ場合があります。 リベースすることで、コミットの順序を変更したり、編集したり、まとめて squash したりできます。 詳しい情報については、「Git リベースについて」および「プロジェクトブランチを別のブランチにリベースする 」を参照してください。
+リモートからローカルブランチにプルする
+GitHub Desktop で、 [Current Branch] ドロップダウンを使用して、更新するローカルブランチを選択します。
+リモートブランチのコミットを確認するには、[Fetch origin] をクリックします。 
+リモートブランチからコミットをプルするには、[Pull origin] または [Pull origin with rebase] をクリックします。 
+テキストエディタ、コマンドライン、または他のツールなどの好みの方法で、マージコンフリクトがあれば解決してください。 For more information, see "Addressing merge conflicts."
+プロジェクトブランチに他のブランチをマージする
+In GitHub Desktop, click  Current Branch. 
+Choose a branch to merge into BRANCH（BRANCHにマージするブランチの選択）をクリックしてください。 
+現在のブランチのマージしたいブランチをクリックし、Merge BRANCH into BRANCH（ブランチにブランチをマージ）をクリックしてください。
+注釈：マージコンフリクトがある場合、GitHub DesktopはMerge BRANCH into BRANCHボタンの上に警告を表示します。 全てのコンフリクトを解決するまではブランチをマージすることはできません。
+Click Push origin to push your local changes to the remote repository. 
+プロジェクトブランチを他のブランチにリベースする
+メニューバーで [Branch] ドロップダウンを使用して、[Rebase Current Branch] をクリックします。 
+現在のブランチにリベースしたいブランチをクリックし、[Start rebase] をクリックします。 
+リベースしたい場合は、[Begin rebase] をクリックします。 
+テキストエディタ、コマンドライン、または他のツールなどの好みの方法で、マージコンフリクトがあれば解決してください。 For more information, see "Addressing merge conflicts."
+ローカルの変更をプッシュするには、[Force push origin] をクリックします。 
+[Branch] ドロップダウンメニューで、[Rebase Current Branch] をクリックします。 
+現在のブランチにリベースしたいブランチをクリックし、[Start rebase] をクリックします。 
+リベースしたい場合は、[Begin rebase] をクリックします。 
+テキストエディタ、コマンドライン、または他のツールなどの好みの方法で、マージコンフリクトがあれば解決してください。 For more information, see "Addressing merge conflicts."
+ローカルの変更をプッシュするには、[Force push origin] をクリックします。 
+参考リンク
+GitHub 用語集の「プル」
+GitHub 用語集の「マージ」
+GitHub 用語集の「リベース」
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        必須
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        任意
+      Can we contact you if we have more questions?
+        任意
+      送信
+    ありがとうございます。フィードバックが送信されました。
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  OR, learn how to contribute.
+      Still need help?
+      Ask the GitHub community
+      サポートへの連絡
+        製品
+          機能
+          セキュリティ
+          Enterprise
+          ケーススタディ
+          価格
+          リソース
+        プラットフォーム
+          開発者 API
+          パートナー
+          Atom
+          Electron
+          GitHub Desktop
+        サポート
+          ヘルプ
+          コミュニティフォーラム
+          トレーニング
+          状況
+          GitHubに連絡
+        会社
+          GitHubについて
+          ブログ
+          キャリア
+          プレス
+          ショップ
+        © 2020 GitHub, Inc.
+        規約 
+        プライバシー 

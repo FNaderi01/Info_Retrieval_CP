@@ -1,0 +1,358 @@
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+                  success
+          fail
+		  Apr
+		  SEP
+		  Jan
+		  12
+		  2010
+		  2011
+		  2013
+	      	      63 captures
+	      23 Apr 2011 - 09 Aug 2020
+       About this capture
+    COLLECTED BY
+		Organization: Internet Archive
+	  The Internet Archive discovers and captures web pages through many different web crawls.
+At any given time several distinct crawls are running, some for months, and some every day or longer.
+View the web archive through the Wayback Machine.
+		Collection: Wide Crawl started March 2011
+	  Web wide crawl with initial seedlist and crawler configuration from March 2011.  This uses the new HQ software for distributed crawling by Kenji Nagahashi.
+What’s in the data set:
+Crawl start date: 09 March, 2011
+Crawl end date: 23 December, 2011
+Number of captures: 2,713,676,341
+Number of unique URLs: 2,273,840,159
+Number of hosts: 29,032,069
+The seed list for this crawl was a list of Alexa’s top 1 million web sites, retrieved close to the crawl start date.  We used Heritrix (3.1.1-SNAPSHOT) crawler software and respected robots.txt directives.  The scope of the crawl was not limited except for a few manually excluded sites.  
+However this was a somewhat experimental crawl for us, as we were using newly minted software to feed URLs to the crawlers, and we know there were some operational issues with it.  For example, in many cases we may not have crawled all of the embedded and linked objects in a page since the URLs for these resources were added into queues that quickly grew bigger than the intended size of the crawl (and therefore we never got to them).  We also included repeated crawls of some Argentinian government sites, so looking at results by country will be somewhat skewed.  
+We have made many changes to how we do these wide crawls since this particular example, but we wanted to make the data available “warts and all” for people to experiment with.  We have also done some further analysis of the content.
+If you would like access to this set of crawl data, please contact us at info at archive dot org and let us know who you are and what you’re hoping to do with it.  We may not be able to say “yes” to all requests, since we’re just figuring out whether this is a good idea, but everyone will be considered.
+    TIMESTAMPS
+domingo 31 de julio de 2011
+Primera etapa: ¡cumplida!
+Una vez me dijeron que en el amor, la clave es negociar. Que lo importante es llegar a un acuerdo y ceder en algunas cuestiones, para conseguir la felicidad y obtener algunos beneficios. Nunca me gustó verlo como una fórmula matemática, como algo tan racional, pero hoy debo decir que algo de eso hay. Sino, no se explica cómo aún no nos matamos.El 31 de julio de 2010, luego de luchar meses con albañiles y con plazos que se modificaban todas las semanas, por fin estacionamos el camión de la mudanza en la puerta de nuestra casa. Hacía ya mucho tiempo que mi mochila viajera había dejado de recorrer las 30 calles que dividían ambos hogares, pero esto era distinto: tenía olor a desafío. Ya no valían los refugios ante cualquier pelea, los problemas habría que afrontarlos en casa.Ése día se llenó la casa de amigos y familia; se comieron sandwichs en una cocina vacía, parados, cada uno desde el puesto que le había sido asignado. Se vivieron momentos de caos, como en toda mudanza, pero pese al cansancio la sonrisa era el denominador común. Estábamos contentos, nosotros y ellos, había triunfado el amor. Nadie le daba crédito a la relación durante los primeros meses pero acá estábamos para demostrar que sí se puede atravesar huracanes y tormentas cuando hay amor.Hace un año escribía esto. Con alegría, puedo decir que nos seguimos eligiendo y que en esta casa, la mayoría de las veces, sobran las sonrisas. No es un amor utópico, no existe el "hasta que la muerte nos separe", pero es un amor real de esos que se sienten en el corazón. Y eso vale más que cualquier firma o cálculo matemático.Por eso hoy, pese a los pronósticos, renovamos el contrato de nuestra casa y nuestra relación. Muchacho, feliz aniversario, seguimos sumando...
+Publicado por
+Capitana del Espacio
+en
+12:15
+12
+comentarios
+Etiquetas:
+Capitana,
+Convivencia,
+muchacho en cuestión
+jueves 7 de julio de 2011
+"No me saludes, gracias"
+No soy muy amiga de los festejos impuestos, detesto el día de la madre, el del padre, el de los enamorados y todos los afines que se ubican en el calendario. No sé quién inventó el día del tío, el cuñado, el primo, la bisabuela, la vecina, el padrino, pero ahí están, acechando a la espera de un saludo que de mi parte, nunca llegará. Porque sencillamente, los odio.La gran incógnita es quién los impuso, qué estaría pensando en ese momento y qué quería lograr con todo esto. ¿Un aplauso? Acaso, ¿una mala madre es buena madre y merece un regalo sólo porque es su día? Horrible. Pero la fecha que más urticaria me da de todo el año se acerca y sobre eso quiero hablar: el día del amigo.El 20 de julio, los argentinos se despiertan con un chip distinto. Van sonrientes por la vida, saludan con un beso al portero y le dicen "buen día" al colectivero por primera vez en el año. Como si se tratase de una carrera imaginaria, repasan mentalmente la cantidad de "feliz día" que recibieron el año anterior y la meta, claramente, es superar la marca. Si el último julio recibieron 5 saludos, ahora desean recibir al menos 10.Con esa premisa bajo la manga, hacen chistes, te ofrecen café en la oficina, te abren la puerta y te dan el asiento en el subte. ¿Sabés qué día es hoy, no?; Sí, miércoles. Entonces te ponen un calendario gigante arriba del escritorio con el 20 remarcado con fibra negra o te inundan el muro de Facebook con saludos cargosos, a ver si te "avivás" y les decís feliz día. Los odio, no te hablé en todo el año, no te voy a decir feliz día ni hoy ni nunca.Este contexto se repite en todos lados. Antes sonaba el teléfono incesantemente, con personas que esperaban al menos escuchar un "igualmente". Ahora, el plomazo es Facebook. Gente desconocida te dice: "Amigaaaaaaaaaaaaa, feliz día" y vos te preguntás en qué momento te sentaste a charlar con esa persona, cuántas cosas importantes compartiste, como para que te grite amiga con tanto entusiasmo.A la hora de las reuniones, arranca otro capítulo. Mensajes de texto desencotrados, chat, llamadas, recordatorios, restaurantes colapsados, nadie se pone de acuerdo sobre dónde comer y a qué hora juntarse. "Paso a saludar a Pilu, después a Monti y más tarde ceno con ustedes, ¿me esperan?"... Y la verdad que no, no quiero esperarte hasta las 23 para poder sentarme a comer un día de semana.¿Por qué hay que ver a todos los amigos que tenemos el 20 de julio sí o sí, sino nos convertimos en malos amigos? Si cuando se peleó con el novio y me llamó llorando, yo estaba ahí para consolarla. ¿No era eso lo realmente importante, más que esta cena de mierda? Parece que no, tenía que estar presente sí o sí el 20 para el brindis (?), sino todo lo que se hizo los otros 364 días del año, fue en vano. Aunque el 21 ya se junten a despedazarte porque engordaste tres kilos, el 20 hay que estar con buena onda, bien arriba para festejar (?).Este año planeo tan sólo agradecer cuando me digan feliz día personas que no considero mis amigas. No finjo más. Me siento una prostituta emocional mintiendo, impostando una sonrisa y un "Igualmente" creíble frente al espejo que seguro después no me sale en vivo. Este año, calculo que no me voy a juntar con nadie, me voy a quedar en mi casa y voy a mirar la novela como todas las noches. Y me voy a ir a dormir temprano, soñando con un mundo donde no existan ni el día del amigo ni el feliz día ni los igualmente. Ojalá sea posible.
+Publicado por
+Capitana del Espacio
+en
+13:01
+22
+comentarios
+Etiquetas:
+Odios irrefrenables
+jueves 16 de junio de 2011
+Tarde descontrolada...
+Cada vez que mi madre llega con bolsas negras en la mano, tiemblo. Sé que me espera un momento desagradable. "Estoy ordenando el placard blanco, acá te dejo más cosas tuyas", argumenta. Mil veces le dije que no me traiga nada, que done mi ropa, que si la dejé en su casa es porque no la necesito. Pero no escucha, mi madre nunca escucha y las deja igual. Y ahí estoy yo, en el piso de mi casa, con una bomba a punto de estallar. Porque abrir esas bolsas negras, implica muchas cosas. Un sinfín de sentimientos.El más importante de ellos, salta a la vista: tengo 128.274 kilos más que cuando usaba eso. Entonces, ya sé de antemano que nada me va a servir. Igual, porque soy masoquista, abro la primera bolsa... y ahí está toda mi ropa talle S que usé hasta hace cinco años. "No lo puedo creer, ¿cómo me entraba esta musculosita?", le grito a Muchacho, que se quiere matar por no haber llegado unos años antes. Pero como sabe que es mejor no avivar el fuego, desliza un mentiroso: "Creciste mi amor, no estás gorda, te cambió el cuerpo". No le creo nada, ni siquiera le presto atención y sigo sacando una daga tras otra."Noooo, ¿cómo me ponía este top azul de terciopelo? Era un gato"; ¿En qué momento se usó esta camisa color mostaza con espigas negras?"; "Mirá este pantalón de cuero tipo Shakira, con este no paraba de ganar". Una prenda tras otra merece un comentario. Una tarea que me podría haber llevado cinco minutos, me ocupa dos horas. Era abrir, mirar, donar. Pero no, se convirtió en abrir, mirar, asombrarme, probarme, entristecerme, reírme, volver a entristecerme. ¿Por qué mierda abrí esta bolsa?La llamo a una amiga que tiene hijas adolescentes. Le digo que se preparen porque les mando una ropa hermosa que ya no me entra ni en un pie. Me pregunta si no quiero quedarme con algo "por las dudas que bajés". Le explico que mi vida útil, mi cuerpo al menos, venció en el 2006, ahora soy un tonel sin forma y con el corazón estrujado. Me vuelvo a probar una camperita, le tengo ganas, me acuerdo que la gasté, era la elegida a diario... "Si bajo cinco kilos ésto me tiene que quedar perfecto", sueño en voz baja. Me miro en el espejo y confirmo que es una misión imposible. La vuelvo a guardar en la bolsa, que las chicas la aprovechen.Me voy a comprar ropa nueva. Tomo coraje y entro a un probador, aún sabiendo que me voy a tener que topar con una situación que me descontrola: la vendedora. Esta chica que cumple con todos los rituales que me molestan al pie de la letra. Parece que existe una academia de vendedoras que les enseñan tres únicas cosas: a decir negri cada dos segundos; a meterse en la intimidad de un probador ajeno y a mentir. Porque dale, no me podés decir que me queda divino un vestido que me apreta convirtiéndome en un matambre humano.Vendedora:A ver negri (corriendo la cortina sin permiso)... Te queda preciosoooooooooooo, es para vos. Justo, justo, justo.Capitana:No me queda precioso, me ajusta por todos lados.Vendedora:No negri, se usa así. Ayyyyyy ¡qué hermoso!Capitana:OK, gracias, ¿me dejás sola?Y ahí estoy otra vez en la intimidad del probador, siendo engañada como una niña. Porque como bien cuenta Muriel en este video, los espejos tienen algo. Yo me miro dentro de probador y me quiero llevar absolutamente todo. Me siento una diosa, creo que el vestido me queda pintado y termino pagando un precio desorbitante por algo que no lo vale. No importa, allá voy con mi bolsita, esperando una buena ocasión para estrenarlo y romperla. Pero claro, llego a mi casa, me lo pongo y vuelve la calabaza: no me queda como en el probador. El vestido es el mismo, mi cuerpo también, pero por una extraña razón la imagen no es la misma.Otra vez insulto al cielo por ser tan ilusa. ¿Cómo me dejé engañar así, si siempre me pasa lo mismo? No aprendo la lección y repito la misma frase de siempre: "A los espejos les ponen algo".Al final, la culpa de todo la tiene mi mamá, si ella no me hubiese traído las bolsas negras, todo esto no pasaba.
+Publicado por
+Capitana del Espacio
+en
+11:48
+20
+comentarios
+Etiquetas:
+Capitana,
+Familia,
+Me limaron
+jueves 2 de junio de 2011
+La abuela Kico, de shopping
+Publicado por
+Capitana del Espacio
+en
+00:08
+9
+comentarios
+Etiquetas:
+Abuela Kico
+viernes 20 de mayo de 2011
+Oda a la vida ♥
+ Una de las personas  más lindas que conozco tiene leucemia. Es mi amiga y la adoro, por eso  la confirmación del diagnóstico me corrió como un frío helado por el  cuerpo. Ya lo imaginábamos, pero eso no alivió el dolor. Para el ideario  colectivo, la palabra leucemia es sinónimo de muerte, pero para ella  no.Tuvo miedo, lloró y pataleó, se hizo bolita una y mil veces, pero no  se detuvo y se propuso contrariar a los prejuicios. “No me voy a morir,  tengo muchas cosas para hacer todavía”, me dijo una tarde que me notó  triste y preocupada. Porque ella es así, aún con tamaña mochila a  cuestas, se encarga de que nosotros no caigamos. Nosotros, los que  deberíamos apuntalarla a ella.   Es tan chiquita y tan  grande, que mientras nosotros nos preocupamos por pavadas y nos quejamos  porque “este resfrío me va a matar”, ella baila salsa en el living para  ponerle un poco de color a los efectos negativos que le deja la  quimioterapia. Es la misma que ya tiene gorritos lindos guardados por si  se le cae el pelo, la que canta con voz nasal mientras toca la  guitarra, la que está cansada pero no se detiene.   Ella es única y lo no  digo ahora porque “claro, todos los enfermos y los muertos son buenos”.  Lo digo desde hace años, cuando la elegí como amiga y cuando la elijo  como la madrina del hijo que algún día llegará (si es que ella acepta).  Porque es una rústica que cada tanto, te llama para darte los buenos  días o te manda un mensajito con una frase de Sabina que te cae en el  momento ideal. Porque no se preguntó: ¿me voy a morir de esto?" sino "¿cómo vivo con esto?" Porque su lucha enseña, porque es buena persona, porque  es un gigante escondido en un metro sesenta.
+Publicado por
+Capitana del Espacio
+en
+13:43
+21
+comentarios
+Etiquetas:
+amigos
+lunes 9 de mayo de 2011
+La herencia de la abuela Kico
+Me la prometió y cumplió, ahora debo responder con unos ricos fideitos caseros...Pastalinda traída de Italia, casi sin uso, ¿ideas para limpiarle el óxido?¡¡Ahora necesito recetas!!
+Publicado por
+Capitana del Espacio
+en
+16:06
+8
+comentarios
+Etiquetas:
+Abuela Kico
+miércoles 27 de abril de 2011
+¡Buenísimo!
+Creía que sólo lo hacían los "loquitos que integran la farándula" pero los casamientos fugaces, repentinos, llegaron a los barrios. Se trata de parejas que se forman como cualquier otra, pero con la particularidad que al mes de conocerse, ya están poniendo fecha de casamiento y planeando una gran fiesta.Hoy se casó Karina Olga Jelinek con un novio millonario que conoció en febrero. En enero lloraba porque su novio de entonces la había dejado, una semana después anunciaba la llegada de un nuevo amor. A los quince días le proponían matrimonio en pleno viaje al Caribe al mismo tiempo que le ofrecían un anillo de Tiffany´s valuado en 40.500 euros. Ahhh, ¿qué le contestó ante tamaño obsequio?El 20 de mayo se casan Nicolás Cabré y Eugenia Tobal. Los tórtolos arrancaron su relación en febrero, cuando arrancaron las grabaciones de Los Únicos. Ya tienen fecha y repartieron las invitaciones.Hace un rato me llama una amiga, que hace muchos años no tiene novio ni tiene mucho interés en casarse, para ser sinceros. Ni siquiera su voz risueña del otro lado del tubo me hizo sospechar:Amiga:Me caso, boluda.Capitana:¿Qué?Amiga:Que me caso, mi nuevo novio me propuso matrimonio.Capitana:Pero si recién lo conocés... Casi nadie de tu entorno lo conoce.Amiga:No importa, estoy feliz. Será una fiesta enorme, con más de trescientos invitados, en un lugar súper top. Nos juntamos y te cuento todo, ¿dale?¿Me pueden explicar alguien qué hago lavando los calzones de un tipo que ya me anticipó no se casará nunca conmigo? No voy a preguntar: ¿Qué hago mal? Ya me lo respondí solita en la oración/pregunta anterior.
+Publicado por
+Capitana del Espacio
+en
+22:19
+12
+comentarios
+Etiquetas:
+Capitana,
+muchacho en cuestión,
+Yo me quiero casar  y usted?
+Entradas antiguas
+Página principal
+Suscribirse a:
+Entradas (Atom)
+¡Ya está en las librerías!
+Un pequeño acto de justicia...
+Premio Oblogo!
+Gracias a todos por sus votos...
+Si tenés un ex en el zapato...
+Pisalo hasta destruirlo!!
+Viajan conmigo por el espacio...
+Mis visitantes
+Aquí la Capitana!
+Por Facebook:
+Capitana del espacio
+Por Twitter:@paoflorio
+Por mail:
+capitanitadelespacio@gmail.com
+¿Y ésta quién es?
+Ver todo mi perfil
+Archivo del blog
+▼ 
+2011
+(17)
+▼ 
+julio
+(2)
+Primera etapa: ¡cumplida!
+"No me saludes, gracias"
+          ► 
+junio
+(2)
+Tarde descontrolada...
+La abuela Kico, de shopping
+          ► 
+mayo
+(2)
+Oda a la vida ♥
+La herencia de la abuela Kico
+          ► 
+abril
+(4)
+¡Buenísimo!
+Paolina, la limpita (?)
+4 de abril
+¿Me devuelven mi infancia?
+          ► 
+marzo
+(3)
+Esperando EL llamado...
+La crisis: a un día de los 31
+A mal sueño... ¡mala cara!
+          ► 
+febrero
+(3)
+¿Ya se hizo la fulminante?
+Y al tercer año, resucitó entre los muertos...
+Concurso!!
+          ► 
+enero
+(1)
+Autobombo, ¿y qué?
+          ► 
+2010
+(95)
+          ► 
+diciembre
+(3)
+2011, el año del árbol....
+A pocas horas de la presentación del libro, mi pri...
+Se viene Matemos a los ex...
+          ► 
+noviembre
+(3)
+3 largos años...
+Adelanto de tapa: Matemos a los ex...
+El día más temido llegó...
+          ► 
+octubre
+(3)
+Miles de censista, ¿cuál me toca a mi?
+Kico, crítica literaria...
+¡Aprendan giles, HOY muchacho rulea!
+          ► 
+septiembre
+(3)
+Una postal no tan lejana...
+Ni se te ocurra abrir la boca...
+Un dulce...
+          ► 
+agosto
+(10)
+Qué triste...
+Cartón lleno...
+Malditos, ¡los odio!
+Por dos días locos...
+Pobre, ¿ya te la creíste?
+Un abogado por favor: necesito un recurso de ampar...
+No te subas las medias, la foto es 4x4...
+Sigue la fama, vuelven las encuestas (?)
+La abuela Kico piensa, siente y dice...
+¡La noticia de la semana!
+          ► 
+julio
+(13)
+Y llegó el día nomás...
+Ya aparecieron los primeros boludos...
+Crónica de una noche mediática...
+¡La Capitana es mediática!
+Nos vemos en agosto...
+Siempre del bando perdedor...
+A ver quién es un verdadero amigo...
+Despertame en diciembre...
+Pobre Muchacho...
+Despedida de soltera: ¡las imágenes!
+¿Desististe Capitana?
+          ► 
+junio
+(3)
+          ► 
+mayo
+(10)
+          ► 
+abril
+(13)
+          ► 
+marzo
+(9)
+          ► 
+febrero
+(12)
+          ► 
+enero
+(13)
+          ► 
+2009
+(132)
+          ► 
+diciembre
+(5)
+          ► 
+noviembre
+(8)
+          ► 
+octubre
+(10)
+          ► 
+septiembre
+(13)
+          ► 
+agosto
+(9)
+          ► 
+julio
+(15)
+          ► 
+junio
+(10)
+          ► 
+mayo
+(9)
+          ► 
+abril
+(14)
+          ► 
+marzo
+(10)
+          ► 
+febrero
+(15)
+          ► 
+enero
+(14)
+          ► 
+2008
+(109)
+          ► 
+diciembre
+(17)
+          ► 
+noviembre
+(15)
+          ► 
+octubre
+(15)
+          ► 
+septiembre
+(19)
+          ► 
+agosto
+(11)
+          ► 
+julio
+(13)
+          ► 
+junio
+(9)
+          ► 
+mayo
+(4)
+          ► 
+marzo
+(2)
+          ► 
+enero
+(4)
+          ► 
+2007
+(8)
+          ► 
+diciembre
+(3)
+          ► 
+noviembre
+(5)
+Dejaron su punto de vista...
+ Widget by Ayuda para Blog 
+Otro gran Capitán!
+Gracias al talento y la generosidad de Rami Argañaraz que diseñó ésta y todas las imágenes de mi blog. No dejen de visitarlo en: ww.ramirolamuestra.blogspot.com - www.polisemia-fotos.blogspot.com
+Mi mejor premio
+Gracias Enmascarado Briks
+Salió sin planearlo...
+Pero, ¿no soy parecida?
+Un gran premio
+Gracias Marina
+Premio mejor post del año!
+Gracias amiga!
+¿Perdonarías una infidelidad?
+Para todos, si te enterás que tu pareja asistió a uno de estos lugares vos...
+¿Sexo en la primera cita?
+¿Qué momento del día preferís para tener sexo?
+¿Los hombres deben depilarse sus partes íntimas?
+¿Qué depilado femenino prefieren?
+¿Vas al cabarulo?
+Para ellos, ¿Te importa la ropa interior?
+Para ellas, ¿qué ropa interior preferis? 
+¿De qué disfrazamos a la abuela Kico?
+Categoría 1- Voto positivo!
+Categoría 2- Votá para que se decida...
+Categoria 1: ¿Cuál te gusta más?
+Categoría 2: A ver si se animan a hacérselos...

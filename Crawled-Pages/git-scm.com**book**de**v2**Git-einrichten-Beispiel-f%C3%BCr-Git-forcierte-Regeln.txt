@@ -1,0 +1,545 @@
+        About
+            Branching and Merging
+            Small and Fast
+            Distributed
+            Data Assurance
+            Staging Area
+            Free and Open Source
+            Trademark
+        Documentation
+            Reference
+            Book
+            Videos
+            External Links
+        Downloads
+            GUI Clients
+            Logos
+        Community
+This book is available in
+  English.
+  Full translation available in
+    български език,
+    Deutsch,
+    Español,
+    Français,
+    Ελληνικά,
+    日本語,
+    한국어,
+    Nederlands,
+    Русский,
+    Slovenščina,
+    Tagalog,
+    Українська
+    简体中文,
+  Partial translations available in
+    Čeština,
+    Македонски,
+    Polski,
+    Српски,
+    Ўзбекча,
+    繁體中文,
+  Translations started for
+    azərbaycan dili,
+    Беларуская,
+    فارسی,
+    Indonesian,
+    Italiano,
+    Bahasa Melayu,
+    Português (Brasil),
+    Português (Portugal),
+    Svenska,
+    Türkçe.
+The source of this book is  hosted on GitHub.
+Patches, suggestions and comments are welcome.
+  Chapters ▾
+  1. Erste Schritte
+          1.1
+          Was ist Versionsverwaltung? 
+          1.2
+          Kurzer Überblick über die Historie von Git 
+          1.3
+          Was ist Git? 
+          1.4
+          Die Kommandozeile 
+          1.5
+          Git installieren 
+          1.6
+          Git Basis-Konfiguration 
+          1.7
+          Hilfe finden 
+          1.8
+          Zusammenfassung 
+  2. Git Grundlagen
+          2.1
+          Ein Git-Repository anlegen 
+          2.2
+          Änderungen nachverfolgen und im Repository speichern 
+          2.3
+          Anzeigen der Commit-Historie 
+          2.4
+          Ungewollte Änderungen rückgängig machen 
+          2.5
+          Mit Remotes arbeiten 
+          2.6
+          Taggen 
+          2.7
+          Git Aliases 
+          2.8
+          Zusammenfassung 
+  3. Git Branching
+          3.1
+          Branches auf einen Blick 
+          3.2
+          Einfaches Branching und Merging 
+          3.3
+          Branch-Management 
+          3.4
+          Branching-Workflows 
+          3.5
+          Remote-Branches 
+          3.6
+          Rebasing 
+          3.7
+          Zusammenfassung 
+  4. Git auf dem Server
+          4.1
+          Die Protokolle 
+          4.2
+          Git auf einem Server einrichten 
+          4.3
+          Erstellung eines SSH-Public-Keys 
+          4.4
+          Einrichten des Servers 
+          4.5
+          Git-Daemon 
+          4.6
+          Smart HTTP 
+          4.7
+          GitWeb 
+          4.8
+          GitLab 
+          4.9
+          Von Drittanbietern gehostete Optionen 
+          4.10
+          Zusammenfassung 
+  5. Verteiltes Git
+          5.1
+          Verteilter Arbeitsablauf 
+          5.2
+          An einem Projekt mitwirken 
+          5.3
+          Ein Projekt verwalten 
+          5.4
+          Zusammenfassung 
+  6. GitHub
+          6.1
+          Einrichten und Konfigurieren eines Kontos 
+          6.2
+          Mitwirken an einem Projekt 
+          6.3
+          Ein Projekt betreuen 
+          6.4
+          Verwalten einer Organisation 
+          6.5
+          Skripte mit GitHub 
+          6.6
+          Zusammenfassung 
+  7. Git Tools
+          7.1
+          Revisions-Auswahl 
+          7.2
+          Interaktives Stagen 
+          7.3
+          Stashen und Bereinigen 
+          7.4
+          Ihre Arbeit signieren 
+          7.5
+          Suchen 
+          7.6
+          Den Verlauf umschreiben 
+          7.7
+          Reset entzaubert 
+          7.8
+          Fortgeschrittenes Merging 
+          7.9
+          Rerere 
+          7.10
+          Debuggen mit Git 
+          7.11
+          Submodule 
+          7.12
+          Bundling 
+          7.13
+          Replace (Ersetzen) 
+          7.14
+          Anmeldeinformationen speichern 
+          7.15
+          Zusammenfassung 
+  8. Git einrichten
+          8.1
+          Git Konfiguration 
+          8.2
+          Git-Attribute 
+          8.3
+          Git Hooks 
+          8.4
+          Beispiel für Git-forcierte Regeln 
+          8.5
+          Zusammenfassung 
+  9. Git und andere Systeme
+          9.1
+          Git als Client 
+          9.2
+          Migration zu Git 
+          9.3
+          Zusammenfassung 
+  10. Git Interna
+          10.1
+          Basisbefehle und Standardbefehle (Plumbing and Porcelain) 
+          10.2
+          Git Objekte 
+          10.3
+          Git Referenzen 
+          10.4
+          Packdateien (engl. Packfiles) 
+          10.5
+          Die Referenzspezifikation (engl. Refspec) 
+          10.6
+          Transfer Protokolle 
+          10.7
+          Wartung und Datenwiederherstellung 
+          10.8
+          Zusammenfassung 
+  A1. Appendix A: Git in anderen Umgebungen
+          A1.1
+          Grafische Schnittstellen 
+          A1.2
+          Git in Visual Studio 
+          A1.3
+          Git in Visual Studio Code 
+          A1.4
+          Git in Eclipse 
+          A1.5
+          Git in IntelliJ / PyCharm / WebStorm / PhpStorm / RubyMine 
+          A1.6
+          Git in Sublime Text 
+          A1.7
+          Git in Bash 
+          A1.8
+          Git in Zsh 
+          A1.9
+          Git in PowerShell 
+          A1.10
+          Zusammenfassung 
+  A2. Appendix B: Git in Ihre Anwendungen einbetten
+          A2.1
+          Die Git-Kommandozeile 
+          A2.2
+          Libgit2 
+          A2.3
+          JGit 
+          A2.4
+          go-git 
+          A2.5
+          Dulwich 
+  A3. Appendix C: Git Kommandos
+          A3.1
+          Setup und Konfiguration 
+          A3.2
+          Projekte importieren und erstellen 
+          A3.3
+          Einfache Snapshot-Funktionen 
+          A3.4
+          Branching und Merging 
+          A3.5
+          Projekte gemeinsam nutzen und aktualisieren 
+          A3.6
+          Kontrollieren und Vergleichen 
+          A3.7
+          Debugging 
+          A3.8
+          Patchen bzw. Fehlerkorrektur 
+          A3.9
+          E-mails 
+          A3.10
+          Externe Systeme 
+          A3.11
+          Administration 
+          A3.12
+          Basisbefehle 
+      2nd Edition
+    8.4 Git einrichten - Beispiel für Git-forcierte Regeln
+Beispiel für Git-forcierte Regeln
+In diesem Abschnitt werden Sie das Erlernte nutzen, um einen Git-Workflow einzurichten, der ein benutzerdefiniertes Commit-Beschreibungs-Format prüft und nur bestimmten Benutzern erlaubt, ausgewählte Unterverzeichnisse in einem Projekt zu ändern.
+Sie erstellen Client-Skripte, die den Entwickler erkennen lassen, ob ihr Push abgelehnt wird, ebenso wie Server-Skripte, die die Einhaltung der Richtlinien erzwingen.
+Die hier vorgestellten Skripte sind in Ruby geschrieben, teils wegen unserer geistigen Trägheit, teils aber auch weil Ruby leicht zu lesen ist – auch wenn man es nicht unbedingt selbst schreiben kann.
+Allerdings kann jede beliebige Programmiersprache verwendet werden. Alle mit Git vertriebenen Beispiel-Hook-Skripte sind entweder in Perl oder Bash verfasst. Sie können daher viele Beispiele für Hooks in diesen Sprachen verstehen, wenn Sie sich die Beispiele ansehen.
+Serverseitiger Hook
+Die gesamte serverseitige Arbeit wird in die update Datei in Ihrem hooks Verzeichnis übernommen.
+Der update Hook läuft einmal pro gepushtem Branch und benötigt drei Argumente:
+Der Name der Referenz, zu der gepusht wird
+Die frühere Version, in der sich dieser Branch befindet
+Die neue Version, die gepusht werden soll
+Wenn der Push über SSH ausgeführt wird, haben Sie auch Zugriff auf den Benutzer, der den Push durchführt.
+Auch wenn Sie es jedem erlaubt haben, sich mit einem bestimmten Benutzer (z.B. „git“) über die Public-Key-Authentifizierung zu verbinden, müssen Sie diesem Benutzer möglicherweise einen Shell-Wrapper zur Verfügung stellen, der anhand des öffentlichen Schlüssels ermittelt, welcher Benutzer sich verbindet, und eine entsprechende Umgebungsvariable festlegen.
+Hier gehen wir davon aus, dass sich der verbindende Benutzer in der Umgebungsvariablen $USER befindet, so dass Ihr Update-Skript mit dem Sammeln aller benötigten Informationen beginnt:
+#!/usr/bin/env ruby
+$refname = ARGV[0]
+$oldrev  = ARGV[1]
+$newrev  = ARGV[2]
+$user    = ENV['USER']
+puts "Enforcing Policies..."
+puts "(#{$refname}) (#{$oldrev[0,6]}) (#{$newrev[0,6]})"
+Ja, das sind globale Variablen.
+Bewerten Sie es nicht – es ist auf diese Weise leichter zu demonstrieren.
+Ein bestimmtes Commit-Message-Format erzwingen
+Ihre erste Herausforderung besteht darin, die Einhaltung eines bestimmten Formats für jede Commit-Nachricht durchzusetzen.
+Nur um ein Ziel zu haben, gehen Sie davon aus, dass jede Nachricht eine Zeichenkette enthalten muss, die wie „ref: 1234“ aussieht, weil Sie möchten, dass jeder Commit auf einen Arbeitsschritt in Ihrem Ticketing-System verweist.
+Sie müssen sich jeden Commit ansehen, der gepusht wird, um nachzusehen, ob sich diese Zeichenkette in der Commit-Beschreibung befindet und falls die Zeichenkette bei einem der Commits fehlt, mit einem Exit-Status ungleich Null, wird der Push abgelehnt.
+Sie können eine Liste der SHA-1-Werte aller Commits erhalten, die verschoben werden, indem Sie die Werte $newrev und $oldrev verwenden und sie an das Git-Basiskommando (engl. Plumbing Command) git rev-list übergeben.
+Das ist im Grunde genommen der Befehl git log, der aber standardmäßig nur die SHA-1-Werte und keine anderen Informationen ausgibt.
+Um also eine Liste aller Commit SHA-1-en zu erhalten, die zwischen zwei verschiedenen Commit SHA-1 liegen, kkönnen Sie etwa so vorgehen:
+$ git rev-list 538c33..d14fc7
+d14fc7c847ab946ec39590d87783c69b031bdfb7
+9f585da4401b0a3999e84113824d15245c13f0be
+234071a1be950e2a8d078e6141f5cd20c1e61ad3
+dfa04c9ef3d5197182f13fb5b9b1fb7717d2222a
+17716ec0f1ff5c77eff40b7fe912f9f6cfd0e475
+Sie können diese Ausgabe nehmen, jeden dieser Commit SHA-1s durchlaufen, die Beschreibung dafür abgreifen und diese Beschreibung gegen einen regulären Ausdruck testen, der nach einem Zeichen-Muster sucht.
+Sie müssen sich überlegen, wie Sie die Commit-Beschreibung von jedem dieser Commits zum Testen erhalten.
+Um die unformatierten Commit-Daten zu ermitteln, können Sie ein anderes Basiskommando namens git cat-file verwenden.
+Wir werden alle diese Basiskommandos in Kapitel 10, Git Interna im Detail betrachten – aber vorerst gibt Ihnen dieser Befehl Folgendes aus:
+$ git cat-file commit ca82a6
+tree cfda3bf379e4f8dba8717dee55aab78aef7f4daf
+parent 085bb3bcb608e1e8451d4b2432f8ecbe6306e7e7
+author Scott Chacon &lt;schacon@gmail.com&gt; 1205815931 -0700
+committer Scott Chacon &lt;schacon@gmail.com&gt; 1240030591 -0700
+Change the version number
+Wenn Sie den SHA-1-Wert kennen ist es einfach die Commit-Beschreibung eines Commits zu erhalten. Gehen Sie in die erste leere Zeile und übernehmen alles danach.
+Auf Unix-Systemen können Sie mit dem sed Befehl arbeiten:
+$ git cat-file commit ca82a6 | sed '1,/^$/d'
+Change the version number
+Sie können auf diese Weise die Commit-Beschreibung von jedem Commit, der gepusht werden soll, übernehmen und mit einem Exit-Code ungleich Null beenden, wenn Sie etwas finden, das nicht übereinstimmt.
+Um das Skript zu verlassen und den Push abzulehnen, verlassen Sie das Skript mit ungleich Null.
+Die gesamte Methode sieht dann so aus:
+$regex = /\[ref: (\d+)\]/
+# enforced custom commit message format
+def check_message_format
+  missed_revs = `git rev-list #{$oldrev}..#{$newrev}`.split("\n")
+  missed_revs.each do |rev|
+    message = `git cat-file commit #{rev} | sed '1,/^$/d'`
+    if !$regex.match(message)
+      puts "[POLICY] Your message is not formatted correctly"
+      exit 1
+    end
+  end
+end
+check_message_format
+Wenn Sie das in Ihr update Skript einfügen, werden Updates mit Commit-Beschreibungen, die nicht Ihrer Regel entsprechen, abgelehnt.
+Ein benutzerbasiertes ACL-System einrichten
+Angenommen, Sie möchten einen Prozess hinzufügen, der eine Zugriffskontrollliste (ACL) verwendet, die festlegt, welche Benutzer Änderungen an welchen Teilen Ihrer Projekte vornehmen dürfen.
+Einige Personen haben vollen Zugriff, andere können Änderungen nur zu bestimmten Unterverzeichnissen oder bestimmten Dateien pushen.
+Um das zu erreichen, müssen Sie diese Regeln in eine acl Datei schreiben, die in Ihrem blanken Git-Repository auf dem Server liegt.
+Mit dem update Hook können Sie diese Regeln prüfen. Sie können feststellen, welche Dateien für die zu übertragenden Commits eingeführt werden und entscheiden, ob der Benutzer, der den Push durchführt, Zugriff hat, um diese Dateien zu aktualisieren.
+Zuerst müssen Sie Ihre ACL-Datei erstellen.
+Hier verwenden Sie ein Format ähnlich dem CVS ACL-Mechanismus: Es verwendet eine Reihe von Zeilen, wobei das erste Feld avail (verfügbar) oder unavail (nicht verfügbar) ist. Das nächste Feld ist eine kommagetrennte Liste der gültigen Benutzer und das letzte Feld ist der Pfad, für den die Regel gilt (blank bedeutet Open Access).
+Alle diese Felder werden durch ein Pipe-Zeichen (|) getrennt.
+In diesem Beispiel haben Sie ein Reihe von Administratoren, einige Dokumentations-Autoren mit Zugriff auf das doc Verzeichnis und einen Entwickler, der nur Zugriff auf die Verzeichnisse lib und tests hat. Ihre ACL-Datei sieht dann wie folgt aus:
+avail|nickh,pjhyett,defunkt,tpw
+avail|usinclair,cdickens,ebronte|doc
+avail|schacon|lib
+avail|schacon|tests
+Sie beginnen damit, diese Daten in eine Struktur zu übernehmen, die Sie verwenden können.
+In diesem Beispiel werden Sie, um das Beispiel einfach zu halten, nur die avail Anweisungen einführen.
+Hier folgt eine Methode, die Ihnen ein assoziatives Array liefert, wobei der Schlüssel der Benutzername und der Wert ein Array von Pfaden ist, auf die der Benutzer Schreibzugriff hat:
+def get_acl_access_data(acl_file)
+  # read in ACL data
+  acl_file = File.read(acl_file).split("\n").reject { |line| line == '' }
+  access = {}
+  acl_file.each do |line|
+    avail, users, path = line.split('|')
+    next unless avail == 'avail'
+    users.split(',').each do |user|
+      access[user] ||= []
+      access[user] &lt;&lt; path
+    end
+  end
+  access
+end
+In der zuvor angesehenen ACL-Datei gibt die get_acl_access_data Methode eine Datenstruktur zurück, die wie folgt aussieht:
+{"defunkt"=&gt;[nil],
+ "tpw"=&gt;[nil],
+ "nickh"=&gt;[nil],
+ "pjhyett"=&gt;[nil],
+ "schacon"=&gt;["lib", "tests"],
+ "cdickens"=&gt;["doc"],
+ "usinclair"=&gt;["doc"],
+ "ebronte"=&gt;["doc"]}
+Nachdem Sie nun die Berechtigungen geklärt haben, müssen Sie ermitteln, welche Pfade die gepushten Commits geändert haben. So können Sie sicherstellen, dass der Benutzer, der gepusht hat, Zugriff auf alle diese Pfade erhält.
+Mit der Option --name-only des git log Befehls können Sie relativ einfach sehen, welche Dateien in einem einzelnen Commit geändert wurden (wurde in Kapitel 2, Git Grundlagen kurz erwähnt):
+$ git log -1 --name-only --pretty=format:'' 9f585d
+README
+lib/test.rb
+Wenn Sie die verwendete ACL-Struktur, die von der get_acl_access_data Methode zurückgegeben wird, mit den aufgelisteten Dateien in jedem der Commits vergleichen, können Sie feststellen, ob der Benutzer die Berechtigung hat, um alle seine Commits zu pushen:
+# only allows certain users to modify certain subdirectories in a project
+def check_directory_perms
+  access = get_acl_access_data('acl')
+  # see if anyone is trying to push something they can't
+  new_commits = `git rev-list #{$oldrev}..#{$newrev}`.split("\n")
+  new_commits.each do |rev|
+    files_modified = `git log -1 --name-only --pretty=format:'' #{rev}`.split("\n")
+    files_modified.each do |path|
+      next if path.size == 0
+      has_file_access = false
+      access[$user].each do |access_path|
+        if !access_path  # user has access to everything
+           || (path.start_with? access_path) # access to this path
+          has_file_access = true
+        end
+      end
+      if !has_file_access
+        puts "[POLICY] You do not have access to push to #{path}"
+        exit 1
+      end
+    end
+  end
+end
+check_directory_perms
+Sie erhalten eine Liste der neuen Commits, die mit git rev-list auf Ihren Server gepusht werden.
+Dann stellen Sie für jeden dieser Commits fest, welche der Dateien geändert werden sollen und stellen sicher, dass der Benutzer, der den Push ausführt, Zugriff auf alle zu ändernden Pfade hat.
+Jetzt können Ihre Benutzer keine Commits mit schlecht strukturierten Beschreibungen oder mit modifizierten Dateien außerhalb der zugewiesenen Pfade pushen.
+Austesten
+Wenn Sie chmod u+x.git/hooks/update ausführen, auf der Datei, in die Sie diesen Code hätten einfügen sollen, und dann versuchen, ein Commit mit einer nicht konformen Beschreibung zu senden, dann erhalten Sie etwa das hier:
+$ git push -f origin master
+Counting objects: 5, done.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 323 bytes, done.
+Total 3 (delta 1), reused 0 (delta 0)
+Unpacking objects: 100% (3/3), done.
+Enforcing Policies...
+(refs/heads/master) (8338c5) (c5b616)
+[POLICY] Your message is not formatted correctly
+error: hooks/update exited with error code 1
+error: hook declined to update refs/heads/master
+To git@gitserver:project.git
+ ! [remote rejected] master -&gt; master (hook declined)
+error: failed to push some refs to 'git@gitserver:project.git'
+Hier sind noch ein paar interessante Details zu finden.
+Erstens, erkennen Sie die Position, an der der Hook startet.
+Enforcing Policies...
+(refs/heads/master) (fb8c72) (c56860)
+Denken Sie daran, dass das ganz am Anfang Ihres Update-Skripts ausgegeben wird.
+Alles, was Ihr Skript an stdout weitergibt, wird an den Client übertragen.
+Das nächste, was Sie beachten sollten, ist die Fehlermeldung.
+[POLICY] Your message is not formatted correctly
+error: hooks/update exited with error code 1
+error: hook declined to update refs/heads/master
+Die erste Zeile wurde von Ihnen, die anderen beiden wurden von Git ausgegeben, die Ihnen mitteilten, dass das Update-Skript ungleich Null beendet wurde. Das war es, was Ihren Push verneint hat.
+Zum Schluss noch Folgendes:
+To git@gitserver:project.git
+ ! [remote rejected] master -&gt; master (hook declined)
+error: failed to push some refs to 'git@gitserver:project.git'
+Sie werden eine Nachricht des Remote für jede Referenz erhalten, die von Ihrem Hook abgelehnt wurde. Sie zeigt Ihnen an, dass sie speziell wegen eines Hook-Fehlers abgelehnt wurde.
+Wenn außerdem jemand versucht, eine Datei, auf die er keinen Zugriff hat, zu bearbeiten und einen Commit damit pusht, dann wird er etwas Ähnliches sehen.
+Versucht ein Dokumentations-Autor zum Beispiel, einen Commit zu pushen, indem er etwas im lib Verzeichnis ändert, wird ihm folgendes angezeigt:
+[POLICY] You do not have access to push to lib/test.rb
+Von jetzt an, solange dieses update Skript verfügbar und ausführbar ist, wird Ihr Repository nie eine Commit-Beschreibung ohne Ihr eigenes Schema haben, und Ihre Benutzer werden in einer „Sandbox“ eingeschlossen sein.
+Clientseitige Hooks
+Der Nachteil dieses Konzepts ist das Gejammer, das unweigerlich entsteht, wenn die Commit-Pushes Ihrer Benutzer abgelehnt werden.
+Die Tatsache, dass die sorgfältig gestalteten Arbeiten in letzter Minute abgelehnt werden, kann äußerst frustrierend und irritierend sein. Darüber hinaus müssen sie ihre Verlaufsdaten bearbeiten, um sie zu korrigieren, was nicht unbedingt etwas für schwache Nerven ist.
+Die Antwort auf dieses Dilemma ist, einige clientseitige Hooks bereitzustellen, die Benutzer ausführen können, um sie darüber zu informieren, dass sie etwas unternehmen, das der Server wahrscheinlich ablehnen wird.
+Auf diese Weise können sie mögliche Probleme vor dem Commit klären, bevor es schwieriger wird sie zu beheben.
+Da Hooks nicht mit einem Klon eines Projekts übertragen werden, müssen Sie diese Skripte auf andere Weise bereitstellen. Dann müssen Ihre Benutzer sie in ihr  .git/hooks Verzeichnis kopieren und sie ausführbar machen.
+Sie können diese Hooks innerhalb des Projekts oder in einem separaten Projekt weitergeben, aber Git wird sie nicht automatisch einrichten.
+Am Anfang sollten Sie Ihre Commit-Beschreibung kurz vor jeder Übertragung überprüfen, damit Sie sich sicher sind, dass der Server Ihre Änderungen nicht aufgrund schlecht formatierter Commit-Beschreibungen ablehnt.
+Dazu können Sie den commit-msg Hook hinzufügen.
+Wenn Sie die Nachricht aus der als erstes Argument übergebenen Datei lesen und mit dem Patternmuster vergleichen lassen, können Sie Git zwingen, die Übertragung abzubrechen, wenn es keine Übereinstimmung gibt:
+#!/usr/bin/env ruby
+message_file = ARGV[0]
+message = File.read(message_file)
+$regex = /\[ref: (\d+)\]/
+if !$regex.match(message)
+  puts "[POLICY] Your message is not formatted correctly"
+  exit 1
+end
+Wenn dieses Skript (in .git/hooks/commit-msg) vorhanden und ausführbar ist und Sie mit einer Beschreibung committen, die nicht korrekt formatiert ist, sehen Sie das hier:
+$ git commit -am 'Test'
+[POLICY] Your message is not formatted correctly
+In diesem Fall wurde kein Commit durchgeführt.
+Wenn Ihre Beschreibung jedoch das richtige Muster enthält, erlaubt Ihnen Git die Übertragung:
+$ git commit -am 'Test [ref: 132]'
+[master e05c914] Test [ref: 132]
+ 1 file changed, 1 insertions(+), 0 deletions(-)
+Als nächstes sollten Sie sicherstellen, dass Sie keine Dateien ändern, die sich außerhalb Ihres ACL-Bereichs befinden.
+Wenn das .git Verzeichnis Ihres Projekts eine Kopie der ACL-Datei enthält, die Sie zuvor verwendet haben, dann wird das folgende pre-commit Skript diese Einschränkungen für Sie durchsetzen:
+#!/usr/bin/env ruby
+$user    = ENV['USER']
+# [ insert acl_access_data method from above ]
+# only allows certain users to modify certain subdirectories in a project
+def check_directory_perms
+  access = get_acl_access_data('.git/acl')
+  files_modified = `git diff-index --cached --name-only HEAD`.split("\n")
+  files_modified.each do |path|
+    next if path.size == 0
+    has_file_access = false
+    access[$user].each do |access_path|
+    if !access_path || (path.index(access_path) == 0)
+      has_file_access = true
+    end
+    if !has_file_access
+      puts "[POLICY] You do not have access to push to #{path}"
+      exit 1
+    end
+  end
+end
+check_directory_perms
+Das ist ungefähr das gleiche Skript wie der serverseitige Teil, allerdings mit zwei wichtigen Unterschieden.
+Erstens befindet sich die ACL-Datei an einer anderen Stelle, da dieses Skript aus Ihrem Arbeitsverzeichnis und nicht aus Ihrem .git Verzeichnis läuft.
+Sie müssen den Pfad zur ACL-Datei ändern, von
+access = get_acl_access_data('acl')
+zu:
+access = get_acl_access_data('.git/acl')
+Der andere wichtige Unterschied ist die Art und Weise, wie Sie eine Liste der Dateien erhalten, die geändert wurden.
+Da die serverseitige Methode das Protokoll der Commits betrachtet und der Commit an dieser Stelle noch nicht aufgezeichnet wurde, müssen Sie stattdessen Ihre Dateiliste aus dem Staging-Area holen.
+Anstelle von
+files_modified = `git log -1 --name-only --pretty=format:'' #{ref}`
+müssen Sie das benutzen:
+files_modified = `git diff-index --cached --name-only HEAD`
+Aber das sind die einzigen beiden Unterschiede – ansonsten funktioniert das Skript wie gehabt.
+Ein Nachteil ist, dass es erwartet, dass Sie lokal mit dem gleichen Benutzer arbeiten, den Sie auf dem Remotesystem verwenden.
+Wenn das anders ist, müssen Sie die Variable $user manuell setzen.
+Außerdem können wir hier sicherstellen, dass der Benutzer keine „non-fast-forwarded“ Referenzen pusht.
+Um eine Referenz zu erhalten, die kein „fast-forward“ ist, müssen Sie entweder über einen Commit hinaus rebasieren, den Sie bereits hochgeladen haben oder versuchen, einen anderen lokalen Branch auf den gleichen Remote-Branch zu pushen.
+Wahrscheinlich ist der Server bereits mit receive.denyDeletes und receive.denyNonFastForwards konfiguriert, um diese Richtlinie zu erzwingen. Somit ist die einzige unbeabsichtigte Aktion, die sie abfangen können ein Rebase-Commit, welcher bereits gepusht wurde.
+Hier folgt ein Beispiel für ein Pre-Rebase-Skript, das das überprüft.
+Es erhält eine Liste aller Commits, die Sie gerade neu schreiben wollen, und prüft, ob sie in einer Ihrer Remote-Referenzen vorhanden sind.
+Wenn es einen findet, der von einer Ihrer Remote-Referenzen aus erreichbar ist, bricht es den Rebase ab.
+#!/usr/bin/env ruby
+base_branch = ARGV[0]
+if ARGV[1]
+  topic_branch = ARGV[1]
+else
+  topic_branch = "HEAD"
+end
+target_shas = `git rev-list #{base_branch}..#{topic_branch}`.split("\n")
+remote_refs = `git branch -r`.split("\n").map { |r| r.strip }
+target_shas.each do |sha|
+  remote_refs.each do |remote_ref|
+    shas_pushed = `git rev-list ^#{sha}^@ refs/remotes/#{remote_ref}`
+    if shas_pushed.split("\n").include?(sha)
+      puts "[POLICY] Commit #{sha} has already been pushed to #{remote_ref}"
+      exit 1
+    end
+  end
+end
+Dieses Skript verwendet eine Syntax, die in Kapitel 7, Revisions-Auswahl nicht behandelt wurde.
+Sie erhalten eine Liste der Commits, die bereits gepusht wurden, wenn Sie diese Anweisung aufrufen:
+`git rev-list ^#{sha}^@ refs/remotes/#{remote_ref}`
+Die SHA^@ Syntax löst alle Vorgänger (engl. parents) dieses Commits auf.
+Sie suchen nach jedem Commit, der vom letzten Commit auf dem Remote aus erreichbar ist und der von keinem Parent einer der SHA-1s, die Sie hochladen möchten, erreichbar ist – was bedeutet, dass es ein „fast-forward“ ist.
+Der größte Nachteil dieses Ansatzes ist, dass er sehr langsam sein kann und oft unnötig ist – wenn Sie nicht versuchen, den Push mit -f zu erzwingen, wird der Server Sie warnen und den Push nicht akzeptieren.
+Es ist aber ein interessanter Test und kann Ihnen theoretisch helfen, einen Rebase zu vermeiden, den Sie später vielleicht wieder zurücknehmen und reparieren müssen.
+prev | next
+    About this site
+    Patches, suggestions, and comments are welcome.
+    Git is a member of Software Freedom Conservancy

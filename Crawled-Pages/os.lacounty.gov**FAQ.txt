@@ -1,0 +1,277 @@
+/* GOOGLE TRANSLATE */
+#google_translate_element {
+  /*position: relative;*/
+  top: calc (10px + 10px);
+  right: 10px!important;
+}
+.goog-te-gadget {
+  font-family: 'Open Sans', sans-serif;
+  text-transform: uppercase;
+}
+.goog-te-gadget-simple, .goog-te-gadget-simple:hover, .goog-te-gadget-simple:active, .goog-te-gadget-simple:visited   {
+  background-color: rgba(255,255,255,0.20)!important;
+  border: 1px solid #777777 !important;
+  padding: 8px!important;
+  border-radius: 4px!important;
+  font-size: 1rem!important;
+  line-height:1.6rem!important;
+  display: inline-block;
+  cursor: pointer;
+  zoom: 1;
+}
+/*
+.goog-te-gadget-icon {
+    background-image: url("https://translate.googleapis.com/translate_static/img/te_ctrl3.gif");
+}
+*/
+/*
+.goog-te-menu2 {
+  max-width: 100%;
+}
+*/
+/*
+.goog-te-menu-value {
+    color: #000000 !important;
+    &:before {
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    content: "\E927";
+    margin-right: 16px;
+    font-size: 2rem;
+    vertical-align: -10px;
+  } 
+}
+*/
+.goog-te-menu-value span:nth-child(5) {
+  display:none;
+}
+.goog-te-menu-value span:nth-child(3) {
+  border:none!important;
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+  /*
+  &:after {
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    content: "\E5C5";
+    font-size: 1.5rem;
+    vertical-align: -6px;
+  } 
+  */
+}
+.goog-te-menu-frame:first {
+    background-image: url("https://translate.googleapis.com/translate_static/img/te_ctrl3.gif");            
+    background-position: -65px 0px;
+}
+/* ============ HIDE TOP BAR ============ */
+.goog-te-banner-frame.skiptranslate {display: none!important;} 
+body {top: 0px!important;}
+/* ================================== *\
+    Mediaqueries
+\* ================================== */
+/* */
+@media (max-width: 667px) {
+    #google_translate_element {
+        bottom: calc(100% - 50% - 53px);
+        left: 16px!important;
+        width: 100%!important;
+        goog-te-gadget {
+            width:100%!important;
+        }
+        .skiptranslate {
+            width:100%!important;           
+        }
+        .goog-te-gadget-simple {
+            width: calc(100% - 32px)!important;
+            text-align: center;
+        }   
+    }
+}
+      Call Us : (213) 974-1411 
+      Email Us : executiveoffice@bos.lacounty.gov 
+            |
+    Login
+    GO
+Home
+Board Meeting
+Board Agendas
+Live Broadcast
+Statement of Proceedings/Minutes
+Public Hearings
+Services
+Assessment Appeals
+Board Members and Hearing Officers
+Public Education Program
+FAQ
+Assessment Appeals Information
+Tax Agent Registration
+Commission Services
+Membership Roster
+FAQ
+Our Commissions
+Event Information
+Conflict of Interest/ Lobbyist
+Lobbyist Information
+Statement of Economic Interest
+LACERA Election
+FAQ
+Postgovernment Information
+Customer Service Center
+Kids Corner
+Workstations/Kiosks
+Records Search
+Forms
+About Us
+Board of Supervisors
+Executive Office of the Board
+A note from the Executive Officer
+FAQ
+X
+    HomeBoard MeetingBoard AgendasLive BroadcastStatement of Proceedings/MinutesPublic HearingsServicesAssessment AppealsBoard Members and Hearing OfficersPublic Education ProgramFAQAssessment Appeals InformationTax Agent RegistrationCommission ServicesMembership RosterFAQOur CommissionsEvent InformationConflict of Interest/ LobbyistLobbyist InformationStatement of Economic InterestLACERA ElectionFAQPostgovernment InformationCustomer Service CenterKids CornerWorkstations/KiosksRecords SearchFormsAbout UsBoard of SupervisorsExecutive Office of the BoardA note from the Executive OfficerFAQ
+    GO
+          |
+    Login
+Frequently Asked Questions
+If you have any questions, please contact us. We will respond to you as soon as possible
+    F
+    AAB
+    Frequently Asked Questions 
+    A
+    Board Meeting
+    Frequently Asked Questions 
+    Q
+    Commission Services
+    Frequently Asked Questions 
+    ?
+    COI / Lobbyist
+    Frequently Asked Questions 
+One More Question?
+Customer Service Center
+Kenneth Hahn
+Hall of Administration
+500 W. Temple St, Ste 383
+Los Angeles, CA 90012
+ (213) 974-1411
+EMail US
+             1. I want to attend the Board meeting. Where can I park? 
+            There are several accessible parking structures near the Kenneth Hahn Hall of Administration.  Following are the locations and fees:
+Music Center Garage - Auto Park 14
+135 North Grand Avenue, Los Angeles
+Fee: $3.50 every 15 minutes; $20 maximum
+Additional Information
+Cathedral of Our Lady of the Angels 
+555 West Temple Street, Los Angeles
+Fee: 5:30 a.m. – 8:00 p.m. is $4 every 15 minutes; $22 maximum
+After 4:00 p.m. flat rate of $10
+Additional Information
+Auto Park 29
+313 North Figueroa, Los Angeles
+Fee: $1.25 every 20 minutes; $8 maximum.
+Auto Park 10
+145 N. Broadway (entrance Broadway or Hill Street)
+Fee: $3.50 every 15 minutes; $20 maximum
+             2. Is there a charge for obtaining copies of the Board of Supervisors' records? 
+            Yes.  The charge is $1.17 handling fee and 3 cents per page.
+             3. How do I file a Crime Information Reward Claim? 
+            DO NOT WAIT FOR AN ARREST OR CONVICTION.  Submit a written claim for a reward to the Executive Office of the Board or Supervisors within 60 days after the expiration of the period to provide information.  For information call (213) 974-1579 or visit the Rewards Page.
+             4. Is the Los Angeles County Code available to the public? 
+            Yes, the County Code is available at: http://ordlink.com/codes/lacounty/index.htm
+             5. What is an "unincorporated area"? 
+            There are 88 cities within Los Angeles County within distinct boundaries.  Those areas that are not within a city's boundaries are referred to as "unincorporated" and the County is responsible for municipal services to those areas.
+             6. How do I find out about specific laws and regulations governing unincorporated Los Angeles County? 
+            Log onto the Los Angeles County Code online at: http://ordlink.com/codes/lacounty/index.htm or call (213) 974-1426.
+             7. How do I find out about events and entertainment taking place in a Los Angeles County venue? 
+            Log onto the following websites: 
+Arts Commission: http://www.lacountyarts.org/
+Events Calendar: http://bos.co.la.ca.us/calendar
+Ford Theatre: http://www.fordamphitheater.org
+Hollywood Bowl: http://www.hollywoodbowl.com/
+Los Angeles County Museum of Art: http://www.lacma.org/
+Museum of Natural History: http://www.nhm.org/
+Music Center: http://www.musiccenter.org/cal/events/
+Walt Disney Concert Hall: http://wdch.laphil.com/
+             8. I am having a special event and would like to hire a musician or musical group. Can the Arts Commission recommend some musicians to me? 
+            Musicians and musical groups can be found by logging onto www.lacountyarts.org/opportunities/musicians-roster.  Choose the style of music that you like, and a photo, contact information and write-up of musicians that play that style of music appears.  Click on the icon with the two musical notes to hear a music sample.
+             9. I am an ex-offender. Where can I get a job? 
+            Call (213) 974-8398 for information on the Countywide Criminal Justice Coordinating Committee's quarterly job and health fair for ex-offenders. You may also want to call:  Non-Profit Organization: (323) 238-0445 California Rehabilitation Employment Program: (323) 223-2315.  To check for Los Angeles County job opportunities, log onto: http://hr.lacounty.gov
+             10. Where can I file for State Disability Insurance? 
+            Call 1-800-480-3287 or log onto: www.edd.ca.gov
+             11. Where can I get a Disability placard? 
+            Call 1-800-777-0133 or log onto: www.dmv.ca.gov
+             12. Where can I get a fishing license? 
+            You can pay for a fishing license at any sporting goods store in California.  For more information, call the California Department of Fish and Game at (858) 467-4210 or log onto: http://dfg.ca.gov
+             13. What is the purpose of the HIV Commission, and does the Commission provide services? 
+            The HIV Commission assesses needs, sets priorities and allocates federal funds for the Ryan White CARE Act for Los Angeles County.  For more information, log onto: hiv.lacounty.gov. Call (213) 738-2816 for meeting information. The HIV Commission does not provide services.
+             14. Where can I get emergency housing? 
+            Call 211 for referrals to emergency housing.  (The TTY phone number for the hearing impaired is 1-800-660-4026.)  "211 Los Angeles County" is available 24 hours a day, 7 days a week.  For more information, log onto: https://www.211la.org
+             15. I am the victim of Real Estate Fraud. Who do I contact? 
+            Contact the Real Estate Fraud Section of Consumer Affairs at (800) 973-3370. For more information log onto: http://dca.lacounty.gov  
+             16. How do I apply for a job with Los Angeles County? 
+            Call the Department of Human Resources Hotline at 1-800-970-5478 or log onto http://hr.lacounty.gov
+             17. Is there a central location where I can get general information about the County? 
+            Call (213) 974-1311 or log onto http://www.lacounty.info
+             18. Is the Citizen's Guide to County Services on-line? 
+            Yes.  Log onto: http://hr.lacounty.gov
+             19. How do I get a copy of a birth certificate, death certificate, or marriage license? 
+            Call the Registrar-Recorder/County Clerk's Office at (562) 462-4137 or log onto: http://www.lavote.net/
+             20. How do I get a copy of my divorce record? 
+            Log onto the Los Angeles Superior Court website at www.lacourt.org/online/familylaw. Click on "case summaries.".  Insert the case number and court location where the divorce took place and click on "search."
+             21. I want to open a business. How do I file for a fictitious name statement and a business license? 
+            To get a fictitious name statement (commonly known as a DBA), contact the Registrar-Recorder/County Clerk's Office at (562) 462-2177 or log onto: http://rrcc.lacounty.gov/CLERK/Business_Name.cfm. For information on getting a business license, contact the Treasurer-Tax Collector's Business License Office at (213) 974-2011 or log onto: http://ttax.co.la.ca.us/main.htm    
+             22. How do I get on the County bid list for vendors? 
+            Call the Department of Internal Services at (323) 267-2725 or log onto: http://camisvr.co.la.ca.us/webven/
+             23. Where can I file for Social Security benefits? 
+            Contact the Social Security Administration at 1-800-772-1213.  For more information, log onto: www.socialsecurity.gov
+             24. I have a question regarding a parking violation I received. Who do I need to contact? 
+            If your parking violation was received in the City of Los Angeles, call 1-866-561-9742.  For other cities, log onto:http://www.lacourt.org/online/traffic
+             25. How can I locate a person in custody or inmate in a Los Angeles County Jail? 
+            Call the Los Angeles County Sheriff's Department Inmate Information Center at (213) 473-6100 or log onto: http://app5.lasd.org/iic/ajis_search.cfm
+             26. Can I get a copy of a County Ordinance? 
+            Yes, for copies of certified ordinance adopted after June 1, 2007 go to the SOP Portal and enter the adopted ordinance number in the search engine.  For ordinances adopted before June 1, 2007 call the Records Section at (213) 974-1424 to obtain a certified copy.
+#accordion8148 .accordion-header{
+	color:#666666;
+	background-color:#f5f5f5;
+	border-color:#dddddd;
+}
+#accordion8148 .accordion-header:before{
+	border-right-color:#666666;
+	border-bottom-color:#666666;
+}
+#accordion8148 .accordion-header:hover,
+#accordion8148 .accordion-header.focus{
+	color:#777;
+	background-color:#eeeeee;
+	border-color:#dddddd;
+}
+#accordion8148 .accordion-header:hover:before,
+#accordion8148 .accordion-header.focus:before{
+	border-right-color:#777;
+	border-bottom-color:#777;
+}
+#accordion8148 .accordion-content{
+	color:#333333;
+	background-color:#ffffff;
+	border-color:#dddddd;
+}
+    Featured Links
+		FAQ
+		Rewards
+		Kid's Corner
+		Postgovernment Information
+		Child Support
+		County Equity Oversight Panel
+		LACERA Elections
+		LA County Jail Plan
+    Customer Service Center
+Kenneth Hahn Hall of Administration
+ 500 West Temple St. Ste 383 Los Angeles, CA 90012
+ (213) 974-1411
+ executiveoffice@bos.lacounty.gov
+County Social Media Directory
+    Contact Us
+ Have a question?
+ 211 LA County
+ LA CountyHelps
+ Public Alerts
+            Copyright 2020 by County of Los Angeles Board of Supervisors
+            |
+            Privacy Statement
+            |
+            Terms Of Use

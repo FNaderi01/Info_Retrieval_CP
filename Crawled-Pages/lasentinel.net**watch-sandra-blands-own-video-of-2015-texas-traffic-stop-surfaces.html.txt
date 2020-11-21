@@ -1,0 +1,240 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+WATCH: Sandra Bland’s Own Video of 2015 Texas Traffic Stop Surfaces            
+				By Associated Press - PAUL J. WEBER and CLARICE SILBER                
+	                	                Published May 7, 2019
+AUSTIN, Texas (AP) — Cellphone video recorded by Sandra Bland, a black woman found dead in a Texas jail following a confrontational 2015 traffic stop, shows for the first time her perspective as a white state trooper draws his stun gun and points it at close range while ordering her out of her car.
+The 39-second clip revealed by the Investigative Network, a nonprofit news organization in Texas, aired Monday night on Dallas television station WFAA
+        ADVERTISEMENT        
+Bland was found hanging in her jail cell outside Houston three days after her arrest. Her death and dashcam video showing Trooper Brian Encinia trying to pull the 28-year-old Chicago-area woman out of her vehicle became flashpoints in the debate over the treatment of black people by police.
+The clip begins at the most dramatic moment of the July 2015 traffic stop near Prairie View A&amp;M University: Encinia has opened Bland’s car door and draws his stun gun as she tries to steady her phone’s camera. The flashlights on the stun gun flick on and Encinia yells, “Get out of the car! I will light you up. Get out!”
+Bland exits the car and continues to record Encinia as he orders her onto the sidewalk. The stun gun is still pointed at her and the flashlights remain on. He instructs her to get off the phone, to which Bland replies, “I’m not on the phone. I have a right to record. This is my property.”
+The video ends seconds later after Encinia tells her to put the phone down.
+The emergence of the cellphone video raised questions about who had seen it until now. Cannon Lambert, an attorney for the Bland family who settled lawsuits against the state of Texas and the Waller County Jail that totaled nearly $2 million combined, said he never saw the clip until it was recently shared by a news reporter.
+Lambert said he didn’t see the video in evidence turned over by investigators, which he said he wanted to believe was just human error. Democratic state Rep. Garnet Coleman, who in 2017 sponsored the “Sandra Bland Act” that Bland’s family criticized for being weakened before it was signed into law, said Monday night he would look into why the family never saw the footage.
+“It is troubling that a crucial piece of evidence was withheld from Sandra Bland’s family and legal team in their pursuit of justice,” Coleman said in a statement.
+The Texas Department of Public Safety disputed the premise that the video was not provided, saying it was included as part of a large hard drive of evidence from the investigation. It also said Bland’s cellphone video had previously been publicly released in 2017, when it was given to an Austin television station under open records law.
+Katherine Cesinger, a spokeswoman for the Department of Public Safety, said “the existence of the cellphone video was known to all parties” at the time and that two years after the family’s lawsuits it is “unclear what arrangements, if any, were made by the plaintiffs to view the video.”
+Encinia, who was fired after being indicted for perjury over the traffic stop, said he came to fear for his safety after stopping Bland for failing to signal a lane change.
+“The video makes it abundantly clear there was nothing she was doing in that car that put him at risk at all,” Lambert said.
+The perjury charge was later dropped in exchange for Encinia agreeing to never work in law enforcement again.
+That Bland was holding up a cellphone is clear in the original dashcam footage. Chip Lewis, Encinia’s attorney, said the cellphone footage doesn’t illuminate anything beyond what the dashcam video already showed.
+He said “furtive gestures” made by Bland from inside her car presented a risk and was the impetus for Encinia trying to remove her.
+“From a law enforcement standpoint, it had nothing to do with her being agitated as you may have seen on her recording,” Lewis said.
+		Categories: Daily Briefs | National | Videos Tags: 85 Years of LA Sentinel | Black Lives Matter | Black News | Black Press | Sandra Bland		
+						Congressional Black Caucus Calls Out NRA President Meadows For Attack on Re...
+						Elijah Cummings and John Katko Shaheen Issue Bipartisan Statement Urging Tr...
+						Congressmember Lauren Underwood Slams the Trump Administration’s Cont...
+						Kamala Harris, Colleagues Request Public Update On Status of National Secur...
+						WATCH: Miss USA, Miss Teen USA, and Miss America on Making History
+						BREAKING NEWS: The Pressure Mounts – New York Senate OKs Giving US Ho...
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->

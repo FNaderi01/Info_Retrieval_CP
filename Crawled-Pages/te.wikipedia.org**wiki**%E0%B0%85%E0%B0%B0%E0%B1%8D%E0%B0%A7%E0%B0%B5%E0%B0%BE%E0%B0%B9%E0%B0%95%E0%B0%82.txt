@@ -1,0 +1,44 @@
+	అర్ధవాహకం
+		వికీపీడియా నుండి
+		Jump to navigation
+		Jump to search
+		అర్ధవాహకాలు (సెమి కండక్టర్లు) అనేవి ఒక ప్రత్యేకమైన విద్యుత్తు ప్రవాహ లక్షణాలు కలిగిన స్ఫటిక లేద అస్ఫటిక ఘన పదార్థాలు[1]. ఇవి సాధారణంగా ఇతర మూలకాలకు ఉండే విద్యున్నిరోధం కంటే ఎక్కువ నిరోధం కలిగిఉంటాయి. అలాగని పూర్తి విద్యున్నిరోధాకాలుగా కూడా పనిచేయవు. వీటి ఉష్ణోగ్రత పెంచుతూ పోతే వాటి నిరోధం తగ్గుతూ వస్తుంటుంది. ఈ లక్షణం లోహాలకు విరుద్ధంగా ఉంటుంది. వాటిలో విద్యుత్ ప్రవాహాన్ని మనం వాటి స్ఫటికాకృతిలోనికి మలినాలను కలపడం ద్వారా మనకు కావలసిన విధంగా మార్చుకోవచ్చు. ఈ ప్రక్రియనే డోపింగ్ అని వ్యవహరిస్తారు. దీనివల్ల నిరోధం తగ్గడమే కాకుండా మలినాలను వివిధ పరిమాణాల్లో కలిపిన ప్రాంతాల్లో సెమికండక్టర్ జంక్షన్లు ఏర్పడే అవకాశం ఉంది. ఈ జంక్షన్ల దగ్గర తారాడే చార్జ్ క్యారియర్ల ఆధారంగానే ఆధునిక ఎలక్ట్రానిక్ పరికరాలైన డయోడ్లు, ట్రాన్సిస్టర్లు పనిచేస్తాయి.
+అర్ధవాహకాలు ఒకవైపుతో పోలిస్తే మరో వైపునుండి నుంచే విద్యుత్తును బాగా ప్రసారం చేయడం, వివిధ స్థాయిల్లో నిరోధాన్ని కలిగిఉండటం, కాంతికి, ఉష్ణానికి ప్రతిస్పందించడం లాంటి అనేక ఉపయోగకర లక్షణాలు కలిగి ఉంటాయి. వీటి విద్యుత్ లక్షణాలను నియంత్రిత పద్ధతిలో చేర్చే మలినాల ద్వారా, వాటి చుట్టూ విద్యుత్ క్షేత్రాన్ని ఏర్పరచడం ద్వారా, కాంతిని ప్రసరింపచేయడం ద్వారా మార్చే వీలుండటం వల్ల వీటిని ఆంప్లిఫికేషన్, స్విచ్చింగ్,, శక్తిమార్పిడి కోసం విరివిగా వాడుతారు.
+మూలాలు[మార్చు]
+↑ Mehta, V. K. (2008-01-01). Principles of Electronics. S. Chand. p. 56. ISBN 9788121924504. Retrieved 6 December 2015..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}
+"https://te.wikipedia.org/w/index.php?title=అర్ధవాహకం&amp;oldid=2883712" నుండి వెలికితీశారు
+		వర్గం: భౌతిక శాస్త్రము
+	మార్గదర్శకపు మెనూ
+		వ్యక్తిగత పరికరాలు
+		లాగిన్ అయిలేరుఈ IP కి సంబంధించిన చర్చమార్పుచేర్పులుఖాతా సృష్టించుకోండిలాగినవండి
+		పేరుబరులు
+		వ్యాసంచర్చ
+		వివిధ రూపాలు
+		చూపులు
+		చదువుసవరించుచరిత్రను చూడండి
+		మరిన్ని
+		వెతుకు
+		మార్గదర్శకము
+		మొదటి పేజీయాదృచ్ఛిక పేజీరచ్చబండవిరాళాలు
+		పరస్పరక్రియ
+		సముదాయ పందిరిసహాయసూచికఇటీవలి మార్పులుకొత్త పేజీలుసంప్రదింపు పేజీ
+		పరికరాల పెట్టె
+		ఇక్కడికి లింకున్న పేజీలుసంబంధిత మార్పులుదస్త్రపు ఎక్కింపుప్రత్యేక పేజీలుశాశ్వత లింకుపేజీ సమాచారంఈ పేజీని ఉల్లేఖించండివికీడేటా అంశం
+		ముద్రణ/ఎగుమతి
+		ఓ పుస్తకాన్ని సృష్టించండిPDF రూపంలో దించుకోండిఅచ్చుతీయదగ్గ కూర్పు
+		ఇతర ప్రాజెక్టులలో
+		Wikimedia Commons
+		ఇతర భాషలు
+		Englishहिन्दीಕನ್ನಡதமிழ்മലയാളംAfrikaansAlemannischAragonésالعربيةঅসমীয়াAsturianuAzərbaycancaتۆرکجهБашҡортсаBoarischБеларускаяБеларуская (тарашкевіца)‎БългарскиবাংলাBosanskiБуряадCatalàکوردیČeštinaCymraegDanskDeutschΕλληνικάEsperantoEspañolEestiEuskaraفارسیSuomiFrançaisFryskGaeilge贛語GalegoעבריתFiji HindiHrvatskiKreyòl ayisyenMagyarՀայերենInterlinguaBahasa IndonesiaÍslenskaItaliano日本語PatoisქართულიҚазақша한국어KurdîКыргызчаLatinaЛезгиLietuviųLatviešuMalagasyМакедонскиМонголमराठीBahasa Melayuမြန်မာဘာသာمازِرونیNederlandsNorsk nynorskNorsk bokmålOccitanਪੰਜਾਬੀPolskiپنجابیPortuguêsRomânăРусскийScotsSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaShqipСрпски / srpskiSeelterskSvenskaKiswahiliತುಳುไทยTagalogTürkçeУкраїнськаاردوOʻzbekcha/ўзбекчаTiếng ViệtWinaray吴语ייִדיש中文Bân-lâm-gú粵語
+		లంకెలను మార్చు
+		 ఈ పేజీలో చివరి మార్పు 21 మార్చి 2020న 14:56కు జరిగింది.
+		పాఠ్యం క్రియేటివ్ కామన్స్ అట్రిబ్యూషన్/షేర్-అలైక్ లైసెన్సు క్రింద లభ్యం;
+అదనపు షరతులు వర్తించవచ్చు.
+మరిన్ని వివరాలకు వాడుక నియమాలను చూడండి.
+		గోప్యతా విధానం
+		వికీపీడియా గురించి
+		అస్వీకారములు
+		మొబైల్ వీక్షణ
+		అభివృద్ధికారులు
+		గణాంకాలు
+		కుకీ ప్రకటన

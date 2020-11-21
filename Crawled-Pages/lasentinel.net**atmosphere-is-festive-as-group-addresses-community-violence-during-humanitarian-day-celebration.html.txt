@@ -1,0 +1,325 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Atmosphere is Festive as Group Addresses Community Violence during ‘Humanitarian Day’ Celebration            
+				By Jennifer Bihm, Staff Writer                
+	                	                Published December 24, 2015
+		Before the clouds blew in and the rain poured, people lined up in droves, empty handed, but left with an abundance of holiday goodies on Saturday December 19, 2015 dubbed Humanitarian Day at Jesse Owens Park in Los Angeles (courtesy photo)
+The atmosphere at Jesse Owens park was festive Saturday December 19, as the community came out to enjoy Humanitarian Day, where free toys, turkeys, medical screenings fun and games were offered up by organizers of the Safe Communities Initiative. Before the clouds blew in and the rain poured, people lined up in droves, empty handed, but left with an abundance of holiday goodies.
+Humanitarian Day is just one event the group has organized to address more than 40 homicides that took place in Los Angeles earlier this year.
+“This our community, this is our life,” said volunteer Saadiq Safir.
+        ADVERTISEMENT        
+“[Events like this] bring the community together. No matter what creed, race or color it lets people know we have the same struggles, the same common cause.”
+And that, Safir said, plays a big role in curbing violence in the community.
+A prayer was held at the event for 40 individuals who lost their lives in the spate of recent violence, in addition to 14 balloons being released for the victims of the San Bernardino shooting.
+“We know what works,” said Khalid Shah, one of the organizers of the initiative.
+“We’ve been at this for more than two decades with positive results but we can’t rest on our past success. Our work must be expanded to include new strategies and sustainable solutions that will change the quality of life for our communities.”
+A man gets his sugar tested as part of some of the free medical screenings offered to the public at Humanitarian Day on Saturday December 19, 2015. (courtesy photo)
+Having the festivities at Jesse Owens held significance for the Safe Communities group, since that community was the seat of a local gang threat, to shoot 100 people in 100 days. That threat, plus the surge in violent homicides in the 8th and 9th districts in particular, sparked a series of meetings that included more than 80 of the most influential intervention and prevention experts in Los Angeles County. On September 2, a meeting was held at the headquarters of the Los Angles Sentinel Newspaper.
+Sentinel Publisher/ CEO Danny Bakewell Sr. has greatly supported the effort, donating an initial $10,000 to assist.
+“It was really an extraordinary afternoon to see all of the brothers come together in the name of peace in our community, to see families gathered for that purpose,” he said.
+“I want to give a special thanks to [Councilman] Marqueece Harris-Dawson (in whose district the event took place) [because] this event was brought about by the people who are always accused of causing chaos.”
+Those people, under event host Rizilient, a local organization from the Jesse Owens community working with at-risk youth, included six different neighborhood gangs, which partnered with Safe Communities, agreed to start working together to cease the violence in their respective communities, according to Shah.
+“They are going to start working on things like education, voter registration and unmet shelter needs for their neighborhoods,” he said.
+Meanwhile, Bakewell Sr. said he was “honored” and “humbled” to be, along with others like actor and director Bill Duke and NBA star Russel Westbrook, recognized for all of his efforts in uplifting the community.
+“I have a great deal of respect and admiration for all those who pulled this together to ensure that the future of our community is safe and secure,” he said.
+Humanitarian Day is the product of the ILM Foundation in conjunction with United Christian Missionary Baptist Church, Watts Life United, Professional Community Intervention Training Institute International, Southern California Cease Fire Committee, Nation of Islam, Front Line Soldiers, Seeking Peaceful Solutions Inc. ,National Low Riders Association, Stop the Violence Increase the Peace Foundation, ILM Foundation, a host of other community and faith-based agencies.
+Its primary sponsor is Los Angeles’ UMMA Clinic.
+The Safe Communities Initiative is headed by Professional Community Intervention Training Institute, Watts Life United, Stop the Violence Increase the Peace Foundation, Los Angeles Sentinel and LA Watts Times.
+		Categories: Local | News Tags: Humanitarian Day | Jennifer Bihm | Jesse Owens | Safe Communities Initiative		
+						This Week in Black History (December 24)
+						Police shooting cases hang over Cincinnati and Cleveland
+						ECC Compton Center Counselor Named to International Educators’ Hall of Fa...
+						Congresswoman Waters Delivers Good News to Alzheimer’s Disease Caregivers...
+						Assemblymember Mike A. Gipson Earns 100% on 2015 State Assembly Legislative...
+						Football to Finance: The Improbable Journey of Bank of America Merrill Lync...
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

@@ -1,0 +1,386 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Black Lives + Antigone            
+				By Sentinel News Service                
+	                	                Published January 25, 2019
+CAPSULE:
+Coin &amp; Ghost in association with Vs. Theatre present the World premiere of Love Is Another Country, a radical reimagining of Sophocles’s Antigone at Vs. Theatre in Los Angeles from Friday, February 1 through Saturday, March 2, 2019. The third production of Coin &amp; Ghost’s inaugural season, Love Is Another Country is a new play written by the prolific Bay Area theatre artist Lisa Marie Rollins and her first full-length work to be produced in Los Angeles. Directed by Kendall Johnson, the production brings together the ancient tale of Antigone with the deaths of innumerable Black men and women at the hands of police. Part ritual, part rage, part collective ask to the audience, the play follows three women of the Chapman family as they navigate living as black women in a country that claims to love them. For more information, please visit https://coinandghost.org/liac.
+        ADVERTISEMENT        
+WHEN &amp; WHERE:
+Love Is Another Country opens on Friday, February 1st and runs throughout Black History Month for five weekends with the last performance on Saturday, March 2, 2019. There will usually* be three or four performances depending on the weekend. For the first three weekends (2/1 – 2/17), shows will run most Fridays* and all three Saturdays at 8:00pm and Sundays at 2:30pm. For the last two weekends (2/21 – 3/2), performances will also happen on Thursday nights at 8:00pm. For the final weekend (2/28 – 3/2) there is no Sunday matinee. Vs. Theatre is located at 5453 Pico Blvd, Los Angeles, CA 90019 (323-739-4411). There are three tiers of ticket prices: VIP tickets at $30 (first three rows; includes a drink), $25 for general admission and Pay-What-You-Can (PWYC) for the back row. As with all Coin &amp; Ghost (C&amp;G) productions, opening weekend will be entirely PWYC.
+* The theater will be dark on Friday 2/15 due to two of the producers getting married! Everyone involved will be attending.
+WHY &amp; WHO:
+The play, written in collaboration with Coin &amp; Ghost, emerged as a radical re-imagining of Sophocles’ Antigone, in response to two cultural stimuli: the systemic deaths of black people as a result of police terror, and the generational impact of incarceration on black women. In Love Is Another Country, a cast of four explores these themes unflinchingly and without apology. Crafted through devised theatre techniques drawn from the lived experiences of the cast, as well as those of Rollins herself, it features an ensemble cast of diasporic black women who bring to life this vital storytelling and hold the space for collective healing for the community. The cast includes Amaka Izuchi (Jordan), Celia Mandela (Nene), Tyree Marshall (Ethel May), and Dee Dee Stephens (Gonee).
+WHO ELSE:
+In addition to Rollins and Johnson, the production team includes Britney Campbell (Costumes), Spencer Christovale (Sound Design), and Derrick McDaniel (Lighting Design). The ambitious team is made complete with Coin &amp; Ghost’s inner circle that includes its Artistic Director Zachary Reeve Davidson (Producer), Managing Director Marguerite French (Producer), Associate Artistic Director/ Music Director Elisa Rosin (Producer), Production Manager and frequent Lighting/Sound Designer Niki Armato (Stage Manager) and Director of Community Engagement Alex Garland (Producer).
+FROM THE DIRECTOR:
+Known for bringing a highly physical aesthetic to his productions, director Kendall Johnson (C&amp;G’s Associate Artistic Director) has adapted classics for the stage before, as with the highly popular Trojan Women, directed by USC’s David Bridel. Johnson uses his collective experience to lean into the urgent message of Love Is Another Country, addressing slavery’s systemically infected assumptions among other topics. “The generational devaluing of black women has deadly consequences,” proclaims Johnson. “It is only a part of the legacy of slavery. Historically, when Black people come into contact with the state, it’s like a grenade goes off in the community. We are exploring these stories and giving voice to the people most affected by our broken criminal justice system.”
+PHONE-FREE:
+The production will feature an agnostic ritual aspect to bring support and levity to a complex audience experience. As part of this ritual, and to amplify human-to-human connection, Coin &amp; Ghost is employing personalized Yondr bags to create a phone-free experience for the audience.
+VENUE:
+For this production, Coin &amp; Ghost is partnering with Johnny Clark and Vs. Theatre, home of award-winning productions such as the West Coast premiere of Blackbird by Adam Rapp; the World premiere of Giovani Adams’ Love Is A Dirty Word; the Los Angeles premiere of On An Average Day by John Kolvenbach; the West Coast premiere of The Mercy Seat by Neil Labute; the West Coast premiere of Completeness by Itamar Moses and the World premiere of Cops And Friends Of Cops by Ron Klier.
+ABOUT:
+LISA MARIE ROLLINS (Playwright) –
+Lisa Marie Rollins is a freelance director, writer and new play developer. She is a Sundance Institute Theatre Lab Fellow (Directing) and a Directors Lab West member. Regional directing and dramaturg work include Crowded Fire Theater, Playwright Foundation, TheatreFirst, Berkeley Repertory Theater, Shotgun Players, Custom Made Theatre, Magic Theatre, San Francisco Playhouse and new plays by Lauren Gunderson, Geetha Reddy, Idris Goodwin, Tearrance Arvelle Chisholm, and creative collaborations with comedic artists W. Kamau Bell and Zahra Noorbakash. She has been a writing fellow with Djerassi, SF Writers Grotto, CALLALOO London, VONA, Just Theater Play Lab and Joshua Tree Highlands Artist Residency. She holds graduate degrees from Claremont Graduate University and University of California, Berkeley and is Distinguished Guest Artist Faculty at St Mary’s College in Performance Studies. Her new chapbook of poems, Other Words for Grief (2018, winner, Mary Tanenbaum Literary Award) is now available from Finishing Line Press. She is currently a Resident Artist with Crowded Fire Theater and Artist-in-Residence at BRAVA Theater for Women in San Francisco. She is directing the World premiere of Idris Goodwin’s new play America Prom at TheaterWorks Colorado Springs in Jan 2019.
+KENDALL JOHNSON (Director/Producer/C&amp;G Associate Artistic Director) –
+Kendall Johnson grew up in Chicago, where he first fell in love with acting. He started out as a junior in college performing in small productions and that love grew as he attended USC’s Master of Fine Arts program for acting. Since graduating from USC, he has worked with Black &amp; Sexy TV on its shows Sexless and F’n Your Life Up, performed in Royal Shakespeare Company’s Dunsinane, and Not Man Apart Physical Theatre Ensemble’s Ajax in Iraq. The past two summers he performed The Tempest and Macbeth in Off Square Theatre’s Thin Air Shakespeare series in Jackson, WY. This is Johnson’s directorial debut.
+COIN &amp; GHOST –
+Coin &amp; Ghost is a Los Angeles-based theatre company known for its imaginative remixing of known mythologies. The company defines mythology as “any set of stories that simultaneously SHAPES and IS SHAPED BY a culture.” So Traditional Greek and Roman myths count, sure, as do any culture’s creation myths. But when viewed through this lens, Shakespeare has a clear mythology to it, as do comic books, Tennessee Williams, and other folklore. C&amp;G use these stories as a base, a structure, even as a playground — but not as a rulebook. Each project begins on the well-worn road of a known mythology, and then branches off on its own unique, wild path. For C&amp;G’s mission and the Etymology of its name, please visit https://coinandghost.org/about-us.
+ THEATRE–
+Vs.Theatre Company, a non-profit 501c(3) corporation, is a collection of passionate artists devoted to producing World, West Coast and Los Angeles Premieres by the best contemporary playwrights in America. Vs. was founded in 2004 based on a shared passion for riveting stories and live performance in an intimate setting. Named “one of the top theatre companies of the last decade” by the LA Weekly, Vs. productions have won numerous theatre awards, enjoyed long, sold out runs and received widespread critical acclaim.  For more info, please visit www.vstheatre.org.
+Dee Dee Stephens. (Photo credit: Zachary Reeve Davidson.)
+~ EVENT DETAILS ~
+WHO:
+Coin &amp; Ghost in association with Vs. Theatre present
+WHAT:
+The World premiere of Lisa Marie Rollins’ Love Is Another Country, a radical reimagining of Sophocles’s Antigone
+https://coinandghost.org/liac
+WHEN:
+Friday, February 1 – Saturday, March 2, 2019
+1st Weekend:
+Fri. 2/1 @ 8:00pm
+Sat. 2/2 @ 8:00pm
+Sun. 2/3 @ 2:30pm
+2nd Weekend:
+Fri. 2/8 @ 8:00pm
+Sat. 2/9 @ 8:00pm
+Sun. 2/10 @ 2:30pm
+3rd Weekend:
+PRIVATE: Thu. 2/14 @ 2:30pm – school matinee
+CLOSED: Fri. 2/15 – two of the producers are to be wed
+Sat. 2/16 @ 8:00pm
+Sun. 2/17 @ 2:30pm
+4th Weekend:
+Thu. 2/21 @ 8:00pm
+Fri. 2/22 @ 8:00pm
+Sat. 2/23 @ 8:00pm
+Sun. 2/24 @ 2:30pm
+5th Weekend:
+Thu. 2/28 @ 8:00pm
+Fri. 3/1 @ 8:00pm
+Sat. 3/2 @ 8:00pm
+WHERE:
+Vs. Theatre
+5453 Pico Blvd, Los Angeles, CA 90019
+323-739-4411
+CAST &amp; CREW:
+Cast –
+Amaka Izuchi (Jordan)
+Celia Mandela (Nene)
+Tyree Marshall (Ethel May)
+Dee Dee Stephens (Gonee)
+Creatives –
+Lisa Marie Rollins – Playwright
+Kendall Johnson – Director
+Britney Campbell – Costume Designer
+Spencer Christovale – Sound Designer
+Derrick McDaniel – Lighting Designer
+Niki Armato – Stage Manager
+Zachary Reeve Davidson – Producer
+Marguerite French – Producer
+Elisa Rosin – Producer
+Alex Garland – Producer
+TICKETS:
+• VIP tickets at $30 (first three rows; includes a drink)
+• $25 for general admission
+• Pay-What-You-Can (PWYC) for the back row (3 seats)
+https://coinandghost.org/liac
+As with all Coin &amp; Ghost productions, opening weekend will be entirely PWYC.
+		Categories: Entertainment | Music Tags: Alex Garland | Amaka Izuchi | Antigone | Berkeley | Berkeley Repertory Theater | Britney Campbell | CALLALOO London | Celia Mandela | Claremont Graduate University | Coin &amp; Ghost | Crowded Fire Theater | Custom Made Theatre | Dee Dee Stephens | Derrick McDaniel | Djerassi | Elisa Rosin | Finishing Line Press | Geetha Reddy | Idris Goodwin | Johnny Clark | Joshua Tree Highlands Artist Residency | Just Theater Play Lab | Kendall Johnson | Lauren Gunderson | Lisa Marie Rollins | Love Is Another Country | Macbeth | Magic Theatre | Marguerite French | Niki Armato | Other Words for Grief | Playwright Foundation | San Francisco Playhouse | SF Writers Grotto | Shotgun Players | Spencer Christovale | Tearrance Arvelle Chisholm | Tennessee Williams | The Tempest | TheaterWorks Colorado Springs | TheatreFirst | Trojan Women | Tyree Marshall | VONA | Vs. Theatre | W. Kamau Bell | Zachary Reeve Davidson | Zahra Noorbakash		
+						Michael Jackson’s Estate Slams Abuse Documentary Debut at Sundance Film F...
+						Taraji P. Henson and Erykah Badu Say Comments on R. Kelly Misrepresented
+						Black Panther Returns to Theaters in Celebration of Black History Month For...
+						Taraji P. Henson Receives Star on Hollywood Walk of Fame 
+						Darrin D. Henson In BET’S Newest Series The Family Business
+						“Black Panther” Notches 2019 SAG Awards’ Top Honor
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

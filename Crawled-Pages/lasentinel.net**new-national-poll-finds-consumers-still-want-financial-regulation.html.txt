@@ -1,0 +1,326 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+New National Poll Finds Consumers Still Want Financial Regulation            
+				By Charlene Crowell                
+	                	                Published August 9, 2018
+		Charlene Crowell (file photo)
+A decade ago, the entire nation suffered through a financial crisis that led to the brink of a global financial collapse.  While Wall Street reckoned with its risky practices, America’s families suffered lost wealth of nearly $2 trillion, half of it coming from communities of color who were targeted for high-cost and unsustainable mortgages.
+Now a new poll finds that even with the passage of a decade, consumers still support financial regulation and related enforcement. Moreover, when it comes to payday and car-title lending, consumer scorn has grown even stronger over the past year for these small-dollar, debt trap loans that come with triple-digit interest rates.
+The 2018 poll, conducted by Lake Research Partners and Chesapeake Beach Consulting, found that among respondents more than 90 percent viewed regulation of financial services to be very important, and registered support across partisan affiliations. Among Republicans, 85 percent supported regulation, compared to 92 percent of independents and 96 percent of Democrats.
+(Courtesy photo)
+Further, a growth in the number of consumers supporting a rule to hold payday lenders accountable increased six percentage points in just the past year. Believing that payday lenders prey upon those who have the fewest financial resources – low-wage earners, working families, and elder Americans, 79 percent of survey respondents want the Consumer Financial Protection Bureau (CFPB) to hold these predatory lenders accountable. A similar poll taken in 2017 tallied support of a CFPB payday rule at 73 percent.
+        ADVERTISEMENT        
+When asked about the lack of enforcement against abuses by payday lenders, 81 percent were concerned about CFPB’s inaction. And again, these strong responses crossed party lines: 77 percent of Republicans, 82 percent of independents, and 85 percent of Democrats.
+The telephone survey of 1,000 likely 2018 general election voters occurred between June 28 to July 7, 2018, and has a margin of error of +/- 3.1.  The effort was jointly underwritten by Americans for Financial Reform (AFR) and the Center for Responsible Lending (CRL).
+“Ten years after the financial crisis, the public knows what it wants,” noted Lisa Donner, AFR executive director. “But Wall Street and high-cost lenders are constantly pushing for deregulation and spending vast amounts of money to get it.”
+The current federal deregulation trend can be traced to an executive order signed by President Donald Trump on January 20, 2017, and then published in the Federal Register on February 3. The order directed all federal offices to repeal two existing regulations for every new one proposed. Secondly for Fiscal Year 2017, the incremental cost of every newly proposed regulation could not bring any costs.
+To put it plainly, no proposed regulation could cost a cent. The Office of Management and Budget (OMB) was granted the sole authority to review and decide any requested written exceptions.
+That official is Mick Mulvaney, who joined the Trump Administration as its OMB Director and has dually served as the Acting CFPB Director since late 2017.
+So it is particularly noteworthy that 80 percent of survey respondents expressed concerns with three recent Consumer Financial Protection Bureau (CFPB) developments:
+Curbing the enforcement of fair lending rules;
+Ending enforcement of payday lending rules; and
+Restricting public access to the Bureau’s complaint database
+The 2018 survey results speak to the stark differences between CFPB today and its era before Mulvaney’s arrival.
+(Courtesy photo)
+As of July 2017, CFPB received approximately 1.3 million consumer complaints that were investigated and in turn led to a series of enforcement actions that totaled $11.9 billion of restitution, forgiveness and other enforcement. As many of these were class action cases, an even larger number of consumers — 29 million were helped.
+Broad consumer contact and confidence was bolstered by the 41 cities where CFPB held either field hearings on a given issue or public town halls, 169 visits to military installations and 63 appearances to testify before Congress.
+“Before Mick Mulvaney’s tenure at the agency, the CFPB was a champion for working families – giving back billions of dollars in relief to consumers who were cheated by financial companies,” noted Mike Calhoun, CRL president.
+“Now, under the CFPB’s current leadership, payday lenders have preferred access because one of their own is leading the consumer bureau,” continued Calhoun. “We need to build on CFPB’s previous success, not block its progress of protecting consumers from abusive financial practices.”
+		Categories: Charlene Crowell | Opinion Tags: Americans for Financial Reform (AFR) | Center for Responsible Lending (CRL) | Chesapeake Beach Consulting | Consumer Financial Protection Bureau (CFPB) | Democrats | Federal Register | Fiscal Year 2017 | Lake Research Partners | Lisa Donner | Mick Mulvaney | President Donald Trump | republicans | The Office of Management and Budget (OMB) | Wall Street		
+						The Constitution is a Shield for Civil and Human Rights
+						Success On “The Way” Ask Dr. Jeanette: Lust
+						Future of Democratic Party Lies in Moving to the Moral Center
+						Justice Served: McCulloch Out, Bell in as St. Louis County Prosecutor
+						Wendy’s Window: “Hail to the Chief!”
+						Message From Watts:  Liberation is Coming From A Black Thing
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

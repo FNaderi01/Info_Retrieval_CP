@@ -1,0 +1,171 @@
+     category > maptopic > article -->
+    GitHub Docs
+    All products
+  GitHub Desktop
+          インストールと設定
+              概要
+                  GitHub Desktop を使ってみる
+                  Creating your first repository
+                  Supported operating systems
+                  キーボードショートカット
+                  Launching from the command line
+              GitHub Desktopのインストールと認証
+                  Setup
+                  インストール
+                  認証
+                  About connections to GitHub
+                  GitHub Desktopの更新方法
+                  GitHub Desktopのアンインストール方法
+              GitHub Desktopの設定とカスタマイズ
+                  Configuring Git
+                  ベーシック設定
+                  デフォルトエディタの設定方法
+                  GitHub Desktop用のテーマ設定方法
+                  Git LFS について
+          コントリビューションとコラボレーション
+              リポジトリの追加とクローン
+                  ローカルコンピュータからGitHubデスクトップへのリポジトリの追加
+                  GitHub Desktopを介してのGitHubへの既存プロジェクト追加
+                  GitHub Desktopからのリポジトリのクローンとフォーク
+                  GitHubからのGitHub Desktopへのリポジトリのクローン方法
+              ブランチでの変更
+                  ブランチを管理する
+                  プロジェクトへの変更のコミットやレビュー
+                  変更をプッシュする
+                  コミットの打ち消し
+                  タグを管理する
+                  ブランチ履歴の表示
+              GitHub、またはGitHub Enterpriseでのリモートリポジトリの操作
+                  Issueもしくはプルリクエストの作成
+                  プルリクエストを表示する
+                  GitHub DesktopからのリモートのURL変更
+              ローカルリポジトリと GitHub の同期を維持する
+                  ブランチの同期
+  ドキュメントには頻繁に更新が加えられ、その都度公開されています。本ページの翻訳はまだ未完成な部分があることをご了承ください。最新の情報については、英語のドキュメンテーションをご参照ください。本ページの翻訳に問題がある場合はこちらまでご連絡ください。
+        GitHub Docs
+                製品で調べる
+                      GitHub Desktop
+                       GitHub.com
+                       Enterprise Administrators
+                       GitHub Actions
+                       GitHub Packages
+                       Developers
+                       REST API
+                       GraphQL API
+                       GitHub Insights
+                       GitHub Desktop
+                       Atom
+                       Electron
+                            日本語 (Japanese)
+                              English
+                              简体中文 (Simplified Chinese)
+                              日本語 (Japanese)
+                              Español (Spanish)
+                              Português do Brasil (Portuguese)
+    GitHub Desktop
+    コントリビューションとコラボレーション
+    リポジトリの追加とクローン
+    GitHub Desktopを介してのGitHubへの既存プロジェクト追加
+        GitHub Desktopを介してのGitHubへの既存プロジェクト追加
+        GitHub Desktopを使用して、GitHubに既存のGitリポジトリを追加できます。
+            Mac
+            Windows
+            Linux
+            All
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        必須
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        任意
+      Can we contact you if we have more questions?
+        任意
+      送信
+    ありがとうございます。フィードバックが送信されました。
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  OR, learn how to contribute.
+コマンドラインを使って、リポジトリに現在設定されているGitリモートを削除してください。
+# 既存のリモートの表示
+$ git remote -v
+&gt; origin  git@git-server/octocat/hello-world.git (fetch)
+&gt; origin  git@git-server/octocat/hello-world.git (push)
+# 既存のリモートを削除
+$ git remote remove origin
+リポジトリをGitHub Desktopに追加します.
+ツールバーのPublish repository（リポジトリの公開）ボタンをクリックしてください。 
+Nameフィールドにご希望の名前を入力するか、現在のデフォルトローカルリポジトリの名前を使います。 
+パブリックリポジトリを公開するには、Keep this code privateの選択を解除してください。 
+リポジトリを公開するOrganizationをOrganizationドロップダウンで選択するか、Noneを選択してリポジトリを個人アカウントに公開します。 
+Publish Repositoryボタンをクリックします。 
+コマンドラインを使って、リポジトリに現在設定されているGitリモートを削除してください。
+# 既存のリモートの表示
+$ git remote -v
+&gt; origin  git@git-server/octocat/hello-world.git (fetch)
+&gt; origin  git@git-server/octocat/hello-world.git (push)
+# 既存のリモートを削除
+$ git remote remove origin
+リポジトリをGitHub Desktopに追加します.
+ツールバーのPublish repository（リポジトリの公開）ボタンをクリックしてください。 
+Nameフィールドにご希望の名前を入力するか、現在のデフォルトローカルリポジトリの名前を使います。 
+パブリックリポジトリを公開するには、Keep this code privateの選択を解除してください。 
+リポジトリを公開するOrganizationをOrganizationドロップダウンで選択するか、Noneを選択してリポジトリを個人アカウントに公開します。 
+Publish repositoryボタンをクリックします。 
+    Did this doc help you?
+    Want to learn about new docs features and updates? Sign up for updates!
+    We're continually improving our docs. We'd love to hear how we can do better.
+      What problem did you have?
+        必須
+        Choose an option
+        Information was unclear
+        The content was confusing
+        The article didn't answer my question
+        Other
+      Let us know what we can do better
+        任意
+      Can we contact you if we have more questions?
+        任意
+      送信
+    ありがとうございます。フィードバックが送信されました。
+  Help us make these docs great!
+  All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+    Make a contribution
+  OR, learn how to contribute.
+      Still need help?
+      Ask the GitHub community
+      サポートへの連絡
+        製品
+          機能
+          セキュリティ
+          Enterprise
+          ケーススタディ
+          価格
+          リソース
+        プラットフォーム
+          開発者 API
+          パートナー
+          Atom
+          Electron
+          GitHub Desktop
+        サポート
+          ヘルプ
+          コミュニティフォーラム
+          トレーニング
+          状況
+          GitHubに連絡
+        会社
+          GitHubについて
+          ブログ
+          キャリア
+          プレス
+          ショップ
+        © 2020 GitHub, Inc.
+        規約 
+        プライバシー 

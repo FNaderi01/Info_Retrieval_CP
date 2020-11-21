@@ -1,0 +1,245 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Relationships
+							WENDY’S WINDOW: Why Do Women Who Make Great Decisions in the Boardroom Sometimes Struggle Making Good Decisions in the Bedroom?
+					August 20, 2020Wendy's Window ... read more  »
+							Never Give Up On Love
+					January 2, 2020Wendy's Window ... read more  »
+							‘MICHAEL COLYAR’S MOMMA’ Charts “Ups, Downs and Zigs Zags” of Comedian’s Life
+					September 12, 2019When comedian Michael Colyar talks to the LA Sentinel this past week, he has literally just had one of the most surreal experiences he’s ever had in his life. Not only did legendary soul musician Stevie Wonder just call into a radio talk show while Colyar was being interviewed, Wonder also asked Colyar for a ticket to one of the upcoming performances of his show Michael Colyar’s Momma.  ... read more  »
+        ADVERTISEMENT        
+							Kenny Lattimore Talks New Album, Love &amp; Modern Vs. Traditional R&amp;B
+					October 25, 2017Singer Kenny Lattimore chats with the Sentinel about the inspiration for his new album "Vulnerable", which he says stems from a place of transparency. , could hurt you. Lattimore also talks finding love, being a father, and the difference between traditional versus modern RnB.  ... read more / watch video »
+							Actress Denise Boutte At TV One Premiere Of “Media”
+					March 15, 2017Actor Denise Boutte chats with the Los Angeles Sentinel about her role in the new TV One series "Media" ... read more / watch video »
+							Tony Rock on Dating Today: “Gentlemen are a Dying Breed”
+					February 11, 2017Actor, comedian, producer Tony Rock discusses his role as the host of TV One dating shows series, "The Game of Dating," and how dating has changed today. ... read more / watch video »
+							Kelly Rowland On Love &amp; Dating: “I Was Just Always In A Rush For A Relationship”
+					February 7, 2017Watch as singer-songrwriter Kelly Rowland reflects on what she would tell her younger self about love and dating, working on a female-led cast,  the Women's March and more. Rowland stars as "Margot Scotts" in the new Lifetime movie, "Love by the 10th Date", which aired on January 28, 2017. 
+Correspondent: Brittany K. Jackson ... read more / watch video »
+							Singer Major on Dating: “Ten May Be The Win”
+					February 4, 2017Watch as the "This is Why I Love" you singer MAJOR talks singing alongside Stevie Wonder, Love, and Dating at the Lifetime movie premiere of "Love by the 10th Date" held at the Londwon West Hollywood in West Hollywood, CA. 
+Correspondent: Brittany K. Jackson ... read more / watch video »
+							Nzingha Stewart Snags Star-Studded Cast for “Love by the 10th Date”
+					February 2, 2017Nzingha Stewart shares her experience Writing, Directing &amp; Producing  "Love by the 10th Date" and snagging a star-studded cast to play in the Lifetime movie, which aired on January 28, 2017. 
+Correspondent: Brittany K. Jackson
+Director of Photography: Aaron Brumfield ... read more / watch video »
+							Jenia Frederick &amp; Nathan Hale Talk About the 90 DAYS Film
+					December 18, 2016The Los Angeles Sentinel interviews Directors of the film 90 DAYS at 2016 AIDS Healthcare Foundation event held at the Dolby Theatre in Hollywood, CA. 
+A Bakewell Media Production 
+Executive Producer: Danny J. Bakewell Sr.
+Producer: Brandon I. Brooks
+Correspondent: Brittany K. Jackson 
+Director of Photography: Aaron Brumfield ... read more / watch video »
+							Black Men Discuss Manhood and Domestic Violence Prevention
+					April 27, 2016The speakers also hit some raw subjects about life after jail, being seduced into selling drugs and family trauma ... read more  »
+							Lashawn &amp; April Daniels at the BET Celebration of Gospel
+					January 16, 2016 ... read more / watch video »
+							Voices of Our Community Episode 3: Family Structure
+					July 17, 2015 ... read more / watch video »
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->

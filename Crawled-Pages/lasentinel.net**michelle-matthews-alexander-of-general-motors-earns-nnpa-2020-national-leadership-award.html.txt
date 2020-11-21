@@ -1,0 +1,323 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Michelle Matthews-Alexander of General Motors Earns NNPA 2020 National Leadership Award            
+				By Stacy M. Brown, NNPA Newswire Senior Correspondent                
+	                	                Published September 17, 2020
+Michelle Matthews-Alexander, the head of multicultural marketing at General Motors, has dedicated her career to enhancing major corporations’ relationships with diverse communities.
+Since joining the famous automaker in 2015, Matthews-Alexander has advocated for and helped spearhead Chevrolet’s Discover the Unexpected Journalism Fellowship.
+        ADVERTISEMENT        
+In partnership with the National Newspaper Publishers Association (NNPA), Matthews-Alexander and Chevrolet have invested heavily in the future of Black journalism while simultaneously supporting students at Historically Black Colleges and Universities.
+On Thursday, September 17, 2020, Matthews-Alexander will receive the NNPA 2020 National Leadership Award.
+“I am truly excited and humbled on being selected to receive the 2020 NNPA National Leadership Award,” Matthews-Alexander exclaimed.
+“Over the past five years, I have continued to value our partnership as well as the important role that the NNPA plays in the African American community.”
+In her current role at General Motors, Matthews-Alexander leads a team of professionals that provides strategic marketing leadership and insights to drive focus and integration to support growth for GM brands, targeting crucial multicultural segments.
+She’s also responsible for driving the strategic direction and providing guidance to identify marketing opportunities and develop solutions to improve diversity plans across all GM brands, including Chevrolet, Buick, and GMC.
+Company officials have noted that Matthews-Alexander brings a wealth of multicultural automotive experience.
+She’s spent more than seven years leading Ford and Lincoln’s multicultural public relations efforts specific to the African American market for UWG before joining GM.
+Before that, Matthews-Alexander spent more than four years heading up the internal communications efforts at Nissan’s North American Engineering facility in Farmington Hills, Michigan.
+She graduated Magna Cum Laude from Michigan State University and holds a Bachelor of Arts degree in Journalism.
+Matthews-Alexander was named one of the Michigan Chronicle’s 2017 Women of Excellence Award recipients, and she earned recognition as one of the Michigan Chronicle’s “40 under 40” awards recipients.
+She received the 2016 Marketing to African Americans with Excellence (MAAX) Award.
+Matthews-Alexander is a member of the ANA Alliance for Inclusive and Multicultural Marketing, an organization comprised of senior-level, client-side marketers, media/publishers, research and data companies, advertising agencies, and trade associations.
+The ANA Alliance for Inclusive and Multicultural Marketing focuses on evolving and enhancing the effectiveness of how multicultural and inclusive marketing currently gets done.
+Matthews-Alexander also has earned selection to Northwestern University’s Kellogg Chief Marketing Officer Program as part of its 2020 class.
+Matthews-Alexander said she’s thrilled about the NNPA 2020 National Leadership Award and the relationship between the trade organization and GM.
+“This partnership has allowed us to create opportunities that have brought forth impact within the community, and for that, I am forever thankful,” she exclaimed.
+		Categories: National | News | News (Family) | Political Tags: 2016 Marketing to African Americans with Excellence (MAAX) Award | 2017 Women of Excellence Award | 40 under 40 | African American Community | ANA Alliance for Inclusive and Multicultural Marketing | Bachelor of Arts degree | Buick | Chevrolet | Chevrolet’s Discover the Unexpected Journalism Fellowship | diverse communities | diversity plans | enhancing major corporations’ relationships | Farmington Hills Michigan | focus | Ford | future of Black journalism | General Motors | GM brands | GMC | Historically Black Colleges and Universities | insights | integration | invested heavily | journalism | Lincoln | Matthews-Alexander | Michelle Matthews-Alexander | Michigan Chronicle | Michigan State University | multicultural automotive experience | multicultural marketing | multicultural public relations efforts | multicultural segments | National Newspaper Publishers Association (NNPA) | Nissan | NNPA 2020 National Leadership Award | NNPA Newswire | Northwestern University’s Kellogg Chief Marketing Officer Program | Stacy M. Brown | strategic marketing leadership | supporting students		
+						Police Group Places Gun Target on Image of Black Elected Official
+						Supreme Court Justice Ruth Bader Ginsburg dies
+						Los Angeles City Mayor Provides Updated Efforts to Distinguish ‘Bob Cat F...
+						L.A. County Relies on Strong Hold of Community Assistance to Respond to COV...
+						Police officers not charged for killing Breonna Taylor
+						The Dreamers Youth Foundation’s, Samantha Smith and Osh Speak on Givi...
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

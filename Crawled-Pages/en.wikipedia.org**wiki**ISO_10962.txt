@@ -1,0 +1,752 @@
+	ISO 10962
+		From Wikipedia, the free encyclopedia
+		Jump to navigation
+		Jump to search
+		This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+      This article provides insufficient context for those unfamiliar with the subject. Please help improve the article by providing more context for the reader.  (July 2013) (Learn how and when to remove this template message)
+This article relies largely or entirely on a single source. Relevant discussion may be found on the talk page. Please help improve this article by introducing citations to additional sources.Find sources: "ISO 10962" – news · newspapers · books · scholar · JSTOR  (July 2013)
+This article may contain an excessive amount of intricate detail that may interest only a particular audience. Please help by spinning off or relocating any relevant information, and removing excessive detail that may be against Wikipedia's inclusion policy.  (July 2013) (Learn how and when to remove this template message)
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "ISO 10962" – news · newspapers · books · scholar · JSTOR  (July 2013) (Learn how and when to remove this template message)
+Some of this article's listed sources may not be reliable. Please help this article by looking for better, more reliable sources. Unreliable citations may be challenged or deleted.  (July 2013) (Learn how and when to remove this template message)
+ (Learn how and when to remove this template message)
+ISO 10962 defines the structure and format for classification of financial instruments approved by the International Organization for Standardization (ISO).
+There are many types of Financial Instruments used for saving, investing, trading, hedging and speculating.  These instruments are generally organized in groups called "asset classifications." The most common asset classifications are generally described using terms like "Equities (Stocks)," "Debt (Bonds)," "Derivatives (Contracts)," "Currencies," and a few other generalized terms.
+ISO 10962 provides a global standard for these classifications in the form of specific codes.  Classification of financial instrument (CFI) Code is used to define and describe financial instruments as a uniform set of codes for all market participants.[1]
+The code is issued by the members of ANNA, the Association of National Numbering Agencies.  The group is currently working to simplify the structure so that it can be adopted more widely by non-governmental market participants.
+The letters from the ISO basic Latin alphabet in each position of this 6 character code reflect specific characteristics intrinsic to the financial instruments that are defined at the issue of the instrument, and which in most cases remain unchanged during the lifetime of the instrument (or by the market on which the instrument trades).[2]
+Contents
+1 History of ISO 10962 Modification
+2 Background and Goals of Introduction
+3 Structure of CFI Code
+4 Table of CFI Code Construction
+5 Sample of Main CFI Classifications
+6 Existing Possible Values
+7 See also
+8 References
+9 External links
+History of ISO 10962 Modification[edit]
+Standard was first accepted and published in 1997 as ISO 10962:1997[3]
+Its first revision, published in 2001, was ISO 10962:2001[4]
+In 2006, FIX Protocol group published a proposal for changes of the standard for Consultation.[2]
+The last revised and accepted version of the standard is ISO 10962:2015 and was published by ISO in 2015.[5]
+As of April 2019, the next revision is in development as ISO/DIS 10962.[6]
+Background and Goals of Introduction[edit]
+Where distinct entities transact it is seen as helpful to establish a common transaction language. The CFI code is meant to provide the most comprehensive information possible, while at the same time maintaining the code manageability, provides a standard for identification of type of instrument and their main high level characteristics, determined by the intrinsic characteristics of the financial instrument, which would be independent of the individual names or conventions of a given country or financial institution. This principle avoids confusion arising from different linguistic usage as well as redundancy, while allowing an objective comparison of the instruments across markets.[2]
+CFI codes also aim to simplify electronic communication between participants, improve understanding of the characteristics of financial instruments for the investors, and allow securities grouping in a consistent manner for reporting and categorization purposes.[1]
+Structure of CFI Code[edit]
+The first character indicates the highest level of category to which the instrument belongs: Equities, Debt, Entitlements (Rights, Warrants), Options, Futures and Others (Miscellaneous).[7]
+The second character refers to specific groups within each category. For example, the subdivisions of the Equities category are: ordinary shares, preferred/preference shares, units, and others, while for the Debt instruments category, the subdivisions are: bonds, convertible bonds, money market instruments, and others.[7]
+The other four characters refer to each group's main features. For example, in the case of equities, whether they are voting or non-voting, restrictions, payment status, etc. In the case of Debt instruments, the type of interest (fixed or variable), guarantee, form of redemption, etc.[7]
+The letter X always means Not Applicable/Undefined.
+Table of CFI Code Construction[edit]
+Classification of Financial Instruments
+Category
+Group
+Attribute 1
+Attribute 2
+Attribute 3
+Attribute 4
+Code
+D = Debt Instruments
+(D-*-*-*-*-*)
+B - Bonds
+F - Fixed interest rate
+(D-B-*-*-*-*)
+C - Convertible Bonds
+V - Variable interest rate
+(D-C-*-*-*-*)
+M - Miscellaneous
+X - Not available
+(D-M-*-*-*-*)
+T - Medium-term notes
+Z - Zero interest rate
+(D-T-*-*-*-*)
+G - Mortgage-backed
+(D-G-*-*-*-*)
+W - Warrants attached to bonds
+(D-W-*-*-*-*)
+Y - Money market instruments
+(D-Y-*-*-*-*)
+E = Equities
+(E-*-*-*-*-*)
+S - Shares
+Voting Right
+Ownership
+Payment Status
+Form
+(E-S-*-*-*-*)
+E = Enhanced voting
+(E-S-E-*-*-*)
+N = Non-voting
+(E-S-N-*-*-*)
+R = Restricted voting
+(E-S-R-*-*-*)
+V = Voting
+(E-S-V-*-*-*)
+T = Restrictions
+(E-S-*-T-*-*)
+U = Free
+(E-S-*-F-*-*)
+F = Fully paid
+(E-S-*-*-F-*)
+O = Nil paid
+(E-S-*-*-O-*)
+P = Partly paid
+(E-S-*-*-P-*)
+A = Registered depository receipt
+(E-S-*-*-*-A)
+B = Bearer
+(E-S-*-*-*-B)
+N = Bearer/Registered
+(E-S-*-*-*-N)
+R = Registered
+(E-S-*-*-*-R)
+Z = Bearer depository receipt
+(E-S-*-*-*-Z)
+Sample of Main CFI Classifications[edit]
+E
+Equities
+D
+Debt Instruments
+ES
+Shares
+DB
+Bonds
+EP
+Preferred shares
+DC
+Convertible bonds
+ER
+Preference shares
+DW
+Bonds with warrants attached
+EC
+Convertible shares
+DT
+Medium-term notes
+EF
+Preferred convertible shares
+DY
+Money market instruments
+EV
+Preference convertibles shares
+DM
+Others (Miscellaneous)
+EU
+Units, i.e. unit trusts/mutual funds/OPCVM/OICVM
+R
+Entitlements (Rights)
+O
+Options
+RA
+Allotment rights
+OC
+Call options
+RS
+Subscription rights
+OP
+Put options
+RP
+Purchase rights
+OM
+Others
+RW
+Warrants
+RM
+Others
+F
+Futures
+M
+Others (Miscellaneous)
+FF
+Financial futures
+MR
+FC
+Commodities futures
+MM
+Other assets (Miscellaneous), e.g. Real Estate, Insurance Policies
+Existing Possible Values[edit]
+E = Equities
+S = Shares (common/ordinary)
+1: Voting Right
+V = Voting
+N = non Voting (svir[clarification needed])
+2: Ownership/transfer restrictions
+T = Restrictions
+U = Free
+3: Payment status
+O = Nil paid
+P = Partly paid
+F = Fully paid
+4: Form:
+B = Bearer
+R = Registered
+N = Bearer/Registered
+Z = Bearer depository receipt
+A = Registered depository receipt
+P = Preferred Shares
+R = Preference Shares
+C = Convertible shares
+F = Preferred convertible shares
+V = Preference convertible shares
+U = Units (units trusts/mutual funds)
+M = Others
+D = Debt Instruments
+B = Bonds
+C = Convertible bonds
+M = Others
+T = Medium-term Notes
+W = Bonds With Warrants Attached
+Y = Money Market Instruments
+R = Entitlements (Rights)
+A = Allotment Rights
+M = Others (Miscellaneous)
+S = Subscription rights
+W = Warrants
+O = Options
+C = Call Options
+1: Exercise Style
+A = American
+E = European
+B = Bermudan
+2: Underlying Asset
+S = Stock
+I = Index
+D = Debt
+C = Currency
+O = Option
+F = Future
+T = Commodity
+W = Swap
+B = Basket
+N = Interest Rates
+M = Other
+3: Delivery
+C = Cash
+P = Physical
+N = Non-Deliverable
+E = Elect at Exercise
+4: Standard/Non-standard
+S = Standard
+N = Non-standard
+P = Put Options
+Same as Call
+M = Others Options
+Attributes 1 to 4:
+X = not used
+F = Futures[8]
+C = Commodities Futures
+1: Underlying Asset
+A = Agricultural
+E = Extraction
+I = Industrial
+S = Service
+2: Delivery
+C = Cash
+P = Physical
+3: Standard/Non-standard
+S = Standard
+N = Non-standard
+4: not used
+X = not used
+F = Financial Futures
+1: Underlying Asset
+S = Stock
+I = Index
+D = Debt
+C = Currency
+O = Option
+F = Future
+W = Swap
+B = Basket
+M = Other
+2: Delivery
+C = Cash
+P = Physical
+3: Standard/Non-standard
+S = Standard
+N = Non-standard
+4: not used
+X = not used
+M = Others (Miscellaneous)
+M = Other Assets (Miscellaneous)
+R = Referential Instruments
+1: Further grouping
+C = Currencies
+T = Commodities
+R = Interest Rates
+I = Indices
+Example: 
+ESNTPB is Equities/Shares/Non-voting/Restrictions/Partly paid/Bearer
+ESXXXX is Equities/Shares (no more details)
+OPASPS is Options/Put/American/Stock/Physical/Standard
+FFIXXX is Futures/Financial/Index
+FXXXXX is Futures (no more details)
+RWXXXX is Rights/Warrant (no more details)
+See also[edit]
+Capital Market Taxonomy
+Central Index Key
+CUSIP
+ISO 6166
+ISO 10383
+ISO 20022
+International Securities Identifying Number
+NSIN
+FIX Protocol newsletter describing the options and futures CFI codes
+References[edit]
+^ a b "CFI &amp; ISO 10962 on ANNA website". Association of National Numbering Agencies (ANNA). Retrieved 30 July 2013..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}
+^ a b c "Securities and related financial instruments — Classification of Financial Instruments (CFI code) – [Revision of ISO 10962:2001]" (PDF). FIX Protocol association (FPL). Retrieved 30 July 2013.[permanent dead link]
+^ "ISO 10962:2001". ISO. Retrieved 26 April 2019.
+^ "ISO 10962:2001". ISO. Retrieved 26 April 2019.
+^ "ISO 10962:2015". International Organization for Standardization (ISO). Archived from the original on 2017-03-02.
+^ "ISO/DIS 10962". ISO. Retrieved 26 April 2019.
+^ a b c "CFI Code description on CNVM site". The Comisión Nacional del Mercado de Valores (CNVM). Retrieved 30 July 2013.
+^ "2006 Revision to ISO 10962". Archived from the original on December 10, 2014. Retrieved February 4, 2015.
+External links[edit]
+Classification of Financial Instruments codes (CFI, norm ISO 10962:2015)
+ISIN Assistance
+vteISO standards .mw-parser-output .nobold{font-weight:normal}by standard numberList of ISO standards / ISO romanizations / IEC standards1–9999
+1
+2
+3
+4
+5
+6
+7
+9
+16
+17
+31
+-0
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+-11
+-12
+-13
+128
+216
+217
+226
+228
+233
+259
+269
+302
+306
+361
+428
+500
+518
+519
+639
+-1
+-2
+-3
+-5
+-6
+646
+657
+668
+690
+704
+732
+764
+838
+843
+860
+898
+965
+999
+1000
+1004
+1007
+1073-1
+1155
+1413
+1538
+1629
+1745
+1989
+2014
+2015
+2022
+2033
+2047
+2108
+2145
+2146
+2240
+2281
+2533
+2709
+2711
+2720
+2788
+2848
+2852
+3029
+3103
+3166
+-1
+-2
+-3
+3297
+3307
+3601
+3602
+3864
+3901
+3950
+3977
+4031
+4157
+4165
+4217
+4909
+5218
+5426
+5427
+5428
+5725
+5775
+5776
+5800
+5807
+5964
+6166
+6344
+6346
+6385
+6425
+6429
+6438
+6523
+6709
+6943
+7001
+7002
+7010
+7027
+7064
+7098
+7185
+7200
+7498
+-1
+7637
+7736
+7810
+7811
+7812
+7813
+7816
+7942
+8000
+8093
+8178
+8217
+8373
+8501-1
+8571
+8583
+8601
+8613
+8632
+8651
+8652
+8691
+8805/8806
+8807
+8820-5
+8859
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-8-I
+-9
+-10
+-11
+-12
+-13
+-14
+-15
+-16
+8879
+9000/9001
+9036
+9075
+9126
+9141
+9227
+9241
+9293
+9314
+9362
+9407
+9506
+9529
+9564
+9592/9593
+9594
+9660
+9797-1
+9897
+9899
+9945
+9984
+9985
+9995
+10000–19999
+10005
+10006
+10007
+10116
+10118-3
+10160
+10161
+10165
+10179
+10206
+10218
+10303
+-11
+-21
+-22
+-28
+-238
+10383
+10487
+10585
+10589
+10646
+10664
+10746
+10861
+10957
+10962
+10967
+11073
+11170
+11179
+11404
+11544
+11783
+11784
+11785
+11801
+11889
+11898
+11940 (-2)
+11941
+11941 (TR)
+11992
+12006
+12182
+12207
+12234-2
+13211
+-1
+-2
+13216
+13250
+13399
+13406-2
+13450
+13485
+13490
+13567
+13568
+13584
+13616
+14000
+14031
+14224
+14289
+14396
+14443
+14496
+-2
+-3
+-6
+-10
+-11
+-12
+-14
+-17
+-20
+14644
+14649
+14651
+14698
+14750
+14764
+14882
+14971
+15022
+15189
+15288
+15291
+15292
+15398
+15408
+15444
+-3
+15445
+15438
+15504
+15511
+15686
+15693
+15706
+-2
+15707
+15897
+15919
+15924
+15926
+15926 WIP
+15930
+16023
+16262
+16355-1
+16612-2
+16750
+16949 (TS)
+17024
+17025
+17100
+17203
+17369
+17442
+17799
+18000
+18004
+18014
+18245
+18629
+18916
+19005
+19011
+19092
+-1
+-2
+19114
+19115
+19125
+19136
+19407
+19439
+19500
+19501
+19502
+19503
+19505
+19506
+19507
+19508
+19509
+19510
+19600
+19752
+19757
+19770
+19775-1
+19794-5
+19831
+20000+
+20000
+20022
+20121
+20400
+21000
+21047
+21500
+21827
+22000
+22300
+22395
+23270
+23271
+23360
+24517
+24613
+24617
+24707
+25178
+25964
+26000
+26262
+26300
+26324
+27000 series
+27000
+27001
+27002
+27005
+27006
+27729
+28000
+29110
+29148
+29199-2
+29500
+30170
+31000
+32000
+37001
+38500
+40500
+42010
+45001
+50001
+55000
+80000
+-1
+ Category
+Retrieved from "https://en.wikipedia.org/w/index.php?title=ISO_10962&amp;oldid=965982097"
+		Categories: Security identifier typesISO standardsFinancial regulationFinancial metadataHidden categories: All articles with dead external linksArticles with dead external links from January 2020Articles with permanently dead external linksWikipedia articles needing context from July 2013All Wikipedia articles needing contextWikipedia introduction cleanup from July 2013All pages needing cleanupArticles needing additional references from July 2013All articles needing additional referencesWikipedia articles that are excessively detailed from July 2013All articles that are excessively detailedWikipedia articles with style issues from July 2013All articles with style issuesArticles lacking reliable references from July 2013All articles lacking reliable referencesArticles with multiple maintenance issuesWikipedia articles needing clarification from April 2020
+	Navigation menu
+		Personal tools
+		Not logged inTalkContributionsCreate accountLog in
+		Namespaces
+		ArticleTalk
+		Variants
+		Views
+		ReadEditView history
+		More
+		Search
+		Navigation
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		Contribute
+		HelpLearn to editCommunity portalRecent changesUpload file
+		Tools
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		Print/export
+		Download as PDFPrintable version
+		Languages
+		Yorùbá
+		Edit links
+		 This page was last edited on 4 July 2020, at 15:48 (UTC).
+		Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+		Privacy policy
+		About Wikipedia
+		Disclaimers
+		Contact Wikipedia
+		Mobile view
+		Developers
+		Statistics
+		Cookie statement

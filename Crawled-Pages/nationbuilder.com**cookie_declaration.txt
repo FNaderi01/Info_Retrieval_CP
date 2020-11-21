@@ -1,0 +1,282 @@
+mlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"&gt;
+		Cookie declaration - NationBuilder
+		 -->
+label[for="face_tweet_is_facebook"]{display:none;}
+		Skip to main content
+			If you are organizing essential services or emergency response to COVID-19, activate your free account
+        Support: 1-213-394-4623  Contact sales
+    Sign in 
+          Sign in to your nation
+            Sign in to your nation
+            Access your nation's control panel
+          Sign in to NationBuilder.com
+            Sign in to NationBuilder.com
+            Engage with the NationBuilder community on this website
+        Toggle navigation
+        Software
+            Run your nonprofit
+              Run your nonprofit
+              Build the infrastructure to strengthen your supporter relationships and scale your organization.
+            Build your advocacy organization
+              Build your advocacy organization
+              Find, mobilize, and equip your best advocates to spread your message around the world.
+            Win your election
+              Win your election
+              Fully-integrated software to help you reach the right people and get out the vote.
+            Enterprise organizations
+              Enterprise organizations
+              Grow, target, and activate your community.
+            Networks
+              Networks
+              Unified infrastructure for your headquarters and local chapters.
+    Pricing
+    Blog
+    Resources
+    Support
+    Start your free trial
+    Sign in to your nation
+    Sign in to NationBuilder.com
+#content {
+	margin-top: 34px;
+}
+#content h1 {
+	margin-top: 24px;
+}
+					Cookie declaration
+          Master Terms of Service
+          Privacy Policy
+          Email Acceptable Use Policy
+          Acceptable Use Policy
+          CCPA Data Processing Addendum
+          GDPR Data Processing Addendum
+          List of Subprocessors
+          Use of Voter Data
+          Cookie Declaration
+		Master Terms of Service
+		Privacy Policy
+		Email Acceptable Use Policy
+		Acceptable Use Policy
+    CCPA Data Processing Addendum
+		GDPR Data Processing Addendum
+		List of Subprocessors
+  Use of Voter Data
+  Cookie Declaration
+				Cookie Declaration
+  @media (max-width: 991px) {
+    .h4-accordion {
+      border-bottom: 1px solid #555B5E;
+    }
+  }
+  footer ul.minimize:not(.expandit) {
+    margin-top: 0;
+  }
+  div#footer-software ul.minimize.expandit:nth-child(2) {
+    height: 188px;
+  }
+  div#footer-community ul.minimize.expandit {
+    height: 190px;
+  }
+  div#footer-resources ul.minimize.expandit {
+    height: 211px;
+  }
+  div#footer-support ul.minimize.expandit {
+    height: 158px;
+  }
+  div#footer-about ul.minimize.expandit {
+    height: 216px;
+  }
+  footer {
+    background: #000;
+    padding: 0 0 40px 0;
+  }
+  .footer-primary-nav {
+    height: 140px;
+    /* border-bottom: 1px solid #333; */
+    margin-bottom: 20px;
+  }
+  .footer-primary-nav ul {
+    margin: 0;
+    padding: 0;
+  }
+  .footer-primary-nav li {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 20px;
+  }
+  .footer-primary-nav li:last-child {
+    margin-right: 0;
+  }
+  .footer-primary-nav-align {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  .form-submitting {
+    bottom: 0px;
+    left: -295px;
+  }
+  .footer-links .link-offsite:after {
+    font-size: 11px;
+    margin-bottom: 2px;
+  }
+  @media (max-width: 1199px) {
+    .form-submitting {
+      left: -335px;
+    }
+  }
+  @media (max-width: 991px) {
+    .footer-primary-nav .signin {
+      padding-bottom: 20px;
+      text-align: center;
+      margin-top: -15px;
+    }
+    .footer-primary-nav {
+      height: 160px;
+    }
+    .footer-primary-nav-align {
+      text-align: center;
+    }
+    .form-submitting {
+      left: -385px;
+      bottom: -90px;
+    }
+  }
+  @media (max-width: 767px) {
+    .form-submitting {
+      left: 0px;
+      bottom: -182px;
+    }
+  }
+  @media (max-width: 496px) {
+    .footer-primary-nav {
+      height: 200px;
+    }
+    .footer-primary-nav .signin {
+      padding-bottom: 40px;
+      margin-top: -20px;
+    }
+    .footer-primary-nav li {
+      margin-bottom: 15px;
+    }
+    .footer-cta-align h1 {
+      font-size: 21px;
+    }
+  }
+  .footer-cta {
+    border-bottom: 1px solid #404040;
+    background: #111111;
+  }
+  .footer-cta-row {
+    height: 250px;
+  }
+  .footer-cta-align {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  .footer-cta-align .form-group.float-label {
+    margin-top: 9px;
+  }
+  .footer-cta-align .input-tall,
+  .footer-cta-align .form-group.float-label .input-tall {
+    height: 54px;
+    width: 100%;
+    font-size: 18px;
+  }
+  .footer-cta-align .float-label label.float-true,
+  .footer-cta-align .float-label label.float-auto {
+    top: 0;
+  }
+  .form-align {
+    margin-top: 38px;
+  }
+  .form-on-dark .or-call {
+    color: #9F9F9F;
+    font-size: 1rem;
+    text-align: center;
+    margin-top: 5px;
+  }
+@media (max-width: 1199px) {
+  .footer-headline {
+    text-align: center;
+    margin-top: -50px;
+  }
+}
+@media (max-width: 991px) {
+    .form-align {
+      margin-top: 0;
+    }
+    .footer-headline {
+      margin-top: -80px;
+    }
+  }
+@media (max-width: 767px) {
+  .footer-cta-align h1 {
+    margin-bottom: 5px;
+  }
+  .footer-cta-align .form-submit {
+    text-align: center;
+  }
+  /*.footer-cta-align input {
+    max-width: 350px;
+    margin: 0 auto;
+  }*/
+  .footer-cta-row {
+    height: 300px;
+  }
+  .footer-headline {
+    margin-top: -107px;
+  }
+}
+        Sign in to NationBuilder.com  Sign in to your nation
+          Live demos
+          Apps &amp; Integrations
+          Free voter file
+          Free trial
+        Software
+          Start free trial
+          Pricing
+          Run your nonprofit
+          Build your advocacy organization
+          Win your election
+          For Enterprise
+          For Networks
+          How's it different?
+        Resources
+              Demos &amp; webinars
+              Website themes
+              Apps &amp; Integrations
+              Hire a pro
+              Team training
+              Courses
+              Events
+              Release notes
+              Blog
+              Customer stories
+              Become a partner
+              Developers
+              Europe, Canada, Australia
+              Free voter file
+              HERE WE ARE
+              Run for Office
+        Support
+          Submit a support request
+          Intro to NationBuilder
+          Documentation
+          FAQs
+          Product suggestions
+          Professional services
+          Service status  &amp; Uptime
+        Company
+          About
+          Jobs
+          Mission &amp; beliefs
+          Philosophy
+          Truths
+          Brand resources
+          Confidentiality
+          Terms &amp; Privacy Policy
+         · 1-213-992-4809PO Box 811428, Los Angeles, CA 90081
+    Created with NationBuilder

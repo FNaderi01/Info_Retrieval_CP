@@ -1,0 +1,336 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+NAMAD Honors James Farmer with Lifetime Achievement Award            
+				By Stacy M. Brown, NNPA Newswire Correspondent                
+	                	                Published August 9, 2019
+		Retired GMAC Vice President for Merchandising, Advertising and Communications James Farmer remains one of the fiercest advocates for the Black Press in the automotive industry. The NNPA honored Farmer with the 2018 NNPA Torch Award for Outstanding Leadership and Service for over 50 years in the Automotive Industry and Support of the NNPA. (Courtesy photo)
+After a half-century in the automobile industry, James Farmer has certainly seen it all.
+And, after receiving a lifetime achievement award from the National Association of Minority Automobile Dealers (NAMAD) earlier this month, Farmer took time to reflect.
+“I’ve seen this industry grow – and grow for African Americans,” Farmer said.
+        ADVERTISEMENT        
+“I can remember at a NAMAD banquet there were two tables, maybe three at a conference of minority dealers,” he said. “But I watched it grow to the level that it is today with many [tables] and, to be in a position within General Motors and to assist the industry and see it grow, has been gratifying,” he said.
+Farmer has set the example for many inside and outside of the automobile industry.
+He earned a Bachelor’s of Science degree in marketing from Central State University, Wilberforce, Ohio in 1967 and, after nearly 10 years in advertising, sales and marketing at the Airtemp division of the Chrysler Corporation, he began his career with General Motors at the former Delco Products Division in Dayton, Ohio, in 1976.
+He held a number of key leadership positions at GM including: Group Director of Communications for GM’s Small Car Group in 1994; Group Director of Public Relations and Communications, GM North American Sales, Service and Marketing in 1998; General Director Marketing and Constituency Communications with GM’s Worldwide Communications Group in 1999; and Vice President of Merchandising, Advertising and Communications at GMAC until his retirement in 2004.
+Even though Farmer retired as a vice president of GMAC in 2004, he remained committed to fostering positive business relationships between the Black Press and the auto industry.
+“Jim Farmer has done so many great things, solved so many problems, and he’s bridged so many gaps for our industry,” said Damon Lester, the president and CEO of NAMAD, a Washington, D.C.-based nonprofit that’s dedicated to developing strategic relationships and advocating for the advancement of business policies and practices that ensure diversity and economic parity remain a priority in all aspects of the American automotive industry.
+“His value goes well beyond his tenure at General Motors,” Lester said.
+“His character and integrity are legendary and no matter what the issue was, no matter how dire the situation, he could pick up that phone and call a Rev. Jesse Jackson or a Rev. Al Sharpton or someone and have a dialogue with them and get their perspective and come back to everyone else with some sort of middle ground that was fair for all parties,” Lester said.
+“He has a heck of a legacy,” he said.
+Farmer, who also has been honored by the National Newspaper Publishers Association (NNPA, The Black Press of America) with the organization’s prestigious Torch Award, Legacy of Excellence Award and Lifetime Achievement Award, recalled his youth when he sold EBONY and Jet magazines and the Cleveland Call and Post newspapers.
+He said that’s where his connection to the Black Press began.
+“I grew up with it,” said Farmer, who remains an advocate of the Black Press.
+“James Ellis Farmer is the epitome of more than a half century of career excellence in the automotive industry,” NNPA President and CEO Dr. Benjamin F. Chavis, Jr., said.
+“The Black Press of America via the NNPA salutes Jim Farmer for his outstanding global leadership,” Chavis said.
+Farmer was appointed to the President’s Committee on the Arts and the Humanities under President George W. Bush where he traveled the world as a cultural ambassador.
+A member of the Board of Advisors at the Harvard School of Divinity Summer Leadership Institute, Cambridge, Massachusetts and the Thelonious Monk Institute of Jazz in Washington, DC, Farmer also served on the National Board of Advisors Development Team, planning the commemoration of the 40th Anniversary of the John H. Johnson School of Communications at Howard University, Washington, DC.
+Farmer also has presented the President’s Committee on the Arts and the Humanities in France, Vietnam and India, and most recently in China, as part of a Global Cultural exchange program with the U. S. Department of State and the Theolonious Monk Institute of Jazz.
+However, Farmer’s passion has always been in the auto industry.
+“My career has been gratifying,” he said.
+“I do remember the unfortunate economic conditions that befell the country and the automobile industry, and we saw a drop off in automobile dealers – a dropping of Pontiac, Oldsmobile, Saturn,” Farmer said.
+“That meant that it affected a number of dealers of color who had franchises,” he said.
+Now that the economy is steady, or some would say robust, Farmer said he’s hoping that more young people of color will look to own dealerships.
+“There are opportunities at GM and other places and the time is right,” he said.
+“Today, it’s so diverse. I remember when GM, Ford and Chrysler had more than 90 percent of the market. Today, they collectively might have 40 percent.”
+“So, in the auto industry these days, people have to have diversity. Not just in color, but in thought because we have cars today that we didn’t have 50 years ago, and I also remember when there were only about six black dealers [nationwide] and now GM has 50,” Farmer said.
+With that, it’s important to capitalize on the opportunities available, which was a lesson Farmer said he learned when he was a child.
+“I am one of 14 kids and my mother and father were married for 61 years and they raised us with the idea that, when much is given, much is expected,” Farmer said.
+“So, when you’re blessed, you have to share those blessings and that is just basic philosophy and it’s kind of a religious belief that I have always had during my years at Chrysler and GM,” he said.
+		Categories: National | News Tags: advertising | African Americans | Airtemp division of the Chrysler Corporation | American automotive industry | auto industry | automobile industry | Bachelor’s of Science degree | Black Press | business policies | Cambridge Massachusetts | Central State University | China | Chrysler | Cleveland Call and Post newspapers | Damon Lester | Dayton Ohio | dealers of color | Delco Products Division | diversity | Dr. Benjamin F. Chavis Jr. | Ebony | economic parity | Ford | France | General Motors | Global Cultural exchange program | GM | GM North American Sales Service and Marketing | GM’s Small Car Group | GM’s Worldwide Communications Group | GMAC | Harvard School of Divinity Summer Leadership Institute | India | James Farmer | Jet | John H. Johnson School of Communications at Howard University | Marketing | NAMAD | NAMAD banquet | National Association of Minority Automobile Dealers (NAMAD) | National Newspaper Publishers Association | NNPA Newswire | Oldsmobile | Pontiac | President George W. Bush | President’s Committee on the Arts and the Humanities | Rev. Al Sharpton | Rev. Jesse Jackson | sales | Saturn | Stacy M. Brown | Thelonious Monk Institute of Jazz | Theolonious Monk Institute of Jazz | U. S. Department of State | Vietnam | Washington D.C. | Washington DC | Wilberforce Ohio		
+						Black Fact of the Day: August 12, 2019 – Brought to you by Black365
+						Michael Brown’s Father Seeks New Investigation into Killing
+						A Beautiful Life Story of Eleanor Moore
+						Cop Who Killed Eric Garner on Video Finally Closer to Being Fired After Fiv...
+						Ivie McNeill Wyatt Purcell &amp; Diggs law firm host 5th Annual Client Appr...
+						California Officer Likely Unaware of Killer’s Criminal Past
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

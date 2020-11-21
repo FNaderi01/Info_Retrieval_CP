@@ -1,0 +1,330 @@
+        About
+            Branching and Merging
+            Small and Fast
+            Distributed
+            Data Assurance
+            Staging Area
+            Free and Open Source
+            Trademark
+        Documentation
+            Reference
+            Book
+            Videos
+            External Links
+        Downloads
+            GUI Clients
+            Logos
+        Community
+This book is available in
+  English.
+  Full translation available in
+    български език,
+    Deutsch,
+    Español,
+    Français,
+    Ελληνικά,
+    日本語,
+    한국어,
+    Nederlands,
+    Русский,
+    Slovenščina,
+    Tagalog,
+    Українська
+    简体中文,
+  Partial translations available in
+    Čeština,
+    Македонски,
+    Polski,
+    Српски,
+    Ўзбекча,
+    繁體中文,
+  Translations started for
+    azərbaycan dili,
+    Беларуская,
+    فارسی,
+    Indonesian,
+    Italiano,
+    Bahasa Melayu,
+    Português (Brasil),
+    Português (Portugal),
+    Svenska,
+    Türkçe.
+The source of this book is  hosted on GitHub.
+Patches, suggestions and comments are welcome.
+  Chapters ▾
+  1. Erste Schritte
+          1.1
+          Was ist Versionsverwaltung? 
+          1.2
+          Kurzer Überblick über die Historie von Git 
+          1.3
+          Was ist Git? 
+          1.4
+          Die Kommandozeile 
+          1.5
+          Git installieren 
+          1.6
+          Git Basis-Konfiguration 
+          1.7
+          Hilfe finden 
+          1.8
+          Zusammenfassung 
+  2. Git Grundlagen
+          2.1
+          Ein Git-Repository anlegen 
+          2.2
+          Änderungen nachverfolgen und im Repository speichern 
+          2.3
+          Anzeigen der Commit-Historie 
+          2.4
+          Ungewollte Änderungen rückgängig machen 
+          2.5
+          Mit Remotes arbeiten 
+          2.6
+          Taggen 
+          2.7
+          Git Aliases 
+          2.8
+          Zusammenfassung 
+  3. Git Branching
+          3.1
+          Branches auf einen Blick 
+          3.2
+          Einfaches Branching und Merging 
+          3.3
+          Branch-Management 
+          3.4
+          Branching-Workflows 
+          3.5
+          Remote-Branches 
+          3.6
+          Rebasing 
+          3.7
+          Zusammenfassung 
+  4. Git auf dem Server
+          4.1
+          Die Protokolle 
+          4.2
+          Git auf einem Server einrichten 
+          4.3
+          Erstellung eines SSH-Public-Keys 
+          4.4
+          Einrichten des Servers 
+          4.5
+          Git-Daemon 
+          4.6
+          Smart HTTP 
+          4.7
+          GitWeb 
+          4.8
+          GitLab 
+          4.9
+          Von Drittanbietern gehostete Optionen 
+          4.10
+          Zusammenfassung 
+  5. Verteiltes Git
+          5.1
+          Verteilter Arbeitsablauf 
+          5.2
+          An einem Projekt mitwirken 
+          5.3
+          Ein Projekt verwalten 
+          5.4
+          Zusammenfassung 
+  6. GitHub
+          6.1
+          Einrichten und Konfigurieren eines Kontos 
+          6.2
+          Mitwirken an einem Projekt 
+          6.3
+          Ein Projekt betreuen 
+          6.4
+          Verwalten einer Organisation 
+          6.5
+          Skripte mit GitHub 
+          6.6
+          Zusammenfassung 
+  7. Git Tools
+          7.1
+          Revisions-Auswahl 
+          7.2
+          Interaktives Stagen 
+          7.3
+          Stashen und Bereinigen 
+          7.4
+          Ihre Arbeit signieren 
+          7.5
+          Suchen 
+          7.6
+          Den Verlauf umschreiben 
+          7.7
+          Reset entzaubert 
+          7.8
+          Fortgeschrittenes Merging 
+          7.9
+          Rerere 
+          7.10
+          Debuggen mit Git 
+          7.11
+          Submodule 
+          7.12
+          Bundling 
+          7.13
+          Replace (Ersetzen) 
+          7.14
+          Anmeldeinformationen speichern 
+          7.15
+          Zusammenfassung 
+  8. Git einrichten
+          8.1
+          Git Konfiguration 
+          8.2
+          Git-Attribute 
+          8.3
+          Git Hooks 
+          8.4
+          Beispiel für Git-forcierte Regeln 
+          8.5
+          Zusammenfassung 
+  9. Git und andere Systeme
+          9.1
+          Git als Client 
+          9.2
+          Migration zu Git 
+          9.3
+          Zusammenfassung 
+  10. Git Interna
+          10.1
+          Basisbefehle und Standardbefehle (Plumbing and Porcelain) 
+          10.2
+          Git Objekte 
+          10.3
+          Git Referenzen 
+          10.4
+          Packdateien (engl. Packfiles) 
+          10.5
+          Die Referenzspezifikation (engl. Refspec) 
+          10.6
+          Transfer Protokolle 
+          10.7
+          Wartung und Datenwiederherstellung 
+          10.8
+          Zusammenfassung 
+  A1. Appendix A: Git in anderen Umgebungen
+          A1.1
+          Grafische Schnittstellen 
+          A1.2
+          Git in Visual Studio 
+          A1.3
+          Git in Visual Studio Code 
+          A1.4
+          Git in Eclipse 
+          A1.5
+          Git in IntelliJ / PyCharm / WebStorm / PhpStorm / RubyMine 
+          A1.6
+          Git in Sublime Text 
+          A1.7
+          Git in Bash 
+          A1.8
+          Git in Zsh 
+          A1.9
+          Git in PowerShell 
+          A1.10
+          Zusammenfassung 
+  A2. Appendix B: Git in Ihre Anwendungen einbetten
+          A2.1
+          Die Git-Kommandozeile 
+          A2.2
+          Libgit2 
+          A2.3
+          JGit 
+          A2.4
+          go-git 
+          A2.5
+          Dulwich 
+  A3. Appendix C: Git Kommandos
+          A3.1
+          Setup und Konfiguration 
+          A3.2
+          Projekte importieren und erstellen 
+          A3.3
+          Einfache Snapshot-Funktionen 
+          A3.4
+          Branching und Merging 
+          A3.5
+          Projekte gemeinsam nutzen und aktualisieren 
+          A3.6
+          Kontrollieren und Vergleichen 
+          A3.7
+          Debugging 
+          A3.8
+          Patchen bzw. Fehlerkorrektur 
+          A3.9
+          E-mails 
+          A3.10
+          Externe Systeme 
+          A3.11
+          Administration 
+          A3.12
+          Basisbefehle 
+      2nd Edition
+    6.1 GitHub - Einrichten und Konfigurieren eines Kontos
+GitHub ist der größte Einzelhost für Git-Repositorys und der zentrale Punkt der Teamarbeit für Millionen von Entwicklern und Projekten.
+Ein großer Teil aller Git-Repositorys wird auf GitHub gehostet und viele Open-Source-Projekte nutzen es für Git-Hosting, Issue Tracking, Code-Review und andere Dinge.
+Obwohl es kein direkter Bestandteil des Git Open-Source-Projekts ist, ist es sehr wahrscheinlich, dass Sie irgendwann mit GitHub in Kontakt treten möchten oder müssen, während Sie Git professionell nutzen.In diesem Kapitel geht es um die effektive Nutzung von GitHub.
+Wir behandeln die Anmeldung und Verwaltung eines Kontos, die Erstellung und Nutzung von Git-Repositorys, gemeinsame Workflows, um zu Projekten beizutragen und Beiträge für Ihre Projekte anzunehmen, die Programmoberfläche von GitHub und viele kleine Tipps, um Ihnen das Leben im Allgemeinen zu erleichtern.Wenn Sie nicht daran interessiert sind, GitHub zu verwenden, um Ihre eigenen Projekte zu hosten oder mit anderen an Projekten zusammenzuarbeiten, die auf GitHub gehostet sind, können Sie getrost zum nächsten Kapitel Git Tools springen.
+Einrichten und Konfigurieren eines Kontos
+Das erste, was Sie tun müssen, ist, ein kostenloses Benutzerkonto einzurichten.
+Besuchen Sie einfach https://github.com, wählen Sie einen noch unbenutzten Usernamen, geben Sie eine E-Mail-Adresse und ein Passwort ein und klicken Sie auf die große grüne Schaltfläche „Bei GitHub Anmelden“
+Figure 82. Das GitHub Anmeldeformular
+Das nächste, was Sie sehen werden, ist die Preisseite für Upgrade-Pakete. Sie können diese jedoch vorerst ignorieren.
+GitHub sendet Ihnen eine E-Mail, um die von Ihnen angegebene Adresse zu bestätigen.
+Fahren Sie fort indem Sie die erhaltene E-Mail bestätigen; das ist ziemlich wichtig, wie wir später sehen werden.
+Note
+GitHub bietet fast alle Funktionen kostenlos an, mit Ausnahme einiger erweiterter Funktionen.
+Die kostenpflichtigen Tarife von GitHub umfassen erweiterte Tools und Funktionen sowie erhöhte Limits für kostenlose Dienste. Diese werden in diesem Buch jedoch nicht behandelt.
+Weitere Informationen zu verfügbaren Tarifen und deren Vergleich erhalten Sie unter https://de.github.com/pricing.html.
+Wenn Sie auf das Octocat-Logo oben links auf dem Bildschirm klicken, gelangen Sie zu Ihrer Dashboard-Seite.
+Sie sind ab sofort in der Lage, GitHub zu benutzen.
+SSH-Zugang
+Ab sofort können Sie sich uneingeschränkt mit Git-Repositorys über das https:// Protokoll verbinden und sich mit dem gerade eingerichteten Benutzernamen und Passwort authentifizieren.
+Um jedoch öffentliche Projekte einfach zu klonen, müssen Sie sich nicht einmal anmelden – das Konto, das wir gerade erstellt haben, kommt ins Spiel, wenn wir Projekte forken und später zu unseren Forks wechseln.
+Wenn Sie SSH-Remotes verwenden möchten, müssen Sie einen öffentlichen Schlüssel konfigurieren
+Falls Sie noch keinen haben, siehe öffentlichen SSH-Schlüssel generieren.
+Öffnen Sie Ihre Kontoeinstellungen über den Link oben rechts im Fenster:
+Figure 83. Der Link „Account-Einstellungen“
+Wählen Sie dann auf der linken Seite den Bereich „SSH-Schlüssel“.
+Figure 84. Der Link „SSH-Schlüssel“
+Klicken Sie von dort aus auf die Schaltfläche „Add an SSH key“, geben Sie Ihrem Schlüssel einen Namen, fügen Sie den Inhalt Ihrer ~/.ssh/id_rsa.pub Public-Key-Datei (oder wie auch immer Sie sie genannt haben) in das Textfeld ein und klicken Sie auf „Add key“.
+Note
+Achten Sie darauf, dass Sie Ihrem SSH-Schlüssel einen Namen geben, an den Sie sich gut erinnern können.
+Sie können jeden Ihrer Schlüssel (z.B. „Mein Laptop“ oder „Arbeitskonto“) benennen, so dass Sie, falls Sie einen Schlüssel später widerrufen müssen, leicht erkennen können, nach welchem Sie suchen.
+Ihr Avatar-Bild
+Als nächstes können Sie, wenn Sie möchten, den für Sie generierten Avatar durch ein Bild Ihrer Wahl ersetzen.
+Gehen Sie zunächst auf die Registerkarte „Profil“ (oberhalb der Registerkarte SSH-Schlüssel) und klicken Sie auf „Neues Bild hochladen“.
+Figure 85. Der Link „Profile“
+In diesem Beispiel wählen wir eine Kopie des Git-Logos, das sich auf unserer Festplatte befindet und anschließend haben wir die Möglichkeit, es zu beschneiden.
+Figure 86. Ihr Avatar-Bild beschneiden
+Nun sehen die Betrachter überall dort, wo Sie auf der Website agieren, Ihr Avatar-Bild neben Ihrem Benutzernamen.
+Wenn Sie bei dem beliebten Gravatar-Dienst ( der oft für Wordpress-Konten verwendet wird) einen Avatar hochgeladen haben, wird dieser standardmäßig verwendet und Sie müssen diesen Schritt nicht mehr ausführen.
+Ihre Email-Adressen
+GitHub bildet Ihre Git Commits auf Ihren Account ab, wobei die Zuordnung per E-Mail erfolgt.
+Wenn Sie mehrere E-Mail-Adressen in Ihren Commits verwenden und möchten, dass GitHub diese korrekt verknüpft, müssen Sie alle von Ihnen verwendeten E-Mail-Adressen in den E-Mail-Bereich des Admin-Bereichs aufnehmen.
+Figure 87. E-Mail-Adressen hinzufügen
+Unter E-Mail-Adressen hinzufügen können Sie den Status einer E-Mail Adresse ersehen, einige der verschiedenen, möglichen Stadien sind oben abgebildet.
+Die oberste Adresse ist verifiziert und als Hauptadresse (engl. Primary) eingestellt, d.h. an diese Adresse gehen alle Benachrichtigungen und Empfangsbestätigungen.
+Die zweite Adresse ist verifiziert und kann, wenn Sie sie wechseln möchten, als primär eingestellt werden.
+Die letzte Adresse ist noch nicht verifiziert, was bedeutet, dass Sie sie nicht zu Ihrer Hauptadresse machen können.
+Wenn GitHub eine davon in Commit-Nachrichten in einem beliebigen Repository auf der Website sieht, wird sie jetzt mit Ihrem Benutzer-Konto verknüpft.
+Zwei-Faktor-Authentifizierung
+Schließlich sollten Sie aus Sicherheitsgründen auf jeden Fall die Two-Factor-Authentifizierung oder „2FA“ einrichten.
+Die Zwei-Faktor-Authentifizierung ist ein Authentifizierungs-Mechanismus, der in letzter Zeit immer beliebter wird, damit das Risiko verringert wird, dass Ihr Account durch den Diebstahl Ihres Passworts Schaden erleidet.
+Wenn Sie die Funktion einschalten, fragt Sie GitHub nach zwei verschiedenen Authentifizierungsmethoden, so dass ein Angreifer, wenn eine davon beschädigt wird, nicht in der Lage sein wird, auf Ihr Konto zuzugreifen.
+Sie finden die Einrichtung der Zwei-Faktor-Authentifizierung unter der Registerkarte „Security“ in Ihren Kontoeinstellungen.
+Figure 88. „2FA“ auf der Security-Registerkarte
+Wenn Sie auf die Schaltfläche „Zwei-Faktor-Authentifizierung einrichten“ klicken, gelangen Sie zu einer Konfigurationsseite, auf der Sie eine Handy-App wählen können, um Ihren sekundären Code zu generieren (ein „zeitbasiertes Einmalpasswort“), oder Sie können sich bei jedem Login von GitHub einen Code per SMS zusenden lassen.
+Nachdem Sie sich für eine der beiden Methoden entschieden haben und den Anweisungen zur Einrichtung von 2FA gefolgt sind, ist Ihr Konto etwas sicherer und Sie müssen bei jedem Login in GitHub einen zusätzlichen Code neben Ihrem Passwort eingeben.
+prev | next
+    About this site
+    Patches, suggestions, and comments are welcome.
+    Git is a member of Software Freedom Conservancy

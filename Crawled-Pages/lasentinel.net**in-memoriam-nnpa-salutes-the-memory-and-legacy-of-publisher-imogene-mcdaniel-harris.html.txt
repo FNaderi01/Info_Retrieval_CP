@@ -1,0 +1,319 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+IN MEMORIAM: NNPA Salutes the Memory and Legacy of Publisher Imogene McDaniel Harris            
+				By NNPA Newswire                
+	                	                Published August 10, 2020
+		Imogene McDaniel Harris, November 20, 1931 – July 22, 2020
+Imogene McDaniel Harris, November 20, 1931 – July 22, 2020 (NNPA Photo)
+The National Newspaper Publishers Association (NNPA) expresses sincere condolences to the family of Mrs. Imogene McDaniel Harris (R.I.P.), the distinguished publisher of the Gary INFO Newspaper (founded in 1963) who passed on July 22, 2020.
+Dr. Benjamin F. Chavis, Jr., President and CEO of the NNPA stated, “I have personally known the Harris family in Gary, Indiana for decades. Today our extended NNPA families of Black owned newspapers across the nation pause to salute the outstanding memory and legacy of NNPA publisher Imogene Harris. We pledge to keep her spirit alive as we rededicate to continue to sustain the Black Press of America during these challenging times.
+Newspaper publisher, educator, community activist, matriarch Imogene Harris, 88, of Gary, Indiana, completed her earthly assignment Wednesday, July 22, 2020 after a lingering illness.
+Imogene was born in the city she devoted a lifetime of love to Gary, Indiana, on November 20, 1931, the child of Lohney L. and Geneva Scott McDaniel. She graduated from Gary Roosevelt High School and briefly attended Hampton Institute (University) in Hampton, Virginia. Imogene continued on to receive a Bachelor of Science degree from Indiana University, in Bloomington, Indiana.
+Imogene joined in nuptial bliss with her soulmate James Templeton (J.T.) Harris, Jr. on September 1, 1951. Their blessed union lasted 51-years until J.T.’s transition to glory in 2001.
+Imogene taught in the Gary Public School System for many years, first, at Froebel School, followed by Norton Elementary School as a third-grade teacher, and then she served as Head Librarian at Lincoln Elementary School.
+Imogene’s calling in life was partnering with J.T. to run the family businesses – Harris Printing Company (established in the 1950s) and Gary INFO Newspaper (founded in 1963). They diligently produced a publication that became the voice of African Americans throughout Northwest Indiana for more than four decades.
+Imogene was a compassionate mentor, sage, and friend to people of all ages. Harris Printing Company and Gary INFO generated opportunities that contributed to the growth of existing Black businesses as well as the aspirations of budding entrepreneurs, writers, photographers, and printers.
+From newspaper boys and girls trying to earn pocket change, to eventual affluent and successful individuals around the nation, “The Shop,” as Info’s midtown location was affectionately known, was more than a place for workers to hone their craft, it was a launching pad for life.
+A lifelong resident of Gary, Imogene was a member of Delaney Memorial United Methodist Church which is now Christ Memorial Methodist Church. Memberships included the Gary branch NAACP, the Gary Urban League Guild, Delta Sigma Theta Sorority, Inc. Betu Nu Chapter (1962). Imogene was recognized by the NNPA and maintained a collegial relationship with the founding members of the (NNPA) that was founded in 1940. Harris was also a founding member of the Lake County Association of Black Communicators.
+Her many lifetime accolades included the Drum Major Award presented to her and J.T. by the Gary Frontiers Service Club, for their commitment to eliminate inequality, prejudice, and racism. They also proudly received a Congressional Record from the Hon. Indiana State Representative Peter J. Visclosky in 1994 for their commitment to instill equality and justice throughout the City of Gary.
+Imogene will be fondly remembered by all for her dedication to excellence, her deep compassion, unswerving principles, thoughtful leadership, devotion to family and community, and loyal friendship.
+Imogene is survived by two loving and devoted daughters Temple-Jene Harris Fleming (Joseph) and Gaylyn Harris. The pride of her heart, her five grandchildren, Lavon Robin Fleming, Lateefah Shariene Fleming, Joseph Harris Fleming, and Terilyn Marshelle Fleming; great-grandson Nathaniel Joseph Williams; sister-in-law Emma Harris (Lorenzo), godchildren Calvin, Daresia and Cheryl Pruitt, committed goddaughter Djuana Anderson, and a host of nieces, nephews, and friends. Imogene is preceded in death by her parents and her sister Levevian McDaniel Benton (Norman).
+The family will hold a Memorial Service to remember the life of Imogene at a future date where her transition will truly be celebrated. Arrangements are being handled by Guy &amp; Allen Funeral Home in Gary, IN.
+		Categories: Celebration of Life | News Tags: celebration of life | Delta Sigma Theta Sorority | Gary Frontiers Service Club | Gary Info Newspaper | Gary Public School System | Gary Urban League Guild | Hon. Indiana State Representative Peter J. Visclosky | Imogene McDaniel Harris | Inc. Betu Nu Chapter (1962). | Indiana University | National Newspaper Publishers Association | NNPA		
+						Big Ten, Pac-12 pull plug on fall football amid pandemic
+						Deadline Extended for Small Business Owners in LA County Affected by Civil ...
+						Safe Digging Starts With Calling 811
+						Top Black Women Leaders Denounce Racist, Sexist Attacks Against VP Candidat...
+						Compton to Require Face Masks within City Limits; Warning Followed by a $50...
+						Need to Go to the DMV? Maybe Not, There are Other Options
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

@@ -1,0 +1,326 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Ava DuVernay, Tiffany Haddish, Billy Dee Williams, Omari Hardwick, and The Cast of “Martin” Were Honored at The 2018 American Black Film Festival Honors            
+				By Sentinel News Service                
+	                	                Published March 11, 2018
+		Ava DuVernay accepting the 2018 Industry Visionary Award Honoree (Photo Credit: abffhonors.com)
+Last night, ABFF Ventures hosted its annual American Black Film Festival (ABFF) Honors at the Beverly Hilton in Los Angeles. The ceremony, hosted by actor and comedian Cedric the Entertainer, honored director Ava DuVernay with the Industry Visionary Award, legendary actor Billy Dee Williams with the Hollywood Legacy Award, comedian Tiffany Haddish with the Rising Star Award, actor Omari Hardwick with the Distinguished ABFF Alumni Award and the writer and cast of “Martin” (Martin Lawrence, Tichina Arnold, Tisha Campbell, Carl Payne II, Bentley Kyle Evans) received the Classic Television Award.
+Regina Hall, Lena Waithe, Armie Hammer and Snoop Dogg made special presentations to the honorees and Harrison Ford made a surprise video tribute to Billy Dee Williams.
+Jordan Peele accepting the 2018 Movie of The Year Award for “Get Out” (Photo Credit: abffhonors.com)
+Black-ish (ABC) and Insecure (HBO) were announced as winners of the Television Show of the Year (Comedy) category, presented by actor and comedian Lil Rel Howery. Tracee Ellis Ross, Deon Cole, Issa Rae, Jay Ellis and Yvonne Orji accepted their awards on behalf of their show, cast and crew.
+For the second year in a row, Queen Sugar (OWN) took home the coveted Television Show of the Year (Drama) award.  Ava DuVernay, along with the cast (Dawn-Lyen Gardner, Dondre Whitfield, Tina Lifford, Bianca Lawson, Timon Kyle Durrett) accepted their award.
+“Power” actor Omari Hardwick was honored with “Distinguished Alumni Award” (Photo Credit: abffhonors.com)
+Additional winners of the night included Get Out (Universal Pictures), for Movie of the Year.  Jordan Peele, Lil Rel Howery, Betty Gabriel and Marcus Henderson accepted the award.
+        ADVERTISEMENT        
+“Some of you know that I did not enter this industry as an artist. I came into this business as an advertiser with a profound love for art, and the ABFF became my canvas, says Jeff Friday, ABFF Ventures CEO.  “It has allowed me to show my love of “all things Black,” by curating experiences that promote our culture and support young creative people who are now changing the world,” Jeff continues.
+Tiffany Haddish smiling as gets the 2018 Rising Star Honoree (Photo Credit: abffhonors.com)
+Grammy-winning artist Charlie Wilson, accompanied by The Adam Blackstone Band, ended the night on a high note signing “I’m Blessed” and “Outstanding” to an energetic audience standing on their feet and singing along to every word.
+In just two years, ABFF Honors has become one of the most talked about Hollywood events, attracting top-tier talent and press coverage in mainstream and African American media outlets including, LA Times, Essence, Variety, Deadline, Extra, and The Associated Press. The show had its broadcast premiere on BET Networks.
+Billy Dee Williams pictured receiving the 2018 “Hollywood Legacy Award” (Photo Credit: abffhonors.com)
+The event was executive produced by ABFF Ventures founder Jeff Friday, in association with Suzanne de Passe and Madison Jones for de Passe Jones Entertainment.
+The 2018 ABFF Honors sponsors are BET Networks (Presenting Sponsor), AT&amp;T and Cadillac (Red Carpet Sponsors), American Airlines (Official Airline Sponsor), Hennessy (Official Spirit Sponsor), Hilton (Official Hotel Sponsor) and CBS, Comcast, Creative Artists Agency, Facebook, HBO, Morgan Stanley, Motion Picture Association of America (MPAA), Netflix, Prudential and Universal Pictures (Corporate Diversity Sponsors).
+Veteran television producer Suzanne de Passe at the 2018 American Black Film Festival Honors (Photo Credit: abffhonors.com)
+Regina Hall (Photo Credit: abffhonors.com)
+Tichina Arnold (Photo Credit: abffhonors.com)
+Martin Lawrence (Photo Credit: abffhonors.com)
+Tisha Campbell-Martin (Photo Credit: abffhonors.com)
+Charlie Wilson (Photo Credit: abffhonors.com)
+Snoop Dogg and Angela Bassett picture at the 2018 ABFF (Photo Credit: abffhonors.com)
+		Categories: Entertainment Tags: "Martin" | #lasentinel | ABFF | actor | American Black Film Festival Honors | Angela Bassette | Ava DuVernay | Awards | Billy Dee Williams | Black Hollywood | Omari Hardick | Sentinel News Service | Snoop Dogg | Tiffany Haddish		
+						Women’s History Month: Black Women In Comics
+						Cal State LA honors Marvel’s Luke Cage creator, acclaimed science fiction...
+						Honoring Black Photographers in a 2018 Calendar
+						‘Flava in Ya Ear’ rapper Craig Mack dies in South Carolina
+						Singer Abraham McDonald Passes 
+						Reel Talk (Movie and Television Briefs)
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

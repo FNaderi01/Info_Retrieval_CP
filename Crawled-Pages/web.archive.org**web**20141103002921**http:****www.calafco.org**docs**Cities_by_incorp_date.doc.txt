@@ -1,0 +1,27 @@
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+                  success
+          fail
+		  Sep
+		  NOV
+		  Dec
+		  03
+		  2013
+		  2014
+		  2015
+	      	      127 captures
+	      21 Feb 2013 - 22 Sep 2020
+       About this capture
+    COLLECTED BY
+		Organization: Internet Archive
+	  The Internet Archive discovers and captures web pages through many different web crawls.
+At any given time several distinct crawls are running, some for months, and some every day or longer.
+View the web archive through the Wayback Machine.
+		Collection: Survey Crawl Number 1 - Started May 17th, 2014 - Ended Dec 10th, 2014
+	  The seed for this crawl was a list of every host in the Wayback Machine
+This crawl was run at a level 1 (URLs including their embeds, plus the URLs of all outbound links including their embeds)
+The WARC files associated with this crawl are not currently available to the general public.
+    TIMESTAMPS

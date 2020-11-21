@@ -1,0 +1,92 @@
+theme 🌙    
+    /** tumblr controls **/
+#tumblr_controls{
+position:fixed !important; z-index: 999999999; -webkit-filter: invert(100%); }
+    /** scrollbar **/
+::-webkit-scrollbar-thumb{ background: #000000; border: 5px solid #000000; height:auto; }
+::-webkit-scrollbar { height:auto; width: 15px; background: #000000; border: 7px solid #000000; }
+    /** body **/
+body{ background: #000000 url(https://assets.tumblr.com/images/x.gif?v=1)top left fixed repeat; background-size: cover; font-size: 10px; font-family: 'Open Sans', sans-serif; color: #811e1e; letter-spacing: 2px; 
+cursor:url('http://media.tumblr.com/tumblr_lqs4idHqTZ1qfoi4t.png'), progress !important; }
+    /** links & text **/
+a { color: #811e1e; text-decoration: none; -webkit-transition-duration:.2s; cursor:url('http://media.tumblr.com/tumblr_lqs4idHqTZ1qfoi4t.png'), progress !important; }
+a:hover{ color: #c4c4c4 !important; }
+h1 { margin: 0px; text-transform: uppercase; font-weight: 100; font-size: 10px; }
+h2 { text-transform: uppercase; font-weight: 400; font-size: 16px; font-family: 'Raleway', 'sans-serif'; font-style: oblique; color: #811e1e; }
+h2 a { color: #811e1e; }
+    /** posts **/
+.wrapper{  width: 400px;
+ margin: 280px auto; }
+#posts {  width: 400px;
+ }
+.entry { margin: 50px 0px 250px 0px; outline: 1px solid transparent; outline-offset: 0px; padding: 5px;   width: 400px;  color:#811e1e; text-align: center; -webkit-transition: all 0.4s ease-in-out; -moz-transition: all 0.4s ease-in-out;
+-ms-transition: all 0.4s ease-in-out; -o-transition: all 0.4s ease-in-out;
+transition: all 0.4s ease-in-out; }
+.entry:hover {     outline: 1px solid #000000; outline-offset: 5px;
+-webkit-transition: all 0.4s ease-in-out; -moz-transition: all 0.4s ease-in-out; -ms-transition: all 0.4s ease-in-out; -o-transition: all 0.4s ease-in-out; transition: all 0.4s ease-in-out; }
+.entry img{ max-width:100%; -webkit-filter: none; }
+.photo a, .photo a:hover{ background:none; border:none; }
+blockquote{ text-align: center;	-webkit-transition: all 0.4s ease-in-out;
+-moz-transition: all 0.4s ease-in-out;-ms-transition: all 0.4s ease-in-out;-o-transition: all 0.4s ease-in-out;
+transition: all 0.4s ease-in-out;}
+.chat .line{ text-transform: uppercase; margin: 0 0 1px; padding: 5px; -webkit-transition: all 0.4s ease-in-out; -moz-transition: all 0.4s ease-in-out; -ms-transition: all 0.4s ease-in-out; -o-transition: all 0.4s ease-in-out; transition: all 0.4s ease-in-out; }
+.label { font-weight:bold; color:#811e1e; }
+ul { list-style-type: square; margin: 5px 15px;  }
+li {text-align: justify; }
+.notes img{ width:20px; position:left; top:5px; border-radius:100px;}
+.notes{ line-height:17px;text-transform:uppercase;font-family:consolas;font-size:9px;letter-spacing:1px;text-align:left; }
+.tags { position:absolute;  opacity: 0; max-width: 400px; margin-top: 10px; padding: 5px 0px;  font-size: 8px; text-transform: uppercase;	-webkit-transition: all 0.4s ease-in-out; -moz-transition: all 0.4s ease-in-out;
+-ms-transition: all 0.4s ease-in-out; -o-transition: all 0.4s ease-in-out; transition: all 0.4s ease-in-out; }
+.tags a { text-transform: uppercase; }
+.entry:hover .tags { opacity: 1; padding-right: 20px; -webkit-transition: all 0.4s ease-in-out; -moz-transition: all 0.4s ease-in-out;
+-ms-transition: all 0.4s ease-in-out; -o-transition: all 0.4s ease-in-out;
+transition: all 0.4s ease-in-out; }
+.caption { font-size: 8px; text-transform: uppercase; text-align: center; position: absolute;  width: 400px;   margin-top: 0px; z-index: 99; opacity: 0;  padding: 5px 0px;
+background: #000000 url(https://assets.tumblr.com/images/x.gif?v=1)top left fixed repeat; background-size:cover; -webkit-transition: all 0.4s ease-in-out;
+-moz-transition: all 0.4s ease-in-out; -ms-transition: all 0.4s ease-in-out; -o-transition: all 0.4s ease-in-out; transition: all 0.4s ease-in-out; }
+.entry:hover .caption { opacity: 1; }
+.permaa { opacity: 0; margin-top: 5px; text-transform: uppercase; font-size: 8px; font-family: 'Open Sans', sans-serif;	-webkit-transition: all 0.4s ease-in-out; -moz-transition: all 0.4s ease-in-out; -ms-transition: all 0.4s ease-in-out; -o-transition: all 0.4s ease-in-out; transition: all 0.4s ease-in-out; text-align: center; }
+.entry:hover .permaa { opacity: 1; }
+    /** header **/
+.sidebar { z-index: 9999; position: fixed;  top: 0px; left: -10px; text-align: center; width: 100%; padding: 15px; padding-top: 85px; padding-bottom: 5px; -webkit-transition:all 0.6s; -moz-transition:all 0.6s; -ms-transition:all 0.6s; -o-transition:all 0.6s; transition:all 0.6s; }
+.how1 { font-size: 10px; margin-top: 2px; }
+.pop { text-align: center; padding: 5px; margin-top: 10px; position: absolute; width: 100%; }
+.links a { font-size: 10px !important; text-shadow: none !important; color: #811e1e !important; font-style: normal !important; font-family: consolas !important; }
+.links { margin-left: auto; text-align: center;  padding: 5px; opacity: 0; -webkit-transition:all 0.6s; -moz-transition:all 0.6s; -ms-transition:all 0.6s; -o-transition:all 0.6s; transition:all 0.6s; }
+#titled:hover .links { opacity: 1; -webkit-transition:all 0.6s; -moz-transition:all 0.6s; -ms-transition:all 0.6s; -o-transition:all 0.6s; transition:all 0.6s; }
+#titled a { text-shadow: 0 0 6px #811e1e; font-style: italic; text-transform:uppercase; font-size: 36px; font-family: 'Open Sans', sans-serif; color: transparent; 	font-weight: 200;
+text-decoration:none; -webkit-transition:all 0.6s; -moz-transition:all 0.6s; -ms-transition:all 0.6s; -o-transition:all 0.6s; transition:all 0.6s; }
+#titled:hover a { text-shadow: none; color: #811e1e; -webkit-transition:all 0.6s; -moz-transition:all 0.6s; -ms-transition:all 0.6s; -o-transition:all 0.6s; transition:all 0.6s; }
+    /** jquery coding **/
+#s-m-t-tooltip { margin: 20px; background: #000000; color: #811e1e; border: 1px solid #000000; text-transform: uppercase; font-size: 8px; padding: 3px 7px; z-index: 9999999999999999999999;}
+#toTop { position:fixed; display:none; bottom: 15px; right: 12px; cursor:url('http://media.tumblr.com/tumblr_lqs4idHqTZ1qfoi4t.png'), progress !important; }
+#toTop img { max-width: 35px; }
+#changer { top: 0px; left: 0px; height: 100%; width: 100%; background: url(https://static.tumblr.com/mqkrxog/PPan52qgn/transparent.png)top left fixed repeat; background-size: cover; position: fixed; z-index: -9999999999; opacity: 1; -webkit-filter: none; -webkit-transition:all 0.6s; -moz-transition:all 0.6s; -ms-transition:all 0.6s; -o-transition:all 0.6s;  transition:all 0.6s; }
+.t { width: 100%; top: 0px; left: 0px; height: 25px; background: #000000; z-index: 999; position:fixed; }
+.b {  width: 100%; bottom: 0px; left: 0px; height: 25px; background: #000000;z-index: 999;position:fixed; text-align: center; font-family: consolas; line-height: 20px;}
+.l { width: 25px; top: 0px; left: 0px; height: 100%; background: #000000;z-index: 999;position:fixed; }
+.r { width: 10px; top: 0px; right: 0px; height: 100%; background: #000000;z-index: 999;position:fixed; }
+    /** custom css **/
+figure{margin:0}.tmblr-iframe{position:absolute}.tmblr-iframe.hide{display:none}.tmblr-iframe--amp-cta-button{visibility:hidden;position:fixed;bottom:10px;left:50%;transform:translateX(-50%);z-index:100}.tmblr-iframe--amp-cta-button.tmblr-iframe--loaded{visibility:visible;animation:iframe-app-cta-transition .2s ease-out}   1  2 3 4 5 6 7 →     🌙  about    mail index links  example  
+sourfrogzz:sourfrogzz:some of you people NEED to be fucking reminded that loving minorities will always be more important than hating bigots BLM goes before ACAB ALWAYS. loving black people is more important than “pissing off bigots.” loving jewish people is more important than “making nazis angry.” dont just fight against oppressors, start fighting for minorities. fighting against the oppressor is important, but start doing it for the right reason.   
+Source:  sourfrogzz via emblian 
+65,025 notesreblog 
+Source:  czechthecount via hera-salander 
+4,465 notesreblog 
+Source:  whitepeopletwitter via catsaresochill 
+51,355 notesreblog 
+view video  
+Source:  ampervadasz via noot-noot-cthulhus-home 
+29,721 notesreblog 
+Source:  desimonewayland via malnedott 
+5,351 notesreblog 
+20,088 notesreblog 
+Source:  tincanforest via vehumet 
+3,552 notesreblog 
+Source:  slytheringlow via somardani 
+1,756 notesreblog 
+piermanwalter:After calling it “China virus” during the presidential debates, Trump got COVID on 中秋節, a Chinese holiday. This is what happens when you tempt fate this hard.  
+Source:  piermanwalter via emblian 
+40,882 notesreblog 
+Source:  turnipot via reshiiii 
+1,074 notesreblog 

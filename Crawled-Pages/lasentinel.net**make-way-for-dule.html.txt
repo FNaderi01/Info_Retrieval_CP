@@ -1,0 +1,346 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Make Way for Dulé!            
+				By Kam Williams, Contributing Writer                
+	                	                Published April 26, 2017
+		Dulé Hill arrives at the 68th annual Tony Awards at Radio City Music Hall on Sunday, June 8, 2014, in New York. (Photo Courtesy: Charles Sykes/Invision/AP)
+Dulé Hill  The “Sleight” Interview
+Born in Orange, New Jersey and raised in Sayreville, Dulé Hill began attending dance school when he was 3 years- old. He later received his first break as the understudy to Savion Glover on Broadway in “The Tap Dance Kid.”
+Dulé went on to perform the lead role in the musical’s national tour. And his additional stage credits include “Bring in ‘Da Noise, Bring in ‘Da Funk,” the Tony Award-nominated musical “After Midnight,” “Stick Fly,” “Black and Blue,” “Dutchman,” “Shenandoah” and “The Little Rascals.”
+        ADVERTISEMENT        
+Dulé is well known for his role on “The West Wing,” for which he garnered an Emmy Award nomination, 4 NAACP Image Award nominations for Outstanding Supporting Actor in a Drama Series, and two Screen Actors Guild Awards as part of the Outstanding Ensemble in a Drama Series.
+His other television credits include the role of Burton ‘Gus’ Guster in the long-running series “Psych,” which earned him 4 NAACP Image Awards for Outstanding Actor in a Comedy Series. He also played Larry in the second season of “Ballers.”
+His big screen credits include “Gayby,” “Miss Dial,” “Edmond,” “The Guardian,” “Holes,” “Sugar Hill,” “She’s All That,” “Sexual Life” and the independent comedy “Remarkable Power.”
+Dulé is a SAG-AFTRA Foundation Board Member and is involved with the non-profit organizations Justice for Vets and The Gabriella Foundation. In his spare time, he enjoys tap dancing and playing the saxophone, although he says he admits that he hasn’t quite mastered the art of the sax.
+Here, Dulé talks about his new movie, Sleight, an action thriller about a street magician [Jacob Latimore] who starts dealing drugs to raise his sister [Storm Reid] after the death of their mom.
+Kam Williams (LA Sentinel-LAS): Hi, Dulé, thanks for the interview.
+Dule Hill (DH):  My pleasure, Kam. Thanks for taking the time.
+LAS: What interested you in Sleight?
+DH:  Beyond the exciting journey that J.D. Dillard and Alex Theurer delivered in their script, the main thing that interested me in Sleight was the chance to play a character outside of the scope of what I am used to playing on screen. As an actor, I’m always looking for new and interesting ways to challenge myself. The idea of playing a type of villain was extremely intriguing.
+LAS: How would you describe the film in 25 words or less?
+DH:  Sleight. A story about good versus evil. Life versus death. Circumstances, choices and the powers a young mind can develop when life gets under pressure.
+LAS: The movie sounds like a mix of several genres.
+DH:  It is!  J.D. and Alex did a fantastic job of combining an urban, dramatic thriller with a sci-fi superhero origin story to create this world. They took different aspects of genres we enjoy and mashed them up to create a film that is engaging, fresh and new, which was another one of the many reasons I wanted to be a part of this project.
+LAS: How would you describe your character?
+DH: Angelo is a wolf in sheep’s clothing, the kind of guy who charms his way into your world until one day you realize that he doesn’t understand the meaning of the word boundaries. He’s your best friend and your bully all at the same time.
+LAS: What message do you think people will take away from the movie?
+DH: I believe that a message people will take away from the movie is “Actions have consequences, so be careful of the choices you make.”
+LAS: Harriet Pakula-Teweles asks: With so many classic films being redone, is there a remake you’d like to star in?
+DH:  White Nights or The Cotton Club. Gregory Hines and tap shoes. I couldn’t ask for anything more.
+LAS: The music maven Heather Covington question: What was the last song you listened to?
+DH: Unforgettable by Nat King Cole
+LAS: What is your favorite dish to cook?
+DH: I am not really that skilled in the kitchen. Thankfully, my lady, Jazmyn Simon, throws down when it comes to the cookery. But I can cook a mean cornmeal porridge that was taught to me by my Jamaican father. It’s generational…generational. Mi seh? [Jamaican slang for “Understand me?”]
+LAS: The Morris Chestnut question: Was there any particular moment in your childhood that inspired you to become the person you are today?
+DH: There are layers to this answer, but I would say, yes. One, being the moment I gave my life to Christ. My faith has been the focal point of my journey as far back as I can remember. I’m not going to sit here and say that I have always been an angel, but I am aware of the grace that has covered me over my lifetime. I give my all to live a life that is worthy of the favor I have received. I don’t always hit the mark, but I continue to press towards it each day. New mercies every morning… Give thanks for that.
+LAS:  Sherry Gillam would like to know what is the most important life lesson you’ve learned so far?
+DH: Enjoy life’s moments. Do not take them for granted, because you never know which one will be the last. Also, seek first the kingdom of God and his righteousness; and all these things will be added unto you. In other words, get your priorities straight; figure out what really matters, and focus on that.
+LAS: The Viola Davis question: What’s the biggest difference between who you are at home as opposed to the person we see on the red carpet?
+DH:  The clothes I wear. Thank you [celebrity stylist] Jason Bolden and [fashionista] Ongell Fereria.
+LAS: If you could have one wish instantly granted, what would that be for?
+DH: For peace to be.
+LAS: Larry Greenberg asks: Do you have a favorite movie monster?
+DH: I’m a little old school, so I’m going to have to go with The Blob.
+LAS: Thanks again for the time, Dulé, and best of luck with the film.
+DH: Thank you, Kam! I definitely appreciate the love. Blessings
+(Courtesy Photo)
+(Courtesy Photo)
+Hill and Jacob Latimore (Courtesy Photo)
+		Categories: Entertainment | Movies | News (Entertainment) Tags: 'Sleight' | actor | Dulé Hill | entertainement | Jacob Latimore | Kam Williams | SCI-FI | thriller		
+						Jazz and Blues Legend to Be Remembered in Los Angeles May 2
+						Earvin ‘Magic’ and Cookie Johnson Honored at 44th Annual Whitney M. You...
+						Behind the Music with Ms. Toi
+						It’s A Rap: 5.4.17
+						Terry McMillan Will Read at California African American Museum
+						Stephens Pushes Boundaries in New Film, ‘Dating and Waiting’
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

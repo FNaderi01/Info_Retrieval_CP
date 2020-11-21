@@ -1,0 +1,289 @@
+        About
+            Branching and Merging
+            Small and Fast
+            Distributed
+            Data Assurance
+            Staging Area
+            Free and Open Source
+            Trademark
+        Documentation
+            Reference
+            Book
+            Videos
+            External Links
+        Downloads
+            GUI Clients
+            Logos
+        Community
+This book is available in
+  English.
+  Full translation available in
+    български език,
+    Deutsch,
+    Español,
+    Français,
+    Ελληνικά,
+    日本語,
+    한국어,
+    Nederlands,
+    Русский,
+    Slovenščina,
+    Tagalog,
+    Українська
+    简体中文,
+  Partial translations available in
+    Čeština,
+    Македонски,
+    Polski,
+    Српски,
+    Ўзбекча,
+    繁體中文,
+  Translations started for
+    azərbaycan dili,
+    Беларуская,
+    فارسی,
+    Indonesian,
+    Italiano,
+    Bahasa Melayu,
+    Português (Brasil),
+    Português (Portugal),
+    Svenska,
+    Türkçe.
+The source of this book is  hosted on GitHub.
+Patches, suggestions and comments are welcome.
+  Chapters ▾
+  1. 시작하기
+          1.1
+          버전 관리란? 
+          1.2
+          짧게 보는 Git의 역사 
+          1.3
+          Git 기초 
+          1.4
+          CLI 
+          1.5
+          Git 설치 
+          1.6
+          Git 최초 설정 
+          1.7
+          도움말 보기 
+          1.8
+          요약 
+  2. Git의 기초
+          2.1
+          Git 저장소 만들기 
+          2.2
+          수정하고 저장소에 저장하기 
+          2.3
+          커밋 히스토리 조회하기 
+          2.4
+          되돌리기 
+          2.5
+          리모트 저장소 
+          2.6
+          태그 
+          2.7
+          Git Alias 
+          2.8
+          요약 
+  3. Git 브랜치
+          3.1
+          브랜치란 무엇인가 
+          3.2
+          브랜치와 Merge 의 기초 
+          3.3
+          브랜치 관리 
+          3.4
+          브랜치 워크플로 
+          3.5
+          리모트 브랜치 
+          3.6
+          Rebase 하기 
+          3.7
+          요약 
+  4. Git 서버
+          4.1
+          프로토콜 
+          4.2
+          서버에 Git 설치하기 
+          4.3
+          SSH 공개키 만들기 
+          4.4
+          서버 설정하기 
+          4.5
+          Git 데몬 
+          4.6
+          스마트 HTTP 
+          4.7
+          GitWeb 
+          4.8
+          GitLab 
+          4.9
+          또 다른 선택지, 호스팅 
+          4.10
+          요약 
+  5. 분산 환경에서의 Git
+          5.1
+          분산 환경에서의 워크플로 
+          5.2
+          프로젝트에 기여하기 
+          5.3
+          프로젝트 관리하기 
+          5.4
+          요약 
+  6. GitHub
+          6.1
+          계정 만들고 설정하기 
+          6.2
+          GitHub 프로젝트에 기여하기 
+          6.3
+          GitHub 프로젝트 관리하기 
+          6.4
+          Organization 관리하기 
+          6.5
+          GitHub 스크립팅 
+          6.6
+          요약 
+  7. Git 도구
+          7.1
+          리비전 조회하기 
+          7.2
+          대화형 명령 
+          7.3
+          Stashing과 Cleaning 
+          7.4
+          내 작업에 서명하기 
+          7.5
+          검색 
+          7.6
+          히스토리 단장하기 
+          7.7
+          Reset 명확히 알고 가기 
+          7.8
+          고급 Merge 
+          7.9
+          Rerere 
+          7.10
+          Git으로 버그 찾기 
+          7.11
+          서브모듈 
+          7.12
+          Bundle 
+          7.13
+          Replace 
+          7.14
+          Credential 저장소 
+          7.15
+          요약 
+  8. Git맞춤
+          8.1
+          Git 설정하기 
+          8.2
+          Git Attributes 
+          8.3
+          Git Hooks 
+          8.4
+          정책 구현하기 
+          8.5
+          요약 
+  9. Git과 여타 버전 관리 시스템
+          9.1
+          Git: 범용 Client 
+          9.2
+          Git으로 옮기기 
+          9.3
+          요약 
+  10. Git의 내부
+          10.1
+          Plumbing 명령과 Porcelain 명령 
+          10.2
+          Git 개체 
+          10.3
+          Git Refs 
+          10.4
+          Packfile 
+          10.5
+          Refspec 
+          10.6
+          데이터 전송 프로토콜 
+          10.7
+          운영 및 데이터 복구 
+          10.8
+          환경변수 
+          10.9
+          요약 
+  A1. Appendix A: 다양한 환경에서 Git 사용하기
+          A1.1
+          GUI 
+          A1.2
+          Visual Studio 
+          A1.3
+          Eclipse 
+          A1.4
+          Bash 
+          A1.5
+          Zsh 
+          A1.6
+          Git in Powershell 
+          A1.7
+          요약 
+  A2. Appendix B: 애플리케이션에 Git 넣기
+          A2.1
+          Git 명령어 
+          A2.2
+          Libgit2 
+          A2.3
+          JGit 
+          A2.4
+          go-git 
+  A3. Appendix C: Git 명령어
+          A3.1
+          설치와 설정 
+          A3.2
+          프로젝트 가져오기와 생성하기 
+          A3.3
+          스냅샷 다루기 
+          A3.4
+          Branch와 Merge 
+          A3.5
+          공유하고 업데이트하기 
+          A3.6
+          보기와 비교 
+          A3.7
+          Debugging 
+          A3.8
+          Patch 하기 
+          A3.9
+          Email 
+          A3.10
+          다른 버전 관리 시스템 
+          A3.11
+          관리 
+          A3.12
+          Plumbing 명령어 
+      2nd Edition
+    A3.1 Appendix C: Git 명령어 - 설치와 설정
+  이 책에서 Git 명령어를 많이 설명하지만, Git을 설명하기 위해서 중간마다 설명하는 것뿐이다. 설명을 방해할 수 있기 때문에 명령어 중심으로 살펴보지 않는다.
+이 장에서는 여기저기 흩어져 있는 명령어 사용법을 한눈에 볼 수 있도록 정리한다.책 전체에서 언급했던 Git 명령어를 전부 살펴보는데 명령어를 용도에 따라 그룹으로 묶어 놓았다. 해당 명령어를 어디에 쓰는지 설명하고 어디에서 찾아볼 수 있는지도 표기한다.
+설치와 설정
+정말 많이 사용하는 명령어가 두 개 있다. 바로 config 와 help 명령이다. 이 명령은 매일 사용한다.
+git config
+Git에는 설정할 수 있는 값이 수백 가지에 달한다.
+사용자의 취향에 따라 다르게 동작하도록 설정할 수 있다.
+이 명령으로 사용자이름이나 터미널 색깔, 편집기 등을 설정한다.
+저장소마다 다르게 혹은 글로벌하게 설정할 수 있는데 각각 설정파일이 다르다.
+git config 명령은 이 책의 모든 장에서 사용한다.
+Git을 처음 사용할 때 이름, 이메일 주소, 편집기는 어떻게 설정하는지는 Git 최초 설정에서 설명한다.
+어떻게 단축 명령어를 만드는지는 Git Alias에 있다. 매번 긴 옵션을 줄줄 입력하지 않아도 된다.
+git pull 명령을 실행할 때 --rebase 옵션으로 동작하게 하는 방법은 Rebase 하기에 있다.
+HTTP 암호를 저장하는 방법은 Credential 저장소를 보면 된다.
+Git에 데이터를 넣고 꺼낼 때 사용하는 Smudge와 Clean 필터를 설정하는 방법은 키워드 치환에 있다.
+마지막으로 git config 명령 자체에 대한 설명은 Git 설정하기에 있다.
+git help
+git help 명령은 Git에 포함된 문서를 보여준다.
+이 장에서는 많이 사용하는 것만 간단히 설명한다. `git help &lt;command&gt;`라고 실행하면 해당 명령어에 어떤 옵션이 있고 어떻게 사용하는지 알려준다.
+git help 명령은 도움말 보기에 소개한다. `git shell`을 서버에 설정하는 방법은 서버 설정하기에서 보여준다.
+prev | next
+    About this site
+    Patches, suggestions, and comments are welcome.
+    Git is a member of Software Freedom Conservancy

@@ -1,0 +1,245 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+State Officials Announce Latest COVID-19 Facts            
+				By Sentinel News Service                
+	                	                Published April 18, 2020
+		The California Department of Public Health today announced the most recent statistics on COVID-19. California now has 27,528 confirmed cases and 985 deaths.
+Racial Demographics – A More Complete Picture
+As of April 16, data on race and ethnicity is complete for 66 percent of COVID-19 cases and 90 percent of deaths reported to the California Department of Public Health. As testing expands and our work to get more complete information by race and ethnicity advances, the distribution by race and ethnicity for cases may change. As information on race and ethnicity is becoming more complete on reported deaths, our data shows that African Americans/Blacks represent a disproportionately higher number of deaths compared to their representation in California’s population. Another group of heightened concern are Native Hawaiians or Pacific Islanders, although the number of deaths in this population are small and therefore limits statistical comparison.
+Health Care Worker Infection Rates
+As of April 16, local health departments have reported 3,155 confirmed positive cases in health care workers. This includes on-the-job exposures, and other exposures, such as travel and close family contact. As testing capacity continues to increase, and more tests are being conducted directly in physician’s offices and processed through commercial laboratories, local public health officials will not be able to report the source of exposure for every affected health care worker.
+Testing in California
+As of April 16, more than 258,800 tests had been conducted in California. At least 251,614 results have been received and another 7,200 are pending. These numbers include data California has received from commercial, private and academic labs, including Quest, LabCorp, Kaiser, University of California and Stanford, and the 22 state and county health labs currently testing.
+How People Can Protect Themselves
+Every person has a role to play. Protecting yourself and your family comes down to common sense:
+Staying home except for essential needs/activities.
+Practicing social distancing.
+Washing hands with soap and water for a minimum of 20 seconds.
+Avoiding touching eyes, nose or mouth with unwashed hands.
+Covering a cough or sneeze with your sleeve, or disposable tissue. Wash your hands afterward.
+Avoiding close contact with people who are sick.
+Staying away from work, school or other people if you become sick with respiratory symptoms like fever and cough.
+Following guidance from public health officials.
+What to Do if You Think You’re Sick
+Call ahead: If you are experiencing symptoms of COVID-19 (fever, cough or shortness of breath) and may have had contact with a person with COVID-19, or recently traveled to countries with apparent community spread, call your health care provider before seeking medical care so that appropriate precautions can be taken.
+For more information on COVID-19 and California’s response visit the California Department of Public Health website.
+More information about what Californians can do to prevent the spread of COVID-19 is available at www.covid19.ca.gov.
+California continues to issue guidance on preparing and protecting California from COVID-19. Consolidated guidance is available at www.cdph.ca.gov/covid19guidance.
+        ADVERTISEMENT        
+		Categories: COVID-19 | Health | Local Tags: Californa COVID-19 cases | California COVID-19 cases | California Department of Public Health | CDPH | commercial | Coronavirus | Coronavirus pandemic | COVID-19 | COVID-19 outbreak | COVID-19 pandemic | Health Care Worker Infection Rates | How People Can Protect Themselves | including Quest | Kaiser | Labcorp | private and academic labs | Testing in California | University of California and Stanford | What to Do if You Think You're Sick		
+						Congresswoman Karen Bass Answers the $1200 question, Where’s My Check?
+						L.A. Public Officials Collaborate with USC Research Program; Results show E...
+						Mayor Garcetti Foresees Extreme Budget cuts in the future; L.A. faces one o...
+						Council President Emeritus Wesson Calls on Secretary Padilla to Increase Vo...
+						L.A. County Appointed Strategic Leader to Oversee Urgent Response for Unshe...
+						Mayor Garcetti speaks with LA’s leading therapist Michelle Cauley to disc...
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->

@@ -1,0 +1,268 @@
+	Help
+	Category:CS1 maint: multiple names: authors list
+		From Wikipedia, the free encyclopedia
+		Jump to navigation
+		Jump to search
+		This is a tracking category.It is used to build and maintain lists of pages—primarily for the sake of the lists themselves and their use in article and category maintenance. It is not part of the encyclopedia's categorization scheme. 
+More information:
+This category is hidden on its member pages—unless the corresponding user preference is set.
+These categories are used to track, build and organize lists of pages needing "attention en masse" (for example, pages using deprecated syntax), or that may need to be edited at someone's earliest convenience.
+These categories also serve to aggregate members of several lists or sub-categories into a larger, more efficient list (discriminated by classifications).
+Administrators: Please do not delete this category even if it is empty! This category may be empty occasionally or even most of the time.
+See also: Category:CS1 maint: uses authors parameter.
+This is a hidden tracking category for CS1 citations that use |author=, or its aliases.
+Articles are listed in this category when Module:Citation/CS1 identifies cs1|2 citation templates that appear to use singular forms of author name-list parameters to list multiple authors' names.  Doing so corrupts the citation's metadata.
+The citation module code looks for multiple comma or semicolon separator characters in the value assigned to |author=, |last=, their aliases, and enumerated equivalents (e.g. |author2=, |last2=, etc.).  This test displays an error message for multiple authors' names in a single parameter, as well as single author names that include a comma-separated list of post-nominals: |author=FC White, RN, MD, Ph.D.
+To fix these errors in citations:
+Remove post-nominals.
+Provide enumerated author parameters (e.g. either |author2= or |last2= and |first2=) for each author of a cited work.
+When multiple separator characters are legitimately present in a name (commonly a corporate, institutional, or governmental author), the name may be wrapped in two sets of parentheses (or &lt;nowiki&gt;...&lt;/nowiki&gt; tags) to suppress assignment to this category, like this: |author=((Federal Ministry of Transport, Building, and Urban Development)) or |author=&lt;nowiki&gt;Federal Ministry of Transport, Building, and Urban Development&lt;/nowiki&gt;.
+Editors should not simply replace |author= with |authors=. Using the plural |authors= parameter to replace a singular |author= or |last= parameter that holds multiple authors' names is discouraged because automatically decoding lists of human names is an extraordinarily difficult task.  Because of this difficulty, names listed in |authors= are omitted from the template's COinS metadata. Enumerating the author list with |authorn=, or |lastn= / |firstn=, or, where appropriate, |vauthors=, preserves the associated metadata.
+Pages in this category should only be added by Module:Citation/CS1.
+By default, Citation Style 1 and Citation Style 2 error messages are visible to all readers and maintenance category messages are hidden from all readers.
+To display maintenance messages, include the following text in your common CSS page or your specific skin's CSS page (common.css and skin.css respectively):
+.mw-parser-output span.cs1-maint {display: inline;} /* display Citation Style 1 maintenance messages */
+To display hidden-by-default error messages:
+.mw-parser-output span.cs1-hidden-error {display: inline;} /* display hidden Citation Style 1 error messages */
+Even with this css installed, older pages in Wikipedia's cache may not have been updated to show these error messages even though the page is listed in one of the tracking categories. A null edit will resolve that issue.
+To hide normally-displayed error messages:
+.mw-parser-output span.cs1-visible-error {display: none;} /* hide Citation Style 1 error messages */
+You can personalize the display of these messages (such as changing the color), but you will need to ask someone who knows CSS or at the technical village pump if you do not understand how.
+Contents: Top 0–9 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z* #  0 1 2 3 4 5 6 7 8 9 • A  Aa  Ae  Aj  Ao  At  • B  Ba  Be  Bj  Bo  Bt  • C  Ca  Ce  Cj  Co  Ct  • D  Da  De  Dj  Do  Dt  • E  Ea  Ee  Ej  Eo  Et  • F  Fa  Fe  Fj  Fo  Ft  • G  Ga  Ge  Gj  Go  Gt  • H  Ha  He  Hj  Ho  Ht  • I  Ia  Ie  Ij  Io  It  • J  Ja  Je  Jj  Jo  Jt  • K  Ka  Ke  Kj  Ko  Kt  • L  La  Le  Lj  Lo  Lt  • M  Ma  Me  Mj  Mo  Mt  • N  Na  Ne  Nj  No  Nt  • O  Oa  Oe  Oj  Oo  Ot  • P  Pa  Pe  Pj  Po  Pt  • Q  Qa  Qe  Qj  Qo  Qt  • R  Ra  Re  Rj  Ro  Rt  • S  Sa  Se  Sj  So  St  • T  Ta  Te  Tj  To  Tt  • U  Ua  Ue  Uj  Uo  Ut  • V  Va  Ve  Vj  Vo  Vt  • W  Wa  We  Wj  Wo  Wt  • X  Xa  Xe  Xj  Xo  Xt  • Y  Ya  Ye  Yj  Yo  Yt  • Z  Za  Ze  Zj  Zo  Zt 
+Pages in category "CS1 maint: multiple names: authors list"
+The following 200 pages are in this category, out of approximately 35,656 total. This list may not reflect recent changes (learn more).
+(previous page) (next page).
+.264 Winchester Magnum0–9
+1 rin coin
+1st White Cloth Hall
+2-(2-(4-Methyl-3-cyclohexen-1-yl)propyl)cyclopentanone
+2-Methyldodecane
+2-Methylisoborneol
+2-Methyltridecane
+3D cell culture
+3D printing
+3D reconstruction
+3rd Massachusetts Battery
+5G
+Draft:7Weaves Social
+12 Monkeys
+13 Sentinels: Aegis Rim
+15-Hydroxyeicosatetraenoic acid
+16th Street NW
+17 December 1930 Guatemalan presidential election
+17th Maine Infantry Regiment
+39 Commissioner Street
+39th Massachusetts Infantry Regiment
+69th Regiment Armory
+98th Illinois Infantry Regiment
+123rd Illinois Infantry Regiment
+403rd Security Division
+1330s
+1339
+1630s
+1633
+1633 in France
+1634 in France
+1708 in literature
+1794 in literature
+1797
+1800 United States presidential election
+1805 in literature
+1886 Sauk Rapids tornado
+1893 San Roque hurricane
+1896 United States presidential election in North Dakota
+1896 United States presidential election in Ohio
+1909 in science
+1924 Los Angeles pneumonic plague outbreak
+1926–27 FBUs Mesterskabsrække
+1929
+1932 Detroit Wolves season
+1935 in science
+1941
+1941–42 A.S. Roma season
+1945 in aviation
+1946 in literature
+1948 Accra riots
+1956–57 A.C. Milan season
+1959 Nepalese legislative election
+1961 in literature
+1961 in science
+1961 Pacific hurricane season
+1961–1962 Massachusetts legislature
+1963–64 Danish Cup
+1964 Danish 2nd Division
+1965 Algerian coup d'état
+1967
+1970 Huascarán debris avalanche
+1972 in science
+1973 in science
+1978 in science
+1980 Miami riots
+1982–83 El Niño event
+1983 in science
+1987–88 South Pacific cyclone season
+1989 Christchurch mayoral election
+1992 All-Ireland Senior Football Championship Final
+1992 Indian stock market scam
+1992 United States Senate elections
+1995–96 South Pacific cyclone season
+1996–97 South Pacific cyclone season
+1997–98 South Pacific cyclone season
+1998 Winter Olympics
+1998–99 South Pacific cyclone season
+1999 Constituent National Assembly
+1999–2000 South Pacific cyclone season
+2001 South Armagh attacks
+2001–02 South Pacific cyclone season
+2001: A Space Odyssey (novel)
+2002 in paleontology
+2002 Short Strand clashes
+2002 Stromboli tsunami
+2002–03 South Pacific cyclone season
+2003–04 South Pacific cyclone season
+2004–05 South Pacific cyclone season
+2005 Oklahoma state budget
+2006 Yogyakarta earthquake
+2006–07 Australian region cyclone season
+2006–07 South Pacific cyclone season
+2007 Pacific typhoon season
+2007–08 South Pacific cyclone season
+2008 Atlantic hurricane season
+2008 conflict in Lebanon
+2008–09 South Pacific cyclone season
+2008–09 South-West Indian Ocean cyclone season
+2009 in mammal paleontology
+2009 in paleontology
+2009 Washington Referendum 71
+2009–10 South Pacific cyclone season
+2010 Jordanian general election
+2010 Pacific typhoon season
+2010 United States House of Representatives elections in Massachusetts
+2010–11 South Pacific cyclone season
+2011 ES4
+2011 Pacific typhoon season
+2011 Thai general election
+2011–12 South Pacific cyclone season
+2012 Cardiff Council election
+2012 in Malaysia
+2012–13 South Pacific cyclone season
+2013 Pacific hurricane season
+2013 Pacific typhoon season
+2013 shooting of Santa Cruz police officers
+2013 UST Growling Tigers men's basketball team
+2013–14 South Pacific cyclone season
+2014 Pacific typhoon season
+2014–15 South Pacific cyclone season
+2015 Illapel earthquake
+2015 Macedonian protests
+2015–16 South Pacific cyclone season
+2016 Atlantic hurricane season
+2016 Democratic Party presidential primaries
+2016 Niger flood
+2016–17 Australian region cyclone season
+2016–17 South Pacific cyclone season
+2017 Atlantic hurricane season
+2017 North Indian Ocean cyclone season
+2017 United States Senate special election in Alabama
+2017–18 South Pacific cyclone season
+2018 North Indian Ocean cyclone season
+2018 South Australian state election
+2019 AFL season
+2019 California wildfires
+2019 in archosaur paleontology
+2019 North Indian Ocean cyclone season
+2019 Ridgecrest earthquakes
+2019 Southeast Asian haze
+2019 Wellington City mayoral election
+2019–20 Bangladesh Premier League (football)
+2020 Atlantic hurricane season
+2020 Bangladesh Premier League (football)
+2020 deployment of federal forces in the United States
+2020 in classical music
+2020 in Michigan
+2020 Iowa Democratic presidential caucuses
+2020 Nevada Democratic presidential caucuses
+2020 Thai protests
+2020 United States House of Representatives elections in Illinois
+2020 United States House of Representatives elections in New York
+2020 United States presidential election
+2090s
+3749 Balam
+229762 GǃkúnǁʼhòmdímàA
+A History of the Theories of Aether and Electricity
+A Jewish Princedom in Feudal France
+A Kestrel for a Knave
+A Peasant Chronicle in Gruyere
+A Short Account of the Destruction of the Indies
+A Terrible Woman
+A Walk Across the Sun
+A. T. Brand
+Aachen
+Aale Tynni
+Draft:Aashu Patel
+Abbasid–Carolingian alliance
+Abby Aldrich Rockefeller
+ABCD Camp
+Abdominal examination
+Abductive reasoning
+Draft:Abdul Haafiz
+Abdul Haq Akorwi
+Abdul Qadir Junejo
+Abel Prize
+Abercromby (1795 ship)
+Aberdour
+Aberfan disaster
+Aberfeldy, Perth and Kinross
+Abie Malan
+Abies pinsapo
+Abilene Prairie Dogs
+Abingdon (plantation)
+Abkhaz–Georgian conflict
+Abnormal psychology
+Abolitionism in the United States
+Aboriginal deaths in custody
+Aboriginal reserve
+Abortion in Kazakhstan
+Abraham Pineo Gesner
+Donald Abrams
+Abrin
+Absentee ballot
+Absolut Vodka
+Absolute pitch
+Absorption heat pump
+Abu Ghraib torture and prisoner abuse
+Abu Karib(previous page) (next page)
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Category:CS1_maint:_multiple_names:_authors_list&amp;oldid=951839989"
+		Hidden categories: Hidden categoriesTracking categoriesTemplate Large category TOC via CatAutoTOC on category with over 20,000 pagesCatAutoTOC generates Large category TOCCS1 maintenance
+	Navigation menu
+		Personal tools
+		Not logged inTalkContributionsCreate accountLog in
+		Namespaces
+		CategoryTalk
+		Variants
+		Views
+		ReadEditView history
+		More
+		Search
+		Navigation
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		Contribute
+		HelpLearn to editCommunity portalRecent changesUpload file
+		Tools
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		Print/export
+		Download as PDFPrintable version
+		Languages
+		AfrikaansالعربيةभोजपुरीCymraegDanskفارسی한국어IlokanoBahasa IndonesiaJawaKreyòl ayisyenМакедонскиമലയാളംمصرىBahasa MelayuNorsk bokmålNorsk nynorskଓଡ଼ିଆPortuguêsRomânăScotsShqipසිංහලSimple EnglishSlovenščinaСрпски / srpskiTagalogTürkçe粵語
+		Edit links
+		 This page was last edited on 19 April 2020, at 05:06 (UTC).
+		Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+		Privacy policy
+		About Wikipedia
+		Disclaimers
+		Contact Wikipedia
+		Mobile view
+		Developers
+		Statistics
+		Cookie statement

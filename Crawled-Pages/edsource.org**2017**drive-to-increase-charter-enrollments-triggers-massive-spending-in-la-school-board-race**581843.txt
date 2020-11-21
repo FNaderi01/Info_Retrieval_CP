@@ -1,0 +1,288 @@
+How is remote learning working out?
+We need your insights! In a state as vast and diverse as California, we depend on parents, educators, students, administrators,  policymakers and community members like you to help us understand what's working at your schools, colleges and early child care centers — and what must be improved.
+Please join our community network and help inform our coverage of California education.
+.tingle-modal--overflow {
+    overflow-y: scroll;
+    padding-top: 2.5vh;
+}
+.tingle-modal-box {
+    max-width: 664px;
+}
+.tingle-modal {
+  font-family: "proxima-nova-condensed", sans-serif;
+}
+.tingle-modal p {
+  font-family: "proxima-nova-condensed", sans-serif;  
+  margin: 1em 0;
+  font-size: 1.15em;
+  line-height: 1.5em;
+}
+.content-block {
+  margin: 40px auto;
+  padding: 0px;
+  background-color: white;
+  color: #1f3d00;
+  max-width: 600px;
+  border: 7.5px solid white;
+}
+.content-inner {
+  background-color: #d7eb68;
+  padding: 28px 38px;
+}
+.content-block h1 {
+  text-align: center;
+  font-size: 242%;
+  line-height: 124%;
+}
+.content-block a {
+  color: inherit;
+  text-decoration: underline;
+}
+.tingle-modal .embed-sub.embed-minimal {
+  padding: 0px;
+}
+.tingle-modal .embed-sub.embed-minimal h3 {
+  display: none;
+}
+.tingle-modal .embed-sub.embed-minimal form {
+  margin-bottom: 32px;
+}
+.tingle-modal .embed-sub.embed-minimal form input {
+  border-radius: 0px;
+  background-color: rgba(255,255,255,.8);
+  color: #1f3d00;
+  border: 0px solid white;
+} 
+.tingle-modal .embed-sub.embed-minimal form input,
+.tingle-modal .embed-sub.embed-minimal form button {
+  font-size: 22px;
+  padding: 12px 8px 10px;
+} 
+.tingle-modal .embed-sub.embed-minimal form button {
+  background-color: #9ac43c;
+  color: #1f3d00;
+  font-weight: 600; 
+  text-transform: uppercase;
+  border-radius: 0px; 
+  border:0px solid green;
+}
+.tingle-modal .embed-sub.embed-minimal p {
+  margin: 0px 0px 6px;
+}
+.tingle-modal p:last-of-type {
+  margin-bottom: 0px;
+}
+.tingle-modal img {
+    max-width: 82%;
+    margin: 0 auto;
+}
+@media screen and (max-width:768px) {
+.tingle-modal--overflow {
+    overflow-y: scroll;
+    padding-top: 0vh;
+}
+  .tingle-modal {
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  .content-block {
+  }
+  .content-inner {
+    padding: 22px;
+  }
+  .content-block h1 {
+    text-align: center;
+    font-size: 162%;
+  }
+}
+@media screen and (max-width:480px) {
+  .content-block {
+  }
+}
+.tingle-modal-box {
+background: transparent;
+}
+}
+#custom-close {
+    top: 0px;
+    right: 0px;
+    top: 0px !important;
+    right: 0px !important;
+}
+				EXPLORE: How Prop. 15 would increase K-12 districts' fundingCoronavirus updatesQuick Guides			
+					Highlighting Strategies for Student Success
+							Donate
+							Subscribe
+					Quick search above or Advanced Search
+				☰Topics
+	Charter Schools
+	Chronic Absenteeism
+	College &amp; Careers
+	Common Core
+	Coronavirus
+	Distance Learning
+	Early Learning
+	Elections and Education
+	Getting Down to Facts
+	High-needs students
+	Legislation &amp; Budget
+	Local Control Funding
+	Math &amp; Science
+	Teachers’ Pensions: Who Pays?
+	Policy &amp; Finance
+	Race and Equity
+	Research &amp; Reports in Brief
+	School Discipline
+	Social and Emotional Learning
+	Student Wellbeing
+	Teachers
+	Teacher Shortage
+Audio &amp; Video
+	Podcasts
+	Webcasts and Webinars
+	Video
+	2017 Symposium Video Archive
+Projects
+	Rural California: An Education Divide
+	Saving Stege
+	California’s Teacher Housing Crunch
+	Tainted Taps: Lead puts California Students at Risk
+	Full Circle: California Schools Work To Transform Discipline
+	California’s Homeless Students: Undercounted, Underfunded And Growing
+	Common Core Explained
+	Local Control Funding Formula Explained
+	Special Series: Restraint in the Shadows
+Commentaries
+	Share your commentary
+Data
+	California School Dashboard Data
+	Smarter Balanced Results Database
+	States in Motion
+	Vaccination Database
+	Grad and Dropout Rates
+	LCFF Database
+	Ed-Data Partnership
+Publications
+	Newsletters
+	Publications Archive
+	Quick Guides
+	Glossary of Terms
+	Eyes on the Early Years Newsletter Archive
+About EdSource
+	Donate
+	EdSource Staff
+	Board of Directors
+	Major Donors
+	EdSource Advisory Council
+	Jobs at EdSource
+	Contact Us
+				Kindly Log In
+				Username
+				Password
+												Drive to increase charter enrollments triggers massive spending in LA school board race
+						Charter SchoolsMay 15, 2017Louis Freedberg3 Comments					
+					Credit: Brenda Iasevoli for EdSourceAndres Ochoa tutors a student in Alma Renteria�s 6th-grade math class at Oscar Romero Charter School in central Los Angeles. Tutors provide one-on-one support in all math classes at Romero. Credit: Brenda IasevoliCredit: Brenda Iasevoli for EdSourceAndres Ochoa tutors a student in Alma Renteria�s 6th-grade math class at Oscar Romero Charter School in central Los Angeles. Tutors provide one-on-one support in all math classes at Romero. Credit: Brenda IasevoliLouis FreedbergMay 15, 20173 CommentsSchool board races tend to be sleepy affairs, drawing little attention and even less campaign spending compared to other higher profile races on most local ballots.
+Not in Los Angeles, which has become the site of the most heated – and by far the most expensive – battle over charter schools in the nation.
+An extraordinary $15.9 million has been contributed to decide who will fill two seats on the seven-person Los Angeles Unified School District Board of Education.
+The battle, which a Los Angeles Times headline over the weekend described as “brutal, expensive and important,” is coming to a head Tuesday in a runoff election pitting incumbent school board President Steve Zimmer against Nick Melvoin in District 4, and Imelda Padilla against Kelly Gonez in District 6 for an open seat vacated by former teacher Monica Ratliff, who ran unsuccessfully for Los Angeles City Council in March.
+The contest has been generally framed as a contest between pro- and anti-charter forces, with Zimmer and Padilla in the anti-charter camp, and Melvoin and Gonez in the pro-charter one. But that vastly oversimplifies the issues at stake in the election.
+From a historical perspective, the district can hardly be characterized as hostile to charter schools.
+With 279 charter schools, L.A. Unified has more charter schools than any other district in the nation.  Of those, 224 are “independent” charters and 54 are “affiliated” ones. The 156,000 students enrolled in them exceeds that of any school district in the nation. New York City is next with 201 charter schools and an enrollment of close to 107,000 students. Zimmer and Padilla, the two candidates who are being opposed by charter school advocates and their deep-pocketed contributors, do not fit neatly into an “anti-charter” box.
+In fact, Zimmer, a former teacher in the district, has approved almost all of the charter school petitions he has had to vote on in the eight years he has been on the board.
+So what accounts for a runoff election generating so much passion and spending comparable to what is spent on a statewide race?
+What appears to have triggered the current showdown is the decision by charter school advocates to launch the most aggressive drive in the nation to increase student enrollments in charter schools not only in Los Angeles, but also in California as a whole.
+The battle is therefore not over whether or not to have charter schools, or even whether to add additional ones. At the root of the conflict is the pace at which the expansion should take place and, implicitly, whether there should be any limits on how many students are enrolled in charter schools in districts like Los Angeles. In that sense, the outcome of Tuesday’s election has ramifications for other districts around the state that are under pressure to approve additional charter schools.
+Los Angeles Unified may lead the nation in the number of charter schools in a district, but with “only” about one in four of L.A. Unified’s students in charter schools, it lags behind a number of other districts in the proportion of students enrolled in them. At least 14 other school districts have a higher proportion of charter school students. Topping the list are the 53 percent of Detroit public school students enrolled in charter schools and the 47 percent in Flint, Mich., for example – enrollments driven in part by the aggressive efforts of billionaire philanthropist and now U.S. Secretary of Education Betsy DeVos over several decades in her home state of Michigan.
+That suggests that there is still much room for charter school expansion in Los Angeles – and certainly in California.
+Two years ago, a draft of a plan put together by the Eli and Edythe Broad Foundation and other charter school advocates included a goal to create 260 new charter schools in L.A. Unified over the next eight years, resulting in enrolling half of the district’s students in charter schools. That would put the district on a par with places like Flint, Detroit and Washington, D.C.
+When what became known as the “Broad plan” came to light, Zimmer referred to it as an “an outline for a hostile takeover” of the district. It surfaced at a time when the district was facing a massive budget shortfall and raised the larger question of at what point do charter schools affect the basic financial health of a district.
+Despite his past support for charter schools, Zimmer says he wants the district to exercise more discretion in approving new charter schools. In comments to the Los Angeles Times last week, he said that he would be interested in charter schools that “offer real innovation,” but that outside of those “I cannot see why we would agree to authorize more and more charter schools.”
+In contrast to Zimmer, Melvoin embraced the Broad plan, countering Zimmer’s concerns in an online profile in the74.com nearly two years ago by saying that “a hostile takeover might be precisely what our district needs.” He pointed to the low test scores at the school where he once taught, saying “that until every parent in Los Angeles can say that they would send their child to any school in LAUSD, then a hostile takeover may be just what we need.”
+If he were to set that arguably unattainable standard, it could lay the foundation for decades of charter battles along the lines currently being waged. Melvoin now regrets using the term “hostile takeover” and is not necessarily in favor of having as many as half of the district’s students in charter schools.   In an interview with EdSource, he suggested there was a way for both sides to find a middle ground.  “Ironically you could mitigate charter growth if there were more collaborative relationships and if we were more understanding of what makes some of these schools work and what makes some of these parents choose these schools,” he said.
+The other contested school board race is marked more by the similarities than the differences between the candidates. Both are young – Gonez is 28, and Padilla is 29. Neither have children in public schools. Both say that there are high quality charter schools, and others that are less so.
+Padilla, who has been endorsed by former presidential candidate Bernie Sanders, takes a fairly nuanced view of charters. In an interview with LA School Report, she said some charter schools are successful, and others are not – and that they meet the needs of parents and children at certain times, and not at others. She decried the battle lines that have been drawn by some.
+“This us-versus-them attitude I find personally offensive,” Padilla said. “Specifically, in my community, I find that parents have utilized both systems, where they like charters for middle school, but then prefer district high schools for the big sports facilities and other opportunities, like additional counselors and more federal money going to the schools.”
+In its profile of Gonez, who teaches in a charter middle school, the LA School Report said that “even though she works at a charter school, Gonez doesn’t consider herself ‘pro-charter,'” and that she would review charter school applications to the board based on community needs in a “nuanced and multimeasured” way.
+Now even backers of the Broad plan have backed off somewhat, insisting they support great schools regardless of whether they are charter schools or regular public schools. In fact, they’ve constituted a new organization called Great Public Schools Now, which is going out of its way to donate funds to both charter and regular public schools.
+But many of these nuances have been lost in the battle for control of the school board.
+What is true is that the Broad plan succeeded in stirring teachers unions to take a far more hostile stance toward charters than they have in the past. The divide was further accentuated when the California Charter Schools Association unveiled a shadow version of the Broad plan for the entire state – its “March to a Million” initiative, which set as a goal enrolling 1 million California students in charter schools by 2022. That’s also nearly double the current enrollments.
+Over the years, teachers unions have not always embraced charter schools, but they also had not actively opposed them in principle, as evidenced not only by the hundreds of charter schools in Los Angeles, but also the more than 1,200 charter schools in the state.
+“We’re not against charter schools per se,” California Teachers Association President Eric Heins told EdSource last fall. “We have members who work in charter schools. What we are opposed to is the opaqueness in terms of how public money is spent. And there’s no accountability for many of these schools, and there are a lot of bad actors.”
+In response to the push by charter school advocates to dramatically increase charter enrollments, the CTA has launched an aggressive “Kids Not Profit” campaign to highlight contributions from “billionaires who are spending record amounts of money to influence local legislative and school board elections across the state.”
+The outcome of Tuesday’s election will provide insight into which side is winning the intensifying conflict over charter school expansion.  If candidates supported by the CTA and the United Teachers of Los Angeles prevail, despite being outspent by their opponents, charter schools won’t disappear, but there is a chance that their steady growth over the last quarter-century will be slowed.
+By contrast, if the charter-backed candidates come out on top, expect to see thousands more students enrolling in new charter schools, with unknown long-term consequences for the state’s largest school district, and potentially driving charter growth in others around the state.
+To get more reports like this one,  click here to sign up for EdSource’s no-cost daily email on latest developments in education.Republish this articleShare Article Louis Freedberg writes about education reforms in California and nationally, and is the executive director of EdSource. Follow @louisfrEXPLORE:Charter SchoolsReformsCharter SchoolsEli and Edythe Broad FoundationFeaturedLos Angeles Unified 			
+				Comments 
+				(3)				
+				Leave a Comment				
+				Your email address will not be published.
+				 Required fields are marked * *				
+					Click here to cancel reply.
+						Name *
+						Mail *
+						Website
+					Comment
+					XHTML: You can use these tags: &lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;s&gt; &lt;strike&gt; &lt;strong&gt; -->
+					Comments Policy We welcome your comments. All comments are moderated for civility, relevance and other considerations. Click here for EdSource's Comments Policy.			
+			Raoul 3 years ago3 years ago	Nick Melvoin, a Harvard grad,  might still be a teacher with a passion for urban education if he hadn’t been laid off by the LAUSD, not once, but twice under union mandated seniority based LIFO layoff rules.   Laid off,  he ended up at NYU Law School and now is back and supporting the sort of educational options that might have kept a very highly qualified and passionate young teacher such as him from being jobless.
+Jonathan Raymond 3 years ago3 years ago	Kind of says it all…  “Ironically you could mitigate charter growth if there were more collaborative relationships and if we were more understanding of what makes some of these schools work and what makes some of these parents choose these schools,”
+JudiAU 3 years ago3 years ago	My mother, a comfortably retired public school teacher, held predictablle opinions about charter schools. But upon reviewing our local school's test scores she was alarmed, and said, "Oh no! You can't send them there!"' 
+Los Angeles parents care less about innovation than a desperate hope for some level of adequacy. They see a failing, broken district with a grossly inflated bureaucracy and they are fleeing, fleeing to anything. If you are poor in LA, you … Read MoreMy mother, a comfortably retired public school teacher, held predictablle opinions about charter schools. But upon reviewing our local school’s test scores she was alarmed, and said, “Oh no! You can’t send them there!”‘ 
+Los Angeles parents care less about innovation than a desperate hope for some level of adequacy. They see a failing, broken district with a grossly inflated bureaucracy and they are fleeing, fleeing to anything. If you are poor in LA, you better pray you get one of those seats.
+Latest updates on education and the coronavirus crisis
+What California parents and students should know about the coronavirus: a quick guide
+California colleges and universities respond to the coronavirus: a quick guide
+Quick Guide: What California's color-coded county tracking system means for schools
+How to protect students' privacy during distance learning
+How the pandemic has transformed school accountability in California
+Quick Guide: Who are California's teachers?
+				Template last modified: 
+				Topics
+	College &amp; Careers
+	Commentary
+	Curriculum
+	Early Learning
+	Getting Down to Facts
+	Policy &amp; Finance
+	Reforms
+	Student Wellbeing
+Projects
+	Podcasts
+	Webcasts and Webinars
+	Rural California: An Education Divide
+	California’s Teacher Housing Crunch
+	Tainted Taps
+	Full Circle
+	California’s Homeless Students
+	Common Core Explained
+	Smarter Balanced Database
+	States in Motion
+	LCFF Guide
+	Glossary
+About EdSource
+	About Us
+	Subscribe
+	Donate
+	2017 Symposium
+	EdSource Staff
+	Board of Directors
+	Jobs at EdSource
+	Major Donors
+	Contact Us
+					436 14th St.Suite 1005Oakland, CA 94612
+					PHONE 510-433-0421 | FAX 510-433-0422
+					edsource@edsource.org
+					-->
+				Privacy Policy
+				2020 EdSource. All Rights Reserved.
+			.ssp-wave wave wave {
+				background: #28c0e1 !important;
+			}
+			           Thanks for signing up!
+			       Stay informed with our daily newsletter
+			           Sign Up
+			              I'm a human
+			  #dot { width:15px;height:15px;border-radius:15px;border:2px solid black;display:inline-block;position:relative;top:2px; }
+			  #dot:hover { cursor: pointer; }
+			  #dot.alive { background-color: red }
+			  #dot.dead { background-color:white }

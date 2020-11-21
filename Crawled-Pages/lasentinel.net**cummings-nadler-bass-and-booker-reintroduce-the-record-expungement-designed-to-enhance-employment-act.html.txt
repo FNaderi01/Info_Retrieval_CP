@@ -1,0 +1,319 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Cummings, Nadler, Bass, and Booker Reintroduce the Record Expungement Designed to Enhance Employment Act            
+				By Sentinel News Wire                
+	                	                Published May 1, 2019
+AP Photo
+Washington, D.C. (April 30, 2019) – Today, Representatives Elijah E. Cummings (D-MD), Chairman of the Committee on Oversight and Reform; Jerrold Nadler (D-NY), Chairman of the House Committee on the Judiciary; and Karen Bass (D-CA), Chairwoman of the Subcommittee on Crime, Terrorism and Homeland Security; reintroduced the Record Expungement Designed to Enhance Employment (REDEEM) Act on the last day of Second Chance Month. U.S. Senator Cory Booker (D-NJ) plans to reintroduce the bill in the Senate in the coming weeks.  The bicameral legislation would ease the barriers to re-entry for formerly incarcerated individuals by expunging or sealing offenses that are committed by a child and providing a way for adults to seal non-violent criminal records.
+        ADVERTISEMENT        
+Providing formerly incarcerated individuals with the tools to effectively reintegrate into society is essential in preventing recidivism.  One in three American adults currently has a criminal record. Unfortunately, over two-thirds of formerly-incarcerated people are rearrested within three years. Removing collateral consequences, including barriers to employment, education, and benefits, is one way to address this troubling trend.
+“Tragically, in today’s world, a criminal record has become a life sentence carrying with it the possibility —and all too often, the reality— of it negatively affecting one’s employment, housing, access to credit, child support, and so many other issues.  We know that sentences issued by our criminal justice system disproportionately affect Americans of color,” said Chairman Cummings.  “The bill we introduced today will seal and expunge offenses committed by a child, provide a path for adults to seal their non-violent criminal records to ease re-entry, and help ensure that a criminal record does not become a life sentence.  Future generations are counting on us to reform our broken criminal justice system now so they can see a system and an entire country in which they can believe.” 
+“The REDEEM Act is designed to enhance people’s ability to become productive members of society after serving their time for nonviolent offenses,” said Chairman Nadler.  “Specifically, this bill will allow courts an opportunity, through the sealing and expungement process, to restore constitutional rights of individuals with nonviolent drug offenses, which generally pose a barrier for many citizens returning to our communities.  It will also preserve an avenue for juveniles to get a fresh start by sealing their record three years after the juvenile serves a term for a conviction of a non-violent offense.  These are sensible provisions, which will allow some relief in our efforts to reform our criminal justice system.” 
+“I’m proud to support this piece of legislation to ensure that after a prison sentence is served, our criminal justice system doesn’t tack on a life-sentence’s worth of obstacles affecting access to housing, employment, and other tools necessary to effectively reintegrate into society,” said Chairwoman Bass.  “Successful criminal justice reform must pay close attention to this phase of incarceration in order to reduce recidivism rates in this country.  As we continue our fight to reform this broken system, I encourage my colleagues to keep a close eye on how women are disproportionately affected by this system at every turn – from how they initially get entwined, to how they are treated in prison, to what happens when they are released.  I look forward to continuing to work on this important issue.”
+“The reality of mass incarceration has countless consequences, but when someone has paid their debt to society and returns to their community with hopes of a second chance, they shouldn’t continue to be shackled by our broken criminal justice system,” Senator Booker said.  “Our bill will lessen the barriers of re-entry into society for those who have been convicted of nonviolent crimes and help thousands of young people adjust to life outside of prison.  The REDEEM Act enacts common sense reforms that will strengthen our communities by helping formerly incarcerated individuals get back on their feet and reducing the rates of recidivism.”
+Specifically, the REDEEM Act:
+Incentivizes states to increase the age of criminal responsibility to 18 years old: Currently, several states have set the original jurisdiction age of adult criminal courts below 18 years old.  This sends countless kids into the unforgiving adult criminal justice system.  The REDEEM Act incentivizes states to change that by offering preference to Community Oriented Policing Services (COPS) grant applicants to those that have set 18 or older as the age of original jurisdiction for adult criminal courts.
+Allows for sealing and expungement of juvenile records: The bill would provide for the automatic expungement of records for juveniles who committed non-violent crimes before they turned 15 years old and the automatic sealing of records for juveniles who committed non-violent crimes.
+Restricts use of juvenile solitary confinement: The bill would end the cruel and counterproductive practice of solitary confinement except in the most extreme circumstances in which it is necessary to protect a juvenile detainee or those around them. When confinement is necessary, the bill places strict time and condition limitations.
+Offers adults a way to seal non-violent criminal records: The bill provides the first broad-based federal path to the sealing of criminal records for adults. The bill would provide for the automatic sealing of records of non-violent drug offenses. In addition, those who commit other non-violent offenses will be able to petition a court and make their case for the sealing of records. Furthermore, employers requesting FBI background checks will only receive relevant and accurate information – thereby protecting job applicants – because of bill provisions to improve the background check system.
+Lifts ban on SNAP and TANF benefits for low-level drug offenders: The bill restores access to benefits for those who have served their time for use, possession, and distribution crimes.
+The REDEEM Act has been endorsed by the Center for Law and Social Policy, the National Employment Law Project, JustLeadershipUSA, Campaign for Youth Justice, The Sentencing Project, the Leadership Conference on Civil and Human Rights, National Crittenton, and the Interfaith Action for Human Rights.
+Click here to read a section by section of the bill.
+		Categories: Daily Briefs | Political Tags: 85 Years of LA Sentinel | Black News | Black Press | Cory Booker | Elijah E. Cummings | Jerrold Nadler | Karen Bass		
+						SURVIVING R. KELLY: The Impact with Host Soledad O’Brien on May 4
+						California Inches Toward 40M People, but Growth Rate Slows
+						County Breaks Ground on New MLK Child and Family Wellbeing Center
+						Facebook Bans the Honorable Minister Louis Farrakhan and Lumps Him with Hat...
+						WATCH: Homewood Flossmoor Black Students Protest White Students Wearing Bla...
+						Black Men Still Incarcerated at Disproportionate Levels
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

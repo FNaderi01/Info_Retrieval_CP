@@ -1,0 +1,46 @@
+     Skip to Main Content
+                                        OpenID
+What is OpenID?
+Dreamwidth supports the OpenID distributed identity system, letting you bring your Dreamwidth identity to other sites, and letting non-Dreamwidth users bring their identity here.  OpenID simplifies your online experience by eliminating the need for multiple usernames and multiple logins across multiple sites. For more information about OpenID on Dreamwidth, you can view the FAQ "What is an OpenID Account?".
+Using your OpenID here.
+If you don't have a Dreamwidth account, you can use your OpenID identity from another site to subscribe to journals, use a Reading Page, and receive access to protected content in journals. You can also leave comments on others' entries, but you can't post entries of your own or join communities.
+You can also set and confirm an email address where you can receive notification of replies to your comments.
+      Your OpenID URL:
+    For example: username.someblog.com (if your host supports OpenID)
+Using your OpenID on another site.
+If another site says it supports OpenID and you want to use your Dreamwidth identity there, just enter your journal URL.  (You don't need the http:// part, either).  For example,  enter username.dreamwidth.org, replacing username with your own username.  After you do so, you'll be sent to Dreamwidth briefly to ask if you want to trust that site to know who you are.  You can either trust them once or forever.  You can change your OpenID settings and trust at any time.
+    Log in
+            Account name:
+            Password:
+             Remember me
+            Other options:
+              Forget your password?
+              Log in with OpenID?
+      ×
+                    menu
+  Log in
+Create
+                Create Account
+                Display Preferences
+Explore
+                Interests
+                Directory Search
+                Site and Journal Search
+                Latest Things
+                Random Journal
+                Random Community
+                FAQ
+Shop
+                Buy Dreamwidth Services
+                Gift a Random User
+                DW Merchandise
+InterestRegionSite and AccountFAQEmailIM Info
+    Privacy Policy • 
+    Terms of Service • 
+    Diversity Statement • 
+    Guiding Principles • 
+    Site Map • 
+    Make a Suggestion • 
+    Open Source • 
+    Help/Support
+Copyright © 2009-2020 Dreamwidth Studios, LLC. Some rights reserved.

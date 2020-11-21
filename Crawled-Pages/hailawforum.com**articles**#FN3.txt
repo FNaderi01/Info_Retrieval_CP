@@ -1,0 +1,7 @@
+http://thailawforum.com/articles/#FN3
+403: Forbidden
+This error message is generated when the web server is trying to access a file that does not exist or has been configured incorrectly
+Troubleshooting suggestions:
+Ensure that you have a valid home page defined in your website directory (example: /htdocs/index.html, /htdocs/index.php). On Unix, this is case
+        sensitive and must be all lower case.
+In your Account Manager, under Hosting Tools, click to .Reset File Permissions..

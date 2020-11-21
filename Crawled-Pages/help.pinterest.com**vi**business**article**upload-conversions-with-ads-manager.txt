@@ -1,0 +1,285 @@
+      Nhảy đến nội dung
+        Trung tâm Trợ giúp
+  Header navigation
+                  Tổng quan
+                  Doanh nghiệp
+  Header navigation - actions
+        Tìm kiếm
+  Header navigation - anonymous
+        Đăng nhập
+        Trang chủ Pinterest
+  Open menu
+          Tổng quan
+          An toàn và truy cập tài khoản
+          Sự cố với Pinterest
+          Pháp lý &amp; Quyền riêng tư
+          Quản lý tài khoản của bạn
+          Ghim và bảng
+          Doanh nghiệp
+          Ads measurement
+          Ads reporting
+          Build your organic presence on Pinterest
+          Quản lý hồ sơ doanh nghiệp của bạn
+          Shopping on Pinterest
+          Thanh toán và tính phí Ghim Quảng cáo
+          Quảng cáo trên Pinterest
+            An toàn và truy cập tài khoản
+            Sự cố với Pinterest
+            Pháp lý &amp; Quyền riêng tư
+            Quản lý tài khoản của bạn
+            Ghim và bảng
+            Ads measurement
+            Ads reporting
+            Build your organic presence on Pinterest
+            Quản lý hồ sơ doanh nghiệp của bạn
+            Shopping on Pinterest
+            Thanh toán và tính phí Ghim Quảng cáo
+            Quảng cáo trên Pinterest
+              Tải lên lượt chuyển đổi với Trình quản lý quảng cáo
+            Tải lên tập tin CSV với lượt chuyển đổi ngoại tuyến, trong ứng dụng, trên trang web hoặc bất kỳ cách kết hợp nào theo đó vào Trình quản lý quảng cáo. Pinterest khớp các chiến dịch liên quan với những lượt chuyển đổi này và sau đó bạn có thể xuất báo cáo liên quan cho các lượt chuyển đổi đã tải lên này trong Trình quản lý quảng cáo.
+Trước khi bạn bắt đầu
+Đảm bảo bạn có một chiến dịch đang hoạt động
+Chuẩn bị tập tin CSV
+Tần suất: Tải lên với tần suất đều đặn, ít nhất mỗi tháng một lần hoặc thường xuyên hơn. Gửi dữ liệu chuyển đổi trong vòng 30 ngày kể từ khi mỗi lượt chuyển đổi xảy ra đến Pinterest hàng tháng hoặc thường xuyên hơn.
+Kích thước tập tin: Tập tin phải có kích thước dưới 5GB và chứa ít hơn 10 triệu hàng.
+Tải lượt chuyển đổi lên Trình quản lý quảng cáo
+Mở Pinterest bằng tài khoản doanh nghiệp của bạn và nhấp vào Quảng cáo.
+Nhấp vào Chuyển đổi
+Nhấp vào Tải lên lượt chuyển đổi
+Tải lên tập tin .CSV
+Đối sánh sự kiện
+Sau khi đã nhận được tập tin chuyển đổi của bạn và hoàn thành quá trình đối sánh, chúng tôi xóa tập tin ban đầu của bạn cùng với bất kỳ dữ liệu định danh người dùng nào mà bạn đã cung cấp, như đã đề cập trong Điều khoản Dữ liệu quảng cáo của chúng tôi.
+Kiểm tra quá trình tải lên tập tin CSV của bạn
+Mở Pinterest bằng tài khoản doanh nghiệp của bạn và nhấp vào Quảng cáo.
+Nhấp vào Chuyển đổi
+Nhấp vào Lịch sử tải lên lượt chuyển đổi
+Quá trình tải lên có thành công không?
+Có: Đợi 48 giờ để dữ liệu của bạn xuất hiện. Sau đó kiểm tra bảng điều khiển báo cáo trong Trình quản lý quảng cáo.
+Không: Khắc phục sự cố phân phối
+Khắc phục sự cố
+Nếu việc tải lên không thành công, hãy xem lại quá trình tải lên và sửa lỗi trước khi bạn gửi lại tập tin CSV.
+Mở Pinterest bằng tài khoản doanh nghiệp của bạn và nhấp vào Quảng cáo.
+Nhấp vào Chuyển đổi
+Nhấp vào Lịch sử tải lên lượt chuyển đổi
+Nhấp vào hàng được tải lên không thành công để xem cửa sổ thả xuống hiển thị thông tin về lý do không thành công
+Nhấp vào Xem lỗi dữ liệu để xem các giá trị dữ liệu không hợp lệ trong tập tin CSV
+Xem lại Trường dữ liệu khách hàng và Trường dữ liệu sự kiện để biết lược đồ dự kiến và ví dụ về các giá trị dự kiến
+Pinterest không lưu trữ các tập tin CSV gốc từ nhà quảng cáo sau khi quá trình đối sánh hoàn thành. Để khắc phục sự cố, bạn nên tham khảo các giá trị dữ liệu không hợp lệ trên tập tin đã tải lên ban đầu. 
+            Thông số kỹ thuật của tập tin CSV
+            Các trường dữ liệu khách hàng
+            Tên cột
+Mô tả
+Ví dụ
+Bắt buộc?
+Email
+Tối đa 4 địa chỉ email (có thể có tối đa 4 cột với email tên tiêu đề hoặc email_1, email_2, email_3, email_4)
+Chúng tôi hỗ trợ cả dữ liệu đã hash (SHA256, SHA1, MD5) và các trường dữ liệu khách hàng cleartext.
+Nếu hash SHA256, SHA1, MD5, hãy sử dụng các ký tự chữ thường và xóa các khoảng trắng thừa trước, sau hoặc giữa địa chỉ email.
+vidu [at] email.com
+Cần có dữ liệu trường email hoặc madid
+madid
+				ID quảng cáo trên thiết bị di động; chúng tôi chấp nhận ID quảng cáo Android và Apple IDFA
+AECE52E7-03EE-455A-B3C4-E57283966239
+Cần có dữ liệu trường email hoặc madid
+            Các trường dữ liệu sự kiện
+            Tên cột
+Mô tả
+Ví dụ
+Bắt buộc?
+event_time
+			(Vui lòng không biên dịch dữ liệu bằng Excel để tránh tự động sửa)
+Bạn nên dùng dấu thời gian Unix. Chúng tôi chấp nhận các định dạng sau:
+MM/dd/yyyy hh:mm:ss aa
+MM/dd/yyyy HH:mm:ss
+yyyy-MM-dd HH:mm:ss
+yyyy-MM-ddTHH:mm:ss
+yyyy-MM-dd HH:mm:ss+zzzz
+yyyy-MM-ddTHH:mm:ss+zzzz
+yyyy-MM-dd
+MM/dd/yyyy
+			Dấu thời gian Unix
+			Dữ liệu giao dịch phải được tải lên trong vòng 30 ngày kể từ khi diễn ra lượt chuyển đổi
+08/14/2012
+hoặc
+08/14/2012 5:01:54 PM
+hoặc
+2019-08-14T12:32:42+0700
+Có
+event_type
+Các loại sự kiện chuyển đổi tiêu chuẩn:
+Signup
+Checkout
+Custom
+ViewCategory
+Tìm kiếm
+AddToCart
+WatchVideo
+Lead
+Nếu không được bao gồm thì sẽ mặc định là Checkout
+Checkout
+Có
+source_type
+Thêm loại nguồn sự kiện: 
+offline
+app_android
+app_ios
+web
+			Nếu không được bao gồm thì chúng tôi mặc định là offline.
+offline
+Có
+value
+Giá thành sản phẩm trên hàng
+500.00
+Có cho checkout
+order_id
+Một dữ liệu định danh lân cận cho giao dịch ngoại tuyến, giới hạn 64 ký tự
+X-151481
+Tùy chọn - ưu tiên cho các sự kiện checkout
+quantity
+Số lượng mặt hàng đã mua
+15
+Không
+product_id
+			Trường số mặt hàng có thể chứa giá trị chữ và số không có ký tự đặc biệt, ký hiệu tiền tệ hoặc dấu phẩy; trường này cho phép bạn chia một giao dịch thành nhiều sự kiện bằng cách sử dụng id sản phẩm duy nhất, tức là SKU, UPC, v.v., cho từng mặt hàng được liên kết với cùng một id giao dịch
+108
+hoặc
+F28
+Không
+currency
+Đơn vị tiền tệ thanh toán
+USD
+CAD
+Không
+property
+Thuộc tính trang web mà mặt hàng được mua từ đó
+brandsite.com
+Không
+product_name
+Tên viết gọn của sản phẩm
+Ghế Gabrielle
+Không
+promo_code
+Khuyến mãi đã được sử dụng để mua hàng
+Winter 10
+Không
+product_category
+Danh mục cấp cao nhất của sản phẩm
+nội thất
+			Không
+product_sub_category
+Danh mục phụ của sản phẩm
+ghế
+			Không
+product_variant
+Bất kỳ dữ liệu định danh biến thể sản phẩm nào của sản phẩm
+Đỏ
+hoặc
+da
+			Không
+product_brand
+Tên thương hiệu của sản phẩm
+Gabrielle
+			Không
+is_new_customer
+Khách hàng mới (Y)
+Khách hàng hiện tại (N)
+Y
+			Không
+            Bước tiếp theo là gì?
+Tìm hiểu về báo cáo sự kiện chuyển đổi ngoại tuyến
+  Các bài viết khác
+  Skip Các bài viết khác Links
+      Thẻ Pinterest
+                        Cài đặt mã cơ sở
+                                Cài đặt, xóa hoặc khôi phục Thẻ Pinterest
+                                Kiểm tra các sự kiện Thẻ Pinterest
+            Xem thêm
+                                Mã cơ sở
+                                Mã IMG
+                                Mã sự kiện
+                                Thêm mã sự kiện
+                                Theo dõi chuyển đổi bằng thẻ Pinterest
+                                Tiện ích mở rộng Chrome Pinterest Tag Helper
+                                Triển khai thẻ Pinterest
+                                Ví dụ về các mã cơ sở và mã sự kiện kết hợp
+                                Ví dụ về mã sự kiện
+                                Đối sánh nâng cao
+      Tích hợp thẻ Pinterest
+                        Thêm thủ công thẻ Pinterest vào Shopify
+      Theo dõi bên thứ ba
+                        Theo dõi chuyển động và bên thứ ba
+                                Theo dõi quảng cáo bộ sưu tập
+      Conversions
+                        Tải lên lượt chuyển đổi bằng LiveRamp
+                                Tải lên lượt chuyển đổi với Trình quản lý quảng cáo
+                                Tải lên lượt chuyển đổi để đo lường
+  End of Các bài viết khác Links
+            Bạn vẫn cần trợ giúp?
+                Liên hệ
+    User feedback
+              Bài viết này có hữu ích không?
+        vui
+        buồn
+        collection_fields
+        Chúng tôi có thể cải thiện bài viết này bằng cách nào?
+      Additional Response
+      Leave this field blank
+        Pinterest sử dụng cookie để mang đến cho bạn trải nghiệm tốt nhất có thể.
+        Đã hiểu!
+    Skip Footer Menu
+    Chọn ngôn ngữ
+                      English (US)
+                              Bahasa Indonesia
+                              Čeština
+                              Dansk
+                              Deutsch
+                              English (UK)
+                              Español
+                              Français
+                              Italiano
+                              Magyar
+                              Nederlands
+                              Norsk bokmål
+                              Polski
+                              Português (Brasil)
+                              Português (Europeu)
+                              Română
+                              Slovenčina
+                              Suomi
+                              Svenska
+                              Filipino
+                              Tiếng Việt
+                              Türkçe
+                              Ελληνικά
+                              Русский
+                              Ukrainian
+                              ภาษาไทย
+                              简体中文
+                              繁體中文
+                              한국어
+                              日本語
+            Giới thiệu
+                    Impressum
+                    Pinterest là gì
+                    Trang Pinterest
+                    Blog kỹ thuật
+                    Hướng dẫn thương hiệu
+                    Nghề nghiệp
+                    Trung tâm Trợ giúp
+                    Pinterest Labs
+            Chính sách của chúng tôi 
+                    Bản quyền
+                                          và
+                            thương hiệu
+                    Quảng cáo được cá nhân hóa
+                    Điều khoản Dịch vụ
+                    Quyền riêng tư
+                                          và
+                            cookies
+            Thông tin khác
+                    Dành cho doanh nghiệp
+                    Dành cho nhà phát triển
+                    Dành cho báo chí
+                    Dành cho nhà đầu tư
+                    End of Footer
+    © Pinterest 2020

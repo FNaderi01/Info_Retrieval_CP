@@ -1,0 +1,267 @@
+										Primary Menu										
+About CloseMission/HistoryCommissionersStaffMeetingsJobsContact UsPrograms CloseCampaignsContractsEthicsLobbyingWork CloseAdviceAuditsDisclosureEducationEnforcementPolicyCommunities CloseBiddersCandidatesCity EmployeesCity OfficialsCommissionersCommitteesContractorsContributorsDepartmentsDepartment HeadsIndependent SpendersLobbyistsLobbying FirmsLobbyist EmployersMajor FilersOfficeholdersResources CloseFormsPublicationsLawsNewsCOI CodesElection TotalsExternal Links Close	
+				Search
+				Search
+ ClosePublic Data PortalCampaignsContractsEthicsLobbyingAll ReportsFormal AdviceAuditsEnforcement Orders CloseFileDisclosureComplaint CloseFormer Website
+	/* moved to footer.php for global use (trg 8/8/18)
+	.iziModal {
+		box-shadow : none !important;
+	}
+	#ajax-loader {
+	    background-color: transparent;
+	    display: none;
+	    text-align: center;
+	}*/
+	td.mobileheader {
+		paddling-left: 30px;
+	}
+	th {
+		text-align: left !important;
+	}
+	input {
+		background-color: #FFFFFF !important;
+	}
+	.alert-warning {
+		background-color: #ededed;
+		border-color: #ededed;
+		color: #333333
+	}
+	.dataTables_wrapper .dataTables_filter {
+		float: left !important;
+		text-align: left !important;
+		padding-right: 10px !important;
+		vertical-align: middle !important;
+	}
+	.dataTables_wrapper .dataTables_filter input {
+		font-size: 14px !important;
+	}
+	.dataTables_wrapper .dataTables_info {
+		float: right !important;
+		padding-right: 5px !important;
+		vertical-align: middle !important;
+	}
+	.dataTables_wrapper .dataTables_length {
+		padding-top: 4px !important;
+		float: right !important;
+		vertical-align: middle !important;
+	}
+	.dataTables_wrapper .dataTables_paginate {
+		float: right !important;
+		vertical-align: middle !important;
+	}
+	/* Fix the indenting issue when radio button moves to second line. */
+	.radio-inline+.radio-inline {
+		margin-left: 0 !important;
+	}
+	.radio-inline {
+		margin-right: 10px !important;
+	}
+	@media (min-width: 768px) .wpb_row>* {
+		/* Remove default bottom padding from bootstrap on desktop */
+		.form-group {
+			margin-bottom: 0px !important;
+		}
+	}
+	@media (max-width: 1199px) .wpb_row>* {
+		margin-top: 0em !important;
+	}
+							Public Data Portal 
+							Public Data Portal 
+						CampaignsContractsEthicsLobbyingMoreReports, Audits, Formal Advice, and Enforcement OrdersCampaignsContractsEthicsLobbyingMoreSearch
+      Lobbying Activity 
+      Lobbying Payments Received 
+      Lobbying Fundraising 
+      Lobbying Expenditures 
+      Lobbying Contributions 
+      Lobbying Behested Donations 
+      Lobbying Registrations (Forms 30, 31, and 31-LE) 
+      Lobbyist Quarterly Reports (Forms 33, 34 and 35) 
+      Lobbying Entity Fundraising Notice (Form 43) 
+			*Required.
+Lobbying Entity
+ All
+Lobbyists
+Firms
+Employers
+ul.typeahead {
+	font-size:14px !important;
+    list-style: none !important;
+    list-style-type: none !important;
+}
+ Client
+ul.typeahead {
+	font-size:14px !important;
+    list-style: none !important;
+    list-style-type: none !important;
+}
+        More Options 
+        Less Options  
+    2020
+    2019
+    2018
+    2017
+    2016
+    2015
+    2014
+    2013
+    2012
+    2011
+    2010
+    2009
+    2008
+    2007
+    2006
+    2005
+    2004
+    2003
+    Mayor, Office of
+    City Attorney, Office of
+    Controller, Office of
+    City Council - District 1
+    City Council - District 2
+    City Council - District 3
+    City Council - District 4
+    City Council - District 5
+    City Council - District 6
+    City Council - District 7
+    City Council - District 8
+    City Council - District 9
+    City Council - District 10
+    City Council - District 11
+    City Council - District 12
+    City Council - District 13
+    City Council - District 14
+    City Council - District 15
+    Aging
+    Airports, Los Angeles World (LAWA, LAX)
+    Animal Services
+    Board of Referred Powers
+    Building and Safety
+    Cannabis Regulation, Dept of
+    Chief Legislative Analyst (CLA)
+    City Administrative Officer (CAO)
+    City Clerk
+    Commission on Community and Family Services
+    Convention and Tourism Development
+    Cultural Affairs
+    Deferred Compensation Board
+    Dept of Neighborhood Empowerment (DONE)
+    Disability, Dept on
+    Economic and Workforce Development Dept (EWDD)
+    El Pueblo
+    Emergency Management
+    Employee Relations Board
+    Ethics Commission
+    Finance, Office of
+    Fire (LAFD)
+    Fire and Police Pensions (LAFPP)
+    General Services
+    Harbor (Port of LA, POLA)
+    Housing and Community Investment
+    Housing Authority (HACLA)
+    Human Relations Commission
+    Information Technology Agency (ITA)
+    LA City Employees' Retirement System (LACERS)
+    Library
+    Neighborhood Councils
+    Personnel
+    Planning, City
+    Police (LAPD)
+    Public Accountability, Office of
+    Public Works, Board of
+    Public Works, Contract Administration
+    Public Works, Engineering
+    Public Works, Sanitation
+    Public Works, Street Lighting
+    Public Works, Street Services
+    Recreation &amp; Parks
+    Transportation (LADOT, DOT)
+    Water &amp; Power (DWP)
+    Zoo
+			Search		
+			Reset
+				/*.DTCaption {
+					text-align:center; background-color: #dae8ea; color: #5f727f; 
+					font-weight:800; font-size:24px; vertical-align:middle;
+				} Replaced per NJ 7/18/18*/
+				DTCaption {
+					text-align:center; background-color: #d6ebef; color: #555555; 
+					font-weight:600; font-size:18px; vertical-align:middle;
+					padding-top: 4px !important; padding-bottom: 4px !important;
+					}
+				.PTsearchresultsDT {
+					caption-side: top;
+					//margin-bottom: 20px !important;
+				}
+	ABOUT THIS SEARCHLobbying Registrations (Forms 30, 31, and 31-LE)
+WHOThis search can be used to find copies of registrations filed by lobbyists, lobbying firms, and lobbyist employers.
+WHATLobbying Registrations are filed when a person qualifies as a lobbyist (Form 30), lobbying firm (Form 31), or lobbyist employer (Form 31-LE) to report the intent to lobby City departments in relation to specific projects. 
+WHENUse this search to find copies of registrations filed since 2003.
+			Disclaimer
+			Privacy Policy
+			Site Map
+			Contact Us
+			© 2019. All rights reserved.
+    	#ajax-loader {
+			background-color: transparent;
+			display: none;
+			text-align: center;
+			box-shadow : none !important;
+		}
+    -->
+    Additional CSS/JS section of The Gem Theme Options (Tim, 7/26/18)
+		div.portalrow1 {
+			position:relative !important;
+			z-index:9999 !important;
+			overflow:visible !important;
+		}
+		div.portalrow2 {
+			position:relative !important;
+			z-index:9998 !important;
+			overflow:visible !important;
+		}
+		div.portalrow3 {
+			position:relative !important;
+			z-index:9997 !important;
+			overflow:visible !important;
+		}
+		div.overflowvisible {
+			position:relative !important;
+			overflow:visible !important;
+		}
+		div.notopbottompadding {
+			padding-top: 0 !important;
+			padding-bottom: 0 !important;
+		}
+		.chosen-container {
+			background-color:transparent !important;
+   			width: 100% !important;
+		}
+		.leftverticalline {
+			border-left: 2px solid #e2e2e2;
+		}
+		.leftverticallineltblue {
+			border-left: 2px solid #d5e9ed;
+		}
+		.leftverticallinegray {
+			border-left: 2px solid #d0d8d8
+		}
+	-->
+	.mpc-typography--mpc_preset_22{font-family:"Roboto" !important;font-size:24px;font-style:normal !important;font-weight:500 !important;line-height:1.3;}.mpc-typography--preset_1{font-family:"Roboto" !important;font-size:14px;font-style:normal !important;font-weight:400 !important;text-align:inherit;}.mpc-typography--mpc_preset_20{color:#333333;font-family:"Raleway" !important;font-size:16px;font-style:normal !important;font-weight:600 !important;line-height:1;text-transform:uppercase;}.mpc-typography--preset_0{font-family:"Roboto" !important;font-size:16px;font-style:normal !important;font-weight:300 !important;}.mpc-typography--mpc_preset_49{color:#777777;font-family:"Dosis" !important;font-size:16px;font-style:normal !important;font-weight:400 !important;line-height:1.5;text-align:left;}.mpc-typography--mpc_preset_51{color:#333333;font-family:"Dosis" !important;font-size:36px;font-style:normal !important;font-weight:400 !important;line-height:1;text-align:left;text-transform:uppercase;}.mpc-button[data-id="mpc_button-885f820f61936be"] {border-top:2px;border-right:1px;border-bottom:2px;border-left:2px;border-color:#0fa7cd;border-style:solid;margin-top:11px;background: #f3f3f3;color:#0fa7cd;font-size:24px;text-transform:capitalize;}.mpc-button[data-id="mpc_button-885f820f61936be"] .mpc-button__icon {padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;color:#333333;}.mpc-button[data-id="mpc_button-885f820f61936be"] .mpc-button__title {padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;}.mpc-button[data-id="mpc_button-885f820f61936be"] .mpc-button__background {background: #0fa7cd;}.mpc-button[data-id="mpc_button-885f820f61936be"]:hover .mpc-button__title,.mpc-parent-hover:hover .mpc-button[data-id="mpc_button-885f820f61936be"] .mpc-button__title,.mpc-active .mpc-button[data-id="mpc_button-885f820f61936be"] .mpc-button__title {color:#ffffff;}.mpc-button[data-id="mpc_button-885f820f61936be"]:hover .mpc-button__background,.mpc-parent-hover:hover .mpc-button[data-id="mpc_button-885f820f61936be"] .mpc-button__background,.mpc-active .mpc-button[data-id="mpc_button-885f820f61936be"] .mpc-button__background {left:0%  !important;right:0%  !important;}.mpc-button[data-id="mpc_button-565f820f619377b"] {border-top:2px;border-right:1px;border-bottom:2px;border-left:1px;border-color:#0fa7cd;border-style:solid;margin-top:11px;background: #f3f3f3;color:#0fa7cd;font-size:24px;text-transform:capitalize;}.mpc-button[data-id="mpc_button-565f820f619377b"] .mpc-button__icon {padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;color:#333333;}.mpc-button[data-id="mpc_button-565f820f619377b"] .mpc-button__title {padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;}.mpc-button[data-id="mpc_button-565f820f619377b"] .mpc-button__background {background: #0fa7cd;}.mpc-button[data-id="mpc_button-565f820f619377b"]:hover .mpc-button__title,.mpc-parent-hover:hover .mpc-button[data-id="mpc_button-565f820f619377b"] .mpc-button__title,.mpc-active .mpc-button[data-id="mpc_button-565f820f619377b"] .mpc-button__title {color:#ffffff;}.mpc-button[data-id="mpc_button-565f820f619377b"]:hover .mpc-button__background,.mpc-parent-hover:hover .mpc-button[data-id="mpc_button-565f820f619377b"] .mpc-button__background,.mpc-active .mpc-button[data-id="mpc_button-565f820f619377b"] .mpc-button__background {left:0%  !important;right:0%  !important;}.mpc-button[data-id="mpc_button-315f820f6193815"] {border-top:2px;border-right:1px;border-bottom:2px;border-left:1px;border-color:#0fa7cd;border-style:solid;margin-top:11px;background: #f3f3f3;color:#0fa7cd;font-size:24px;text-transform:capitalize;}.mpc-button[data-id="mpc_button-315f820f6193815"] .mpc-button__icon {padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;color:#333333;}.mpc-button[data-id="mpc_button-315f820f6193815"] .mpc-button__title {padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;}.mpc-button[data-id="mpc_button-315f820f6193815"] .mpc-button__background {background: #0fa7cd;}.mpc-button[data-id="mpc_button-315f820f6193815"]:hover .mpc-button__title,.mpc-parent-hover:hover .mpc-button[data-id="mpc_button-315f820f6193815"] .mpc-button__title,.mpc-active .mpc-button[data-id="mpc_button-315f820f6193815"] .mpc-button__title {color:#ffffff;}.mpc-button[data-id="mpc_button-315f820f6193815"]:hover .mpc-button__background,.mpc-parent-hover:hover .mpc-button[data-id="mpc_button-315f820f6193815"] .mpc-button__background,.mpc-active .mpc-button[data-id="mpc_button-315f820f6193815"] .mpc-button__background {left:0%  !important;right:0%  !important;}.mpc-button[data-id="mpc_button-305f820f61938aa"] {border-top:2px;border-right:1px;border-bottom:2px;border-left:1px;border-color:#0fa7cd;border-style:solid;margin-top:11px;background: #0fa7cd;color:#ffffff;font-size:24px;text-transform:capitalize;}.mpc-button[data-id="mpc_button-305f820f61938aa"] .mpc-button__icon {padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;color:#333333;}.mpc-button[data-id="mpc_button-305f820f61938aa"] .mpc-button__title {padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;}.mpc-button[data-id="mpc_button-305f820f61938aa"] .mpc-button__background {background: #0fa7cd;}.mpc-button[data-id="mpc_button-305f820f61938aa"]:hover,.mpc-parent-hover:hover .mpc-button[data-id="mpc_button-305f820f61938aa"],.mpc-active .mpc-button[data-id="mpc_button-305f820f61938aa"] {border-top:2px;border-right:1px;border-bottom:2px;border-left:1px;border-color:#0fa7cd;border-style:solid;}.mpc-button[data-id="mpc_button-305f820f61938aa"]:hover .mpc-button__title,.mpc-parent-hover:hover .mpc-button[data-id="mpc_button-305f820f61938aa"] .mpc-button__title,.mpc-active .mpc-button[data-id="mpc_button-305f820f61938aa"] .mpc-button__title {color:#ffffff;}.mpc-button[data-id="mpc_button-305f820f61938aa"]:hover .mpc-button__background,.mpc-parent-hover:hover .mpc-button[data-id="mpc_button-305f820f61938aa"] .mpc-button__background,.mpc-active .mpc-button[data-id="mpc_button-305f820f61938aa"] .mpc-button__background {left:0%  !important;right:0%  !important;}.mpc-button[data-id="mpc_button-335f820f619395a"] {border-top:2px;border-right:2px;border-bottom:2px;border-left:1px;border-color:#0fa7cd;border-style:solid;background: #f3f3f3;color:#0fa7cd;font-size:24px;text-transform:capitalize;}.mpc-tooltip-wrap[data-id="mpc_button-335f820f619395a"] {margin-top:11px;}.mpc-button[data-id="mpc_button-335f820f619395a"] .mpc-button__icon {padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;color:#333333;}.mpc-button[data-id="mpc_button-335f820f619395a"] .mpc-button__title {padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;}.mpc-button[data-id="mpc_button-335f820f619395a"] .mpc-button__background {background: #0fa7cd;}.mpc-button[data-id="mpc_button-335f820f619395a"]:hover .mpc-button__title,.mpc-parent-hover:hover .mpc-button[data-id="mpc_button-335f820f619395a"] .mpc-button__title,.mpc-active .mpc-button[data-id="mpc_button-335f820f619395a"] .mpc-button__title {color:#ffffff;}.mpc-button[data-id="mpc_button-335f820f619395a"]:hover .mpc-button__background,.mpc-parent-hover:hover .mpc-button[data-id="mpc_button-335f820f619395a"] .mpc-button__background,.mpc-active .mpc-button[data-id="mpc_button-335f820f619395a"] .mpc-button__background {left:0%  !important;right:0%  !important;}.mpc-tooltip[id="mpc_tooltip-505f820f619399e"] {padding:20px;color:#555555;font-size:12px;line-height:1.7;text-align:center;text-transform:capitalize;background-image: url();background-repeat: repeat;background-size: initial;background-color: #f7f7f7;background-position: center center;}.mpc-column[data-column-id="mpc_column-55f820f619454b"] {text-align: center;}.mpc-button[data-id="mpc_button-605f820f6195501"] {border-width:1px;border-color:#d6d6d6;border-style:solid;border-radius:3px;background: #f3f3f3;color:#ffffff;font-size:12px;text-transform:uppercase;}.mpc-tooltip-wrap[data-id="mpc_button-605f820f6195501"] {margin-top:15px;}.mpc-button[data-id="mpc_button-605f820f6195501"] .mpc-button__icon {padding-top:8px;padding-right:8px;padding-bottom:8px;padding-left:8px;}.mpc-button[data-id="mpc_button-605f820f6195501"] .mpc-button__title {padding-top:8px;padding-right:8px;padding-bottom:8px;padding-left:8px;}.mpc-button[data-id="mpc_button-605f820f6195501"] .mpc-button__background {background-image: url(https://ethics.lacity.org/wp-content/uploads/2017/12/campaigns-small.png);background-repeat: no-repeat;background-size: initial;background-color: #f3f3f3;background-position: center center;}.mpc-button[data-id="mpc_button-605f820f6195501"]:hover,.mpc-parent-hover:hover .mpc-button[data-id="mpc_button-605f820f6195501"],.mpc-active .mpc-button[data-id="mpc_button-605f820f6195501"] {border-width:1px;border-color:#d6d6d6;border-style:solid;border-radius:3px;}.mpc-tooltip[id="mpc_tooltip-995f820f61955c1"] {padding:15px;color:#555555;font-size:16px;line-height:1.75;text-align:center;text-transform:capitalize;background: #f7f7f7;}.mpc-tooltip[id="mpc_tooltip-995f820f61955c1"] .mpc-arrow {border-color: #f7f7f7}.mpc-button[data-id="mpc_button-345f820f6195d61"] {border-width:1px;border-color:#d6d6d6;border-style:solid;border-radius:3px;background: #f3f3f3;color:#ffffff;font-size:12px;text-transform:uppercase;}.mpc-tooltip-wrap[data-id="mpc_button-345f820f6195d61"] {margin-top:15px;}.mpc-button[data-id="mpc_button-345f820f6195d61"] .mpc-button__icon {padding-top:8px;padding-right:8px;padding-bottom:8px;padding-left:8px;}.mpc-button[data-id="mpc_button-345f820f6195d61"] .mpc-button__title {padding-top:8px;padding-right:8px;padding-bottom:8px;padding-left:8px;}.mpc-button[data-id="mpc_button-345f820f6195d61"] .mpc-button__background {background-image: url(https://ethics.lacity.org/wp-content/uploads/2017/12/contracts-small.png);background-repeat: no-repeat;background-size: initial;background-color: #f3f3f3;background-position: center center;}.mpc-button[data-id="mpc_button-345f820f6195d61"]:hover,.mpc-parent-hover:hover .mpc-button[data-id="mpc_button-345f820f6195d61"],.mpc-active .mpc-button[data-id="mpc_button-345f820f6195d61"] {border-width:1px;border-color:#d6d6d6;border-style:solid;border-radius:3px;}.mpc-tooltip[id="mpc_tooltip-485f820f6195e1b"] {padding:15px;color:#555555;font-size:16px;line-height:1.75;text-align:center;text-transform:capitalize;background: #f7f7f7;}.mpc-tooltip[id="mpc_tooltip-485f820f6195e1b"] .mpc-arrow {border-color: #f7f7f7}.mpc-button[data-id="mpc_button-565f820f61965c7"] {border-width:1px;border-color:#d6d6d6;border-style:solid;border-radius:3px;background: #f3f3f3;color:#ffffff;font-size:12px;text-transform:uppercase;}.mpc-tooltip-wrap[data-id="mpc_button-565f820f61965c7"] {margin-top:15px;}.mpc-button[data-id="mpc_button-565f820f61965c7"] .mpc-button__icon {padding-top:8px;padding-right:8px;padding-bottom:8px;padding-left:8px;}.mpc-button[data-id="mpc_button-565f820f61965c7"] .mpc-button__title {padding-top:8px;padding-right:8px;padding-bottom:8px;padding-left:8px;}.mpc-button[data-id="mpc_button-565f820f61965c7"] .mpc-button__background {background-image: url(https://ethics.lacity.org/wp-content/uploads/2017/12/ethics-small.png);background-repeat: no-repeat;background-size: initial;background-color: #f3f3f3;background-position: center center;}.mpc-button[data-id="mpc_button-565f820f61965c7"]:hover,.mpc-parent-hover:hover .mpc-button[data-id="mpc_button-565f820f61965c7"],.mpc-active .mpc-button[data-id="mpc_button-565f820f61965c7"] {border-width:1px;border-color:#d6d6d6;border-style:solid;border-radius:3px;}.mpc-tooltip[id="mpc_tooltip-745f820f619668f"] {padding:15px;color:#555555;font-size:16px;line-height:1.75;text-align:center;text-transform:capitalize;background: #f7f7f7;}.mpc-tooltip[id="mpc_tooltip-745f820f619668f"] .mpc-arrow {border-color: #f7f7f7}.mpc-button[data-id="mpc_button-415f820f6196e80"] {border-width:1px;border-color:#0fa7cd;border-style:solid;border-radius:3px;background: #0fa7cd;color:#ffffff;font-size:12px;text-transform:uppercase;}.mpc-tooltip-wrap[data-id="mpc_button-415f820f6196e80"] {margin-top:15px;}.mpc-button[data-id="mpc_button-415f820f6196e80"] .mpc-button__icon {padding-top:8px;padding-right:8px;padding-bottom:8px;padding-left:8px;}.mpc-button[data-id="mpc_button-415f820f6196e80"] .mpc-button__title {padding-top:8px;padding-right:8px;padding-bottom:8px;padding-left:8px;}.mpc-button[data-id="mpc_button-415f820f6196e80"] .mpc-button__background {background-image: url(https://ethics.lacity.org/wp-content/uploads/2017/12/lobbying_white-40x40.png);background-repeat: no-repeat;background-size: initial;background-color: #0fa7cd;background-position: center center;}.mpc-button[data-id="mpc_button-415f820f6196e80"]:hover,.mpc-parent-hover:hover .mpc-button[data-id="mpc_button-415f820f6196e80"],.mpc-active .mpc-button[data-id="mpc_button-415f820f6196e80"] {border-width:1px;border-color:#0fa7cd;border-style:solid;border-radius:3px;}.mpc-tooltip[id="mpc_tooltip-545f820f6196f61"] {padding:15px;color:#555555;font-size:16px;line-height:1.75;text-align:center;text-transform:capitalize;background: #f7f7f7;}.mpc-tooltip[id="mpc_tooltip-545f820f6196f61"] .mpc-arrow {border-color: #f7f7f7}.mpc-button[data-id="mpc_button-565f820f61977a4"] {border-width:1px;border-color:#d6d6d6;border-style:solid;border-radius:3px;background: #f3f3f3;color:#ffffff;font-size:12px;text-transform:uppercase;}.mpc-tooltip-wrap[data-id="mpc_button-565f820f61977a4"] {margin-top:15px;}.mpc-button[data-id="mpc_button-565f820f61977a4"] .mpc-button__icon {padding-top:8px;padding-right:8px;padding-bottom:8px;padding-left:8px;}.mpc-button[data-id="mpc_button-565f820f61977a4"] .mpc-button__title {padding-top:8px;padding-right:8px;padding-bottom:8px;padding-left:8px;}.mpc-button[data-id="mpc_button-565f820f61977a4"] .mpc-button__background {background-image: url(https://ethics.lacity.org/wp-content/uploads/2018/06/other.png);background-repeat: no-repeat;background-size: initial;background-color: #f3f3f3;background-position: center center;}.mpc-button[data-id="mpc_button-565f820f61977a4"]:hover,.mpc-parent-hover:hover .mpc-button[data-id="mpc_button-565f820f61977a4"],.mpc-active .mpc-button[data-id="mpc_button-565f820f61977a4"] {border-width:1px;border-color:#d6d6d6;border-style:solid;border-radius:3px;}.mpc-tooltip[id="mpc_tooltip-105f820f619786c"] {padding:15px;color:#555555;font-size:16px;line-height:1.75;text-align:center;text-transform:capitalize;background: #f7f7f7;}.mpc-tooltip[id="mpc_tooltip-105f820f619786c"] .mpc-arrow {border-color: #f7f7f7}.mpc-column[data-column-id="mpc_column-375f820f6197c8a"] {text-align: center;}.mpc-column[data-column-id="mpc_column-415f820f61cc780"] {text-align: center;}.mpc-circle-icons .mpc-icon-column[data-id="mpc_icon_column-555f820f61cdac1"] .mpc-icon-column__content-wrap,.mpc-icon-column[data-id="mpc_icon_column-555f820f61cdac1"] {border-radius:0px;}.mpc-icon-column[data-id="mpc_icon_column-555f820f61cdac1"] .mpc-icon-column__heading {margin-top:30px;margin-bottom:10px;margin-left:15px;color:#ffffff;font-size:20px;text-align:left;text-transform:capitalize;}.mpc-icon-column[data-id="mpc_icon_column-555f820f61cdac1"] .mpc-icon-column__description {margin-top:10px;margin-left:20px;color:#ffffff;text-align:left;}.mpc-divider-wrap[data-id="mpc_divider-125f820f61cdb13"] .mpc-divider {width:20%;}.mpc-divider-wrap[data-id="mpc_divider-125f820f61cdb13"] .mpc-divider__line > span {border-top-style:solid;border-top-color:#ffffff;border-top-width:2px;margin-top:1px;}.mpc-divider-wrap[data-id="mpc_divider-125f820f61cdb13"] .mpc-divider__line.mpc-side--left {width:50%;}.mpc-divider-wrap[data-id="mpc_divider-125f820f61cdb13"] .mpc-divider__line.mpc-side--right {width:50%;}.mpc-circle-icons .mpc-icon-column[data-id="mpc_icon_column-435f820f61ce255"] .mpc-icon-column__content-wrap,.mpc-icon-column[data-id="mpc_icon_column-435f820f61ce255"] {border-radius:0px;padding-top:0px;padding-right:10px;padding-bottom:0px;padding-left:10px;}.mpc-icon-column[data-id="mpc_icon_column-435f820f61ce255"] .mpc-icon-column__heading {margin-bottom:8px;font-size:18px;text-align:center;}.mpc-icon-column[data-id="mpc_icon_column-435f820f61ce255"] .mpc-icon-column__description {text-align:left;}.mpc-icon[data-id="mpc_icon-935f820f61ce2aa"] {border-radius:0px;padding-top:8px;padding-right:8px;padding-bottom:8px;padding-left:8px;margin-top:0px;margin-right:0px;margin-bottom:8px;margin-left:0px;}.mpc-icon[data-id="mpc_icon-935f820f61ce2aa"] i {font-size:35px;color:#81cfe0;}.mpc-icon.mpc-icon-hover[data-id="mpc_icon-935f820f61ce2aa"]:hover,.mpc-parent-hover:hover .mpc-icon.mpc-icon-hover[data-id="mpc_icon-935f820f61ce2aa"],.mpc-active .mpc-icon.mpc-icon-hover[data-id="mpc_icon-935f820f61ce2aa"] {border-radius:0px;}.mpc-circle-icons .mpc-icon-column[data-id="mpc_icon_column-225f820f61cea0b"] .mpc-icon-column__content-wrap,.mpc-icon-column[data-id="mpc_icon_column-225f820f61cea0b"] {border-radius:0px;padding-top:0px;padding-right:10px;padding-bottom:0px;padding-left:10px;}.mpc-icon-column[data-id="mpc_icon_column-225f820f61cea0b"] .mpc-icon-column__heading {margin-bottom:8px;font-size:18px;text-align:center;}.mpc-icon-column[data-id="mpc_icon_column-225f820f61cea0b"] .mpc-icon-column__description {text-align:left;}.mpc-icon[data-id="mpc_icon-415f820f61cea54"] {border-radius:0px;padding-top:8px;padding-right:8px;padding-bottom:8px;padding-left:8px;margin-top:0px;margin-right:0px;margin-bottom:8px;margin-left:0px;}.mpc-icon[data-id="mpc_icon-415f820f61cea54"] i {font-size:35px;color:#81cfe0;}.mpc-icon.mpc-icon-hover[data-id="mpc_icon-415f820f61cea54"]:hover,.mpc-parent-hover:hover .mpc-icon.mpc-icon-hover[data-id="mpc_icon-415f820f61cea54"],.mpc-active .mpc-icon.mpc-icon-hover[data-id="mpc_icon-415f820f61cea54"] {border-radius:0px;}.mpc-circle-icons .mpc-icon-column[data-id="mpc_icon_column-535f820f61cf23b"] .mpc-icon-column__content-wrap,.mpc-icon-column[data-id="mpc_icon_column-535f820f61cf23b"] {border-radius:0px;padding-top:0px;padding-right:10px;padding-bottom:0px;padding-left:10px;}.mpc-icon-column[data-id="mpc_icon_column-535f820f61cf23b"] .mpc-icon-column__heading {margin-bottom:8px;font-size:18px;text-align:center;}.mpc-icon-column[data-id="mpc_icon_column-535f820f61cf23b"] .mpc-icon-column__description {text-align:left;}.mpc-icon[data-id="mpc_icon-465f820f61cf281"] {border-radius:0px;padding-top:8px;padding-right:8px;padding-bottom:8px;padding-left:8px;margin-top:0px;margin-right:0px;margin-bottom:8px;margin-left:0px;}.mpc-icon[data-id="mpc_icon-465f820f61cf281"] i {font-size:35px;color:#81cfe0;}.mpc-icon.mpc-icon-hover[data-id="mpc_icon-465f820f61cf281"]:hover,.mpc-parent-hover:hover .mpc-icon.mpc-icon-hover[data-id="mpc_icon-465f820f61cf281"],.mpc-active .mpc-icon.mpc-icon-hover[data-id="mpc_icon-465f820f61cf281"] {border-radius:0px;}	
+			Ethics Commission
+	About
+Mission/HistoryCommissionersStaffMeetingsJobsContact Us BACK TO MAIN MENU
+Programs
+CampaignsContractsEthicsLobbying BACK TO MAIN MENU
+Work
+AdviceAuditsDisclosureEducationEnforcementPolicy BACK TO MAIN MENU
+Communities
+BiddersCandidatesCity EmployeesCity OfficialsCommissionersCommitteesContractorsContributorsDepartmentsDepartment HeadsIndependent SpendersLobbyistsLobbying FirmsLobbyist EmployersMajor FilersOfficeholders BACK TO MAIN MENU
+Resources
+FormsPublicationsLawsNewsCOI CodesElection TotalsExternal Links BACK TO MAIN MENU
+Public Data Portal
+Public Data PortalCampaignsContractsEthicsLobbying BACK TO MAIN MENU
+File
+FileDisclosureComplaint BACK TO MAIN MENU
+Former Website
+ BACK TO MAIN MENU

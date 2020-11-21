@@ -1,0 +1,62 @@
+     Skip to Main Content
+melannen (melannen) wrote2020-10-06 02:04 pm
+Broken cut tagsI didn't post about this at the time because I figured I was the only person who was laggard enough to have the problem, but apparently there are more of us than I thought, and not all of us were annoyed enough to figure out how to fix it?So, if cut tags on your journal have been broken since the summer, so that they no longer open in the page and you have to open in a new page, it is probably because you are still using a Core1 journal style you imported from LJ. When they made some updates to DW backend code recently, they accidentally broke javascript for Core1, which for most people mostly means the magic cut tags. (It probably also messes with expanding comment threads if you read comment pages in your style? I use site scheme there so idk.)This is not something I will blame DW for, because Core1 styles were obsolete ten years ago when DW was founded and mostly have never met basic web accessibility standards, and it is frankly impressive they still support them at all. (Why are you still using Core1 on your journal, you deadbeat*?? Has "update journal style" really been on your todo list for MORE THAN TEN YEARS???)Anyway, they are hopefully going to fix it in the next code push eventually. Meanwhile, there are two options: you can go to Change Style and pick a style that was coded this millennium. This fixes it for everyone, and also means you are using a style that follows at least some web standards.Or you can do what I did, stick stubbornly to your horrible ancient style that you've been using more than half your life, and go to the beta page and select "Turn ON beta testing" for "Temporarily revert updated journal page components" (I know it's counterintuitive to turn ON beta testing in order to turn OFF new features, but it's a workaround.) This will only fix it for you while you are logged in - other visitors to your journal in your style will still have broken cut tags. Then add dw_maintenance to your reading list, so you'll know when it's fixed and you can turn it back off.*also why is your style still Homestuck themed, what is wrong with you
+Link
+16 comments
+ (16 comments) 
+Post a comment in response:
+  From:
+        Anonymous
+          OpenID
+            Identity URL:
+            Log in?
+        Dreamwidth account
+            Account name
+            Password
+            Log in?
+      If you don't have an account you can create one now.      
+            Subject
+HTML doesn't work in the subject.
+            Formatting type
+Casual HTML
+Markdown
+Raw HTML
+            Message
+Captcha Response (paste here) 
+If you are unable to use this captcha for any reason, please contact us by email at support@dreamwidth.org
+               Notice: This account is set to log the IP addresses of people who comment anonymously.        Links will be displayed as unclickable URLs to help prevent spam.
+    Log in
+            Account name:
+            Password:
+             Remember me
+            Other options:
+              Forget your password?
+              Log in with OpenID?
+      ×
+                    menu
+  Log in
+Create
+                Create Account
+                Display Preferences
+Explore
+                Interests
+                Directory Search
+                Site and Journal Search
+                Latest Things
+                Random Journal
+                Random Community
+                FAQ
+Shop
+                Buy Dreamwidth Services
+                Gift a Random User
+                DW Merchandise
+InterestRegionSite and AccountFAQEmailIM Info
+    Privacy Policy • 
+    Terms of Service • 
+    Diversity Statement • 
+    Guiding Principles • 
+    Site Map • 
+    Make a Suggestion • 
+    Open Source • 
+    Help/Support
+Copyright © 2009-2020 Dreamwidth Studios, LLC. Some rights reserved.

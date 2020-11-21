@@ -1,0 +1,222 @@
+/* CSS Document */
+.tsg-rwd-sidebar-copy.tsg_rwd_textbox_full.tsg_rwd_show {
+    width: 90%!important;
+    width: -moz-available;
+    width: -webkit-fill-available;
+    margin: -20px 0px -13px 0px;
+}
+.tsg-rwd-sidebar .threat_legend {
+    display: inline-block;
+    height: 25px;
+    width: 25px;
+    line-height: 25px;
+    font-family: Helvetica, Arial, sans-serif;
+    border-radius: 25px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-size: 1.2em;
+    border: inset 1px black;
+    position: relative;
+    margin-right: 2.5px;
+    margin-top: 4px;
+    margin-bottom:4px;
+    margin-left:0px;
+}
+.tsg-rwd-sidebar {
+    display: inline-block;
+    border: 1px #003875 solid;
+    width: 100%;
+    margin: 10px 0px 10px 0px;
+    min-height: 125px;
+}
+.tsg-rwd-sidebar-news{
+    float: left;
+    border: none;
+    width: 110%;
+    margin: 3% 0px 10px 0px;
+    min-height: 125px;
+}
+.tsg-rwd-sidebar ul.default li {
+    list-style-type: none !important;
+    font-size: 1em;
+    line-height: 1.3em;
+}
+.tsg-rwd-sidebar ul.default {
+    padding-top: 0px;
+    font-family: robotocondensed-regular-webfont;
+    margin-left: -20px;
+}
+.tsg-rwd-sidebar h3,
+.tsg-rwd-sidebar .tsg-rwd-sidebar-header,
+h3.tsg-rwd-sidebar-header {
+    width: -webkit-fill-available!important;
+    width: -moz-available;         
+    padding: 1em;
+    background: #003875;
+    color: #fff;
+    font-family: 'oswald_regular';
+    font-size: 1.2em;
+    margin: 0px;
+    overflow: auto;
+    border: 1px solid #003875;
+    font-weight: normal;
+}
+.tsg-rwd-sidebar-image{
+    padding: 0px;
+    /*float: left;*/
+    width:100%;
+}
+.tsg-rwd-sidebar-image img{
+    /*float: left;*/
+    width:100%;
+}
+.tsg-rwd-sidebar-copy{
+    text-align: left;
+    font-size: 16px;
+    line-height: 21px;
+    font-family: 'robotocondensed-regular-webfont';
+    /*float: left;*/
+    padding: 5px 1em 5px 1em;
+}
+.tsg-rwd-sidebar-qf, .tsg-rwd-sidebar-qf-csi-show .tsg-rwd-sidebar-copy {
+    text-align: left;
+    font-size: 16px;
+    line-height: 21px;
+    font-family: 'robotocondensed-regular-webfont';
+    /*float: left;*/
+    /*padding: .5em;*/
+    padding: 1em;
+    /*border: 1px #003875 solid;*/
+    margin-bottom: 20px;
+}
+.tsg-rwd-sidebar-copy tsg_rwd_textbox_full tsg_rwd_show p {
+    width: 90%;
+}
+.tsg_rwd_text_w_icon {
+    text-align: left;
+    font-size: 16px;
+    line-height: 21px;
+    font-family: 'robotocondensed-regular-webfont';
+    width: -webkit-fill-available;
+    /*float: left;*/
+    padding: 5px 1em 5px 1em;
+    margin: -23px auto 0px auto;
+    width: 90%;
+}
+.tsg-rwd-sidebar-icon {
+    font-size: 1.3em;
+    color: #00ACED;
+    /*width: 45px;*/
+    /*float: left;*/
+    padding: 10px;
+}
+.tsg_rwd_show{
+    display: block;
+}
+.tsg_rwd_hide{
+    display: none;
+}
+.quickfacts h1, .quickfacts h2, .quickfacts h3 {
+   font-family: "robotocondensed-bold-webfont"!important;
+   font-size: 1em;
+   vertical-align:top;
+   padding-top: 5px;
+   line-height: 1.3em;
+   margin-bottom: 17px;
+   padding-bottom: 5px;
+   text-transform: uppercase;
+}
+.quickfacts p {
+   font-family: "robotocondensed-regular-webfont"!important;
+   font-size: 1em;
+   line-height:1.3em;
+}
+.quickfacts .tsg-rwd-text.parbase.section div {
+    display: table-cell;
+}
+.tsg-rwd-sidebar-icon {
+    font-size: 1.5em;
+    color: #00ACED;
+    margin: 10px auto 10px auto;
+    text-align: center;
+    width: -webkit-fill-available!important;
+    padding: 10px;
+    width: 90%;
+}
+  .quickfacts .tsg_rwd_textbox_full {
+        column-count:2;
+        column-gap: 2em;
+        padding-bottom:1em;
+	padding-top: 8px;
+    }
+.tsg-rwd-sidebar-copy.tsg_rwd_textbox_full {
+    width: initial!important;
+}
+/*begin fix double rule around IPCA CSI page hague convention participation section*/
+.tsg-rwd-main-CSI-Child-Abduction-items-child .tsg-rwd-sidebar-copy.tsg_rwd_textbox_full {
+    border: none;
+}
+/*end fix double rule around IPCA CSI page hague convention participation section*/
+@media screen  and (max-width: 1024px) and (min-width: 768px ) {
+    .tsg-rwd-sidebar-copy.tsg_rwd_textbox_full.tsg_rwd_show {
+        width: 90%!important;
+        width: -moz-available;
+        width: -webkit-fill-available;
+        margin: 0px 7px 0px 7px;
+    }
+    .tsg-rwd-sidebar-copy{
+        text-align: left;
+        font-size: 1.1em;
+        line-height: 1.2em;
+        font-family: 'robotocondensed-regular-webfont';
+        width: 60%;
+        /*float: left;*/
+        padding: 0px 3% 0px 3%;
+    }
+    .tsg_rwd_textbox_full{
+         width: 94%;
+    }
+}
+@media (max-width: 1146px){
+    .tsg_rwd_text_w_icon {
+        text-align: left;
+        font-size: 16px;
+        line-height: 21px;
+        font-family: 'robotocondensed-regular-webfont';
+        width: -webkit-fill-available;
+        width: -moz-available;
+            width: 60%;
+        /*float: left;*/
+        padding: 5px 1em 5px 1em;
+        margin: -23px 0px 0px 5px;
+        width: 90%;
+    }
+}
+@media (max-width: 768px){
+    .tsg-rwd-sidebar{
+        /*float: left;*/
+        border: 1px #003875 solid;
+        width: 100%;
+        margin: 3% 0px 10px 0px;
+    }
+    .tsg-rwd-sidebar-copy{
+        width: -webkit-fill-available;
+    	width: -moz-available;
+  		width: 90%;
+    }
+  .quickfacts .tsg_rwd_textbox_full {
+        column-count:1;
+        column-gap: 2em;
+        padding-bottom:1em;
+	padding-top: 8px;
+        width:94%;
+    }
+}
+/*** CQ AEM INTERFACE STYLES ***/
+.cq-wcm-edit .tsg-rwd-sidebar-copy {
+    float: none;
+}
+.cq-wcm-edit .tsg-rwd-sidebar-copy:not(.tsg_rwd_textbox_full) {
+    margin-left: 85px;
+}

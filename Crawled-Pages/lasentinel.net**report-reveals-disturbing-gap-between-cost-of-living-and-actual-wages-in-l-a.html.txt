@@ -1,0 +1,321 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Report Reveals Disturbing Gap Between Cost of Living and Actual Wages in L.A.            
+				By Jennifer Bihm                
+	                	                Published October 18, 2018
+		A recent report by researchers at the USC Price Center for Social Innovation revealed that the city’s job market may not be sustainable under an ever-increasing affordable housing. (AP file photo)
+The city’s fastest growing industries, including healthcare, food service and technical services are hurting, said researchers, because workers cannot afford to live in the L.A. area. High living costs are forcing longer commutes, making it harder to recruit and retain workers.
+USC researchers partnered with the Los Angeles Business Council Institute for the report titled, “The Affordable Housing Crisis in Los Angeles: Impacts to LA’s Fastest Growing Companies.”
+“Housing affordability is a significant concern for the Los Angeles workforce,” said Dr. Gary Painter, director of the USC Sol Price Center for Social Innovation and the newly created Homelessness Policy Research Institute.
+        ADVERTISEMENT        
+“Commute times are increasing for homeowners who are unable to afford housing in the L.A. region, and housing costs are outpacing wage growth for renters. These conditions are especially burdensome for the region’s entry-level and low-wage workers.”
+In July, the National Low Income Housing Coalition released a report that revealed Californians need to make a little over $30.00 an hour to afford to live in a two bedroom rental here. Those making minimum wage would have to work over 100 hours per week to afford that same rental. That would equal three minimum wage jobs, in order to not have to pay 30 percent of income on rent.
+Key findings from the USC report showed that:
+Between 2005 and 2015 homeownership rates decreased, and commute times increased for employees across all industries surveyed. Over the same time period, increases in housing costs far outpaced increases in renter wages, forcing households to face difficult tradeoffs in affording other necessities, such as food and healthcare. The burden is greatest for low-income employees, who increasingly face longer commutes and soaring housing costs, factors that can significantly impact one’s quality of life.
+Firms in the Professional, Scientific and Technical Services industry were more successful attracting and retaining employees, while businesses in the Health Care and Social Assistance and Accommodation and Food industries report a wide consensus that the cost of living and housing harm their opportunities for employee attraction and retention. A possible explanation for the PSTS industry’s success with employee attraction and retention as compared to the other industries is that PSTS firms generally offer higher paying jobs to a skilled workforce and factor the cost of living into their hiring packages
+Although most employers acknowledged that housing affordability affects employee recruitment, retention, and quality of life, the majority of employers surveyed had not taken any steps to directly assist employees with housing. More than half (61 percent) of all business respondents did not implement any programs to assist employees in reducing their financial burdens. Where employers did provide such programs, these included: homebuyer education, relocation reimbursement, mortgage assistance, and financial education.
+(Courtesy photo)
+The city’s booming tourism industry was used as an example in the report, showing that sector accounting for more than 525,000 local jobs, yet 69 percent of workers in this sector earn less than $25,000 annually. A similar situation exists in the field of home health aides they said, where the median annual wage is $22,600, forcing a large portion of these workers to live in poverty.
+“This trend is extremely worrisome because there will be a breaking point for employees forced to choose between sky-high rents, substandard conditions or long commutes – and they are likely to pick getting out of L.A.,” said Mary Leslie, president of LABC.
+“As a business community, we need to acknowledge that housing is not a siloed issue – it has a domino effect far beyond the housing market. To ensure continued success, employers should factor the cost of housing into their overall business strategy, in tandem with wages and traditional benefits,” added Erin Rank, president and CEO at Habitat for Humanity of Greater Los Angeles, “Frequently, employers are surprised to find that their employees have qualified to purchase a home through Habitat for Humanity. They are unaware their own employees and coworkers are struggling to find adequate and affordable housing. Through this report, we are encouraging businesses to have a conversation with their employees about the state of housing they experience in an effort to understand the basic needs of their workers and develop a plan of action.”
+Some of the researchers’ and government recommendations included looking at housing as an overall business strategy, organizing business leaders to support and advocate for housing on all income levels and developing a coordinated approach to creating affordable housing with unconventional partnerships.
+More than 18 employers representing over 84,000 employees participated in the study.
+The report will officially be released on October 19 at the Los Angeles Business Council’s 17th Annual Mayoral Housing, Transportation and Jobs Summit, held at UCLA.
+		Categories: Economy | Local | News | News (Business) | Real Estate Tags: affordable housing crisis | Dr. Gary Painter | Erin Rank | Habitat for Humanity of Greater Los Angeles | High living costs | Homelessness Policy Research Institute | L.A. region | Los Angeles | Los Angeles Business Council | Los Angeles Business Council Institute | National Low Income Housing Coalition | The Affordable Housing Crisis in Los Angeles: Impacts to LA’s Fastest Growing Companies | USC | USC Price Center for Social Innovation		
+						Chaka Khan Selected As 2019 Tournament of Roses Grand Marshal
+						Dating Websites Ordered to Pay Back Customers for Automatic Renewal Subscr...
+						Compton Community College District Publishes Citizens’ Bond Oversight Com...
+						Contestants Accuse Mrs. America Pageant CEO of Racial Bias
+						WATCH: Lifetime Upcoming Series ‘Surviving R. Kelly’ Trailer
+						Trump Declares He’s a Nationalist, Within Days his Self-Declared Enem...
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

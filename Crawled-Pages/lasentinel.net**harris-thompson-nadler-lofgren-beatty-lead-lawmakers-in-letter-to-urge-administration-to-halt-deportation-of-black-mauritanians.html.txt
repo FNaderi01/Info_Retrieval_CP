@@ -1,0 +1,330 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Harris, Thompson, Nadler, Lofgren, Beatty Lead Lawmakers in Letter to Urge Administration to Halt Deportation of Black Mauritanians            
+				By Sentinel News Service                
+	                	                Published October 12, 2018
+		U.S. Senator Kamala D. Harris (D-CA) and Representatives Bennie G. Thompson (D-MS), Jerrold Nadler (D-NY), Zoe Lofgren (D-CA), and Joyce Beatty (D-OH) led a group of lawmakers in a bicameral letter calling on Department of Homeland Security Secretary Kirstjen Nielsen and Secretary of State Mike Pompeo to cease the deportation of Black Mauritanian nationals, who face the threat of race-based discrimination, violence, or slavery if forced to return to Mauritania.
+“Most Mauritanians in the United States arrived here seeking refuge from government-led racial and ethnic persecution and extreme violence,” wrote the lawmakers. “For the following two decades our government declined to deport Mauritanians because of the dangerous and potentially life-threatening conditions they would face if they were returned to their country of origin.”
+There are approximately 3,000 Black Mauritanians in the United States, most of whom arrived in the 1990s after their government forcibly expelled them and stripped them of their citizenship on the basis of their race and ethnicity. So far in fiscal year 2018, the Trump administration has deported 79 Mauritanians, up from eight in FY 2017.
+        ADVERTISEMENT        
+The lawmakers continued, “Mauritanians deported from the United States face unacceptable threats of racial and ethnic discrimination and slavery…We ask DHS and the State Department to jointly respond within 60 days to the following questions to clarify U.S. policies and practices regarding deportations of Mauritanians.”
+In addition to Senator Harris and Representatives Thompson, Nadler, Lofgren, and Beatty, the letter was signed by Senators Patrick Leahy (D-VT), Dick Durbin (D-IL), Bernie Sanders (I-VT), Ron Wyden (D-OR), Tammy Duckworth (D-IL), Sherrod Brown (D-OH), Cory Booker (D-NJ), Elizabeth Warren (D-MA), and Amy Klobuchar (D-MN) and Representatives Eleanor Holmes Norton (D-DC), Pramila Jayapal (D-WA), Bonnie Watson Coleman (D-NJ), Jim McGovern (D-MA), Alcee Hastings (D-FL), Debbie Dingell (D-MI), Yvette Clarke (D-NY), Jan Schakowsky (D-IL), Raúl Grijalva (D-AZ), John Lewis (D-GA), Colleen Hanabusa (D-HI), Adriano Espaillat (D-NY), Elijah Cummings (D-MD), Al Green (D-TX), Linda Sanchez (D-CA), Lloyd Doggett (D-TX), Nydia Velázquez (D-NY), Judy Chu (D-CA), Barbara Lee (D-CA), Albio Sires (D-NJ), Hakeem Jeffries (D-NY), Keith Ellison (D-MN), and David Cicilline (D-RI).
+The letter is below.
+October 12, 2018
+The Honorable Kirstjen Nielsen                                             The Honorable Mike Pompeo
+Secretary                                                                                 Secretary
+U.S. Department of Homeland Security                                 U.S. Department of State
+Washington, D.C. 20528                                                        Washington D.C. 20520
+Dear Secretary Nielsen and Secretary Pompeo,
+We write to urge the immediate cessation of deportations of Mauritanian nationals to the Islamic Republic of Mauritania. Under the Trump Administration, the Department of Homeland Security (DHS) has abruptly abandoned its 20-year long practice of simply monitoring most Mauritanians eligible for removal and begun actively deporting them. Most of the approximately 3,000 black Mauritanians in the United States have been here since the late 1990s, arriving after being violently expelled and stripped of citizenship by their government because of their race and ethnicity. It is unconscionable for the United States to deport these individuals back to Mauritania, where they will likely be denied basic human rights and possibly persecuted and enslaved.
+Most Mauritanians in the United States arrived here seeking refuge from government-led racial and ethnic persecution and extreme violence. Between 1989 and 1991, tensions between Arab-Berbers and black ethnic groups in Mauritania resulted in the government-led displacement, expulsion, and denationalization of over 70,000 black Mauritanians. According to Human Rights Watch, these injustices were also accompanied by a litany of other abuses, including extrajudicial executions, arbitrary arrests, torture, rape, property theft, and destruction of legal documents.  Upon their arrival in the United States, many Mauritanians unfortunately failed to make successful asylum claims and became removable; some were apparently exploited by predatory immigration consultants who submitted shoddy or fraudulent materials to the U.S. government on their behalf. Nonetheless, for the following two decades our government declined to deport Mauritanians because of the dangerous and potentially life-threatening conditions they would face if they were returned to their country of origin. Those who lacked lawful status were simply required to periodically check-in with Immigration and Customs Enforcement (ICE).
+Following President Trump’s January 25, 2017 Executive Order “Enhancing Public Safety in the Interior of the United States,” which suspended the issuance of visas to nationals from countries ICE identified as being “recalcitrant” to cooperate with U.S. repatriation efforts, the Mauritanian government began to issue travel documents (laissez-passer) to facilitate U.S. deportations.  This shift fueled a significant escalation in Mauritanian deportations. While DHS deported just four Mauritanians in fiscal year 2015, ten in fiscal year 2016, and eight in fiscal year 2017—in contrast, seventy-nine Mauritanians have been deported in fiscal year 2018 thus far.
+Mauritanians deported from the United States face unacceptable threats of racial and ethnic discrimination and slavery.  The slavery of individuals of black race and ethnicity remains rife in Mauritania, where the government only first abolished slavery in 1981, and only first criminalized it in 2007.  The Central Intelligence Agency estimates that 20 percent of the Mauritanian population is enslaved, the highest rate worldwide.  The International Labour Organization has “expressed deep concern over the persistence of slavery on a widespread scale” in Mauritania.  The United Nations has noted that a “lack of access to basic services and alternative livelihoods for former Black African and Haratine slaves serves to propagate the belief that former slaves are still inferior and will always be slaves.”  The State Department has issued a level three (out of four) travel advisory for Mauritania, a designation reserved for countries whose governments do not fully meet the minimum standards for elimination of trafficking in the Trafficking Victims Protection Act and are not making significant efforts to do so.
+Political conditions in Mauritania also unacceptably threaten deportees’ civil liberties and safety. Since current Mauritanian President Mohamed Ould Abdel Aziz overthrew a democratically-elected president in 2008, Mauritanian authorities have denied the existence of slavery and begun aggressively cracking down on anti-slavery activists. They have prohibited their peaceful gatherings, broken up their protests with excessive force, and surveilled them. Human rights advocates have documented over 168 arbitrary arrests of activists by government authorities since 2014 – alleging that 20 suffered torture, including being beaten, chained, threatened with death, and deprived of food, water, and sleep.  A recently deported Mauritanian alleges that he was immediately jailed by government authorities for 13 days before he was released and fled the country.   The State Department broadly urges reconsideration of travel to Mauritania due to crime and terrorism, stating that “violent crimes, such as mugging, armed robbery, rape, and assault are common.”
+In light of the above facts, we ask DHS and the State Department to jointly respond within 60 days to the following questions to clarify U.S. policies and practices regarding deportations of Mauritanians, specifically:
+Has the State Department’s assessment of conditions in Mauritania or of risks and dangers for deportees in Mauritania informed DHS deportations of Mauritanians?
+Do DHS and the State Department have general policies and procedures regarding deportations of individuals to nations with governments that previously expelled such individuals on the basis of race or ethnicity?
+Is there precedent for the United States to deport large numbers of individuals back to a country that has persecuted them on the basis of race or ethnicity and/or rescinded their citizenship?
+How do DHS deportations of these individuals comply with international law and statutes pertaining to the treatment of stateless individuals and other individuals who are persecuted on the basis of their race and ethnicity?
+Has DHS or the State Department coordinated with Mauritanian authorities to ensure fair and safe treatment of deportees?
+What investigation, if any, has DHS or the State Department made into claims that black Mauritanians have been arbitrarily detained by Mauritanian authorities following their deportation?
+Please provide all documentation of communications between DHS, the State Department, and/or the Mauritanian government regarding the deportation of Mauritanians since January 2017.
+We thank you for your attention to this matter.
+		Categories: National | News | Political Tags: Adriano Espaillat (D-NY) | Al Green (D-TX) | Albio Sires (D-NJ) | Alcee Hastings (D-FL) | and Amy Klobuchar (D-MN) and Representatives Eleanor Holmes Norton (D-DC) | Barbara Lee (D-CA) | Bennie G. Thompson (D-MS) | Bernie Sanders (I-VT) | Black Mauritanian nationals | Bonnie Watson Coleman (D-NJ) | Colleen Hanabusa (D-HI) | Cory Booker (D-NJ) | Customs Enforcement (ICE) | David Cicilline (D-RI) | Debbie Dingell (D-MI) | Department of Homeland Security | Dick Durbin (D-IL) | Elijah Cummings (D-MD) | Elizabeth Warren (D-MA) | Hakeem Jeffries (D-NY) | Jan Schakowsky (D-IL) | Jerrold Nadler (D-NY) | Jim McGovern (D-MA) | John Lewis (D-GA) | Joyce Beatty (D-OH) | Judy Chu (D-CA) | Kamala D. Harris (D-CA) | Keith Ellison (D-MN) | Kirstjen Nielsen | Linda Sanchez (D-CA) | Lloyd Doggett (D-TX) | Mauritanian President Mohamed Ould Abdel Aziz | Nydia Velázquez (D-NY) | Pramila Jayapal (D-WA) | President Trump | Raúl Grijalva (D-AZ) | Ron Wyden (D-OR) | Secretary of State Mike Pompeo | Senators Patrick Leahy (D-VT) | Sherrod Brown (D-OH) | State Department | Tammy Duckworth (D-IL) | U.S. policies | Yvette Clarke (D-NY) | Zoe Lofgren (D-CA)		
+						DNC on Eric Dreiband’s Appointment to head the Civil Rights Division
+						Thurmond Plans to Bring California Schools Back to the Top 
+						Senate Judiciary Committee Advances Anti-Lynching Legislation Introduced by...
+						Artist Melanie Fiona Brings the Vocal Sounds of Healing R&amp;B Music to th...
+						County To Open Jobs Center for Women at Century Regional Detention Center 
+						Report Reveals Disturbing Gap Between Cost of Living and Actual Wages in L....
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

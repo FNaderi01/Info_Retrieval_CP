@@ -1,0 +1,140 @@
+	Revolutions per minute
+		From Wikipedia, the free encyclopedia
+		Jump to navigation
+		Jump to search
+		For other uses, see Revolutions per minute (disambiguation).
+"rpm" redirects here. For other uses, see RPM (disambiguation).
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Revolutions per minute" – news · newspapers · books · scholar · JSTOR  (July 2016) (Learn how and when to remove this template message)
+Revolutions per minuteUnit ofRotational speedSymbolrpm or r/min Conversions
+     1 rpm in ...... is equal to ...
+   SI angular speed   2π/60 rad/s ≈ 0.1047198 rad/s   SI frequency   1/60 Hz ≈ 0.01666667 Hz   SI derived rotational frequency   1/60 s−1, 1/60/s   SI derived rotational speed   1 min−1, 1/min
+Revolutions per minute (abbreviated rpm, RPM, rev/min, r/min, or with the notation min−1) is the number of turns in one minute. It is a unit of rotational speed or the frequency of rotation around a fixed axis.
+Contents
+1 International System of Units
+2 Examples
+3 See also
+4 References
+International System of Units[edit]
+According to the International System of Units (SI), rpm is not a unit. This is because the word revolution is a semantic annotation rather than a unit. The annotation is instead done as a subscript of the formula sign if needed. Because of the measured physical quantity, the formula sign has to be f for (rotational) frequency and ω or Ω for angular velocity. The corresponding basic SI derived unit is s−1 or Hz. When measuring angular speed, the unit radians per second is used.
+                1
+                  rad/s
+                =
+                    1
+                      2
+                      π
+                  Hz
+                =
+                    60
+                      2
+                      π
+                  rpm
+                2
+                π
+                  rad/s
+                =
+                1
+                  Hz
+                =
+                60
+                  rpm
+                      2
+                      π
+                    60
+                  rad/s
+                =
+                    1
+                    60
+                  Hz
+                =
+                1
+                  rpm
+    {\displaystyle {\begin{aligned}1~&amp;{\text{rad/s}}&amp;&amp;=&amp;{\frac {1}{2\pi }}~&amp;{\text{Hz}}&amp;&amp;=&amp;{\frac {60}{2\pi }}~&amp;{\text{rpm}}\\[9pt]2\pi ~&amp;{\text{rad/s}}&amp;&amp;=&amp;1~&amp;{\text{Hz}}&amp;&amp;=&amp;60~&amp;{\text{rpm}}\\[9pt]{\frac {2\pi }{60}}~&amp;{\text{rad/s}}&amp;&amp;=&amp;{\frac {1}{60}}~&amp;{\text{Hz}}&amp;&amp;=&amp;1~&amp;{\text{rpm}}\end{aligned}}}
+Although they have the same dimensions (s−1), hertz (Hz) and radian per second (rad/s) are two different units, reprsenting two different but proportional ISQ quantities: frequency and angular frequency (angular speed, magnitude of angular velocity). The conversions between a frequency f (measured in hertz) and an angular velocity ω (measured in radians per second) are:
+        ω
+        =
+        2
+        π
+        f
+        ,
+        f
+        =
+            ω
+              2
+              π
+        .
+    {\displaystyle \omega =2\pi f\,,\qquad f={\frac {\omega }{2\pi }}\,.}
+Thus a disc rotating at 60 rpm is said to be rotating at either 2π rad/s or 1 Hz, where the former measures the angular velocity and the latter reflects the number of revolutions per second.
+If the non-SI unit rpm is considered a unit of frequency, then 1 rpm = 1/60 Hz. If it instead is considered a unit of angular velocity and the word "revolution" is considered to mean 2π radians, then 1 rpm = 2π/60 rad/s.
+Examples[edit]
+Main article: Orders of magnitude (angular velocity)
+On many kinds of disc recording media, the rotational speed of the medium under the read head is a standard given in rpm. Phonograph (gramophone) records, for example, typically rotate steadily at ​16 2⁄3, ​33 1⁄3, 45 or 78 rpm (0.28, 0.55, 0.75, or 1.3 Hz respectively).
+Modern air turbine dental drills can rotate at up to 800,000 rpm (13.3 kHz).
+The second hand of a conventional analogue clock rotates at 1 rpm.
+Audio CD players read their discs at a precise, constant rate (4.3218 Mbit/s of raw physical data for 1.4112 Mbit/s (176.4 kB/s) of usable audio data) and thus must vary the disc's rotational speed from 8 Hz (480 rpm) when reading at the innermost edge, to 3.5 Hz (210 rpm) at the outer edge.[1]
+DVD players also usually read discs at a constant linear rate. The disc's rotational speed varies from 25.5 Hz (1530 rpm) when reading at the innermost edge, to 10.5 Hz (630 rpm) at the outer edge.[1]
+A washing machine's drum may rotate at 500 to 2,000 rpm (8–33 Hz) during the spin cycles.
+A power generation turbine (with a two-pole alternator) rotates at 3000 rpm (50 Hz) or 3600 rpm (60 Hz), depending on country – see AC power plugs and sockets.
+Modern automobile engines are typically operated around 2,000–3,000 rpm (33–50 Hz) when cruising, with a minimum (idle) speed around 750–900 rpm (12.5–15 Hz), and an upper limit anywhere from 4500 to 10,000 rpm (75–166 Hz) for a road car or nearly 20,000 rpm for racing engines such as those in Formula 1 cars (currently limited to 15,000 rpm).[2] The exhaust note of V8 F1 cars have a much higher pitch than an I4 engine, because each of the cylinders of a four-stroke engine fires once for every two revolutions of the crankshaft. Thus an eight-cylinder engine turning 300 times per second will have an exhaust note of 1,200 Hz.
+A piston aircraft engine typically rotates at a rate between 2,000 and 3,000 rpm (30–50 Hz).
+Computer hard drives typically rotate at 5,400 or 7,200 rpm (90 or 120 Hz), the most common speeds for the ATA or SATA-based drives in consumer models. High-performance drives (used in fileservers and enthusiast-gaming PCs) rotate at 10,000 or 15,000 rpm (160 or 250 Hz), usually with higher-level SATA, SCSI or Fibre Channel interfaces and smaller platters to allow these higher speeds, the reduction in storage capacity and ultimate outer-edge speed paying off in much quicker access time and average transfer speed thanks to the high spin rate. Until recently, lower-end and power-efficient laptop drives could be found with 4,200 or even 3,600 rpm spindle speeds (70 and 60 Hz), but these have fallen out of favour due to their lower performance, improvements in energy efficiency in faster models and the takeup of solid-state drives for use in slimline and ultraportable laptops. Similar to CD and DVD media, the amount of data that can be stored or read for each turn of the disc is greater at the outer edge than near the spindle; however, hard drives keep a constant rotational speed so the effective data rate is faster at the edge (conventionally, the "start" of the disc, opposite to a CD or DVD).
+Floppy disc drives typically ran at a constant 300 or occasionally 360 rpm (a relatively slow 5 or 6 Hz) with a constant per-revolution data density, which was simple and inexpensive to implement, though inefficient. Some designs such as those used with older Apple computers (Lisa, early Macintosh, later II's) were more complex and used variable rotational speeds and per-track storage density (at a constant read/record rate) to store more data per disc; for example, between 394 rpm (with 12 sectors per track) and 590 rpm (8 sectors) with the Mac's 800 KB double-density drive at a constant 39.4 KB/s (max) – versus 300 rpm, 720 KB and 23 KB/s (max) for double-density drives in other machines.[3]
+A Zippe-type centrifuge for enriching uranium spins at 90,000 rpm (1,500 Hz) or faster.[4]
+Gas turbine engines rotate at tens of thousands of rpm. JetCat model aircraft turbines are capable of over 100,000 rpm (1,700 Hz) with the fastest reaching 165,000 rpm (2,750 Hz).[5]
+A Flywheel energy storage system works at 60,000–200,000 rpm (1–3 kHz) range using a passively magnetic levitated flywheel in vacuum.[6] The choice of the flywheel material is not the most dense, but the one that pulverises the most safely, at surface speeds about 7 times the speed of sound.
+A typical 80 mm, 30 CFM computer fan will spin at 2,600–3,000 rpm on 12 V DC power.
+A millisecond pulsar can have near 50,000 rpm.
+A turbocharger can reach 290,000 rpm (4.8 kHz), while 80,000–200,000 rpm (1–3 kHz) is common.
+Molecular microbiology – molecular engines. The rotation rates of bacterial flagella have been measured to be 10,200 rpm (170 Hz) for Salmonella typhimurium, 16,200 rpm (270 Hz) for Escherichia coli, and up to 102,000 rpm (1,700 Hz) for polar flagellum of Vibrio alginolyticus, allowing the latter organism to move in simulated natural conditions at a maximum speed of 540 mm per hour.[7]
+See also[edit]
+Constant angular velocity (CAV) – used when referring to the speed of gramophone (phonograph) records
+Constant linear velocity (CLV) – used when referring to the speed of audio CDs
+Radian per second
+Rotational speed
+Corrected speed
+Turn (geometry)
+Idle speed
+Overspeed (engine)
+Redline
+Rev limiter
+References[edit]
+^ a b "Physical parameters". DVD Technical Notes. Moving Picture Experts Group (MPEG). 1996-07-21. Retrieved 2008-05-30..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}
+^ "2014 season changes". Formula One. Retrieved 2014-08-18.
+^ "Double-Density Versus High-Density Disks". Apple. Retrieved 2012-05-05.
+^ "Slender and Elegant, It Fuels the Bomb". The Electricity Forum. Retrieved 2006-09-24.
+^ "P60-SE Special Edition". JetCat USA. Retrieved 2006-07-19.
+^ Post, Richard F. (April 1996). "A New Look at an Old Idea: The Electromechanical Battery" (PDF). Science &amp; Technology Review. University of California: 12–19. ISSN 1092-3055. Retrieved 2008-05-30.
+^ Magariyama, Y.; Sugiyama, S.; Muramoto, K.; Maekawa, Y.; Kawagishi, I.; Imae, Y.; Kudo, S. (October 27, 1994). "Very fast flagellar rotation". Nature. 371 (6500): 752. Bibcode:1994Natur.371..752M. doi:10.1038/371752b0.
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Revolutions_per_minute&amp;oldid=981167397"
+		Categories: Units of frequencyUnits of angular velocityHidden categories: Articles needing additional references from July 2016All articles needing additional references
+	Navigation menu
+		Personal tools
+		Not logged inTalkContributionsCreate accountLog in
+		Namespaces
+		ArticleTalk
+		Variants
+		Views
+		ReadEditView history
+		More
+		Search
+		Navigation
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		Contribute
+		HelpLearn to editCommunity portalRecent changesUpload file
+		Tools
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		Print/export
+		Download as PDFPrintable version
+		Languages
+		AfrikaansالعربيةAzərbaycancaБеларуская (тарашкевіца)‎Българскиབོད་ཡིགCatalàČeštinaChiShonaDeutschEspañolEsperantoفارسیFrançais한국어HrvatskiBahasa IndonesiaItalianoעבריתLatviešuMagyarМакедонскиNederlandsनेपाली日本語NordfriiskNorsk bokmålNorsk nynorskPolskiPortuguêsRomânăРусскийSimple EnglishکوردیSrpskohrvatski / српскохрватскиSvenskaไทยTürkçeУкраїнськаTiếng Việt中文
+		Edit links
+		 This page was last edited on 30 September 2020, at 17:52 (UTC).
+		Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+		Privacy policy
+		About Wikipedia
+		Disclaimers
+		Contact Wikipedia
+		Mobile view
+		Developers
+		Statistics
+		Cookie statement

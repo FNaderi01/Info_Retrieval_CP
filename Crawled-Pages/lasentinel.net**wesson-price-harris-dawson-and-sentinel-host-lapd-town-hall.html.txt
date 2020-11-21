@@ -1,0 +1,324 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Wesson, Price, Harris-Dawson and Sentinel host LAPD Town Hall               
+				By Niele Anderson, Contributing Writer                 
+	                	                Published April 12, 2018
+		L.A. City Councilmember Marqueece Harris-Dawson (far right) speaks to members of the Los Angeles Police Commission. (L-R siting on panel) Matthew Johnson, Vice President L.A. Police Commission, Shane Murphy Goldsmith, L.A. Police Commissioner and Richard M. Tefank, Executive Director L.A. Police Commission. ( Mesiyah McGinnis/ L.A. Sentinel)
+Statistics show people of color are most effected wrongly by law enforcement. As the city of angels embarks on selecting its next police chief, people of color provide input, concern and suggestions as to who will lead LAPD, as Charlie Beck prepares to retire.
+The Los Angeles Police Commission held its last listening session regarding the selection of the next police chief of Los Angeles on April 4 at the Museum of African-American Art located at the Baldwin Hills Crenshaw Plaza in Macy’s on the 3rd Floor.
+Pastor Craig Worsham stated, “I think this is a great opportunity for community leaders and the citizens of the community to come and share their thoughts and to give input on what we need in our community. Personally, I think as it relates to our young people, we need to seek a chief that is heavily engaged socially and civically, that will cause us to build a bridge that has been broken between community and law enforcement.”
+        ADVERTISEMENT        
+The forum was presented by Los Angeles City Council President Herb Wesson, Councilmember Curren Price Jr., Marqueece Harris- Dawson and the Los Angeles Sentinel Newspaper. The session was moderated by Los Angeles Sentinel managing editor and L.A. Watts Times managing editor Brandon I. Brooks, and included police commission president Matthew M. Johnson, executive director Richard M. Tefank and police commissioner Shane Murphy Goldsmith.
+(L-R) Matthew Johnson, Vice President L.A. Police Commission, Shane Murphy Goldsmith, L.A. Police Commissioner and Richard M. Tefank, Executive Director L.A. Police Commission. ( E. Mesiyah McGinnis/ L.A. Sentinel)
+While the commission chose the theme of transparency, the audience questioned why the candidates remained anonymous. More than 30 people have applied to become Los Angeles’ next police chief. The full list of candidates may never be known. The city’s personnel department does not publicly release the names of the candidates being considered.
+Although most candidates will never be known, Deputy Chief Phil Tingirides, who oversees the department’s South Bureau, confirmed he has applied for the top position along with Michel Moore, an assistant chief who was a finalist for the job in 2009; Sandy Jo MacArthur, a former LAPD assistant chief who retired in 2015, but is still a reserve officer; and Robert Arcos, a deputy chief who heads the LAPD’s Central Bureau.
+Councilmember Curren Price ( E. Mesiyah McGinnis/ L.A. Sentinel)
+Michael Ellison, who attended the session had his own thoughts as to who should be the next chief of Los Angeles, “when I think of someone that is doing something that’s out of the box, I think of public servants like the current deputy chief Phil Tingirides who is already engaged in the community and who doesn’t need a tutorial about where to go or what to do because he already knows.”
+The search for Chief Charlie Beck’s replacement began in January, when he announced that he would retire from the Los Angeles Police Department this summer.
+Los Angeles City Council President Herb Wesson. ( E. Mesiyah McGinnis/ L.A. Sentinel)
+Mayor Eric Garcetti, will make the final selection from the list of applicants narrowed down by his appointees on the Police Commission. The City Council must then confirm the mayor’s choice. Police commissioners have said they hope to finish evaluating the candidates and offer Garcetti their top three suggestions in early June, a few weeks before Beck’s last day, June 27.
+The next head of the LAPD will be responsible for the solutions to many problems including concerns of how officers use force, a rise in homelessness and racial profiling to name a few.
+Brandon I. Brooks, Los Angeles Sentinel Managing Editor and L.A. Watts Times Managing Editor facilitates a community town hall on the hiring of the next L.A.P.D. Police Chief. (Photo by E. Mesiyah McGinnis)
+Michael Lawson, President of the Los Angeles Urban League addresses members of the Los Angeles Police Commission on the hiring of the next L.A.P.D. police chief. (Photo by E. Mesiyah McGinnis)
+Greg Dulan, owner and operator of the world famous Dulan’s Soul Food Kitchen in Los Angeles addresses members of the L.A. Police Commission on the hiring of the next L.A.P.D. Police Chief. (Photo by E. Mesiyah McGinnis)
+Richard Tefank, Executive Director of the L.A. Police Commission speaks to local community member “General” Jeff. (Photo by E. Mesiyah McGinnis)
+A Los Angeles community member, speaks on the hiring of the next L.A.P.D. Police Chief. (Photo by E. Mesiyah McGinnis)
+A Los Angeles community member, speaks on the hiring of the next L.A.P.D. Police Chief. (Photo by E. Mesiyah McGinnis)
+		Categories: Business | Crenshaw &amp; Around | Exclusive | Local | News | News (Business) | News (Family) | Political | Safety Tags: Board of Commissioners | Brandon Brooks | Brandon I. Brooks | Chief Charlie Beck | Counci President Herb Wesson | Councilmember Curren Price Jr. | Councilmember Marqueece Harris-Dawson | executive director L.A. Police Commission | Herb Wesson | L.A. Police Commission | L.A. Police Commissioner | L.A.P.D. | LAPD | Los Angeles City Council President Herb Wesson | Los Angeles Police Department | Marqueece Harris-Dawson | Matt Johnson | Matthew Johnson | Matthew Johson | Mayor Eric Garcetti | MOAAA | Museum of African American Art | Niele Anderson | Richard M. Tefank | Richard Tefank | Shane Murphy Goldsmith | town hall | vice president L.A. Police Commission		
+						Cuba Excursion And Science Extravaganza Set Escuela Plus Apart
+						Presidential Race Takes an Unexpected Twist in Nigeria
+						LGBT Activists Plan First-Ever Pride March in Swaziland
+						We Must All Invest In Our At Promise Youth
+						Rwandans ‘Remember, Renew and Unite’ on Anniversary of Genocide
+						Black Students Deserve a Better Education Than What We’re Giving Them
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »

@@ -1,0 +1,129 @@
+            News
+Research
+Podcasts
+The Journal
+Blog
+Book Reviews
+	                Sign in
+	                Welcome!Log into your account
+	                your username
+	                your password
+	                Forgot your password?
+	                Privacy Policy
+	                Password recovery
+	                Recover your password
+	                your email
+				Search
+                            Sign in
+                            Welcome! Log into your account
+                            your username
+	                        your password
+                            Forgot your password? Get help
+                            Privacy Policy
+                            Password recovery
+                            Recover your password
+                            your email
+                            A password will be e-mailed to you.
+			Education Next
+    News
+Research
+Podcasts
+The Journal
+Blog
+Book Reviews
+		Subscribe
+                                                        NewsResearchPodcastsThe JournalBlogBook Reviews                                                                
+Latest Issue
+Fall 2020
+Vol. 20, No. 4
+                        BlogOpinion
+                            Straight Up Conversation: The Woman Who’s Trying to Reimagine Testing
+                                By Frederick Hess                                                                                                                            
+		Frederick Hess
+            Rebecca Kantar is the founder and CEO of Imbellus, which builds simulation-based assessments of cognitive skills. The company currently deploys these assessments in over 20 countries and has raised $24 million in venture funding. Rebecca founded Imbellus after dropping out of Harvard and becoming disenchanted with content-based standardized tests. In 2019, Forbes named her one of 30 Under 30 rising entrepreneurs in education. I recently talked with her about how to build simulation-based assessments and what they can tell us, and here’s what she said.
+Rick Hess: So Rebecca, what does Imbellus do?
+Rebecca Kantar: I started Imbellus to offer assessments that measure “21st-century” cognitive skills that we talk about often but have thus far been unsuccessful in quantifying at scale across the education system. Rather than assessing what people know, Imbellus is assessing how they think. Our assessments are designed to measure skills like problem solving, systems thinking, critical thinking, adaptability, and metacognition. Most tests we take at school test our domain-specific knowledge. There is value to testing content mastery, and even thinking skills in specific contexts; we just already have a plethora of assessments that do just that. Imbellus assessments use abstract environments, ones that don’t mirror curricular content exactly, to understand how students process information, make decisions, solve problems, and generate new ideas. All the information students need to know is right there in the scenarios we present.
+Rick: What’s the big idea behind all this?
+Rebecca: Imbellus is an attempt to reorient the education system around a new North Star: adulthood readiness instead of just college readiness. In the case of college-admissions testing, what we test dictates what high schools teach. But those 7000-plus colleges vary in their quality, and far too many deliver degrees that bear debt and unemployment instead of mobility. In this landscape where college readiness no longer equates to adulthood readiness, the tests that hold our schools accountable and dictate their students’ futures must set the bar for what K-12 education should deliver. I think our K-12 schools are ultimately responsible for giving all students a shot at a good life.
+Rick: Why do you think we need these kinds of tests? How will they help?
+Rebecca: We see a major blind spot in assessing only content knowledge. If we can introduce assessments that instead focus on the thinking students exhibit when all the information they need to know is provided, we can at least complement assessment of knowledge with an understanding of students’ transferrable deep-thinking skills. Both employers and students themselves consistently identify shortcomings in preparation for the workforce that are not related to reading and math skills, but rather to the ability to manage ambiguity and think critically about a task at hand.
+Rick: Can you describe what one of these tests would look like?
+Rebecca: Our computer-based assessments feature scenarios that evaluate one or several complex thinking skills, like problem solving, in a game-like environment. As an example, a scenario may present a test-taker with an impending natural disaster. The test-taker would need to explore the environment and compile qualitative and quantitative evidence to inform a hypothesis around which natural disaster is likely to occur. The test-taker would then need to move animal populations likely to be affected by the impending disaster, while ensuring those animal populations would survive in their new locations.
+Rick: And then once they complete an assignment like that, how does the test get scored?
+Rebecca: As test-takers navigate, mouse over, and click, our system collects telemetry—think of it as clickstream—data and interprets it at various levels of granularity to form item-level scores. Those item-level scores are handcrafted features shaped by our learning science, data science, and psychometrics scientists throughout our assessment design and development process. They include scores for both product—in other words, whether or not some output within a scenario was satisfactory—and process—how a test-taker reached that output. Together, these item-level scores are connected to the underlying cognitive skills our scientists have associated, both in theory and in pilot and field-testing, with each item through a Q-Matrix, a knowledge model.
+Rick: So, how does one even start to design and build assessments like this?
+Rebecca: To be honest, building good assessments is very, very hard. It’s a science challenge on par with developing a new drug in its complexity, time horizons, and resourcing needs. Our process starts with finding contexts where people indisputably have to use the skills we are interested in measuring. For example, we’ve shared much of our work with McKinsey &amp; Company, studying and assessing problem-solving skills. Our scientists undertake an extensive analysis of employees’ daily tasks, surveying, interviewing, observing, and inspecting every aspect of what daily problem-solving situations are like and how the people navigating them think.
+Rick: How do you determine whether a test like this produces valid results?
+Rebecca: Imbellus holds its assessments accountable to three primary types of validity: One, content validity—do our tests measure skills aligned with the real-world contexts for which we are aiming to assess test-takers’ fitness? Two, criterion validity—do our test scores seem to correlate with other trusted measures of the skills we aim to assess? Three, predictive validity—do our test scores predict a target outcome—i.e., college success, hiring verdict, or aspects of job performance? We run differential test and item functioning analyses to inspect each item and our whole tests for potential sources of bias. We examine performance differences by typical subgroups, like gender, ethnicity, field of study, but also by atypical ones relevant to our assessments, like gaming experience, computer familiarity, STEM background. Our tests are only used operationally once we’re sure they are reliable, fair, and valid.
+Rick: On that note, how do you ensure the assessments are varied and aren’t susceptible to cheating?
+Rebecca: When most of us think of assessments, we think of multiple-choice questions with one best answer. At Imbellus, our scenarios are much more like giant Mad Libs games than simple word problems. Every figurative fill-in-the-blank is some kernel of data that acts as a variable that in turn changes the rest of the story unfolding after it. We automatically generate many test forms so that our tests vary greatly across deployment sessions. We do this to prevent cheating and coaching attempts from yielding real results. For the first time this year, we are confident enough in our permutations-based approach to preventing gaming our assessments that test-takers can sign up for a testing session time and take our tests remotely from any computer that has the processing power to run our in-browser assessments. Anyone interested can learn more about our development process on our science page.
+Rick: None of this sounds easy. How much does it cost to develop and administer these assessments?
+Rebecca: Imbellus is interested in making simulation-based assessments like ours mainstream. We are investing tens of millions of dollars in building engines that will allow us to deliver outputs—scenarios and assessments—that are on par or cheaper than development costs associated with building traditional items and tests. That said, for now, we are still building technology and detailed understandings of which skills to assess, so our cost per scenario is artificially high at present.
+Rick: Where did the idea for this come from, anyway?
+Rebecca: During my time in college, I was dismayed by how similar the nature of thinking I experienced was to that I had practiced in high school. I was fortunate to attend Newton North High School, a strong public school with AP courses galore and some project-based learning alternatives like Greengineering. I had taken full advantage of what my high school offered, yet my most meaningful development experiences happened outside of school via a nonprofit organization I was lucky enough to spend time leading with my peers. Had you asked me about my high school experience while I was a student, I would’ve been quick to report that I hated high school. I found the coursework monotonous, stifling, and esoteric. The work I did after, and often instead of, school required not only that I master a very challenging body of knowledge. In the case of this nonprofit, I had to achieve a deep understanding of child sex trafficking in the United States. More so, the work of organizing and advocacy required that I use what I knew. So I wondered: If my very privileged schools still left me wanting for more applied learning opportunities, how likely was it that most students far less fortunate than I were spending their school days learning to think in ways that would best serve them in life? Our K-12 system has gone all-in on betting that teaching more content will produce students ready for life after high school. High-quality content taught by well-prepared educators matters—but it’s not enough. I figured the behemoth college-admissions testing providers were unlikely to produce categorically new tests because there was no Tesla equivalent forcing them to move on. I founded Imbellus to move the testing industry forward and to, in turn, move our schools forward in preparing all students for adulthood.
+Rick: So, is your goal to replace content-based assessments like the ACT and SAT?
+Rebecca: I want our assessment content to be the pervasive standard assessing the performance of our K-16 education system in service of preparing students for life after high school. Imbellus has had the privilege of meeting with ACT, The College Board, and ETS. Our message has been the same to all three organizations: We would like to work together. Together, we can innovate on the extent to which assessments actually measure what we need to know about students’ skills. The fundamental problem we are trying to address is that items need to be reflective both of critical content knowledge and of the complex reasoning skills that everyone needs to be effective in work and in life as it continues to evolve.
+Rick: And what about traditional reading and math tests? Do you want to replace those?
+Rebecca: Reading and math are non-negotiable. Every student needs to excel at deep reading and be capable of doing the kind of logical thinking math requires. But we have good tests that measure these domains of knowledge already. My ambition is not to reinvent all of those tests and items, but instead to offer tests that measure far more than whether or not students learn specific bits of knowledge.
+Rick: OK, final query. Where do you think Imbellus will be five from years now? Just how widespread would you expect use of these new assessments to be?
+Rebecca: The number of students who have access to our assessments will depend on a few factors: One, how our peers in the educational assessment space choose to receive us. We know progress on measuring deep-thinking skills is possible thanks to tests like the National Assessment of Education Progress [NAEP] and the Programme for International Student Assessment [PISA]. Why shouldn’t the SAT and the ACT and some of the 39-plus AP tests include item types that ask students to adapt, to collaborate, to create something, or to explore and process how a system works? Two, how much funding we are able to dedicate to assessment innovation. The largest education-oriented impact funds and philanthropic investors are by and large not focused on high-stakes assessments as an area that needs improvement, and in turn, significant investment. Three, how fast we are able to solve the myriad of remaining technical challenges that make building and deploying simulation-based assessments long, hard, and expensive. Imbellus has made huge strides in bringing the cost of producing beautiful, engaging 3D worlds down. Although we have a ways to go before our tests are fast, cheap, and easy to build and deploy, we’ve become better at building processes that allow for fast iteration loops on item and test development. Many state chiefs we’ve spoken with are hungry for an assessment that reliably connects project-based learning with preparedness for higher education and the workforce. That’s what our team is trying to deliver on.
+This interview has been condensed and edited for clarity. 
+Frederick Hess is director of education policy studies at AEI and an executive editor at Education Next.
+This post originally appeared on Rick Hess Straight Up.
+					Last updated September 18, 2019
+					License this Content
+			Frederick HessAuthor Bio				
+            Previous Article
+            The Appeal of Alternative Education
+            September 16, 2019
+            Next Article
+            4 Poll Results That’ll Shape the 2020 Election Education Debates
+            September 19, 2019
+We Recommend You Read
+		Four Surprising Truths About U.S. Schooling
+		by Frederick Hess
+		Making Sense of the Lousy Test Results in Louisiana’s Voucher Program
+		by Frederick Hess
+		Straight Up Conversation: Waterford.org CEO Benjamin Heuston
+		by Frederick Hess
+                                    Frederick Hess	                
+The Journal
+Fall 2020
+Vol. 20, No. 4
+Education Next is a journal of opinion and research about education policy.
+Subscribe Today
+NOT CONVINCED?
+Get a Sample copy of The Journal
+Sign Up Today
+			Newsletter
+			Notify Me When Education Next Posts a Big Story
+					Subscribe
+Business + Editorial Office
+Program on Education Policy and Governance
+Harvard Kennedy School
+79 JFK Street, Cambridge, MA 02138
+Phone (617) 496-5488
+Fax (617) 496-4428
+EmailEducation_Next@hks.harvard.edu
+University of Chicago Press(for subscription service to the printed journal)
+1427 E. 60th Street, Chicago, IL 60637-2902
+Phone (773) 753-3347, or toll-free in U.S. and Canada (877) 705-1878
+Email subscriptions@educationnext.org
+                DiscoverAbout Us
+The Journal
+EdFacts
+EdNext Poll
+Opinion
+Press
+Interactive Graphics
+Our Authors
+Contact Us
+                More InformationAdvertise
+User Agreement
+Privacy Policy
+Reporting Copyright Infringement
+Guidelines For Submissions
+Permissions
+FAQ
+                Web-only content Copyright © 2020 President &amp; Fellows of Harvard College
+Journal content Copyright © 2020 Education Next Institute, Inc.Site Credits            

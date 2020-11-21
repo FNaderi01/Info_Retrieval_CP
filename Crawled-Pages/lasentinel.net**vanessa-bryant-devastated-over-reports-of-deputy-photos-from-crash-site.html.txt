@@ -1,0 +1,325 @@
+            Click to Win!
+            Classifieds
+            Archives
+        Saturday, October 10, 2020
+            ePaper
+             Subscribe 
+                My Account
+                                            Login / Register
+                        Subscribe
+                        ePaper
+                    Contact Us
+                    About
+    .las_header_box_epaper {
+        position: relative;
+        max-height: 142px;
+        /* default to stop initial load from bouncing waiting on js to kick in below */
+        overflow-y: hidden;
+        padding-left: 15px;
+    }
+            Videos 
+            Galleries
+            Cartoons
+            Calendar/Events 
+            Buy Cookbook
+            Taste of Soul
+		.rgc_navbar_container {
+			/* desktop use site color */
+			background-color: #B10D00;
+		}
+		.rgc_navbar_mobile_logo_column {
+			margin-top: -16px;
+		}
+		.rgc_navbar_mobile_epaper_column {
+			margin-top: -29px; 
+			max-height: 98px;
+		}
+		.rgc_navbar_mobile_epaper_img {
+			max-width: 90px;
+		}
+		.rgc_navbar_mobile_ad_column {
+			margin-top: -25px
+		}
+		@media (max-width: 750px) {
+			.rgc_navbar_container {
+				/* mobile use white */
+				background-color: #fff;
+				/* offset for mobile logo */
+				margin-top: 31px;
+			}
+			.rgc_navbar_mobile_menu_icon {
+				/* mobile: hide border, shadow, and text */
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+		@media (max-width: 450px){
+			.rgc_navbar_mobile_logo_column {
+				margin-top: -4px;
+			}
+			.rgc_navbar_mobile_epaper_img {
+				max-width: 65px;
+			}
+		}
+		@media (max-width: 350px){
+			.rgc_navbar_container {
+				margin-top: 0px;
+			}
+			.rgc_navbar_mobile_logo_column {
+				margin-top: 10px;
+			}
+			.rgc_navbar_mobile_epaper_column {
+				margin-top: 3px; 
+				max-height: 66px;
+			}
+			.rgc_navbar_mobile_ad_column {
+				margin-top: 0px
+			}
+		}
+	      	 MENU
+				HomeNewsEntertainmentSportsOpinionFamilyCrenshaw &amp; AroundReligionBusinessePaper            
+            	Home
+			CLOSE
+		My Account
+                    Login / Register
+        ePaper
+		Subscribe
+        Click to Win!
+        Contact Us
+        About
+        Classifieds
+        Archives
+        Calendar/Events 
+        Videos 
+        Galleries
+        Cartoons
+        Taste of Soul
+        Buy Cookbook
+            	News
+					Celebration of Life
+					COVID-19
+					Daily Briefs
+					District Attorney News
+					Education
+					Employment
+					Exclusive
+					History
+					International
+					Legends
+					Local
+					National
+					Political
+            	Entertainment
+					Book Releases
+					Comedy
+					Exclusive (Entertainment)
+					Movies
+					Music
+					News (Entertainment)
+					Theater
+					TV
+            	Sports
+					Baseball
+					Basketball
+					Boxing
+					Football
+					High School
+					History (Sports)
+					News (Sports)
+					Soccer
+            	Opinion
+					Antonio Moore
+					Ardena Clark
+					Charlene Crowell
+					Dr. Ben Chavis
+					Dr. Firpo W. Carr
+					Dr. Jeanette Parker
+					Dr. Maulana Karenga
+					Editorials
+					Jasmyne Cannick
+					Julianne Malveaux
+					Larry Aubry
+					Marc Morial
+					Op-Ed
+					Reggie Jones-Sawyer
+					Rev. Jesse Jackson
+					The Lobby
+					Wendy Gladney
+            	Family
+					Fashion
+					Health
+					Lifestyle
+					News (Family)
+					Safety
+            	Crenshaw &amp; Around
+					A Taste of Soul
+					Metro
+            	Religion
+            	Business
+					Economy
+					Finance
+					News (Business)
+					Real Estate
+					Restaurant	
+Vanessa Bryant “Devastated” Over Reports of Deputy Photos From Crash Site            
+				By City News Service                
+	                	                Published March 5, 2020
+		A CELEBRATION OF LIFE OF KOBE &amp; GIANNA BRYANT HELD AT THE STAPLES CENTER ON PHOTOS BY VALERIE GOODLOE
+Vanessa Bryant is expressing dismay and anger over reports that some Los Angeles County sheriff’s deputies took photos of the remains of Kobe Bryant and other victims at the scene of the helicopter crash that killed Kobe Bryant and eight others in Calabasas.
+A note written by an attorney representing Bryant’s widow and posted on Vanessa Bryant’s Instagram page says that Bryant specifically asked sheriff’s officials on the day of the crash to declare the area a no-fly zone to guard against photographers trying to cash in on the tragedy.
+“At that time, Sheriff Alex Villanueva assured us all measures would be put in place to protect the families’ privacy and it is our understanding that he has worked hard to honor those requests,” the letter states.
+        ADVERTISEMENT        
+“First responders should be trustworthy. It is inexcusable and deplorable that some deputies from the Lost Hills Sheriff’s substation, and other surrounding substations and the Los Angeles County Fire Department would allegedly breach their duty,” said Gary Robb, attorney for Vanessa Bryant.
+“This is an unspeakable violation of human decency, respect, and of the privacy rights of the victims and their families. We are demanding that those responsible for these alleged actions face the harshest possible discipline, and that their identities be brought to light … we are requesting an Internal Affairs investigation of these alleged incidents.”
+Some deputies were ordered to delete any photos taken at the scene and told that doing so would clear them of any discipline, the Los Angeles Times reported Thursday.
+The order was given in the days after Jan. 26 crash into a Calabasas hillside during a meeting at the sheriff’s Lost Hills Station in Malibu and came after a complaint was filed that a deputy was showing the images to others at a bar in Norwalk, according to public safety sources who spoke on condition of anonymity to the newspaper.
+The complaint was sent to the Sheriff’s Information Bureau. The head of the bureau, Capt. Jorge Valdez, told The Times on Wednesday he was not aware of the complaint and “there was no order given to delete any photographs.”
+Sources told The Times Friday that Valdez was among those who handled the complaint.
+TMZ reported deputies and members of the Los Angeles County Fire Department had taken and shared the photos.
+`Law enforcement sources tell TMZ, multiple L.A. County Sheriff’s deputies who responded to the crash scene took photos that included remains. We’re told one of the deputies — a trainee — took photos and at some point went to a bar and, as one source put it, `He tried to impress a girl by showing her the photos.’ We’re told the bartender overheard the conversation and filed
+an online complaint with the Sheriff’s Dept.
+“We’re also told the cellphone photos were passed around at the Lost Hills Sheriff’s substation — the first responders to the crash. Sources say deputies from other substations around L.A. County also took cellphone photos.”
+In a statement issued by the department Friday, Villanueva said he was “deeply disturbed at the thought deputies could allegedly engage in such an insensitive act.”
+Villanueva went on to pledge in the statement that “a thorough investigation will be conducted by the department, with the No. 1 priority of protecting the dignity and privacy of the victims and their families.”
+It’s unclear how many people saw or received the photos without authorization, The Times reported.
+The sharing of photos of the crash scene and the victims’ remains was the topic of a discussion among first responders two days after the crash, a public safety source with knowledge of the events told The Times. The source said he saw one of the photos in a setting separate from the crash’s investigation.
+Brian Williams, executive director of the Civilian Oversight Commission, told The Times sheriff’s department officials would be questioned next week.
+The Association for Los Angeles Deputy Sheriffs, the union that represents deputies, said Friday “as with all investigations, we will aggressively represent our members and preserve their rights.”
+The sheriff’s department and other Los Angeles-area law enforcement agencies have struggled with keeping confidential information in high-profile cases from being shared in the past.
+		Categories: Basketball | Local | News | News (Sports) | Sports Tags: #lasentinelnews | #losangeles | Alex Villanueva | Kobe Bryant | L.A. County Sheriff Department | News | Vanessa Bryant		
+						Lacey Wins Big, Wesson And Ridley-Thomas Headed for Run-Off
+						L.A. Wildcats Rout D.C. Defenders 39-9 in First Win of the Season
+						Pro Basketball Player Pleads in West Hollywood DUI Case
+						USC Women’s Basketball faces rival UCLA in the Pac-12 tournament.
+						Lakers Sign Dion Waiters
+						James W. Sweeney Obituary
+			Get the Los Angeles Sentinel App!
+			Since 1933 The Voice of Our Community Speaking for Itself.
+			87 Years of LA Sentinel.
+			Black News.
+        	SEARCH:
+				Videos			
+				WATCH Spectrum Report: Bakewell Building South LA
+				WATCH: Bakewell Media Chairman Danny Bakewell Sr. Talks Police Bill of Rights with KCAL 9
+				WATCH: Senator Mitchell Sustains Funding for Martin Luther King, Jr. Community Hospital
+				WATCH: Congresswoman Maxine Waters speaks at Wondalunch food giveaway in Watts
+				WATCH: Press conference for Tajanae Nelson, mother of three killed
+				WATCH: Baron Davis talks giving back to South L.A. youth
+				WATCH: Compton Mayor Aja Brown speaks at the ‘ByeCOVID’ Juneteenth free testing  event
+			        All Videos &gt;&gt;
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+Black Fact of the Day			
+				Black Fact of the Day: Saturday October 10, 2020 – Brought to you by Black 365
+			        All Facts &gt;&gt;
+Photo of the Day			
+				Photo of the Day: Bakewell visits Hawkins House of Burgers in Watts
+			        All Photos&gt;&gt;
+Events			
+				EXCITING NEWS TASTE OF SOUL 2020 IS BACK ONLINE AND ON-TIME!
+				Community Food Distribution – Saturday, Oct 17, 2020
+			        All Events &gt;&gt;
+											Latest ePaper
+		Subscribe Now!
+        All ePapers &gt;&gt;
+				            LA Sentinelin your pocket:
+LA Watts Times			
+			    	    All Covers &gt;&gt;
+                © 2020 Los Angeles Sentinel  All Rights Reserved • A Bakewell Media Publication
+				About • 
+				Archives • 
+				Contact Us • 
+				Corrections &amp; Misprints • 
+				Media Kit
+				Terms of Service • 
+                Privacy Policy
+                LA Watts Times • Taste of Soul
+                WBOK 1230am-->
+			.rgc_paywall_content_notice {
+				position: absolute;
+				display: none;
+				background-color: #fff;
+				top: 150px;
+				width: 92%;
+			    margin: 0px 4%;
+			    padding: 20px;
+			    border: 2px dashed #B10D00;
+				/* shadow */
+				-webkit-box-shadow: -2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 	-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				box-shadow: 		-2px 0px 33px rgba(0, 0, 0, 1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+				/* make sure shadow overlays other divs nearby */
+				z-index:1;
+			}
+			.rgc_paywall_content_notice_epaper {
+				top: 200px;
+				right: 8%;
+				width: 66%;
+			}
+			.rgc_paywall_content_notice_epaper_trial {
+				position: fixed;
+				top: auto;
+				bottom: 15px;
+				right: auto;
+				left: 15px;
+				width: 410px;
+				height: 200px;
+				margin: 0px;
+				overflow: scroll;
+			}
+			.rgc_paywall_content_notice_epaper_control_container {
+				position: absolute;
+				right: 10px;
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_control_open {
+				display: none;
+			}
+			.rgc_paywall_content_notice_epaper_trial .rgc_paywall_content_notice_epaper_control_container {
+				display: block;
+			}
+			@media (max-width: 450px) {
+				.rgc_paywall_content_notice {
+					padding: 10px;
+				}
+				.rgc_paywall_content_notice p {
+					font-size: 15px;
+				}
+				.rgc_paywall_content_notice_epaper_trial {
+					height: 175px;
+					width: 300px;
+				}
+				.rgc_paywall_content_notice_epaper_trial .rgc_single_title {
+					font-size: 15px;
+					line-height: 22px;
+					border-bottom: 2px solid #333;
+					margin-bottom: 7px;
+				}
+			}
+                   Thanks for signing up!
+                   News &amp; Alerts by Email!
+                   Stay up to date by getting the lastest LA Sentinel News and Alerts sent to your email inbox.
+                   Email Address 
+                   First Name 
+                   Sign Up
+                   Your privacy is important to us. You may unsubscribe anytime via the link found at the bottom of each email we send.
+        			Close / I'm already on the list
+			Subscribe Today!
+			Don't be limited anymore! Subscribe Now »
+			 ** Existing subscribers, please Login / Register for Digital »
+			Subscribe to The Los Angeles Sentinel for only $5.99 $3.99 per month, with 1 month free!
+			LIMITED OFFER - FREE 6 MONTHS! Don't miss out on this limited time offer - subscribe for FREE now!			
+			Relax in comfort each week as you read the printed newspaper on your own time, delivered weekly to your home or office. This subscription also includes UNLIMITED DIGITAL ACCESS for all of your devices. Includes FREE shipping! One easy payment of $3.99/month gets you:
+			 	Los Angeles Sentinel Newspaper
+			 	ePaper/Digital Edition
+			 	LASentinel.net
+			 	LA Sentinel Mobile App:  
+			 	LA Sentinel Weekly E-Blast
+			Subscribe Now »
