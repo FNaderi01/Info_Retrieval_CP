@@ -1,14 +1,8 @@
-## Getting Started
+## تعریف پروژه
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+این پروژه در مورد مستندات (شامل مستندات موجود در سایت‌های علمی، آموزشی معتبر) مرتبط با موضوع “آموزش” (Education) می‌باشد. اهمیت این حوزه در آن است که افراد بتوانند با یک یا چند کلید واژه، آخرین اخبار و نوشتار‌های علمی در حوزه آموزش که خود شامل زیربخش‌های متعددی از جمله آموزش کودکان٬ تاثیرات آموزش٬ شیوه‌های آموزش و موارد بسیار بیشتری می شود٬ دست پیدا کنند. به عنوان مثال با کلید‌‌واژه‌های "کرونا" و "آموزش" اخبار و مقالات معتبر در خصوص نحوه آموزش مقاطع مختلف در شرایط ویژه مقابله با کرونا٬ آینده آموزش با احتمال ادامه پیدا کردن کرونا  و تاثیرات کرونا بر کیفیت و کمیت آموزشی پیدا شود.
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+## داده‌های مورد استفاده
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-## Dependency Management
-
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+مجموعه‌ای از ۱۰۰۰۰ داکیومنت شامل٬ متن خبری سایت‌های اطلاع‌رسانی٬ متن‌های علمی مرتبط با موضوع در سایت‌های معتبر می‌باشد. (سعی بر آن بود با انتساب منابع آغازین از مطالب سال‌های ۲۰۱۹ تا ۲۰۲۰ این مجموعه داده ایجاد شود)
