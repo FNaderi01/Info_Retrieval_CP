@@ -1,0 +1,142 @@
+            News
+Research
+Podcasts
+The Journal
+Blog
+Book Reviews
+	                Sign in
+	                Welcome!Log into your account
+	                your username
+	                your password
+	                Forgot your password?
+	                Privacy Policy
+	                Password recovery
+	                Recover your password
+	                your email
+				Search
+                            Sign in
+                            Welcome! Log into your account
+                            your username
+	                        your password
+                            Forgot your password? Get help
+                            Privacy Policy
+                            Password recovery
+                            Recover your password
+                            your email
+                            A password will be e-mailed to you.
+			Education Next
+    News
+Research
+Podcasts
+The Journal
+Blog
+Book Reviews
+		Subscribe
+                                                        NewsResearchPodcastsThe JournalBlogBook Reviews                                                                
+Latest Issue
+Fall 2020
+Vol. 20, No. 4
+                        ResearchState PolicyThe JournalVol. 12, No. 3
+                            Do Schools Begin Too Early?
+					The effect of start times on student achievement
+                                By Finley Edwards                                                                                                                            
+		Finley Edwards
+            What time should the school day begin? School start times vary considerably, both across the nation and within individual communities, with some schools beginning earlier than 7:30 a.m. and others after 9:00 a.m. Districts often stagger the start times of different schools in order to reduce transportation costs by using fewer buses. But if beginning the school day early in the morning has a negative impact on academic performance, staggering start times may not be worth the cost savings.
+Proponents of later start times, who have received considerable media attention in recent years, argue that many students who have to wake up early for school do not get enough sleep and that beginning the school day at a later time would boost their achievement. A number of school districts have responded by delaying the start of their school day, and a 2005 congressional resolution introduced by Rep. Zoe Lofgren (D-CA) recommended that secondary schools nationwide start at 9:00 or later. Despite this attention, there is little rigorous evidence directly linking school start times and academic performance.
+In this study, I use data from Wake County, North Carolina, to examine how start times affect the performance of middle school students on standardized tests. I find that delaying school start times by one hour, from roughly 7:30 to 8:30, increases standardized test scores by at least 2 percentile points in math and 1 percentile point in reading. The effect is largest for students with below-average test scores, suggesting that later start times would narrow gaps in student achievement.
+The primary rationale given for start times affecting academic performance is biological. Numerous studies, including those published by Elizabeth Baroni and her colleagues in 2004 and by Fred Danner and Barbara Phillips in 2008, have found that earlier start times may result in fewer hours of sleep, as students may not fully compensate for earlier rising times with earlier bedtimes. Activities such as sports and work, along with family and social schedules, may make it difficult for students to adjust the time they go to bed. In addition, the onset of puberty brings two factors that can make this adjustment particularly difficult for adolescents: an increase in the amount of sleep needed and a change in the natural timing of the sleep cycle. Hormonal changes, in particular, the secretion of melatonin, shift the natural circadian rhythm of adolescents, making it increasingly difficult for them to fall asleep early in the evening. Lack of sleep, in turn, can interfere with learning. A 1996 survey of research studies found substantial evidence that less sleep is associated with a decrease in cognitive performance, both in laboratory settings and through self-reported sleep habits. Researchers have likewise reported a negative correlation between self-reported hours of sleep and school grades among both middle- and high-school students.
+I find evidence consistent with this explanation: among middle school students, the impact of start times is greater for older students (who are more likely to have entered adolescence). However, I also find evidence of other potential mechanisms; later start times are associated with reduced television viewing, increased time spent on homework, and fewer absences. Regardless of the precise mechanism at work, my results from Wake County suggest that later start times have the potential to be a more cost-effective method of increasing student achievement than other common educational interventions such as reducing class size.
+Wake County
+The Wake County Public School System (WCPSS) is the 16th-largest district in the United States, with 146,687 students in all grades for the 2011–12 school year. It encompasses all public schools in Wake County, a mostly urban and suburban county that includes the cities of Raleigh and Wake Forest. Start times for schools in the district are proposed by the transportation department (which also determines bus schedules) and approved by the school board.
+Wake County is uniquely suited for this study because there are considerable differences in start times both across schools and for the same schools at different points in time. Since 1995, WCPSS has operated under a three-tiered system. While there are some minor differences in the exact start times, most Tier I schools begin at 7:30, Tier II schools at 8:15, and Tier III at 9:15. Tiers I and II are composed primarily of middle and high schools, and Tier III is composed entirely of elementary schools. Just over half of middle schools begin at 7:30, with substantial numbers of schools beginning at 8:00 and 8:15 as well. The school day at all schools is the same length. But as the student population has grown, the school district has changed the start times for many individual schools in order to maintain a balanced bus schedule, generating differences in start times for the same school in different years.
+The only nationally representative dataset that records school start times indicates that, as of 2001, the median middle-school student in the U.S. began school at 8:00. More than one-quarter of students begin school at 8:30 or later, while more than 20 percent begin at 7:45 or earlier. In other words, middle school start times are somewhat earlier in Wake County than in most districts nationwide. The typical Wake County student begins school earlier than more than 90 percent of American middle-school students.
+Data and Methods
+The data used in this study come from two sources. First, administrative data for every student in North Carolina between 2000 and 2006 were provided by the North Carolina Education Research Data Center. The data contain detailed demographic variables for each student as well as end-of-grade test scores in reading and math. I standardize the raw test scores by assigning each student a percentile score, which indicates performance relative to all North Carolina students who took the test in the same grade and year. The second source of data is the start times for each Wake County public school, which are recorded annually and were provided by the WCPSS transportation department.
+About 39 percent of WCPSS students attended magnet schools between 2000 and 2006. Since buses serving magnet schools must cover a larger geographic area, ride times tend to be longer for magnet school students. As a result, almost all magnet schools during the study period began at the earliest start time. Because magnet schools start earlier and enroll students who tend to have higher test scores, I exclude magnet schools from my main analysis. My results are very similar if magnet school students are included.
+The data allow me to use several different methods to analyze the effect of start times on student achievement. First, I compare the reading and math scores of students in schools that start earlier to the scores of similar students at later-starting schools. Specifically, I control for the student’s race, limited English status, free or reduced-price lunch eligibility, years of parents’ education, and whether the student is academically gifted or has a learning disability. I also control for the characteristics of the school, including total enrollment, pupil-to-teacher ratio, racial composition, percentage of students eligible for free lunch, and percentage of returning students. This approach compares students with similar characteristics who attend schools that are similar, except for the fact that some schools start earlier and others start later.
+The results produced by this first approach could be misleading, however, if middle schools with later start times differ from other schools in unmeasured ways. For example, it could be the case that more-motivated principals lobby the district to receive a later start time and also employ other strategies that boost student achievement. If that were the case, then I might find that schools with later start times have higher test scores, even if start times themselves had no causal effect.
+To deal with this potential problem, my second approach focuses on schools that changed their start times during the study period. Fourteen of the district’s middle schools changed their start times, including seven schools that changed their start times by 30 minutes or more. This enables me to compare the test scores of students who attended a particular school to the test scores of students who attended the same school in a different year, when it had an earlier or later start time. For example, this method would compare the test scores of students at a middle school that had a 7:30 start time from 1999 to 2003 to the scores of students at the same school when it had an 8:00 start time from 2004 to 2006. I still control for all of the student and school characteristics mentioned earlier.
+As a final check on the accuracy of my results, I perform analyses that compare the achievement of individual students to their own achievement in a different year in which the middle school they attended started at a different time. For example, this method would compare the scores of 7th graders at a school with a 7:30 start time in 2003 to the scores of the same students as 8th graders in 2004, when the school had a start time of 8:00. As this suggests, this method can only be used for the roughly 28 percent of students in my sample whose middle school changed its start time while they were enrolled.
+Results
+My first method compares students with similar characteristics who attend schools that are similar except for having different start times. The results indicate that a one-hour delay in start time increases standardized test scores on both math and reading tests by roughly 3 percentile points. As noted above, however, these results could be biased by unmeasured differences between early- and late-starting schools (or the students who attend them).
+Using my second method, which mitigates this bias by following the same schools over time as they change their start times, I find a 2.2-percentile-point improvement in math scores and a 1.5-point improvement in reading scores associated with a one-hour change in start time.
+My second method controls for all school-level characteristics that do not change over time. However, a remaining concern is that the student composition of schools may change. For example, high-achieving students in a school that changed to an earlier start time might transfer to private schools. To address this issue, I estimate the impact of later start times using only data from students who experience a change in start time while remaining in the same school. Among these students, the effect of a one-hour later start time is 1.8 percentile points in math and 1.0 point in reading (see Figure 1).
+These estimated effects of changes in start times are large enough to be substantively important. For example, the effect of a one-hour later start time on math scores is roughly 14 percent of the black-white test-score gap, 40 percent of the gap between those eligible and those not eligible for free or reduced-price lunch, and 85 percent of the gain associated with an additional year of parents’ education.
+The benefits of a later start time in middle school appear to persist through at least the 10th grade. All students in North Carolina are required to take the High School Comprehensive Test at the end of 10th grade. The comprehensive exam measures growth in reading and math since the end of grade 8 and is similar in format to the end-of-grade tests taken in grades 3–8. Controlling for the start time of their high school, I find that students whose middle school started one hour later when they were in 8th grade continue to score 2 percentile points higher in both math and reading when tested in grade 10.
+I also looked separately at the effect of later start times for lower-scoring and higher-scoring students. The results indicate that the effect of a later start time in both math and reading is more than twice as large for students in the bottom third of the test-score distribution than for students in the top third. The larger effect of start times on low-scoring students suggests that delaying school start times may be an especially relevant policy change for school districts trying to meet minimum competency requirements (such as those mandated in the No Child Left Behind Act).
+Why Do Start Times Matter?
+The typical explanation for why later start times might increase academic achievement is that by starting school later, students will get more sleep. As students enter adolescence, hormonal changes make it difficult for them to compensate for early school start times by going to bed earlier. Because students enter adolescence during their middle-school years, examining the effect of start times as students age allows me to test this theory. If the adolescent hormone explanation is true, the effect of school start times should be larger for older students, who are more likely to have begun puberty.
+I therefore separate the students in my sample by years of age and estimate the effect of start time on test scores separately for each group. In both math and reading, the start-time effect is roughly the same for students age 11 and 12, but increases for those age 13 and is largest for students age 14 (see Figure 2). This pattern is consistent with the adolescent hormone theory.
+To further investigate how the effect of later start times varies with age, I estimate the effect of start times on upper elementary students (grades 3–5). If adolescent hormones are the mechanism through which start times affect academic performance, preadolescent elementary students should not be affected by early start times. I find that start times in fact had no effect on elementary students. However, elementary schools start much later than middle schools (more than half of elementary schools begin at 9:15, and almost all of the rest begin at 8:15). As a result, it is not clear if there is no effect because start times are not a factor in the academic performance of prepubescent students, or because the schools start much later and only very early start times affect performance.
+Of course, increased sleep is not the only possible reason later-starting middle-school students have higher test scores. Students in early-starting schools could be more likely to skip breakfast. Because they also get out of school earlier, they could spend more (or less) time playing sports, watching television, or doing homework. They could be more likely to be absent, tardy, or have behavioral problems in school. Other explanations are possible as well. While my data do not allow me to explore all possible mechanisms, I am able to test several of them.
+I find that students who start school one hour later watch 12 fewer minutes of television per day and spend 9 minutes more on homework per week, perhaps because students who start school later spend less time at home alone. Students who start school earlier come home from school earlier and may, as a result, spend more time at home alone and less time at home with their parents. If students watch television when they are home alone and do their homework when their parents are home, this behavior could explain why students who start school later have higher test scores. In other words, it may be that it is not so much early start times that matter but rather early end times.
+Previous research tends to find that students in early-starting schools are more likely to be tardy to school and to be absent. In Wake County, students who start school one hour later have 1.3 fewer absences than the typical student—a reduction of about 25 percent. Fewer absences therefore may also explain why later-starting students have higher test scores: students who have an early start time miss more school and could perform worse on standardized tests as a result.
+Conclusion
+Later school start times have been touted as a way to increase student performance. There has not, however, been much empirical evidence supporting this claim or calculating how large an effect later start times might have. My results indicate that delaying the start times of middle schools that currently open at 7:30 by one hour would increase math and reading scores by 2 to 3 percentile points, an impact that persists into at least the 10th grade.
+These results suggest that delaying start times may be a cost-effective method of increasing student performance. Since the effect of later start times is stronger for the lower end of the distribution of test scores, later start times may be particularly effective in meeting accountability standards that require a minimum level of competency.
+If elementary students are not affected by later start times, as my data suggest (albeit not definitively), it may be possible to increase test scores for middle school students at no cost by having elementary schools start first. Alternatively, the entire schedule could be shifted later into the day. However, these changes may pose other difficulties due to child-care constraints for younger students and jobs and afterschool activities for older students.
+Another option would be to eliminate tiered busing schedules and have all schools begin at the same time. A reasonable estimate of the cost of moving start times later is the additional cost of running a single-tier bus system. The WCPSS Transportation Department estimates that over the 10-year period from 1993 to 2003, using a three-tiered bus system saved roughly $100 million in transportation costs. With approximately 100,000 students per year divided into three tiers, it would cost roughly $150 per student each year to move each student in the two earliest start-time tiers to the latest start time. In comparison, an experimental study of class sizes in Tennessee finds that reducing class size by one-third increases test scores by 4 percentile points in the first year at a cost of $2,151 per student per year (in 1996 dollars). These calculations, while very rough, suggest that delaying the beginning of the school day may produce a comparable improvement in test scores at a fraction of the cost.
+Finley Edwards is visiting assistant professor of economics at Colby College.
+For more from Education Next on this topic, please read:
+•  “Time for School? When the snow falls, test scores also drop“
+• “Rise and Shine: How school start times affect academic performance
+• “How To Make School Start Later: Early-morning high school clashes with teenage biology, but change is hard
+For more, please see “The Top 20 Education Next Articles of 2019.”
+					Last updated April 24, 2012
+					License this Content
+			Finley EdwardsAuthor Bio				
+            Previous Article
+            Best Practices Are the Worst
+            April 3, 2012
+            Next Article
+            Great Teaching
+            April 25, 2012
+We Recommend You Read
+		Rise and Shine
+					How school start times affect academic performance
+		by Jennifer Heissel
+		In the News: Boston School Committee Approves New Start Times, Then Changes Mind
+		by Education Next
+		How To Make School Start Later
+		by Danielle Dreilinger
+                                    Finley Edwards	                
+The Journal
+Fall 2020
+Vol. 20, No. 4
+Education Next is a journal of opinion and research about education policy.
+Subscribe Today
+NOT CONVINCED?
+Get a Sample copy of The Journal
+Sign Up Today
+			Newsletter
+			Notify Me When Education Next Posts a Big Story
+					Subscribe
+Business + Editorial Office
+Program on Education Policy and Governance
+Harvard Kennedy School
+79 JFK Street, Cambridge, MA 02138
+Phone (617) 496-5488
+Fax (617) 496-4428
+EmailEducation_Next@hks.harvard.edu
+University of Chicago Press(for subscription service to the printed journal)
+1427 E. 60th Street, Chicago, IL 60637-2902
+Phone (773) 753-3347, or toll-free in U.S. and Canada (877) 705-1878
+Email subscriptions@educationnext.org
+                DiscoverAbout Us
+The Journal
+EdFacts
+EdNext Poll
+Opinion
+Press
+Interactive Graphics
+Our Authors
+Contact Us
+                More InformationAdvertise
+User Agreement
+Privacy Policy
+Reporting Copyright Infringement
+Guidelines For Submissions
+Permissions
+FAQ
+                Web-only content Copyright © 2020 President &amp; Fellows of Harvard College
+Journal content Copyright © 2020 Education Next Institute, Inc.Site Credits            
